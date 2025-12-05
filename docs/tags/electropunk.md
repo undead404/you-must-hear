@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T03:31:27.757Z
+date: 2025-12-05T09:48:16.725Z
 permalink: tags/electropunk
 title: electropunk
 ---
 
 ## electropunk
 
-Last updated: <time datetime="2025-12-03T03:31:27.757Z">Wed Dec 03 2025 05:31:27 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T09:48:16.725Z">Fri Dec 05 2025 11:48:16 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,25 +29,7 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
   </thead>
   <tbody>
     <tr>
-      <td>47</td>
-      <td>
-          <img src="https://i.discogs.com/ocJwHUWW5en5vXSe-frYm8xpdvtj2Z1KtZ-WycR5rZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjUz/NzQtMTMzNTUwNjQ3/OC5qcGVn.jpeg" alt="Cover for The Castbreeder" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1977</td>
-      <td>Various Artists</td>
-      <td>The Castbreeder</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>56</td>
+      <td>45</td>
       <td>
       </td>
       <td>1977</td>
@@ -69,7 +51,25 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>54</td>
+      <td>
+          <img src="https://i.discogs.com/ocJwHUWW5en5vXSe-frYm8xpdvtj2Z1KtZ-WycR5rZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjUz/NzQtMTMzNTUwNjQ3/OC5qcGVn.jpeg" alt="Cover for The Castbreeder" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1977</td>
+      <td>Various Artists</td>
+      <td>The Castbreeder</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2b652e6fadeb46df9c60b1fbc9cecb59.png" alt="Cover for Suicide" style="max-width:120px; height:auto;" />
       </td>
@@ -86,13 +86,13 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       <td>
         <ul>
             <li> <a href="{{ "/tags/no-wave" | relative_url }}">no wave</a> # 6</li>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 62</li>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 74</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 27</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 38</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4a4c83e2d6495f2b6ecd68832bf87a4a.png" alt="Cover for Suicide (1998 Remastered Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -115,7 +115,7 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>91</td>
       <td>
       </td>
       <td>1980</td>
@@ -135,7 +135,7 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>59</td>
       <td>
       </td>
       <td>1994-05-10</td>
@@ -154,7 +154,7 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/03849781292b0221bace1988dd33252a.png" alt="Cover for Atom and His Package" style="max-width:120px; height:auto;" />
       </td>
@@ -175,7 +175,7 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>60</td>
       <td>
       </td>
       <td>1997-06-30</td>
@@ -188,15 +188,15 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 38</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 63</li>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 74</li>
-            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 100</li>
+            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 1</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 27</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 38</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f35a875d46c734dbd8acd361a8700386.png" alt="Cover for A Society of People Named Elihu" style="max-width:120px; height:auto;" />
       </td>
@@ -215,12 +215,12 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 74</li>
+            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 27</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/21gOeGv-jamnKsOtzAkooevpdjdTH9jw8mWEPQMTeys/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjAx/MTAtMTIzMDIzMzYy/OC5qcGVn.jpeg" alt="Cover for Das Beste Von DAF (20 Lieder der Deutsch Amerikanischen Freundschaft)" style="max-width:120px; height:auto;" />
       </td>
@@ -239,13 +239,13 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 51</li>
-            <li> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a> # 80</li>
+            <li> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a> # 21</li>
+            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/de600d064e8e4884c84f215ac43e427b.png" alt="Cover for Tight" style="max-width:120px; height:auto;" />
       </td>
@@ -259,11 +259,12 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a24ecf29664e7ab517880acddc69391c.png" alt="Cover for Greatest Hits Volume 1" style="max-width:120px; height:auto;" />
       </td>
@@ -284,7 +285,7 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/447e11390ca481b32c16c741405dca3c.png" alt="Cover for Making Love" style="max-width:120px; height:auto;" />
       </td>
@@ -304,13 +305,13 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 66</li>
+            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 35</li>
             <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>86</td>
       <td>
       </td>
       <td>2000</td>
@@ -325,13 +326,13 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 3</li>
-            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 31</li>
+            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 70</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/aPNVLxkXzaiP8-9yyr6xaoT6IHbFkea_RiU75MsqhYQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDky/NjMtMTE5MjcxNTg0/MC5qcGVn.jpeg" alt="Cover for Alienating Our Audience: Live" style="max-width:120px; height:auto;" />
       </td>
@@ -349,7 +350,7 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>98</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c73b5eaea18446c6a20ca7df7d4e7521.png" alt="Cover for Rage E.P." style="max-width:120px; height:auto;" />
       </td>
@@ -371,30 +372,13 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 62</li>
-            <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 75</li>
+            <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 25</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 38</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
-      <td>
-      </td>
-      <td>2001</td>
-      <td>The Nazis from Mars</td>
-      <td>The Nazis From Mars</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>32</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/xdClMUbUYZzF-fX1rrIA12NNxVQqtsrNmpPAc8Wfjfg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5Mzgy/LTExNDA2MTg3NDYu/anBlZw.jpeg" alt="Cover for Barto" style="max-width:120px; height:auto;" />
       </td>
@@ -413,7 +397,24 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
+      <td>
+      </td>
+      <td>2001</td>
+      <td>The Nazis from Mars</td>
+      <td>The Nazis From Mars</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b4a5949059204b7a9f40ed127f73c63f.png" alt="Cover for Redefining Music" style="max-width:120px; height:auto;" />
       </td>
@@ -432,59 +433,13 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 80</li>
-            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 80</li>
+            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 21</li>
+            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 21</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d23eadb9643b4e858a35cba899469e6c.png" alt="Cover for Addicted to You" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2002</td>
-      <td>Alec Empire</td>
-      <td>Addicted to You</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 68</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>27</td>
-      <td>
-          <img src="https://i.discogs.com/YgFaQfAhWsCdu7juLhFdun7nNZ-wjwVC5RQI7RXA3y0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNzI3/NS0xNjE4NjExNTIx/LTExMTMuanBlZw.jpeg" alt="Cover for Get With The Program... Before The Program Gets You!" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2002</td>
-      <td>The $hit</td>
-      <td>Get With The Program... Before The Program Gets You!</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 32</li>
-            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 46</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>63</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/P7Pu4ursrh69jonwY7Hjc8PUI043dTfHGf7t2w6BAGs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjEx/NjQtMTM5NTQzNDQ5/NC0xOTU1LmpwZWc.jpeg" alt="Cover for C: My Consciousness" style="max-width:120px; height:auto;" />
       </td>
@@ -522,17 +477,63 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 4</li>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 67</li>
-            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 81</li>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 85</li>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 86</li>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 90</li>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 11</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 15</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 16</li>
+            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 20</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 34</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>74</td>
+      <td>
+          <img src="https://i.discogs.com/YgFaQfAhWsCdu7juLhFdun7nNZ-wjwVC5RQI7RXA3y0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNzI3/NS0xNjE4NjExNTIx/LTExMTMuanBlZw.jpeg" alt="Cover for Get With The Program... Before The Program Gets You!" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>The $hit</td>
+      <td>Get With The Program... Before The Program Gets You!</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 55</li>
+            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 69</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d23eadb9643b4e858a35cba899469e6c.png" alt="Cover for Addicted to You" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>Alec Empire</td>
+      <td>Addicted to You</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 33</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b7b4b962c0e144c4955f07ef4484a4e9.png" alt="Cover for Hair: Debatable" style="max-width:120px; height:auto;" />
       </td>
@@ -551,12 +552,12 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 59</li>
+            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
       </td>
       <td>2004-09</td>
@@ -573,25 +574,7 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
     </tr>
     <tr>
-      <td>94</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a2fa1ad9d955475fb1664e427406cccb.png" alt="Cover for You&#39;ll Rebel To Anything" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2005-04-12</td>
-      <td>Mindless Self Indulgence</td>
-      <td>You&#39;ll Rebel To Anything</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 57</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7efe943e1398bafb4d67444f623fc6c5.png" alt="Cover for You&#39;ll Rebel to Anything (Expanded and Remastered 2008)" style="max-width:120px; height:auto;" />
       </td>
@@ -608,12 +591,30 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       <td>
         <ul>
             <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 4</li>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 85</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 13</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>7</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a2fa1ad9d955475fb1664e427406cccb.png" alt="Cover for You&#39;ll Rebel To Anything" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-04-12</td>
+      <td>Mindless Self Indulgence</td>
+      <td>You&#39;ll Rebel To Anything</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 44</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0302f78589b64ef691d0eb476dd6a385.png" alt="Cover for You&#39;ll Rebel To Anything (Expanded and Remastered)" style="max-width:120px; height:auto;" />
       </td>
@@ -631,7 +632,7 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a71ffc46ce6fd865bdef92a7d55b79a4.png" alt="Cover for Mechanical Advantage" style="max-width:120px; height:auto;" />
       </td>
@@ -650,12 +651,12 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 58</li>
+            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
       </td>
       <td>2006-05-05</td>
@@ -672,7 +673,7 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e2b1af28e9ac4493a5345bf798d00344.png" alt="Cover for The Byte Is In My Blood" style="max-width:120px; height:auto;" />
       </td>
@@ -691,34 +692,12 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 55</li>
+            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 45</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/789f84dee4a3329931498756fccf3c66.png" alt="Cover for Covers EP" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2007</td>
-      <td>Math the Band</td>
-      <td>Covers EP</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 49</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>46</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/752303699bc0a919a4318f4991a03713.png" alt="Cover for The Album" style="max-width:120px; height:auto;" />
       </td>
@@ -735,12 +714,34 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 57</li>
+            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>78</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/789f84dee4a3329931498756fccf3c66.png" alt="Cover for Covers EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Math the Band</td>
+      <td>Covers EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 52</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
       <td>
       </td>
       <td>2007</td>
@@ -759,7 +760,7 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>88</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ecd431900133288497b2353d9c13c22b.png" alt="Cover for in the Decemberwrist" style="max-width:120px; height:auto;" />
       </td>
@@ -779,7 +780,7 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e915972c9da4d941a00a6bab4202b7b3.png" alt="Cover for Lustprinzip" style="max-width:120px; height:auto;" />
       </td>
@@ -794,12 +795,12 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 72</li>
+            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>100</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1bb9774af1b14d4d19eaecf68cf7635d.png" alt="Cover for Banned the Math" style="max-width:120px; height:auto;" />
       </td>
@@ -817,12 +818,12 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 29</li>
+            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>56</td>
       <td>
       </td>
       <td>2008-05-12</td>
@@ -840,7 +841,7 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>83</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/597231b750034cba89aa11c65d098080.png" alt="Cover for Arbeit nervt" style="max-width:120px; height:auto;" />
       </td>
@@ -858,7 +859,7 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/772da56b06aa45359ce2118f47079130.png" alt="Cover for Kotzen &#x2F; Raven gegen Deutschland" style="max-width:120px; height:auto;" />
       </td>
@@ -877,12 +878,12 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 42</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/jAR_Qgd_4d4ixhHmdFd2cWdikjTH-moXCbbxHNBYpJ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTA3/OTAtMTIyNzczNzc4/Ny5qcGVn.jpeg" alt="Cover for Die Young : Stay Pretty" style="max-width:120px; height:auto;" />
       </td>
@@ -916,14 +917,14 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 2</li>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 7</li>
-            <li> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a> # 21</li>
+            <li> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a> # 80</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 93</li>
+            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
       </td>
       <td>2008-11-14</td>
@@ -940,7 +941,7 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>97</td>
       <td>
       </td>
       <td>2008-12-04</td>
@@ -959,12 +960,12 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 30</li>
+            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0b2161613def4fd4915d02474cdc2ee9.png" alt="Cover for Motion Sickness EP" style="max-width:120px; height:auto;" />
       </td>
@@ -983,7 +984,7 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3632505020107debb71299d17b0da679.png" alt="Cover for Shivers" style="max-width:120px; height:auto;" />
       </td>
@@ -997,14 +998,14 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 24</li>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 34</li>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 68</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 33</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 67</li>
+            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/_kDwRuV9-KHnb-DP3mMYTm4QqdS6hgB8ZY_E0GPrCc4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjU2/MzQtMTY4NTg5NDUw/NS05NzI5LmpwZWc.jpeg" alt="Cover for Black Kingdom Red Kingdom" style="max-width:120px; height:auto;" />
       </td>
@@ -1018,12 +1019,12 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 87</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 13</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/FQuwpY_oL65x1IrNbWbn7VgD2__pc8_PtD2VHDml9rs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTkt/MTY1ODI1ODM4Ny00/NDE1LmpwZWc.jpeg" alt="Cover for World&#39;s on Fire (Live at Milton Keynes Bowl) [2020 Remaster]" style="max-width:120px; height:auto;" />
       </td>
@@ -1046,12 +1047,12 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 4</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/79d3cd001b644ae6bcd5afcd1977a4ed.png" alt="Cover for The Bachelor" style="max-width:120px; height:auto;" />
       </td>
@@ -1066,14 +1067,14 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 83</li>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 97</li>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 98</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 3</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 4</li>
+            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 18</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f90acea2bae6ed7366584dd517a230de.png" alt="Cover for Adventures In Eville" style="max-width:120px; height:auto;" />
       </td>
@@ -1093,7 +1094,7 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/86ed6a5a39717dfc5e7ad00943874b40.png" alt="Cover for Der Film" style="max-width:120px; height:auto;" />
       </td>
@@ -1109,13 +1110,13 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 82</li>
-            <li> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a> # 82</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 18</li>
+            <li> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a> # 19</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>84</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bfb4d18d79a2a2f370cf083a363dfb7f.png" alt="Cover for All The Freaks" style="max-width:120px; height:auto;" />
       </td>
@@ -1144,14 +1145,14 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 71</li>
-            <li> <a href="{{ "/tags/ibiza" | relative_url }}">ibiza</a> # 79</li>
-            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 82</li>
+            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 19</li>
+            <li> <a href="{{ "/tags/ibiza" | relative_url }}">ibiza</a> # 22</li>
+            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 30</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e328606823c8487fa1bf1693b8ad604f.png" alt="Cover for Kid, Just Letting You Know We Are Doing It Again" style="max-width:120px; height:auto;" />
       </td>
@@ -1164,14 +1165,14 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 1</li>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 59</li>
-            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 93</li>
+            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 8</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 42</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/sQfZYA4EGpqERvzMj7InHdusyiDVZz-fO-L_XpBHdOQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjM4/MzItMTYwMjAwNjUy/My0xMTA2LmpwZWc.jpeg" alt="Cover for Frittenbude RMXs" style="max-width:120px; height:auto;" />
       </td>
@@ -1191,7 +1192,7 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>94</td>
       <td>
       </td>
       <td>2010-03-19</td>
@@ -1212,7 +1213,7 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/Hisagn0oYXh1JUfp2gbAHFF4cgsZbwlZCeKX_e-G2ms/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODkz/NjEtMTI5MTk3NjQ2/NC5qcGVn.jpeg" alt="Cover for Paula" style="max-width:120px; height:auto;" />
       </td>
@@ -1228,12 +1229,12 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a> # 64</li>
+            <li> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a> # 37</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>99</td>
       <td>
           <img src="https://i.discogs.com/E4Ny84A85h93ol4CHPnyM0ugRjcYKOM_QnpWIGtI1zA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODM1/MDQtMTI3NTAzMjkz/Ni5qcGVn.jpeg" alt="Cover for No Worries &#x2F; Tease Me" style="max-width:120px; height:auto;" />
       </td>
@@ -1268,15 +1269,15 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 22</li>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 61</li>
-            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 72</li>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 74</li>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 27</li>
+            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 29</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 40</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/5Kr2c19VCMl6Epd0A_SVdzKgomU88P3_2xVY37wt7TE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMzA1/NzctMTM4NTMyNDY0/OS00MTgwLmpwZWc.jpeg" alt="Cover for Call The Cops!" style="max-width:120px; height:auto;" />
       </td>
@@ -1294,7 +1295,7 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/45de5b3b6d4f4f5c8b1c59f414bce86a.png" alt="Cover for Airbrushed" style="max-width:120px; height:auto;" />
       </td>
@@ -1314,15 +1315,15 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 1</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 4</li>
             <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 8</li>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 92</li>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 97</li>
-            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 100</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 9</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f4cd5c808f097a715cbfdf7790f3b707.png" alt="Cover for My Skateboard Will Go On" style="max-width:120px; height:auto;" />
       </td>
@@ -1341,14 +1342,14 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 90</li>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 95</li>
-            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 99</li>
+            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 2</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 6</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 11</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/UeckZFQZ1AWR_2t4fekfimUtcAK2RP4mPIIg8TRo-7o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTE4/OTUtMTI4ODAzNTQx/OC5qcGVn.jpeg" alt="Cover for Aurora" style="max-width:120px; height:auto;" />
       </td>
@@ -1367,12 +1368,12 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 61</li>
+            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 40</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/VvEzCPnDI5ExkKFJUV8fKsN2OeoswCX8EM2ysHntu2U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTQx/NzItMTMxNjQzNzI5/Ny5qcGVn.jpeg" alt="Cover for Black Flags" style="max-width:120px; height:auto;" />
       </td>
@@ -1394,14 +1395,14 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 18</li>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 69</li>
-            <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 81</li>
+            <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 19</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 32</li>
+            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>95</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/08de5bd333b9fd15219f2bc2ca3fb9a4.png" alt="Cover for Cherryland (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -1420,7 +1421,7 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/215cc939048f3335cf39bf78cdde6d0d.png" alt="Cover for Whatever" style="max-width:120px; height:auto;" />
       </td>
@@ -1441,7 +1442,7 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
       </td>
       <td>2011-10-25</td>
@@ -1459,14 +1460,14 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 47</li>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 56</li>
-            <li> <a href="{{ "/tags/broken-beat" | relative_url }}">broken beat</a> # 73</li>
+            <li> <a href="{{ "/tags/broken-beat" | relative_url }}">broken beat</a> # 28</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 43</li>
+            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/410999b7a8698b96af29bf51c6f60c9e.png" alt="Cover for Get Real" style="max-width:120px; height:auto;" />
       </td>
@@ -1485,14 +1486,14 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 41</li>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 45</li>
-            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 88</li>
+            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 13</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 56</li>
+            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/zx4jHzJlvlWmUdXWEOGfCbo1doghz2E4CO2M1YmdRSI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0ODU3/OTYtMTM2ODc2NjQ1/MC05MDAwLmpwZWc.jpeg" alt="Cover for How I Learned To Stop Giving A Shit And Love Mindless Self Indulgence (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1510,7 +1511,7 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/242d3769926a41ffc15fcb9f3ad33b7a.png" alt="Cover for Stupid and Weird" style="max-width:120px; height:auto;" />
       </td>
@@ -1529,12 +1530,12 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 63</li>
+            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 38</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/_f9Zpgs0qhSUIZSt7UE-HOssPv-I8f1UMQuyAjEH4hw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NTIy/OTAtMTQ1MjMxMTgx/NC05MDE4LmpwZWc.jpeg" alt="Cover for Волчок" style="max-width:120px; height:auto;" />
       </td>
@@ -1550,12 +1551,12 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drag" | relative_url }}">drag</a> # 81</li>
+            <li> <a href="{{ "/tags/drag" | relative_url }}">drag</a> # 19</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>96</td>
       <td>
           <img src="https://i.discogs.com/_9NPrKnFzGaYs_LmVhDMXZ2EVvY0-Twvn-HfLd-s1M0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NDA2/NDItMTQyMTU4NzI1/NC00MDQ5LmpwZWc.jpeg" alt="Cover for Dawn" style="max-width:120px; height:auto;" />
       </td>
@@ -1578,7 +1579,7 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7410149e670de404578238618af2aec6.png" alt="Cover for Math the Band the Band The Album" style="max-width:120px; height:auto;" />
       </td>
@@ -1596,12 +1597,12 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 67</li>
+            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7fa2885c174d7b70d3acdeda366175f5.png" alt="Cover for Egotronic C’est Moi!" style="max-width:120px; height:auto;" />
       </td>
@@ -1623,7 +1624,30 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>27</td>
+      <td>
+          <img src="https://i.discogs.com/lWaIIZkNfSc360Rt9g0kUb6wnyveKtE5Jf9P86drh4U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDIw/OTAyLTE2MzcxODY1/NDMtOTk2MC5qcGVn.jpeg" alt="Cover for Hopes and Dreams" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-01</td>
+      <td>Anamanaguchi</td>
+      <td>Hopes and Dreams</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 9</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 62</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/82E7VrSgK4uwKtv27s21s9yrdi5c6GRoUvknoHs5Fic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMTc0/Ni0xNDE0NTk4OTcz/LTMwMTYuanBlZw.jpeg" alt="Cover for Meow - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1646,37 +1670,14 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 52</li>
-            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 68</li>
-            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 90</li>
+            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 11</li>
+            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 32</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>74</td>
-      <td>
-          <img src="https://i.discogs.com/lWaIIZkNfSc360Rt9g0kUb6wnyveKtE5Jf9P86drh4U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDIw/OTAyLTE2MzcxODY1/NDMtOTk2MC5qcGVn.jpeg" alt="Cover for Hopes and Dreams" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2015-01</td>
-      <td>Anamanaguchi</td>
-      <td>Hopes and Dreams</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 62</li>
-            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 92</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>78</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f65e4108836647f8bd6d1eb0afe11059.png" alt="Cover for World&#39;s On Fire (Live)" style="max-width:120px; height:auto;" />
       </td>
@@ -1698,7 +1699,7 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/cIZrhGrfvcC5wcr2Jyb0jIL1qfmFKG4kbmoKOPTJXB0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzIx/NTI0LTE1MDMwNzIw/MDAtNjQyOC5qcGVn.jpeg" alt="Cover for CEASE AND DESIST" style="max-width:120px; height:auto;" />
       </td>
@@ -1717,16 +1718,16 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 60</li>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 89</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 92</li>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 98</li>
-            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 99</li>
+            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 2</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 3</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 9</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 12</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/800ef9651157994cea29380b807b4000.png" alt="Cover for Fickt-Euch-Allee EP (Bonus Track Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1745,12 +1746,12 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 7</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9c5307e84dfd35433cf6054b26c48c49.png" alt="Cover for Fickt-Euch-Allee (Episode 1)" style="max-width:120px; height:auto;" />
       </td>
@@ -1774,7 +1775,7 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d5de830008727f104c71a3ee79844159.png" alt="Cover for Gate" style="max-width:120px; height:auto;" />
       </td>
@@ -1797,14 +1798,14 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 8</li>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 8</li>
-            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 53</li>
+            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 48</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 92</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/ETFGSQKMlja3_DEh4Rm0IB3kWFlPZ_v94TiNvEbRfTA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTU3/ODY3LTE0OTI2MjQw/NTctMzE4MS5qcGVn.jpeg" alt="Cover for A Skeleton Key in the Doors of Depression" style="max-width:120px; height:auto;" />
       </td>
@@ -1826,13 +1827,13 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 51</li>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 51</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 47</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/r5WLvaWkWBUihOHqxG1qFB6VkKDj9PrNmzYwuql1GLg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzc0/MzEyLTE1MjIxNTYw/NjAtMjc2NC5qcGVn.jpeg" alt="Cover for Dick Back In Town" style="max-width:120px; height:auto;" />
       </td>
@@ -1855,7 +1856,7 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dd969534be0dbcc26b71e3c66c88f8d7.png" alt="Cover for Грустная девчонка с глазами как у собаки" style="max-width:120px; height:auto;" />
       </td>
@@ -1871,12 +1872,12 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ukrainian" | relative_url }}">ukrainian</a> # 55</li>
+            <li> <a href="{{ "/tags/ukrainian" | relative_url }}">ukrainian</a> # 45</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0808b8243bcaaf064e4d4bededde5cf3.png" alt="Cover for This Behavior" style="max-width:120px; height:auto;" />
       </td>
@@ -1896,13 +1897,13 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 25</li>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 41</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 60</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d2e7f3cc21190da2ec1f97d6b568ebdc.png" alt="Cover for Goo Munday" style="max-width:120px; height:auto;" />
       </td>
@@ -1924,7 +1925,7 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/M1KhlnPvhHe_ae1tVfhjKsS2vjY4YKKWNJjISqeI2Dk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjM2/MjE5LTE1NTA0NzAw/OTgtMTQzNC5qcGVn.jpeg" alt="Cover for Shari Vari &#x2F; 122 Hours of Fear" style="max-width:120px; height:auto;" />
       </td>
@@ -1941,13 +1942,13 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 1</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 18</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 83</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a1272832c5f532eb27ac2b12a7d2c506.png" alt="Cover for Synth up the Punx" style="max-width:120px; height:auto;" />
       </td>
@@ -1967,7 +1968,7 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/571fdb8cba922db1ac83f9fe2d998457.png" alt="Cover for Perception is&#x2F;as&#x2F;of Deception" style="max-width:120px; height:auto;" />
       </td>
@@ -1989,15 +1990,15 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 19</li>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 30</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 43</li>
-            <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 81</li>
+            <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 20</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 58</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 71</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/75bd1f4a87e4e3692ee0b9921b2d5b77.png" alt="Cover for Reincarnated" style="max-width:120px; height:auto;" />
       </td>
@@ -2024,17 +2025,17 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 31</li>
-            <li> <a href="{{ "/tags/new-jack-swing" | relative_url }}">new jack swing</a> # 61</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 64</li>
-            <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 64</li>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 76</li>
-            <li> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a> # 99</li>
+            <li> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a> # 2</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 24</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 34</li>
+            <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 37</li>
+            <li> <a href="{{ "/tags/new-jack-swing" | relative_url }}">new jack swing</a> # 40</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/19448923a721a7ac56c1130e525b5687.png" alt="Cover for Trans Am" style="max-width:120px; height:auto;" />
       </td>
@@ -2054,13 +2055,13 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/alternative-electronic" | relative_url }}">alternative electronic</a> # 13</li>
             <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 81</li>
-            <li> <a href="{{ "/tags/alternative-electronic" | relative_url }}">alternative electronic</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/CQCtbDCzBaITYVW32pMbLNSRW_ZADev1bt3tcU-rVvM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mzk2/MzE0LTE2MTM3Mzg4/MjAtNDE3Ny5qcGVn.jpeg" alt="Cover for Album" style="max-width:120px; height:auto;" />
       </td>
@@ -2075,12 +2076,12 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 31</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/UvYIcHlIcL7phHIbeI4us4g0L-2wGkRpJ13f84FOwxk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTI0/NTQ1LTE2MTA2Mzgx/MzctODExMi5qcGVn.jpeg" alt="Cover for Wire" style="max-width:120px; height:auto;" />
       </td>
@@ -2103,16 +2104,16 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 60</li>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 70</li>
-            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 82</li>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 89</li>
-            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 98</li>
+            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 3</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 11</li>
+            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 19</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 31</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/Zjib4vITWi00Al8_lTq6YrkxOqE-rscgrEKCJrBJ8-Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDQw/NTg3LTE2MjI5OTgx/OTItMzUyOC5wbmc.jpeg" alt="Cover for SEAWEED JESUS" style="max-width:120px; height:auto;" />
       </td>
@@ -2130,7 +2131,7 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/0cHoO1uPPjlc27xirvKPzReo2gcG6LNSIWWzFIuM3uI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjk0/NzM5LTE2MzkxMjQx/OTctMjMxOS5qcGVn.jpeg" alt="Cover for Bis Einer Heult !!!" style="max-width:120px; height:auto;" />
       </td>
@@ -2150,7 +2151,7 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b4cca812c9d0bf71f88e3abdfaf798b6.png" alt="Cover for РАЗГОВОРЫ С БОМЖИХАМИ" style="max-width:120px; height:auto;" />
       </td>
@@ -2169,12 +2170,12 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 68</li>
+            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/tFmOxR65WedeTpX337Gkf4Oo0G3Gva4cMjoU6_4iNLc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzI0/Mjg5LTE2NjQ5NTMx/ODktNDg2NC5qcGVn.jpeg" alt="Cover for Alle Kinder sind tot" style="max-width:120px; height:auto;" />
       </td>
@@ -2192,7 +2193,7 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/638d966c11feb9b38ac5b8e4d418bc80.png" alt="Cover for Rabatt" style="max-width:120px; height:auto;" />
       </td>
@@ -2214,15 +2215,15 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 55</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 64</li>
-            <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 88</li>
-            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 92</li>
+            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 8</li>
+            <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 13</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 37</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 45</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/307aa3c27892dd69909f48385e3de2d4.png" alt="Cover for Let&#39;s Hope Heteros Fail, Learn and Retire" style="max-width:120px; height:auto;" />
       </td>
@@ -2239,7 +2240,7 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf61bff30681d0b9b8ffb5a495bba55c.png" alt="Cover for Push" style="max-width:120px; height:auto;" />
       </td>
@@ -2260,15 +2261,15 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 31</li>
-            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 53</li>
-            <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 74</li>
-            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 75</li>
+            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 26</li>
+            <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 26</li>
+            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 47</li>
+            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0bf9a01a76ffcb7b27aae7efcd5f639f.png" alt="Cover for Haare eines Hundes" style="max-width:120px; height:auto;" />
       </td>
@@ -2291,62 +2292,14 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 80</li>
-            <li> <a href="{{ "/tags/punk-pop" | relative_url }}">punk pop</a> # 86</li>
-            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 92</li>
+            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 9</li>
+            <li> <a href="{{ "/tags/punk-pop" | relative_url }}">punk pop</a> # 15</li>
+            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 21</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>37</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Totally Radd!!</td>
-      <td>Shark Attack Day Camp</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 62</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>66</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c5b53f46f158f0394d55b68a72bd84b3.png" alt="Cover for The End Is Close. Almost No Need For Money." style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>GO! With Fourteen O</td>
-      <td>The End Is Close. Almost No Need For Money.</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 34</li>
-            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 75</li>
-            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 83</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/948f407c5a2848d090d9562bfa32f493.png" alt="Cover for Venom" style="max-width:120px; height:auto;" />
       </td>
@@ -2369,13 +2322,61 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 39</li>
-            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 55</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 6</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 18</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 19</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 19</li>
+            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 46</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 61</li>
             <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 66</li>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 82</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 82</li>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 83</li>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 95</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c5b53f46f158f0394d55b68a72bd84b3.png" alt="Cover for The End Is Close. Almost No Need For Money." style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>GO! With Fourteen O</td>
+      <td>The End Is Close. Almost No Need For Money.</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 18</li>
+            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 26</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 67</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Totally Radd!!</td>
+      <td>Shark Attack Day Camp</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 39</li>
         </ul>
       </td>
     </tr>

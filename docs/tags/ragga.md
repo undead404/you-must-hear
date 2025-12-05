@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T03:33:04.079Z
+date: 2025-12-05T09:49:59.986Z
 permalink: tags/ragga
 title: ragga
 ---
 
 ## ragga
 
-Last updated: <time datetime="2025-12-03T03:33:04.079Z">Wed Dec 03 2025 05:33:04 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T09:49:59.986Z">Fri Dec 05 2025 11:49:59 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -104,7 +104,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 28</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 73</li>
             <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 76</li>
         </ul>
       </td>
@@ -125,7 +125,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jamaica" | relative_url }}">jamaica</a> # 51</li>
+            <li> <a href="{{ "/tags/jamaica" | relative_url }}">jamaica</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -202,8 +202,8 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/old-school-hardcore" | relative_url }}">old school hardcore</a> # 65</li>
-            <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 80</li>
+            <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 20</li>
+            <li> <a href="{{ "/tags/old-school-hardcore" | relative_url }}">old school hardcore</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -241,9 +241,9 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 49</li>
-            <li> <a href="{{ "/tags/jamaica" | relative_url }}">jamaica</a> # 63</li>
-            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 90</li>
+            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 11</li>
+            <li> <a href="{{ "/tags/jamaica" | relative_url }}">jamaica</a> # 38</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -282,7 +282,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 79</li>
+            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -320,7 +320,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ragga-reggae" | relative_url }}">ragga-reggae</a> # 69</li>
+            <li> <a href="{{ "/tags/ragga-reggae" | relative_url }}">ragga-reggae</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -414,7 +414,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ragga-reggae" | relative_url }}">ragga-reggae</a> # 65</li>
+            <li> <a href="{{ "/tags/ragga-reggae" | relative_url }}">ragga-reggae</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -458,8 +458,8 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancehall-reggae" | relative_url }}">dancehall reggae</a> # 28</li>
-            <li> <a href="{{ "/tags/ragga-reggae" | relative_url }}">ragga-reggae</a> # 87</li>
+            <li> <a href="{{ "/tags/ragga-reggae" | relative_url }}">ragga-reggae</a> # 14</li>
+            <li> <a href="{{ "/tags/dancehall-reggae" | relative_url }}">dancehall reggae</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -503,7 +503,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 74</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -526,7 +526,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jamaica" | relative_url }}">jamaica</a> # 13</li>
+            <li> <a href="{{ "/tags/jamaica" | relative_url }}">jamaica</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -615,7 +615,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 21</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -711,7 +711,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jamaican" | relative_url }}">jamaican</a> # 85</li>
+            <li> <a href="{{ "/tags/jamaican" | relative_url }}">jamaican</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -732,7 +732,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jamaica" | relative_url }}">jamaica</a> # 50</li>
+            <li> <a href="{{ "/tags/jamaica" | relative_url }}">jamaica</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -753,7 +753,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ragga-reggae" | relative_url }}">ragga-reggae</a> # 54</li>
+            <li> <a href="{{ "/tags/ragga-reggae" | relative_url }}">ragga-reggae</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -791,7 +791,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 62</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -845,7 +845,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jamaican" | relative_url }}">jamaican</a> # 76</li>
+            <li> <a href="{{ "/tags/jamaican" | relative_url }}">jamaican</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -883,7 +883,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 34</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -901,8 +901,8 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jamaican" | relative_url }}">jamaican</a> # 32</li>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 96</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 14</li>
+            <li> <a href="{{ "/tags/jamaican" | relative_url }}">jamaican</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -922,7 +922,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 40</li>
+            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1001,8 +1001,8 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 22</li>
-            <li> <a href="{{ "/tags/ragga-reggae" | relative_url }}">ragga-reggae</a> # 95</li>
+            <li> <a href="{{ "/tags/ragga-reggae" | relative_url }}">ragga-reggae</a> # 6</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1021,7 +1021,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 7</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1168,8 +1168,8 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polskie" | relative_url }}">polskie</a> # 41</li>
-            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 46</li>
+            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 55</li>
+            <li> <a href="{{ "/tags/polskie" | relative_url }}">polskie</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1189,8 +1189,8 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 31</li>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 68</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 33</li>
+            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1211,8 +1211,8 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 33</li>
-            <li> <a href="{{ "/tags/ragga-reggae" | relative_url }}">ragga-reggae</a> # 96</li>
+            <li> <a href="{{ "/tags/ragga-reggae" | relative_url }}">ragga-reggae</a> # 5</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1231,9 +1231,9 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 89</li>
-            <li> <a href="{{ "/tags/jamaica" | relative_url }}">jamaica</a> # 94</li>
-            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 100</li>
+            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 1</li>
+            <li> <a href="{{ "/tags/jamaica" | relative_url }}">jamaica</a> # 5</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1271,8 +1271,8 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 86</li>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 93</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 7</li>
+            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1292,7 +1292,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 51</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1365,7 +1365,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jamaican" | relative_url }}">jamaican</a> # 96</li>
+            <li> <a href="{{ "/tags/jamaican" | relative_url }}">jamaican</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1386,8 +1386,8 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 80</li>
-            <li> <a href="{{ "/tags/jamaica" | relative_url }}">jamaica</a> # 99</li>
+            <li> <a href="{{ "/tags/jamaica" | relative_url }}">jamaica</a> # 2</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1408,7 +1408,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/portuguese" | relative_url }}">portuguese</a> # 37</li>
+            <li> <a href="{{ "/tags/portuguese" | relative_url }}">portuguese</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1426,9 +1426,9 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/roots-reggae" | relative_url }}">roots reggae</a> # 41</li>
-            <li> <a href="{{ "/tags/dancehall-reggae" | relative_url }}">dancehall reggae</a> # 86</li>
-            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 97</li>
+            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 4</li>
+            <li> <a href="{{ "/tags/dancehall-reggae" | relative_url }}">dancehall reggae</a> # 15</li>
+            <li> <a href="{{ "/tags/roots-reggae" | relative_url }}">roots reggae</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1507,7 +1507,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 24</li>
+            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1531,7 +1531,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 79</li>
+            <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1550,7 +1550,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 17</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1587,7 +1587,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 28</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1610,8 +1610,8 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 62</li>
-            <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 88</li>
+            <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 13</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1709,8 +1709,8 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 23</li>
-            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 91</li>
+            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 10</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1731,7 +1731,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 53</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1772,7 +1772,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 39</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1898,8 +1898,8 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 50</li>
-            <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 80</li>
+            <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 21</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1980,7 +1980,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 95</li>
+            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -2001,8 +2001,8 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 65</li>
-            <li> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a> # 90</li>
+            <li> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a> # 10</li>
+            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 35</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T03:29:53.908Z
+date: 2025-12-05T09:45:51.118Z
 permalink: tags/lullabies
 title: lullabies
 ---
 
 ## lullabies
 
-Last updated: <time datetime="2025-12-03T03:29:53.908Z">Wed Dec 03 2025 05:29:53 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T09:45:51.118Z">Fri Dec 05 2025 11:45:51 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -43,12 +43,13 @@ Lullabies are gentle, soothing songs designed to calm infants and young children
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 8</li>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 14</li>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 22</li>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 76</li>
-            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 92</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 96</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 5</li>
+            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 9</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 25</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 78</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 87</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 92</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -85,8 +86,8 @@ Lullabies are gentle, soothing songs designed to calm infants and young children
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 28</li>
-            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 89</li>
+            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 12</li>
+            <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -109,7 +110,7 @@ Lullabies are gentle, soothing songs designed to calm infants and young children
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>86</td>
       <td>
       </td>
       <td>1977</td>
@@ -118,6 +119,22 @@ Lullabies are gentle, soothing songs designed to calm infants and young children
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lullabies" | relative_url }}">lullabies</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>
+      </td>
+      <td>1982</td>
+      <td>Linda Arnold</td>
+      <td>Celtic Twilight, Vol. 3: Lullabies</td>
+      <td>
+        <ul>
         </ul>
       </td>
       <td>
@@ -181,7 +198,7 @@ Lullabies are gentle, soothing songs designed to calm infants and young children
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>85</td>
       <td>
       </td>
       <td>1990</td>
@@ -215,7 +232,7 @@ Lullabies are gentle, soothing songs designed to calm infants and young children
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avantgarde-pop" | relative_url }}">avantgarde pop</a> # 89</li>
+            <li> <a href="{{ "/tags/avantgarde-pop" | relative_url }}">avantgarde pop</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -583,7 +600,7 @@ Lullabies are gentle, soothing songs designed to calm infants and young children
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>93</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fa3988101cf8444eb9d98632f96edba2.png" alt="Cover for Classical Dreams" style="max-width:120px; height:auto;" />
       </td>
@@ -738,7 +755,7 @@ Lullabies are gentle, soothing songs designed to calm infants and young children
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>94</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0bd80085552c4a539f7a72568f92ba20.png" alt="Cover for Baby Einstein Wake Up and Goodnight" style="max-width:120px; height:auto;" />
       </td>
@@ -895,7 +912,7 @@ Lullabies are gentle, soothing songs designed to calm infants and young children
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>95</td>
       <td>
           <img src="https://i.discogs.com/zBKH75t4Bu-_F9ZJQtuoofZtnrhENY2eQoXRKDwzl50/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MzU4/ODAtMTQ3MTgwMTQz/OC0xODgwLmpwZWc.jpeg" alt="Cover for Empty Lullabies" style="max-width:120px; height:auto;" />
       </td>
@@ -928,7 +945,7 @@ Lullabies are gentle, soothing songs designed to calm infants and young children
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a> # 63</li>
+            <li> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -950,7 +967,7 @@ Lullabies are gentle, soothing songs designed to calm infants and young children
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>90</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cde716628b164ab299fc47911534819e.png" alt="Cover for Vögguvísur" style="max-width:120px; height:auto;" />
       </td>
@@ -1005,7 +1022,7 @@ Lullabies are gentle, soothing songs designed to calm infants and young children
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>99</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7a38e33eea3ab4ec95687538b8bd3029.png" alt="Cover for Greensleeves" style="max-width:120px; height:auto;" />
       </td>
@@ -1019,12 +1036,12 @@ Lullabies are gentle, soothing songs designed to calm infants and young children
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 9</li>
+            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>97</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7cbe339f646a4a899272fc3c62990ccb.png" alt="Cover for Soothing Piano Lullabies" style="max-width:120px; height:auto;" />
       </td>
@@ -1042,7 +1059,7 @@ Lullabies are gentle, soothing songs designed to calm infants and young children
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>87</td>
       <td>
       </td>
       <td>2014-08</td>
@@ -1209,7 +1226,7 @@ Lullabies are gentle, soothing songs designed to calm infants and young children
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>92</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e4ebf3d11db0cbbbce35ea88fe998d78.png" alt="Cover for Lullabye Renditions of The Rolling Stones" style="max-width:120px; height:auto;" />
       </td>
@@ -1659,23 +1676,6 @@ Lullabies are gentle, soothing songs designed to calm infants and young children
       <td>
       </td>
       <td></td>
-      <td>Popscotch</td>
-      <td>Funky Songs And Nursery Rhymes For Kids Vol. 3</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lullabies" | relative_url }}">lullabies</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>83</td>
-      <td>
-      </td>
-      <td></td>
       <td>Lullaby Baby</td>
       <td>Children&#39;s Music Box Vol. 1 - Music Box Lullaby Music</td>
       <td>
@@ -1689,7 +1689,7 @@ Lullabies are gentle, soothing songs designed to calm infants and young children
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>83</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a22546740e0e6f53995e3c3c30306d42.png" alt="Cover for Rockabye Baby! Lullaby Renditions of Nine Inch Nails" style="max-width:120px; height:auto;" />
       </td>
@@ -1707,7 +1707,7 @@ Lullabies are gentle, soothing songs designed to calm infants and young children
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>84</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a09d69e93fdeaebd180b4e627ebdd318.png" alt="Cover for Rockabye Baby! Lullaby Renditions of Bob Marley" style="max-width:120px; height:auto;" />
       </td>
@@ -1726,7 +1726,7 @@ Lullabies are gentle, soothing songs designed to calm infants and young children
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>88</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/027c0f872138acac6b44ed4cbcd4e156.png" alt="Cover for Rockabye Baby! Lullaby Renditions of The Beach Boys" style="max-width:120px; height:auto;" />
       </td>
@@ -1745,7 +1745,7 @@ Lullabies are gentle, soothing songs designed to calm infants and young children
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>89</td>
       <td>
       </td>
       <td></td>
@@ -1795,7 +1795,7 @@ Lullabies are gentle, soothing songs designed to calm infants and young children
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/eb23adc9212b459f80fb3262ca28e70d.png" alt="Cover for Obstinsanity" style="max-width:120px; height:auto;" />
       </td>
@@ -1816,7 +1816,7 @@ Lullabies are gentle, soothing songs designed to calm infants and young children
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>96</td>
       <td>
       </td>
       <td></td>
@@ -1833,7 +1833,7 @@ Lullabies are gentle, soothing songs designed to calm infants and young children
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>98</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/40343f45941f450da1369a8f418d0ce0.png" alt="Cover for Música para Bebês - Cantigas de Roda" style="max-width:120px; height:auto;" />
       </td>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T03:36:14.009Z
+date: 2025-12-05T09:52:42.846Z
 permalink: tags/jazz-piano
 title: jazz piano
 ---
 
 ## jazz piano
 
-Last updated: <time datetime="2025-12-03T03:36:14.009Z">Wed Dec 03 2025 05:36:14 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T09:52:42.846Z">Fri Dec 05 2025 11:52:42 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -125,7 +125,7 @@ Jazz piano is a sophisticated improvisational style rooted in African American m
       <td>
         <ul>
             <li> <a href="{{ "/tags/cool-jazz" | relative_url }}">cool jazz</a> # 5</li>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 6</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -178,7 +178,7 @@ Jazz piano is a sophisticated improvisational style rooted in African American m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-jazz" | relative_url }}">piano jazz</a> # 45</li>
+            <li> <a href="{{ "/tags/piano-jazz" | relative_url }}">piano jazz</a> # 54</li>
             <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 99</li>
         </ul>
       </td>
@@ -254,7 +254,7 @@ Jazz piano is a sophisticated improvisational style rooted in African American m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-trio" | relative_url }}">jazz trio</a> # 89</li>
+            <li> <a href="{{ "/tags/jazz-trio" | relative_url }}">jazz trio</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -274,7 +274,7 @@ Jazz piano is a sophisticated improvisational style rooted in African American m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-trio" | relative_url }}">jazz trio</a> # 98</li>
+            <li> <a href="{{ "/tags/jazz-trio" | relative_url }}">jazz trio</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -310,7 +310,7 @@ Jazz piano is a sophisticated improvisational style rooted in African American m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-trio" | relative_url }}">jazz trio</a> # 97</li>
+            <li> <a href="{{ "/tags/jazz-trio" | relative_url }}">jazz trio</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -383,7 +383,7 @@ Jazz piano is a sophisticated improvisational style rooted in African American m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-jazz" | relative_url }}">piano jazz</a> # 77</li>
+            <li> <a href="{{ "/tags/piano-jazz" | relative_url }}">piano jazz</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -460,7 +460,7 @@ Jazz piano is a sophisticated improvisational style rooted in African American m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a> # 47</li>
+            <li> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -480,7 +480,7 @@ Jazz piano is a sophisticated improvisational style rooted in African American m
       <td>
         <ul>
             <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 24</li>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 67</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -502,8 +502,8 @@ Jazz piano is a sophisticated improvisational style rooted in African American m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 48</li>
-            <li> <a href="{{ "/tags/cuban" | relative_url }}">cuban</a> # 72</li>
+            <li> <a href="{{ "/tags/cuban" | relative_url }}">cuban</a> # 29</li>
+            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -559,7 +559,7 @@ Jazz piano is a sophisticated improvisational style rooted in African American m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 49</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -634,7 +634,7 @@ Jazz piano is a sophisticated improvisational style rooted in African American m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 17</li>
+            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -673,7 +673,7 @@ Jazz piano is a sophisticated improvisational style rooted in African American m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-jazz" | relative_url }}">piano jazz</a> # 100</li>
+            <li> <a href="{{ "/tags/piano-jazz" | relative_url }}">piano jazz</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -731,7 +731,7 @@ Jazz piano is a sophisticated improvisational style rooted in African American m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 100</li>
+            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -785,8 +785,8 @@ Jazz piano is a sophisticated improvisational style rooted in African American m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-trio" | relative_url }}">jazz trio</a> # 58</li>
-            <li> <a href="{{ "/tags/piano-jazz" | relative_url }}">piano jazz</a> # 85</li>
+            <li> <a href="{{ "/tags/piano-jazz" | relative_url }}">piano jazz</a> # 15</li>
+            <li> <a href="{{ "/tags/jazz-trio" | relative_url }}">jazz trio</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -932,7 +932,7 @@ Jazz piano is a sophisticated improvisational style rooted in African American m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 47</li>
+            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1095,7 +1095,7 @@ Jazz piano is a sophisticated improvisational style rooted in African American m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 42</li>
+            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1132,7 +1132,7 @@ Jazz piano is a sophisticated improvisational style rooted in African American m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-trio" | relative_url }}">jazz trio</a> # 99</li>
+            <li> <a href="{{ "/tags/jazz-trio" | relative_url }}">jazz trio</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -1151,7 +1151,7 @@ Jazz piano is a sophisticated improvisational style rooted in African American m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-trio" | relative_url }}">jazz trio</a> # 96</li>
+            <li> <a href="{{ "/tags/jazz-trio" | relative_url }}">jazz trio</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1188,7 +1188,7 @@ Jazz piano is a sophisticated improvisational style rooted in African American m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-trio" | relative_url }}">jazz trio</a> # 74</li>
+            <li> <a href="{{ "/tags/jazz-trio" | relative_url }}">jazz trio</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1260,8 +1260,8 @@ Jazz piano is a sophisticated improvisational style rooted in African American m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 23</li>
-            <li> <a href="{{ "/tags/piano-trio" | relative_url }}">piano trio</a> # 79</li>
+            <li> <a href="{{ "/tags/piano-trio" | relative_url }}">piano trio</a> # 22</li>
+            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1319,7 +1319,7 @@ Jazz piano is a sophisticated improvisational style rooted in African American m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-trio" | relative_url }}">piano trio</a> # 98</li>
+            <li> <a href="{{ "/tags/piano-trio" | relative_url }}">piano trio</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1449,8 +1449,8 @@ Jazz piano is a sophisticated improvisational style rooted in African American m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-jazz" | relative_url }}">piano jazz</a> # 70</li>
-            <li> <a href="{{ "/tags/jazz-trio" | relative_url }}">jazz trio</a> # 85</li>
+            <li> <a href="{{ "/tags/jazz-trio" | relative_url }}">jazz trio</a> # 16</li>
+            <li> <a href="{{ "/tags/piano-jazz" | relative_url }}">piano jazz</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1470,7 +1470,7 @@ Jazz piano is a sophisticated improvisational style rooted in African American m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-trio" | relative_url }}">jazz trio</a> # 79</li>
+            <li> <a href="{{ "/tags/jazz-trio" | relative_url }}">jazz trio</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1582,7 +1582,7 @@ Jazz piano is a sophisticated improvisational style rooted in African American m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a> # 63</li>
+            <li> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1602,7 +1602,7 @@ Jazz piano is a sophisticated improvisational style rooted in African American m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-trio" | relative_url }}">piano trio</a> # 99</li>
+            <li> <a href="{{ "/tags/piano-trio" | relative_url }}">piano trio</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -1640,8 +1640,8 @@ Jazz piano is a sophisticated improvisational style rooted in African American m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a> # 44</li>
-            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 96</li>
+            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 5</li>
+            <li> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1699,7 +1699,7 @@ Jazz piano is a sophisticated improvisational style rooted in African American m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-jazz" | relative_url }}">piano jazz</a> # 64</li>
+            <li> <a href="{{ "/tags/piano-jazz" | relative_url }}">piano jazz</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1718,7 +1718,7 @@ Jazz piano is a sophisticated improvisational style rooted in African American m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-trio" | relative_url }}">piano trio</a> # 27</li>
+            <li> <a href="{{ "/tags/piano-trio" | relative_url }}">piano trio</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1828,7 +1828,7 @@ Jazz piano is a sophisticated improvisational style rooted in African American m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-solo" | relative_url }}">piano solo</a> # 89</li>
+            <li> <a href="{{ "/tags/piano-solo" | relative_url }}">piano solo</a> # 12</li>
         </ul>
       </td>
     </tr>

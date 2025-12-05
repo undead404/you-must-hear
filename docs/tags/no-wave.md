@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T03:30:11.186Z
+date: 2025-12-05T09:46:33.018Z
 permalink: tags/no-wave
 title: no wave
 ---
 
 ## no wave
 
-Last updated: <time datetime="2025-12-03T03:30:11.186Z">Wed Dec 03 2025 05:30:11 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T09:46:33.018Z">Fri Dec 05 2025 11:46:33 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -63,9 +63,9 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 62</li>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 74</li>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 98</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 3</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 27</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -179,7 +179,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 86</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -202,7 +202,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 4</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -263,7 +263,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 91</li>
+            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -283,7 +283,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 41</li>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -523,7 +523,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 66</li>
+            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -543,7 +543,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 15</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -562,7 +562,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 49</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -670,7 +670,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 63</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -764,7 +764,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 88</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -877,7 +877,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 96</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -956,7 +956,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 58</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1183,7 +1183,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 57</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1202,7 +1202,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 56</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1263,8 +1263,8 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 46</li>
-            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 82</li>
+            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 18</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1306,8 +1306,8 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 32</li>
             <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 68</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1345,7 +1345,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 4</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1381,7 +1381,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 51</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1493,7 +1493,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 68</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1533,7 +1533,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 23</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1759,7 +1759,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       <td>
         <ul>
             <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 37</li>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 59</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1797,7 +1797,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 81</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1844,7 +1844,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 52</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1893,18 +1893,18 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 1</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 1</li>
+            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 1</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 1</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 1</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 1</li>
-            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 100</li>
-            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 100</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 100</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 100</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 100</li>
-            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 100</li>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 100</li>
-            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 100</li>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 100</li>
-            <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 100</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 1</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 1</li>
+            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 1</li>
+            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 1</li>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 1</li>
+            <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 1</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -1937,19 +1937,19 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 26</li>
+            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 4</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 9</li>
+            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 10</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 11</li>
+            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 12</li>
+            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 13</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 13</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 17</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 22</li>
+            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 33</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 51</li>
-            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 68</li>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 79</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 84</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 88</li>
-            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 88</li>
-            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 89</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 91</li>
-            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 91</li>
-            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 92</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 75</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 92</li>
-            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1980,8 +1980,8 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 29</li>
             <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 38</li>
+            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -2003,7 +2003,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 57</li>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 43</li>
         </ul>
       </td>
     </tr>

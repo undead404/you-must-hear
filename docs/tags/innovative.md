@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T03:35:57.968Z
+date: 2025-12-05T09:52:10.493Z
 permalink: tags/innovative
 title: innovative
 ---
 
 ## innovative
 
-Last updated: <time datetime="2025-12-03T03:35:57.968Z">Wed Dec 03 2025 05:35:57 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T09:52:10.493Z">Fri Dec 05 2025 11:52:10 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -169,9 +169,9 @@ Last updated: <time datetime="2025-12-03T03:35:57.968Z">Wed Dec 03 2025 05:35:57
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 37</li>
-            <li> <a href="{{ "/tags/dada" | relative_url }}">dada</a> # 55</li>
-            <li> <a href="{{ "/tags/book" | relative_url }}">book</a> # 85</li>
+            <li> <a href="{{ "/tags/dada" | relative_url }}">dada</a> # 46</li>
+            <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 64</li>
+            <li> <a href="{{ "/tags/book" | relative_url }}">book</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -190,7 +190,7 @@ Last updated: <time datetime="2025-12-03T03:35:57.968Z">Wed Dec 03 2025 05:35:57
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 35</li>
+            <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -210,7 +210,7 @@ Last updated: <time datetime="2025-12-03T03:35:57.968Z">Wed Dec 03 2025 05:35:57
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 17</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -230,8 +230,8 @@ Last updated: <time datetime="2025-12-03T03:35:57.968Z">Wed Dec 03 2025 05:35:57
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 54</li>
-            <li> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a> # 75</li>
+            <li> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a> # 25</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -282,8 +282,8 @@ Last updated: <time datetime="2025-12-03T03:35:57.968Z">Wed Dec 03 2025 05:35:57
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 23</li>
-            <li> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a> # 57</li>
+            <li> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a> # 44</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -363,7 +363,7 @@ Last updated: <time datetime="2025-12-03T03:35:57.968Z">Wed Dec 03 2025 05:35:57
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 94</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -476,12 +476,12 @@ Last updated: <time datetime="2025-12-03T03:35:57.968Z">Wed Dec 03 2025 05:35:57
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 67</li>
-            <li> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a> # 69</li>
-            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 72</li>
-            <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 76</li>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 76</li>
-            <li> <a href="{{ "/tags/old-school-thrash-metal" | relative_url }}">old school thrash metal</a> # 97</li>
+            <li> <a href="{{ "/tags/old-school-thrash-metal" | relative_url }}">old school thrash metal</a> # 4</li>
+            <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 25</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 25</li>
+            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 29</li>
+            <li> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a> # 30</li>
+            <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -629,10 +629,10 @@ Last updated: <time datetime="2025-12-03T03:35:57.968Z">Wed Dec 03 2025 05:35:57
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 5</li>
-            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 5</li>
-            <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 20</li>
-            <li> <a href="{{ "/tags/trip" | relative_url }}">trip</a> # 81</li>
+            <li> <a href="{{ "/tags/trip" | relative_url }}">trip</a> # 20</li>
+            <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 81</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 95</li>
+            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -655,8 +655,8 @@ Last updated: <time datetime="2025-12-03T03:35:57.968Z">Wed Dec 03 2025 05:35:57
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 47</li>
-            <li> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a> # 79</li>
+            <li> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a> # 21</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -681,7 +681,7 @@ Last updated: <time datetime="2025-12-03T03:35:57.968Z">Wed Dec 03 2025 05:35:57
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>82</td>
       <td>
       </td>
       <td>2017</td>
@@ -773,7 +773,7 @@ Last updated: <time datetime="2025-12-03T03:35:57.968Z">Wed Dec 03 2025 05:35:57
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 9</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1734,36 +1734,6 @@ Last updated: <time datetime="2025-12-03T03:35:57.968Z">Wed Dec 03 2025 05:35:57
     <tr>
       <td>71</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b8c45a7ca0b36fe6680c78144800f200.png" alt="Cover for How Much Can We Go Through" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>DXWAVE</td>
-      <td>How Much Can We Go Through</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/edm" | relative_url }}">edm</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/innovative" | relative_url }}">innovative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>72</td>
-      <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d7b1276b0e19d19480bffaf4b595bc94.png" alt="Cover for Lovely But Killer" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
@@ -1792,21 +1762,28 @@ Last updated: <time datetime="2025-12-03T03:35:57.968Z">Wed Dec 03 2025 05:35:57
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>72</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b8c45a7ca0b36fe6680c78144800f200.png" alt="Cover for How Much Can We Go Through" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>Cricketboy &amp; Poo</td>
-      <td>The Dark Carpet Room</td>
+      <td>DXWAVE</td>
+      <td>How Much Can We Go Through</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/edm" | relative_url }}">edm</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/innovative" | relative_url }}">innovative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a></li>
         </ul>
       </td>
       <td>
@@ -1815,7 +1792,7 @@ Last updated: <time datetime="2025-12-03T03:35:57.968Z">Wed Dec 03 2025 05:35:57
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>73</td>
       <td>
       </td>
       <td></td>
@@ -1836,6 +1813,29 @@ Last updated: <time datetime="2025-12-03T03:35:57.968Z">Wed Dec 03 2025 05:35:57
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Cricketboy &amp; Poo</td>
+      <td>The Dark Carpet Room</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/innovative" | relative_url }}">innovative</a></li>
         </ul>
       </td>
       <td>
@@ -2013,56 +2013,15 @@ Last updated: <time datetime="2025-12-03T03:35:57.968Z">Wed Dec 03 2025 05:35:57
       </td>
     </tr>
     <tr>
-      <td>82</td>
-      <td>
-      </td>
-      <td></td>
-      <td>DXWAVE</td>
-      <td>WAVE - Single</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/edm" | relative_url }}">edm</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/innovative" | relative_url }}">innovative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>83</td>
       <td>
       </td>
       <td></td>
-      <td>DXWAVE</td>
-      <td>Deep Inside - Single</td>
+      <td>Blakey Blake</td>
+      <td>Blakey Blake is a Bad Mug</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/edm" | relative_url }}">edm</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/innovative" | relative_url }}">innovative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a></li>
         </ul>
       </td>
       <td>
@@ -2072,24 +2031,6 @@ Last updated: <time datetime="2025-12-03T03:35:57.968Z">Wed Dec 03 2025 05:35:57
     </tr>
     <tr>
       <td>84</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Boesgaard</td>
-      <td>Project Series</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/innovative" | relative_url }}">innovative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>85</td>
       <td>
       </td>
       <td></td>
@@ -2113,27 +2054,16 @@ Last updated: <time datetime="2025-12-03T03:35:57.968Z">Wed Dec 03 2025 05:35:57
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>85</td>
       <td>
       </td>
       <td></td>
-      <td>DXWAVE</td>
-      <td>Tonight - Single</td>
+      <td>Boesgaard</td>
+      <td>Project Series</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/edm" | relative_url }}">edm</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/innovative" | relative_url }}">innovative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
         </ul>
       </td>
       <td>
@@ -2142,7 +2072,7 @@ Last updated: <time datetime="2025-12-03T03:35:57.968Z">Wed Dec 03 2025 05:35:57
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>86</td>
       <td>
       </td>
       <td></td>
@@ -2171,7 +2101,7 @@ Last updated: <time datetime="2025-12-03T03:35:57.968Z">Wed Dec 03 2025 05:35:57
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>87</td>
       <td>
       </td>
       <td></td>
@@ -2200,7 +2130,7 @@ Last updated: <time datetime="2025-12-03T03:35:57.968Z">Wed Dec 03 2025 05:35:57
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>88</td>
       <td>
       </td>
       <td></td>
@@ -2229,7 +2159,7 @@ Last updated: <time datetime="2025-12-03T03:35:57.968Z">Wed Dec 03 2025 05:35:57
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>89</td>
       <td>
       </td>
       <td></td>
@@ -2258,7 +2188,7 @@ Last updated: <time datetime="2025-12-03T03:35:57.968Z">Wed Dec 03 2025 05:35:57
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>90</td>
       <td>
       </td>
       <td></td>
@@ -2287,7 +2217,7 @@ Last updated: <time datetime="2025-12-03T03:35:57.968Z">Wed Dec 03 2025 05:35:57
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>91</td>
       <td>
       </td>
       <td></td>
@@ -2316,7 +2246,7 @@ Last updated: <time datetime="2025-12-03T03:35:57.968Z">Wed Dec 03 2025 05:35:57
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>92</td>
       <td>
       </td>
       <td></td>
@@ -2345,7 +2275,7 @@ Last updated: <time datetime="2025-12-03T03:35:57.968Z">Wed Dec 03 2025 05:35:57
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>93</td>
       <td>
       </td>
       <td></td>
@@ -2374,7 +2304,7 @@ Last updated: <time datetime="2025-12-03T03:35:57.968Z">Wed Dec 03 2025 05:35:57
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>94</td>
       <td>
       </td>
       <td></td>
@@ -2403,7 +2333,7 @@ Last updated: <time datetime="2025-12-03T03:35:57.968Z">Wed Dec 03 2025 05:35:57
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>95</td>
       <td>
       </td>
       <td></td>
@@ -2432,7 +2362,7 @@ Last updated: <time datetime="2025-12-03T03:35:57.968Z">Wed Dec 03 2025 05:35:57
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>96</td>
       <td>
       </td>
       <td></td>
@@ -2461,7 +2391,32 @@ Last updated: <time datetime="2025-12-03T03:35:57.968Z">Wed Dec 03 2025 05:35:57
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>97</td>
+      <td>
+      </td>
+      <td></td>
+      <td>The Dance Initiative</td>
+      <td>Maragan - EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/braindance" | relative_url }}">braindance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/innovative" | relative_url }}">innovative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
       <td>
       </td>
       <td></td>
@@ -2490,15 +2445,56 @@ Last updated: <time datetime="2025-12-03T03:35:57.968Z">Wed Dec 03 2025 05:35:57
       </td>
     </tr>
     <tr>
+      <td>99</td>
+      <td>
+      </td>
+      <td></td>
+      <td>DXWAVE</td>
+      <td>Beautiful Morning - EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/edm" | relative_url }}">edm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/innovative" | relative_url }}">innovative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>100</td>
       <td>
       </td>
       <td></td>
-      <td>Blakey Blake</td>
-      <td>Blakey Blake is a Bad Mug</td>
+      <td>DXWAVE</td>
+      <td>Tonight - Single</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/edm" | relative_url }}">edm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/innovative" | relative_url }}">innovative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a></li>
         </ul>
       </td>
       <td>

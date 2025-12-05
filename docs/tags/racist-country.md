@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T03:31:18.607Z
+date: 2025-12-05T09:48:04.224Z
 permalink: tags/racist-country
 title: racist country
 ---
 
 ## racist country
 
-Last updated: <time datetime="2025-12-03T03:31:18.607Z">Wed Dec 03 2025 05:31:18 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T09:48:04.224Z">Fri Dec 05 2025 11:48:04 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,7 +31,7 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
   </thead>
   <tbody>
     <tr>
-      <td>42</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c784ca0e0c14982f13991b08dc5562ac.png" alt="Cover for God Bless America" style="max-width:120px; height:auto;" />
       </td>
@@ -52,13 +52,13 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 64</li>
-            <li> <a href="{{ "/tags/patriotic" | relative_url }}">patriotic</a> # 99</li>
+            <li> <a href="{{ "/tags/patriotic" | relative_url }}">patriotic</a> # 2</li>
+            <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 37</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/50927dea7011626149c3f38ba1a07a07.png" alt="Cover for Blue (Da Ba Dee)" style="max-width:120px; height:auto;" />
       </td>
@@ -76,7 +76,7 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/Nxl52v3lCX3vpPEZk2RsHTz06UrBCx7PX5sb9ZIz7vY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxODIy/Mi0xMjcxMDY2MTI1/LmpwZWc.jpeg" alt="Cover for T562 Lame VBR" style="max-width:120px; height:auto;" />
       </td>
@@ -96,16 +96,16 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 22</li>
-            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 28</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 43</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 43</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 45</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 58</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 73</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>96</td>
       <td>
           <img src="https://i.discogs.com/THdsVf2jaVcGiOCGMQUtQRiQO71ZltFWG_Z3bhGEQ0Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTk3/MzIyLTE1ODU3MTY5/NjQtNTI5MC5qcGVn.jpeg" alt="Cover for Floatin&#39;" style="max-width:120px; height:auto;" />
       </td>
@@ -125,16 +125,16 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 11</li>
-            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 21</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 49</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 52</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 52</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 53</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 80</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/aNitsC67-Oyt0TEhDBT1u2RUtipcca2xJUHfYV9zJZU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2Mzc4/MS0xMTc1NzA3NTk0/LmpwZWc.jpeg" alt="Cover for Uncle Kracker - No Stranger to Shame" style="max-width:120px; height:auto;" />
       </td>
@@ -154,16 +154,16 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 19</li>
-            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 26</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 46</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 46</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 47</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 55</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 75</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a969658d962859da308ff28608754359.png" alt="Cover for It&#39;s The Attitude, Stupid!" style="max-width:120px; height:auto;" />
       </td>
@@ -176,12 +176,12 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 32</li>
+            <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/zxjiKq457_Uhs60e_j6a0KSeLHKjyu2DpXHo0JBPqWU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MDUy/OC0xMTMzNzUyMTg2/LmpwZWc.jpeg" alt="Cover for Seventy Two &amp; Sunny" style="max-width:120px; height:auto;" />
       </td>
@@ -201,16 +201,16 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 27</li>
-            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 33</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 40</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 40</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 42</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 61</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 68</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2a2040785e7c70f6515b660e3a3b5bf1.png" alt="Cover for Let&#39;s Start a Riot" style="max-width:120px; height:auto;" />
       </td>
@@ -224,20 +224,20 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 29</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 33</li>
-            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 37</li>
+            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 16</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 17</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 24</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 38</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 38</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 40</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 63</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 74</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 84</li>
-            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 85</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 59</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 64</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>97</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d82f38e4150668e3197f979b05166c8b.png" alt="Cover for It&#39;s Hard To Be A Diamond In A Rhine Stone World" style="max-width:120px; height:auto;" />
       </td>
@@ -252,21 +252,21 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 10</li>
-            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 13</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 19</li>
-            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 20</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 48</li>
+            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 17</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 21</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 41</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 53</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 53</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 54</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 57</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 80</li>
-            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 84</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 74</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 81</li>
+            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 88</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/nylxGwGg_i0c6dhGPm6Mi8Wp2YtEZR4ipCIlF5iCAls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTE3/OTU5LTE0OTE5MjU4/ODQtNTkzOC5qcGVn.jpeg" alt="Cover for Suicide Club - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -287,47 +287,18 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 27</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 30</li>
-            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 35</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 38</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 39</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 39</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 41</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 62</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 61</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 62</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 66</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
-      <td>
-          <img src="https://i.discogs.com/mCBa-93gIkbBJlnkv_W6PaHiafblxXCh07SDe0A_WyM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMzM4/NjctMTU4NTcxNjU3/MS05NzQwLmpwZWc.jpeg" alt="Cover for My Hometown" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2009</td>
-      <td>Uncle Kracker</td>
-      <td>My Hometown</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 24</li>
-            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 30</li>
-            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 42</li>
-            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 44</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 59</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>17</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/edcA1CiZeV88vR10AxMYR8aXwdYu07BKP2P8Lx48W14/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDI4/NDQtMTQ2NDkzNjA1/OS04NzAxLmpwZWc.jpeg" alt="Cover for Happy Hour (Deluxe Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -347,16 +318,45 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 25</li>
-            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 31</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 41</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 41</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 43</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 60</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 70</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>85</td>
+      <td>
+          <img src="https://i.discogs.com/mCBa-93gIkbBJlnkv_W6PaHiafblxXCh07SDe0A_WyM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMzM4/NjctMTU4NTcxNjU3/MS05NzQwLmpwZWc.jpeg" alt="Cover for My Hometown" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Uncle Kracker</td>
+      <td>My Hometown</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 42</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 42</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 44</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 71</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 77</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
       <td>
       </td>
       <td>2009-03-09</td>
@@ -377,17 +377,17 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 16</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 16</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 17</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 49</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 64</li>
-            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 66</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 66</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 85</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 32</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 35</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 36</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 38</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/THdsVf2jaVcGiOCGMQUtQRiQO71ZltFWG_Z3bhGEQ0Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTk3/MzIyLTE1ODU3MTY5/NjQtNTI5MC5qcGVn.jpeg" alt="Cover for Smile" style="max-width:120px; height:auto;" />
       </td>
@@ -408,79 +408,15 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 18</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 18</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 19</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 62</li>
-            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 64</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 83</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 37</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 38</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
-      <td>
-          <img src="https://i.discogs.com/_HL-bwoIQFYflDiQv0W-_rn3BeJydtza6zPqNcwFh5w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTc5/OTI2LTE1Mzc5ODY5/OTItNTkyNi5qcGVn.jpeg" alt="Cover for I Refuse To Sink" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2009-08-07</td>
-      <td>Blood on the Dance Floor</td>
-      <td>I Refuse To Sink</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 30</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 34</li>
-            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 37</li>
-            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 38</li>
-            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 39</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 41</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 64</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>58</td>
-      <td>
-          <img src="https://i.discogs.com/0oezd-JFBTw_-E20gIZk4fUms5fwC4OzzB2YUzjSP_c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTc5/NDg2LTE1Mzc5ODEw/MjYtMzM1Ni5qcGVn.jpeg" alt="Cover for Bewitched - Single" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2009-08-07</td>
-      <td>Blood on the Dance Floor</td>
-      <td>Bewitched - Single</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 11</li>
-            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 12</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 54</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 70</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 70</li>
-            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 72</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 90</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>67</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/k0aX9GFKQjkvkupBmiKfLFmjbIU0WnvkFQl-2di_KJE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNzM2/MDgtMTQzMzA4ODEy/OS0xNzA4LmpwZWc.jpeg" alt="Cover for Designed to Kill" style="max-width:120px; height:auto;" />
       </td>
@@ -502,22 +438,23 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 6</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 6</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 7</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 62</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 77</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 78</li>
-            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 83</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 95</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 18</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 21</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 23</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 25</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>43</td>
       <td>
+          <img src="https://i.discogs.com/0oezd-JFBTw_-E20gIZk4fUms5fwC4OzzB2YUzjSP_c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTc5/NDg2LTE1Mzc5ODEw/MjYtMzM1Ni5qcGVn.jpeg" alt="Cover for Bewitched - Single" style="max-width:120px; height:auto;" />
       </td>
-      <td>2009-08-12</td>
+      <td>2009-08-07</td>
       <td>Blood on the Dance Floor</td>
-      <td>Extended Play!</td>
+      <td>Bewitched - Single</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a></li>
@@ -532,18 +469,50 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 20</li>
-            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 21</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 46</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 59</li>
-            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 62</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 62</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 81</li>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 11</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 11</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 12</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 28</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 29</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 30</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>76</td>
+      <td>
+          <img src="https://i.discogs.com/_HL-bwoIQFYflDiQv0W-_rn3BeJydtza6zPqNcwFh5w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTc5/OTI2LTE1Mzc5ODY5/OTItNTkyNi5qcGVn.jpeg" alt="Cover for I Refuse To Sink" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-08-07</td>
+      <td>Blood on the Dance Floor</td>
+      <td>I Refuse To Sink</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 37</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 37</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 39</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 58</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 58</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 63</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 67</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/HgstNmbm6X1KBdZoh53PhT1ndEbYXFHp4bAuPbvNlz8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzE5/MTYxLTE0OTYxMDEy/NjAtODE3NC5qcGVn.jpeg" alt="Cover for Omfg Sneak Peak! - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -565,17 +534,48 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 8</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 8</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 9</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 61</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 75</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 75</li>
-            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 81</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 93</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 20</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 23</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 26</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 27</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>54</td>
+      <td>
+      </td>
+      <td>2009-08-12</td>
+      <td>Blood on the Dance Floor</td>
+      <td>Extended Play!</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 20</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 20</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 21</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 36</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 39</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 41</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 42</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
       <td>
       </td>
       <td>2009-10-04</td>
@@ -596,17 +596,17 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 19</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 19</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 20</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 47</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 60</li>
-            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 63</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 63</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 82</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 35</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 38</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 40</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/KV0CIYU8k60uvigiakuvWxgcBiAKPU4_Vu27s-RaX18/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTc4/Nzk1LTE1Mzc5NzI4/MzAtMzQ5MC5qcGVn.jpeg" alt="Cover for Success Is the Best Revenge! - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -627,18 +627,18 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 31</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 35</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 35</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 37</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 38</li>
-            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 40</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 43</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 66</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 56</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 57</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 61</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/THdsVf2jaVcGiOCGMQUtQRiQO71ZltFWG_Z3bhGEQ0Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTk3/MzIyLTE1ODU3MTY5/NjQtNTI5MC5qcGVn.jpeg" alt="Cover for Smile - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -659,15 +659,15 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 23</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 23</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 24</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 55</li>
-            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 59</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 78</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 42</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 45</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/nTRrjQHRJ7QpGDSpPRdRtOk_z4gpB0l72I2Qb1VdPlI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwOTUw/MzEtMTQzMzYwNTk4/My0yMTEzLmpwZWc.jpeg" alt="Cover for Sexting [Remix] [Feat. Jeffree Star] - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -689,17 +689,17 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 21</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 21</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 22</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 45</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 57</li>
-            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 61</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 61</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 80</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 37</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 40</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 43</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/uDKpz8_HFdPIGp_tr-Uo4pOnWNKJwBXUmJ7A-kFF7Jo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTc4/ODI3LTE1Mzc5NzMy/NjItOTc4MS5qcGVn.jpeg" alt="Cover for Inject Me Sweetly (feat. Jeffree Star)" style="max-width:120px; height:auto;" />
       </td>
@@ -721,17 +721,17 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 12</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 12</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 13</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 53</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 69</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 69</li>
-            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 71</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 89</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 29</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 30</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 31</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>58</td>
       <td>
       </td>
       <td>2010-03-30</td>
@@ -752,17 +752,17 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 24</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 24</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 25</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 43</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 54</li>
-            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 58</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 59</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 77</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 39</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 43</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 45</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 46</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>45</td>
       <td>
       </td>
       <td>2010-06-22</td>
@@ -782,15 +782,15 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 13</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 13</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 14</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 68</li>
-            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 69</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 88</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 32</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>56</td>
       <td>
       </td>
       <td>2010-07-28</td>
@@ -811,17 +811,17 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 22</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 22</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 23</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 38</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 41</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 44</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 44</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 56</li>
-            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 60</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 60</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/25a30170ff9e83711a06ad1adde8bd44.png" alt="Cover for Anything Like Me" style="max-width:120px; height:auto;" />
       </td>
@@ -840,7 +840,7 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>60</td>
       <td>
       </td>
       <td>2011-06-14</td>
@@ -861,17 +861,17 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 25</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 25</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 26</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 41</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 52</li>
-            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 57</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 58</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 76</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 40</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 44</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 47</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/_B_DWl33LdFMCPFSGAnKXdLfg0Psa4r2hbIs-Eg345E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzA2/MzEzLTE1NzE4Nzg3/ODQtMjExMS5qcGVn.jpeg" alt="Cover for Sun Daze" style="max-width:120px; height:auto;" />
       </td>
@@ -889,7 +889,7 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/M_dqAcP8lXe_XAYyoo2jlZbIUd-5JntnVOgpS9OqaGo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDU5/MTg2LTE2MDI3MDYw/MDktNDQ3OC5qcGVn.jpeg" alt="Cover for Cowboys and Angels" style="max-width:120px; height:auto;" />
       </td>
@@ -904,16 +904,16 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 16</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 28</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 49</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 49</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 50</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 52</li>
-            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 73</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>72</td>
       <td>
       </td>
       <td>2012-04-03</td>
@@ -930,7 +930,7 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/xTJewNaF8gvRtDQdJ_A6hjnSoIige2Knx_JmGszamds/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTE3/OTE5LTE0OTE5MjU0/OTItNjk0MS5qcGVn.jpeg" alt="Cover for Save the Rave - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -952,17 +952,17 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 27</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 27</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 28</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 37</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 43</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 47</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 49</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 50</li>
-            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 54</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 55</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/242fc565375748c48c10ca9122ce6160.png" alt="Cover for Dustin Lynch" style="max-width:120px; height:auto;" />
       </td>
@@ -978,17 +978,17 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 26</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 30</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 33</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 45</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 48</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 56</li>
-            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 75</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 45</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 52</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>93</td>
       <td>
       </td>
       <td>2012-10-30</td>
@@ -1008,18 +1008,18 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 17</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 22</li>
-            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 24</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 31</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 48</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 48</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 49</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 53</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 68</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 68</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 77</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>70</td>
       <td>
       </td>
       <td>2012-11-16</td>
@@ -1039,15 +1039,36 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 32</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 32</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 34</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 43</li>
-            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 47</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 69</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 54</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 57</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>3</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/067f624e9a054763bcd7474cac527746.png" alt="Cover for Here&#39;s to the Good Times" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-12-04</td>
+      <td>Florida Georgia Line</td>
+      <td>Here&#39;s to the Good Times</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
+            <li style="font-size: calc(1rem * 91 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 55</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 72</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
       <td>
       </td>
       <td>2012-12-04</td>
@@ -1064,76 +1085,15 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 40</li>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 70</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 86</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 90</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 9</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 11</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 19</li>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>98</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/067f624e9a054763bcd7474cac527746.png" alt="Cover for Here&#39;s to the Good Times" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2012-12-04</td>
-      <td>Florida Georgia Line</td>
-      <td>Here&#39;s to the Good Times</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
-            <li style="font-size: calc(1rem * 91 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 26</li>
-            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 55</li>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 67</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 83</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 99</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>55</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d4add65dfbeb3bf9676e57513582303e.png" alt="Cover for Cruise - Single" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2013</td>
-      <td>Florida Georgia Line</td>
-      <td>Cruise - Single</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>66</td>
-      <td>
-          <img src="https://i.discogs.com/-Ft2El0G_3qAyLMSZxbX1x_SfpK1wzhsLD5XUKc2Z9o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzc5/NDY2LTE1NDE3ODgw/MDctNzQxNC5qcGVn.jpeg" alt="Cover for Cruise (Remix)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2013</td>
-      <td>Florida Georgia Line</td>
-      <td>Cruise (Remix)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee1ecdcf89ed4794c7afe55b27a3fbae.png" alt="Cover for Cruise" style="max-width:120px; height:auto;" />
       </td>
@@ -1152,7 +1112,44 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>35</td>
+      <td>
+          <img src="https://i.discogs.com/-Ft2El0G_3qAyLMSZxbX1x_SfpK1wzhsLD5XUKc2Z9o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzc5/NDY2LTE1NDE3ODgw/MDctNzQxNC5qcGVn.jpeg" alt="Cover for Cruise (Remix)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013</td>
+      <td>Florida Georgia Line</td>
+      <td>Cruise (Remix)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d4add65dfbeb3bf9676e57513582303e.png" alt="Cover for Cruise - Single" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013</td>
+      <td>Florida Georgia Line</td>
+      <td>Cruise - Single</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/NkUT2BuvZXC31t5-me9AQJOvmdYZX2e_s_dLVZOgJsI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTc5/NDkzLTE1Mzc5ODEx/ODctMjA4Ny5qcGVn.jpeg" alt="Cover for La Petite Morte - The Little Death (feat. Elena from Demona Mortiss) - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1174,17 +1171,17 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 28</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 28</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 29</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 36</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 49</li>
-            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 53</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 54</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 73</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 44</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 48</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 50</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 51</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>78</td>
       <td>
       </td>
       <td>2013-07-16</td>
@@ -1203,14 +1200,14 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 38</li>
-            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 62</li>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 63</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 63</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>81</td>
       <td>
       </td>
       <td>2013-08-20</td>
@@ -1227,7 +1224,7 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/20334061bcb52532d15ede8cee3f75f9.png" alt="Cover for Raised On It" style="max-width:120px; height:auto;" />
       </td>
@@ -1246,7 +1243,7 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/D1GZIsaE8qkhzwkcCnis342QcJ3tDdCHCOewgk0Yl44/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTc4/OTYyLTE1Mzc5NzQ4/ODAtNzQwNC5qcGVn.jpeg" alt="Cover for The Loving Dead (Single)" style="max-width:120px; height:auto;" />
       </td>
@@ -1268,17 +1265,17 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 9</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 9</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 10</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 59</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 72</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 73</li>
-            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 79</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 92</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 22</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 25</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 28</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 28</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>100</td>
       <td>
           <img src="https://i.discogs.com/yhf1QD1kcWmR2kLBzFleEPFaQk16B1omn51iNYpXmp8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDg0/MzcwLTE1MzYxOTkw/OTMtMjE3Ni5qcGVn.jpeg" alt="Cover for That&#39;s How We Do Summertime" style="max-width:120px; height:auto;" />
       </td>
@@ -1293,48 +1290,12 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 17</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
-      <td>
-          <img src="https://i.discogs.com/b1Cu8WLTSSn2Eg1AZA15ydAs6FrOuCSaWHcfxEvHNic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2OTM3/MTMtMTQ0Njg4MzQ4/Ni02MDkyLmpwZWc.jpeg" alt="Cover for Kelsea Ballerini E.P." style="max-width:120px; height:auto;" />
-      </td>
-      <td>2014</td>
-      <td>Kelsea Ballerini</td>
-      <td>Kelsea Ballerini E.P.</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>12</td>
-      <td>
-          <img src="https://i.discogs.com/ArIBvXRMTx5q4DgopI_KZs0Ms2T_jfJubixlgZJkUpw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzAx/ODkwLTE1NDI1MTg3/NTItNjcwNi5qcGVn.jpeg" alt="Cover for Nothing in Particular" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2014</td>
-      <td>The Lacs</td>
-      <td>Nothing in Particular</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>13</td>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/29xjQRPHuMuN2Zx-SV7A_ItUaTreC3rpR5q21aZbqAU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzA2/MjkzLTE1NzE4Nzgz/NDItMzIzNy5qcGVn.jpeg" alt="Cover for Bumpin&#39; The Night" style="max-width:120px; height:auto;" />
       </td>
@@ -1352,7 +1313,43 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>89</td>
+      <td>
+          <img src="https://i.discogs.com/ArIBvXRMTx5q4DgopI_KZs0Ms2T_jfJubixlgZJkUpw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzAx/ODkwLTE1NDI1MTg3/NTItNjcwNi5qcGVn.jpeg" alt="Cover for Nothing in Particular" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014</td>
+      <td>The Lacs</td>
+      <td>Nothing in Particular</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>
+          <img src="https://i.discogs.com/b1Cu8WLTSSn2Eg1AZA15ydAs6FrOuCSaWHcfxEvHNic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2OTM3/MTMtMTQ0Njg4MzQ4/Ni02MDkyLmpwZWc.jpeg" alt="Cover for Kelsea Ballerini E.P." style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014</td>
+      <td>Kelsea Ballerini</td>
+      <td>Kelsea Ballerini E.P.</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/lDC9_lbUV133yc1CZl-YE_cIXbT10kOiPHKNYdhvw1E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NzQy/ODE1LTE2ODEzNTQ3/OTgtMTY5NS5qcGVn.jpeg" alt="Cover for Hope You Get Lonely Tonight" style="max-width:120px; height:auto;" />
       </td>
@@ -1370,7 +1367,7 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
       </td>
       <td>2014-04-14</td>
@@ -1384,16 +1381,16 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 21</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 25</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 44</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 44</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 46</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 57</li>
-            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 76</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
       </td>
       <td>2014-06-04</td>
@@ -1410,7 +1407,24 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>63</td>
+      <td>
+      </td>
+      <td>2014-07-07</td>
+      <td>Kelsea Ballerini</td>
+      <td>Love Me Like You Mean It</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/rbfegh7dhx4pWpWL9guxefWo_kpPOfxFEDKkTPfhzSY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMzY5/OTEtMTQxNDQzNTc0/OC0zMDA5LmpwZWc.jpeg" alt="Cover for Audience Network Acoustic Sessions" style="max-width:120px; height:auto;" />
       </td>
@@ -1428,24 +1442,7 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       </td>
     </tr>
     <tr>
-      <td>38</td>
-      <td>
-      </td>
-      <td>2014-07-07</td>
-      <td>Kelsea Ballerini</td>
-      <td>Love Me Like You Mean It</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
       </td>
       <td>2014-07-08</td>
@@ -1462,7 +1459,7 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>94</td>
       <td>
           <img src="https://i.discogs.com/5p09nW2jzrSXfYLOt06xvcItjBgvBpIH_aioNLijWeI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDE2/ODEtMTQ2MTY4MTAx/NC0yOTg4LmpwZWc.jpeg" alt="Cover for Mind Reader" style="max-width:120px; height:auto;" />
       </td>
@@ -1477,14 +1474,14 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 6</li>
-            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 98</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 95</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 98</li>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ca3a356664ab48b3c8dfe4f7e1af82b1.png" alt="Cover for Anything Goes" style="max-width:120px; height:auto;" />
       </td>
@@ -1498,14 +1495,13 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 54</li>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 74</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 91</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 50</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3a32da9cc3c3d5b6508e4a65b7f7fbaf.png" alt="Cover for Montevallo" style="max-width:120px; height:auto;" />
       </td>
@@ -1518,13 +1514,13 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 52</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 92</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 17</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 35</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/etvfcGH0saaO-MMKpcxS-56YLejCYgB6VTIDeEYgCKI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTM1/MzkwLTE2NzY2NTc0/OTMtODY1NC5qcGVn.jpeg" alt="Cover for Have Yourself a Merry Little Christmas" style="max-width:120px; height:auto;" />
       </td>
@@ -1542,7 +1538,7 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/2xDefmEzNbRm66kNwvjXeee--G1HiI8N7CEhTsn0cGU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzI3/NDU3LTE2MzUxODEz/NTgtMjIwNS5qcGVn.jpeg" alt="Cover for Don&#39;t Get Better Than That" style="max-width:120px; height:auto;" />
       </td>
@@ -1563,16 +1559,16 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 3</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 3</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 4</li>
-            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 52</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 86</li>
-            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 87</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 98</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 14</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 15</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/WnLAupbC3PeCMvYQcLbVerQVXdlFfgGmv84C8HkRCeE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODE2/ODYwLTE1NDI2MzAx/MzMtNTY1NS5qcGVn.jpeg" alt="Cover for Outlaw in Me" style="max-width:120px; height:auto;" />
       </td>
@@ -1590,7 +1586,7 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/tV2RlNVJ0Z8uxQnDZlfLEkoBMImMwx5td9eXSvw6DTg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0OTc0/MTEtMTYxNzIyNDgw/Ni03MTM1LmpwZWc.jpeg" alt="Cover for Ugly Cherries" style="max-width:120px; height:auto;" />
       </td>
@@ -1606,15 +1602,15 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 73</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 7</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 11</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 16</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 79</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 88</li>
-            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/y9AmKV-zv-oKr5lG9A9YE-rpi7UHaHeoYUaakTQx91o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTE2/NzM2LTE2OTMzNTEw/NjktNzM0NC5qcGVn.jpeg" alt="Cover for Break Up In A Small Town (Acoustic Mixtape)" style="max-width:120px; height:auto;" />
       </td>
@@ -1632,7 +1628,7 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/n55RJk_8RmGm1KwbG0nhh9oQOO-XjrbNZQ-82Ac58bQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDA4/NTMxLTE2Mzk5MTcy/NTgtNzQ1MC5qcGVn.jpeg" alt="Cover for H.O.L.Y." style="max-width:120px; height:auto;" />
       </td>
@@ -1650,7 +1646,33 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>15</td>
+      <td>
+          <img src="https://i.discogs.com/641p9XP-9g0PtKZlt9ICp7lQaVKgopctIWYngJyuln0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODYw/ODAtMTQ2ODc0NTE2/Mi00MTY1LmpwZWc.jpeg" alt="Cover for Sweatshirt" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-05-03</td>
+      <td>Jacob Sartorius</td>
+      <td>Sweatshirt</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 1</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 1</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 1</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 5</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 10</li>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 10</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 10</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 12</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/641p9XP-9g0PtKZlt9ICp7lQaVKgopctIWYngJyuln0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODYw/ODAtMTQ2ODc0NTE2/Mi00MTY1LmpwZWc.jpeg" alt="Cover for Skateboard" style="max-width:120px; height:auto;" />
       </td>
@@ -1672,135 +1694,18 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 18</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 24</li>
-            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 25</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 32</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 47</li>
-            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 48</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 54</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>86</td>
-      <td>
-          <img src="https://i.discogs.com/641p9XP-9g0PtKZlt9ICp7lQaVKgopctIWYngJyuln0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODYw/ODAtMTQ2ODc0NTE2/Mi00MTY1LmpwZWc.jpeg" alt="Cover for Sweatshirt" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2016-05-03</td>
-      <td>Jacob Sartorius</td>
-      <td>Sweatshirt</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 1</li>
-            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 1</li>
-            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 10</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 84</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 89</li>
-            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 91</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 95</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 100</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>
-          <img src="https://i.discogs.com/Fi1SSIhuh1ZHzbeNjgOMjSi7FamSgy4ZX9n0-2iO5eo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTIw/Nzg5LTE2MTk3Mzk5/OTEtNjUyMy5qcGVn.jpeg" alt="Cover for Where Have You Been?" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2017</td>
-      <td>Jacob Sartorius</td>
-      <td>Where Have You Been?</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 9</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 17</li>
-            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 18</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 26</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 47</li>
-            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 54</li>
-            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 55</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 48</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 66</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 67</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 76</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
-      <td>
-          <img src="https://i.discogs.com/Fi1SSIhuh1ZHzbeNjgOMjSi7FamSgy4ZX9n0-2iO5eo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTIw/Nzg5LTE2MTk3Mzk5/OTEtNjUyMy5qcGVn.jpeg" alt="Cover for The Last Text EP" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2017</td>
-      <td>Jacob Sartorius</td>
-      <td>The Last Text EP</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 14</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 21</li>
-            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 23</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 29</li>
-            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 50</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 51</li>
-            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 51</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>28</td>
-      <td>
-          <img src="https://i.discogs.com/Fi1SSIhuh1ZHzbeNjgOMjSi7FamSgy4ZX9n0-2iO5eo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTIw/Nzg5LTE2MTk3Mzk5/OTEtNjUyMy5qcGVn.jpeg" alt="Cover for Last Text" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2017</td>
-      <td>Jacob Sartorius</td>
-      <td>Last Text</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 32</li>
-            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 34</li>
-            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 36</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 40</li>
-            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 41</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 44</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 67</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/Fi1SSIhuh1ZHzbeNjgOMjSi7FamSgy4ZX9n0-2iO5eo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTIw/Nzg5LTE2MTk3Mzk5/OTEtNjUyMy5qcGVn.jpeg" alt="Cover for Hit Me Back feat. Blackbear" style="max-width:120px; height:auto;" />
       </td>
@@ -1823,17 +1728,108 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 17</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 17</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 18</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 48</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 63</li>
-            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 65</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 65</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 84</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 33</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 36</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 37</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 40</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>73</td>
+      <td>
+          <img src="https://i.discogs.com/Fi1SSIhuh1ZHzbeNjgOMjSi7FamSgy4ZX9n0-2iO5eo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTIw/Nzg5LTE2MTk3Mzk5/OTEtNjUyMy5qcGVn.jpeg" alt="Cover for Last Text" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017</td>
+      <td>Jacob Sartorius</td>
+      <td>Last Text</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 34</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 34</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 36</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 54</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 56</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 60</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 61</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+          <img src="https://i.discogs.com/Fi1SSIhuh1ZHzbeNjgOMjSi7FamSgy4ZX9n0-2iO5eo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTIw/Nzg5LTE2MTk3Mzk5/OTEtNjUyMy5qcGVn.jpeg" alt="Cover for The Last Text EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017</td>
+      <td>Jacob Sartorius</td>
+      <td>The Last Text EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 50</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 50</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 51</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 70</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 71</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 78</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 87</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+          <img src="https://i.discogs.com/Fi1SSIhuh1ZHzbeNjgOMjSi7FamSgy4ZX9n0-2iO5eo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTIw/Nzg5LTE2MTk3Mzk5/OTEtNjUyMy5qcGVn.jpeg" alt="Cover for Where Have You Been?" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017</td>
+      <td>Jacob Sartorius</td>
+      <td>Where Have You Been?</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 54</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 54</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 55</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 74</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 76</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 83</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 92</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/XN8UZd-oMF4mzklmOAYAFtOckKWOFWFoJVCNFh6rb_A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDk3/MTg0LTE1MzY0NDM3/ODUtNTMwMy5qcGVn.jpeg" alt="Cover for Legends" style="max-width:120px; height:auto;" />
       </td>
@@ -1851,7 +1847,7 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/FyvCmvjaWhWBTd4VUW917CIuohyrQX8oWGYbjMfoWz0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTE1/Nzc5LTE2OTMzNDY2/NjAtNjQwMC5qcGVn.jpeg" alt="Cover for Drinkin&#39; Too Much" style="max-width:120px; height:auto;" />
       </td>
@@ -1869,7 +1865,7 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
       </td>
       <td>2017-02-13</td>
@@ -1884,12 +1880,12 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 67</li>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>33</td>
       <td>
       </td>
       <td>2017-02-20</td>
@@ -1903,49 +1899,16 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 13</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 50</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 31</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 51</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 51</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 52</li>
-            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 70</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>35</td>
-      <td>
-          <img src="https://i.discogs.com/1xvLEYMGQrMUpKaAEnPXZ7yqQf2rokFDU46Bd-U5KZI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjg5/NzU1LTE2NDE4NzY0/MDYtMjI3OS5qcGVn.jpeg" alt="Cover for Every Girl&#39;s a Super Girl" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2017-06-03</td>
-      <td>JoJo Siwa</td>
-      <td>Every Girl&#39;s a Super Girl</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 29</li>
-            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 31</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 35</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 46</li>
-            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 51</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 53</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 72</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/LAq98P9zBKj1hCJ_GnPdi0BLGJqOolfMl-RoY7KpIRw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjg5/NzQwLTE2NDE4NzYx/OTQtNjEwMi5qcGVn.jpeg" alt="Cover for Kid in a Candy Store" style="max-width:120px; height:auto;" />
       </td>
@@ -1968,17 +1931,50 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 10</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 10</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 11</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 55</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 71</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 71</li>
-            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 74</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 91</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 27</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 27</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 29</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>66</td>
+      <td>
+          <img src="https://i.discogs.com/1xvLEYMGQrMUpKaAEnPXZ7yqQf2rokFDU46Bd-U5KZI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjg5/NzU1LTE2NDE4NzY0/MDYtMjI3OS5qcGVn.jpeg" alt="Cover for Every Girl&#39;s a Super Girl" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-06-03</td>
+      <td>JoJo Siwa</td>
+      <td>Every Girl&#39;s a Super Girl</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 29</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 29</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 31</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 45</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 50</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 51</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 54</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/B6rWiq7L9vilQA2s0Q7w8mXIEm_-vhRoWOV2U0htwQc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwOTUw/NzMtMTQ1ODM4MDc3/Ni03MjM3LmpwZWc.jpeg" alt="Cover for Sexting" style="max-width:120px; height:auto;" />
       </td>
@@ -2000,17 +1996,17 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 5</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 5</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 6</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 67</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 82</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 84</li>
-            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 85</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 96</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 16</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 16</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 17</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 22</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/MGSGIiTAzEBq1fAjvaCaatmttj1MW1vB5VJblPA8jFw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTY5/MjM3LTE1MDc0MDEw/NTQtMzU3NC5qcGVn.jpeg" alt="Cover for Current Mood" style="max-width:120px; height:auto;" />
       </td>
@@ -2026,15 +2022,15 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 15</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 15</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 16</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 65</li>
-            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 84</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 86</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 17</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 35</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/MxMLNO2eFkyxpMcxRHQzNyrfMSHy_-gbxdlmwyBnar4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTIw/ODM3LTE2MTk3NDAy/NzUtNzczOS5qcGVn.jpeg" alt="Cover for Left Me Hangin&#39;" style="max-width:120px; height:auto;" />
       </td>
@@ -2056,17 +2052,17 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 33</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 33</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 35</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 41</li>
-            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 44</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 46</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 51</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 68</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 36</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 52</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 57</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/MQX54a6DKCJBmHaeetLJxZpbmg0J1LjLcKxisaQa34Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTIw/ODU1LTE2MTk3NDA0/OTMtMjQ2Mi5qcGVn.jpeg" alt="Cover for Better With You" style="max-width:120px; height:auto;" />
       </td>
@@ -2089,17 +2085,17 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 30</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 30</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 32</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 34</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 45</li>
-            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 49</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 50</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 71</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 48</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 52</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 53</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/0_T2Q0U493MmhRjox5D-xHXv9iud94PUEQWFmgQocF0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDU5/MDYyLTE2MDI3MDQw/NjktMjU4MS5qcGVn.jpeg" alt="Cover for Ain&#39;t Worth The Whiskey" style="max-width:120px; height:auto;" />
       </td>
@@ -2117,7 +2113,7 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/NLSpgYuXnVH1XjXkggUPUcMTSC71kIJygsFiBI9lMFc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mzk1/OTQ4LTE1NzM2NzA0/OTQtNDYzMS5wbmc.jpeg" alt="Cover for Brothers" style="max-width:120px; height:auto;" />
       </td>
@@ -2138,16 +2134,16 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 7</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 7</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 8</li>
-            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 37</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 77</li>
-            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 82</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 94</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 19</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 24</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/e9o5PuQfF0oZbiSsYWApWcCRZXxCMy8AJ-9BfEmW2oU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjg5/NzI4LTE2NDE4NzYx/MTItOTMyOC5qcGVn.jpeg" alt="Cover for Bop!" style="max-width:120px; height:auto;" />
       </td>
@@ -2169,19 +2165,19 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 2</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 2</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 2</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 13</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 13</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 13</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 18</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 58</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 70</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 85</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 87</li>
-            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 88</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/pdjWoSYbAL79cbbqnPhiADBgQtBk3mv5wZXMlf7h5bM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDU5/MTYyLTE2MDI3MDU2/NTYtNDMxOS5qcGVn.jpeg" alt="Cover for Ridin&#39; Roads" style="max-width:120px; height:auto;" />
       </td>
@@ -2202,22 +2198,22 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 4</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 4</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 5</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 85</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 15</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 16</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 85</li>
-            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 86</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>47</td>
       <td>
-          <img src="https://i.discogs.com/1xvLEYMGQrMUpKaAEnPXZ7yqQf2rokFDU46Bd-U5KZI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjg5/NzU1LTE2NDE4NzY0/MDYtMjI3OS5qcGVn.jpeg" alt="Cover for High Top Shoes" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/1xvLEYMGQrMUpKaAEnPXZ7yqQf2rokFDU46Bd-U5KZI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjg5/NzU1LTE2NDE4NzY0/MDYtMjI3OS5qcGVn.jpeg" alt="Cover for Celebrate" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-04-12</td>
       <td>JoJo Siwa</td>
-      <td>High Top Shoes</td>
+      <td>Celebrate</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a></li>
@@ -2233,18 +2229,18 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 31</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 33</li>
-            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 33</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 44</li>
-            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 48</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 49</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 70</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 14</li>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 14</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 15</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 31</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 34</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 34</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 37</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/1xvLEYMGQrMUpKaAEnPXZ7yqQf2rokFDU46Bd-U5KZI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjg5/NzU1LTE2NDE4NzY0/MDYtMjI3OS5qcGVn.jpeg" alt="Cover for Hold the Drama" style="max-width:120px; height:auto;" />
       </td>
@@ -2267,23 +2263,23 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 26</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 26</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 27</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 38</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 51</li>
-            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 55</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 56</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 75</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 42</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 46</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 48</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>69</td>
       <td>
-          <img src="https://i.discogs.com/1xvLEYMGQrMUpKaAEnPXZ7yqQf2rokFDU46Bd-U5KZI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjg5/NzU1LTE2NDE4NzY0/MDYtMjI3OS5qcGVn.jpeg" alt="Cover for Celebrate" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/1xvLEYMGQrMUpKaAEnPXZ7yqQf2rokFDU46Bd-U5KZI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjg5/NzU1LTE2NDE4NzY0/MDYtMjI3OS5qcGVn.jpeg" alt="Cover for High Top Shoes" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-04-12</td>
       <td>JoJo Siwa</td>
-      <td>Celebrate</td>
+      <td>High Top Shoes</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a></li>
@@ -2299,18 +2295,18 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 14</li>
-            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 15</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 50</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 66</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 67</li>
-            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 67</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 87</li>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 31</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 31</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 33</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 49</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 53</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 54</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/tBS3_PyXzE17s5hxJend2ZGkPUEnfMEP_yDG7OWP0TA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDQy/MzA3LTE2MzczMzYy/NjUtMzczNy5qcGVn.jpeg" alt="Cover for money machine" style="max-width:120px; height:auto;" />
       </td>
@@ -2328,15 +2324,15 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 71</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 90</li>
-            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 93</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 93</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 7</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 8</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 9</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 30</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/sYY5gUECxC_gWxF25iaJgCB-dmhhXbib-aWjP9W0ZGU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDkw/MzIzLTE1NzU1OTc2/MDItNzY1NC5qcGVn.jpeg" alt="Cover for money machine (A. G. Cook Remix)" style="max-width:120px; height:auto;" />
       </td>
@@ -2354,15 +2350,15 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 77</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 94</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 95</li>
-            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 96</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 5</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 5</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 7</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 24</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/QoQyQb8hhVQtsurcR7uLw3SrV3Z0h-G0zJBBBtgb9mI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDkw/MzI4LTE1NzU1OTc3/NzgtOTE3MC5qcGVn.jpeg" alt="Cover for 745 sticky (Injury Reserve Remix)" style="max-width:120px; height:auto;" />
       </td>
@@ -2380,15 +2376,62 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 74</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 92</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 94</li>
-            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 95</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 6</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 6</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 8</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 27</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>2</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b0f7d00a7ea352b6c4e3bf2209db476d.png" alt="Cover for ringtone (Remix) [feat. Charli XCX, Rico Nasty, Kero Kero Bonito]" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-02-24</td>
+      <td>100 gecs</td>
+      <td>ringtone (Remix) [feat. Charli XCX, Rico Nasty, Kero Kero Bonito]</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 1</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 1</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 1</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 6</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>
+          <img src="https://i.discogs.com/2IceMl9SdIPPO-0XWANgI-PKbIfaSTgXpYKf1crJzCc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjk3/MzI0LTE2MDY3ODY0/MTMtNDMyNC5qcGVn.jpeg" alt="Cover for xXXi_wud_nvrstøp_ÜXXx (Remix) [feat. Tommy Cash &amp; Hannah Diamond]" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-02-24</td>
+      <td>100 gecs</td>
+      <td>xXXi_wud_nvrstøp_ÜXXx (Remix) [feat. Tommy Cash &amp; Hannah Diamond]</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 8</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 9</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 10</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 32</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/Yw8oxBkgAhEmpLJFPcLwTYGNxWkXG6TnxGI8rnxX_Ek/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODk4/NzQ2LTE1ODM2OTAx/ODctOTc0Mi5qcGVn.jpeg" alt="Cover for ringtone (Remix)" style="max-width:120px; height:auto;" />
       </td>
@@ -2407,61 +2450,14 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 25</li>
-            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 29</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 34</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 65</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 65</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>88</td>
-      <td>
-          <img src="https://i.discogs.com/2IceMl9SdIPPO-0XWANgI-PKbIfaSTgXpYKf1crJzCc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjk3/MzI0LTE2MDY3ODY0/MTMtNDMyNC5qcGVn.jpeg" alt="Cover for xXXi_wud_nvrstøp_ÜXXx (Remix) [feat. Tommy Cash &amp; Hannah Diamond]" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2020-02-24</td>
-      <td>100 gecs</td>
-      <td>xXXi_wud_nvrstøp_ÜXXx (Remix) [feat. Tommy Cash &amp; Hannah Diamond]</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 70</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 88</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 91</li>
-            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 92</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>99</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b0f7d00a7ea352b6c4e3bf2209db476d.png" alt="Cover for ringtone (Remix) [feat. Charli XCX, Rico Nasty, Kero Kero Bonito]" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2020-02-24</td>
-      <td>100 gecs</td>
-      <td>ringtone (Remix) [feat. Charli XCX, Rico Nasty, Kero Kero Bonito]</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 95</li>
-            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 100</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 100</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 100</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/sIObhjvRNUitWo92Wa4TSDaJXBdek4VYVzSGQ2kPPZo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzY0/NjgyLTE1OTAzNDQ0/MTUtODc2MS5qcGVn.jpeg" alt="Cover for stupid horse (Remix) [feat. GFOTY &amp; Count Baldor]" style="max-width:120px; height:auto;" />
       </td>
@@ -2479,15 +2475,15 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 78</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 95</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 96</li>
-            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 97</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 4</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 4</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 6</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 23</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ae4f995cdb4e043eb72b0b85d79c8c04.png" alt="Cover for hand crushed by a mallet (Remix) [feat. Fall Out Boy, Craig Owens, Nicole Dollanganger]" style="max-width:120px; height:auto;" />
       </td>
@@ -2500,41 +2496,15 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 81</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 97</li>
-            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 98</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 98</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 3</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 3</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 3</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 20</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>84</td>
-      <td>
-          <img src="https://i.discogs.com/R9UEEnbAxSblpwEuF7wGziMudOoq_a6HzUvLK6OxGnc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjg4/ODI1LTE2NDE4NjY4/NzYtNTk4Mi5qcGVn.jpeg" alt="Cover for gecgecgec (Remix) [feat. Lil West and Tony Velour]" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2021-12-30</td>
-      <td>100 gecs</td>
-      <td>gecgecgec (Remix) [feat. Lil West and Tony Velour]</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 58</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 75</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 87</li>
-            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 90</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/R9UEEnbAxSblpwEuF7wGziMudOoq_a6HzUvLK6OxGnc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjg4/ODI1LTE2NDE4NjY4/NzYtNTk4Mi5qcGVn.jpeg" alt="Cover for gec 2 Ü (Remix) [feat. Dorian Electra]" style="max-width:120px; height:auto;" />
       </td>
@@ -2552,15 +2522,64 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 82</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 98</li>
-            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 99</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 99</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 2</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 2</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 2</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 19</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>17</td>
+      <td>
+          <img src="https://i.discogs.com/R9UEEnbAxSblpwEuF7wGziMudOoq_a6HzUvLK6OxGnc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjg4/ODI1LTE2NDE4NjY4/NzYtNTk4Mi5qcGVn.jpeg" alt="Cover for gecgecgec (Remix) [feat. Lil West and Tony Velour]" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-12-30</td>
+      <td>100 gecs</td>
+      <td>gecgecgec (Remix) [feat. Lil West and Tony Velour]</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 11</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 12</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 15</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 43</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>
+      </td>
+      <td>2022-02-16</td>
+      <td>Dustin Lynch</td>
+      <td>Good Girl</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 33</li>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 36</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 36</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 38</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 65</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/MGSGIiTAzEBq1fAjvaCaatmttj1MW1vB5VJblPA8jFw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTY5/MjM3LTE1MDc0MDEw/NTQtMzU3NC5qcGVn.jpeg" alt="Cover for Seein&#39; Red" style="max-width:120px; height:auto;" />
       </td>
@@ -2575,33 +2594,10 @@ If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 24</li>
-            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 39</li>
-            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 76</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 62</li>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 77</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 77</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 79</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>69</td>
-      <td>
-      </td>
-      <td>2022-02-16</td>
-      <td>Dustin Lynch</td>
-      <td>Good Girl</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 36</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 36</li>
-            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 38</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 65</li>
-            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 68</li>
         </ul>
       </td>
     </tr>

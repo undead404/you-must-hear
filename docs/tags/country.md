@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T03:30:01.835Z
+date: 2025-12-05T09:46:23.335Z
 permalink: tags/country
 title: country
 ---
 
 ## country
 
-Last updated: <time datetime="2025-12-03T03:30:01.835Z">Wed Dec 03 2025 05:30:01 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T09:46:23.335Z">Fri Dec 05 2025 11:46:23 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -45,7 +45,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       <td>
         <ul>
             <li> <a href="{{ "/tags/western" | relative_url }}">western</a> # 1</li>
-            <li> <a href="{{ "/tags/classic-country" | relative_url }}">classic country</a> # 46</li>
+            <li> <a href="{{ "/tags/classic-country" | relative_url }}">classic country</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -100,7 +100,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 81</li>
+            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -119,8 +119,8 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 33</li>
-            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 95</li>
+            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 6</li>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -141,7 +141,8 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 23</li>
+            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 78</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -182,10 +183,10 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 29</li>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 98</li>
-            <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 99</li>
-            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 99</li>
+            <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 2</li>
+            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 2</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 3</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -310,9 +311,9 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 23</li>
-            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 55</li>
-            <li> <a href="{{ "/tags/classic-country" | relative_url }}">classic country</a> # 99</li>
+            <li> <a href="{{ "/tags/classic-country" | relative_url }}">classic country</a> # 2</li>
+            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 45</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -384,7 +385,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 34</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -653,8 +654,8 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 21</li>
-            <li> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a> # 53</li>
+            <li> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a> # 48</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -797,7 +798,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 29</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -888,7 +889,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a> # 42</li>
+            <li> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -962,7 +963,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 65</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1001,8 +1002,8 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 59</li>
-            <li> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a> # 95</li>
+            <li> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a> # 6</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1200,7 +1201,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 59</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1236,7 +1237,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 53</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1255,6 +1256,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1274,7 +1276,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 92</li>
+            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1293,7 +1295,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 1</li>
+            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1385,7 +1387,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 19</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1405,11 +1407,8 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 26</li>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 67</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 83</li>
-            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 98</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 99</li>
+            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 3</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1499,7 +1498,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 11</li>
+            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1539,7 +1538,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 72</li>
+            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1580,9 +1579,9 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 84</li>
-            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 96</li>
-            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 98</li>
+            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 3</li>
+            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 5</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1619,7 +1618,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 2</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1639,7 +1638,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 95</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -1676,8 +1675,8 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 10</li>
             <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 47</li>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1698,7 +1697,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 80</li>
+            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1736,7 +1735,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 60</li>
+            <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1759,10 +1758,10 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 18</li>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 82</li>
-            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 95</li>
-            <li> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a> # 99</li>
+            <li> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a> # 2</li>
+            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 6</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 19</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1824,11 +1823,11 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 81</li>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 91</li>
-            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 93</li>
-            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 98</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 100</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 1</li>
+            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 3</li>
+            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 7</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 10</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1847,8 +1846,8 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 34</li>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 77</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 24</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1869,8 +1868,8 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 99</li>
-            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 100</li>
+            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 1</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -1890,7 +1889,7 @@ Country music is a genre rooted in American folk traditions, featuring storytell
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 86</li>
+            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 15</li>
         </ul>
       </td>
     </tr>

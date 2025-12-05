@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T03:34:10.068Z
+date: 2025-12-05T09:51:34.598Z
 permalink: tags/shoegaze
 title: shoegaze
 ---
 
 ## shoegaze
 
-Last updated: <time datetime="2025-12-03T03:34:10.068Z">Wed Dec 03 2025 05:34:10 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T09:51:34.598Z">Fri Dec 05 2025 11:51:34 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -45,8 +45,8 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 80</li>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 91</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 10</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -66,8 +66,8 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 38</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 56</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 44</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -119,7 +119,7 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 4</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -191,9 +191,9 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 55</li>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 74</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 80</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 21</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 27</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -249,7 +249,7 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 55</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -338,7 +338,7 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 34</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -395,7 +395,7 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 68</li>
+            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -413,7 +413,7 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 32</li>
+            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -432,7 +432,7 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 72</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -470,7 +470,7 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 13</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -510,13 +510,13 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 11</li>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 23</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 55</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 67</li>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 76</li>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 86</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 98</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 3</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 15</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 25</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 34</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 45</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 76</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -553,9 +553,9 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 51</li>
-            <li> <a href="{{ "/tags/doomgaze" | relative_url }}">doomgaze</a> # 55</li>
-            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 69</li>
+            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 29</li>
+            <li> <a href="{{ "/tags/doomgaze" | relative_url }}">doomgaze</a> # 44</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -595,9 +595,9 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 14</li>
-            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 53</li>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 66</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 35</li>
+            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 48</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -619,9 +619,9 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 70</li>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 91</li>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 98</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 3</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 10</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -693,7 +693,7 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 96</li>
+            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -746,8 +746,8 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 7</li>
-            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 70</li>
+            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 30</li>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -766,7 +766,7 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 27</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -787,7 +787,7 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 22</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -823,8 +823,8 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 25</li>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 96</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 20</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -949,7 +949,7 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 45</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -973,8 +973,8 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 46</li>
             <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 50</li>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -992,7 +992,7 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a> # 76</li>
+            <li> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1047,7 +1047,7 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 5</li>
+            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1065,9 +1065,9 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 46</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 67</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 88</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 13</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 34</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1086,8 +1086,8 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 71</li>
-            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 88</li>
+            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 10</li>
+            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1107,7 +1107,7 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 53</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1126,7 +1126,7 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chill-house" | relative_url }}">chill house</a> # 11</li>
+            <li> <a href="{{ "/tags/chill-house" | relative_url }}">chill house</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1165,7 +1165,7 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 8</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1203,8 +1203,8 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 7</li>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 95</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 6</li>
+            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1242,11 +1242,11 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 27</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 29</li>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 35</li>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 62</li>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 95</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 6</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 38</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 64</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 72</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1265,9 +1265,9 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-zealand" | relative_url }}">new zealand</a> # 13</li>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 62</li>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 89</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 11</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 38</li>
+            <li> <a href="{{ "/tags/new-zealand" | relative_url }}">new zealand</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1324,8 +1324,8 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 47</li>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 90</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 8</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1345,8 +1345,8 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 78</li>
-            <li> <a href="{{ "/tags/doomgaze" | relative_url }}">doomgaze</a> # 81</li>
+            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 17</li>
+            <li> <a href="{{ "/tags/doomgaze" | relative_url }}">doomgaze</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1373,13 +1373,13 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 19</li>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 21</li>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 62</li>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 69</li>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 79</li>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 91</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 100</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 1</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 10</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 22</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 31</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 39</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 77</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1436,8 +1436,8 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 50</li>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 91</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 9</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1456,8 +1456,8 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 86</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 95</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 6</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1477,7 +1477,7 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 87</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1519,8 +1519,8 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       <td>
         <ul>
             <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 3</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 92</li>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 94</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 7</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1540,7 +1540,7 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 90</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1578,7 +1578,7 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 85</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1598,9 +1598,9 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 18</li>
-            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 88</li>
-            <li> <a href="{{ "/tags/doomgaze" | relative_url }}">doomgaze</a> # 91</li>
+            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 7</li>
+            <li> <a href="{{ "/tags/doomgaze" | relative_url }}">doomgaze</a> # 9</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1657,9 +1657,9 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 95</li>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 98</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 99</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 2</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 3</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -1732,8 +1732,8 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 37</li>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 80</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 21</li>
+            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1753,8 +1753,8 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 78</li>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 96</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 5</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1795,7 +1795,7 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 74</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1815,7 +1815,7 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 48</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1835,8 +1835,8 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 10</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 73</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 28</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1858,8 +1858,8 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 29</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 45</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 55</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1878,7 +1878,7 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 89</li>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1901,8 +1901,8 @@ Shoegaze is a genre of alternative rock music that emerged in the United Kingdom
       <td>
         <ul>
             <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 23</li>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 33</li>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 75</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 26</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 66</li>
         </ul>
       </td>
     </tr>

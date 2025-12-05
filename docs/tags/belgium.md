@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T03:28:36.509Z
+date: 2025-12-05T09:44:50.953Z
 permalink: tags/belgium
 title: belgium
 ---
 
 ## belgium
 
-Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T09:44:50.953Z">Fri Dec 05 2025 11:44:50 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
   </thead>
   <tbody>
     <tr>
-      <td>14</td>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7809d8a361f0497d9eabc8b8f763bbcf.png" alt="Cover for Machiavel" style="max-width:120px; height:auto;" />
       </td>
@@ -46,12 +46,12 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 18</li>
+            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/1gx5KX53x8EUsaRw-N0z01T52FPKnyiVQVEjAyoTfNs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MzUw/OS0xMTQ3MzY1MjUy/LmpwZWc.jpeg" alt="Cover for Les Marquises" style="max-width:120px; height:auto;" />
       </td>
@@ -69,7 +69,7 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/986ed141c544a80ef69dc09cc52b9e4c.png" alt="Cover for Looking For Saint Tropez" style="max-width:120px; height:auto;" />
       </td>
@@ -87,7 +87,7 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/XKCoq8pjoxUTwOGYhUR0J5j7CmBMtdZCbaQO5WV2si4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzA3/MjktMTI3MDc1ODkw/OC5qcGVn.jpeg" alt="Cover for For Amusement Only" style="max-width:120px; height:auto;" />
       </td>
@@ -103,30 +103,12 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 21</li>
+            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>76</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b3615c048e2b4e9cae47773f554e5469.png" alt="Cover for Crocodile Tears" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1981</td>
-      <td>Kuruki</td>
-      <td>Crocodile Tears</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/42d1ddc4f0544893b8d8a26342356fdd.png" alt="Cover for Ceux Du Dehors" style="max-width:120px; height:auto;" />
       </td>
@@ -144,28 +126,25 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>25</td>
       <td>
-          <img src="https://i.discogs.com/3ljnul4E9-oBUZGsh5Qlwp-copyeiR-VMfe6s7jSySs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzAz/OC0xMTk0ODEzMjM1/LmpwZWc.jpeg" alt="Cover for Niobe" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b3615c048e2b4e9cae47773f554e5469.png" alt="Cover for Crocodile Tears" style="max-width:120px; height:auto;" />
       </td>
-      <td>1986</td>
-      <td>Aki</td>
-      <td>Niobe</td>
+      <td>1981</td>
+      <td>Kuruki</td>
+      <td>Crocodile Tears</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/harp" | relative_url }}">harp</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/l0IsN9KtlZaoQWhtA8l5rtRm8pRXdwV_HOsNb3TujVI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MDI3/NC0xNjQ4OTA1MTM3/LTg1MTYuanBlZw.jpeg" alt="Cover for Close Cover" style="max-width:120px; height:auto;" />
       </td>
@@ -181,12 +160,33 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 58</li>
+            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>52</td>
+      <td>
+          <img src="https://i.discogs.com/3ljnul4E9-oBUZGsh5Qlwp-copyeiR-VMfe6s7jSySs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzAz/OC0xMTk0ODEzMjM1/LmpwZWc.jpeg" alt="Cover for Niobe" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1986</td>
+      <td>Aki</td>
+      <td>Niobe</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/harp" | relative_url }}">harp</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 34</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
       <td>
       </td>
       <td>1987</td>
@@ -204,7 +204,7 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/46b24b4983c9c509e20df2f1797943ec.png" alt="Cover for Cozmic Jam" style="max-width:120px; height:auto;" />
       </td>
@@ -225,7 +225,7 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/123684126ab51b8510c14a2ab9244551.png" alt="Cover for The 4th Sign" style="max-width:120px; height:auto;" />
       </td>
@@ -247,7 +247,7 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/o0AkiWC-fV9iZ0IsHCYWw7CSjdN_RbnzLOnkJ05y_14/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNDQ1/OC0xMzQ1MTI4ODE0/LTk4NTkuanBlZw.jpeg" alt="Cover for Working Class Heroes" style="max-width:120px; height:auto;" />
       </td>
@@ -262,12 +262,12 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 32</li>
+            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/82ec165fc69e9848ee70aaec91b6f542.png" alt="Cover for Gigant" style="max-width:120px; height:auto;" />
       </td>
@@ -286,7 +286,7 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/019b6b807a730a77e60d1393d580465e.png" alt="Cover for Worst Case Scenario" style="max-width:120px; height:auto;" />
       </td>
@@ -301,12 +301,12 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 67</li>
+            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/32d32186a4d22fc7d629474d7956d3d4.png" alt="Cover for Ritual" style="max-width:120px; height:auto;" />
       </td>
@@ -327,12 +327,12 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 46</li>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>89</td>
       <td>
           <img src="https://i.discogs.com/0ea6eoiQEY3h69MKI3py3glAq-oz7yxz-gtQ4WXBubs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzY5/MDEtMTI4OTgzNjMz/NC5qcGVn.jpeg" alt="Cover for S&#x2F;t" style="max-width:120px; height:auto;" />
       </td>
@@ -351,7 +351,7 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
       </td>
       <td>1996-09-14</td>
@@ -363,12 +363,12 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 46</li>
+            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>90</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dacf539af7fc4949a243b15972ad8edb.png" alt="Cover for Abnormaal" style="max-width:120px; height:auto;" />
       </td>
@@ -384,12 +384,12 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nederlandstalig" | relative_url }}">nederlandstalig</a> # 45</li>
+            <li> <a href="{{ "/tags/nederlandstalig" | relative_url }}">nederlandstalig</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
       </td>
       <td>1998</td>
@@ -407,7 +407,7 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/8YfCRhGUrKiQdDPW9Q2EvB-82Ux1__ZBWknr3-CAE_I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMjcw/MC0xNDc5OTY0MTQ5/LTI2NDEucG5n.jpeg" alt="Cover for This Last Warm Solitude" style="max-width:120px; height:auto;" />
       </td>
@@ -427,7 +427,7 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f039c5592d9d19c393fc8e4cb3ae4fdf.png" alt="Cover for Avanti!" style="max-width:120px; height:auto;" />
       </td>
@@ -446,7 +446,7 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/Bg4w1kR-sUeHXb0XIovxOwY0XGow7DMBjD6FprzPfQg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTYz/NjE2LTE1ODQ4MDU4/OTQtOTIyMC5qcGVn.jpeg" alt="Cover for The Ideal Crash" style="max-width:120px; height:auto;" />
       </td>
@@ -461,12 +461,12 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 91</li>
+            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 10</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/MPCoglM5vkTZkUAXopY2wmFeCpf5XUWmd6kChWAXzRk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MDc0/NzMtMTQxODQ4MDE2/NC0yMTMwLmpwZWc.jpeg" alt="Cover for One O Four" style="max-width:120px; height:auto;" />
       </td>
@@ -487,7 +487,7 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/31edc55343d4daf534800bd12ea253fb.png" alt="Cover for Our Girl in Havana" style="max-width:120px; height:auto;" />
       </td>
@@ -506,7 +506,7 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>98</td>
       <td>
           <img src="https://i.discogs.com/kr3zO3F-SA8yUKLAh0sP2CNtBsNqd1YkwZOnMtyzt9I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMjk3/MS0xNDY2MTQ2MTY1/LTI3NjkuanBlZw.jpeg" alt="Cover for At Home - Not At Home" style="max-width:120px; height:auto;" />
       </td>
@@ -522,12 +522,12 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 10</li>
+            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a02b03cddce8481eacb239336ccf9f72.png" alt="Cover for Van God los" style="max-width:120px; height:auto;" />
       </td>
@@ -546,7 +546,7 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/6gVHkwGgoEPjN1bOx3Y2RPP03xX30HkZusEXtTQsfPE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDQ4/MjMtMTM2NTA3MTgz/OC04ODcxLmpwZWc.jpeg" alt="Cover for Better Luck Next Time" style="max-width:120px; height:auto;" />
       </td>
@@ -565,7 +565,7 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/u7qjDOiFCue9RYG8rC07OJApYzAQuTLkouBTVzarMYk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNDcz/MzQtMTQ1Nzg5NzUy/NS02OTQyLmpwZWc.jpeg" alt="Cover for Remixology 2002 - 2006" style="max-width:120px; height:auto;" />
       </td>
@@ -581,12 +581,12 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 26</li>
+            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/84sxLN6xCnc9kliaxpk4D_H2k23oxj2k03mW3PlNF-I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMTE4/NC0xNDU5MDAyNzQ4/LTY1MzYuanBlZw.jpeg" alt="Cover for Kerua" style="max-width:120px; height:auto;" />
       </td>
@@ -607,7 +607,7 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dc59687d246b3f5b82768e91e65e15a9.png" alt="Cover for Nuit Blanche" style="max-width:120px; height:auto;" />
       </td>
@@ -624,13 +624,13 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 51</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 75</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 25</li>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
       </td>
       <td>2003-06-01</td>
@@ -650,7 +650,7 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f1e8185baf384872ac2bf21145721e7a.png" alt="Cover for This Time" style="max-width:120px; height:auto;" />
       </td>
@@ -668,7 +668,24 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>62</td>
+      <td>
+      </td>
+      <td>2004</td>
+      <td>Natalia</td>
+      <td>Back for More</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9df206aa12eb4d14cdd2d249e1381325.png" alt="Cover for Elem" style="max-width:120px; height:auto;" />
       </td>
@@ -689,24 +706,7 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
     </tr>
     <tr>
-      <td>39</td>
-      <td>
-      </td>
-      <td>2004</td>
-      <td>Natalia</td>
-      <td>Back for More</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
       </td>
       <td>2004-04-19</td>
@@ -721,12 +721,12 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 61</li>
+            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 40</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/IPiCYA7WxHLzr8Jtr5WNAfXTe9gh19DC-Z1odGyWK40/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTkz/MzgtMTI3NTMxODYw/NC5qcGVn.jpeg" alt="Cover for Le grand Jacques" style="max-width:120px; height:auto;" />
       </td>
@@ -740,12 +740,12 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a> # 44</li>
+            <li> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a> # 57</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/a3Spp6fHc15p-UfSr_vJHfQdYd6n467b3UaEOpqAk5o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTQ2/OTAtMTYxMjYxNzMy/OC00NzAwLmpwZWc.jpeg" alt="Cover for More Than Loops (Japanese Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -763,7 +763,7 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/tdU47j1uTS_jNiATlBgW8u6vXTv_EgdtldBUyqA7d7U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNjA3/NTQtMTM1MzkyNjQ3/Ni02MTM4LmpwZWc.jpeg" alt="Cover for The Seven Laws of Woo" style="max-width:120px; height:auto;" />
       </td>
@@ -786,12 +786,12 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 57</li>
+            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 44</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>95</td>
       <td>
           <img src="https://i.discogs.com/tyQ7xj-rpBVuQFszG98q7k2CToc4SrDsZ4xRENg-sFA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTcz/ODYtMTMyNzE4Mjk5/MC5qcGVn.jpeg" alt="Cover for The heartspray" style="max-width:120px; height:auto;" />
       </td>
@@ -810,7 +810,7 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/034ca07f064e41bfb7d1efc14c2817ff.png" alt="Cover for The Unbelievable Cinematic Crash" style="max-width:120px; height:auto;" />
       </td>
@@ -828,7 +828,7 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/B05i4vhwKB58jwhBACotztZmqr5XiZBUCjR0YQchMXw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMTg0/ODUtMTQ1NzM1OTM4/Ni00NjgzLmpwZWc.jpeg" alt="Cover for Sex &amp; Honey" style="max-width:120px; height:auto;" />
       </td>
@@ -851,13 +851,13 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 28</li>
-            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 71</li>
+            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 30</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
       </td>
       <td>2006</td>
@@ -876,7 +876,7 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>94</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/10480b7041bc45e1b8019a928e1e6a34.png" alt="Cover for Montevideo" style="max-width:120px; height:auto;" />
       </td>
@@ -897,7 +897,7 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1100014555cc4b0798ec7431a550677b.png" alt="Cover for Bring It On" style="max-width:120px; height:auto;" />
       </td>
@@ -912,12 +912,12 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 76</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 24</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>76</td>
       <td>
       </td>
       <td>2006-11-03</td>
@@ -934,7 +934,7 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/mxM-Gs1ySnCZe3x_oz-f-Bor4Wkhbw3Z8zRYhAKwIKw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MDYz/NDAtMTQ4ODg2MzE4/NC0yNTY3LnBuZw.jpeg" alt="Cover for Erbalunga" style="max-width:120px; height:auto;" />
       </td>
@@ -955,7 +955,7 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>99</td>
       <td>
       </td>
       <td>2007-05-21</td>
@@ -970,12 +970,31 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 39</li>
+            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>46</td>
+      <td>
+      </td>
+      <td>2008</td>
+      <td>Malachi</td>
+      <td>Malachi</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 46</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/8CFoSjS1n7hLZsU9--ZQjIYlJKN7Ch5rXQZJpMLDlss/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMTg3/MTUtMTQ1NzM2MDkx/Mi03NDg5LmpwZWc.jpeg" alt="Cover for Sex &amp; Honey (2008)" style="max-width:120px; height:auto;" />
       </td>
@@ -999,31 +1018,12 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 35</li>
+            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
-      <td>
-      </td>
-      <td>2008</td>
-      <td>Malachi</td>
-      <td>Malachi</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 54</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>45</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/OdmFvjMkrY2wIxHvotuzAZy90dncra-Xd_mXl8-W8o0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjQ5/NTgtMTU1MTE5NTgw/Ny02ODE4LmpwZWc.jpeg" alt="Cover for Everything And More" style="max-width:120px; height:auto;" />
       </td>
@@ -1041,7 +1041,7 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/cse0CbhfLFs-cio3tbO5OsS_gl8XEpoR8M7G5jcVqlo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjM0/MTUtMTMxNDAwNjI1/NC5qcGVn.jpeg" alt="Cover for Perverting the Nazarene Cult" style="max-width:120px; height:auto;" />
       </td>
@@ -1057,12 +1057,12 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 62</li>
+            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 39</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>93</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1da16190fe174e879d87dc7bac20a0a3.png" alt="Cover for Attica!" style="max-width:120px; height:auto;" />
       </td>
@@ -1081,7 +1081,7 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>96</td>
       <td>
           <img src="https://i.discogs.com/rRhBBn3nsWHbzbgmShhEUoucbHGI9PqyguanXifZHeg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzMx/MzYtMTM0NzgyNTQx/MS02OTExLmpwZWc.jpeg" alt="Cover for Elf Shot Lame Witch" style="max-width:120px; height:auto;" />
       </td>
@@ -1098,31 +1098,12 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 11</li>
+            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>95</td>
-      <td>
-          <img src="https://i.discogs.com/5FzctLZFlA-Ck14ArKI_7zwPvJY6-WDqMGlngM8bB9A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzI2/NDAtMTIwNTQ0MDY3/NS5qcGVn.jpeg" alt="Cover for Vantage Pont" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2008-04-18</td>
-      <td>dEUS</td>
-      <td>Vantage Pont</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 50</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ccd55d84e26c9079cf6ec631e10d2548.png" alt="Cover for Vantage Point" style="max-width:120px; height:auto;" />
       </td>
@@ -1136,12 +1117,31 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 52</li>
+            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>6</td>
+      <td>
+          <img src="https://i.discogs.com/5FzctLZFlA-Ck14ArKI_7zwPvJY6-WDqMGlngM8bB9A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzI2/NDAtMTIwNTQ0MDY3/NS5qcGVn.jpeg" alt="Cover for Vantage Pont" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-04-18</td>
+      <td>dEUS</td>
+      <td>Vantage Pont</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 51</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/af342e76480c74f5c046e429acc8e865.png" alt="Cover for Essential" style="max-width:120px; height:auto;" />
       </td>
@@ -1158,7 +1158,7 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/4GC_FiAca9gevZ9xeRAOmbjjCWv5_25GTW76L_UMuaE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDMx/NTAtMTMxMTI0NjQz/MS5qcGVn.jpeg" alt="Cover for As Heard on Radio Soulwax, Part 2" style="max-width:120px; height:auto;" />
       </td>
@@ -1171,12 +1171,12 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 39</li>
+            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/IihfROP3w28-Q_T3ASYFMsqXojFidA7-U1F5ODXhUpg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODI4/MDM2LTE2Mjg3Nzk3/NjAtNTM5Ny5qcGVn.jpeg" alt="Cover for Free Blank Shots" style="max-width:120px; height:auto;" />
       </td>
@@ -1195,7 +1195,7 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/67c79d01b0394906ade1debc3a9c3959.png" alt="Cover for Mirror Mirror" style="max-width:120px; height:auto;" />
       </td>
@@ -1214,7 +1214,7 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3cc14589f20b4e69ce68a66dde58422e.png" alt="Cover for The Sore Losers" style="max-width:120px; height:auto;" />
       </td>
@@ -1234,7 +1234,7 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>86</td>
       <td>
       </td>
       <td>2010-01-26</td>
@@ -1253,7 +1253,7 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>65</td>
       <td>
       </td>
       <td>2010-08-01</td>
@@ -1271,7 +1271,7 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/pA-82Zq7bd5yqUY0Ep487GzW6PHgWWcxqJLKqNYKGNE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Nzg1/ODMtMTYzMDY5MzM5/OS01NzM3LmpwZWc.jpeg" alt="Cover for Hvelreki" style="max-width:120px; height:auto;" />
       </td>
@@ -1289,7 +1289,7 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/681f9cc121bb99a37acf937ae3ab9d20.png" alt="Cover for Fake Is The New Dope" style="max-width:120px; height:auto;" />
       </td>
@@ -1308,12 +1308,12 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/eurovision" | relative_url }}">eurovision</a> # 48</li>
+            <li> <a href="{{ "/tags/eurovision" | relative_url }}">eurovision</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/_j0aogycuK0I_DUBZFW27wKpUUqkchZEyddjMh7zjMk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NTcz/MzMtMTQ5MzY0NDg1/MS04NjM1LnBuZw.jpeg" alt="Cover for With Love Baby" style="max-width:120px; height:auto;" />
       </td>
@@ -1328,12 +1328,12 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/eurovision" | relative_url }}">eurovision</a> # 54</li>
+            <li> <a href="{{ "/tags/eurovision" | relative_url }}">eurovision</a> # 46</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>67</td>
       <td>
       </td>
       <td>2011-03-22</td>
@@ -1355,7 +1355,7 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>58</td>
       <td>
       </td>
       <td>2011-04-29</td>
@@ -1374,7 +1374,7 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/nD0VwCjzk3xljJGjHSElA-Gz0PzEXUex-shuc9ln2bs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTcz/NTgtMTMyMzYwNzQy/My5qcGVn.jpeg" alt="Cover for All Recklessness Aside - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1392,7 +1392,7 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/Udt9h4gr_t7BEgBJYrs6UWG-jguoIq01bum1L2wNdgs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MjQ5/MDktMTMzMzg3NzIy/NC5qcGVn.jpeg" alt="Cover for Face Lion Face Oignon" style="max-width:120px; height:auto;" />
       </td>
@@ -1410,7 +1410,7 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
       </td>
       <td>2012-10-12</td>
@@ -1427,7 +1427,7 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>23</td>
       <td>
       </td>
       <td>2013-01-11</td>
@@ -1443,12 +1443,12 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 19</li>
+            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
       </td>
       <td>2013-08-16</td>
@@ -1465,16 +1465,16 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 19</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 31</li>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 92</li>
-            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 96</li>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 96</li>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 5</li>
+            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 5</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 9</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 70</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/V7nUvJL20KV8DLcDePxCNpImaUbCce19LbWAIBl2xIw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMTAx/MDAtMTM4NzU1Nzgy/Mi0yMjM0LmpwZWc.jpeg" alt="Cover for Acceptance &#x2F; Rebuild" style="max-width:120px; height:auto;" />
       </td>
@@ -1496,7 +1496,26 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>49</td>
+      <td>
+          <img src="https://i.discogs.com/jHwagJO4pkxoFihhcoK_tap3ogWdjKUCrB4mt3dI0yc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNTE3/OTMtMTQxNzI3ODU4/MC05OTA0LmpwZWc.jpeg" alt="Cover for Islands" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014</td>
+      <td>Intergalactic Lovers</td>
+      <td>Islands</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/irviQtRPu0wB4fIxP8zd2nKrIHfib_nXF-8yAwD_hM8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NDE0/NjktMTM5ODcxNjE0/Ny0yNjEyLmpwZWc.jpeg" alt="Cover for Creatures" style="max-width:120px; height:auto;" />
       </td>
@@ -1516,26 +1535,7 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
     </tr>
     <tr>
-      <td>52</td>
-      <td>
-          <img src="https://i.discogs.com/jHwagJO4pkxoFihhcoK_tap3ogWdjKUCrB4mt3dI0yc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNTE3/OTMtMTQxNzI3ODU4/MC05OTA0LmpwZWc.jpeg" alt="Cover for Islands" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2014</td>
-      <td>Intergalactic Lovers</td>
-      <td>Islands</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>32</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/839822ef4415f711bff8f724a8d3275a.png" alt="Cover for Strange World" style="max-width:120px; height:auto;" />
       </td>
@@ -1556,7 +1556,7 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7a5766e49ded422c52c4d60358b99f8f.png" alt="Cover for Hopes &amp; Dreams" style="max-width:120px; height:auto;" />
       </td>
@@ -1576,7 +1576,7 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/N9ylTkubHrkICZ8oTLqr_pS6NkwxzVYH8LrkbRd4HuE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0ODkz/ODgtMTQ0MjUyNDk0/NC04MTIxLmpwZWc.jpeg" alt="Cover for Recorded By John Agnello" style="max-width:120px; height:auto;" />
       </td>
@@ -1595,7 +1595,7 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/GNHpSFKijrBR18WOqzm_nPfJkZkbet0R7uL8CCmzqys/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTAx/NjUtMTM5MDMxNTEy/OS05NjY4LmpwZWc.jpeg" alt="Cover for Days of Thunder, Days of Grace" style="max-width:120px; height:auto;" />
       </td>
@@ -1612,7 +1612,7 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7cdcc266a48448e2e331eeebb022b65b.png" alt="Cover for Silver Souls" style="max-width:120px; height:auto;" />
       </td>
@@ -1631,12 +1631,12 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 73</li>
+            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 28</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/OcomZcEFIqwnMJdSnRJZ_lxFxA5GHBIpXf0nSJ3FcXo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NDUy/NjctMTQ2Njk0Nzkw/OS05OTA3LmpwZWc.jpeg" alt="Cover for Blackened Cities" style="max-width:120px; height:auto;" />
       </td>
@@ -1655,7 +1655,7 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/77757fa3eb7834671ea7ac4d927b01be.png" alt="Cover for Zeppelin" style="max-width:120px; height:auto;" />
       </td>
@@ -1675,7 +1675,7 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/47ed706c3a3e2ba1a579cd01f8a7c28a.png" alt="Cover for Bestial Fükkin&#39; Warmachine" style="max-width:120px; height:auto;" />
       </td>
@@ -1693,12 +1693,12 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 49</li>
+            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>92</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7e0ecd70e211bd0419e5fffc6546ffc8.png" alt="Cover for Trois fois rien" style="max-width:120px; height:auto;" />
       </td>
@@ -1718,7 +1718,7 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c29b93e519add83d0177668be98e5b56.png" alt="Cover for Reach" style="max-width:120px; height:auto;" />
       </td>
@@ -1737,7 +1737,7 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/3f9r_mRR-88PXaJ_BVdthGRXiH5-qA0V3yE0FwxnJgg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mzcz/ODcyLTE1NzMyNDM3/MTEtNTg0Ni5qcGVn.jpeg" alt="Cover for Brol La Suite" style="max-width:120px; height:auto;" />
       </td>
@@ -1758,18 +1758,18 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 66</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 71</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 72</li>
-            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 80</li>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 95</li>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 95</li>
-            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 97</li>
+            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 4</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 6</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 6</li>
+            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 21</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 29</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 30</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 35</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/jAqyVPg2lupr7z2qlsi6Xw9d-7w6jKTn28jIN_Y_IM4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzAx/MjA4LTE2MTI3MDA3/ODItODYyNi5qcGVn.jpeg" alt="Cover for Si tu m&#39;aimes demain" style="max-width:120px; height:auto;" />
       </td>
@@ -1790,14 +1790,14 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 8</li>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 81</li>
-            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 91</li>
+            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 10</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 20</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5db98fabaa767b0d469bfa5b81d93789.png" alt="Cover for The Black Hand of the Father" style="max-width:120px; height:auto;" />
       </td>
@@ -1815,12 +1815,12 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 42</li>
+            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/5m-2HdghWAzkdLuTrxq3Cof8BySjlS7m5SCd_5YEQ74/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTI0/MTY4LTE2MDM4MzE4/NDQtNzM5My5qcGVn.jpeg" alt="Cover for Sub Surface" style="max-width:120px; height:auto;" />
       </td>
@@ -1841,62 +1841,7 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
     </tr>
     <tr>
-      <td>54</td>
-      <td>
-          <img src="https://i.discogs.com/j9om_jx4ce7O4PsDeR7vSUkpbi8FgNxKn8OBactuQ4M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzAx/MTU3LTE2MTI3MDA0/NTgtNTc0My5qcGVn.jpeg" alt="Cover for Rattrape-moi" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2021</td>
-      <td>Iliona</td>
-      <td>Rattrape-moi</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 74</li>
-            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 87</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>71</td>
-      <td>
-          <img src="https://i.discogs.com/wqj8_R9VA53hgVGtXIqcsnqcs4jP0u4FcG37kutaErI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzAx/MDY0LTE2MTI3MDAy/MDQtMTg2MS5qcGVn.jpeg" alt="Cover for Reste" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2021</td>
-      <td>Iliona</td>
-      <td>Reste</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 14</li>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 83</li>
-            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 92</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/545548f86a57ba5009ef7f97c983ebbd.png" alt="Cover for Moins Joli" style="max-width:120px; height:auto;" />
       </td>
@@ -1917,14 +1862,69 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 63</li>
-            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 96</li>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 98</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 3</li>
+            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 5</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 37</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>30</td>
+      <td>
+          <img src="https://i.discogs.com/wqj8_R9VA53hgVGtXIqcsnqcs4jP0u4FcG37kutaErI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzAx/MDY0LTE2MTI3MDAy/MDQtMTg2MS5qcGVn.jpeg" alt="Cover for Reste" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021</td>
+      <td>Iliona</td>
+      <td>Reste</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 9</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 18</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 86</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>
+          <img src="https://i.discogs.com/j9om_jx4ce7O4PsDeR7vSUkpbi8FgNxKn8OBactuQ4M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzAx/MTU3LTE2MTI3MDA0/NTgtNTc0My5qcGVn.jpeg" alt="Cover for Rattrape-moi" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021</td>
+      <td>Iliona</td>
+      <td>Rattrape-moi</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 14</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 27</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/Pe2oAbFEYZyiVJH92Utv_jZBUHxbWmQ84NEgI6gzvaI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTQ0/MzY2LTE2MTk4Nzg5/NzEtNTYzNC5qcGVn.jpeg" alt="Cover for SEMPRE &#x2F; JAMAIS" style="max-width:120px; height:auto;" />
       </td>
@@ -1945,17 +1945,17 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 5</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 6</li>
-            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 22</li>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 23</li>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 32</li>
-            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 76</li>
+            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 25</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 68</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 78</li>
+            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 79</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 95</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/46c2773a2c8a7c38469aa35ad4d4f5bb.png" alt="Cover for x" style="max-width:120px; height:auto;" />
       </td>
@@ -1976,12 +1976,12 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 64</li>
+            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 37</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/af8f35be1a4fd0ec15d29c96b9e6f5b8.png" alt="Cover for Tête brûlée" style="max-width:120px; height:auto;" />
       </td>
@@ -2002,15 +2002,15 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 13</li>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 90</li>
-            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 98</li>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 100</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 1</li>
+            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 3</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 11</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/HBouHTIGsICh8vZwVEHxBCXfk1kJ2HuQEjby2LfwjmQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTUy/ODUwLTE3MDQ4MDQ0/MzYtMTgzNS5qcGVn.jpeg" alt="Cover for Drift By &#x2F; Sink In" style="max-width:120px; height:auto;" />
       </td>
@@ -2028,7 +2028,7 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dc9aa2db64afc1b7de6bc9d36f29fbb5.png" alt="Cover for Nonante-cinq la suite" style="max-width:120px; height:auto;" />
       </td>
@@ -2050,18 +2050,18 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 52</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 53</li>
-            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 62</li>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 85</li>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 89</li>
-            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 90</li>
-            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 100</li>
+            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 1</li>
+            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 11</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 12</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 16</li>
+            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 39</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 48</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/T9abllztjHuyhne7M-X4V49TpUCGNGpR91xuJpJtG5o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODUx/NTg2LTE2OTk1NzA2/NjQtOTcwNi5qcGVn.jpeg" alt="Cover for Fever" style="max-width:120px; height:auto;" />
       </td>
@@ -2082,18 +2082,18 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 80</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 80</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 81</li>
-            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 88</li>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 97</li>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 98</li>
-            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 100</li>
+            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 1</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 3</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 4</li>
+            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 13</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 20</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 21</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 21</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2c2655fe1718ce7b52b260a18a2c677f.png" alt="Cover for 2006" style="max-width:120px; height:auto;" />
       </td>
@@ -2110,12 +2110,12 @@ Last updated: <time datetime="2025-12-03T03:28:36.509Z">Wed Dec 03 2025 05:28:36
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 33</li>
+            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>88</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/40cdf2e111872e3dfa00191a19d8620c.png" alt="Cover for Let&#39;s Get Along" style="max-width:120px; height:auto;" />
       </td>

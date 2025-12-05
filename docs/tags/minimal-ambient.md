@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T03:28:54.897Z
+date: 2025-12-05T09:45:31.436Z
 permalink: tags/minimal-ambient
 title: minimal ambient
 ---
 
 ## minimal ambient
 
-Last updated: <time datetime="2025-12-03T03:28:54.897Z">Wed Dec 03 2025 05:28:54 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T09:45:31.436Z">Fri Dec 05 2025 11:45:31 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -65,15 +65,15 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
       <td>
         <ul>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 10</li>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 14</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 11</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 15</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 18</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 23</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 27</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 31</li>
-            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 35</li>
-            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 48</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 86</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 90</li>
+            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 52</li>
+            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 66</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 70</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 73</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -104,9 +104,9 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
         <ul>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 13</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 14</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 17</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 18</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 46</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 84</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -126,7 +126,7 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
         <ul>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 8</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 8</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 67</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -144,8 +144,8 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 34</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 66</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 67</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 68</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 73</li>
         </ul>
@@ -178,8 +178,8 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
         <ul>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 25</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 26</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 34</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 39</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -241,8 +241,8 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
         <ul>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 28</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 33</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 46</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 51</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -263,12 +263,12 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 2</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 25</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 32</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 39</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 44</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 47</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 57</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 62</li>
+            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -319,10 +319,10 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 8</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 57</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 64</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 88</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -351,15 +351,15 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 2</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 3</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 3</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 3</li>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 44</li>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 45</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 70</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 78</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 79</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 99</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 22</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 23</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 31</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 55</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -377,8 +377,8 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 43</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 55</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 58</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 68</li>
         </ul>
       </td>
@@ -400,7 +400,7 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 41</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -441,10 +441,10 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 9</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 56</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 63</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 87</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -467,9 +467,9 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 41</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 50</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 59</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 60</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 61</li>
         </ul>
       </td>
@@ -491,15 +491,15 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 2</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 13</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 18</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 22</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 34</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 24</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 36</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 38</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 55</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 77</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 83</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 88</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 67</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -520,12 +520,12 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 28</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 38</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 41</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 45</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 48</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 56</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 62</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 63</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 73</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 75</li>
         </ul>
       </td>
@@ -547,14 +547,14 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 28</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 35</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 45</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 50</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 51</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 56</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 59</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 61</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 65</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 65</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 67</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -575,11 +575,11 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 19</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 23</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 35</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 42</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 51</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 59</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -599,12 +599,12 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 4</li>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 34</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 37</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 62</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 64</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 66</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 67</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 93</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -623,10 +623,10 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 37</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 39</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 43</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 63</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -650,10 +650,10 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 6</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 84</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 87</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 90</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -674,15 +674,15 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 23</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 28</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 29</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 36</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 32</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 41</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 41</li>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 55</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 60</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 46</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 63</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 69</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 78</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -704,11 +704,11 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
         <ul>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 12</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 13</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 16</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 17</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 43</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 49</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 68</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 85</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 33</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 51</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -729,15 +729,15 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 22</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 27</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 28</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 29</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 37</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 38</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 40</li>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 61</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 40</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 61</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 62</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 64</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 72</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -764,9 +764,9 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
         <ul>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 34</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 35</li>
-            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 39</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 38</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 40</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 63</li>
+            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -788,11 +788,11 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 13</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 44</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 49</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 56</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 57</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 80</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -810,12 +810,12 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 1</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 33</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 34</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 37</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 39</li>
-            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 40</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 64</li>
+            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 60</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -834,10 +834,10 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 12</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 53</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 60</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 85</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -866,8 +866,8 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
       <td>
         <ul>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 48</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 49</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 51</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 52</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 59</li>
         </ul>
       </td>
@@ -889,14 +889,14 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 4</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 21</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 22</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 32</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 33</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 39</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 66</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 35</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 62</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 68</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 95</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -948,10 +948,10 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 41</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 42</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 45</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 54</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -972,13 +972,13 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 5</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 31</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 34</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 36</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 42</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 53</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 59</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 67</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 77</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -999,14 +999,14 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 2</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 25</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 33</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 47</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 54</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 58</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 68</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 72</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 73</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 74</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 75</li>
+            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1027,17 +1027,17 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 7</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 19</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 66</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 72</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 73</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 82</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 94</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/3gbNUjQfPhzb5dvqNfGEleJbDB0SmvSqouBOoXKuBLE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDM2/OTktMTIxNjczNDM5/NS5qcGVn.jpeg" alt="Cover for Bersarin Quartett LP&#x2F;CD" style="max-width:120px; height:auto;" />
       </td>
@@ -1062,11 +1062,11 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 3</li>
-            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 44</li>
+            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 56</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 63</li>
-            <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 68</li>
+            <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 69</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 95</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1087,12 +1087,12 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 11</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 14</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 14</li>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 54</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 47</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 81</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 84</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 87</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1113,15 +1113,15 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 12</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 12</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 21</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 26</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 35</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 43</li>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 48</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 53</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 53</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 72</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 75</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 80</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 89</li>
+            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1140,9 +1140,9 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
       <td>
         <ul>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 11</li>
-            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 16</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 20</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 52</li>
+            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1162,12 +1162,12 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-and-dark" | relative_url }}">deep and dark</a> # 80</li>
+            <li> <a href="{{ "/tags/deep-and-dark" | relative_url }}">deep and dark</a> # 21</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f24be45b7c2e4446abdc680d1bdb3bf7.png" alt="Cover for Ferndorf" style="max-width:120px; height:auto;" />
       </td>
@@ -1185,12 +1185,12 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 31</li>
-            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 34</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 56</li>
-            <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 69</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 13</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 45</li>
+            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 67</li>
+            <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 68</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 69</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 84</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 88</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 94</li>
         </ul>
       </td>
@@ -1220,13 +1220,13 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 5</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 5</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 5</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 23</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 49</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 72</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 95</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 5</li>
+            <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 5</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 6</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 29</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 52</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1267,15 +1267,15 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 6</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 15</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 32</li>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 49</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 33</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 46</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 52</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 52</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 55</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 68</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 71</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 86</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 88</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1296,15 +1296,15 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 1</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 1</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 4</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 4</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 4</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 11</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 12</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 26</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 27</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 75</li>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 97</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 97</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 100</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1325,13 +1325,13 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 31</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 35</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 47</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 52</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 54</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 58</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 59</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 66</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 67</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1356,8 +1356,8 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 40</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 55</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1382,8 +1382,8 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 48</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 50</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 53</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 54</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 61</li>
         </ul>
@@ -1415,11 +1415,11 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 26</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 26</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 27</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 42</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 55</li>
-            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 75</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1441,9 +1441,9 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
       <td>
         <ul>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 37</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 38</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 42</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 60</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 63</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 97</li>
         </ul>
       </td>
@@ -1475,9 +1475,9 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
         <ul>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 14</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 15</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 18</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 19</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 44</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 83</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1499,7 +1499,7 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-and-dark" | relative_url }}">deep and dark</a> # 65</li>
+            <li> <a href="{{ "/tags/deep-and-dark" | relative_url }}">deep and dark</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1522,9 +1522,9 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 8</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 20</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 44</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 81</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1553,12 +1553,12 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 9</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 9</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 9</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 12</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 21</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 62</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 92</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 39</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1581,11 +1581,11 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 5</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 28</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 29</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 34</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 52</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 73</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1610,14 +1610,14 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 13</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 12</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 14</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 20</li>
-            <li> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a> # 65</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 70</li>
-            <li> <a href="{{ "/tags/piano-solo" | relative_url }}">piano solo</a> # 72</li>
-            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 80</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 89</li>
+            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 21</li>
+            <li> <a href="{{ "/tags/piano-solo" | relative_url }}">piano solo</a> # 29</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 31</li>
+            <li> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a> # 36</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 80</li>
+            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1677,10 +1677,10 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
         <ul>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 7</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 7</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 8</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 11</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 23</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 63</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 93</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 38</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1703,9 +1703,9 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 36</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 45</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 48</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 65</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 69</li>
         </ul>
       </td>
@@ -1764,12 +1764,12 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 11</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 14</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 15</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 19</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 21</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 50</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 87</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 51</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1790,14 +1790,14 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 30</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 17</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 24</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 29</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 46</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 47</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 72</li>
+            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 71</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 74</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 77</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 77</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1826,11 +1826,11 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 19</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 32</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 44</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 47</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 66</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 69</li>
+            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1859,11 +1859,11 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 1</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 24</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 25</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 38</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 58</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 43</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1882,8 +1882,8 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
       <td>
         <ul>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 26</li>
-            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 26</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 29</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 72</li>
+            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 75</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 78</li>
         </ul>
       </td>
@@ -1903,12 +1903,12 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
       <td>
         <ul>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 10</li>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 20</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 27</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 30</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 33</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 35</li>
             <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 50</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 68</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 74</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1950,7 +1950,7 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
       <td>
         <ul>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 48</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 52</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 49</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 54</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 79</li>
         </ul>
@@ -1970,10 +1970,10 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 14</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 32</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 37</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 40</li>
+            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1998,9 +1998,9 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 15</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 30</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 69</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 32</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -2099,12 +2099,12 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 17</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 36</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 39</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 41</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 47</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 54</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 58</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 84</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -2122,13 +2122,13 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 6</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 13</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 23</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 30</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 31</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 37</li>
-            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 47</li>
+            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 53</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 88</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -2157,10 +2157,10 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 35</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 40</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 44</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 64</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -2180,11 +2180,11 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 36</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 42</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 45</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 45</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 56</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 56</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 59</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 64</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 93</li>
         </ul>
       </td>
@@ -2214,14 +2214,14 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 2</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 2</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 2</li>
-            <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 2</li>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 35</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 59</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 74</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 84</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 98</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 3</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 17</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 27</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 42</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -2243,7 +2243,7 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 27</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 31</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 47</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 51</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -2272,7 +2272,7 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 22</li>
+            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 79</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 82</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 85</li>
         </ul>
@@ -2295,10 +2295,10 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 5</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 60</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 65</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 92</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -2327,12 +2327,12 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 12</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 16</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 17</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 21</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 21</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 41</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 80</li>
-            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 89</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -2424,9 +2424,9 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
         <ul>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 18</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 20</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 20</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 29</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 70</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 31</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -2446,8 +2446,8 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
         <ul>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 4</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 4</li>
-            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 31</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 96</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 5</li>
+            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 69</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 96</li>
         </ul>
       </td>
@@ -2471,10 +2471,10 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 17</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 19</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 24</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 31</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 34</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 58</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 74</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 27</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 43</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 66</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 70</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 91</li>
         </ul>
       </td>
@@ -2506,9 +2506,9 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
         <ul>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 15</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 16</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 19</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 20</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 42</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 82</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -2540,7 +2540,7 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 22</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 24</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 36</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 61</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -2568,10 +2568,10 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 17</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 50</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 57</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 81</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -2593,10 +2593,10 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 30</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 46</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 49</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 70</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -2618,7 +2618,7 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-and-dark" | relative_url }}">deep and dark</a> # 92</li>
+            <li> <a href="{{ "/tags/deep-and-dark" | relative_url }}">deep and dark</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -2647,10 +2647,10 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 33</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 43</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 46</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 65</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -2672,13 +2672,13 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
       <td>
         <ul>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 10</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 10</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 10</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 13</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 55</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 61</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 67</li>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 81</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 91</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 20</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 34</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 40</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -2707,13 +2707,13 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 6</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 6</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 6</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 18</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 44</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 69</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 94</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 6</li>
+            <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 6</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 7</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 32</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 57</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -2763,14 +2763,14 @@ Minimal ambient is a contemplative music genre that combines sparse, slowly evol
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 1</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 1</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 1</li>
+            <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 1</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 1</li>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 13</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 46</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 64</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 79</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 100</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 22</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 37</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 54</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 87</li>
         </ul>
       </td>
     </tr>

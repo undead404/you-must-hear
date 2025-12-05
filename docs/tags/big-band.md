@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T03:33:30.257Z
+date: 2025-12-05T09:50:41.516Z
 permalink: tags/big-band
 title: big band
 ---
 
 ## big band
 
-Last updated: <time datetime="2025-12-03T03:33:30.257Z">Wed Dec 03 2025 05:33:30 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T09:50:41.516Z">Fri Dec 05 2025 11:50:41 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -171,7 +171,7 @@ Big band is a jazz-based genre featuring large orchestras of 10-25 musicians arr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 74</li>
+            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -191,8 +191,8 @@ Big band is a jazz-based genre featuring large orchestras of 10-25 musicians arr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/calypso" | relative_url }}">calypso</a> # 99</li>
-            <li> <a href="{{ "/tags/afro-cuban" | relative_url }}">afro-cuban</a> # 100</li>
+            <li> <a href="{{ "/tags/afro-cuban" | relative_url }}">afro-cuban</a> # 1</li>
+            <li> <a href="{{ "/tags/calypso" | relative_url }}">calypso</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -212,7 +212,7 @@ Big band is a jazz-based genre featuring large orchestras of 10-25 musicians arr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a> # 92</li>
+            <li> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -330,7 +330,7 @@ Big band is a jazz-based genre featuring large orchestras of 10-25 musicians arr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a> # 38</li>
+            <li> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -354,7 +354,7 @@ Big band is a jazz-based genre featuring large orchestras of 10-25 musicians arr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/clarinet" | relative_url }}">clarinet</a> # 96</li>
+            <li> <a href="{{ "/tags/clarinet" | relative_url }}">clarinet</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -470,9 +470,9 @@ Big band is a jazz-based genre featuring large orchestras of 10-25 musicians arr
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 6</li>
+            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 13</li>
             <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 25</li>
-            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 88</li>
-            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -491,7 +491,7 @@ Big band is a jazz-based genre featuring large orchestras of 10-25 musicians arr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 90</li>
+            <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -529,7 +529,7 @@ Big band is a jazz-based genre featuring large orchestras of 10-25 musicians arr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a> # 52</li>
+            <li> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -552,7 +552,7 @@ Big band is a jazz-based genre featuring large orchestras of 10-25 musicians arr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ragtime" | relative_url }}">ragtime</a> # 96</li>
+            <li> <a href="{{ "/tags/ragtime" | relative_url }}">ragtime</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -591,8 +591,8 @@ Big band is a jazz-based genre featuring large orchestras of 10-25 musicians arr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 55</li>
-            <li> <a href="{{ "/tags/clarinet" | relative_url }}">clarinet</a> # 84</li>
+            <li> <a href="{{ "/tags/clarinet" | relative_url }}">clarinet</a> # 17</li>
+            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -758,7 +758,7 @@ Big band is a jazz-based genre featuring large orchestras of 10-25 musicians arr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 18</li>
+            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -888,8 +888,8 @@ Big band is a jazz-based genre featuring large orchestras of 10-25 musicians arr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/clarinet" | relative_url }}">clarinet</a> # 22</li>
-            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 31</li>
+            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 70</li>
+            <li> <a href="{{ "/tags/clarinet" | relative_url }}">clarinet</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -912,7 +912,7 @@ Big band is a jazz-based genre featuring large orchestras of 10-25 musicians arr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 66</li>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -967,7 +967,7 @@ Big band is a jazz-based genre featuring large orchestras of 10-25 musicians arr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 51</li>
+            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -987,7 +987,7 @@ Big band is a jazz-based genre featuring large orchestras of 10-25 musicians arr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 27</li>
+            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1026,7 +1026,7 @@ Big band is a jazz-based genre featuring large orchestras of 10-25 musicians arr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 35</li>
+            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1063,7 +1063,7 @@ Big band is a jazz-based genre featuring large orchestras of 10-25 musicians arr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 71</li>
+            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1081,7 +1081,7 @@ Big band is a jazz-based genre featuring large orchestras of 10-25 musicians arr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vibraphone" | relative_url }}">vibraphone</a> # 96</li>
+            <li> <a href="{{ "/tags/vibraphone" | relative_url }}">vibraphone</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1139,7 +1139,7 @@ Big band is a jazz-based genre featuring large orchestras of 10-25 musicians arr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 21</li>
+            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1210,7 +1210,7 @@ Big band is a jazz-based genre featuring large orchestras of 10-25 musicians arr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 67</li>
+            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1230,8 +1230,8 @@ Big band is a jazz-based genre featuring large orchestras of 10-25 musicians arr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 57</li>
-            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 77</li>
+            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 21</li>
+            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1253,7 +1253,7 @@ Big band is a jazz-based genre featuring large orchestras of 10-25 musicians arr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 79</li>
+            <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1310,7 +1310,7 @@ Big band is a jazz-based genre featuring large orchestras of 10-25 musicians arr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 45</li>
+            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1330,7 +1330,7 @@ Big band is a jazz-based genre featuring large orchestras of 10-25 musicians arr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 13</li>
+            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1351,7 +1351,7 @@ Big band is a jazz-based genre featuring large orchestras of 10-25 musicians arr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 32</li>
+            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1390,7 +1390,7 @@ Big band is a jazz-based genre featuring large orchestras of 10-25 musicians arr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 82</li>
+            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1444,7 +1444,7 @@ Big band is a jazz-based genre featuring large orchestras of 10-25 musicians arr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 52</li>
+            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1464,7 +1464,7 @@ Big band is a jazz-based genre featuring large orchestras of 10-25 musicians arr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-guitar" | relative_url }}">jazz guitar</a> # 65</li>
+            <li> <a href="{{ "/tags/jazz-guitar" | relative_url }}">jazz guitar</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1520,7 +1520,7 @@ Big band is a jazz-based genre featuring large orchestras of 10-25 musicians arr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 57</li>
+            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1540,7 +1540,7 @@ Big band is a jazz-based genre featuring large orchestras of 10-25 musicians arr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-orleans" | relative_url }}">new orleans</a> # 94</li>
+            <li> <a href="{{ "/tags/new-orleans" | relative_url }}">new orleans</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1672,7 +1672,7 @@ Big band is a jazz-based genre featuring large orchestras of 10-25 musicians arr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crooners" | relative_url }}">crooners</a> # 85</li>
+            <li> <a href="{{ "/tags/crooners" | relative_url }}">crooners</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1734,7 +1734,7 @@ Big band is a jazz-based genre featuring large orchestras of 10-25 musicians arr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 42</li>
+            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1756,7 +1756,7 @@ Big band is a jazz-based genre featuring large orchestras of 10-25 musicians arr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 33</li>
+            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1820,7 +1820,7 @@ Big band is a jazz-based genre featuring large orchestras of 10-25 musicians arr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 86</li>
+            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1864,8 +1864,8 @@ Big band is a jazz-based genre featuring large orchestras of 10-25 musicians arr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 1</li>
-            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 87</li>
+            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 14</li>
+            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1889,7 +1889,7 @@ Big band is a jazz-based genre featuring large orchestras of 10-25 musicians arr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 85</li>
+            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1912,8 +1912,8 @@ Big band is a jazz-based genre featuring large orchestras of 10-25 musicians arr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 20</li>
-            <li> <a href="{{ "/tags/cajun" | relative_url }}">cajun</a> # 98</li>
+            <li> <a href="{{ "/tags/cajun" | relative_url }}">cajun</a> # 2</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 81</li>
         </ul>
       </td>
     </tr>

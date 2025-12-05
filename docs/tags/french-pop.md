@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T03:31:32.435Z
+date: 2025-12-05T09:48:22.024Z
 permalink: tags/french-pop
 title: french pop
 ---
 
 ## french pop
 
-Last updated: <time datetime="2025-12-03T03:31:32.435Z">Wed Dec 03 2025 05:31:32 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T09:48:22.024Z">Fri Dec 05 2025 11:48:22 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -44,7 +44,7 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 93</li>
+            <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -111,7 +111,7 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 27</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -152,7 +152,7 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 57</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -197,10 +197,10 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 69</li>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 96</li>
-            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 99</li>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 99</li>
+            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 2</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 2</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 5</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -222,8 +222,8 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 5</li>
             <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 36</li>
-            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -286,10 +286,10 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 24</li>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 74</li>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 83</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 86</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 15</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 18</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 27</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -310,7 +310,7 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 28</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -332,7 +332,7 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 12</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -351,7 +351,7 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 89</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -436,10 +436,10 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 67</li>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 77</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 80</li>
-            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 94</li>
+            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 7</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 21</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 24</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -479,9 +479,9 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 18</li>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 19</li>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 55</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 46</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 82</li>
+            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -538,7 +538,7 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 29</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -557,7 +557,7 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 30</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -597,7 +597,7 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 76</li>
+            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -733,7 +733,7 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 54</li>
+            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -770,7 +770,7 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 64</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -884,7 +884,7 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 78</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1023,9 +1023,9 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 73</li>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 94</li>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 94</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 7</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 7</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1064,7 +1064,7 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 33</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1108,9 +1108,9 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 34</li>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 88</li>
-            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 94</li>
+            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 7</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 13</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1151,7 +1151,7 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 53</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1177,8 +1177,8 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 44</li>
-            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 97</li>
+            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 4</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1196,7 +1196,7 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 32</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1214,7 +1214,7 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 23</li>
+            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1242,10 +1242,10 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 27</li>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 76</li>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 85</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 88</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 13</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 16</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 25</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1299,8 +1299,8 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 77</li>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 95</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 6</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1328,9 +1328,9 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 3</li>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 80</li>
-            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 93</li>
+            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 8</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 21</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1355,8 +1355,8 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 7</li>
-            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 96</li>
+            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 5</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1428,8 +1428,8 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 23</li>
             <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 27</li>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1459,12 +1459,12 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 70</li>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 93</li>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 93</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 95</li>
-            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 97</li>
-            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 99</li>
+            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 2</li>
+            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 4</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 6</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 8</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 8</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1506,7 +1506,7 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 87</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1533,12 +1533,12 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       <td>
         <ul>
             <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 3</li>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 66</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 71</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 72</li>
-            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 80</li>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 95</li>
-            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 97</li>
+            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 4</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 6</li>
+            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 21</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 29</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 30</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1564,9 +1564,9 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 10</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 20</li>
             <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 35</li>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 81</li>
-            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1588,8 +1588,8 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 61</li>
-            <li> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a> # 77</li>
+            <li> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a> # 24</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1612,7 +1612,7 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 67</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1638,7 +1638,7 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 40</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 61</li>
             <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 89</li>
         </ul>
       </td>
@@ -1665,9 +1665,9 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 3</li>
+            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 5</li>
             <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 14</li>
-            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 96</li>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1693,9 +1693,9 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 9</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 18</li>
             <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 30</li>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 83</li>
-            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1742,16 +1742,16 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 9</li>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 50</li>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 90</li>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 94</li>
-            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 100</li>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 100</li>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 100</li>
-            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 100</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 100</li>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 100</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 1</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 1</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 1</li>
+            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 1</li>
+            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 1</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 1</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 7</li>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 11</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 48</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1777,12 +1777,12 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 5</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 6</li>
             <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 19</li>
-            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 22</li>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 23</li>
-            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 76</li>
+            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 25</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 78</li>
+            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 79</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 95</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1804,7 +1804,7 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 74</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1834,11 +1834,11 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 63</li>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 75</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 77</li>
-            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 90</li>
-            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 92</li>
+            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 9</li>
+            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 11</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 24</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 26</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1878,7 +1878,7 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a> # 31</li>
+            <li> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1896,8 +1896,8 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 88</li>
-            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 89</li>
+            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 12</li>
+            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -1942,11 +1942,11 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 28</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 61</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 62</li>
-            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 69</li>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 92</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 9</li>
+            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 32</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 39</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 40</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1990,10 +1990,10 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 1</li>
+            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 3</li>
             <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 8</li>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 13</li>
-            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 98</li>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 100</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -2021,11 +2021,11 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 47</li>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 89</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 92</li>
-            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 95</li>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 97</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 4</li>
+            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 6</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 9</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 13</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -2050,8 +2050,8 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 53</li>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 54</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 47</li>
+            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -2079,10 +2079,10 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 61</li>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 91</li>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 92</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 94</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 7</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 9</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 11</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -2109,9 +2109,9 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 61</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 76</li>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 79</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 22</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 25</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -2138,13 +2138,13 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 1</li>
+            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 11</li>
             <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 11</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 52</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 53</li>
-            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 62</li>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 85</li>
-            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 90</li>
-            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 100</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 16</li>
+            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 39</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 48</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -2190,12 +2190,12 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       <td>
         <ul>
             <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 1</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 80</li>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 80</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 81</li>
-            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 88</li>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 97</li>
-            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 100</li>
+            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 1</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 4</li>
+            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 13</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 20</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 21</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -2223,11 +2223,11 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 75</li>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 95</li>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 95</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 97</li>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 99</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 2</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 4</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 6</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 6</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -2255,11 +2255,11 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 29</li>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 77</li>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 86</li>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 89</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 89</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 12</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 12</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 15</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 24</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -2287,10 +2287,10 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 59</li>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 73</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 74</li>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 78</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 23</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 27</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 28</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -2315,9 +2315,9 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 36</li>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 98</li>
-            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 100</li>
+            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 1</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 3</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -2342,8 +2342,8 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 78</li>
-            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 95</li>
+            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 6</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 23</li>
         </ul>
       </td>
     </tr>

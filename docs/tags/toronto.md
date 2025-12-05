@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T03:30:57.607Z
+date: 2025-12-05T09:47:30.355Z
 permalink: tags/toronto
 title: toronto
 ---
 
 ## toronto
 
-Last updated: <time datetime="2025-12-03T03:30:57.607Z">Wed Dec 03 2025 05:30:57 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T09:47:30.355Z">Fri Dec 05 2025 11:47:30 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -118,9 +118,9 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 23</li>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 47</li>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 99</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 2</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 54</li>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -149,7 +149,7 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 22</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -234,7 +234,7 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 28</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -325,11 +325,11 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 6</li>
-            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 11</li>
-            <li> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a> # 34</li>
-            <li> <a href="{{ "/tags/alternative-electronic" | relative_url }}">alternative electronic</a> # 52</li>
-            <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 65</li>
+            <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 36</li>
+            <li> <a href="{{ "/tags/alternative-electronic" | relative_url }}">alternative electronic</a> # 47</li>
+            <li> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a> # 66</li>
+            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 90</li>
+            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -384,8 +384,8 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 60</li>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 84</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 17</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -408,7 +408,7 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 26</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -447,7 +447,7 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 11</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -524,7 +524,7 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 14</li>
+            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -760,7 +760,7 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/wales" | relative_url }}">wales</a> # 76</li>
+            <li> <a href="{{ "/tags/wales" | relative_url }}">wales</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -818,8 +818,8 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 3</li>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 12</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 89</li>
+            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -839,7 +839,7 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a> # 46</li>
+            <li> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1022,7 +1022,7 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 12</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1071,7 +1071,7 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 30</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1200,7 +1200,7 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/epic-black-metal" | relative_url }}">epic black metal</a> # 90</li>
+            <li> <a href="{{ "/tags/epic-black-metal" | relative_url }}">epic black metal</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1263,7 +1263,7 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 64</li>
+            <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1366,7 +1366,7 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 7</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1395,7 +1395,7 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 67</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1508,7 +1508,7 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 68</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1586,7 +1586,7 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 62</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1615,7 +1615,7 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 43</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1672,7 +1672,7 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 82</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1701,7 +1701,7 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 49</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1771,7 +1771,7 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 87</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1828,7 +1828,7 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 6</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1857,7 +1857,7 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 37</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1914,7 +1914,7 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 66</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1943,7 +1943,7 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 33</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1993,7 +1993,7 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 49</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -2022,8 +2022,8 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 15</li>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 96</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 5</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -2052,7 +2052,7 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 58</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -2109,9 +2109,9 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 42</li>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 75</li>
-            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 82</li>
+            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 19</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 26</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -2134,8 +2134,8 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 24</li>
-            <li> <a href="{{ "/tags/tenor" | relative_url }}">tenor</a> # 96</li>
+            <li> <a href="{{ "/tags/tenor" | relative_url }}">tenor</a> # 5</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -2160,7 +2160,7 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 41</li>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -2188,7 +2188,7 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 40</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -2217,7 +2217,7 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 14</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -2236,7 +2236,7 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 9</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -2257,7 +2257,7 @@ The &quot;toronto&quot; tag captures the diverse musical output emerging from Ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 33</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 68</li>
         </ul>
       </td>
     </tr>
