@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T20:34:11.389Z
+date: 2025-12-04T21:05:31.601Z
 permalink: tags/patriotic
 title: patriotic
 ---
 
 ## patriotic
 
-Last updated: <time datetime="2025-10-28T20:34:11.389Z">Tue Oct 28 2025 22:34:11 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T21:05:31.601Z">Thu Dec 04 2025 23:05:31 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -68,7 +68,7 @@ Patriotic music celebrates national identity, pride, and shared cultural values 
     <tr>
       <td>90</td>
       <td>
-          <img src="https://i.discogs.com/tNngAeBVO7S0MxXpDqmx9jk_se2XytGQ2lWe_snN_RA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MzA5/MTItMTMzODEwMTc4/Ni0xNDAzLmpwZWc.jpeg" alt="Cover for Mine Eyes Have Seen the Glory" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1367c69625d54326c3dfe82e1e887ebc.png" alt="Cover for Mine Eyes Have Seen the Glory" style="max-width:120px; height:auto;" />
       </td>
       <td>1966</td>
       <td>Anita Bryant</td>
@@ -83,7 +83,7 @@ Patriotic music celebrates national identity, pride, and shared cultural values 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 31</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -108,6 +108,7 @@ Patriotic music celebrates national identity, pride, and shared cultural values 
     <tr>
       <td>99</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c784ca0e0c14982f13991b08dc5562ac.png" alt="Cover for God Bless America" style="max-width:120px; height:auto;" />
       </td>
       <td>1972</td>
       <td>Various Artists</td>
@@ -126,8 +127,8 @@ Patriotic music celebrates national identity, pride, and shared cultural values 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 42</li>
-            <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 62</li>
+            <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 37</li>
+            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -152,6 +153,7 @@ Patriotic music celebrates national identity, pride, and shared cultural values 
     <tr>
       <td>83</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/61c8cc5608582b59e7520772233c54dd.png" alt="Cover for America, Why I Love Her" style="max-width:120px; height:auto;" />
       </td>
       <td>1973</td>
       <td>John Wayne</td>
@@ -168,7 +170,7 @@ Patriotic music celebrates national identity, pride, and shared cultural values 
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/eCKfHkti213s1idv667rh7PHwvu_J7u1TrR74wMbJEA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjA1/NzU2LTE0OTMzODQy/MzgtOTc1MC5qcGVn.jpeg" alt="Cover for God Bless America" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/51fa3d3f611ad35233cd072c3225d0c3.png" alt="Cover for God Bless America" style="max-width:120px; height:auto;" />
       </td>
       <td>1974</td>
       <td>Mormon Tabernacle Choir</td>
@@ -205,6 +207,7 @@ Patriotic music celebrates national identity, pride, and shared cultural values 
     <tr>
       <td>100</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/45e963c7caa7f4b0fa25942ec6eb8bde.png" alt="Cover for American Stars &#39;n Bars" style="max-width:120px; height:auto;" />
       </td>
       <td>1977</td>
       <td>Neil Young</td>
@@ -275,9 +278,9 @@ Patriotic music celebrates national identity, pride, and shared cultural values 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 12</li>
-            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 21</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 72</li>
+            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 20</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 29</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -374,7 +377,7 @@ Patriotic music celebrates national identity, pride, and shared cultural values 
     <tr>
       <td>44</td>
       <td>
-          <img src="https://i.discogs.com/Ixhx17DPRKM4SvfhRnHu6wA468SzaRFzFNEVao3uBQg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTAy/MDUxLTE1NTU0MDk5/NDEtNDkyOC5qcGVn.jpeg" alt="Cover for GOULD: American Ballads &#x2F; Foster Gallery &#x2F; American Salute" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/444079f3956c444faa6c64bbe1076fc7.png" alt="Cover for GOULD: American Ballads &#x2F; Foster Gallery &#x2F; American Salute" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Morton Gould</td>
@@ -648,7 +651,6 @@ Patriotic music celebrates national identity, pride, and shared cultural values 
     <tr>
       <td>31</td>
       <td>
-          <img src="https://i.discogs.com/iqCNE7InXXs9p-jveZis-yWfCB1lKYbj08KBZ2HF_qM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NzA2/MTYtMTU0MTg0Mzg1/OC0zMzI3LmpwZWc.jpeg" alt="Cover for Vinlandic War Hymns (split)" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Tyranath</td>
@@ -875,7 +877,6 @@ Patriotic music celebrates national identity, pride, and shared cultural values 
     <tr>
       <td>16</td>
       <td>
-          <img src="https://i.discogs.com/2-ABb3vlOMD3Wkstk_hJ5II2zIKsw-KkBrMfcmD1yVo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMzkw/MDQtMTM1NjYxNjAw/MS05NDA5LmpwZWc.jpeg" alt="Cover for Hymnes Patriotiques vol. 1" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-05</td>
       <td>1837</td>
@@ -899,7 +900,7 @@ Patriotic music celebrates national identity, pride, and shared cultural values 
     <tr>
       <td>37</td>
       <td>
-          <img src="https://i.discogs.com/2-ABb3vlOMD3Wkstk_hJ5II2zIKsw-KkBrMfcmD1yVo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMzkw/MDQtMTM1NjYxNjAw/MS05NDA5LmpwZWc.jpeg" alt="Cover for Prologue (promo)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e8a0caac5331d67c4eee8b414c93ad8e.png" alt="Cover for Prologue (promo)" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-05</td>
       <td>1837</td>
@@ -968,17 +969,16 @@ Patriotic music celebrates national identity, pride, and shared cultural values 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 1</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 5</li>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 6</li>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 17</li>
-            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 18</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 30</li>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 30</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 36</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 38</li>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 41</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 45</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 36</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 57</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 58</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 65</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 69</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 71</li>
+            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 80</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 82</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 93</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -996,13 +996,13 @@ Patriotic music celebrates national identity, pride, and shared cultural values 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 1</li>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 17</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 17</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 21</li>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 23</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 24</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 24</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 19</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 77</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 78</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 80</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 82</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 84</li>
+            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1207,7 +1207,7 @@ Patriotic music celebrates national identity, pride, and shared cultural values 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ukraine" | relative_url }}">ukraine</a> # 27</li>
+            <li> <a href="{{ "/tags/ukraine" | relative_url }}">ukraine</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1225,13 +1225,13 @@ Patriotic music celebrates national identity, pride, and shared cultural values 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 3</li>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 18</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 18</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 24</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 26</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 26</li>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 27</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 21</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 73</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 76</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 77</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 81</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 83</li>
+            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1250,81 +1250,6 @@ Patriotic music celebrates national identity, pride, and shared cultural values 
       </td>
       <td>
         <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>81</td>
-      <td>
-          <img src="https://i.discogs.com/LaXn6WpA9QBOp31pEt538Y6_5qrCt2eqR_ijdKJMIT0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTM5/NDY0LTE2MzY4NDY1/NDUtNzUwNi5qcGVn.jpeg" alt="Cover for Red (Taylor&#39;s Version) [Clean]" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2022-11</td>
-      <td>Taylor Swift</td>
-      <td>Red (Taylor&#39;s Version) [Clean]</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/djent" | relative_url }}">djent</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/parody" | relative_url }}">parody</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/patriotic" | relative_url }}">patriotic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rac" | relative_url }}">rac</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1410,6 +1335,80 @@ Patriotic music celebrates national identity, pride, and shared cultural values 
       <td>2022-11</td>
       <td>Taylor Swift</td>
       <td>Red (Taylor&#39;s Version) (Explicit)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/djent" | relative_url }}">djent</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/parody" | relative_url }}">parody</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/patriotic" | relative_url }}">patriotic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rac" | relative_url }}">rac</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>
+          <img src="https://i.discogs.com/LaXn6WpA9QBOp31pEt538Y6_5qrCt2eqR_ijdKJMIT0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTM5/NDY0LTE2MzY4NDY1/NDUtNzUwNi5qcGVn.jpeg" alt="Cover for Red (Taylor&#39;s Version) [Clean]" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-11</td>
+      <td>Taylor Swift</td>
+      <td>Red (Taylor&#39;s Version) [Clean]</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a></li>
@@ -1638,8 +1637,7 @@ Patriotic music celebrates national identity, pride, and shared cultural values 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 1</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 12</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1713,9 +1711,9 @@ Patriotic music celebrates national identity, pride, and shared cultural values 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 1</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 2</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 13</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 6</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 99</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1732,16 +1730,16 @@ Patriotic music celebrates national identity, pride, and shared cultural values 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 1</li>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 2</li>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 12</li>
-            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 15</li>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 26</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 28</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 32</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 35</li>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 37</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 43</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 32</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 59</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 63</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 69</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 73</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 73</li>
+            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 83</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 87</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 97</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1933,6 +1931,7 @@ Patriotic music celebrates national identity, pride, and shared cultural values 
     <tr>
       <td>23</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1547aede4b5259f649fb25ad084b820f.png" alt="Cover for Kolonn Kernewek" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Bleydh Taran</td>
@@ -2102,6 +2101,7 @@ Patriotic music celebrates national identity, pride, and shared cultural values 
     <tr>
       <td>42</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9aca97bcdb5ffed7a3596ac6cb2e1b6b.png" alt="Cover for Salute To The American Spirit" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>US Air Force Band of Liberty</td>
@@ -2190,6 +2190,7 @@ Patriotic music celebrates national identity, pride, and shared cultural values 
     <tr>
       <td>59</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/69698ac64e10631a870d96b3ffaa4f12.png" alt="Cover for Where Have All the Flowers Gone ?" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Singer Dr. B...</td>
@@ -2514,6 +2515,7 @@ Patriotic music celebrates national identity, pride, and shared cultural values 
     <tr>
       <td>82</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/04bd876b0ac54c64b778e78a92af726a.png" alt="Cover for America United" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Deborah Wedekind</td>

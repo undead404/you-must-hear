@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-24T00:25:37.947Z
+date: 2025-12-04T20:31:45.846Z
 permalink: tags/college-rock
 title: college rock
 ---
 
 ## college rock
 
-Last updated: <time datetime="2025-11-24T00:25:37.947Z">Mon Nov 24 2025 02:25:37 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T20:31:45.846Z">Thu Dec 04 2025 22:31:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -62,7 +62,7 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 37</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -190,11 +190,9 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 46</li>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 50</li>
-            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 92</li>
-            <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 92</li>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 95</li>
+            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 9</li>
+            <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 9</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -213,8 +211,8 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 84</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 86</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 15</li>
+            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -232,12 +230,10 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 25</li>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 34</li>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 52</li>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 85</li>
-            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 85</li>
-            <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 99</li>
+            <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 2</li>
+            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 16</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 66</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -259,7 +255,7 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 72</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -276,7 +272,7 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 91</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -295,8 +291,8 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 9</li>
             <li> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a> # 18</li>
-            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 92</li>
             <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 95</li>
         </ul>
       </td>
@@ -316,7 +312,7 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 67</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -335,8 +331,8 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 42</li>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 94</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 45</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -354,7 +350,7 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 63</li>
+            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -372,7 +368,7 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 21</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -392,7 +388,7 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 57</li>
+            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -427,14 +423,12 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 9</li>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 29</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 81</li>
-            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 94</li>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 97</li>
-            <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 98</li>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 100</li>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 100</li>
+            <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 3</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 4</li>
+            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 7</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 70</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 87</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -453,8 +447,8 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 60</li>
-            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 75</li>
+            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 27</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -528,8 +522,8 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 2</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 68</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 33</li>
+            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -547,8 +541,8 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 82</li>
-            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 83</li>
+            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 18</li>
+            <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -567,7 +561,7 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 55</li>
+            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -585,7 +579,7 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 70</li>
+            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -609,7 +603,7 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a> # 14</li>
+            <li> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -648,7 +642,7 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 69</li>
+            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -705,7 +699,7 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 82</li>
+            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -781,7 +775,7 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       <td>
         <ul>
             <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 38</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 40</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 61</li>
             <li> <a href="{{ "/tags/roots-rock" | relative_url }}">roots rock</a> # 100</li>
         </ul>
       </td>
@@ -934,7 +928,7 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 13</li>
+            <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -953,8 +947,7 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 13</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 32</li>
+            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1010,7 +1003,7 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 94</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1031,7 +1024,7 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 89</li>
+            <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -1144,7 +1137,7 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 93</li>
+            <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1166,7 +1159,7 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 13</li>
+            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1189,9 +1182,9 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 33</li>
-            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 88</li>
-            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 90</li>
+            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 11</li>
+            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 13</li>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1322,7 +1315,7 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 65</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1406,7 +1399,7 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 11</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1549,9 +1542,9 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 63</li>
-            <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 73</li>
-            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 81</li>
+            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 21</li>
+            <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 28</li>
+            <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1595,7 +1588,7 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 46</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1651,8 +1644,8 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 62</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 98</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 3</li>
+            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1671,7 +1664,7 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 50</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1712,7 +1705,7 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 71</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1747,9 +1740,9 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 18</li>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 64</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 21</li>
             <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 64</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1769,7 +1762,7 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 58</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1810,8 +1803,8 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 85</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 96</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 16</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1850,7 +1843,7 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 80</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1868,11 +1861,11 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 32</li>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 44</li>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 51</li>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 64</li>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 91</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 10</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 33</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 54</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 56</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1901,7 +1894,7 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 66</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1981,7 +1974,7 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       <td>
         <ul>
             <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 17</li>
-            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 19</li>
+            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -2031,7 +2024,7 @@ College rock emerged in the 1980s as an alternative to mainstream radio, featuri
       <td>
         <ul>
             <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 19</li>
-            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 20</li>
+            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 81</li>
         </ul>
       </td>
     </tr>
