@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-02T18:27:50.995Z
+date: 2025-12-05T04:25:28.047Z
 permalink: tags/hindustani
 title: hindustani
 ---
 
 ## hindustani
 
-Last updated: <time datetime="2025-11-02T18:27:50.995Z">Sun Nov 02 2025 20:27:50 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T04:25:28.047Z">Fri Dec 05 2025 06:25:28 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -115,7 +115,7 @@ Hindustani refers to the classical music tradition of North India, characterized
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a> # 31</li>
+            <li> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -213,7 +213,7 @@ Hindustani refers to the classical music tradition of North India, characterized
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 14</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -288,7 +288,7 @@ Hindustani refers to the classical music tradition of North India, characterized
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 51</li>
+            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -368,7 +368,7 @@ Hindustani refers to the classical music tradition of North India, characterized
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a> # 28</li>
+            <li> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -389,7 +389,7 @@ Hindustani refers to the classical music tradition of North India, characterized
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 59</li>
+            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -409,7 +409,7 @@ Hindustani refers to the classical music tradition of North India, characterized
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a> # 37</li>
+            <li> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -430,7 +430,7 @@ Hindustani refers to the classical music tradition of North India, characterized
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a> # 51</li>
+            <li> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -595,7 +595,7 @@ Hindustani refers to the classical music tradition of North India, characterized
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 18</li>
+            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -615,7 +615,7 @@ Hindustani refers to the classical music tradition of North India, characterized
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 11</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -652,8 +652,8 @@ Hindustani refers to the classical music tradition of North India, characterized
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a> # 67</li>
-            <li> <a href="{{ "/tags/indian-classical" | relative_url }}">indian classical</a> # 70</li>
+            <li> <a href="{{ "/tags/indian-classical" | relative_url }}">indian classical</a> # 31</li>
+            <li> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -678,10 +678,10 @@ Hindustani refers to the classical music tradition of North India, characterized
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 10</li>
-            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 14</li>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 62</li>
-            <li> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a> # 69</li>
+            <li> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a> # 32</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 38</li>
+            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 86</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -702,8 +702,8 @@ Hindustani refers to the classical music tradition of North India, characterized
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 17</li>
-            <li> <a href="{{ "/tags/indian-classical" | relative_url }}">indian classical</a> # 63</li>
+            <li> <a href="{{ "/tags/indian-classical" | relative_url }}">indian classical</a> # 38</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -779,9 +779,9 @@ Hindustani refers to the classical music tradition of North India, characterized
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 27</li>
-            <li> <a href="{{ "/tags/pakistani" | relative_url }}">pakistani</a> # 68</li>
-            <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 70</li>
+            <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 31</li>
+            <li> <a href="{{ "/tags/pakistani" | relative_url }}">pakistani</a> # 32</li>
+            <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -946,7 +946,7 @@ Hindustani refers to the classical music tradition of North India, characterized
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 52</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -972,8 +972,8 @@ Hindustani refers to the classical music tradition of North India, characterized
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 54</li>
-            <li> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a> # 64</li>
+            <li> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a> # 37</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -995,9 +995,9 @@ Hindustani refers to the classical music tradition of North India, characterized
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 23</li>
-            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 32</li>
-            <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 62</li>
+            <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 39</li>
+            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 69</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1056,7 +1056,7 @@ Hindustani refers to the classical music tradition of North India, characterized
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a> # 23</li>
+            <li> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1167,8 +1167,8 @@ Hindustani refers to the classical music tradition of North India, characterized
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 38</li>
-            <li> <a href="{{ "/tags/indian-classical" | relative_url }}">indian classical</a> # 76</li>
+            <li> <a href="{{ "/tags/indian-classical" | relative_url }}">indian classical</a> # 25</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1406,9 +1406,9 @@ Hindustani refers to the classical music tradition of North India, characterized
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 21</li>
-            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 51</li>
-            <li> <a href="{{ "/tags/indian-classical" | relative_url }}">indian classical</a> # 64</li>
+            <li> <a href="{{ "/tags/indian-classical" | relative_url }}">indian classical</a> # 37</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 50</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1522,7 +1522,7 @@ Hindustani refers to the classical music tradition of North India, characterized
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a> # 5</li>
+            <li> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1613,7 +1613,7 @@ Hindustani refers to the classical music tradition of North India, characterized
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian-classical" | relative_url }}">indian classical</a> # 37</li>
+            <li> <a href="{{ "/tags/indian-classical" | relative_url }}">indian classical</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1688,9 +1688,9 @@ Hindustani refers to the classical music tradition of North India, characterized
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 53</li>
-            <li> <a href="{{ "/tags/indian-classical" | relative_url }}">indian classical</a> # 82</li>
-            <li> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a> # 85</li>
+            <li> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a> # 16</li>
+            <li> <a href="{{ "/tags/indian-classical" | relative_url }}">indian classical</a> # 19</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1795,7 +1795,7 @@ Hindustani refers to the classical music tradition of North India, characterized
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 21</li>
+            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1815,7 +1815,7 @@ Hindustani refers to the classical music tradition of North India, characterized
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 28</li>
+            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 73</li>
         </ul>
       </td>
     </tr>

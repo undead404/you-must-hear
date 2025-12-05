@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-07T18:56:39.493Z
+date: 2025-12-05T04:17:50.939Z
 permalink: tags/tropicalia
 title: tropicalia
 ---
 
 ## tropicalia
 
-Last updated: <time datetime="2025-11-07T18:56:39.493Z">Fri Nov 07 2025 20:56:39 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T04:17:50.939Z">Fri Dec 05 2025 06:17:50 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -95,7 +95,7 @@ Tropicália was a revolutionary Brazilian music movement of the late 1960s that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 78</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -114,13 +114,14 @@ Tropicália was a revolutionary Brazilian music movement of the late 1960s that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 79</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 21</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>98</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8b290fbbc4fc468197aa2073ab16025d.png" alt="Cover for Gal Costa" style="max-width:120px; height:auto;" />
       </td>
       <td>1969</td>
       <td>Gal Costa</td>
@@ -133,7 +134,7 @@ Tropicália was a revolutionary Brazilian music movement of the late 1960s that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 76</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -197,6 +198,7 @@ Tropicália was a revolutionary Brazilian music movement of the late 1960s that 
     <tr>
       <td>88</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/966c7a6d32a294c26cc6ac01f6e4edd3.png" alt="Cover for A Divina Comédia ou Ando Meio Desligado" style="max-width:120px; height:auto;" />
       </td>
       <td>1970-03</td>
       <td>Os Mutantes</td>
@@ -231,13 +233,14 @@ Tropicália was a revolutionary Brazilian music movement of the late 1960s that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 13</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>14</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/255b5aaa7e67f4c30f3fa2d1ca1ae6c7.png" alt="Cover for Gilberto Gil (1969)" style="max-width:120px; height:auto;" />
       </td>
       <td>1971</td>
       <td>Gilberto Gil</td>
@@ -266,7 +269,7 @@ Tropicália was a revolutionary Brazilian music movement of the late 1960s that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 15</li>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -287,8 +290,8 @@ Tropicália was a revolutionary Brazilian music movement of the late 1960s that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 96</li>
-            <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 98</li>
+            <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 2</li>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -391,6 +394,7 @@ Tropicália was a revolutionary Brazilian music movement of the late 1960s that 
     <tr>
       <td>51</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/af782008e398b35cd9b83eefec3a26b5.png" alt="Cover for Gal A Todo Vapor" style="max-width:120px; height:auto;" />
       </td>
       <td>1972</td>
       <td>Gal Costa</td>
@@ -411,6 +415,7 @@ Tropicália was a revolutionary Brazilian music movement of the late 1960s that 
     <tr>
       <td>94</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/03738afc30f2dd2884cc1fa8fca87ae0.png" alt="Cover for Gal A Todo Vapor (Live)" style="max-width:120px; height:auto;" />
       </td>
       <td>1972</td>
       <td>Gal Costa</td>
@@ -478,6 +483,23 @@ Tropicália was a revolutionary Brazilian music movement of the late 1960s that 
       </td>
     </tr>
     <tr>
+      <td>49</td>
+      <td>
+      </td>
+      <td>1975</td>
+      <td>Ave Sangria</td>
+      <td>Ave Sangria</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 63</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>59</td>
       <td>
           <img src="https://i.discogs.com/QgPu02w_YN69DHJDTPi_5-PHRBfh2vcRkg3qhmDskvo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MjIy/MjUtMTY3MzE3ODUz/MS02OTcxLmpwZWc.jpeg" alt="Cover for A Arte de Caetano Veloso" style="max-width:120px; height:auto;" />
@@ -536,24 +558,9 @@ Tropicália was a revolutionary Brazilian music movement of the late 1960s that 
       </td>
     </tr>
     <tr>
-      <td>49</td>
-      <td>
-      </td>
-      <td>1975</td>
-      <td>Ave Sangria</td>
-      <td>Ave Sangria</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>45</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/afa356aabafc588d02bae701efcc0b95.png" alt="Cover for Doces Bárbaros" style="max-width:120px; height:auto;" />
       </td>
       <td>1976</td>
       <td>Doces Bárbaros</td>
@@ -576,7 +583,8 @@ Tropicália was a revolutionary Brazilian music movement of the late 1960s that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 22</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 7</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -636,13 +644,14 @@ Tropicália was a revolutionary Brazilian music movement of the late 1960s that 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>25</td>
       <td>
-          <img src="https://i.discogs.com/h1cPtbdV0DfbCrw0dayxgvXGEEK06_q5nTyJ9lpy4fQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Mjgz/NDktMTI5Mzk5MDIx/MS5qcGVn.jpeg" alt="Cover for Feitiço" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cca07afbd5c8f6ab5e3c0f091a1557ff.png" alt="Cover for Feitiço" style="max-width:120px; height:auto;" />
       </td>
       <td>1982</td>
       <td>Ney Matogrosso</td>
@@ -757,7 +766,7 @@ Tropicália was a revolutionary Brazilian music movement of the late 1960s that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 73</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 26</li>
             <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 88</li>
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 89</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 89</li>
@@ -768,6 +777,7 @@ Tropicália was a revolutionary Brazilian music movement of the late 1960s that 
     <tr>
       <td>6</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c73c5d9a2cd053a470d8b344a9791c17.png" alt="Cover for &quot;A Divina Comédia Ou Ando Meio Desligado&quot;" style="max-width:120px; height:auto;" />
       </td>
       <td>1985</td>
       <td>Os Mutantes</td>
@@ -778,8 +788,7 @@ Tropicália was a revolutionary Brazilian music movement of the late 1960s that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 4</li>
-            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 70</li>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1021,8 +1030,8 @@ Tropicália was a revolutionary Brazilian music movement of the late 1960s that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 45</li>
-            <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 80</li>
+            <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 20</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1098,13 +1107,13 @@ Tropicália was a revolutionary Brazilian music movement of the late 1960s that 
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
             <li style="font-size: calc(1rem * 56.99999999999999 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 12</li>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 56</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1163,7 +1172,7 @@ Tropicália was a revolutionary Brazilian music movement of the late 1960s that 
     <tr>
       <td>23</td>
       <td>
-          <img src="https://i.discogs.com/J10XFfq-U5qdClrRmucGVuh6reIadXz4X7gvk3r6Wxg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTEy/ODgtMTMzNjUyMjk1/Ny0yOTYxLmpwZWc.jpeg" alt="Cover for Totonho &amp; Os Cabra" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a57601357eeb48aa8dbcf165e25ff604.png" alt="Cover for Totonho &amp; Os Cabra" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Totonho &amp; Os Cabra</td>
@@ -1271,7 +1280,7 @@ Tropicália was a revolutionary Brazilian music movement of the late 1960s that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/catalan" | relative_url }}">catalan</a> # 34</li>
+            <li> <a href="{{ "/tags/catalan" | relative_url }}">catalan</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1479,7 +1488,7 @@ Tropicália was a revolutionary Brazilian music movement of the late 1960s that 
     <tr>
       <td>11</td>
       <td>
-          <img src="https://i.discogs.com/ZBKBR_oLrSq9pmyEhwCFspWhGMupLAFdXAKYjLZpGsg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NzQ5/NzYtMTM5NDMwNTcw/Mi0xMTQ4LmpwZWc.jpeg" alt="Cover for Patio Bonito" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ce38daf83a40cb0062f8f0220fa1d5c4.png" alt="Cover for Patio Bonito" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Las Malas Amistades</td>
@@ -1499,7 +1508,7 @@ Tropicália was a revolutionary Brazilian music movement of the late 1960s that 
     <tr>
       <td>48</td>
       <td>
-          <img src="https://i.discogs.com/ZihxdYgBOnSr4XnO-999bEBDUxXTdiyP8Sr6oILLiCs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTc1/MDgtMTI5NzAwNjU2/OS5qcGVn.jpeg" alt="Cover for Folías" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6574f343a4784459923c9e5cff17130c.png" alt="Cover for Folías" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>El Guincho</td>
@@ -1538,7 +1547,7 @@ Tropicália was a revolutionary Brazilian music movement of the late 1960s that 
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/ZihxdYgBOnSr4XnO-999bEBDUxXTdiyP8Sr6oILLiCs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTc1/MDgtMTI5NzAwNjU2/OS5qcGVn.jpeg" alt="Cover for Alegranza" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/95b9d02b609c45b8bca0271485688a92.png" alt="Cover for Alegranza" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>El Guincho</td>
@@ -1556,6 +1565,7 @@ Tropicália was a revolutionary Brazilian music movement of the late 1960s that 
     <tr>
       <td>65</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/21c6c035a3c7b70f69c3a26efbe5677f.png" alt="Cover for Cosa Astral" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Coconot</td>
@@ -1571,8 +1581,8 @@ Tropicália was a revolutionary Brazilian music movement of the late 1960s that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 22</li>
-            <li> <a href="{{ "/tags/barcelona" | relative_url }}">barcelona</a> # 96</li>
+            <li> <a href="{{ "/tags/barcelona" | relative_url }}">barcelona</a> # 5</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1617,6 +1627,7 @@ Tropicália was a revolutionary Brazilian music movement of the late 1960s that 
     <tr>
       <td>78</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/df36296f34c33105ad5875f253b5e701.png" alt="Cover for Tropicália Ou Panis Et Circensis" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Various Artists</td>
@@ -1670,6 +1681,7 @@ Tropicália was a revolutionary Brazilian music movement of the late 1960s that 
     <tr>
       <td>33</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4bcec3b86f2a45adaee0eb485753cd29.png" alt="Cover for Morbido" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>The Dreams</td>
@@ -1714,6 +1726,7 @@ Tropicália was a revolutionary Brazilian music movement of the late 1960s that 
     <tr>
       <td>34</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f697fbc17134401b8c7a4c9bc4ceaf17.png" alt="Cover for Organismo" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-11-18</td>
       <td>Adron</td>
@@ -1751,6 +1764,7 @@ Tropicália was a revolutionary Brazilian music movement of the late 1960s that 
     <tr>
       <td>21</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0af991fd4c254d30a1ae407c7df71d73.png" alt="Cover for As Plantas Que Curam" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-03-15</td>
       <td>Boogarins</td>
@@ -1761,13 +1775,14 @@ Tropicália was a revolutionary Brazilian music movement of the late 1960s that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 14</li>
+            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>86</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a740e9220b135d566d6d91e3741f60e5.png" alt="Cover for L&#39;aventura" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-05-26</td>
       <td>Sébastien Tellier</td>
@@ -1784,9 +1799,9 @@ Tropicália was a revolutionary Brazilian music movement of the late 1960s that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 36</li>
-            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 66</li>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 75</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 26</li>
+            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 33</li>
+            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 67</li>
             <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 82</li>
         </ul>
       </td>
@@ -1794,6 +1809,7 @@ Tropicália was a revolutionary Brazilian music movement of the late 1960s that 
     <tr>
       <td>50</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/57ef06a0c06ee83db2907cc62e73c483.png" alt="Cover for Manual" style="max-width:120px; height:auto;" />
       </td>
       <td>2015</td>
       <td>Boogarins</td>
@@ -1804,7 +1820,6 @@ Tropicália was a revolutionary Brazilian music movement of the late 1960s that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1824,7 +1839,7 @@ Tropicália was a revolutionary Brazilian music movement of the late 1960s that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 25</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1849,7 +1864,7 @@ Tropicália was a revolutionary Brazilian music movement of the late 1960s that 
     <tr>
       <td>64</td>
       <td>
-          <img src="https://i.discogs.com/AxYf0WHrHvVH9k_x17sjWKDyv1Oy6sFSIFS0Zvaq2kA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODE4/ODYzLTE2NDk1MDQ1/MjUtMjUwNC5qcGVn.jpeg" alt="Cover for a couple of good days" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f055df1b74575e13eb0591b9243a02b1.png" alt="Cover for a couple of good days" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-03-11</td>
       <td>Fennec</td>
@@ -1865,8 +1880,8 @@ Tropicália was a revolutionary Brazilian music movement of the late 1960s that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 54</li>
-            <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 84</li>
+            <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 16</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1908,6 +1923,7 @@ Tropicália was a revolutionary Brazilian music movement of the late 1960s that 
     <tr>
       <td>5</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d5a8305accba40eeb2697387c04d9f68.png" alt="Cover for With Mind - Expanding Visions" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Alarm Soft</td>
@@ -1945,6 +1961,7 @@ Tropicália was a revolutionary Brazilian music movement of the late 1960s that 
     <tr>
       <td>80</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1295074766347a3781d55576eb940376.png" alt="Cover for Tropicália Ou Panis Et Circensis" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Vários intérpretes</td>
@@ -1970,7 +1987,7 @@ Tropicália was a revolutionary Brazilian music movement of the late 1960s that 
 - [samba]({{ "/tags/samba" | relative_url }})
 - [bossa nova]({{ "/tags/bossa-nova" | relative_url }})
 - [psychedelic rock]({{ "/tags/psychedelic-rock" | relative_url }})
-- [brazil]({{ "/tags/brazil" | relative_url }})
 - [progressive rock]({{ "/tags/progressive-rock" | relative_url }})
-- [classic rock]({{ "/tags/classic-rock" | relative_url }})
+- [brazil]({{ "/tags/brazil" | relative_url }})
 - [alternative]({{ "/tags/alternative" | relative_url }})
+- [classic rock]({{ "/tags/classic-rock" | relative_url }})

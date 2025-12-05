@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-27T08:42:41.821Z
+date: 2025-12-05T04:24:35.746Z
 permalink: tags/modern-rock
 title: modern rock
 ---
 
 ## modern rock
 
-Last updated: <time datetime="2025-11-27T08:42:41.821Z">Thu Nov 27 2025 10:42:41 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T04:24:35.746Z">Fri Dec 05 2025 06:24:35 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -83,7 +83,7 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 88</li>
+            <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -132,7 +132,7 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 11</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -199,7 +199,7 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical-guitar" | relative_url }}">classical guitar</a> # 30</li>
+            <li> <a href="{{ "/tags/classical-guitar" | relative_url }}">classical guitar</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -286,7 +286,7 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 79</li>
+            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -326,7 +326,7 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 65</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -416,7 +416,7 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anarcho-punk" | relative_url }}">anarcho-punk</a> # 55</li>
+            <li> <a href="{{ "/tags/anarcho-punk" | relative_url }}">anarcho-punk</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -482,7 +482,7 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anarcho-punk" | relative_url }}">anarcho-punk</a> # 62</li>
+            <li> <a href="{{ "/tags/anarcho-punk" | relative_url }}">anarcho-punk</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -581,7 +581,7 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 33</li>
+            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -676,8 +676,8 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 3</li>
-            <li> <a href="{{ "/tags/deathrock" | relative_url }}">deathrock</a> # 16</li>
+            <li> <a href="{{ "/tags/deathrock" | relative_url }}">deathrock</a> # 84</li>
+            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -839,8 +839,8 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/ukulele" | relative_url }}">ukulele</a> # 17</li>
             <li> <a href="{{ "/tags/new-zealand" | relative_url }}">new zealand</a> # 28</li>
-            <li> <a href="{{ "/tags/ukulele" | relative_url }}">ukulele</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1001,8 +1001,8 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 54</li>
-            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 95</li>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 6</li>
+            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1062,7 +1062,7 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 98</li>
+            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1200,7 +1200,7 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 22</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1521,7 +1521,7 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 19</li>
+            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1542,7 +1542,7 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 80</li>
+            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1598,7 +1598,7 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 33</li>
+            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1620,7 +1620,7 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/k-rock" | relative_url }}">k-rock</a> # 13</li>
+            <li> <a href="{{ "/tags/k-rock" | relative_url }}">k-rock</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1676,7 +1676,7 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 61</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1760,23 +1760,6 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
     </tr>
     <tr>
-      <td>6</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/19fab6817e7b68c43281ce507ea59d95.png" alt="Cover for Tear Me to Pieces" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2022-10-12</td>
-      <td>Story of the Year</td>
-      <td>Tear Me to Pieces</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>42</td>
       <td>
           <img src="https://i.discogs.com/LYufrdUnPiIG6vDfHSBN8SkrvtjZcPKoa5DsLyiBmi8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTc4/ODA1LTE2ODAwNTE0/NjMtNDQxNi5qcGVn.jpeg" alt="Cover for Made in England" style="max-width:120px; height:auto;" />
@@ -1810,6 +1793,23 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/modern-rock" | relative_url }}">modern rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/19fab6817e7b68c43281ce507ea59d95.png" alt="Cover for Tear Me to Pieces" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023-03-10</td>
+      <td>Story of the Year</td>
+      <td>Tear Me to Pieces</td>
+      <td>
+        <ul>
         </ul>
       </td>
       <td>
@@ -1983,8 +1983,8 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 27</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 61</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 40</li>
+            <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -2006,9 +2006,9 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 57</li>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 82</li>
-            <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 100</li>
+            <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 1</li>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 19</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 44</li>
         </ul>
       </td>
     </tr>

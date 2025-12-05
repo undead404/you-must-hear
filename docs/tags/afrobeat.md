@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-18T12:00:12.985Z
+date: 2025-12-05T04:23:36.188Z
 permalink: tags/afrobeat
 title: afrobeat
 ---
 
 ## afrobeat
 
-Last updated: <time datetime="2025-11-18T12:00:12.985Z">Tue Nov 18 2025 14:00:12 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T04:23:36.188Z">Fri Dec 05 2025 06:23:36 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -131,7 +131,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 47</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -225,7 +225,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 91</li>
+            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -244,7 +244,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nigeria" | relative_url }}">nigeria</a> # 99</li>
+            <li> <a href="{{ "/tags/nigeria" | relative_url }}">nigeria</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -265,7 +265,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 21</li>
+            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -322,7 +322,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 35</li>
+            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -342,7 +342,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 88</li>
+            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -509,8 +509,8 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 33</li>
             <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 65</li>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -535,8 +535,8 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 51</li>
-            <li> <a href="{{ "/tags/nigeria" | relative_url }}">nigeria</a> # 94</li>
+            <li> <a href="{{ "/tags/nigeria" | relative_url }}">nigeria</a> # 7</li>
+            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -583,8 +583,8 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 85</li>
-            <li> <a href="{{ "/tags/nigeria" | relative_url }}">nigeria</a> # 100</li>
+            <li> <a href="{{ "/tags/nigeria" | relative_url }}">nigeria</a> # 1</li>
+            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -646,8 +646,8 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 70</li>
-            <li> <a href="{{ "/tags/nigeria" | relative_url }}">nigeria</a> # 98</li>
+            <li> <a href="{{ "/tags/nigeria" | relative_url }}">nigeria</a> # 3</li>
+            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -705,7 +705,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       <td>
         <ul>
             <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 4</li>
-            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 45</li>
+            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -742,7 +742,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 59</li>
+            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -819,7 +819,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nigeria" | relative_url }}">nigeria</a> # 97</li>
+            <li> <a href="{{ "/tags/nigeria" | relative_url }}">nigeria</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -874,7 +874,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nigeria" | relative_url }}">nigeria</a> # 96</li>
+            <li> <a href="{{ "/tags/nigeria" | relative_url }}">nigeria</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1066,7 +1066,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 58</li>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1110,7 +1110,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancehall-reggae" | relative_url }}">dancehall reggae</a> # 45</li>
+            <li> <a href="{{ "/tags/dancehall-reggae" | relative_url }}">dancehall reggae</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1263,7 +1263,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 9</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 10</li>
             <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 13</li>
         </ul>
       </td>
@@ -1303,7 +1303,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 61</li>
+            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1324,8 +1324,8 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/nigeria" | relative_url }}">nigeria</a> # 6</li>
             <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 40</li>
-            <li> <a href="{{ "/tags/nigeria" | relative_url }}">nigeria</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1434,9 +1434,9 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 37</li>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 55</li>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 61</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 40</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 43</li>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1474,7 +1474,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 57</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1531,7 +1531,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 68</li>
+            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1631,7 +1631,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 63</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1733,7 +1733,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
     <tr>
       <td>87</td>
       <td>
-          <img src="https://i.discogs.com/0UinwsBQPgXe5378jkt5gQtBKtFUvWjHCAkVIirZ7KU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDg3/OTU5LTE2NTk1NDYw/OTUtMTI1My5qcGVn.jpeg" alt="Cover for Could We Be More" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9c95b1ab4d25513e51b2aa31c6a77ba4.png" alt="Cover for Could We Be More" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-08-05</td>
       <td>Kokoroko</td>
@@ -1781,6 +1781,7 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1819,8 +1820,6 @@ Afrobeat is a dynamic genre that emerged from West Africa in the 1960s, fusing t
       <td>Tyla +</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/afrobeat" | relative_url }}">afrobeat</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
         </ul>
       </td>
       <td>

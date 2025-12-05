@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-18T12:02:19.808Z
+date: 2025-12-05T04:26:42.818Z
 permalink: tags/new-zealand
 title: new zealand
 ---
 
 ## new zealand
 
-Last updated: <time datetime="2025-11-18T12:02:19.808Z">Tue Nov 18 2025 14:02:19 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T04:26:42.818Z">Fri Dec 05 2025 06:26:42 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -108,7 +108,7 @@ New Zealand music blends indie pop sensibilities with a distinctly laid-back Pac
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 73</li>
+            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -266,11 +266,11 @@ New Zealand music blends indie pop sensibilities with a distinctly laid-back Pac
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 19</li>
-            <li> <a href="{{ "/tags/new-jack-swing" | relative_url }}">new jack swing</a> # 22</li>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 23</li>
-            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 30</li>
-            <li> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a> # 76</li>
+            <li> <a href="{{ "/tags/new-jack-swing" | relative_url }}">new jack swing</a> # 24</li>
+            <li> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a> # 25</li>
+            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 71</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 78</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -332,7 +332,7 @@ New Zealand music blends indie pop sensibilities with a distinctly laid-back Pac
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 19</li>
+            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -352,7 +352,7 @@ New Zealand music blends indie pop sensibilities with a distinctly laid-back Pac
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/fiddle" | relative_url }}">fiddle</a> # 88</li>
+            <li> <a href="{{ "/tags/fiddle" | relative_url }}">fiddle</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -466,7 +466,7 @@ New Zealand music blends indie pop sensibilities with a distinctly laid-back Pac
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 1</li>
+            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -653,8 +653,8 @@ New Zealand music blends indie pop sensibilities with a distinctly laid-back Pac
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 74</li>
-            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 99</li>
+            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 2</li>
+            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -731,7 +731,7 @@ New Zealand music blends indie pop sensibilities with a distinctly laid-back Pac
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 19</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -789,7 +789,7 @@ New Zealand music blends indie pop sensibilities with a distinctly laid-back Pac
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 48</li>
+            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -811,15 +811,15 @@ New Zealand music blends indie pop sensibilities with a distinctly laid-back Pac
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-rock" | relative_url }}">modern rock</a> # 32</li>
-            <li> <a href="{{ "/tags/ukulele" | relative_url }}">ukulele</a> # 84</li>
+            <li> <a href="{{ "/tags/ukulele" | relative_url }}">ukulele</a> # 17</li>
+            <li> <a href="{{ "/tags/modern-rock" | relative_url }}">modern rock</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>54</td>
       <td>
-          <img src="https://i.discogs.com/qmiK4zD6fFVtSqqfjfea4Dpeq9rMNa6XgxoyDnmqshk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTQ2/NjMtMTMyMjg1Mzk3/OC5qcGVn.jpeg" alt="Cover for The Battle&#39;s Almost Over..." style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/414795f76d15e6b1b1e17c042ea2d68e.png" alt="Cover for The Battle&#39;s Almost Over..." style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>The Rabble</td>
@@ -836,7 +836,7 @@ New Zealand music blends indie pop sensibilities with a distinctly laid-back Pac
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/street-punk" | relative_url }}">street punk</a> # 59</li>
+            <li> <a href="{{ "/tags/street-punk" | relative_url }}">street punk</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -952,7 +952,7 @@ New Zealand music blends indie pop sensibilities with a distinctly laid-back Pac
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/street-punk" | relative_url }}">street punk</a> # 60</li>
+            <li> <a href="{{ "/tags/street-punk" | relative_url }}">street punk</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1277,14 +1277,13 @@ New Zealand music blends indie pop sensibilities with a distinctly laid-back Pac
     <tr>
       <td>48</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5f84bad7e35c831d8d9f3442a7fca38e.png" alt="Cover for Free All The Monsters" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-10-17</td>
       <td>The Bats</td>
       <td>Free All The Monsters</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-zealand" | relative_url }}">new zealand</a></li>
         </ul>
       </td>
       <td>
@@ -1423,8 +1422,8 @@ New Zealand music blends indie pop sensibilities with a distinctly laid-back Pac
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 25</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 34</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 59</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1443,9 +1442,9 @@ New Zealand music blends indie pop sensibilities with a distinctly laid-back Pac
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 96</li>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 96</li>
-            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 97</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 11</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 38</li>
+            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1470,26 +1469,24 @@ New Zealand music blends indie pop sensibilities with a distinctly laid-back Pac
     <tr>
       <td>91</td>
       <td>
-          <img src="https://i.discogs.com/SWOYZoLX8AF-6pPm5lqErZaZKocYXSHYio4RRrgro0E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NDkz/NjEtMTM4MDMxODM2/OC02MTQxLmpwZWc.jpeg" alt="Cover for Take Me to the River" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/713cf90d2947a67b0ad90f85717126c0.png" alt="Cover for Take Me to the River" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-09-27</td>
       <td>Lorde</td>
       <td>Take Me to the River</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-zealand" | relative_url }}">new zealand</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>100</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5b6a42ebe783b96e6521094262750e96.png" alt="Cover for No Better" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-12-16</td>
       <td>Lorde</td>
@@ -1502,7 +1499,7 @@ New Zealand music blends indie pop sensibilities with a distinctly laid-back Pac
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 99</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -1523,7 +1520,7 @@ New Zealand music blends indie pop sensibilities with a distinctly laid-back Pac
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 72</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1558,7 +1555,7 @@ New Zealand music blends indie pop sensibilities with a distinctly laid-back Pac
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 15</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1583,7 +1580,7 @@ New Zealand music blends indie pop sensibilities with a distinctly laid-back Pac
     <tr>
       <td>5</td>
       <td>
-          <img src="https://i.discogs.com/D-AJsiIYFpPgY4IW9Nfz9aFjJMDeMvnLt-wHZmhcKP0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNDU5/MTUtMTU4NjUxOTI0/OS01ODIxLmpwZWc.jpeg" alt="Cover for Haunt Me As I Roam" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aca6e6a0161a6ea5e3006ac39d01db3a.png" alt="Cover for Haunt Me As I Roam" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-03-27</td>
       <td>Antagonist A.D.</td>
@@ -1717,7 +1714,7 @@ New Zealand music blends indie pop sensibilities with a distinctly laid-back Pac
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 94</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -1752,13 +1749,13 @@ New Zealand music blends indie pop sensibilities with a distinctly laid-back Pac
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 3</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 75</li>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 84</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 92</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 93</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 2</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 6</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 9</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 17</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 25</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 96</li>
             <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 99</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1779,7 +1776,7 @@ New Zealand music blends indie pop sensibilities with a distinctly laid-back Pac
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 46</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1800,8 +1797,8 @@ New Zealand music blends indie pop sensibilities with a distinctly laid-back Pac
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 52</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 86</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 11</li>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1827,7 +1824,7 @@ New Zealand music blends indie pop sensibilities with a distinctly laid-back Pac
     <tr>
       <td>21</td>
       <td>
-          <img src="https://i.discogs.com/M_B7QQjpPu1c0HMOpZwC5muOEiXce9IFz804tanVLy0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzA2/NzA3LTE2MzIxNjU1/MDEtNTA2My5qcGVn.jpeg" alt="Cover for Rū Ana Te Whenua" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b418c4678bbd91916b248a9e22e82035.png" alt="Cover for Rū Ana Te Whenua" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-09-17</td>
       <td>Alien Weaponry</td>
@@ -1885,7 +1882,7 @@ New Zealand music blends indie pop sensibilities with a distinctly laid-back Pac
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 10</li>
+            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1910,7 +1907,7 @@ New Zealand music blends indie pop sensibilities with a distinctly laid-back Pac
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 42</li>
+            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1935,7 +1932,7 @@ New Zealand music blends indie pop sensibilities with a distinctly laid-back Pac
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 57</li>
+            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 45</li>
         </ul>
       </td>
     </tr>

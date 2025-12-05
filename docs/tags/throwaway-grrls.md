@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T22:17:07.855Z
+date: 2025-12-05T04:20:59.242Z
 permalink: tags/throwaway-grrls
 title: throwaway grrls
 ---
 
 ## throwaway grrls
 
-Last updated: <time datetime="2025-10-28T22:17:07.855Z">Wed Oct 29 2025 00:17:07 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T04:20:59.242Z">Fri Dec 05 2025 06:20:59 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -97,7 +97,7 @@ Last updated: <time datetime="2025-10-28T22:17:07.855Z">Wed Oct 29 2025 00:17:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 31</li>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -116,7 +116,7 @@ Last updated: <time datetime="2025-10-28T22:17:07.855Z">Wed Oct 29 2025 00:17:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 14</li>
+            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -189,8 +189,8 @@ Last updated: <time datetime="2025-10-28T22:17:07.855Z">Wed Oct 29 2025 00:17:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 24</li>
-            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 28</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 60</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -227,7 +227,7 @@ Last updated: <time datetime="2025-10-28T22:17:07.855Z">Wed Oct 29 2025 00:17:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 59</li>
+            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -249,7 +249,7 @@ Last updated: <time datetime="2025-10-28T22:17:07.855Z">Wed Oct 29 2025 00:17:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 6</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -320,7 +320,7 @@ Last updated: <time datetime="2025-10-28T22:17:07.855Z">Wed Oct 29 2025 00:17:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 74</li>
+            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -705,9 +705,6 @@ Last updated: <time datetime="2025-10-28T22:17:07.855Z">Wed Oct 29 2025 00:17:07
       <td>Be In Love</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
         </ul>
       </td>
       <td>
@@ -749,7 +746,7 @@ Last updated: <time datetime="2025-10-28T22:17:07.855Z">Wed Oct 29 2025 00:17:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 78</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 20</li>
         </ul>
       </td>
     </tr>

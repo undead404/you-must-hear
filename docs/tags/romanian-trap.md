@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-14T23:57:32.600Z
+date: 2025-12-05T04:18:13.915Z
 permalink: tags/romanian-trap
 title: romanian trap
 ---
 
 ## romanian trap
 
-Last updated: <time datetime="2025-11-14T23:57:32.600Z">Sat Nov 15 2025 01:57:32 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T04:18:13.915Z">Fri Dec 05 2025 06:18:13 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 

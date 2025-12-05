@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-27T08:43:07.004Z
+date: 2025-12-05T04:25:13.270Z
 permalink: tags/ebm
 title: ebm
 ---
 
 ## ebm
 
-Last updated: <time datetime="2025-11-27T08:43:07.004Z">Thu Nov 27 2025 10:43:07 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T04:25:13.270Z">Fri Dec 05 2025 06:25:13 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -117,7 +117,7 @@ EBM stands for &quot;Electronic Body Music,&quot; which is a subgenre of electro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a> # 92</li>
+            <li> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -138,8 +138,8 @@ EBM stands for &quot;Electronic Body Music,&quot; which is a subgenre of electro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 39</li>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 39</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 62</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -158,7 +158,7 @@ EBM stands for &quot;Electronic Body Music,&quot; which is a subgenre of electro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a> # 19</li>
+            <li> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -181,7 +181,8 @@ EBM stands for &quot;Electronic Body Music,&quot; which is a subgenre of electro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 68</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 73</li>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -200,7 +201,7 @@ EBM stands for &quot;Electronic Body Music,&quot; which is a subgenre of electro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a> # 4</li>
+            <li> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -237,7 +238,7 @@ EBM stands for &quot;Electronic Body Music,&quot; which is a subgenre of electro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a> # 54</li>
+            <li> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -293,7 +294,7 @@ EBM stands for &quot;Electronic Body Music,&quot; which is a subgenre of electro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a> # 98</li>
+            <li> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -369,8 +370,8 @@ EBM stands for &quot;Electronic Body Music,&quot; which is a subgenre of electro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 14</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 37</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 41</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -427,9 +428,9 @@ EBM stands for &quot;Electronic Body Music,&quot; which is a subgenre of electro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 38</li>
-            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 45</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 80</li>
+            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 56</li>
+            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 63</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -487,7 +488,7 @@ EBM stands for &quot;Electronic Body Music,&quot; which is a subgenre of electro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 48</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -677,8 +678,8 @@ EBM stands for &quot;Electronic Body Music,&quot; which is a subgenre of electro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 80</li>
-            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 100</li>
+            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 1</li>
+            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -792,8 +793,8 @@ EBM stands for &quot;Electronic Body Music,&quot; which is a subgenre of electro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 51</li>
-            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 96</li>
+            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 5</li>
+            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -853,7 +854,7 @@ EBM stands for &quot;Electronic Body Music,&quot; which is a subgenre of electro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 90</li>
+            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -872,7 +873,7 @@ EBM stands for &quot;Electronic Body Music,&quot; which is a subgenre of electro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 83</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -891,7 +892,7 @@ EBM stands for &quot;Electronic Body Music,&quot; which is a subgenre of electro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 63</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -932,7 +933,8 @@ EBM stands for &quot;Electronic Body Music,&quot; which is a subgenre of electro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 66</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 71</li>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -951,8 +953,8 @@ EBM stands for &quot;Electronic Body Music,&quot; which is a subgenre of electro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 15</li>
             <li> <a href="{{ "/tags/futurepop" | relative_url }}">futurepop</a> # 34</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1028,10 +1030,10 @@ EBM stands for &quot;Electronic Body Music,&quot; which is a subgenre of electro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 13</li>
-            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 59</li>
-            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 74</li>
-            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 76</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 17</li>
+            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 25</li>
+            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 27</li>
+            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1089,8 +1091,8 @@ EBM stands for &quot;Electronic Body Music,&quot; which is a subgenre of electro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 40</li>
-            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 86</li>
+            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 15</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1129,7 +1131,7 @@ EBM stands for &quot;Electronic Body Music,&quot; which is a subgenre of electro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 96</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1151,7 +1153,7 @@ EBM stands for &quot;Electronic Body Music,&quot; which is a subgenre of electro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 91</li>
+            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1191,7 +1193,7 @@ EBM stands for &quot;Electronic Body Music,&quot; which is a subgenre of electro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 94</li>
+            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1229,7 +1231,7 @@ EBM stands for &quot;Electronic Body Music,&quot; which is a subgenre of electro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 82</li>
+            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1248,7 +1250,7 @@ EBM stands for &quot;Electronic Body Music,&quot; which is a subgenre of electro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 8</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1358,7 +1360,7 @@ EBM stands for &quot;Electronic Body Music,&quot; which is a subgenre of electro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 94</li>
+            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1379,9 +1381,9 @@ EBM stands for &quot;Electronic Body Music,&quot; which is a subgenre of electro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 58</li>
-            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 100</li>
-            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 100</li>
+            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 1</li>
+            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 1</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1399,7 +1401,7 @@ EBM stands for &quot;Electronic Body Music,&quot; which is a subgenre of electro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 27</li>
+            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1436,9 +1438,9 @@ EBM stands for &quot;Electronic Body Music,&quot; which is a subgenre of electro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 16</li>
-            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 95</li>
-            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 99</li>
+            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 2</li>
+            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 6</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1484,12 +1486,12 @@ EBM stands for &quot;Electronic Body Music,&quot; which is a subgenre of electro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 40</li>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 81</li>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 88</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 93</li>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 98</li>
-            <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 100</li>
+            <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 1</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 3</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 8</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 12</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 20</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1513,8 +1515,8 @@ EBM stands for &quot;Electronic Body Music,&quot; which is a subgenre of electro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 11</li>
-            <li> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a> # 93</li>
+            <li> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a> # 8</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1537,9 +1539,9 @@ EBM stands for &quot;Electronic Body Music,&quot; which is a subgenre of electro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 19</li>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 86</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 90</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 11</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 15</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1564,12 +1566,12 @@ EBM stands for &quot;Electronic Body Music,&quot; which is a subgenre of electro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 19</li>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 97</li>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 98</li>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 98</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 100</li>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 100</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 1</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 1</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 2</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 3</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 4</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1593,10 +1595,10 @@ EBM stands for &quot;Electronic Body Music,&quot; which is a subgenre of electro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 59</li>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 66</li>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 75</li>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 87</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 14</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 25</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 35</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1620,10 +1622,10 @@ EBM stands for &quot;Electronic Body Music,&quot; which is a subgenre of electro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 83</li>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 94</li>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 97</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 99</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 2</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 3</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 7</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1686,13 +1688,13 @@ EBM stands for &quot;Electronic Body Music,&quot; which is a subgenre of electro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 33</li>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 79</li>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 87</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 92</li>
+            <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 2</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 4</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 9</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 13</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 22</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 67</li>
             <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 94</li>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 97</li>
-            <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1716,10 +1718,10 @@ EBM stands for &quot;Electronic Body Music,&quot; which is a subgenre of electro
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 7</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 9</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 19</li>
             <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 50</li>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 82</li>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 91</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1744,11 +1746,11 @@ EBM stands for &quot;Electronic Body Music,&quot; which is a subgenre of electro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 53</li>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 53</li>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 83</li>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 92</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 95</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 6</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 8</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 18</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 45</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1767,8 +1769,8 @@ EBM stands for &quot;Electronic Body Music,&quot; which is a subgenre of electro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 90</li>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 95</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 6</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1805,7 +1807,7 @@ EBM stands for &quot;Electronic Body Music,&quot; which is a subgenre of electro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 34</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1833,13 +1835,13 @@ EBM stands for &quot;Electronic Body Music,&quot; which is a subgenre of electro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 65</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 72</li>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 80</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 85</li>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 91</li>
-            <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 98</li>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 99</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 2</li>
+            <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 3</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 10</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 16</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 20</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 36</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1867,14 +1869,14 @@ EBM stands for &quot;Electronic Body Music,&quot; which is a subgenre of electro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 35</li>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 47</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 50</li>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 55</li>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 88</li>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 91</li>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 92</li>
-            <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 99</li>
+            <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 2</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 9</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 10</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 13</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 46</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 46</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 51</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1896,8 +1898,8 @@ EBM stands for &quot;Electronic Body Music,&quot; which is a subgenre of electro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 23</li>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 86</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 15</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1927,13 +1929,13 @@ EBM stands for &quot;Electronic Body Music,&quot; which is a subgenre of electro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 63</li>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 77</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 82</li>
-            <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 84</li>
-            <li> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a> # 87</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 94</li>
-            <li> <a href="{{ "/tags/hi-nrg" | relative_url }}">hi-nrg</a> # 96</li>
+            <li> <a href="{{ "/tags/hi-nrg" | relative_url }}">hi-nrg</a> # 5</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 5</li>
+            <li> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a> # 14</li>
+            <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 17</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 19</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 23</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1958,8 +1960,8 @@ EBM stands for &quot;Electronic Body Music,&quot; which is a subgenre of electro
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 13</li>
             <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 47</li>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1978,8 +1980,8 @@ EBM stands for &quot;Electronic Body Music,&quot; which is a subgenre of electro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 33</li>
             <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 56</li>
+            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -2012,19 +2014,19 @@ EBM stands for &quot;Electronic Body Music,&quot; which is a subgenre of electro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 9</li>
+            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 4</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 9</li>
+            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 10</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 11</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 13</li>
+            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 13</li>
+            <li> <a href="{{ "/tags/no-wave" | relative_url }}">no wave</a> # 16</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 17</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 22</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 51</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 68</li>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 79</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 84</li>
-            <li> <a href="{{ "/tags/no-wave" | relative_url }}">no wave</a> # 85</li>
-            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 88</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 88</li>
             <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 89</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 91</li>
-            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 91</li>
-            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 92</li>
-            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 97</li>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -2044,8 +2046,8 @@ EBM stands for &quot;Electronic Body Music,&quot; which is a subgenre of electro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 62</li>
-            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 81</li>
+            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 20</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 39</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 99</li>
             <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 99</li>
         </ul>
@@ -2071,7 +2073,7 @@ EBM stands for &quot;Electronic Body Music,&quot; which is a subgenre of electro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 60</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 41</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 93</li>
             <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 98</li>
         </ul>
@@ -2100,10 +2102,10 @@ EBM stands for &quot;Electronic Body Music,&quot; which is a subgenre of electro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 82</li>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 90</li>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 95</li>
-            <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 100</li>
+            <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 1</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 6</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 87</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -2124,9 +2126,9 @@ EBM stands for &quot;Electronic Body Music,&quot; which is a subgenre of electro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 38</li>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 41</li>
-            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 74</li>
+            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 27</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 42</li>
+            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 63</li>
         </ul>
       </td>
     </tr>

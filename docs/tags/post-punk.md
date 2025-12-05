@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-27T05:28:08.262Z
+date: 2025-12-05T04:20:19.477Z
 permalink: tags/post-punk
 title: post-punk
 ---
 
 ## post-punk
 
-Last updated: <time datetime="2025-11-27T05:28:08.262Z">Thu Nov 27 2025 07:28:08 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T04:20:19.477Z">Fri Dec 05 2025 06:20:19 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -171,7 +171,7 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 61</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -226,7 +226,7 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 87</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -263,7 +263,7 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 28</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -300,7 +300,7 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 94</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -319,7 +319,7 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 86</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -338,7 +338,7 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 67</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -358,9 +358,9 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 55</li>
-            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 68</li>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 81</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 20</li>
+            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 33</li>
+            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -397,7 +397,7 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 68</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -417,7 +417,7 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 97</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -454,7 +454,7 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 7</li>
+            <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -472,7 +472,7 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 74</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -490,7 +490,7 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 92</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -509,7 +509,7 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 5</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -528,7 +528,7 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a> # 90</li>
+            <li> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -546,8 +546,8 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 22</li>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 79</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 22</li>
+            <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -567,7 +567,7 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 99</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -664,8 +664,8 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 78</li>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 91</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 10</li>
+            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -702,8 +702,8 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 32</li>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 96</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 5</li>
+            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -741,7 +741,7 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 82</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -759,12 +759,12 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 14</li>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 31</li>
-            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 67</li>
-            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 94</li>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 97</li>
-            <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 98</li>
+            <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 3</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 4</li>
+            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 7</li>
+            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 34</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 70</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -803,7 +803,7 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 37</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -840,7 +840,7 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 19</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -859,7 +859,7 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 46</li>
+            <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -879,8 +879,8 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 61</li>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 65</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 36</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -899,12 +899,12 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 24</li>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 43</li>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 86</li>
-            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 87</li>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 87</li>
-            <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 100</li>
+            <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 1</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 14</li>
+            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 14</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 15</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 58</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -962,7 +962,7 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 22</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -980,8 +980,8 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 38</li>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 89</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 12</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1002,7 +1002,7 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 6</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1046,8 +1046,8 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 86</li>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 89</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 12</li>
+            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1066,8 +1066,8 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 78</li>
-            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 84</li>
+            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 17</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1086,7 +1086,7 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 17</li>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1123,8 +1123,8 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 96</li>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 100</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 1</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 5</li>
             <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 100</li>
         </ul>
       </td>
@@ -1162,27 +1162,8 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 11</li>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 13</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>84</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f84b2ad2bcc8f9886b276a348e01dfee.png" alt="Cover for To Lose My Life ..." style="max-width:120px; height:auto;" />
-      </td>
-      <td>2008</td>
-      <td>White Lies</td>
-      <td>To Lose My Life ...</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 56</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 88</li>
+            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1201,6 +1182,26 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f84b2ad2bcc8f9886b276a348e01dfee.png" alt="Cover for To Lose My Life ..." style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>White Lies</td>
+      <td>To Lose My Life ...</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1236,8 +1237,8 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 96</li>
-            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 97</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 20</li>
+            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1290,9 +1291,9 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 8</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 34</li>
             <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 64</li>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 67</li>
+            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1328,7 +1329,7 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 80</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1363,9 +1364,9 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 47</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 66</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 78</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 23</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 35</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1383,7 +1384,7 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 38</li>
+            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1423,8 +1424,8 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 44</li>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 97</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 4</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1482,7 +1483,7 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 89</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -1535,7 +1536,7 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 96</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1556,8 +1557,8 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 55</li>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 90</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 8</li>
+            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1599,7 +1600,7 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 75</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1618,9 +1619,9 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 9</li>
-            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 40</li>
-            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 96</li>
+            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 5</li>
+            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 61</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1641,7 +1642,7 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 85</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1665,8 +1666,8 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 100</li>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 100</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 1</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -1686,7 +1687,7 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 97</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1706,8 +1707,8 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a> # 5</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 15</li>
-            <li> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1726,8 +1727,8 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 5</li>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 67</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 34</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1746,7 +1747,7 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 24</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1766,7 +1767,7 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a> # 95</li>
+            <li> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -1788,9 +1789,9 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 93</li>
+            <li> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a> # 3</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 8</li>
             <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 96</li>
-            <li> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a> # 98</li>
             <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 98</li>
         </ul>
       </td>
@@ -1809,8 +1810,8 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a> # 94</li>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 99</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 2</li>
+            <li> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1830,7 +1831,7 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a> # 93</li>
+            <li> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1853,10 +1854,10 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 39</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 65</li>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 80</li>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 85</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 15</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 21</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 36</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1874,10 +1875,10 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a> # 48</li>
-            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 53</li>
-            <li> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a> # 100</li>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 100</li>
+            <li> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a> # 1</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 1</li>
+            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 37</li>
+            <li> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1896,6 +1897,7 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1917,7 +1919,7 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a> # 99</li>
+            <li> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -1935,12 +1937,12 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 37</li>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 65</li>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 80</li>
-            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 83</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 88</li>
-            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 96</li>
+            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 5</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 13</li>
+            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 18</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 21</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 36</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 64</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-27T05:26:54.279Z
+date: 2025-12-05T04:00:26.185Z
 permalink: tags/mediterranean
 title: mediterranean
 ---
 
 ## mediterranean
 
-Last updated: <time datetime="2025-11-27T05:26:54.279Z">Thu Nov 27 2025 07:26:54 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T04:00:26.185Z">Fri Dec 05 2025 06:00:26 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -100,7 +100,7 @@ Mediterranean music refers to the music styles that originate from the countries
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/catalan" | relative_url }}">catalan</a> # 13</li>
+            <li> <a href="{{ "/tags/catalan" | relative_url }}">catalan</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -336,7 +336,7 @@ Mediterranean music refers to the music styles that originate from the countries
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 23</li>
+            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -395,7 +395,7 @@ Mediterranean music refers to the music styles that originate from the countries
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a> # 70</li>
+            <li> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -515,7 +515,7 @@ Mediterranean music refers to the music styles that originate from the countries
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 56</li>
+            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -534,7 +534,7 @@ Mediterranean music refers to the music styles that originate from the countries
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 82</li>
+            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -577,8 +577,8 @@ Mediterranean music refers to the music styles that originate from the countries
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 10</li>
-            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 47</li>
+            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 54</li>
+            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -661,8 +661,8 @@ Mediterranean music refers to the music styles that originate from the countries
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 3</li>
-            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 14</li>
+            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 87</li>
+            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -745,7 +745,7 @@ Mediterranean music refers to the music styles that originate from the countries
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/merengue" | relative_url }}">merengue</a> # 78</li>
+            <li> <a href="{{ "/tags/merengue" | relative_url }}">merengue</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -806,7 +806,7 @@ Mediterranean music refers to the music styles that originate from the countries
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/catalan" | relative_url }}">catalan</a> # 69</li>
+            <li> <a href="{{ "/tags/catalan" | relative_url }}">catalan</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1166,11 +1166,11 @@ Mediterranean music refers to the music styles that originate from the countries
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/barcelona" | relative_url }}">barcelona</a> # 15</li>
+            <li> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a> # 31</li>
+            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 38</li>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 40</li>
             <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 50</li>
-            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 61</li>
-            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 63</li>
-            <li> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a> # 70</li>
-            <li> <a href="{{ "/tags/barcelona" | relative_url }}">barcelona</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1251,8 +1251,8 @@ Mediterranean music refers to the music styles that originate from the countries
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 26</li>
-            <li> <a href="{{ "/tags/turkey" | relative_url }}">turkey</a> # 68</li>
+            <li> <a href="{{ "/tags/turkey" | relative_url }}">turkey</a> # 33</li>
+            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1314,7 +1314,7 @@ Mediterranean music refers to the music styles that originate from the countries
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 31</li>
+            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1338,8 +1338,8 @@ Mediterranean music refers to the music styles that originate from the countries
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 51</li>
-            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 71</li>
+            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 30</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1521,7 +1521,7 @@ Mediterranean music refers to the music styles that originate from the countries
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/recorder" | relative_url }}">recorder</a> # 22</li>
+            <li> <a href="{{ "/tags/recorder" | relative_url }}">recorder</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1542,8 +1542,8 @@ Mediterranean music refers to the music styles that originate from the countries
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 14</li>
-            <li> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a> # 19</li>
+            <li> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a> # 80</li>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 87</li>
         </ul>
       </td>
     </tr>

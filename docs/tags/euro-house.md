@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-18T11:55:46.066Z
+date: 2025-12-05T03:22:46.595Z
 permalink: tags/euro-house
 title: euro house
 ---
 
 ## euro house
 
-Last updated: <time datetime="2025-11-18T11:55:46.066Z">Tue Nov 18 2025 13:55:46 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T03:22:46.595Z">Fri Dec 05 2025 05:22:46 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -88,7 +88,7 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 15</li>
+            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -130,7 +130,7 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 61</li>
+            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -149,7 +149,7 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hi-nrg" | relative_url }}">hi-nrg</a> # 38</li>
+            <li> <a href="{{ "/tags/hi-nrg" | relative_url }}">hi-nrg</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -276,30 +276,6 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
     </tr>
     <tr>
-      <td>92</td>
-      <td>
-          <img src="https://i.discogs.com/lWLwBhhlQQqtFqBVnudxf1pddFz9VJ3gaivRs--hyRk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4ODA0/NC0xMzEwNzI3OTE0/LmpwZWc.jpeg" alt="Cover for Take That and Party (Expanded Edition)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1993</td>
-      <td>Take That</td>
-      <td>Take That and Party (Expanded Edition)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hi-nrg" | relative_url }}">hi-nrg</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 39</li>
-            <li> <a href="{{ "/tags/hi-nrg" | relative_url }}">hi-nrg</a> # 81</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ba9df002415d8efed1cf9d4865b06242.png" alt="Cover for i&#39;ll be there for you (doya do do do doya)" style="max-width:120px; height:auto;" />
@@ -311,6 +287,23 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cc074408db3d59a5c21ac665a05f2e16.png" alt="Cover for Take That and Party (Expanded Edition)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1993</td>
+      <td>Take That</td>
+      <td>Take That and Party (Expanded Edition)</td>
+      <td>
+        <ul>
         </ul>
       </td>
       <td>
@@ -351,7 +344,7 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 26</li>
+            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -375,7 +368,7 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 72</li>
+            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -397,7 +390,7 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a> # 20</li>
+            <li> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -489,7 +482,7 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 76</li>
+            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -512,7 +505,7 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 64</li>
+            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -534,7 +527,7 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norsk" | relative_url }}">norsk</a> # 27</li>
+            <li> <a href="{{ "/tags/norsk" | relative_url }}">norsk</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -554,7 +547,7 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norsk" | relative_url }}">norsk</a> # 36</li>
+            <li> <a href="{{ "/tags/norsk" | relative_url }}">norsk</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -575,7 +568,7 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norsk" | relative_url }}">norsk</a> # 42</li>
+            <li> <a href="{{ "/tags/norsk" | relative_url }}">norsk</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -599,8 +592,8 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 5</li>
             <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 83</li>
-            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -695,7 +688,7 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 12</li>
+            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -782,15 +775,15 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 46</li>
-            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 84</li>
+            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 17</li>
+            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>50</td>
       <td>
-          <img src="https://i.discogs.com/wX2HGIjSw2ccq-yLBkc9WrAmh1twQVKE1gsFVsu2aSI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjI1/NzEtMTU2MDU4OTkz/OC0xMTUyLmpwZWc.jpeg" alt="Cover for Šoki Su Manim" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2352e087acf8bdfdc79c538c2e32b4ab.png" alt="Cover for Šoki Su Manim" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-07</td>
       <td>Karališka erdvė</td>
@@ -843,7 +836,7 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 37</li>
+            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -928,8 +921,8 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 53</li>
-            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 85</li>
+            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 16</li>
+            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -953,7 +946,7 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 75</li>
+            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -996,7 +989,7 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 48</li>
+            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1019,8 +1012,8 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 59</li>
-            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 91</li>
+            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 10</li>
+            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1062,7 +1055,7 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 59</li>
+            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1108,8 +1101,8 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 4</li>
             <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 85</li>
-            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1151,7 +1144,7 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 58</li>
+            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1174,7 +1167,7 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 19</li>
+            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1256,7 +1249,7 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 24</li>
+            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1281,8 +1274,8 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romanian" | relative_url }}">romanian</a> # 39</li>
-            <li> <a href="{{ "/tags/romania" | relative_url }}">romania</a> # 67</li>
+            <li> <a href="{{ "/tags/romania" | relative_url }}">romania</a> # 34</li>
+            <li> <a href="{{ "/tags/romanian" | relative_url }}">romanian</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1303,8 +1296,8 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 62</li>
-            <li> <a href="{{ "/tags/romanian" | relative_url }}">romanian</a> # 100</li>
+            <li> <a href="{{ "/tags/romanian" | relative_url }}">romanian</a> # 1</li>
+            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1328,9 +1321,9 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 17</li>
-            <li> <a href="{{ "/tags/hardcore-techno" | relative_url }}">hardcore techno</a> # 59</li>
-            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 78</li>
+            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 15</li>
+            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 23</li>
+            <li> <a href="{{ "/tags/hardcore-techno" | relative_url }}">hardcore techno</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1435,7 +1428,7 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 55</li>
+            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1458,7 +1451,7 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 21</li>
+            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1499,7 +1492,7 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 51</li>
+            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1535,7 +1528,7 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 1</li>
+            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1558,8 +1551,8 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 54</li>
-            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 86</li>
+            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 15</li>
+            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1604,7 +1597,7 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 44</li>
+            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1626,12 +1619,13 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 28</li>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 33</li>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 71</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 82</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 87</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 93</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 8</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 11</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 14</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 29</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 56</li>
+            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 67</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1772,7 +1766,7 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 34</li>
+            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1814,7 +1808,7 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 45</li>
+            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1837,7 +1831,7 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 62</li>
+            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1885,9 +1879,9 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 48</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 27</li>
+            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 46</li>
             <li> <a href="{{ "/tags/vocal-house" | relative_url }}">vocal house</a> # 50</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1910,7 +1904,7 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 41</li>
+            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1933,7 +1927,7 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 71</li>
+            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1956,7 +1950,7 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 38</li>
+            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -2016,7 +2010,7 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 87</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -2046,13 +2040,11 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
       <td>Diamonds &amp; Dancefloors</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 77</li>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 82</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -2101,6 +2093,7 @@ Euro house emerged in the late 1980s as a polished, commercially accessible styl
     <tr>
       <td>15</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/869217b20485bb90059111aea7198346.png" alt="Cover for HYPER TECHNO MUSEUM 2001" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Avex Trax</td>

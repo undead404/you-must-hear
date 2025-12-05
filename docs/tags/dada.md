@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-11T04:27:28.542Z
+date: 2025-12-05T03:17:41.860Z
 permalink: tags/dada
 title: dada
 ---
 
 ## dada
 
-Last updated: <time datetime="2025-11-11T04:27:28.542Z">Tue Nov 11 2025 06:27:28 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T03:17:41.860Z">Fri Dec 05 2025 05:17:41 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -160,7 +160,7 @@ Dada music is a subgenre of experimental music that emerged in the early 20th ce
     <tr>
       <td>60</td>
       <td>
-          <img src="https://i.discogs.com/0tVcS5qMlV1q7ZdJC-qbOx0uSvnuIS5-TRyq6inSz3k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NTA2/Ni0xNTU2ODMzMDQ5/LTEwOTQuanBlZw.jpeg" alt="Cover for Things Fall Down" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ba3c5ffc537c424091b47e02717993ec.png" alt="Cover for Things Fall Down" style="max-width:120px; height:auto;" />
       </td>
       <td>1990</td>
       <td>Big City Orchestra</td>
@@ -202,6 +202,7 @@ Dada music is a subgenre of experimental music that emerged in the early 20th ce
     <tr>
       <td>88</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee8b1214c5aab94913488c4624f16e26.png" alt="Cover for The Drain Train &amp; The Pressure Company Live in Sheffield" style="max-width:120px; height:auto;" />
       </td>
       <td>1991</td>
       <td>Cabaret Voltaire</td>
@@ -253,7 +254,7 @@ Dada music is a subgenre of experimental music that emerged in the early 20th ce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-and-dark" | relative_url }}">deep and dark</a> # 21</li>
+            <li> <a href="{{ "/tags/deep-and-dark" | relative_url }}">deep and dark</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -280,6 +281,7 @@ Dada music is a subgenre of experimental music that emerged in the early 20th ce
     <tr>
       <td>86</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b15da0cc70c314370c828e7996aa6741.png" alt="Cover for Every Man Got Dreaming" style="max-width:120px; height:auto;" />
       </td>
       <td>1995-11-16</td>
       <td>Sandoz</td>
@@ -389,7 +391,7 @@ Dada music is a subgenre of experimental music that emerged in the early 20th ce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 73</li>
+            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 27</li>
             <li> <a href="{{ "/tags/macedonian" | relative_url }}">macedonian</a> # 90</li>
         </ul>
       </td>
@@ -457,6 +459,7 @@ Dada music is a subgenre of experimental music that emerged in the early 20th ce
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/innovative" | relative_url }}">innovative</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a></li>
@@ -464,8 +467,9 @@ Dada music is a subgenre of experimental music that emerged in the early 20th ce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/book" | relative_url }}">book</a> # 16</li>
-            <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 37</li>
+            <li> <a href="{{ "/tags/innovative" | relative_url }}">innovative</a> # 27</li>
+            <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 64</li>
+            <li> <a href="{{ "/tags/book" | relative_url }}">book</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -510,6 +514,7 @@ Dada music is a subgenre of experimental music that emerged in the early 20th ce
     <tr>
       <td>98</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c9cc92f504e50594cb61e6810a290970.png" alt="Cover for She and Me Fall Together in Free Death" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Nurse With Wound</td>
@@ -541,7 +546,7 @@ Dada music is a subgenre of experimental music that emerged in the early 20th ce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 95</li>
+            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -561,14 +566,13 @@ Dada music is a subgenre of experimental music that emerged in the early 20th ce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 6</li>
+            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>19</td>
       <td>
-          <img src="https://i.discogs.com/awuDZFqef87XGAhhY6th4mfgXervnWZBUqOQCMMK_dQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MTQx/MDktMTQ0NzI3NDIz/NC0xNzUyLmpwZWc.jpeg" alt="Cover for Zwischen Stadtmauern" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Ralf Rabendorn</td>
@@ -620,7 +624,7 @@ Dada music is a subgenre of experimental music that emerged in the early 20th ce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a> # 79</li>
+            <li> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -736,7 +740,7 @@ Dada music is a subgenre of experimental music that emerged in the early 20th ce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a> # 8</li>
+            <li> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -766,7 +770,7 @@ Dada music is a subgenre of experimental music that emerged in the early 20th ce
     <tr>
       <td>56</td>
       <td>
-          <img src="https://i.discogs.com/VsIj7cUG0T2LfTMZP-bY1LfOowEQm-9wlYG5zAm1nY0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTEz/OTktMTI0NzgwOTk1/MC5qcGVn.jpeg" alt="Cover for Page #3 Jimmy The Beaver And Their Songs EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1acc564002d506d744fb9a9d5b0c1922.png" alt="Cover for Page #3 Jimmy The Beaver And Their Songs EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Red Label Noise Factory</td>
@@ -789,7 +793,7 @@ Dada music is a subgenre of experimental music that emerged in the early 20th ce
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/PtbkJ5Vu1fWLiRZfACirUsyYKEsl4D1uc8efoOXK3WM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzYx/OTgtMTMxMDA0NDE0/NC5qcGVn.jpeg" alt="Cover for Bolest" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a9ce123c57b07322ef7a943b50312dd.png" alt="Cover for Bolest" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Zastranienie</td>
@@ -868,7 +872,7 @@ Dada music is a subgenre of experimental music that emerged in the early 20th ce
     <tr>
       <td>26</td>
       <td>
-          <img src="https://i.discogs.com/GrGyo1LnaBJrXSI1PVKjjzckM9cNog5OD7US_khiXMo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzYy/MjctMTI2NTk4NjYz/MC5qcGVn.jpeg" alt="Cover for Za-Strane" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bcf411f1353d49118d16707cf57dd351.png" alt="Cover for Za-Strane" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-02-07</td>
       <td>Zastranienie</td>
@@ -887,7 +891,7 @@ Dada music is a subgenre of experimental music that emerged in the early 20th ce
     <tr>
       <td>74</td>
       <td>
-          <img src="https://i.discogs.com/aRf3mBJrOaKAyCD-KIeZAxZoRr5XpWFclMxvzl1lRUQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzg0/MDUtMTM1MzE4NTAx/Mi04NDMyLmpwZWc.jpeg" alt="Cover for Dada EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/130867871a9a24e02e1a0f399f7dd42a.png" alt="Cover for Dada EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-08-09</td>
       <td>Hox Vox</td>
@@ -998,15 +1002,15 @@ Dada music is a subgenre of experimental music that emerged in the early 20th ce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 16</li>
-            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 26</li>
+            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 75</li>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>43</td>
       <td>
-          <img src="https://i.discogs.com/YhhJsCeM_GyAWazukFE_CqmbIMVyfhew6rchixd2zSg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMDk4/NTQtMTM4MjA1Nzgw/OC05MjE4LmpwZWc.jpeg" alt="Cover for Let Your Face Shine On Your Servant" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a33c03cc2a02411896b23449fd7a96d0.png" alt="Cover for Let Your Face Shine On Your Servant" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-07-17</td>
       <td>Convivial Cannibal</td>
@@ -1126,7 +1130,6 @@ Dada music is a subgenre of experimental music that emerged in the early 20th ce
     <tr>
       <td>37</td>
       <td>
-          <img src="https://i.discogs.com/i7YM6SfSbxGysNQNqpPmAkp5CybSMitPGhvwz8rvynw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0ODQw/NjItMTQyMDMyMzA2/Ny03ODcyLmpwZWc.jpeg" alt="Cover for 0714" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-01</td>
       <td>Philip Johnson</td>
@@ -1146,7 +1149,7 @@ Dada music is a subgenre of experimental music that emerged in the early 20th ce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 10</li>
+            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1196,7 +1199,7 @@ Dada music is a subgenre of experimental music that emerged in the early 20th ce
     <tr>
       <td>38</td>
       <td>
-          <img src="https://i.discogs.com/PKDY5J2cYc9IdbgwMDiUX0SUIw2pO8yoaWEeu_U63qs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODYx/ODE4LTE2MTU4NTE0/OTMtNDEyNy5qcGVn.jpeg" alt="Cover for &quot;For Ulysses&quot;" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/79632136a1db0030ac0d1a44028a5855.png" alt="Cover for &quot;For Ulysses&quot;" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-04-04</td>
       <td>Foot Ox</td>
@@ -1296,7 +1299,7 @@ Dada music is a subgenre of experimental music that emerged in the early 20th ce
     <tr>
       <td>5</td>
       <td>
-          <img src="https://i.discogs.com/nXbKwA3NDydy66AGJ45pRv0mrRNvD1wRb32r643N7gI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzc1/NTUzLTE1OTA1MTcw/OTUtMjQzNS5qcGVn.jpeg" alt="Cover for liffektroHika" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c229166abf744dc7af8ac33937ef8f4c.png" alt="Cover for liffektroHika" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-05-28</td>
       <td>Kol9remesez</td>
@@ -1329,13 +1332,14 @@ Dada music is a subgenre of experimental music that emerged in the early 20th ce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/zen" | relative_url }}">zen</a> # 48</li>
+            <li> <a href="{{ "/tags/zen" | relative_url }}">zen</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>45</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c6a6b1c9dda041bbcaece09ba0fea86b.png" alt="Cover for A Corner Can Fasten Itself" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Carlo Yemen</td>
@@ -1347,13 +1351,14 @@ Dada music is a subgenre of experimental music that emerged in the early 20th ce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/zen" | relative_url }}">zen</a> # 30</li>
+            <li> <a href="{{ "/tags/zen" | relative_url }}">zen</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>77</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/27becc5eb13943a9843ea7f0bc52142a.png" alt="Cover for Progression of Taters" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Quendus</td>
@@ -1370,7 +1375,7 @@ Dada music is a subgenre of experimental music that emerged in the early 20th ce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 26</li>
+            <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1392,14 +1397,15 @@ Dada music is a subgenre of experimental music that emerged in the early 20th ce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-and-dark" | relative_url }}">deep and dark</a> # 31</li>
-            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 37</li>
+            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 26</li>
+            <li> <a href="{{ "/tags/deep-and-dark" | relative_url }}">deep and dark</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>89</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/09fc4e66cc7b479c99f8c8b3ef45dda3.png" alt="Cover for PENTAGONIC" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>PENTAGONIC</td>
@@ -1428,12 +1434,12 @@ Dada music is a subgenre of experimental music that emerged in the early 20th ce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 8</li>
-            <li> <a href="{{ "/tags/doomgaze" | relative_url }}">doomgaze</a> # 28</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 47</li>
-            <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 52</li>
-            <li> <a href="{{ "/tags/noise-punk" | relative_url }}">noise punk</a> # 67</li>
-            <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 76</li>
+            <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 25</li>
+            <li> <a href="{{ "/tags/noise-punk" | relative_url }}">noise punk</a> # 34</li>
+            <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 48</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 54</li>
+            <li> <a href="{{ "/tags/doomgaze" | relative_url }}">doomgaze</a> # 71</li>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1489,6 +1495,7 @@ Dada music is a subgenre of experimental music that emerged in the early 20th ce
     <tr>
       <td>10</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/75618141a28946e99d1ba24ebfc06754.png" alt="Cover for Denver International Airport or: the Shining Foot Shall Pass" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Denver International Airport or: the Sunday Conjecture</td>
@@ -1667,6 +1674,7 @@ Dada music is a subgenre of experimental music that emerged in the early 20th ce
     <tr>
       <td>27</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c65d6238d12d1277071e2d95f84462a.png" alt="Cover for Telperion" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Roope Kivimaa</td>

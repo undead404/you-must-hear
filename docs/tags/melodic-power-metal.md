@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-27T05:27:26.574Z
+date: 2025-12-05T04:18:02.847Z
 permalink: tags/melodic-power-metal
 title: melodic power metal
 ---
 
 ## melodic power metal
 
-Last updated: <time datetime="2025-11-27T05:27:26.574Z">Thu Nov 27 2025 07:27:26 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T04:18:02.847Z">Fri Dec 05 2025 06:18:02 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -43,7 +43,7 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german-metal" | relative_url }}">german metal</a> # 9</li>
+            <li> <a href="{{ "/tags/german-metal" | relative_url }}">german metal</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -119,7 +119,7 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 26</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -142,7 +142,7 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-power-metal" | relative_url }}">progressive power metal</a> # 58</li>
+            <li> <a href="{{ "/tags/progressive-power-metal" | relative_url }}">progressive power metal</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -162,7 +162,7 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german-metal" | relative_url }}">german metal</a> # 12</li>
+            <li> <a href="{{ "/tags/german-metal" | relative_url }}">german metal</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -181,9 +181,9 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 29</li>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 61</li>
-            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 86</li>
+            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 15</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 40</li>
+            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -220,7 +220,7 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 52</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -243,8 +243,8 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 54</li>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 92</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 9</li>
+            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -283,7 +283,7 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 49</li>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -302,8 +302,8 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 33</li>
-            <li> <a href="{{ "/tags/progressive-power-metal" | relative_url }}">progressive power metal</a> # 48</li>
+            <li> <a href="{{ "/tags/progressive-power-metal" | relative_url }}">progressive power metal</a> # 53</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -339,7 +339,7 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 15</li>
+            <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -358,8 +358,8 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/suomi" | relative_url }}">suomi</a> # 1</li>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 31</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 70</li>
+            <li> <a href="{{ "/tags/suomi" | relative_url }}">suomi</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -396,8 +396,8 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 2</li>
-            <li> <a href="{{ "/tags/german-metal" | relative_url }}">german metal</a> # 16</li>
+            <li> <a href="{{ "/tags/german-metal" | relative_url }}">german metal</a> # 86</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -416,9 +416,9 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 10</li>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 85</li>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 100</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 1</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 16</li>
+            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -455,7 +455,7 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 53</li>
+            <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -473,7 +473,7 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 23</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -491,7 +491,7 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 43</li>
+            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -513,8 +513,8 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 51</li>
-            <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 79</li>
+            <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 22</li>
+            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -574,7 +574,7 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 86</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -612,9 +612,9 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tolkien" | relative_url }}">tolkien</a> # 5</li>
-            <li> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a> # 48</li>
-            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 80</li>
+            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 21</li>
+            <li> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a> # 47</li>
+            <li> <a href="{{ "/tags/tolkien" | relative_url }}">tolkien</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -650,9 +650,9 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 53</li>
-            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 78</li>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 78</li>
+            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 23</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 23</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -688,7 +688,7 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 6</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -712,7 +712,7 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 35</li>
+            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -768,7 +768,7 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 94</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -805,9 +805,9 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a> # 6</li>
-            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 24</li>
-            <li> <a href="{{ "/tags/tolkien" | relative_url }}">tolkien</a> # 49</li>
+            <li> <a href="{{ "/tags/tolkien" | relative_url }}">tolkien</a> # 52</li>
+            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 77</li>
+            <li> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -879,7 +879,7 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 28</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -898,7 +898,7 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german-metal" | relative_url }}">german metal</a> # 62</li>
+            <li> <a href="{{ "/tags/german-metal" | relative_url }}">german metal</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -972,8 +972,8 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a> # 38</li>
-            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 47</li>
+            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 53</li>
+            <li> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1013,7 +1013,7 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 39</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1034,7 +1034,7 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 20</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1094,7 +1094,7 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-melodic-death-metal" | relative_url }}">modern melodic death metal</a> # 80</li>
+            <li> <a href="{{ "/tags/modern-melodic-death-metal" | relative_url }}">modern melodic death metal</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1198,7 +1198,7 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
       <td>
         <ul>
             <li> <a href="{{ "/tags/death-thrash-metal" | relative_url }}">death-thrash metal</a> # 15</li>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 34</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1340,7 +1340,7 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 29</li>
+            <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1361,7 +1361,7 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a> # 18</li>
+            <li> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1424,8 +1424,8 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 41</li>
-            <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 49</li>
+            <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 52</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1469,7 +1469,7 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 74</li>
+            <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1640,7 +1640,7 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 33</li>
+            <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1663,7 +1663,7 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 20</li>
+            <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1703,7 +1703,7 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 90</li>
+            <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1743,7 +1743,7 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a> # 44</li>
+            <li> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1799,7 +1799,7 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 58</li>
+            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -2010,7 +2010,7 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a> # 12</li>
+            <li> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a> # 89</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-27T05:26:43.428Z
+date: 2025-12-05T04:00:20.477Z
 permalink: tags/alternative-rnb
 title: alternative rnb
 ---
 
 ## alternative rnb
 
-Last updated: <time datetime="2025-11-27T05:26:43.428Z">Thu Nov 27 2025 07:26:43 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T04:00:20.477Z">Fri Dec 05 2025 06:00:20 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -42,10 +42,10 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 38</li>
+            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 7</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 60</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 62</li>
             <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 83</li>
-            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -68,7 +68,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 61</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -123,10 +123,10 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 52</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 74</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 80</li>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 97</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 4</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 21</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 27</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -146,8 +146,8 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 100</li>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 100</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 1</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -167,8 +167,8 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 99</li>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 99</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 2</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -186,7 +186,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 40</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -204,11 +204,11 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 2</li>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 16</li>
-            <li> <a href="{{ "/tags/slow-jams" | relative_url }}">slow jams</a> # 71</li>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 73</li>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 77</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 24</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 28</li>
+            <li> <a href="{{ "/tags/slow-jams" | relative_url }}">slow jams</a> # 30</li>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 84</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -244,9 +244,9 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 16</li>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 51</li>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 96</li>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 5</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 50</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -267,7 +267,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 95</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -287,7 +287,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 99</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -324,8 +324,8 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 10</li>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 91</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 10</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -343,8 +343,8 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 54</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 75</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 26</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -364,8 +364,8 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 53</li>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 91</li>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 10</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -386,10 +386,10 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 7</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 11</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 18</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 61</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 83</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 90</li>
+            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -410,7 +410,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 85</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -446,12 +446,12 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 81</li>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 83</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 84</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 5</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 8</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 17</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 18</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 20</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 91</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 93</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -475,8 +475,8 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       <td>
         <ul>
             <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 4</li>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 21</li>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 86</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 15</li>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -506,10 +506,10 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 54</li>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 60</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 79</li>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 81</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 20</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 22</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 41</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -527,9 +527,9 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 66</li>
-            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 69</li>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 76</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 25</li>
+            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 32</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 35</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 83</li>
         </ul>
       </td>
@@ -553,10 +553,10 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 1</li>
+            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 1</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 100</li>
             <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 100</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 100</li>
-            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -602,14 +602,14 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 7</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 8</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 70</li>
-            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 95</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 1</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 1</li>
+            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 3</li>
+            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 6</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 31</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 93</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 93</li>
             <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 97</li>
-            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 98</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 100</li>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 100</li>
             <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 100</li>
         </ul>
       </td>
@@ -668,9 +668,9 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 71</li>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 83</li>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 94</li>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 7</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 18</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -694,8 +694,8 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 87</li>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 89</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 12</li>
+            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -736,10 +736,10 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 100</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 100</li>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 100</li>
-            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 100</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 1</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 1</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 1</li>
+            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -762,10 +762,10 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 64</li>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 87</li>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 95</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 98</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 3</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 6</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 13</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -804,9 +804,9 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 39</li>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 63</li>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 65</li>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 36</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 38</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -828,7 +828,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 92</li>
+            <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -864,9 +864,9 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 9</li>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 9</li>
-            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 27</li>
+            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 74</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 90</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -888,12 +888,12 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 43</li>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 71</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 75</li>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 82</li>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 96</li>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 100</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 1</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 5</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 18</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 26</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 30</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -911,7 +911,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 71</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -932,11 +932,11 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 23</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 66</li>
+            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 14</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 16</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 35</li>
             <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 78</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 85</li>
-            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 87</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -959,10 +959,10 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 7</li>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 29</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 76</li>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 98</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 3</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 25</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 71</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1001,15 +1001,15 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 18</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 30</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 40</li>
-            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 48</li>
-            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 57</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 57</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 72</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 96</li>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 96</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 5</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 5</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 19</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 29</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 44</li>
+            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 44</li>
+            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 53</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 61</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1032,9 +1032,9 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 20</li>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 66</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 81</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 20</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 35</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1053,9 +1053,9 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 6</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 18</li>
             <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 71</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 83</li>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1095,11 +1095,11 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 71</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 74</li>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 78</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 88</li>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 89</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 12</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 13</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 23</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 27</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1119,7 +1119,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 94</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -1143,11 +1143,11 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 81</li>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 90</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 2</li>
+            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 3</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 11</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 20</li>
             <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 94</li>
-            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 97</li>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1206,9 +1206,9 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 86</li>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 92</li>
-            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 100</li>
+            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 1</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 8</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1230,8 +1230,8 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 28</li>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 71</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 30</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1276,13 +1276,13 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 42</li>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 91</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 95</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 95</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 97</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 98</li>
-            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 98</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 3</li>
+            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 3</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 4</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 6</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 6</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 9</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1342,10 +1342,10 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 90</li>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 94</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 96</li>
-            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 100</li>
+            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 1</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 5</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 7</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1380,15 +1380,17 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pluggnb" | relative_url }}">pluggnb</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 19</li>
+            <li> <a href="{{ "/tags/pluggnb" | relative_url }}">pluggnb</a> # 4</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 21</li>
             <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 25</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 80</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1449,10 +1451,10 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 59</li>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 81</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 6</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 20</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 42</li>
             <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 85</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1477,11 +1479,11 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 52</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 59</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 74</li>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 76</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 89</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 12</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 25</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 27</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 42</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1501,11 +1503,11 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 82</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 94</li>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 97</li>
+            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 2</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 4</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 6</li>
+            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 19</li>
             <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 98</li>
-            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1526,7 +1528,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 83</li>
+            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1550,11 +1552,11 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 22</li>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 61</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 7</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 22</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 40</li>
             <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 66</li>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 79</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 94</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1578,12 +1580,12 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 83</li>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 84</li>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 91</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 97</li>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 99</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 100</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 1</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 2</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 4</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 9</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 17</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1623,12 +1625,12 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 2</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 2</li>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 6</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 15</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 15</li>
             <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 64</li>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 86</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 86</li>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 95</li>
-            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 99</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1648,7 +1650,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 98</li>
+            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1671,7 +1673,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 72</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1712,11 +1714,11 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 64</li>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 81</li>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 98</li>
-            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 98</li>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 99</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 2</li>
+            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 3</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 3</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 20</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1772,7 +1774,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 99</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -1795,9 +1797,9 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 6</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 9</li>
             <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 44</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 92</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1817,7 +1819,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 93</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1855,7 +1857,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 100</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -1875,9 +1877,9 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 52</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 49</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 53</li>
-            <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 89</li>
+            <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1898,8 +1900,8 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 96</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 97</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 4</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1924,12 +1926,12 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 39</li>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 71</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 6</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 9</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 11</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 30</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 61</li>
             <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 77</li>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 90</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 92</li>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1953,10 +1955,10 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 18</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 23</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 23</li>
             <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 41</li>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 78</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 78</li>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 83</li>
             <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 97</li>
         </ul>
       </td>
@@ -1979,9 +1981,9 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 1</li>
             <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 93</li>
             <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 100</li>
-            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -2001,10 +2003,10 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 7</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 19</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 23</li>
             <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 67</li>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 82</li>
-            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -2046,13 +2048,13 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 45</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 2</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 4</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 5</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 14</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 55</li>
             <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 58</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 73</li>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 87</li>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 96</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 97</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -2073,7 +2075,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 2</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -2094,8 +2096,8 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 33</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 45</li>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -2116,7 +2118,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 5</li>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -2135,7 +2137,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 78</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -2156,7 +2158,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 39</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 63</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 68</li>
         </ul>
       </td>
@@ -2177,11 +2179,11 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 8</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 65</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 80</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 90</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 93</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 8</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 9</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 11</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 21</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -2199,8 +2201,8 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 80</li>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 93</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 7</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -2221,7 +2223,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 44</li>
+            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 57</li>
         </ul>
       </td>
     </tr>

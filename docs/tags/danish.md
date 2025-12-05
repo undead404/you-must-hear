@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-16T11:57:47.674Z
+date: 2025-12-05T04:00:31.770Z
 permalink: tags/danish
 title: danish
 ---
 
 ## danish
 
-Last updated: <time datetime="2025-11-16T11:57:47.674Z">Sun Nov 16 2025 13:57:47 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T04:00:31.770Z">Fri Dec 05 2025 06:00:31 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -188,8 +188,8 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 54</li>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 82</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 19</li>
+            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -212,16 +212,16 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 4</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 5</li>
             <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 62</li>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 96</li>
-            <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>52</td>
       <td>
-          <img src="https://i.discogs.com/uhMLnc4bXNG698NYNMlk2hhCdoqtHotaqhN5lduT7PQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDE5/MjYtMTI5NDU5Mzcw/MS5qcGVn.jpeg" alt="Cover for Swell" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b4184a0e0c654a1f94055234c8f5ac14.png" alt="Cover for Swell" style="max-width:120px; height:auto;" />
       </td>
       <td>1994</td>
       <td>Psyched Up Janis</td>
@@ -330,8 +330,8 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 18</li>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 67</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 34</li>
+            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -353,8 +353,8 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 81</li>
-            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 85</li>
+            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 15</li>
+            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -414,7 +414,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 94</li>
+            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -435,9 +435,9 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 52</li>
-            <li> <a href="{{ "/tags/new-prog" | relative_url }}">new prog</a> # 95</li>
-            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 99</li>
+            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 2</li>
+            <li> <a href="{{ "/tags/new-prog" | relative_url }}">new prog</a> # 5</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -476,6 +476,8 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 96</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -553,7 +555,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 94</li>
+            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -601,7 +603,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
     <tr>
       <td>4</td>
       <td>
-          <img src="https://i.discogs.com/JHWdD85PB18Mrp08TDZOmi8kAlhiaqHXaHijZOtPEmg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTYz/MTEtMTMyNTQ0OTkz/Ny5qcGVn.jpeg" alt="Cover for Force the Pace" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0817d2982bbcbff31fe4a3d1532540a5.png" alt="Cover for Force the Pace" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-06-07</td>
       <td>Withering Surface</td>
@@ -634,7 +636,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 98</li>
+            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -653,7 +655,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 48</li>
+            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -694,7 +696,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
     <tr>
       <td>9</td>
       <td>
-          <img src="https://i.discogs.com/E7-Kdy1P6D3ejqrtlCBvJL5m75q8hsR-boUlMoBp2fI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNTU3/Ny0xMTExMjUwODA5/LmpwZw.jpeg" alt="Cover for Tip Top Dynamo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b64503342db235c668fc59739490fd62.png" alt="Cover for Tip Top Dynamo" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-02-03</td>
       <td>Hess Is More</td>
@@ -714,7 +716,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
     <tr>
       <td>55</td>
       <td>
-          <img src="https://i.discogs.com/fl1XTNV6LHO18I28rNezM3VBLGYjtm7OQ_y2bbi78fU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1OTky/NC0xNjU5MjExMDkw/LTI2MDIuanBlZw.jpeg" alt="Cover for Pretty in Black" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7b01b97246344b5fa6a45c3dd0821fbb.png" alt="Cover for Pretty in Black" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-05-03</td>
       <td>The Raveonettes</td>
@@ -722,10 +724,12 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 56.99999999999999 / 100)"> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -872,7 +876,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 90</li>
+            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -972,7 +976,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 87</li>
+            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1028,8 +1032,8 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 67</li>
-            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 96</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 34</li>
+            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1049,8 +1053,8 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 86</li>
-            <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 98</li>
+            <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 3</li>
+            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1107,7 +1111,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 74</li>
+            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1127,14 +1131,14 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 68</li>
+            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/6Mg8SbIlRkc2ncMtL-yEUgqExR8_NObRVedNs3Szfdo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzc4/MjAtMTYwMzY0MTY0/OS03NzQ4LmpwZWc.jpeg" alt="Cover for To The Nines" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b40fb5d3e05d4be881a70a704d75be44.png" alt="Cover for To The Nines" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-02</td>
       <td>Hatesphere</td>
@@ -1153,7 +1157,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
     <tr>
       <td>57</td>
       <td>
-          <img src="https://i.discogs.com/2wrw9yNzf1cKWqbbvcI-cNOLgosK1lIDQ5QvLIgHkp0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTI3/NTAtMTY3MDIyNjYz/Mi00NTkwLmpwZWc.jpeg" alt="Cover for Meet Your Maker" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/96ed95d2cb914ebf9d4ceab334db2a72.png" alt="Cover for Meet Your Maker" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-05-29</td>
       <td>As We Fight</td>
@@ -1187,7 +1191,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 95</li>
+            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1209,13 +1213,14 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 55</li>
+            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 45</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>36</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ebb87d39344248b289bac835549f8bbb.png" alt="Cover for Dead Storm" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-08-26</td>
       <td>The Psyke Project</td>
@@ -1268,15 +1273,16 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 1</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 1</li>
-            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 89</li>
+            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 11</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 98</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>1</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/01ca3d26025d43308028a838f83f190f.png" alt="Cover for Track Record" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-02-01</td>
       <td>Thorbjørn Risager</td>
@@ -1292,7 +1298,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 62</li>
+            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1349,7 +1355,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 70</li>
+            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1375,7 +1381,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
     <tr>
       <td>100</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad8fe92674a8429eb0c16832e30c5ebc.png" alt="Cover for Lukas Graham" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/473699f548be065bcbb0f7957d8fc145.png" alt="Cover for Lukas Graham" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-01-01</td>
       <td>Lukas Graham</td>
@@ -1387,7 +1393,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 97</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1485,8 +1491,8 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 68</li>
-            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 97</li>
+            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 4</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1507,8 +1513,8 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 83</li>
-            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 86</li>
+            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 14</li>
+            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1530,8 +1536,8 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 19</li>
-            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 64</li>
+            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 37</li>
+            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1559,7 +1565,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 63</li>
+            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1584,7 +1590,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
     <tr>
       <td>56</td>
       <td>
-          <img src="https://i.discogs.com/ZoQo9LyuesnZH5bi30jyTR-6_k1_iwk1e9gZ674WDbs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NTQx/NTQtMTQwNDU0MTI0/Ni0xMjQ2LmpwZWc.jpeg" alt="Cover for XI" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0edd3c933e7fec12ce54ab40d88fb7fc.png" alt="Cover for XI" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-07-15</td>
       <td>Hexis</td>
@@ -1601,7 +1607,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 80</li>
+            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1660,8 +1666,8 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 46</li>
-            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 72</li>
+            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 28</li>
+            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1703,8 +1709,8 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 49</li>
-            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 73</li>
+            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 27</li>
+            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1726,8 +1732,8 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 28</li>
-            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 65</li>
+            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 35</li>
+            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1749,7 +1755,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 76</li>
+            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1787,10 +1793,10 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 14</li>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 19</li>
-            <li> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a> # 77</li>
-            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 84</li>
+            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 15</li>
+            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 16</li>
+            <li> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a> # 24</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1818,7 +1824,8 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 78</li>
+            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 22</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1843,7 +1850,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 67</li>
+            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1864,7 +1871,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 83</li>
+            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1890,7 +1897,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
     <tr>
       <td>42</td>
       <td>
-          <img src="https://i.discogs.com/qe_n9qBeOyt8aogFWcL2uraGU7ydEAbBvEqG0WusTX4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDMy/MjYwLTE1MzUxODMy/MDktMzI1OS5qcGVn.jpeg" alt="Cover for August Eighteen" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5b47be8129ee0fb5161a67e2aafa18ce.png" alt="Cover for August Eighteen" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-08-24</td>
       <td>Clara</td>
@@ -1945,7 +1952,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 85</li>
+            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1986,8 +1993,8 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 45</li>
-            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 71</li>
+            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 29</li>
+            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -2010,7 +2017,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a> # 9</li>
+            <li> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -2032,7 +2039,7 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 73</li>
+            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -2063,8 +2070,8 @@ Danish pop blends melodic Scandinavian sensibilities with international influenc
 - [dansk]({{ "/tags/dansk" | relative_url }})
 - [rock]({{ "/tags/rock" | relative_url }})
 - [electronic]({{ "/tags/electronic" | relative_url }})
-- [alternative]({{ "/tags/alternative" | relative_url }})
 - [folk]({{ "/tags/folk" | relative_url }})
+- [alternative]({{ "/tags/alternative" | relative_url }})
 - [ambient]({{ "/tags/ambient" | relative_url }})
 - [rap]({{ "/tags/rap" | relative_url }})
 - [death metal]({{ "/tags/death-metal" | relative_url }})

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-27T08:42:26.828Z
+date: 2025-12-05T04:24:18.149Z
 permalink: tags/symphonic-death-metal
 title: symphonic death metal
 ---
 
 ## symphonic death metal
 
-Last updated: <time datetime="2025-11-27T08:42:26.828Z">Thu Nov 27 2025 10:42:26 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T04:24:18.149Z">Fri Dec 05 2025 06:24:18 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -150,7 +150,7 @@ Symphonic death metal fuses the aggressive brutality of death metal with grand o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 18</li>
+            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -393,7 +393,7 @@ Symphonic death metal fuses the aggressive brutality of death metal with grand o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/unblack-metal" | relative_url }}">unblack metal</a> # 85</li>
+            <li> <a href="{{ "/tags/unblack-metal" | relative_url }}">unblack metal</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -579,7 +579,7 @@ Symphonic death metal fuses the aggressive brutality of death metal with grand o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-death-metal" | relative_url }}">industrial death metal</a> # 80</li>
+            <li> <a href="{{ "/tags/industrial-death-metal" | relative_url }}">industrial death metal</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -658,7 +658,7 @@ Symphonic death metal fuses the aggressive brutality of death metal with grand o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 93</li>
+            <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -677,7 +677,6 @@ Symphonic death metal fuses the aggressive brutality of death metal with grand o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -718,7 +717,7 @@ Symphonic death metal fuses the aggressive brutality of death metal with grand o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latvian" | relative_url }}">latvian</a> # 57</li>
+            <li> <a href="{{ "/tags/latvian" | relative_url }}">latvian</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -755,8 +754,8 @@ Symphonic death metal fuses the aggressive brutality of death metal with grand o
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 31</li>
             <li> <a href="{{ "/tags/technical-brutal-death-metal" | relative_url }}">technical brutal death metal</a> # 69</li>
-            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -780,7 +779,7 @@ Symphonic death metal fuses the aggressive brutality of death metal with grand o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 81</li>
+            <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -800,7 +799,7 @@ Symphonic death metal fuses the aggressive brutality of death metal with grand o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 59</li>
+            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -823,7 +822,7 @@ Symphonic death metal fuses the aggressive brutality of death metal with grand o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 99</li>
+            <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -884,8 +883,8 @@ Symphonic death metal fuses the aggressive brutality of death metal with grand o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 4</li>
-            <li> <a href="{{ "/tags/taiwanese" | relative_url }}">taiwanese</a> # 62</li>
+            <li> <a href="{{ "/tags/taiwanese" | relative_url }}">taiwanese</a> # 34</li>
+            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -905,7 +904,7 @@ Symphonic death metal fuses the aggressive brutality of death metal with grand o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 85</li>
+            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1002,7 +1001,7 @@ Symphonic death metal fuses the aggressive brutality of death metal with grand o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 91</li>
+            <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1260,7 +1259,7 @@ Symphonic death metal fuses the aggressive brutality of death metal with grand o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-death-metal" | relative_url }}">industrial death metal</a> # 61</li>
+            <li> <a href="{{ "/tags/industrial-death-metal" | relative_url }}">industrial death metal</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1283,7 +1282,7 @@ Symphonic death metal fuses the aggressive brutality of death metal with grand o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 87</li>
+            <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1447,8 +1446,8 @@ Symphonic death metal fuses the aggressive brutality of death metal with grand o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 6</li>
-            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 20</li>
+            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 81</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1525,7 +1524,7 @@ Symphonic death metal fuses the aggressive brutality of death metal with grand o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 14</li>
+            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1584,9 +1583,9 @@ Symphonic death metal fuses the aggressive brutality of death metal with grand o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 36</li>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 41</li>
-            <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 100</li>
+            <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 1</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 58</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1913,7 +1912,7 @@ Symphonic death metal fuses the aggressive brutality of death metal with grand o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 94</li>
+            <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1952,7 +1951,7 @@ Symphonic death metal fuses the aggressive brutality of death metal with grand o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 46</li>
+            <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 55</li>
         </ul>
       </td>
     </tr>

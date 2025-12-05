@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-24T02:26:38.208Z
+date: 2025-12-05T03:02:30.928Z
 permalink: tags/brazil
 title: brazil
 ---
 
 ## brazil
 
-Last updated: <time datetime="2025-11-24T02:26:38.208Z">Mon Nov 24 2025 04:26:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T03:02:30.928Z">Fri Dec 05 2025 05:02:30 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -48,7 +48,7 @@ Brazilian music blends indigenous, African, and European influences into diverse
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/GM-ScE3zLlTBghG2sPj9yvnicbvQnEq6R-yoFU2vT3U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTcz/NTczLTE1NjkyMzc3/OTMtNzYzOS5qcGVn.jpeg" alt="Cover for Travessia" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a6c491c2bc2174fc2eac637d4a6de2ba.png" alt="Cover for Travessia" style="max-width:120px; height:auto;" />
       </td>
       <td>1967</td>
       <td>Milton Nascimento</td>
@@ -61,7 +61,7 @@ Brazilian music blends indigenous, African, and European influences into diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 12</li>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -107,7 +107,7 @@ Brazilian music blends indigenous, African, and European influences into diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 81</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -163,7 +163,8 @@ Brazilian music blends indigenous, African, and European influences into diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 26</li>
+            <li> <a href="{{ "/tags/lullabies" | relative_url }}">lullabies</a> # 2</li>
+            <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -258,7 +259,7 @@ Brazilian music blends indigenous, African, and European influences into diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 42</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 58</li>
             <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 63</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 65</li>
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 66</li>
@@ -398,8 +399,8 @@ Brazilian music blends indigenous, African, and European influences into diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 75</li>
-            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 99</li>
+            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 2</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -439,7 +440,7 @@ Brazilian music blends indigenous, African, and European influences into diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 57</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -457,7 +458,7 @@ Brazilian music blends indigenous, African, and European influences into diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 54</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -498,7 +499,7 @@ Brazilian music blends indigenous, African, and European influences into diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 41</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 60</li>
             <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 77</li>
         </ul>
       </td>
@@ -558,7 +559,7 @@ Brazilian music blends indigenous, African, and European influences into diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 45</li>
+            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 56</li>
             <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 65</li>
         </ul>
       </td>
@@ -620,26 +621,26 @@ Brazilian music blends indigenous, African, and European influences into diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 19</li>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 45</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 57</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 58</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 72</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 72</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 75</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 76</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 85</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 85</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 86</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 86</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 86</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 1</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 1</li>
+            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 3</li>
+            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 8</li>
+            <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 12</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 13</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 15</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 15</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 15</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 16</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 16</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 24</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 24</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 28</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 29</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 42</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 43</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 46</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 82</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 87</li>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 88</li>
-            <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 89</li>
-            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 93</li>
-            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 98</li>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 100</li>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -695,9 +696,9 @@ Brazilian music blends indigenous, African, and European influences into diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 21</li>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 4</li>
             <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 67</li>
-            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 97</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -739,8 +740,8 @@ Brazilian music blends indigenous, African, and European influences into diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 74</li>
-            <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 91</li>
+            <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 9</li>
+            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -762,7 +763,7 @@ Brazilian music blends indigenous, African, and European influences into diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternativo" | relative_url }}">alternativo</a> # 74</li>
+            <li> <a href="{{ "/tags/alternativo" | relative_url }}">alternativo</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -821,7 +822,7 @@ Brazilian music blends indigenous, African, and European influences into diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 87</li>
+            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -862,8 +863,8 @@ Brazilian music blends indigenous, African, and European influences into diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 66</li>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 66</li>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 35</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -886,7 +887,7 @@ Brazilian music blends indigenous, African, and European influences into diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 88</li>
+            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -907,7 +908,7 @@ Brazilian music blends indigenous, African, and European influences into diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sertanejo" | relative_url }}">sertanejo</a> # 82</li>
+            <li> <a href="{{ "/tags/sertanejo" | relative_url }}">sertanejo</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1003,7 +1004,7 @@ Brazilian music blends indigenous, African, and European influences into diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 38</li>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1024,9 +1025,9 @@ Brazilian music blends indigenous, African, and European influences into diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 71</li>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 94</li>
-            <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 100</li>
+            <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 1</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 7</li>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 30</li>
             <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 100</li>
         </ul>
       </td>
@@ -1087,7 +1088,7 @@ Brazilian music blends indigenous, African, and European influences into diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 90</li>
+            <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1122,7 +1123,7 @@ Brazilian music blends indigenous, African, and European influences into diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 65</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1143,9 +1144,9 @@ Brazilian music blends indigenous, African, and European influences into diverse
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 12</li>
+            <li> <a href="{{ "/tags/brasileira" | relative_url }}">brasileira</a> # 33</li>
             <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 50</li>
-            <li> <a href="{{ "/tags/brasileira" | relative_url }}">brasileira</a> # 63</li>
-            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1218,7 +1219,7 @@ Brazilian music blends indigenous, African, and European influences into diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 84</li>
+            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1237,7 +1238,7 @@ Brazilian music blends indigenous, African, and European influences into diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 5</li>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1280,7 +1281,7 @@ Brazilian music blends indigenous, African, and European influences into diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ukulele" | relative_url }}">ukulele</a> # 97</li>
+            <li> <a href="{{ "/tags/ukulele" | relative_url }}">ukulele</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1322,10 +1323,10 @@ Brazilian music blends indigenous, African, and European influences into diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 19</li>
-            <li> <a href="{{ "/tags/unplugged" | relative_url }}">unplugged</a> # 20</li>
+            <li> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a> # 3</li>
             <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 48</li>
-            <li> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a> # 98</li>
+            <li> <a href="{{ "/tags/unplugged" | relative_url }}">unplugged</a> # 80</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1344,7 +1345,7 @@ Brazilian music blends indigenous, African, and European influences into diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 50</li>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1401,7 +1402,7 @@ Brazilian music blends indigenous, African, and European influences into diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brasileira" | relative_url }}">brasileira</a> # 95</li>
+            <li> <a href="{{ "/tags/brasileira" | relative_url }}">brasileira</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1441,7 +1442,7 @@ Brazilian music blends indigenous, African, and European influences into diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 44</li>
+            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1483,7 +1484,7 @@ Brazilian music blends indigenous, African, and European influences into diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 84</li>
+            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1521,7 +1522,7 @@ Brazilian music blends indigenous, African, and European influences into diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 58</li>
+            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1599,7 +1600,7 @@ Brazilian music blends indigenous, African, and European influences into diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 56</li>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1707,7 +1708,7 @@ Brazilian music blends indigenous, African, and European influences into diverse
         <ul>
             <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 66</li>
             <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 75</li>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 91</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1729,7 +1730,7 @@ Brazilian music blends indigenous, African, and European influences into diverse
       <td>
         <ul>
             <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 23</li>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 74</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1790,8 +1791,8 @@ Brazilian music blends indigenous, African, and European influences into diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 4</li>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 90</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 11</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1812,8 +1813,8 @@ Brazilian music blends indigenous, African, and European influences into diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 80</li>
-            <li> <a href="{{ "/tags/pagode" | relative_url }}">pagode</a> # 94</li>
+            <li> <a href="{{ "/tags/pagode" | relative_url }}">pagode</a> # 6</li>
+            <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1835,7 +1836,7 @@ Brazilian music blends indigenous, African, and European influences into diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 1</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1861,8 +1862,8 @@ Brazilian music blends indigenous, African, and European influences into diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a> # 48</li>
-            <li> <a href="{{ "/tags/brasileira" | relative_url }}">brasileira</a> # 92</li>
+            <li> <a href="{{ "/tags/brasileira" | relative_url }}">brasileira</a> # 7</li>
+            <li> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1883,7 +1884,7 @@ Brazilian music blends indigenous, African, and European influences into diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sertanejo" | relative_url }}">sertanejo</a> # 86</li>
+            <li> <a href="{{ "/tags/sertanejo" | relative_url }}">sertanejo</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1923,7 +1924,7 @@ Brazilian music blends indigenous, African, and European influences into diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sertanejo" | relative_url }}">sertanejo</a> # 99</li>
+            <li> <a href="{{ "/tags/sertanejo" | relative_url }}">sertanejo</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -1965,8 +1966,8 @@ Brazilian music blends indigenous, African, and European influences into diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 20</li>
-            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 76</li>
+            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 25</li>
+            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 77</li>
         </ul>
       </td>
     </tr>

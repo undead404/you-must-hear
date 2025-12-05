@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T16:44:25.179Z
+date: 2025-12-05T04:22:08.833Z
 permalink: tags/idol
 title: idol
 ---
 
 ## idol
 
-Last updated: <time datetime="2025-10-22T16:44:25.179Z">Wed Oct 22 2025 19:44:25 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-05T04:22:08.833Z">Fri Dec 05 2025 06:22:08 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,6 +31,7 @@ Idol is a Japanese pop music genre centered around highly produced groups and so
     <tr>
       <td>39</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/761aa419ec61ec1ec30566930f118d8b.png" alt="Cover for You Must Be Certain of the Devil" style="max-width:120px; height:auto;" />
       </td>
       <td>1988</td>
       <td>Diamanda Galás</td>
@@ -47,7 +48,7 @@ Idol is a Japanese pop music genre centered around highly produced groups and so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 57</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 40</li>
             <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 80</li>
         </ul>
       </td>
@@ -74,7 +75,7 @@ Idol is a Japanese pop music genre centered around highly produced groups and so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 24</li>
+            <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -101,14 +102,14 @@ Idol is a Japanese pop music genre centered around highly produced groups and so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 72</li>
+            <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 28</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>91</td>
       <td>
-          <img src="https://i.discogs.com/up8u8S2VfIcx7K4m-hKMUg3N-Epd_CaY2EpgLazm8dY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDgw/NjgtMTI3ODY0MTAy/NS5qcGVn.jpeg" alt="Cover for 不自然なガール&#x2F;ナチュラルに恋して" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5fbe7ed297fe3818e7e4ee27eb273b66.png" alt="Cover for 不自然なガール&#x2F;ナチュラルに恋して" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Perfume</td>
@@ -128,7 +129,7 @@ Idol is a Japanese pop music genre centered around highly produced groups and so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 81</li>
+            <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -153,7 +154,7 @@ Idol is a Japanese pop music genre centered around highly produced groups and so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 25</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 70</li>
             <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 73</li>
         </ul>
       </td>
@@ -161,7 +162,7 @@ Idol is a Japanese pop music genre centered around highly produced groups and so
     <tr>
       <td>63</td>
       <td>
-          <img src="https://i.discogs.com/RYH1YZ2jaV6dOMkqkhGz1gTa_KjYlWeIVAMrtFXw2F0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzOTg4/MDItMTUyMTUxNDQ5/My0zMDM1LmpwZWc.jpeg" alt="Cover for FAKE METAL JACKET" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7ffd799809fd0b5464d40d2f43bb239c.png" alt="Cover for FAKE METAL JACKET" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Bish</td>
@@ -197,6 +198,7 @@ Idol is a Japanese pop music genre centered around highly produced groups and so
     <tr>
       <td>92</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b4c8065b4a73f84782534b5a965c21b.png" alt="Cover for モノクロームエフェクト" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-03-17</td>
       <td>Perfume</td>
@@ -216,7 +218,7 @@ Idol is a Japanese pop music genre centered around highly produced groups and so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 82</li>
+            <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -242,6 +244,7 @@ Idol is a Japanese pop music genre centered around highly produced groups and so
     <tr>
       <td>93</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4862af9ab9f4c2437e93dd84b0335e44.png" alt="Cover for ビタミンドロップ" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-09-08</td>
       <td>Perfume</td>
@@ -260,7 +263,7 @@ Idol is a Japanese pop music genre centered around highly produced groups and so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 85</li>
+            <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -282,7 +285,7 @@ Idol is a Japanese pop music genre centered around highly produced groups and so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 28</li>
+            <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -307,7 +310,7 @@ Idol is a Japanese pop music genre centered around highly produced groups and so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 44</li>
+            <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -337,7 +340,7 @@ Idol is a Japanese pop music genre centered around highly produced groups and so
     <tr>
       <td>27</td>
       <td>
-          <img src="https://i.discogs.com/tnI5LoZkgem50OGezUgPYSx7ILv3Nsw7Q3WmPQIBW4o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjQ0/NjY3LTE1ODg2MDQ4/NTYtNTQ1NS5qcGVn.jpeg" alt="Cover for Buono! 2" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e13824006088d217b187784f9a995957.png" alt="Cover for Buono! 2" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-02-11</td>
       <td>Buono!</td>
@@ -358,6 +361,7 @@ Idol is a Japanese pop music genre centered around highly produced groups and so
     <tr>
       <td>95</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b100eb317e66f73f31e505dbb37743b7.png" alt="Cover for ワンルーム・ディスコ" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-03-25</td>
       <td>Perfume</td>
@@ -377,15 +381,16 @@ Idol is a Japanese pop music genre centered around highly produced groups and so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 22</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 23</li>
-            <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 89</li>
+            <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 12</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 71</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>24</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/08637533f39242abb9a1c15b63c2c69b.png" alt="Cover for Lines, Vines and Trying Times" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-06-16</td>
       <td>Jonas Brothers</td>
@@ -402,6 +407,7 @@ Idol is a Japanese pop music genre centered around highly produced groups and so
     <tr>
       <td>72</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b9de897f8d320f391dae8f494f746de8.png" alt="Cover for 神曲たち" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-04-07</td>
       <td>AKB48</td>
@@ -421,6 +427,7 @@ Idol is a Japanese pop music genre centered around highly produced groups and so
     <tr>
       <td>40</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4e6eb87aeec04c96a19302d750f32f9c.png" alt="Cover for 行くぜっ!怪盗少女" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-05-05</td>
       <td>ももいろクローバー</td>
@@ -439,13 +446,14 @@ Idol is a Japanese pop music genre centered around highly produced groups and so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 20</li>
+            <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>20</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ff06ae87b9f0468fb4ca9d6df4614066.png" alt="Cover for キラリ☆" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-05-05</td>
       <td>東京女子流</td>
@@ -505,6 +513,7 @@ Idol is a Japanese pop music genre centered around highly produced groups and so
     <tr>
       <td>98</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c2ded66f9db4c281aba61e09b424d2d.png" alt="Cover for ねぇ" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-11-10</td>
       <td>Perfume</td>
@@ -524,9 +533,10 @@ Idol is a Japanese pop music genre centered around highly produced groups and so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 50</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 51</li>
-            <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 96</li>
+            <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 5</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 42</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 46</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -550,15 +560,16 @@ Idol is a Japanese pop music genre centered around highly produced groups and so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 54</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 54</li>
-            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 98</li>
+            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 3</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 40</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 44</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>5</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2690047ba7ce484db729be81fce5e8ac.png" alt="Cover for If" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-01-19</td>
       <td>フレンチ・キス</td>
@@ -580,7 +591,7 @@ Idol is a Japanese pop music genre centered around highly produced groups and so
     <tr>
       <td>3</td>
       <td>
-          <img src="https://i.discogs.com/V5flEanEQaNN7v8hFgmiXo04BbkbFofj_RamG7V8cvA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzk3/ODAzLTE2NDI1NzQy/NDktODE4Ni5qcGVn.jpeg" alt="Cover for Answer" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/37190ba0e30a5117b3e6cfbc217ea1f5.png" alt="Cover for Answer" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-03-02</td>
       <td>ノースリーブス</td>
@@ -604,6 +615,7 @@ Idol is a Japanese pop music genre centered around highly produced groups and so
     <tr>
       <td>49</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/879a0645a8674c8ea2d9865c525e392a.png" alt="Cover for SHINING☆STAR" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-03-09</td>
       <td>9nine</td>
@@ -622,13 +634,14 @@ Idol is a Japanese pop music genre centered around highly produced groups and so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 32</li>
+            <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>28</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0da273f6acc202051beadf85caec9ae8.png" alt="Cover for バンザイVenus" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-03-09</td>
       <td>SKE48</td>
@@ -646,6 +659,7 @@ Idol is a Japanese pop music genre centered around highly produced groups and so
     <tr>
       <td>16</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/74a0688fa58b4960848e4e269c5eb806.png" alt="Cover for 鼓動の秘密" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-05-04</td>
       <td>東京女子流</td>
@@ -669,6 +683,7 @@ Idol is a Japanese pop music genre centered around highly produced groups and so
     <tr>
       <td>50</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4b044e922824944750418dc8c5cf58ce.png" alt="Cover for Everyday、カチューシャ" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-05-25</td>
       <td>AKB48</td>
@@ -686,7 +701,7 @@ Idol is a Japanese pop music genre centered around highly produced groups and so
     <tr>
       <td>25</td>
       <td>
-          <img src="https://i.discogs.com/YM54h_OVJPnyyn60VZHJ0IfOSD5N3xaeVKkRdkHCUm4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjU0/MjY5LTE1NTgzNTcz/MjgtNDk0NS5qcGVn.jpeg" alt="Cover for 絶滅黒髪少女" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bfa09504ce80466fc69a301ce8517bbd.png" alt="Cover for 絶滅黒髪少女" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-07-20</td>
       <td>NMB48</td>
@@ -725,6 +740,7 @@ Idol is a Japanese pop music genre centered around highly produced groups and so
     <tr>
       <td>74</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d96c2a7a8aa040078d1f7eaa3c20b85f.png" alt="Cover for パレオはエメラルド" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-07-27</td>
       <td>SKE48</td>
@@ -742,7 +758,7 @@ Idol is a Japanese pop music genre centered around highly produced groups and so
     <tr>
       <td>35</td>
       <td>
-          <img src="https://i.discogs.com/sK-KHcndrGDEe9DHEi6L4rHfUS84QWKLIzpY3fj6YNA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzk2/NTExLTE2MzU2ODI1/OTYtMzI5My5qcGVn.jpeg" alt="Cover for なないろ☆ナミダ" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3587f461f39b426ba14c863a35215a6c.png" alt="Cover for なないろ☆ナミダ" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-08-17</td>
       <td>Tomato n&#39; Pine</td>
@@ -763,14 +779,15 @@ Idol is a Japanese pop music genre centered around highly produced groups and so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 14</li>
-            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 50</li>
+            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 48</li>
+            <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>23</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5a5e457a91a7829fc6b31a1b592215a7.png" alt="Cover for フライングゲット" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-08-24</td>
       <td>AKB48</td>
@@ -793,6 +810,7 @@ Idol is a Japanese pop music genre centered around highly produced groups and so
     <tr>
       <td>82</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/900f0614d6424351a2d06f0e4c5b5cf6.png" alt="Cover for オキドキ" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-11-09</td>
       <td>SKE48</td>
@@ -810,7 +828,7 @@ Idol is a Japanese pop music genre centered around highly produced groups and so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 74</li>
+            <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -833,13 +851,14 @@ Idol is a Japanese pop music genre centered around highly produced groups and so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 34</li>
+            <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>46</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b8cb90ed5a45f9a600359f6c72abdea0.png" alt="Cover for 上からマリコ" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-12-07</td>
       <td>AKB48</td>
@@ -857,7 +876,7 @@ Idol is a Japanese pop music genre centered around highly produced groups and so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 30</li>
+            <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -880,13 +899,14 @@ Idol is a Japanese pop music genre centered around highly produced groups and so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 77</li>
+            <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 23</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>2</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a02efb15cdf78c3b9a46e8491fb5ead.png" alt="Cover for GIVE ME FIVE!" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-02-15</td>
       <td>AKB48</td>
@@ -907,6 +927,7 @@ Idol is a Japanese pop music genre centered around highly produced groups and so
     <tr>
       <td>80</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a827e61f14740e39c914b1c42ff69a7.png" alt="Cover for Harukaze" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-02-22</td>
       <td>Scandal</td>
@@ -925,8 +946,8 @@ Idol is a Japanese pop music genre centered around highly produced groups and so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 68</li>
-            <li> <a href="{{ "/tags/asian-rock" | relative_url }}">asian rock</a> # 77</li>
+            <li> <a href="{{ "/tags/asian-rock" | relative_url }}">asian rock</a> # 23</li>
+            <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -951,6 +972,7 @@ Idol is a Japanese pop music genre centered around highly produced groups and so
     <tr>
       <td>7</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0c7caafc6fcdfa146478e8a2df91b77f.png" alt="Cover for 恋愛ハンター" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-04-11</td>
       <td>モーニング娘。</td>
@@ -990,18 +1012,13 @@ Idol is a Japanese pop music genre centered around highly produced groups and so
     <tr>
       <td>62</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5385b83bcbba4784b8387913aa6eda9b.png" alt="Cover for Z女戦争" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-06-27</td>
       <td>ももいろクローバーZ</td>
       <td>Z女戦争</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idol" | relative_url }}">idol</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
         </ul>
       </td>
       <td>
@@ -1013,6 +1030,7 @@ Idol is a Japanese pop music genre centered around highly produced groups and so
     <tr>
       <td>15</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6bf907049a8719a10f8c594bbd726a18.png" alt="Cover for ヘドバンギャー!!" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-07-04</td>
       <td>BABYMETAL</td>
@@ -1024,13 +1042,14 @@ Idol is a Japanese pop music genre centered around highly produced groups and so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 75</li>
+            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 26</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>53</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c2f643dbe9007975dbea03768df46ca2.png" alt="Cover for ニッポン笑顔百景" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-08-01</td>
       <td>桃黒亭一門</td>
@@ -1047,13 +1066,14 @@ Idol is a Japanese pop music genre centered around highly produced groups and so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 38</li>
+            <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>55</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a9ee5de48bb43ffd33ba5659d506ab15.png" alt="Cover for 1830m" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-08-15</td>
       <td>AKB48</td>
@@ -1109,9 +1129,9 @@ Idol is a Japanese pop music genre centered around highly produced groups and so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 28</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 29</li>
-            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 95</li>
+            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 7</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 65</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1169,7 +1189,7 @@ Idol is a Japanese pop music genre centered around highly produced groups and so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 52</li>
+            <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1198,6 +1218,7 @@ Idol is a Japanese pop music genre centered around highly produced groups and so
     <tr>
       <td>54</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c58e3516987949118aabd84dbec771ca.png" alt="Cover for イジメ、ダメ、ゼッタイ" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-01-09</td>
       <td>BABYMETAL</td>
@@ -1211,7 +1232,7 @@ Idol is a Japanese pop music genre centered around highly produced groups and so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 82</li>
+            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1257,13 +1278,14 @@ Idol is a Japanese pop music genre centered around highly produced groups and so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 94</li>
+            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 8</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>31</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/057a2ec7708146c1b8682c449f4284ee.png" alt="Cover for ショートケーキ" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-02-06</td>
       <td>柏木由紀</td>
@@ -1319,7 +1341,7 @@ Idol is a Japanese pop music genre centered around highly produced groups and so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 75</li>
+            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1435,7 +1457,7 @@ Idol is a Japanese pop music genre centered around highly produced groups and so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 54</li>
+            <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1496,7 +1518,7 @@ Idol is a Japanese pop music genre centered around highly produced groups and so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 8</li>
+            <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1578,7 +1600,7 @@ Idol is a Japanese pop music genre centered around highly produced groups and so
     <tr>
       <td>86</td>
       <td>
-          <img src="https://i.discogs.com/HUb_9isaofTDPQimzXO5ILRodU1auHvkv8F9C24IJ4U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzk1/MDI4LTE1NTMzODA4/NDAtODk3NS5qcGVn.jpeg" alt="Cover for それは僕たちの奇跡" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d2486ed85bb6427cc2c22f3a0bbaff53.png" alt="Cover for それは僕たちの奇跡" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-04-23</td>
       <td>μ&#39;s</td>
@@ -1599,9 +1621,11 @@ Idol is a Japanese pop music genre centered around highly produced groups and so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 76</li>
-            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 91</li>
-            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 93</li>
+            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 6</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 62</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 64</li>
+            <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 80</li>
+            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1625,7 +1649,7 @@ Idol is a Japanese pop music genre centered around highly produced groups and so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 86</li>
+            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1649,7 +1673,7 @@ Idol is a Japanese pop music genre centered around highly produced groups and so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 85</li>
+            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1711,7 +1735,7 @@ Idol is a Japanese pop music genre centered around highly produced groups and so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 37</li>
+            <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1735,7 +1759,7 @@ Idol is a Japanese pop music genre centered around highly produced groups and so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 90</li>
+            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1759,14 +1783,14 @@ Idol is a Japanese pop music genre centered around highly produced groups and so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 82</li>
+            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 19</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>4</td>
       <td>
-          <img src="https://i.discogs.com/SubekuPUXgZERBglpq5UNIuDUFA7oFno38CjkbuVuTA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyODg5/MzQtMTQ1ODcwNjc0/Mi03MTgxLmpwZWc.jpeg" alt="Cover for NEMESIS" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1cf7e1ea1b3f7cd3d3fbc86fab54d7e0.png" alt="Cover for NEMESIS" style="max-width:120px; height:auto;" />
       </td>
       <td>2016</td>
       <td>NECRONOMIDOL</td>
@@ -1782,7 +1806,7 @@ Idol is a Japanese pop music genre centered around highly produced groups and so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 73</li>
+            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1806,7 +1830,7 @@ Idol is a Japanese pop music genre centered around highly produced groups and so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 79</li>
+            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1827,10 +1851,10 @@ Idol is a Japanese pop music genre centered around highly produced groups and so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 4</li>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 65</li>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 71</li>
-            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 99</li>
+            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 2</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 22</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 28</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1876,14 +1900,14 @@ Idol is a Japanese pop music genre centered around highly produced groups and so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 4</li>
+            <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>22</td>
       <td>
-          <img src="https://i.discogs.com/8wxCN6EB68o-s6DPUk0YMO1p_4tYYGlpEuYY-v1lNgs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODA3/MzkwLTE1OTgxNjkz/ODktNDYwMS5qcGVn.jpeg" alt="Cover for BPM15Q ALL SONGS" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/74d2e39ac6528911eb20018850c1f878.png" alt="Cover for BPM15Q ALL SONGS" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-11-23</td>
       <td>BPM15Q</td>
@@ -1908,7 +1932,7 @@ Idol is a Japanese pop music genre centered around highly produced groups and so
     <tr>
       <td>44</td>
       <td>
-          <img src="https://i.discogs.com/ezoyJtECRFMn9Eeq2XRurjfOdNTDd3R24WdeHhE_wa4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4OTg3/NzUtMTQ4ODE2NDA0/MS0zMDQ3LmpwZWc.jpeg" alt="Cover for DEATHLESS" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dfcc20d48b5d6161eba6454c0295d2aa.png" alt="Cover for DEATHLESS" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-02-22</td>
       <td>NECRONOMIDOL</td>
@@ -1925,7 +1949,7 @@ Idol is a Japanese pop music genre centered around highly produced groups and so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 29</li>
+            <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1951,7 +1975,7 @@ Idol is a Japanese pop music genre centered around highly produced groups and so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 88</li>
+            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -2015,14 +2039,14 @@ Idol is a Japanese pop music genre centered around highly produced groups and so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 78</li>
+            <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 22</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>70</td>
       <td>
-          <img src="https://i.discogs.com/ylLTNMYqKCFnq7N8BLf4EKLrLhCVXz-5LY_F0LlqCP0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDU3/NTEwLTE1Mjc0NDIw/ODctNTA3My5qcGVn.jpeg" alt="Cover for ZENITH" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/580662fd9ffce7415f00c9130fc3d816.png" alt="Cover for ZENITH" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-05-23</td>
       <td>PassCode</td>
@@ -2039,7 +2063,7 @@ Idol is a Japanese pop music genre centered around highly produced groups and so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 88</li>
+            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -2099,26 +2123,27 @@ Idol is a Japanese pop music genre centered around highly produced groups and so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 6</li>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 39</li>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 60</li>
-            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 70</li>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 80</li>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 82</li>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 87</li>
-            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 92</li>
-            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 94</li>
+            <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 3</li>
+            <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 4</li>
+            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 5</li>
+            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 6</li>
+            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 9</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 14</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 16</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 18</li>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 32</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 34</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 56</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 87</li>
             <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 95</li>
-            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 96</li>
             <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 96</li>
-            <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 97</li>
-            <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>32</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7bdd9683cf12f488f2f7c4507adb7fd5.png" alt="Cover for 恋?で愛?で暴君です!" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Wake Up, Girls!</td>
@@ -2129,13 +2154,14 @@ Idol is a Japanese pop music genre centered around highly produced groups and so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 70</li>
+            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 31</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>84</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bfa6b21c81584fd7ac1d0fb97a9c62e8.png" alt="Cover for ミライボウル" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>ももいろクローバー</td>
@@ -2153,7 +2179,7 @@ Idol is a Japanese pop music genre centered around highly produced groups and so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 76</li>
+            <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 24</li>
         </ul>
       </td>
     </tr>

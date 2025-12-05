@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-18T12:02:02.101Z
+date: 2025-12-05T04:26:15.191Z
 permalink: tags/beat
 title: beat
 ---
 
 ## beat
 
-Last updated: <time datetime="2025-11-18T12:02:02.101Z">Tue Nov 18 2025 14:02:02 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T04:26:15.191Z">Fri Dec 05 2025 06:26:15 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -101,7 +101,7 @@ Last updated: <time datetime="2025-11-18T12:02:02.101Z">Tue Nov 18 2025 14:02:02
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 47</li>
+            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -146,6 +146,7 @@ Last updated: <time datetime="2025-11-18T12:02:02.101Z">Tue Nov 18 2025 14:02:02
     <tr>
       <td>100</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b8b3ad201b3778c9a03b42a8aa60d5b.png" alt="Cover for Friday on My Mind" style="max-width:120px; height:auto;" />
       </td>
       <td>1967-05</td>
       <td>The Easybeats</td>
@@ -159,8 +160,8 @@ Last updated: <time datetime="2025-11-18T12:02:02.101Z">Tue Nov 18 2025 14:02:02
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 53</li>
-            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 71</li>
+            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 26</li>
+            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -181,7 +182,7 @@ Last updated: <time datetime="2025-11-18T12:02:02.101Z">Tue Nov 18 2025 14:02:02
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hungarian" | relative_url }}">hungarian</a> # 55</li>
+            <li> <a href="{{ "/tags/hungarian" | relative_url }}">hungarian</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -202,8 +203,8 @@ Last updated: <time datetime="2025-11-18T12:02:02.101Z">Tue Nov 18 2025 14:02:02
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a> # 65</li>
-            <li> <a href="{{ "/tags/hungarian" | relative_url }}">hungarian</a> # 87</li>
+            <li> <a href="{{ "/tags/hungarian" | relative_url }}">hungarian</a> # 13</li>
+            <li> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -234,7 +235,6 @@ Last updated: <time datetime="2025-11-18T12:02:02.101Z">Tue Nov 18 2025 14:02:02
     <tr>
       <td>65</td>
       <td>
-          <img src="https://i.discogs.com/L9Fw39C80is8JpZt_O2PLdX5Wy6iRLYRQS3GM6DQyxo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzA1/MjY5LTE2MzkxODg2/MTAtODA5My5qcGVn.jpeg" alt="Cover for Live At The BBC - CD 1" style="max-width:120px; height:auto;" />
       </td>
       <td>1973</td>
       <td>The Beatles</td>
@@ -253,7 +253,6 @@ Last updated: <time datetime="2025-11-18T12:02:02.101Z">Tue Nov 18 2025 14:02:02
     <tr>
       <td>66</td>
       <td>
-          <img src="https://i.discogs.com/Kq42A6FoZb_6xq81-AHmGpjv9CFJnwt9AkJ23HU2zfo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTI4/NjE4LTE1OTMwNzIx/MzktODM3Ny5qcGVn.jpeg" alt="Cover for Live At The BBC - CD 2" style="max-width:120px; height:auto;" />
       </td>
       <td>1973</td>
       <td>The Beatles</td>
@@ -303,7 +302,7 @@ Last updated: <time datetime="2025-11-18T12:02:02.101Z">Tue Nov 18 2025 14:02:02
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 51</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -322,7 +321,7 @@ Last updated: <time datetime="2025-11-18T12:02:02.101Z">Tue Nov 18 2025 14:02:02
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 3</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -407,7 +406,7 @@ Last updated: <time datetime="2025-11-18T12:02:02.101Z">Tue Nov 18 2025 14:02:02
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 60</li>
+            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -444,7 +443,6 @@ Last updated: <time datetime="2025-11-18T12:02:02.101Z">Tue Nov 18 2025 14:02:02
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -463,7 +461,7 @@ Last updated: <time datetime="2025-11-18T12:02:02.101Z">Tue Nov 18 2025 14:02:02
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 84</li>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -652,9 +650,9 @@ Last updated: <time datetime="2025-11-18T12:02:02.101Z">Tue Nov 18 2025 14:02:02
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 10</li>
-            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 65</li>
-            <li> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a> # 86</li>
+            <li> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a> # 15</li>
+            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 36</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -879,7 +877,7 @@ Last updated: <time datetime="2025-11-18T12:02:02.101Z">Tue Nov 18 2025 14:02:02
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 63</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -916,9 +914,9 @@ Last updated: <time datetime="2025-11-18T12:02:02.101Z">Tue Nov 18 2025 14:02:02
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 8</li>
-            <li> <a href="{{ "/tags/calypso" | relative_url }}">calypso</a> # 26</li>
-            <li> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a> # 86</li>
+            <li> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a> # 15</li>
+            <li> <a href="{{ "/tags/calypso" | relative_url }}">calypso</a> # 75</li>
+            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -940,9 +938,9 @@ Last updated: <time datetime="2025-11-18T12:02:02.101Z">Tue Nov 18 2025 14:02:02
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/broken-beat" | relative_url }}">broken beat</a> # 47</li>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 75</li>
-            <li> <a href="{{ "/tags/protest" | relative_url }}">protest</a> # 86</li>
+            <li> <a href="{{ "/tags/protest" | relative_url }}">protest</a> # 13</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 26</li>
+            <li> <a href="{{ "/tags/broken-beat" | relative_url }}">broken beat</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -985,7 +983,7 @@ Last updated: <time datetime="2025-11-18T12:02:02.101Z">Tue Nov 18 2025 14:02:02
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 5</li>
+            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1048,7 +1046,7 @@ Last updated: <time datetime="2025-11-18T12:02:02.101Z">Tue Nov 18 2025 14:02:02
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 62</li>
+            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1111,7 +1109,7 @@ Last updated: <time datetime="2025-11-18T12:02:02.101Z">Tue Nov 18 2025 14:02:02
     <tr>
       <td>48</td>
       <td>
-          <img src="https://i.discogs.com/dp-f5UM4D_rDc80s3grrys8_qgdPqIXG78NqNWz10ew/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTkw/NTI5LTE2MzEzNTYw/NTgtOTkyNC5qcGVn.jpeg" alt="Cover for The Cutting Edge 1965-1966: The Bootleg Series, Vol.12 (Deluxe Edition)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a6a8c284eb1b39f9689e3bda2f85a6b4.png" alt="Cover for The Cutting Edge 1965-1966: The Bootleg Series, Vol.12 (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Bob Dylan</td>
@@ -1173,7 +1171,7 @@ Last updated: <time datetime="2025-11-18T12:02:02.101Z">Tue Nov 18 2025 14:02:02
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a> # 21</li>
+            <li> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1233,10 +1231,10 @@ Last updated: <time datetime="2025-11-18T12:02:02.101Z">Tue Nov 18 2025 14:02:02
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 20</li>
-            <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 28</li>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 56</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 45</li>
+            <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 73</li>
             <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 80</li>
+            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1356,9 +1354,9 @@ Last updated: <time datetime="2025-11-18T12:02:02.101Z">Tue Nov 18 2025 14:02:02
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 21</li>
-            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 78</li>
-            <li> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a> # 89</li>
+            <li> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a> # 12</li>
+            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 22</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1403,13 +1401,14 @@ Last updated: <time datetime="2025-11-18T12:02:02.101Z">Tue Nov 18 2025 14:02:02
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a> # 64</li>
+            <li> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a> # 37</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>40</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf253e135ed44e03b45158b8aabcaacd.png" alt="Cover for 1966-1968" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-05-25</td>
       <td>Dara Puspita</td>
@@ -1550,7 +1549,7 @@ Last updated: <time datetime="2025-11-18T12:02:02.101Z">Tue Nov 18 2025 14:02:02
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 4</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1621,7 +1620,7 @@ Last updated: <time datetime="2025-11-18T12:02:02.101Z">Tue Nov 18 2025 14:02:02
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/austin" | relative_url }}">austin</a> # 82</li>
+            <li> <a href="{{ "/tags/austin" | relative_url }}">austin</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1646,9 +1645,9 @@ Last updated: <time datetime="2025-11-18T12:02:02.101Z">Tue Nov 18 2025 14:02:02
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 80</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 6</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 19</li>
             <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 92</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1669,7 +1668,7 @@ Last updated: <time datetime="2025-11-18T12:02:02.101Z">Tue Nov 18 2025 14:02:02
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drag" | relative_url }}">drag</a> # 95</li>
+            <li> <a href="{{ "/tags/drag" | relative_url }}">drag</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -1748,7 +1747,7 @@ Last updated: <time datetime="2025-11-18T12:02:02.101Z">Tue Nov 18 2025 14:02:02
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 85</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1770,8 +1769,8 @@ Last updated: <time datetime="2025-11-18T12:02:02.101Z">Tue Nov 18 2025 14:02:02
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/portuguese" | relative_url }}">portuguese</a> # 11</li>
-            <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 57</li>
+            <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 44</li>
+            <li> <a href="{{ "/tags/portuguese" | relative_url }}">portuguese</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1823,8 +1822,8 @@ Last updated: <time datetime="2025-11-18T12:02:02.101Z">Tue Nov 18 2025 14:02:02
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 15</li>
-            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 19</li>
+            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 82</li>
+            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1873,8 +1872,8 @@ Last updated: <time datetime="2025-11-18T12:02:02.101Z">Tue Nov 18 2025 14:02:02
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 16</li>
-            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 20</li>
+            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 81</li>
+            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1903,9 +1902,9 @@ Last updated: <time datetime="2025-11-18T12:02:02.101Z">Tue Nov 18 2025 14:02:02
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/trip" | relative_url }}">trip</a> # 17</li>
             <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 28</li>
-            <li> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a> # 37</li>
-            <li> <a href="{{ "/tags/trip" | relative_url }}">trip</a> # 84</li>
+            <li> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1947,12 +1946,12 @@ Last updated: <time datetime="2025-11-18T12:02:02.101Z">Tue Nov 18 2025 14:02:02
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 21</li>
-            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 26</li>
-            <li> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a> # 40</li>
-            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 48</li>
-            <li> <a href="{{ "/tags/ibiza" | relative_url }}">ibiza</a> # 68</li>
-            <li> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a> # 69</li>
+            <li> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a> # 32</li>
+            <li> <a href="{{ "/tags/ibiza" | relative_url }}">ibiza</a> # 33</li>
+            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 53</li>
+            <li> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a> # 61</li>
+            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 75</li>
+            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1990,10 +1989,10 @@ Last updated: <time datetime="2025-11-18T12:02:02.101Z">Tue Nov 18 2025 14:02:02
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 19</li>
-            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 66</li>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 74</li>
-            <li> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a> # 81</li>
+            <li> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a> # 20</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 27</li>
+            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 31</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -2051,8 +2050,8 @@ Last updated: <time datetime="2025-11-18T12:02:02.101Z">Tue Nov 18 2025 14:02:02
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/seattle" | relative_url }}">seattle</a> # 37</li>
-            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 76</li>
+            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 25</li>
+            <li> <a href="{{ "/tags/seattle" | relative_url }}">seattle</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -2075,11 +2074,11 @@ Last updated: <time datetime="2025-11-18T12:02:02.101Z">Tue Nov 18 2025 14:02:02
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 9</li>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 94</li>
-            <li> <a href="{{ "/tags/tunisia" | relative_url }}">tunisia</a> # 96</li>
-            <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 96</li>
-            <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 97</li>
+            <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 4</li>
+            <li> <a href="{{ "/tags/tunisia" | relative_url }}">tunisia</a> # 5</li>
+            <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 5</li>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 7</li>
+            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -2098,7 +2097,7 @@ Last updated: <time datetime="2025-11-18T12:02:02.101Z">Tue Nov 18 2025 14:02:02
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 41</li>
+            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 59</li>
         </ul>
       </td>
     </tr>

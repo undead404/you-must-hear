@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-25T20:31:35.498Z
+date: 2025-12-05T04:21:57.532Z
 permalink: tags/album-rock
 title: album rock
 ---
 
 ## album rock
 
-Last updated: <time datetime="2025-11-25T20:31:35.498Z">Tue Nov 25 2025 22:31:35 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T04:21:57.532Z">Fri Dec 05 2025 06:21:57 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -50,7 +50,7 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 56</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -81,12 +81,12 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 28</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 22</li>
             <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 53</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 56</li>
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 56</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 56</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 57</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 79</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 72</li>
             <li> <a href="{{ "/tags/british-invasion" | relative_url }}">british invasion</a> # 89</li>
         </ul>
       </td>
@@ -108,7 +108,7 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electric-guitar" | relative_url }}">electric guitar</a> # 94</li>
+            <li> <a href="{{ "/tags/electric-guitar" | relative_url }}">electric guitar</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -138,13 +138,13 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 11</li>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 76</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 5</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 24</li>
             <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 89</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 90</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 90</li>
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 90</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 90</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 90</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -166,7 +166,7 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 86</li>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -187,7 +187,7 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/proto-punk" | relative_url }}">proto-punk</a> # 16</li>
+            <li> <a href="{{ "/tags/proto-punk" | relative_url }}">proto-punk</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -246,7 +246,7 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/roots-rock" | relative_url }}">roots rock</a> # 55</li>
+            <li> <a href="{{ "/tags/roots-rock" | relative_url }}">roots rock</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -273,12 +273,12 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 17</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 27</li>
             <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 43</li>
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 46</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 46</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 47</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 74</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -297,7 +297,7 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 35</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -316,7 +316,7 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 19</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 73</li>
             <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 84</li>
         </ul>
       </td>
@@ -345,12 +345,12 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 34</li>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 96</li>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 98</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 100</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 1</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 3</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 4</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 67</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 100</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 100</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 100</li>
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 100</li>
             <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 100</li>
         </ul>
@@ -391,7 +391,7 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a> # 72</li>
+            <li> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -412,9 +412,9 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 28</li>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 47</li>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 58</li>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 42</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 54</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -491,8 +491,8 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 37</li>
-            <li> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a> # 45</li>
+            <li> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a> # 56</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -515,7 +515,7 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/proto-punk" | relative_url }}">proto-punk</a> # 9</li>
+            <li> <a href="{{ "/tags/proto-punk" | relative_url }}">proto-punk</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -533,8 +533,8 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 15</li>
             <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 69</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -582,7 +582,7 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pub-rock" | relative_url }}">pub rock</a> # 91</li>
+            <li> <a href="{{ "/tags/pub-rock" | relative_url }}">pub rock</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -609,12 +609,12 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 67</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 8</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 33</li>
             <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 84</li>
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 85</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 85</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 85</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -660,7 +660,7 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 34</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -687,7 +687,7 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 46</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -711,8 +711,8 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 6</li>
             <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 72</li>
-            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -760,8 +760,8 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
             <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 29</li>
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 32</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 32</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 32</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 33</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -805,12 +805,12 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 19</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 25</li>
             <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 45</li>
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 48</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 48</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 49</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 76</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -837,7 +837,7 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 33</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -874,8 +874,8 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 4</li>
-            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 90</li>
+            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 10</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -925,7 +925,7 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 28</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 28</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 29</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 68</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -943,7 +943,7 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 47</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -974,7 +974,7 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 12</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 13</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 13</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 64</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1033,8 +1033,8 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 31</li>
-            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 76</li>
+            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 25</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1054,10 +1054,10 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 37</li>
-            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 45</li>
-            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 49</li>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 73</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 27</li>
+            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 52</li>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 55</li>
+            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1088,7 +1088,7 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 8</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 9</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 9</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 62</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1116,13 +1116,13 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 49</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 16</li>
+            <li> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a> # 19</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 51</li>
             <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 68</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 71</li>
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 71</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 71</li>
-            <li> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a> # 82</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 85</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1160,9 +1160,9 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 2</li>
+            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 9</li>
             <li> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a> # 18</li>
-            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 92</li>
-            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1185,7 +1185,7 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 92</li>
+            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1232,12 +1232,12 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 22</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 23</li>
             <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 48</li>
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 51</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 51</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 52</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 78</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1264,7 +1264,7 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 45</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1293,7 +1293,7 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 51</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1321,8 +1321,8 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a> # 40</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 53</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 48</li>
+            <li> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1359,7 +1359,7 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 62</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1389,7 +1389,7 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 5</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 6</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 6</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 61</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1448,7 +1448,7 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 81</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1478,13 +1478,13 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 46</li>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 85</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 3</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 15</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 55</li>
             <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 92</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 93</li>
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 93</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 93</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 98</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1534,7 +1534,7 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 58</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1594,7 +1594,7 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 28</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1616,7 +1616,7 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 100</li>
+            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -1643,12 +1643,12 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 18</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 26</li>
             <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 44</li>
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 47</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 47</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 48</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 75</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1699,7 +1699,7 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 1</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 2</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 2</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 59</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1721,7 +1721,7 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 13</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 14</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 14</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 65</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1749,13 +1749,13 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 1</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 30</li>
             <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 31</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 34</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 34</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 34</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 35</li>
             <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 61</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 71</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1805,7 +1805,7 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 55</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1827,8 +1827,8 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 2</li>
             <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 89</li>
-            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1856,7 +1856,7 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 57</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1926,7 +1926,7 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 38</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1953,7 +1953,7 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 49</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -2008,7 +2008,7 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 42</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -2035,7 +2035,7 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 52</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -2062,13 +2062,13 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 36</li>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 82</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 4</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 18</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 65</li>
             <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 91</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 92</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 92</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 92</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 97</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 92</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -2096,7 +2096,7 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 43</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -2170,12 +2170,12 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 48</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 17</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 52</li>
             <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 67</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 70</li>
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 70</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 70</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -2240,12 +2240,12 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 21</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 24</li>
             <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 47</li>
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 50</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 50</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 51</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 77</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -2290,7 +2290,7 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 39</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -2328,7 +2328,7 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 64</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -2376,7 +2376,7 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 44</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -2407,7 +2407,7 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 16</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 17</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 17</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 66</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -2428,7 +2428,7 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a> # 9</li>
+            <li> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -2448,7 +2448,7 @@ Album rock emerged in the 1970s as FM radio stations began playing deeper album 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 42</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 59</li>
             <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 96</li>
         </ul>
       </td>

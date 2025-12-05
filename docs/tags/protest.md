@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-18T11:55:52.619Z
+date: 2025-12-05T03:43:16.093Z
 permalink: tags/protest
 title: protest
 ---
 
 ## protest
 
-Last updated: <time datetime="2025-11-18T11:55:52.619Z">Tue Nov 18 2025 13:55:52 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T03:43:16.093Z">Fri Dec 05 2025 05:43:16 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -71,7 +71,7 @@ Protest music uses song as a vehicle for social and political commentary, challe
     <tr>
       <td>44</td>
       <td>
-          <img src="https://i.discogs.com/7r-PC6k-1ZHCu_l3MmrZPq6kYiKWOX5k2VUAr0nJP2E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Njk2/NzEtMTUwNTA2ODQ4/NC0xMTk5LmpwZWc.jpeg" alt="Cover for War War War Live" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/67c8fcc95a0241f8b00dc4d43b744c4e.png" alt="Cover for War War War Live" style="max-width:120px; height:auto;" />
       </td>
       <td>1971</td>
       <td>Country Joe McDonald</td>
@@ -167,8 +167,8 @@ Protest music uses song as a vehicle for social and political commentary, challe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 19</li>
-            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 20</li>
+            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 82</li>
+            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -198,8 +198,8 @@ Protest music uses song as a vehicle for social and political commentary, challe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 19</li>
-            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 26</li>
+            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 75</li>
+            <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -239,9 +239,9 @@ Protest music uses song as a vehicle for social and political commentary, challe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 6</li>
-            <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 23</li>
-            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 30</li>
+            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 71</li>
+            <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 78</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -280,8 +280,8 @@ Protest music uses song as a vehicle for social and political commentary, challe
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 17</li>
             <li> <a href="{{ "/tags/roots-reggae" | relative_url }}">roots reggae</a> # 37</li>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -321,7 +321,7 @@ Protest music uses song as a vehicle for social and political commentary, challe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 47</li>
+            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -475,8 +475,8 @@ Protest music uses song as a vehicle for social and political commentary, challe
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/kurdish" | relative_url }}">kurdish</a> # 17</li>
             <li> <a href="{{ "/tags/kurdistan" | relative_url }}">kurdistan</a> # 63</li>
-            <li> <a href="{{ "/tags/kurdish" | relative_url }}">kurdish</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -558,7 +558,7 @@ Protest music uses song as a vehicle for social and political commentary, challe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 34</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -623,7 +623,7 @@ Protest music uses song as a vehicle for social and political commentary, challe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a> # 40</li>
+            <li> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -757,21 +757,15 @@ Protest music uses song as a vehicle for social and political commentary, challe
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/protest" | relative_url }}">protest</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 6</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 14</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 25</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 28</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 55</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -855,15 +849,14 @@ Protest music uses song as a vehicle for social and political commentary, challe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a> # 55</li>
-            <li> <a href="{{ "/tags/electric-guitar" | relative_url }}">electric guitar</a> # 78</li>
+            <li> <a href="{{ "/tags/electric-guitar" | relative_url }}">electric guitar</a> # 22</li>
+            <li> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>75</td>
       <td>
-          <img src="https://i.discogs.com/39Ya922RLQWft2Wpg7DDQmm7x03k8vcZP--vdA7DhZI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjc4/Mjk2LTE1OTI0MjEx/MTctOTUyMy5qcGVn.jpeg" alt="Cover for Ride the Wind" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Vic Sadot</td>
@@ -917,9 +910,9 @@ Protest music uses song as a vehicle for social and political commentary, challe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/broken-beat" | relative_url }}">broken beat</a> # 47</li>
-            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 66</li>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 75</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 26</li>
+            <li> <a href="{{ "/tags/broken-beat" | relative_url }}">broken beat</a> # 54</li>
+            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1001,8 +994,8 @@ Protest music uses song as a vehicle for social and political commentary, challe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a> # 5</li>
-            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 41</li>
+            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 60</li>
+            <li> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1045,7 +1038,7 @@ Protest music uses song as a vehicle for social and political commentary, challe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 24</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1184,7 +1177,7 @@ Protest music uses song as a vehicle for social and political commentary, challe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a> # 1</li>
+            <li> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1292,7 +1285,7 @@ Protest music uses song as a vehicle for social and political commentary, challe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hamburg" | relative_url }}">hamburg</a> # 56</li>
+            <li> <a href="{{ "/tags/hamburg" | relative_url }}">hamburg</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1317,9 +1310,9 @@ Protest music uses song as a vehicle for social and political commentary, challe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 53</li>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 63</li>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 93</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 36</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 44</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1404,7 +1397,7 @@ Protest music uses song as a vehicle for social and political commentary, challe
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/s1iWd1tkeefQgeDGiU0JzpU6CqxV3NC5Pe-abEdmx-E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzgx/NTAyLTE1MTczMzQ1/NTgtOTI5Mi5qcGVn.jpeg" alt="Cover for Witness" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dea45ba6a0dc96f3b74f976cf1f78fe0.png" alt="Cover for Witness" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-06-02</td>
       <td>Benjamin Booker</td>
@@ -1456,34 +1449,28 @@ Protest music uses song as a vehicle for social and political commentary, challe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 56</li>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 63</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 65</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 69</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 95</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 30</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 32</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 33</li>
+            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 44</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>89</td>
       <td>
-          <img src="https://i.discogs.com/iSc2aNnUz5FVBHpMosyFludOO20Q5BjVqTOQFr4jemE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDYy/MzA4LTE2MjM0MTIy/NzAtNDk2OC5qcGVn.jpeg" alt="Cover for Çığlık" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c27164c4ae700aba3eb44ec34f14b84.png" alt="Cover for Çığlık" style="max-width:120px; height:auto;" />
       </td>
       <td>2019</td>
       <td>Çağrı Sinci</td>
       <td>Çığlık</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/protest" | relative_url }}">protest</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1506,7 +1493,7 @@ Protest music uses song as a vehicle for social and political commentary, challe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a> # 60</li>
+            <li> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1549,7 +1536,7 @@ Protest music uses song as a vehicle for social and political commentary, challe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oregon" | relative_url }}">oregon</a> # 22</li>
+            <li> <a href="{{ "/tags/oregon" | relative_url }}">oregon</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1569,7 +1556,7 @@ Protest music uses song as a vehicle for social and political commentary, challe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 21</li>
+            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 80</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-25T18:53:55.128Z
+date: 2025-12-05T03:44:05.428Z
 permalink: tags/surf
 title: surf
 ---
 
 ## surf
 
-Last updated: <time datetime="2025-11-25T18:53:55.128Z">Tue Nov 25 2025 20:53:55 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T03:44:05.428Z">Fri Dec 05 2025 05:44:05 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -45,7 +45,7 @@ Surf music is an energetic instrumental rock genre that emerged in early 1960s S
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 32</li>
+            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -65,7 +65,7 @@ Surf music is an energetic instrumental rock genre that emerged in early 1960s S
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 78</li>
+            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -140,7 +140,7 @@ Surf music is an energetic instrumental rock genre that emerged in early 1960s S
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 25</li>
+            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -216,9 +216,9 @@ Surf music is an energetic instrumental rock genre that emerged in early 1960s S
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 12</li>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 34</li>
-            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 42</li>
+            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 59</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 66</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -258,7 +258,7 @@ Surf music is an energetic instrumental rock genre that emerged in early 1960s S
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 12</li>
+            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -313,7 +313,7 @@ Surf music is an energetic instrumental rock genre that emerged in early 1960s S
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 97</li>
+            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -476,7 +476,7 @@ Surf music is an energetic instrumental rock genre that emerged in early 1960s S
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 82</li>
+            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -550,7 +550,7 @@ Surf music is an energetic instrumental rock genre that emerged in early 1960s S
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 40</li>
+            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -587,7 +587,7 @@ Surf music is an energetic instrumental rock genre that emerged in early 1960s S
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 33</li>
+            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -641,7 +641,7 @@ Surf music is an energetic instrumental rock genre that emerged in early 1960s S
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a> # 88</li>
+            <li> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -698,7 +698,7 @@ Surf music is an energetic instrumental rock genre that emerged in early 1960s S
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 56</li>
+            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -811,7 +811,7 @@ Surf music is an energetic instrumental rock genre that emerged in early 1960s S
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 67</li>
+            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -832,7 +832,7 @@ Surf music is an energetic instrumental rock genre that emerged in early 1960s S
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 49</li>
+            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -907,7 +907,7 @@ Surf music is an energetic instrumental rock genre that emerged in early 1960s S
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 17</li>
+            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -927,7 +927,7 @@ Surf music is an energetic instrumental rock genre that emerged in early 1960s S
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 25</li>
+            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -946,7 +946,7 @@ Surf music is an energetic instrumental rock genre that emerged in early 1960s S
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 47</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -966,10 +966,10 @@ Surf music is an energetic instrumental rock genre that emerged in early 1960s S
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 33</li>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 56</li>
-            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 70</li>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 71</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 29</li>
+            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 32</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 45</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -988,7 +988,7 @@ Surf music is an energetic instrumental rock genre that emerged in early 1960s S
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 52</li>
+            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1044,7 +1044,7 @@ Surf music is an energetic instrumental rock genre that emerged in early 1960s S
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 84</li>
+            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1086,7 +1086,7 @@ Surf music is an energetic instrumental rock genre that emerged in early 1960s S
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 14</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1115,9 +1115,9 @@ Surf music is an energetic instrumental rock genre that emerged in early 1960s S
       <td>
         <ul>
             <li> <a href="{{ "/tags/psychobilly" | relative_url }}">psychobilly</a> # 1</li>
-            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 29</li>
-            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 58</li>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 85</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 16</li>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 43</li>
+            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1139,9 +1139,9 @@ Surf music is an energetic instrumental rock genre that emerged in early 1960s S
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 30</li>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 70</li>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 83</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 17</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 31</li>
+            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1161,7 +1161,7 @@ Surf music is an energetic instrumental rock genre that emerged in early 1960s S
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 78</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1292,7 +1292,7 @@ Surf music is an energetic instrumental rock genre that emerged in early 1960s S
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 14</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1331,9 +1331,9 @@ Surf music is an energetic instrumental rock genre that emerged in early 1960s S
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 77</li>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 79</li>
-            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 94</li>
+            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 7</li>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 21</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1373,13 +1373,14 @@ Surf music is an energetic instrumental rock genre that emerged in early 1960s S
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 89</li>
+            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 12</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>59</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5d40ef05e0604f759b73a3567268ae63.png" alt="Cover for Phase 2" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-09-21</td>
       <td>Daikaiju</td>
@@ -1394,8 +1395,8 @@ Surf music is an energetic instrumental rock genre that emerged in early 1960s S
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 6</li>
-            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 51</li>
+            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 50</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1452,7 +1453,7 @@ Surf music is an energetic instrumental rock genre that emerged in early 1960s S
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 11</li>
+            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1475,7 +1476,7 @@ Surf music is an energetic instrumental rock genre that emerged in early 1960s S
       <td>
         <ul>
             <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 17</li>
-            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 42</li>
+            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1496,7 +1497,7 @@ Surf music is an energetic instrumental rock genre that emerged in early 1960s S
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 71</li>
+            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1516,7 +1517,7 @@ Surf music is an energetic instrumental rock genre that emerged in early 1960s S
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 9</li>
+            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1577,8 +1578,8 @@ Surf music is an energetic instrumental rock genre that emerged in early 1960s S
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 69</li>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 96</li>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 5</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1769,7 +1770,7 @@ Surf music is an energetic instrumental rock genre that emerged in early 1960s S
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 69</li>
+            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1809,7 +1810,7 @@ Surf music is an energetic instrumental rock genre that emerged in early 1960s S
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 78</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 23</li>
         </ul>
       </td>
     </tr>

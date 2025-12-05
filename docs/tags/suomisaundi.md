@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T22:35:21.112Z
+date: 2025-12-05T04:23:44.764Z
 permalink: tags/suomisaundi
 title: suomisaundi
 ---
 
 ## suomisaundi
 
-Last updated: <time datetime="2025-10-28T22:35:21.112Z">Wed Oct 29 2025 00:35:21 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T04:23:44.764Z">Fri Dec 05 2025 06:23:44 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -15,108 +15,1859 @@ Suomisaundi is a genre of electronic dance music that originated in Finland in t
 
 ### 100 chronological releases
 
-| Place | Cover | Date | Artist | Album |
-|---|---|---|---|---|
-| 2 |  |  | Diippilaavu | Diippilaavu - Diipeistä Diipein EP |
-| 3 |  |  | Lemon Slide vs D.D.A | Spoken Weird |
-| 4 |  |  | Diippilaavu | Diippilaavu - Matka EP |
-| 5 |  |  | Antiscarp Warriorz | Nightz of Knightz |
-| 10 |  |  | Lava Lords | Garlic Shake |
-| 12 |  |  | Pavel Svimba &amp; Calamar Audio | Garlic Shake |
-| 33 |  |  | Nano Buds | No Possible Soundz Vol 3 |
-| 1 | ![Cover](https://i.discogs.com/-DM8u4ZgktagfB-f4gsxrL7kBdMJC6olzC14nHn8OBs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODcx/NjM5LTE2MjE5MTA5/MzctMzQ3Mi5qcGVn.jpeg) | 1974 | Various Artists | Elixiria.com :: Private Message |
-| 37 | ![Cover](https://i.discogs.com/1LxUEZ7qSG73T6h2RXl20iw3cz8IfvyoSWzCkdzBTSg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDU5/NjYtMTM1MjA2MjA2/Ni00MDIyLmpwZWc.jpeg) | 1977 | Various Artists | Open |
-| 54 | ![Cover](https://i.discogs.com/1LxUEZ7qSG73T6h2RXl20iw3cz8IfvyoSWzCkdzBTSg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDU5/NjYtMTM1MjA2MjA2/Ni00MDIyLmpwZWc.jpeg) | 1977 | Various Artists | Schizm |
-| 64 | ![Cover](https://i.discogs.com/1LxUEZ7qSG73T6h2RXl20iw3cz8IfvyoSWzCkdzBTSg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDU5/NjYtMTM1MjA2MjA2/Ni00MDIyLmpwZWc.jpeg) | 1977 | Various Artists | Ultrapop |
-| 74 | ![Cover](https://i.discogs.com/pVjf6F2mELuLRJpR1g3AK3mcjvziMUJ3gHhzoDEFKe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE3/LTE2NDc5NjEwMDgt/NjcwMS5qcGVn.jpeg) | 1977 | Various Artists | Custom File |
-| 82 | ![Cover](https://i.discogs.com/1LxUEZ7qSG73T6h2RXl20iw3cz8IfvyoSWzCkdzBTSg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDU5/NjYtMTM1MjA2MjA2/Ni00MDIyLmpwZWc.jpeg) | 1977 | Various Artists | FDCD03 |
-| 60 |  | 1996-12-12 | GAD | Apollo 3D |
-| 46 | ![Cover](https://i.discogs.com/LDeZS0fBeZWYZMm2I8QgstvM1H1-89Zr2mhaZTsK91Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NzA0/LTExODM0NTgyMDgu/anBlZw.jpeg) | 1998 | Squaremeat | Squarebeat |
-| 94 |  | 1999 | Texas Faggott | Texas Faggott |
-| 16 | ![Cover](https://i.discogs.com/yMFU4okGFMGaspDsk0sforqdeEI8PCQJl65qjtgisko/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NDA5/LTExMjcyMDQ0MjAu/anBlZw.jpeg) | 2000 | Squaremeat | No Possible Soundz |
-| 45 | ![Cover](https://i.discogs.com/kmlIDBwdBZCtYFEGtR_i9uhuULQVop72JfBOvsVGU7A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNjc2/LTAwMS5qcGc.jpeg) | 2000 | SHIWA 2000 | Final Truth 2020 |
-| 65 | ![Cover](https://i.discogs.com/nUa-8RAQyY5XxvdT8_cWzX8fdirkAQ5zx9Ozt3ar2zU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjE2/Mi0xMjA3MjMyODcw/LmpwZWc.jpeg) | 2000 | PeLinPala | My CD Has Landed on the Next Door Neighbours Dog |
-| 70 | ![Cover](https://i.discogs.com/yMFU4okGFMGaspDsk0sforqdeEI8PCQJl65qjtgisko/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NDA5/LTExMjcyMDQ0MjAu/anBlZw.jpeg) | 2000 | Squaremeat | Wave Soup |
-| 95 |  | 2000 | Texas Faggott | Petoman&#39;s Peflett |
-| 21 | ![Cover](https://i.discogs.com/H3pvZ-bsFxJKyMJyC4Nj0t-VvddatsUwkrOKAO3SZHw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTU3/NS0xMzk1MTM5MDg3/LTU2NDguanBlZw.jpeg) | 2001 | Huopatossu Mononen | DO NOT DISTRIBUTE |
-| 79 | ![Cover](https://i.discogs.com/uGbZwnVK9NqVXt5B3_bsCZ-fXnB_qYpvzPFmYNU74Zk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NzMt/MTY0OTM0NDMxNy03/NDI5LmpwZWc.jpeg) | 2001-02 | Haltya | Forest Flavour |
-| 26 | ![Cover](https://i.discogs.com/y_qWpjlhlLLxRCORk0GnFHEioDBiQG0l5VZ-w7kQMvQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDU2/MzctMTMwODUyMzc0/OS5qcGVn.jpeg) | 2002 | Salakavala | Mockba Bolenath |
-| 50 | ![Cover](https://i.discogs.com/proNRpbwL4jrZBrjU5miJYrVAvnCiHJLCJTLqDnlHfU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTk5/Ni0xMTA0NzM4NTAz/LmpwZw.jpeg) | 2002 | Loopus in fabula | Loopus in Fabula |
-| 89 |  | 2002 | Mandalavandalz | Hong Kong Knightlife |
-| 15 | ![Cover](https://i.discogs.com/e8PNdfQ82D4SSN-Wl9MpJ6L8PnRuo1tohPlG-dFK_Zk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODY1/Ni0xMTI3MDI3NzAz/LmpwZWc.jpeg) | 2002-03-13 | Weird Alchemy | Wired alchemy |
-| 53 | ![Cover](https://i.discogs.com/rAsIavMvXHfW4rGlQIQRE7gC_L4puT0C_n_PQ7GBWFo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NDg5/My0xMjEzOTc2NjAx/LmpwZWc.jpeg) | 2003 | Loopus in fabula | Astrofunk |
-| 55 |  | 2003 | Texas Faggott | From Israel With love |
-| 62 | ![Cover](https://i.discogs.com/WiK5Jtkr7xYm-lXb1OgyTiGYyEUgCcD2fBqrcL5Yo50/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNzA0/LTAwMS5qcGc.jpeg) | 2003 | Flying Scorpions | Lipoptena Cervi |
-| 69 | ![Cover](https://i.discogs.com/bA-7VwaHT94YpFiWx6JDiTx80pgcVxnbbBxCgLL5ytY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTA0/MC0xMTI3MjA1NTgw/LmpwZWc.jpeg) | 2003 | Squaremeat | Jungle Boogie Party Line |
-| 47 | ![Cover](https://i.discogs.com/uhpq1eKpK8V1swf3KvMm3w14Zeo8bP-VZjyLDD1ll10/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1OTY2/OC0xMTU1OTQ2MDgw/LmdpZg.jpeg) | 2003-10 | Lemon Slide | Indian Hairdryer |
-| 52 | ![Cover](https://i.discogs.com/fyT121XH4vktn2hkokS-mbIFmebqXQxTtmOoaOK5uJk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDQ1/My0xMDczODk3MTMw/LmpwZw.jpeg) | 2003-11-28 | Eraser vs Yöjalka | Tarinat |
-| 30 | ![Cover](https://i.discogs.com/cZIfqJuIP4jtQtLyhT0-tsRJoLevO0wLu6ehfrNNUHw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NzQw/OS0xMTU5MTg3NzQ4/LmdpZg.jpeg) | 2004-01 | Vihtahousu | Aika Antiscarppia |
-| 20 | ![Cover](https://i.discogs.com/RIl27H8XLi7UnBFGZtesOcb1BkkNyZNEwFaL0cxNME0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NzQx/Mi0xMTU5MTg3NzQz/LmdpZg.jpeg) | 2004-02 | TRES LOST AMIGOS | Be Antiscarped |
-| 29 | ![Cover](https://i.discogs.com/RIl27H8XLi7UnBFGZtesOcb1BkkNyZNEwFaL0cxNME0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NzQx/Mi0xMTU5MTg3NzQz/LmdpZg.jpeg) | 2004-02 | TRES LOST AMIGOS | Club Fader |
-| 73 | ![Cover](https://i.discogs.com/vYNmNzHrdOnoHXpsyobRB4ATrQFPNkfRDE63r5HRaw0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1OTY1/MS0xMTU1OTQ1NDY3/LmdpZg.jpeg) | 2004-04 | Mullet Mohawk | The Aiionwatha |
-| 84 |  | 2004-04 | Salakavala | Treacherous Tunes |
-| 99 |  | 2004-06-07 | Texas Faggott | Pilluminati Cunt Roll |
-| 28 | ![Cover](https://i.discogs.com/BSj1Txcb-_5TMgo0BTZk1455ALeRJX51cIebf38hASc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1OTYz/OC0xMTU1OTQ0MTYw/LmdpZg.jpeg) | 2004-07 | TRES LOST AMIGOS | Yks Kadoksissa |
-| 35 | ![Cover](https://i.discogs.com/1f8Fd3YYtMElli7v9DsNDjIdEsWAq8gkR3TXM4m-vog/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1Mzg4/MS0xMTU2MTM1NTY5/LmpwZWc.jpeg) | 2004-11 | Vihtahousu | Too Weird To Live |
-| 100 | ![Cover](https://i.discogs.com/tscE-P7awJwR7STt4O9fK0pjGm53bWL-nNWw5KYT_Tk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODU3/OS0xMzc1MzM5NzUw/LTQyODUuanBlZw.jpeg) | 2004-11-01 | Luomuhappo | Pog-o-matic Pogómen 3000000 |
-| 57 | ![Cover](https://i.discogs.com/9Kws8k-SOvWv2k7A8Aeki1Z8VbAcu8RcgXpeWRY0meo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0OTUw/Ny0xMTU2MTM1NTg2/LmpwZWc.jpeg) | 2004-12 | Puoskari | medicineman |
-| 71 |  | 2005-05-25 | Aavepyörä | Elektro Fluoro Punx |
-| 34 | ![Cover](https://i.discogs.com/V7BJVK_K0veuEDVHQ-_CvzgLnF_WYO9uhHim5eVY-Ao/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NTY0/MC0xMTU1NTcwMDE3/LmpwZWc.jpeg) | 2005-06-27 | lightaman jr | Warm Up |
-| 81 | ![Cover](https://i.discogs.com/oNj71PXTUsThKGeAAlDtsvpUyv364q-53idyIILY1B8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MTQ3/Ni0xMzIwNzczNDgw/LmpwZWc.jpeg) | 2005-07-18 | Squaremeat | Astronomical Coffee Break |
-| 23 | ![Cover](https://i.discogs.com/hrZA7ka152MktGPr6WhX-6guyvrcTDi75PjGshLgL1c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5Mjc0/OC0xMTI2OTY0Nzk0/LmpwZWc.jpeg) | 2005-09-01 | Mandalavandalz | Broadband pasuuna vol.2 |
-| 76 |  | 2005-09-01 | Mandalavandalz | Poisonmachine |
-| 44 | ![Cover](https://i.discogs.com/Hcdal3rAsbSo_WfEHPaY_LL8JsfSj-wm6RWaY5CE8RE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1OTYx/NC0xMTU1OTQyNTM3/LmpwZWc.jpeg) | 2005-10 | Okta | FOLDER EP |
-| 96 |  | 2005-12-16 | James Reipas | Uwaga |
-| 27 | ![Cover](https://i.discogs.com/DzXZtZFFHSPvoEu0-Ax_OrOUMzgrbYFpG1n4J_3YWDg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1ODY5/NzctMTQyNjU5NjI5/Mi04MzA5LmpwZWc.jpeg) | 2006 | LPC | No Tone Unstirred |
-| 83 | ![Cover](https://i.discogs.com/vQkUvMfVeZoG_k6UXYqrmKq-dnamW4cYw-uG5dSUoZc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MzI1/MS0xMzg0NDcwMzI2/LTU4MzkuanBlZw.jpeg) | 2006 | SHIWA 2000 | Runkmeditation &amp; Perstantra |
-| 87 | ![Cover](https://i.discogs.com/w55XLlHRWZy1o0XBBkinXbaarjsyIAqWO1u1gMPZZ3E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMzUz/NS0xMTYxNDQ0NDI4/LmpwZWc.jpeg) | 2006-09 | Sora | Suppea Alaista Lifestyle Musiikkia vol 1 |
-| 59 | ![Cover](https://i.discogs.com/4XP3KKmgx9iUEJcQBp80h-U9EH6ao8kRYvpXh4oamuE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0Mjc5/MS0xMTY4MzMxMTg0/LmpwZWc.jpeg) | 2006-11 | Puoskari | Mutkikas Umpikuja |
-| 72 |  | 2007-01-30 | Vishnudata | Dreamforce |
-| 51 | ![Cover](https://i.discogs.com/S-EmF6KSoFGA2viLbBUOnhXj1ClzZ-QB2O7gvfEBvEo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2ODYx/OS0xMTc4OTE2OTA3/LmpwZWc.jpeg) | 2007-03 | Tea Chairs | Tea Chairs CD 3 |
-| 86 | ![Cover](https://i.discogs.com/BX6xkXdMXY-a5vhunDzq5eYj5CCzGZzw4_88pvNSp4g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2ODY1/NS0xMTc4OTE5Nzg2/LmpwZWc.jpeg) | 2007-05 | PAVEL SVIMBA | Bathrobe EP |
-| 67 | ![Cover](https://i.discogs.com/txhYPt1HsEMASbHuF1oeQxbd6XK8-qfKTxAlX2-pUK8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjI3/NzYtMTE4OTIwOTM4/NC5qcGVn.jpeg) | 2007-09 | Okta | Gogo Catching |
-| 68 | ![Cover](https://i.discogs.com/txhYPt1HsEMASbHuF1oeQxbd6XK8-qfKTxAlX2-pUK8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjI3/NzYtMTE4OTIwOTM4/NC5qcGVn.jpeg) | 2007-09 | Okta | Gogo Catching ep |
-| 88 | ![Cover](https://i.discogs.com/dseoKVoyXZAfZ8We1TV44P5H4lQFdxVHuJDkgJTH6a0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODk1/MTktMTE5MTIzMTQx/OS5qcGVn.jpeg) | 2007-09-25 | Calamar Audio | Suction Cup mixes |
-| 58 | ![Cover](https://i.discogs.com/-Eoo7y07j4APNu3Km_BkCWGS-xCKOyaPB7IEyrFL9PE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTIz/NjMtMTE5MTQ0MTEx/My5qcGVn.jpeg) | 2007-10 | Calamar Audio | Tentacle Tubuc |
-| 91 | ![Cover](https://i.discogs.com/UbsfrcKRC6xRvbxWWFww0WZObcZKD2Q4x9bvnNuoKpM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDU5/MDUtMTE5MjQ0Mjgw/Mi5qcGVn.jpeg) | 2007-11-01 | Lemon Slide | True Nature |
-| 43 | ![Cover](https://i.discogs.com/cOif7nkxouW5b0g_D2FBR96NADi0NZzkjN7VVyUtsMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODA2/NDEtMTE5ODgyMjQ2/Mi5qcGVn.jpeg) | 2007-12 | Igor Swamp | Iced |
-| 97 | ![Cover](https://i.discogs.com/lZX353DdLGZWTbt_ChZ9UDI9lIX1lDrbqBibXTua3J0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODcx/OTItMTQ0MzI0OTMy/OC02MjM0LmpwZWc.jpeg) | 2007-12 | Troll Scientists | Useless Science |
-| 80 |  | 2008 | Mandalavandalz | King Of The Bad Trips |
-| 85 | ![Cover](https://i.discogs.com/cYDKg2-2j9vfb6aNlFBY15XD0umDT8XhhHDXKLbEmYI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjQ2/ODctMTIwOTczOTgz/Mi5qcGVn.jpeg) | 2008 | Club Kooma | Mortal Kooma |
-| 66 |  | 2008-04 | Puoskari | Open the Forest |
-| 75 | ![Cover](https://i.discogs.com/piRkU7BH5WFfznr3FAhQTSC4o1RMyajOc9JunWlZ2vg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjQ0/ODctMTIwOTcyNjc3/Mi5qcGVn.jpeg) | 2008-04 | Saiko Disco | Loud Linguistics |
-| 98 |  | 2008-05-07 | Texas Faggott | Kininigin |
-| 92 | ![Cover](https://i.discogs.com/R2KWaPAXInNkDfTsZSNT-bQN2e-uqMC-mYLnfS1WYmg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTkx/NjItMTIxNjM2NzEx/Mi5qcGVn.jpeg) | 2008-07 | Huopatossu Mononen | Pimper At The Gates Of Jorvi |
-| 56 | ![Cover](https://i.discogs.com/VWRqMBIiOEi2txxVy-5uFT6xeWiM9YFb5lR8GJBiaKQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTQz/NzQtMTIzNzQyNDEx/MC5qcGVn.jpeg) | 2009 | Scooter Baba | Off the Road ep |
-| 90 |  | 2009 | Various Artists | Broadband Pasuuna vol.4 |
-| 61 | ![Cover](https://i.discogs.com/2CeoNKNkFsm96UtF0akhPv9Fn4AT08Bm3hOCGLteo2I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MDY1/NC0xMTUwODAzOTYx/LmpwZWc.jpeg) | 2009-12-04 | Puoskari | No Tone Unstirred |
-| 63 | ![Cover](https://i.discogs.com/OZi-dHLW7gGji5G5LWDqHWTTa1cjK5c1KSJDzyt5buA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDk3/NjgtMTQwMzM1Mzcz/NS0yNjExLmpwZWc.jpeg) | 2009-12-04 | Puoskari | Different Path |
-| 19 | ![Cover](https://i.discogs.com/RQ3LVevTmKyYU1gqpyMWMx8PkGpkoqrSqxhDCEa3BdE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODI0/MzUtMTUxMDIyMjM1/Ni05NTQ1LmpwZWc.jpeg) | 2011 | PAVEL SVIMBA | Broadband Pasuuna vol.3 |
-| 78 | ![Cover](https://i.discogs.com/RQ3LVevTmKyYU1gqpyMWMx8PkGpkoqrSqxhDCEa3BdE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODI0/MzUtMTUxMDIyMjM1/Ni05NTQ1LmpwZWc.jpeg) | 2011 | PAVEL SVIMBA | Space Babuska |
-| 77 | ![Cover](https://i.discogs.com/kSOcMkFUtW7qnPgfUadNYPdTxFR8fnjyP-iepLMh93U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDMw/MzUtMTMwMzU3NDA1/Ni5qcGVn.jpeg) | 2011-02 | James Reipas | Super Life |
-| 93 |  | 2011-09-16 | Tekniset | Teknical Problems |
-| 6 | ![Cover](https://i.discogs.com/TqTvouD8LhrT5MFbsY26Src5W6zhghyskLA1FxmSaxI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Njkz/ODE4LTE2MTQ5MDE2/NTctOTc1NC5qcGVn.jpeg) | 2017-09-21 | Oraalidonitsi | too much es |
-| 7 |  |  | Lightman Jr | No Possible Soundz |
-| 8 |  |  | Calamar Audio feat. Francoise Faggott | Tentacle Tubuc |
-| 17 |  |  | Masatronics | Broadband Pasuuna vol.3 |
-| 22 |  |  | gruuvit muuvit | No Possible Soundz |
-| 32 |  |  | Dirty Dreds | No Possible Soundz Vol 3 |
-| 38 |  |  | Antiscarp Warriorz | Nightz of Knightz ep |
-| 11 | ![Cover](https://i.discogs.com/G8lcxIhbsGpfYrcU1eN00a1n48gg1SICgXOmhP6IsiU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzE2/NDU5LTE1MzI3OTQy/NzEtNjUzMi5qcGVn.jpeg) | 2001 | Weird Alchemy | Weird alchemy |
-| 14 | ![Cover](https://i.discogs.com/9XwHmc63-GxzqEPACbpaIOYbd2AT8AnzC4cm0pXUEq8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NTYy/My0xMTU1NTY4OTg5/LmdpZg.jpeg) | 2004-04 | Salakavala | Tentacle Tubuc |
-| 40 | ![Cover](https://i.discogs.com/S-EmF6KSoFGA2viLbBUOnhXj1ClzZ-QB2O7gvfEBvEo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2ODYx/OS0xMTc4OTE2OTA3/LmpwZWc.jpeg) | 2007-03 | Tea Chairs | Tea Chairs CD 1 |
-| 42 | ![Cover](https://i.discogs.com/S-EmF6KSoFGA2viLbBUOnhXj1ClzZ-QB2O7gvfEBvEo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2ODYx/OS0xMTc4OTE2OTA3/LmpwZWc.jpeg) | 2007-03 | Tea Chairs | Tea Chairs CD 2 |
-| 39 | ![Cover](https://i.discogs.com/EHXQx6igTIwthC2RLNFU7M9yZxb0hQPow-PyVkSx5TU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NDYx/Ni0xMTc5NjU4NDM0/LmpwZWc.jpeg) | 2007-05 | Robomate | Run Run Run ep |
-| 41 | ![Cover](https://i.discogs.com/5rXuyaZP-ZGDQVFWMwdnhQvQ72nSNVHSwh2KJ70ULqY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDM0/ODMtMTI1Nzk0Njkz/Ni5qcGVn.jpeg) | 2009-10-09 | Robomate | Skill Sampler |
-| 49 | ![Cover](https://i.discogs.com/UFOiIE0muDyZUrivKXTfpmjDGuOl8E9dPx_H_eFcg-Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODU5/OTItMTQ1OTI3ODM2/Mi05MTYyLmpwZWc.jpeg) | 2009-10-10 | Okta | Kyseesh |
-| 25 | ![Cover](https://i.discogs.com/RQ3LVevTmKyYU1gqpyMWMx8PkGpkoqrSqxhDCEa3BdE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODI0/MzUtMTUxMDIyMjM1/Ni05NTQ1LmpwZWc.jpeg) | 2011 | PAVEL SVIMBA | Spoken Weird |
-| 13 | ![Cover](https://i.discogs.com/c2JplJvxzXJxJNlat85vUNeg_ZF7C3vMNaK1NgpmGfs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTYy/OTMtMTMwNzEzNjcy/My5wbmc.jpeg) | 2011-06-04 | Mullet Mohawk | Spoken Weird |
-| 18 | ![Cover](https://i.discogs.com/c2JplJvxzXJxJNlat85vUNeg_ZF7C3vMNaK1NgpmGfs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTYy/OTMtMTMwNzEzNjcy/My5wbmc.jpeg) | 2011-06-04 | Mullet Mohawk | Be Antiscarped |
-| 48 | ![Cover](https://i.discogs.com/-7Z-0ZXYIZOy_QrEzEsXSBbLK2JEkBzfXMw_DT2QyvI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NDM1/NjYtMTQ4MDY5MDEx/MS05Mzc4LmpwZWc.jpeg) | 2016-12-02 | RRRastas | More Awake Than You! |
-| 9 | ![Cover](https://i.discogs.com/1a0Ydh42TWQgMFoy5UimHSzot4p1xvklIXpZ--HH28I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTMx/ODgwLTE1MTA0Mzg3/NTMtNjc5Mi5wbmc.jpeg) | 2017-10-14 | Hongos Longos | Rashacadabra |
-| 24 | ![Cover](https://i.discogs.com/iXNR1jrISQhZLwQpIBnaHT4q8yfRo1yR4AGGWmBg3Qk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNTIy/MjgtMTM5MTI2NTk1/MS03OTM3LmpwZWc.jpeg) | 2018-02-16 | Salakavala | Garlic Shake |
-| 36 |  |  | Dr. scapolite | Fuzzy Feelings |
-| 31 |  | 2023 | Various Artists | Not My Cup of Tea |
+<table>
+  <thead>
+    <tr>
+      <th>Place</th>
+      <th>Cover</th>
+      <th>Date</th>
+      <th>Artist</th>
+      <th>Album</th>
+      <th>Tags</th>
+      <th>Other places</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/-DM8u4ZgktagfB-f4gsxrL7kBdMJC6olzC14nHn8OBs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODcx/NjM5LTE2MjE5MTA5/MzctMzQ3Mi5qcGVn.jpeg" alt="Cover for Elixiria.com :: Private Message" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1974</td>
+      <td>Various Artists</td>
+      <td>Elixiria.com :: Private Message</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>
+          <img src="https://i.discogs.com/1LxUEZ7qSG73T6h2RXl20iw3cz8IfvyoSWzCkdzBTSg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDU5/NjYtMTM1MjA2MjA2/Ni00MDIyLmpwZWc.jpeg" alt="Cover for Open" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1977</td>
+      <td>Various Artists</td>
+      <td>Open</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+          <img src="https://i.discogs.com/1LxUEZ7qSG73T6h2RXl20iw3cz8IfvyoSWzCkdzBTSg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDU5/NjYtMTM1MjA2MjA2/Ni00MDIyLmpwZWc.jpeg" alt="Cover for Schizm" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1977</td>
+      <td>Various Artists</td>
+      <td>Schizm</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>
+          <img src="https://i.discogs.com/1LxUEZ7qSG73T6h2RXl20iw3cz8IfvyoSWzCkdzBTSg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDU5/NjYtMTM1MjA2MjA2/Ni00MDIyLmpwZWc.jpeg" alt="Cover for Ultrapop" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1977</td>
+      <td>Various Artists</td>
+      <td>Ultrapop</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>
+          <img src="https://i.discogs.com/pVjf6F2mELuLRJpR1g3AK3mcjvziMUJ3gHhzoDEFKe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE3/LTE2NDc5NjEwMDgt/NjcwMS5qcGVn.jpeg" alt="Cover for Custom File" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1977</td>
+      <td>Various Artists</td>
+      <td>Custom File</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>
+          <img src="https://i.discogs.com/1LxUEZ7qSG73T6h2RXl20iw3cz8IfvyoSWzCkdzBTSg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDU5/NjYtMTM1MjA2MjA2/Ni00MDIyLmpwZWc.jpeg" alt="Cover for FDCD03" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1977</td>
+      <td>Various Artists</td>
+      <td>FDCD03</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>
+      </td>
+      <td>1996-12-12</td>
+      <td>GAD</td>
+      <td>Apollo 3D</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>
+          <img src="https://i.discogs.com/LDeZS0fBeZWYZMm2I8QgstvM1H1-89Zr2mhaZTsK91Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NzA0/LTExODM0NTgyMDgu/anBlZw.jpeg" alt="Cover for Squarebeat" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>Squaremeat</td>
+      <td>Squarebeat</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomi" | relative_url }}">suomi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>
+      </td>
+      <td>1999</td>
+      <td>Texas Faggott</td>
+      <td>Texas Faggott</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>
+          <img src="https://i.discogs.com/yMFU4okGFMGaspDsk0sforqdeEI8PCQJl65qjtgisko/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NDA5/LTExMjcyMDQ0MjAu/anBlZw.jpeg" alt="Cover for No Possible Soundz" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>Squaremeat</td>
+      <td>No Possible Soundz</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>
+          <img src="https://i.discogs.com/kmlIDBwdBZCtYFEGtR_i9uhuULQVop72JfBOvsVGU7A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNjc2/LTAwMS5qcGc.jpeg" alt="Cover for Final Truth 2020" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>SHIWA 2000</td>
+      <td>Final Truth 2020</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>
+          <img src="https://i.discogs.com/nUa-8RAQyY5XxvdT8_cWzX8fdirkAQ5zx9Ozt3ar2zU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjE2/Mi0xMjA3MjMyODcw/LmpwZWc.jpeg" alt="Cover for My CD Has Landed on the Next Door Neighbours Dog" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>PeLinPala</td>
+      <td>My CD Has Landed on the Next Door Neighbours Dog</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>
+          <img src="https://i.discogs.com/yMFU4okGFMGaspDsk0sforqdeEI8PCQJl65qjtgisko/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NDA5/LTExMjcyMDQ0MjAu/anBlZw.jpeg" alt="Cover for Wave Soup" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>Squaremeat</td>
+      <td>Wave Soup</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+      </td>
+      <td>2000</td>
+      <td>Texas Faggott</td>
+      <td>Petoman&#39;s Peflett</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>
+          <img src="https://i.discogs.com/G8lcxIhbsGpfYrcU1eN00a1n48gg1SICgXOmhP6IsiU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzE2/NDU5LTE1MzI3OTQy/NzEtNjUzMi5qcGVn.jpeg" alt="Cover for Weird alchemy" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Weird Alchemy</td>
+      <td>Weird alchemy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>
+          <img src="https://i.discogs.com/H3pvZ-bsFxJKyMJyC4Nj0t-VvddatsUwkrOKAO3SZHw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTU3/NS0xMzk1MTM5MDg3/LTU2NDguanBlZw.jpeg" alt="Cover for DO NOT DISTRIBUTE" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Huopatossu Mononen</td>
+      <td>DO NOT DISTRIBUTE</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>
+          <img src="https://i.discogs.com/uGbZwnVK9NqVXt5B3_bsCZ-fXnB_qYpvzPFmYNU74Zk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NzMt/MTY0OTM0NDMxNy03/NDI5LmpwZWc.jpeg" alt="Cover for Forest Flavour" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001-02</td>
+      <td>Haltya</td>
+      <td>Forest Flavour</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>
+          <img src="https://i.discogs.com/y_qWpjlhlLLxRCORk0GnFHEioDBiQG0l5VZ-w7kQMvQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDU2/MzctMTMwODUyMzc0/OS5qcGVn.jpeg" alt="Cover for Mockba Bolenath" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>Salakavala</td>
+      <td>Mockba Bolenath</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>
+          <img src="https://i.discogs.com/proNRpbwL4jrZBrjU5miJYrVAvnCiHJLCJTLqDnlHfU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTk5/Ni0xMTA0NzM4NTAz/LmpwZw.jpeg" alt="Cover for Loopus in Fabula" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>Loopus in fabula</td>
+      <td>Loopus in Fabula</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+      </td>
+      <td>2002</td>
+      <td>Mandalavandalz</td>
+      <td>Hong Kong Knightlife</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>
+          <img src="https://i.discogs.com/e8PNdfQ82D4SSN-Wl9MpJ6L8PnRuo1tohPlG-dFK_Zk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODY1/Ni0xMTI3MDI3NzAz/LmpwZWc.jpeg" alt="Cover for Wired alchemy" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002-03-13</td>
+      <td>Weird Alchemy</td>
+      <td>Wired alchemy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>
+          <img src="https://i.discogs.com/rAsIavMvXHfW4rGlQIQRE7gC_L4puT0C_n_PQ7GBWFo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NDg5/My0xMjEzOTc2NjAx/LmpwZWc.jpeg" alt="Cover for Astrofunk" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Loopus in fabula</td>
+      <td>Astrofunk</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomi" | relative_url }}">suomi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>
+      </td>
+      <td>2003</td>
+      <td>Texas Faggott</td>
+      <td>From Israel With love</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>
+          <img src="https://i.discogs.com/WiK5Jtkr7xYm-lXb1OgyTiGYyEUgCcD2fBqrcL5Yo50/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNzA0/LTAwMS5qcGc.jpeg" alt="Cover for Lipoptena Cervi" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Flying Scorpions</td>
+      <td>Lipoptena Cervi</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>
+          <img src="https://i.discogs.com/bA-7VwaHT94YpFiWx6JDiTx80pgcVxnbbBxCgLL5ytY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTA0/MC0xMTI3MjA1NTgw/LmpwZWc.jpeg" alt="Cover for Jungle Boogie Party Line" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Squaremeat</td>
+      <td>Jungle Boogie Party Line</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>
+          <img src="https://i.discogs.com/uhpq1eKpK8V1swf3KvMm3w14Zeo8bP-VZjyLDD1ll10/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1OTY2/OC0xMTU1OTQ2MDgw/LmdpZg.jpeg" alt="Cover for Indian Hairdryer" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003-10</td>
+      <td>Lemon Slide</td>
+      <td>Indian Hairdryer</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>
+          <img src="https://i.discogs.com/fyT121XH4vktn2hkokS-mbIFmebqXQxTtmOoaOK5uJk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDQ1/My0xMDczODk3MTMw/LmpwZw.jpeg" alt="Cover for Tarinat" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003-11-28</td>
+      <td>Eraser vs Yöjalka</td>
+      <td>Tarinat</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomi" | relative_url }}">suomi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>
+          <img src="https://i.discogs.com/cZIfqJuIP4jtQtLyhT0-tsRJoLevO0wLu6ehfrNNUHw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NzQw/OS0xMTU5MTg3NzQ4/LmdpZg.jpeg" alt="Cover for Aika Antiscarppia" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-01</td>
+      <td>Vihtahousu</td>
+      <td>Aika Antiscarppia</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>
+          <img src="https://i.discogs.com/RIl27H8XLi7UnBFGZtesOcb1BkkNyZNEwFaL0cxNME0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NzQx/Mi0xMTU5MTg3NzQz/LmdpZg.jpeg" alt="Cover for Be Antiscarped" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-02</td>
+      <td>TRES LOST AMIGOS</td>
+      <td>Be Antiscarped</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>
+          <img src="https://i.discogs.com/RIl27H8XLi7UnBFGZtesOcb1BkkNyZNEwFaL0cxNME0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NzQx/Mi0xMTU5MTg3NzQz/LmdpZg.jpeg" alt="Cover for Club Fader" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-02</td>
+      <td>TRES LOST AMIGOS</td>
+      <td>Club Fader</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>
+          <img src="https://i.discogs.com/9XwHmc63-GxzqEPACbpaIOYbd2AT8AnzC4cm0pXUEq8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NTYy/My0xMTU1NTY4OTg5/LmdpZg.jpeg" alt="Cover for Tentacle Tubuc" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-04</td>
+      <td>Salakavala</td>
+      <td>Tentacle Tubuc</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td>
+          <img src="https://i.discogs.com/vYNmNzHrdOnoHXpsyobRB4ATrQFPNkfRDE63r5HRaw0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1OTY1/MS0xMTU1OTQ1NDY3/LmdpZg.jpeg" alt="Cover for The Aiionwatha" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-04</td>
+      <td>Mullet Mohawk</td>
+      <td>The Aiionwatha</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+      </td>
+      <td>2004-04</td>
+      <td>Salakavala</td>
+      <td>Treacherous Tunes</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+      </td>
+      <td>2004-06-07</td>
+      <td>Texas Faggott</td>
+      <td>Pilluminati Cunt Roll</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>
+          <img src="https://i.discogs.com/BSj1Txcb-_5TMgo0BTZk1455ALeRJX51cIebf38hASc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1OTYz/OC0xMTU1OTQ0MTYw/LmdpZg.jpeg" alt="Cover for Yks Kadoksissa" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-07</td>
+      <td>TRES LOST AMIGOS</td>
+      <td>Yks Kadoksissa</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>
+          <img src="https://i.discogs.com/tscE-P7awJwR7STt4O9fK0pjGm53bWL-nNWw5KYT_Tk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODU3/OS0xMzc1MzM5NzUw/LTQyODUuanBlZw.jpeg" alt="Cover for Pog-o-matic Pogómen 3000000" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-11-01</td>
+      <td>Luomuhappo</td>
+      <td>Pog-o-matic Pogómen 3000000</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
+          <img src="https://i.discogs.com/1f8Fd3YYtMElli7v9DsNDjIdEsWAq8gkR3TXM4m-vog/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1Mzg4/MS0xMTU2MTM1NTY5/LmpwZWc.jpeg" alt="Cover for Too Weird To Live" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-11</td>
+      <td>Vihtahousu</td>
+      <td>Too Weird To Live</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>
+          <img src="https://i.discogs.com/9Kws8k-SOvWv2k7A8Aeki1Z8VbAcu8RcgXpeWRY0meo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0OTUw/Ny0xMTU2MTM1NTg2/LmpwZWc.jpeg" alt="Cover for medicineman" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-12</td>
+      <td>Puoskari</td>
+      <td>medicineman</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>
+      </td>
+      <td>2005-05-25</td>
+      <td>Aavepyörä</td>
+      <td>Elektro Fluoro Punx</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>
+          <img src="https://i.discogs.com/V7BJVK_K0veuEDVHQ-_CvzgLnF_WYO9uhHim5eVY-Ao/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NTY0/MC0xMTU1NTcwMDE3/LmpwZWc.jpeg" alt="Cover for Warm Up" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-06-27</td>
+      <td>lightaman jr</td>
+      <td>Warm Up</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>
+          <img src="https://i.discogs.com/oNj71PXTUsThKGeAAlDtsvpUyv364q-53idyIILY1B8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MTQ3/Ni0xMzIwNzczNDgw/LmpwZWc.jpeg" alt="Cover for Astronomical Coffee Break" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-07-18</td>
+      <td>Squaremeat</td>
+      <td>Astronomical Coffee Break</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>
+          <img src="https://i.discogs.com/hrZA7ka152MktGPr6WhX-6guyvrcTDi75PjGshLgL1c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5Mjc0/OC0xMTI2OTY0Nzk0/LmpwZWc.jpeg" alt="Cover for Broadband pasuuna vol.2" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-09-01</td>
+      <td>Mandalavandalz</td>
+      <td>Broadband pasuuna vol.2</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>
+      </td>
+      <td>2005-09-01</td>
+      <td>Mandalavandalz</td>
+      <td>Poisonmachine</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>
+          <img src="https://i.discogs.com/Hcdal3rAsbSo_WfEHPaY_LL8JsfSj-wm6RWaY5CE8RE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1OTYx/NC0xMTU1OTQyNTM3/LmpwZWc.jpeg" alt="Cover for FOLDER EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-10</td>
+      <td>Okta</td>
+      <td>FOLDER EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>
+      </td>
+      <td>2005-12-16</td>
+      <td>James Reipas</td>
+      <td>Uwaga</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomi" | relative_url }}">suomi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/suomi" | relative_url }}">suomi</a> # 52</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>
+          <img src="https://i.discogs.com/DzXZtZFFHSPvoEu0-Ax_OrOUMzgrbYFpG1n4J_3YWDg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1ODY5/NzctMTQyNjU5NjI5/Mi04MzA5LmpwZWc.jpeg" alt="Cover for No Tone Unstirred" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>LPC</td>
+      <td>No Tone Unstirred</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>
+          <img src="https://i.discogs.com/vQkUvMfVeZoG_k6UXYqrmKq-dnamW4cYw-uG5dSUoZc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MzI1/MS0xMzg0NDcwMzI2/LTU4MzkuanBlZw.jpeg" alt="Cover for Runkmeditation &amp; Perstantra" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>SHIWA 2000</td>
+      <td>Runkmeditation &amp; Perstantra</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>
+          <img src="https://i.discogs.com/w55XLlHRWZy1o0XBBkinXbaarjsyIAqWO1u1gMPZZ3E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMzUz/NS0xMTYxNDQ0NDI4/LmpwZWc.jpeg" alt="Cover for Suppea Alaista Lifestyle Musiikkia vol 1" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-09</td>
+      <td>Sora</td>
+      <td>Suppea Alaista Lifestyle Musiikkia vol 1</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/finland" | relative_url }}">finland</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 94</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>
+          <img src="https://i.discogs.com/4XP3KKmgx9iUEJcQBp80h-U9EH6ao8kRYvpXh4oamuE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0Mjc5/MS0xMTY4MzMxMTg0/LmpwZWc.jpeg" alt="Cover for Mutkikas Umpikuja" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-11</td>
+      <td>Puoskari</td>
+      <td>Mutkikas Umpikuja</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>
+      </td>
+      <td>2007-01-30</td>
+      <td>Vishnudata</td>
+      <td>Dreamforce</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>
+          <img src="https://i.discogs.com/S-EmF6KSoFGA2viLbBUOnhXj1ClzZ-QB2O7gvfEBvEo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2ODYx/OS0xMTc4OTE2OTA3/LmpwZWc.jpeg" alt="Cover for Tea Chairs CD 1" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-03</td>
+      <td>Tea Chairs</td>
+      <td>Tea Chairs CD 1</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>
+          <img src="https://i.discogs.com/S-EmF6KSoFGA2viLbBUOnhXj1ClzZ-QB2O7gvfEBvEo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2ODYx/OS0xMTc4OTE2OTA3/LmpwZWc.jpeg" alt="Cover for Tea Chairs CD 2" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-03</td>
+      <td>Tea Chairs</td>
+      <td>Tea Chairs CD 2</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>
+          <img src="https://i.discogs.com/S-EmF6KSoFGA2viLbBUOnhXj1ClzZ-QB2O7gvfEBvEo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2ODYx/OS0xMTc4OTE2OTA3/LmpwZWc.jpeg" alt="Cover for Tea Chairs CD 3" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-03</td>
+      <td>Tea Chairs</td>
+      <td>Tea Chairs CD 3</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>
+          <img src="https://i.discogs.com/EHXQx6igTIwthC2RLNFU7M9yZxb0hQPow-PyVkSx5TU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NDYx/Ni0xMTc5NjU4NDM0/LmpwZWc.jpeg" alt="Cover for Run Run Run ep" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-05</td>
+      <td>Robomate</td>
+      <td>Run Run Run ep</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>
+          <img src="https://i.discogs.com/BX6xkXdMXY-a5vhunDzq5eYj5CCzGZzw4_88pvNSp4g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2ODY1/NS0xMTc4OTE5Nzg2/LmpwZWc.jpeg" alt="Cover for Bathrobe EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-05</td>
+      <td>PAVEL SVIMBA</td>
+      <td>Bathrobe EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>
+          <img src="https://i.discogs.com/dseoKVoyXZAfZ8We1TV44P5H4lQFdxVHuJDkgJTH6a0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODk1/MTktMTE5MTIzMTQx/OS5qcGVn.jpeg" alt="Cover for Suction Cup mixes" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-09-25</td>
+      <td>Calamar Audio</td>
+      <td>Suction Cup mixes</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomi" | relative_url }}">suomi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/suomi" | relative_url }}">suomi</a> # 68</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>
+          <img src="https://i.discogs.com/txhYPt1HsEMASbHuF1oeQxbd6XK8-qfKTxAlX2-pUK8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjI3/NzYtMTE4OTIwOTM4/NC5qcGVn.jpeg" alt="Cover for Gogo Catching" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-09</td>
+      <td>Okta</td>
+      <td>Gogo Catching</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>
+          <img src="https://i.discogs.com/txhYPt1HsEMASbHuF1oeQxbd6XK8-qfKTxAlX2-pUK8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjI3/NzYtMTE4OTIwOTM4/NC5qcGVn.jpeg" alt="Cover for Gogo Catching ep" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-09</td>
+      <td>Okta</td>
+      <td>Gogo Catching ep</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>
+          <img src="https://i.discogs.com/-Eoo7y07j4APNu3Km_BkCWGS-xCKOyaPB7IEyrFL9PE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTIz/NjMtMTE5MTQ0MTEx/My5qcGVn.jpeg" alt="Cover for Tentacle Tubuc" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-10</td>
+      <td>Calamar Audio</td>
+      <td>Tentacle Tubuc</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>
+          <img src="https://i.discogs.com/UbsfrcKRC6xRvbxWWFww0WZObcZKD2Q4x9bvnNuoKpM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDU5/MDUtMTE5MjQ0Mjgw/Mi5qcGVn.jpeg" alt="Cover for True Nature" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-11-01</td>
+      <td>Lemon Slide</td>
+      <td>True Nature</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/suomi" | relative_url }}">suomi</a> # 87</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>
+          <img src="https://i.discogs.com/cOif7nkxouW5b0g_D2FBR96NADi0NZzkjN7VVyUtsMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODA2/NDEtMTE5ODgyMjQ2/Mi5qcGVn.jpeg" alt="Cover for Iced" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-12</td>
+      <td>Igor Swamp</td>
+      <td>Iced</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>
+          <img src="https://i.discogs.com/lZX353DdLGZWTbt_ChZ9UDI9lIX1lDrbqBibXTua3J0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODcx/OTItMTQ0MzI0OTMy/OC02MjM0LmpwZWc.jpeg" alt="Cover for Useless Science" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-12</td>
+      <td>Troll Scientists</td>
+      <td>Useless Science</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>
+          <img src="https://i.discogs.com/cYDKg2-2j9vfb6aNlFBY15XD0umDT8XhhHDXKLbEmYI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjQ2/ODctMTIwOTczOTgz/Mi5qcGVn.jpeg" alt="Cover for Mortal Kooma" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>Club Kooma</td>
+      <td>Mortal Kooma</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomi" | relative_url }}">suomi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/suomi" | relative_url }}">suomi</a> # 70</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>
+      </td>
+      <td>2008</td>
+      <td>Mandalavandalz</td>
+      <td>King Of The Bad Trips</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+      </td>
+      <td>2008-04</td>
+      <td>Puoskari</td>
+      <td>Open the Forest</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>
+          <img src="https://i.discogs.com/piRkU7BH5WFfznr3FAhQTSC4o1RMyajOc9JunWlZ2vg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjQ0/ODctMTIwOTcyNjc3/Mi5qcGVn.jpeg" alt="Cover for Loud Linguistics" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-04</td>
+      <td>Saiko Disco</td>
+      <td>Loud Linguistics</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>
+      </td>
+      <td>2008-05-07</td>
+      <td>Texas Faggott</td>
+      <td>Kininigin</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+          <img src="https://i.discogs.com/R2KWaPAXInNkDfTsZSNT-bQN2e-uqMC-mYLnfS1WYmg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTkx/NjItMTIxNjM2NzEx/Mi5qcGVn.jpeg" alt="Cover for Pimper At The Gates Of Jorvi" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-07</td>
+      <td>Huopatossu Mononen</td>
+      <td>Pimper At The Gates Of Jorvi</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>
+      </td>
+      <td>2009</td>
+      <td>Various Artists</td>
+      <td>Broadband Pasuuna vol.4</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/finland" | relative_url }}">finland</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa" | relative_url }}">goa</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomi" | relative_url }}">suomi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/suomi" | relative_url }}">suomi</a> # 58</li>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 82</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>
+          <img src="https://i.discogs.com/VWRqMBIiOEi2txxVy-5uFT6xeWiM9YFb5lR8GJBiaKQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTQz/NzQtMTIzNzQyNDEx/MC5qcGVn.jpeg" alt="Cover for Off the Road ep" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Scooter Baba</td>
+      <td>Off the Road ep</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>
+          <img src="https://i.discogs.com/5rXuyaZP-ZGDQVFWMwdnhQvQ72nSNVHSwh2KJ70ULqY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDM0/ODMtMTI1Nzk0Njkz/Ni5qcGVn.jpeg" alt="Cover for Skill Sampler" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-10-09</td>
+      <td>Robomate</td>
+      <td>Skill Sampler</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>
+          <img src="https://i.discogs.com/UFOiIE0muDyZUrivKXTfpmjDGuOl8E9dPx_H_eFcg-Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODU5/OTItMTQ1OTI3ODM2/Mi05MTYyLmpwZWc.jpeg" alt="Cover for Kyseesh" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-10-10</td>
+      <td>Okta</td>
+      <td>Kyseesh</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>
+          <img src="https://i.discogs.com/2CeoNKNkFsm96UtF0akhPv9Fn4AT08Bm3hOCGLteo2I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MDY1/NC0xMTUwODAzOTYx/LmpwZWc.jpeg" alt="Cover for No Tone Unstirred" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-12-04</td>
+      <td>Puoskari</td>
+      <td>No Tone Unstirred</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>
+          <img src="https://i.discogs.com/OZi-dHLW7gGji5G5LWDqHWTTa1cjK5c1KSJDzyt5buA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDk3/NjgtMTQwMzM1Mzcz/NS0yNjExLmpwZWc.jpeg" alt="Cover for Different Path" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-12-04</td>
+      <td>Puoskari</td>
+      <td>Different Path</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>
+          <img src="https://i.discogs.com/RQ3LVevTmKyYU1gqpyMWMx8PkGpkoqrSqxhDCEa3BdE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODI0/MzUtMTUxMDIyMjM1/Ni05NTQ1LmpwZWc.jpeg" alt="Cover for Broadband Pasuuna vol.3" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011</td>
+      <td>PAVEL SVIMBA</td>
+      <td>Broadband Pasuuna vol.3</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>
+          <img src="https://i.discogs.com/RQ3LVevTmKyYU1gqpyMWMx8PkGpkoqrSqxhDCEa3BdE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODI0/MzUtMTUxMDIyMjM1/Ni05NTQ1LmpwZWc.jpeg" alt="Cover for Spoken Weird" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011</td>
+      <td>PAVEL SVIMBA</td>
+      <td>Spoken Weird</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>
+          <img src="https://i.discogs.com/RQ3LVevTmKyYU1gqpyMWMx8PkGpkoqrSqxhDCEa3BdE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODI0/MzUtMTUxMDIyMjM1/Ni05NTQ1LmpwZWc.jpeg" alt="Cover for Space Babuska" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011</td>
+      <td>PAVEL SVIMBA</td>
+      <td>Space Babuska</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>
+          <img src="https://i.discogs.com/kSOcMkFUtW7qnPgfUadNYPdTxFR8fnjyP-iepLMh93U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDMw/MzUtMTMwMzU3NDA1/Ni5qcGVn.jpeg" alt="Cover for Super Life" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-02</td>
+      <td>James Reipas</td>
+      <td>Super Life</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>
+          <img src="https://i.discogs.com/c2JplJvxzXJxJNlat85vUNeg_ZF7C3vMNaK1NgpmGfs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTYy/OTMtMTMwNzEzNjcy/My5wbmc.jpeg" alt="Cover for Spoken Weird" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-06-04</td>
+      <td>Mullet Mohawk</td>
+      <td>Spoken Weird</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>
+          <img src="https://i.discogs.com/c2JplJvxzXJxJNlat85vUNeg_ZF7C3vMNaK1NgpmGfs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTYy/OTMtMTMwNzEzNjcy/My5wbmc.jpeg" alt="Cover for Be Antiscarped" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-06-04</td>
+      <td>Mullet Mohawk</td>
+      <td>Be Antiscarped</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/117c07533cc010b355b226b69eeea6ce.png" alt="Cover for Teknical Problems" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-09-16</td>
+      <td>Tekniset</td>
+      <td>Teknical Problems</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 83</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>
+          <img src="https://i.discogs.com/-7Z-0ZXYIZOy_QrEzEsXSBbLK2JEkBzfXMw_DT2QyvI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NDM1/NjYtMTQ4MDY5MDEx/MS05Mzc4LmpwZWc.jpeg" alt="Cover for More Awake Than You!" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-12-02</td>
+      <td>RRRastas</td>
+      <td>More Awake Than You!</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>
+          <img src="https://i.discogs.com/TqTvouD8LhrT5MFbsY26Src5W6zhghyskLA1FxmSaxI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Njkz/ODE4LTE2MTQ5MDE2/NTctOTc1NC5qcGVn.jpeg" alt="Cover for too much es" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-09-21</td>
+      <td>Oraalidonitsi</td>
+      <td>too much es</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/finland" | relative_url }}">finland</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomi" | relative_url }}">suomi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dc772efb83ef29e2e09e6c6f857170a5.png" alt="Cover for Rashacadabra" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-10-14</td>
+      <td>Hongos Longos</td>
+      <td>Rashacadabra</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>
+          <img src="https://i.discogs.com/iXNR1jrISQhZLwQpIBnaHT4q8yfRo1yR4AGGWmBg3Qk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNTIy/MjgtMTM5MTI2NTk1/MS03OTM3LmpwZWc.jpeg" alt="Cover for Garlic Shake" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-02-16</td>
+      <td>Salakavala</td>
+      <td>Garlic Shake</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>
+      </td>
+      <td>2023</td>
+      <td>Various Artists</td>
+      <td>Not My Cup of Tea</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Diippilaavu</td>
+      <td>Diippilaavu - Diipeistä Diipein EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/finland" | relative_url }}">finland</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Lemon Slide vs D.D.A</td>
+      <td>Spoken Weird</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Diippilaavu</td>
+      <td>Diippilaavu - Matka EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Antiscarp Warriorz</td>
+      <td>Nightz of Knightz</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Lightman Jr</td>
+      <td>No Possible Soundz</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Calamar Audio feat. Francoise Faggott</td>
+      <td>Tentacle Tubuc</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Lava Lords</td>
+      <td>Garlic Shake</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Pavel Svimba &amp; Calamar Audio</td>
+      <td>Garlic Shake</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Masatronics</td>
+      <td>Broadband Pasuuna vol.3</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>
+      </td>
+      <td></td>
+      <td>gruuvit muuvit</td>
+      <td>No Possible Soundz</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Dirty Dreds</td>
+      <td>No Possible Soundz Vol 3</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Nano Buds</td>
+      <td>No Possible Soundz Vol 3</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Dr. scapolite</td>
+      <td>Fuzzy Feelings</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Antiscarp Warriorz</td>
+      <td>Nightz of Knightz ep</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomi" | relative_url }}">suomi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Related genres
 

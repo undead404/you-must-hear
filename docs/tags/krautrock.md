@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T01:24:06.020Z
+date: 2025-12-05T04:24:12.070Z
 permalink: tags/krautrock
 title: krautrock
 ---
 
 ## krautrock
 
-Last updated: <time datetime="2025-11-23T01:24:06.020Z">Sun Nov 23 2025 03:24:06 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T04:24:12.070Z">Fri Dec 05 2025 06:24:12 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -325,7 +325,7 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 41</li>
+            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -365,7 +365,7 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 67</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -791,7 +791,7 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/proto-punk" | relative_url }}">proto-punk</a> # 11</li>
+            <li> <a href="{{ "/tags/proto-punk" | relative_url }}">proto-punk</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -831,7 +831,7 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/berlin-school" | relative_url }}">berlin school</a> # 93</li>
+            <li> <a href="{{ "/tags/berlin-school" | relative_url }}">berlin school</a> # 8</li>
             <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 98</li>
         </ul>
       </td>
@@ -887,7 +887,7 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/berlin-school" | relative_url }}">berlin school</a> # 66</li>
+            <li> <a href="{{ "/tags/berlin-school" | relative_url }}">berlin school</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1148,8 +1148,8 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 20</li>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 29</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 68</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1205,7 +1205,7 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a> # 84</li>
+            <li> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1254,11 +1254,11 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 6</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 53</li>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 73</li>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 85</li>
-            <li> <a href="{{ "/tags/space-rock-revival" | relative_url }}">space rock revival</a> # 100</li>
+            <li> <a href="{{ "/tags/space-rock-revival" | relative_url }}">space rock revival</a> # 1</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 14</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 27</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 45</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1445,6 +1445,23 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
     </tr>
     <tr>
+      <td>40</td>
+      <td>
+      </td>
+      <td>2014-10-24</td>
+      <td>Can</td>
+      <td>Ege Bamyasi (Remastered Version)</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 99</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>51</td>
       <td>
       </td>
@@ -1459,24 +1476,8 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 11</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 57</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>40</td>
-      <td>
-      </td>
-      <td>2014-10-24</td>
-      <td>Can</td>
-      <td>Ege Bamyasi (Remastered Version)</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 41</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1530,7 +1531,7 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 66</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1551,8 +1552,8 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a> # 46</li>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 46</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 54</li>
+            <li> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1591,7 +1592,7 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a> # 26</li>
+            <li> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1613,8 +1614,8 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/berlin-school" | relative_url }}">berlin school</a> # 2</li>
             <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 67</li>
-            <li> <a href="{{ "/tags/berlin-school" | relative_url }}">berlin school</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1696,8 +1697,9 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 74</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 27</li>
             <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 75</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1722,7 +1724,7 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 55</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 46</li>
             <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 61</li>
         </ul>
       </td>
@@ -1738,14 +1740,14 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a></li>
+            <li style="font-size: calc(1rem * 93 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
             <li style="font-size: calc(1rem * 72 / 100)"> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a></li>
-            <li style="font-size: calc(1rem * 72 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 48</li>
-            <li> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a> # 49</li>
+            <li> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a> # 52</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1762,7 +1764,7 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 60</li>
+            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1821,8 +1823,8 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 55</li>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 80</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 15</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1865,9 +1867,9 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 59</li>
-            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 63</li>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 75</li>
+            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 36</li>
+            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 38</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1888,10 +1890,10 @@ Krautrock is an experimental rock genre that emerged in West Germany during the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 6</li>
-            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 27</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 76</li>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 78</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 18</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 25</li>
+            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 52</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 94</li>
         </ul>
       </td>
     </tr>

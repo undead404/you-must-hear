@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-25T20:31:16.338Z
+date: 2025-12-05T04:21:52.036Z
 permalink: tags/vaporwave
 title: vaporwave
 ---
 
 ## vaporwave
 
-Last updated: <time datetime="2025-11-25T20:31:16.338Z">Tue Nov 25 2025 22:31:16 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T04:21:52.036Z">Fri Dec 05 2025 06:21:52 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -99,9 +99,9 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 64</li>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 79</li>
-            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 95</li>
+            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 6</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 22</li>
+            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -127,8 +127,8 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 72</li>
-            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 96</li>
+            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 5</li>
+            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -149,8 +149,8 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 95</li>
-            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 96</li>
+            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 5</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -188,8 +188,8 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 88</li>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 94</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 7</li>
+            <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -260,7 +260,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 87</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -386,7 +386,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 86</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -422,7 +422,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       <td>
         <ul>
             <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 12</li>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 22</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -460,7 +460,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 43</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -533,7 +533,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-funk" | relative_url }}">future funk</a> # 43</li>
+            <li> <a href="{{ "/tags/future-funk" | relative_url }}">future funk</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -663,8 +663,8 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 77</li>
-            <li> <a href="{{ "/tags/balearic" | relative_url }}">balearic</a> # 100</li>
+            <li> <a href="{{ "/tags/balearic" | relative_url }}">balearic</a> # 1</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -775,7 +775,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-funk" | relative_url }}">future funk</a> # 89</li>
+            <li> <a href="{{ "/tags/future-funk" | relative_url }}">future funk</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -904,7 +904,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-funk" | relative_url }}">future funk</a> # 90</li>
+            <li> <a href="{{ "/tags/future-funk" | relative_url }}">future funk</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -962,7 +962,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-funk" | relative_url }}">future funk</a> # 86</li>
+            <li> <a href="{{ "/tags/future-funk" | relative_url }}">future funk</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1002,7 +1002,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-funk" | relative_url }}">future funk</a> # 91</li>
+            <li> <a href="{{ "/tags/future-funk" | relative_url }}">future funk</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1042,7 +1042,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 11</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1064,8 +1064,8 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 47</li>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 73</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 28</li>
+            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1139,7 +1139,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 7</li>
+            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1287,7 +1287,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 66</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1347,7 +1347,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-funk" | relative_url }}">future funk</a> # 79</li>
+            <li> <a href="{{ "/tags/future-funk" | relative_url }}">future funk</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1365,7 +1365,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 38</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1387,8 +1387,8 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 57</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 69</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 32</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1406,8 +1406,8 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 15</li>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 83</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 18</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1433,10 +1433,10 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 49</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 78</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 83</li>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 84</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 17</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 23</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 51</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 85</li>
             <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 88</li>
         </ul>
       </td>
@@ -1464,11 +1464,12 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 43</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 45</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 70</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 82</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 88</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 19</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 31</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 56</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 59</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 76</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1550,10 +1551,10 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 1</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 18</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 39</li>
             <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 50</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 62</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 83</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1576,6 +1577,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1633,7 +1635,9 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 81</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 20</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 98</li>
+            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1655,8 +1659,8 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 20</li>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 37</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 61</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1675,8 +1679,8 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 6</li>
-            <li> <a href="{{ "/tags/future-funk" | relative_url }}">future funk</a> # 92</li>
+            <li> <a href="{{ "/tags/future-funk" | relative_url }}">future funk</a> # 66</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1695,7 +1699,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 70</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1716,8 +1720,8 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 62</li>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 83</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 18</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 38</li>
         </ul>
       </td>
     </tr>

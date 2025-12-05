@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-25T20:33:00.661Z
+date: 2025-12-05T04:24:30.455Z
 permalink: tags/chicago
 title: chicago
 ---
 
 ## chicago
 
-Last updated: <time datetime="2025-11-25T20:33:00.661Z">Tue Nov 25 2025 22:33:00 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T04:24:30.455Z">Fri Dec 05 2025 06:24:30 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -46,7 +46,7 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 77</li>
+            <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -217,7 +217,7 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brass" | relative_url }}">brass</a> # 64</li>
+            <li> <a href="{{ "/tags/brass" | relative_url }}">brass</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -389,7 +389,7 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 57</li>
+            <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -466,7 +466,7 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 89</li>
+            <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -617,8 +617,8 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 88</li>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 97</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 4</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -673,7 +673,7 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 65</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -823,8 +823,8 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 48</li>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 93</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 8</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -844,7 +844,7 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 88</li>
+            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -866,9 +866,9 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 1</li>
-            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 17</li>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 86</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 15</li>
+            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 84</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -931,8 +931,8 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 42</li>
-            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 66</li>
+            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 35</li>
+            <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -990,7 +990,7 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 79</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1009,9 +1009,9 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 71</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 5</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 28</li>
             <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 75</li>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1105,9 +1105,9 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 2</li>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 6</li>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 27</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 73</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 93</li>
+            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1177,9 +1177,9 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 56</li>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 87</li>
-            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 88</li>
+            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 13</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 14</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1217,7 +1217,7 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/juke" | relative_url }}">juke</a> # 71</li>
+            <li> <a href="{{ "/tags/juke" | relative_url }}">juke</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1264,9 +1264,9 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 43</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 60</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 60</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 41</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 41</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1535,26 +1535,8 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/desert-rock" | relative_url }}">desert rock</a> # 32</li>
-            <li> <a href="{{ "/tags/harmonica-blues" | relative_url }}">harmonica blues</a> # 82</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>51</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/afb49482f7a3831fb35282aeb2317e6d.png" alt="Cover for Lake Effect Kid" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2014</td>
-      <td>Fall Out Boy</td>
-      <td>Lake Effect Kid</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
+            <li> <a href="{{ "/tags/harmonica-blues" | relative_url }}">harmonica blues</a> # 18</li>
+            <li> <a href="{{ "/tags/desert-rock" | relative_url }}">desert rock</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1578,9 +1560,9 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 41</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 45</li>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 83</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 18</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 55</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1781,6 +1763,24 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
       </td>
     </tr>
     <tr>
+      <td>51</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/afb49482f7a3831fb35282aeb2317e6d.png" alt="Cover for Lake Effect Kid" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-08-23</td>
+      <td>Fall Out Boy</td>
+      <td>Lake Effect Kid</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/999294992c1a480d3c06724081be187e.png" alt="Cover for Flower Of Devotion" style="max-width:120px; height:auto;" />
@@ -1837,7 +1837,7 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 58</li>
+            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1859,7 +1859,7 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 32</li>
+            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 69</li>
         </ul>
       </td>
     </tr>

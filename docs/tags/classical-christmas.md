@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-16T11:56:56.464Z
+date: 2025-12-05T03:43:34.226Z
 permalink: tags/classical-christmas
 title: classical christmas
 ---
 
 ## classical christmas
 
-Last updated: <time datetime="2025-11-16T11:56:56.464Z">Sun Nov 16 2025 13:56:56 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T03:43:34.226Z">Fri Dec 05 2025 05:43:34 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -426,7 +426,7 @@ Classical Christmas music typically refers to classical music compositions that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oratorio" | relative_url }}">oratorio</a> # 59</li>
+            <li> <a href="{{ "/tags/oratorio" | relative_url }}">oratorio</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -720,7 +720,7 @@ Classical Christmas music typically refers to classical music compositions that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oratorio" | relative_url }}">oratorio</a> # 45</li>
+            <li> <a href="{{ "/tags/oratorio" | relative_url }}">oratorio</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -905,8 +905,8 @@ Classical Christmas music typically refers to classical music compositions that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/czech-classical" | relative_url }}">czech classical</a> # 91</li>
-            <li> <a href="{{ "/tags/mass" | relative_url }}">mass</a> # 93</li>
+            <li> <a href="{{ "/tags/mass" | relative_url }}">mass</a> # 8</li>
+            <li> <a href="{{ "/tags/czech-classical" | relative_url }}">czech classical</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1059,7 +1059,7 @@ Classical Christmas music typically refers to classical music compositions that 
     <tr>
       <td>90</td>
       <td>
-          <img src="https://i.discogs.com/_-9Xg6xYJXUJMNfzx-9cibTE-E8Uz8b_wq1AaE9LiWA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTE0/NTUxLTE2MDM2NTgy/MjctNDY3My5qcGVn.jpeg" alt="Cover for A Chanticleer Christmas" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e7ba0c3fba394e2099f9250ad2bed25f.png" alt="Cover for A Chanticleer Christmas" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-09-14</td>
       <td>Chanticleer</td>
@@ -1071,7 +1071,7 @@ Classical Christmas music typically refers to classical music compositions that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/a-capella" | relative_url }}">a capella</a> # 79</li>
+            <li> <a href="{{ "/tags/a-capella" | relative_url }}">a capella</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1109,7 +1109,7 @@ Classical Christmas music typically refers to classical music compositions that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/a-capella" | relative_url }}">a capella</a> # 54</li>
+            <li> <a href="{{ "/tags/a-capella" | relative_url }}">a capella</a> # 47</li>
         </ul>
       </td>
     </tr>

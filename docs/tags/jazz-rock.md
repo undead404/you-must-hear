@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-18T12:01:16.882Z
+date: 2025-12-05T04:25:07.229Z
 permalink: tags/jazz-rock
 title: jazz rock
 ---
 
 ## jazz rock
 
-Last updated: <time datetime="2025-11-18T12:01:16.882Z">Tue Nov 18 2025 14:01:16 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T04:25:07.229Z">Fri Dec 05 2025 06:25:07 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -95,8 +95,8 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 54</li>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 97</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 2</li>
+            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -135,7 +135,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 68</li>
+            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -194,7 +194,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a> # 46</li>
+            <li> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -213,8 +213,8 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 38</li>
-            <li> <a href="{{ "/tags/canterbury-scene" | relative_url }}">canterbury scene</a> # 91</li>
+            <li> <a href="{{ "/tags/canterbury-scene" | relative_url }}">canterbury scene</a> # 7</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -233,7 +233,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 45</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -278,6 +278,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
     <tr>
       <td>26</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/028f3ca3e2b86dfb0de7d0a0d5857d51.png" alt="Cover for Waka&#x2F;Jawaka" style="max-width:120px; height:auto;" />
       </td>
       <td>1972-07-05</td>
       <td>Frank Zappa</td>
@@ -289,8 +290,8 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 46</li>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 65</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 30</li>
+            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -309,7 +310,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 56</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -329,8 +330,8 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/fusion-jazz" | relative_url }}">fusion jazz</a> # 65</li>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 78</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 18</li>
+            <li> <a href="{{ "/tags/fusion-jazz" | relative_url }}">fusion jazz</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -351,8 +352,8 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 82</li>
-            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 96</li>
+            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 4</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -372,8 +373,8 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 55</li>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 84</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 13</li>
+            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -400,6 +401,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
     <tr>
       <td>71</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6d41920cda6d2d9fc871350d7a1dd20e.png" alt="Cover for The Miraculous Hump Returns from the Moon" style="max-width:120px; height:auto;" />
       </td>
       <td>1973</td>
       <td>Sopwith Camel</td>
@@ -470,8 +472,8 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 73</li>
-            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 86</li>
+            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 12</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -548,7 +550,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/canterbury-scene" | relative_url }}">canterbury scene</a> # 15</li>
+            <li> <a href="{{ "/tags/canterbury-scene" | relative_url }}">canterbury scene</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -569,7 +571,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 15</li>
+            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -594,6 +596,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
     <tr>
       <td>21</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/131d102970eebd4ca79586d568f8df3b.png" alt="Cover for Fish Rising" style="max-width:120px; height:auto;" />
       </td>
       <td>1975-04-11</td>
       <td>Steve Hillage</td>
@@ -624,7 +627,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 17</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -645,14 +648,15 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 61</li>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 63</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 32</li>
+            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>77</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a65a5a04aac4928ab5ca2dc5cf76921.png" alt="Cover for Enigmatic Ocean" style="max-width:120px; height:auto;" />
       </td>
       <td>1977</td>
       <td>Jean-Luc Ponty</td>
@@ -665,8 +669,8 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 54</li>
-            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 92</li>
+            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 7</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -704,8 +708,8 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 66</li>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 87</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 11</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -726,14 +730,14 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 54</li>
+            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 39</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>50</td>
       <td>
-          <img src="https://i.discogs.com/jfqiygCl_x6WLAoJ0ngrckmoQTr-PiRe8VkFJC2f4nE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDM3/MzItMTM5ODU2NTk5/OS00MzEzLmpwZWc.jpeg" alt="Cover for Masques" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/46ceff36badbbcad53cebe37047499da.png" alt="Cover for Masques" style="max-width:120px; height:auto;" />
       </td>
       <td>1978-09-08</td>
       <td>Brand X</td>
@@ -784,8 +788,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 69</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 92</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -810,7 +813,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 22</li>
+            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -849,7 +852,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 36</li>
+            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -889,9 +892,9 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 91</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 95</li>
-            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 99</li>
+            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 2</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 6</li>
+            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -910,8 +913,8 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 69</li>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 92</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 6</li>
+            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -932,8 +935,8 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 74</li>
-            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 87</li>
+            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 11</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1023,14 +1026,15 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-jazz" | relative_url }}">dark jazz</a> # 76</li>
+            <li> <a href="{{ "/tags/dark-jazz" | relative_url }}">dark jazz</a> # 25</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>25</td>
       <td>
-          <img src="https://i.discogs.com/MROoi3aep23FLBj0Fu4BCZ-lSkVv42oJHR83BOisLss/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTUy/NTctMTI4NTAwNTI2/Mi5qcGVn.jpeg" alt="Cover for Handful Of Blues" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a79a9f1f68d157c91104078be140545.png" alt="Cover for Handful Of Blues" style="max-width:120px; height:auto;" />
       </td>
       <td>1995-08</td>
       <td>Robben Ford &amp; The Blue Line</td>
@@ -1067,8 +1071,8 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 20</li>
-            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 37</li>
+            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 58</li>
+            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1095,7 +1099,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
     <tr>
       <td>36</td>
       <td>
-          <img src="https://i.discogs.com/U6fVUrxt9eZoDVGmEqvmcKgr88YC-sf3fAXgSqZ1DGs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNTE2/MS0xMzQ3NDIyNjkz/LTMzMjIuanBlZw.jpeg" alt="Cover for B-Sides and Otherwise" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/17253709faf6411fb08214dd318fcb8e.png" alt="Cover for B-Sides and Otherwise" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-09-23</td>
       <td>Morphine</td>
@@ -1146,8 +1150,8 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 72</li>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 91</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 7</li>
+            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1237,7 +1241,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/desert-rock" | relative_url }}">desert rock</a> # 91</li>
+            <li> <a href="{{ "/tags/desert-rock" | relative_url }}">desert rock</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1265,7 +1269,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
     <tr>
       <td>86</td>
       <td>
-          <img src="https://i.discogs.com/qtvBO9gAujpkpU5sI71v9gwOYZtGQk-AoPuYtNFqw_c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4OTIy/NzYtMTY2MzMzNTE2/Ny05NjIzLmpwZWc.jpeg" alt="Cover for Korowod" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cc6318768b4595909a156cf00f45e439.png" alt="Cover for Korowod" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Marek Grechuta</td>
@@ -1280,8 +1284,8 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 40</li>
-            <li> <a href="{{ "/tags/polskie" | relative_url }}">polskie</a> # 99</li>
+            <li> <a href="{{ "/tags/polskie" | relative_url }}">polskie</a> # 2</li>
+            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1344,16 +1348,16 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 29</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 49</li>
-            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 85</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 53</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 69</li>
+            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>56</td>
       <td>
-          <img src="https://i.discogs.com/shNlCncGxmaRvgynY0P3bmEFpq94MviQ39ea6v_F6CM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NjEy/NDgtMTM3MTQxMTUx/OC04MjAzLmpwZWc.jpeg" alt="Cover for Good Morning" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f5bd68790de54bd8b0c60dd27054ce60.png" alt="Cover for Good Morning" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-11-22</td>
       <td>SPECIAL OTHERS</td>
@@ -1369,8 +1373,8 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 82</li>
-            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 86</li>
+            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 14</li>
+            <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1485,7 +1489,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 9</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1548,6 +1552,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
     <tr>
       <td>28</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/47e051d389174340a5ec08caa0014f09.png" alt="Cover for Rhythm Chord &amp; Melody" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-08-19</td>
       <td>The Reign Of Kindo</td>
@@ -1618,7 +1623,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 56</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1642,9 +1647,9 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 50</li>
-            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 60</li>
-            <li> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a> # 85</li>
+            <li> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a> # 15</li>
+            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 34</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1665,7 +1670,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 49</li>
+            <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1704,7 +1709,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 9</li>
+            <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -1718,13 +1723,12 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       <td>Blackstar</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 97</li>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 98</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 15</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1769,7 +1773,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 40</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1826,6 +1830,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1850,8 +1855,8 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 34</li>
-            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 59</li>
+            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 60</li>
+            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1871,14 +1876,15 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 17</li>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 79</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 21</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>2</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/026ca1a806784dfe99344940ec25cd29.png" alt="Cover for Castle Blues" style="max-width:120px; height:auto;" />
       </td>
       <td>2023</td>
       <td>Craig Erickson</td>
@@ -1933,7 +1939,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
     <tr>
       <td>61</td>
       <td>
-          <img src="https://i.discogs.com/UQi99mxtnWlL5eSAYnhcdlM9qNE5skdSJc6Lxx8qAKU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTEw/ODEyLTE3MjgyNzU0/MDktOTE1Ni5qcGVn.jpeg" alt="Cover for Joker: Folie à Deux (Music From The Motion Picture)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3e1cc048031a86765e58f9b60c48f643.png" alt="Cover for Joker: Folie à Deux (Music From The Motion Picture)" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-10-04</td>
       <td>Joaquin Phoenix</td>
@@ -1948,7 +1954,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 86</li>
+            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1984,7 +1990,7 @@ Jazz rock fuses the improvisational complexity and sophisticated harmonies of ja
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 73</li>
+            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 27</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-27T05:27:57.263Z
+date: 2025-12-05T04:20:08.924Z
 permalink: tags/new-wave
 title: new wave
 ---
 
 ## new wave
 
-Last updated: <time datetime="2025-11-27T05:27:57.263Z">Thu Nov 27 2025 07:27:57 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T04:20:08.924Z">Fri Dec 05 2025 06:20:08 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -44,7 +44,7 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 60</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -175,7 +175,7 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 27</li>
+            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -393,7 +393,7 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 49</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -412,7 +412,7 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 32</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -450,8 +450,8 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 14</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 78</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 23</li>
+            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -470,7 +470,7 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 94</li>
+            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -492,8 +492,8 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 36</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 70</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 31</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -548,7 +548,7 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 48</li>
+            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -585,8 +585,8 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 74</li>
-            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 88</li>
+            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 13</li>
+            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -643,9 +643,9 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 16</li>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 18</li>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 87</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 14</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 84</li>
+            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -700,8 +700,8 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 22</li>
             <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 79</li>
+            <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -776,8 +776,8 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 4</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 55</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 46</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -796,8 +796,8 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 49</li>
-            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 100</li>
+            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 1</li>
+            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -835,8 +835,8 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 5</li>
-            <li> <a href="{{ "/tags/hi-nrg" | relative_url }}">hi-nrg</a> # 94</li>
+            <li> <a href="{{ "/tags/hi-nrg" | relative_url }}">hi-nrg</a> # 7</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -855,7 +855,7 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 87</li>
+            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -891,7 +891,7 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hi-nrg" | relative_url }}">hi-nrg</a> # 80</li>
+            <li> <a href="{{ "/tags/hi-nrg" | relative_url }}">hi-nrg</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -945,7 +945,7 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 19</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -964,7 +964,7 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 47</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -985,8 +985,8 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 57</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 89</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 12</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1005,7 +1005,7 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 10</li>
+            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1024,8 +1024,8 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 32</li>
             <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 45</li>
+            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1122,7 +1122,7 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 56</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1143,7 +1143,7 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 39</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 62</li>
             <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 99</li>
         </ul>
       </td>
@@ -1164,7 +1164,7 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 61</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 40</li>
             <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 97</li>
         </ul>
       </td>
@@ -1202,12 +1202,12 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 24</li>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 43</li>
+            <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 1</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 14</li>
+            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 14</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 58</li>
             <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 68</li>
-            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 87</li>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 87</li>
-            <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 100</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1243,8 +1243,8 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 38</li>
             <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 59</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1264,7 +1264,7 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 17</li>
+            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1338,7 +1338,7 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 3</li>
+            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1356,9 +1356,9 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 8</li>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 22</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 21</li>
             <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 64</li>
+            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1398,7 +1398,7 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 42</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1417,7 +1417,7 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 4</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1457,8 +1457,8 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 4</li>
             <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 61</li>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1480,8 +1480,8 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 17</li>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 100</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 1</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1520,8 +1520,8 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 57</li>
-            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 100</li>
+            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 1</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1577,7 +1577,7 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 36</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1598,8 +1598,8 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 37</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 85</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 16</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1620,9 +1620,9 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 46</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 69</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 81</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 20</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 32</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1661,10 +1661,10 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 74</li>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 79</li>
-            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 79</li>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 87</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 14</li>
+            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 20</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 22</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1684,8 +1684,8 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 86</li>
-            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 98</li>
+            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 3</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1722,7 +1722,7 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 67</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 34</li>
             <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 92</li>
         </ul>
       </td>
@@ -1763,12 +1763,12 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 86</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 86</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 93</li>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 95</li>
-            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 99</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 99</li>
+            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 2</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 2</li>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 6</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 8</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 15</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1788,7 +1788,7 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 73</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1807,9 +1807,9 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 62</li>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 87</li>
-            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 91</li>
+            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 10</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 14</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1832,9 +1832,9 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 39</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 65</li>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 85</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 15</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 36</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 62</li>
             <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 91</li>
         </ul>
       </td>
@@ -1872,7 +1872,7 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 66</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1894,9 +1894,9 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 9</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 82</li>
-            <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 100</li>
+            <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 1</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 19</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1915,8 +1915,8 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 97</li>
-            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 99</li>
+            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 2</li>
+            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1936,7 +1936,7 @@ New wave emerged in the late 1970s as a more accessible offshoot of punk rock, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 100</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 1</li>
         </ul>
       </td>
     </tr>

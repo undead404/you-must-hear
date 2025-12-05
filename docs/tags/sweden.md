@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-27T08:43:57.726Z
+date: 2025-12-05T04:26:04.555Z
 permalink: tags/sweden
 title: sweden
 ---
 
 ## sweden
 
-Last updated: <time datetime="2025-11-27T08:43:57.726Z">Thu Nov 27 2025 10:43:57 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T04:26:04.555Z">Fri Dec 05 2025 06:26:04 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -43,7 +43,7 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 13</li>
+            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -66,8 +66,8 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 2</li>
-            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 64</li>
+            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 26</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -86,8 +86,8 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 15</li>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 63</li>
+            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 14</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -106,7 +106,7 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 35</li>
+            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 56</li>
             <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 71</li>
         </ul>
       </td>
@@ -154,9 +154,9 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 4</li>
-            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 47</li>
-            <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 88</li>
+            <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 13</li>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 54</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -332,7 +332,7 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/svensk" | relative_url }}">svensk</a> # 92</li>
+            <li> <a href="{{ "/tags/svensk" | relative_url }}">svensk</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -410,7 +410,7 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 79</li>
+            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -430,7 +430,7 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/eurovision" | relative_url }}">eurovision</a> # 70</li>
+            <li> <a href="{{ "/tags/eurovision" | relative_url }}">eurovision</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -487,7 +487,7 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/svensk" | relative_url }}">svensk</a> # 98</li>
+            <li> <a href="{{ "/tags/svensk" | relative_url }}">svensk</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -524,7 +524,7 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sverige" | relative_url }}">sverige</a> # 82</li>
+            <li> <a href="{{ "/tags/sverige" | relative_url }}">sverige</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -653,7 +653,7 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 30</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -733,7 +733,7 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 51</li>
+            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -756,7 +756,7 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 58</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -795,7 +795,7 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sverige" | relative_url }}">sverige</a> # 93</li>
+            <li> <a href="{{ "/tags/sverige" | relative_url }}">sverige</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -837,7 +837,7 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 82</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 19</li>
             <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 90</li>
         </ul>
       </td>
@@ -862,7 +862,7 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 81</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 20</li>
             <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 89</li>
         </ul>
       </td>
@@ -888,8 +888,8 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 4</li>
-            <li> <a href="{{ "/tags/svenskt" | relative_url }}">svenskt</a> # 59</li>
+            <li> <a href="{{ "/tags/svenskt" | relative_url }}">svenskt</a> # 38</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -926,8 +926,7 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 16</li>
-            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 58</li>
+            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -947,7 +946,7 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 80</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -993,7 +992,7 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 45</li>
+            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1013,7 +1012,6 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1056,9 +1054,9 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 32</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 48</li>
-            <li> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a> # 75</li>
+            <li> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a> # 25</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 53</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1097,7 +1095,7 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 80</li>
+            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1153,7 +1151,7 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 48</li>
+            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1173,7 +1171,7 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 72</li>
+            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1211,7 +1209,7 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 79</li>
+            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1233,7 +1231,7 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 22</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1294,7 +1292,7 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 36</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1314,6 +1312,7 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1378,7 +1377,6 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1397,7 +1395,7 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/svensk" | relative_url }}">svensk</a> # 93</li>
+            <li> <a href="{{ "/tags/svensk" | relative_url }}">svensk</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1463,9 +1461,9 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a> # 49</li>
-            <li> <a href="{{ "/tags/piano-jazz" | relative_url }}">piano jazz</a> # 94</li>
-            <li> <a href="{{ "/tags/piano-trio" | relative_url }}">piano trio</a> # 100</li>
+            <li> <a href="{{ "/tags/piano-trio" | relative_url }}">piano trio</a> # 1</li>
+            <li> <a href="{{ "/tags/piano-jazz" | relative_url }}">piano jazz</a> # 7</li>
+            <li> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1619,7 +1617,7 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sverige" | relative_url }}">sverige</a> # 94</li>
+            <li> <a href="{{ "/tags/sverige" | relative_url }}">sverige</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -1685,7 +1683,7 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sverige" | relative_url }}">sverige</a> # 91</li>
+            <li> <a href="{{ "/tags/sverige" | relative_url }}">sverige</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1727,9 +1725,9 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 9</li>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 49</li>
-            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 60</li>
+            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 30</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 52</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1750,7 +1748,7 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 24</li>
+            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1772,8 +1770,8 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 22</li>
-            <li> <a href="{{ "/tags/sverige" | relative_url }}">sverige</a> # 97</li>
+            <li> <a href="{{ "/tags/sverige" | relative_url }}">sverige</a> # 4</li>
+            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1833,9 +1831,9 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 79</li>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 99</li>
-            <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 99</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 2</li>
+            <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 2</li>
+            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1855,7 +1853,7 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a> # 38</li>
+            <li> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1875,7 +1873,7 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/eurovision" | relative_url }}">eurovision</a> # 69</li>
+            <li> <a href="{{ "/tags/eurovision" | relative_url }}">eurovision</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1899,7 +1897,7 @@ Swedish pop music blends infectious melodies with electronic production, creatin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 90</li>
+            <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 10</li>
         </ul>
       </td>
     </tr>
