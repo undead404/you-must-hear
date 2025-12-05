@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-27T05:18:32.015Z
+date: 2025-12-04T23:35:15.061Z
 permalink: tags/experimental-noise
 title: experimental noise
 ---
 
 ## experimental noise
 
-Last updated: <time datetime="2025-11-27T05:18:32.015Z">Thu Nov 27 2025 07:18:32 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T23:35:15.061Z">Fri Dec 05 2025 01:35:15 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -46,7 +46,7 @@ Experimental noise music is a genre of music that is often characterized by its 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 23</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -87,9 +87,9 @@ Experimental noise music is a genre of music that is often characterized by its 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a> # 45</li>
-            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 58</li>
-            <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 78</li>
+            <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 23</li>
+            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 43</li>
+            <li> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -130,7 +130,7 @@ Experimental noise music is a genre of music that is often characterized by its 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 44</li>
+            <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -225,7 +225,7 @@ Experimental noise music is a genre of music that is often characterized by its 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 2</li>
+            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -250,7 +250,7 @@ Experimental noise music is a genre of music that is often characterized by its 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 9</li>
+            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -352,7 +352,7 @@ Experimental noise music is a genre of music that is often characterized by its 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 27</li>
+            <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -379,9 +379,9 @@ Experimental noise music is a genre of music that is often characterized by its 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 26</li>
-            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 28</li>
             <li> <a href="{{ "/tags/lobit" | relative_url }}">lobit</a> # 39</li>
+            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 73</li>
+            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -443,7 +443,7 @@ Experimental noise music is a genre of music that is often characterized by its 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 75</li>
+            <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -465,7 +465,7 @@ Experimental noise music is a genre of music that is often characterized by its 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 48</li>
+            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -527,8 +527,8 @@ Experimental noise music is a genre of music that is often characterized by its 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 24</li>
             <li> <a href="{{ "/tags/dark-electronic" | relative_url }}">dark electronic</a> # 71</li>
-            <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -627,8 +627,8 @@ Experimental noise music is a genre of music that is often characterized by its 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 6</li>
-            <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 29</li>
+            <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 72</li>
+            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -677,8 +677,8 @@ Experimental noise music is a genre of music that is often characterized by its 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 42</li>
-            <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 49</li>
+            <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 52</li>
+            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -705,7 +705,7 @@ Experimental noise music is a genre of music that is often characterized by its 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 32</li>
+            <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -722,7 +722,7 @@ Experimental noise music is a genre of music that is often characterized by its 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 19</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -741,7 +741,7 @@ Experimental noise music is a genre of music that is often characterized by its 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 22</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -829,7 +829,7 @@ Experimental noise music is a genre of music that is often characterized by its 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 39</li>
+            <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -866,7 +866,7 @@ Experimental noise music is a genre of music that is often characterized by its 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 11</li>
+            <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -885,7 +885,7 @@ Experimental noise music is a genre of music that is often characterized by its 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 17</li>
+            <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -903,7 +903,7 @@ Experimental noise music is a genre of music that is often characterized by its 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 9</li>
+            <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -921,7 +921,7 @@ Experimental noise music is a genre of music that is often characterized by its 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 37</li>
+            <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -962,7 +962,7 @@ Experimental noise music is a genre of music that is often characterized by its 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 24</li>
+            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1021,7 +1021,7 @@ Experimental noise music is a genre of music that is often characterized by its 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 38</li>
+            <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1039,7 +1039,7 @@ Experimental noise music is a genre of music that is often characterized by its 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 15</li>
+            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1085,7 +1085,7 @@ Experimental noise music is a genre of music that is often characterized by its 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 41</li>
+            <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1136,7 +1136,7 @@ Experimental noise music is a genre of music that is often characterized by its 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 54</li>
+            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1258,7 +1258,7 @@ Experimental noise music is a genre of music that is often characterized by its 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 45</li>
+            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1428,8 +1428,8 @@ Experimental noise music is a genre of music that is often characterized by its 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 26</li>
-            <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 59</li>
+            <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 42</li>
+            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1456,7 +1456,7 @@ Experimental noise music is a genre of music that is often characterized by its 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 10</li>
+            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1475,7 +1475,7 @@ Experimental noise music is a genre of music that is often characterized by its 
       <td>
         <ul>
             <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 19</li>
-            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 62</li>
+            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1595,7 +1595,7 @@ Experimental noise music is a genre of music that is often characterized by its 
     <tr>
       <td>16</td>
       <td>
-          <img src="https://i.discogs.com/_pZdEoOb5ctUshNoxf_NuGGaZNddXO0zAcXI-HoNikI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4ODUw/NDItMTQ1MDg5NTU4/Ny02ODQwLmpwZWc.jpeg" alt="Cover for Kveldskråke" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fc56734fb53245628d4b36610bd4e887.png" alt="Cover for Kveldskråke" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-03-14</td>
       <td>Dau Unge</td>
@@ -1643,8 +1643,8 @@ Experimental noise music is a genre of music that is often characterized by its 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 6</li>
             <li> <a href="{{ "/tags/dark-electronic" | relative_url }}">dark electronic</a> # 17</li>
+            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1666,7 +1666,7 @@ Experimental noise music is a genre of music that is often characterized by its 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norsk" | relative_url }}">norsk</a> # 5</li>
+            <li> <a href="{{ "/tags/norsk" | relative_url }}">norsk</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1852,7 +1852,7 @@ Experimental noise music is a genre of music that is often characterized by its 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 39</li>
+            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1881,7 +1881,7 @@ Experimental noise music is a genre of music that is often characterized by its 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 16</li>
+            <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1927,7 +1927,7 @@ Experimental noise music is a genre of music that is often characterized by its 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 21</li>
+            <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1953,7 +1953,7 @@ Experimental noise music is a genre of music that is often characterized by its 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 1</li>
+            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1982,7 +1982,7 @@ Experimental noise music is a genre of music that is often characterized by its 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 51</li>
+            <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -2008,7 +2008,7 @@ Experimental noise music is a genre of music that is often characterized by its 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 12</li>
+            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -2034,8 +2034,8 @@ Experimental noise music is a genre of music that is often characterized by its 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 74</li>
-            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 86</li>
+            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 15</li>
+            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 26</li>
         </ul>
       </td>
     </tr>

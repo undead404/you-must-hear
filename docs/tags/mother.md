@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-16T08:24:41.129Z
+date: 2025-12-05T00:23:18.658Z
 permalink: tags/mother
 title: mother
 ---
 
 ## mother
 
-Last updated: <time datetime="2025-11-16T08:24:41.129Z">Sun Nov 16 2025 10:24:41 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T00:23:18.658Z">Fri Dec 05 2025 02:23:18 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -44,7 +44,7 @@ Last updated: <time datetime="2025-11-16T08:24:41.129Z">Sun Nov 16 2025 10:24:41
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 59</li>
+            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -64,7 +64,7 @@ Last updated: <time datetime="2025-11-16T08:24:41.129Z">Sun Nov 16 2025 10:24:41
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 69</li>
+            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -123,7 +123,7 @@ Last updated: <time datetime="2025-11-16T08:24:41.129Z">Sun Nov 16 2025 10:24:41
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/choir" | relative_url }}">choir</a> # 36</li>
+            <li> <a href="{{ "/tags/choir" | relative_url }}">choir</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -144,7 +144,7 @@ Last updated: <time datetime="2025-11-16T08:24:41.129Z">Sun Nov 16 2025 10:24:41
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 43</li>
+            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -188,16 +188,15 @@ Last updated: <time datetime="2025-11-16T08:24:41.129Z">Sun Nov 16 2025 10:24:41
     <tr>
       <td>25</td>
       <td>
-          <img src="https://i.discogs.com/DsiHcNAWBq3oIkTt5PGC3q-E6vEqskLOgmKGC3dN6fs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwODk3/NDMtMTYwMzUyMjI0/My00MzUzLmpwZWc.jpeg" alt="Cover for Finally Enough Love: 50 Number Ones (2022 Remasters)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eba3c729c139dd5341193a3a4eed4e50.png" alt="Cover for Finally Enough Love: 50 Number Ones (2022 Remasters)" style="max-width:120px; height:auto;" />
       </td>
       <td>1987</td>
       <td>Madonna</td>
       <td>Finally Enough Love: 50 Number Ones (2022 Remasters)</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mother" | relative_url }}">mother</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
         </ul>
       </td>
       <td>
@@ -294,7 +293,7 @@ Last updated: <time datetime="2025-11-16T08:24:41.129Z">Sun Nov 16 2025 10:24:41
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 41</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -314,7 +313,7 @@ Last updated: <time datetime="2025-11-16T08:24:41.129Z">Sun Nov 16 2025 10:24:41
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 19</li>
+            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -334,7 +333,7 @@ Last updated: <time datetime="2025-11-16T08:24:41.129Z">Sun Nov 16 2025 10:24:41
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 26</li>
+            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -354,7 +353,7 @@ Last updated: <time datetime="2025-11-16T08:24:41.129Z">Sun Nov 16 2025 10:24:41
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 39</li>
+            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -375,8 +374,8 @@ Last updated: <time datetime="2025-11-16T08:24:41.129Z">Sun Nov 16 2025 10:24:41
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 65</li>
-            <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 94</li>
+            <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 7</li>
+            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -490,7 +489,7 @@ Last updated: <time datetime="2025-11-16T08:24:41.129Z">Sun Nov 16 2025 10:24:41
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 79</li>
+            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -531,7 +530,7 @@ Last updated: <time datetime="2025-11-16T08:24:41.129Z">Sun Nov 16 2025 10:24:41
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 16</li>
+            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -606,7 +605,7 @@ Last updated: <time datetime="2025-11-16T08:24:41.129Z">Sun Nov 16 2025 10:24:41
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 14</li>
+            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -845,6 +844,7 @@ Last updated: <time datetime="2025-11-16T08:24:41.129Z">Sun Nov 16 2025 10:24:41
     <tr>
       <td>59</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/adebb5af9c6447a3bcd1ac9fbcceb17f.png" alt="Cover for Confessions On A Dance Floor (Non-Stop Mix)" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-11-11</td>
       <td>Madonna</td>
@@ -876,7 +876,7 @@ Last updated: <time datetime="2025-11-16T08:24:41.129Z">Sun Nov 16 2025 10:24:41
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 6</li>
+            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -938,7 +938,7 @@ Last updated: <time datetime="2025-11-16T08:24:41.129Z">Sun Nov 16 2025 10:24:41
     <tr>
       <td>11</td>
       <td>
-          <img src="https://i.discogs.com/nagX8aJiO3CLSpr15WKMo7z8DI3Tmywngbpz-XM8K2k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzcx/MzQtMTM3NTgzNzc1/My00NzI5LmpwZWc.jpeg" alt="Cover for Treehouse &amp; Mother Tongue (Robjn Remixes)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c6c9c96d43b34c36aae8879ffc69bb6f.png" alt="Cover for Treehouse &amp; Mother Tongue (Robjn Remixes)" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Canon Blue</td>
@@ -955,7 +955,7 @@ Last updated: <time datetime="2025-11-16T08:24:41.129Z">Sun Nov 16 2025 10:24:41
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nashville" | relative_url }}">nashville</a> # 77</li>
+            <li> <a href="{{ "/tags/nashville" | relative_url }}">nashville</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -993,7 +993,7 @@ Last updated: <time datetime="2025-11-16T08:24:41.129Z">Sun Nov 16 2025 10:24:41
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 13</li>
+            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1013,7 +1013,7 @@ Last updated: <time datetime="2025-11-16T08:24:41.129Z">Sun Nov 16 2025 10:24:41
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 30</li>
+            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1033,7 +1033,7 @@ Last updated: <time datetime="2025-11-16T08:24:41.129Z">Sun Nov 16 2025 10:24:41
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 33</li>
+            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1053,14 +1053,14 @@ Last updated: <time datetime="2025-11-16T08:24:41.129Z">Sun Nov 16 2025 10:24:41
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 49</li>
+            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>82</td>
       <td>
-          <img src="https://i.discogs.com/SHI6RmU7GvQd5HHGUhBxA9uhC9_vTD9I54hM494s4RU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NTIz/MjAtMTQ5MDY2NzI1/MC0zMTA5LmpwZWc.jpeg" alt="Cover for Finally Enough Love: 50 Number Ones" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3714e9479fe6d40d79946d3017231126.png" alt="Cover for Finally Enough Love: 50 Number Ones" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Madonna</td>
@@ -1074,7 +1074,7 @@ Last updated: <time datetime="2025-11-16T08:24:41.129Z">Sun Nov 16 2025 10:24:41
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 78</li>
+            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1241,7 +1241,7 @@ Last updated: <time datetime="2025-11-16T08:24:41.129Z">Sun Nov 16 2025 10:24:41
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 40</li>
+            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1356,7 +1356,7 @@ Last updated: <time datetime="2025-11-16T08:24:41.129Z">Sun Nov 16 2025 10:24:41
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/qTXeAxeIhuwg8tJbUSpcUsSY0GeJTiv3okULyvrESG4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NjY1/MzgtMTQ4NzYxOTgx/NC0zMDkwLmpwZWc.jpeg" alt="Cover for True Blue (35th Anniversary Edition)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c54546807a7e201076012123741b13b4.png" alt="Cover for True Blue (35th Anniversary Edition)" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-03-06</td>
       <td>Madonna</td>
@@ -1388,7 +1388,7 @@ Last updated: <time datetime="2025-11-16T08:24:41.129Z">Sun Nov 16 2025 10:24:41
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 75</li>
+            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1483,7 +1483,7 @@ Last updated: <time datetime="2025-11-16T08:24:41.129Z">Sun Nov 16 2025 10:24:41
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 65</li>
+            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1734,10 +1734,10 @@ Last updated: <time datetime="2025-11-16T08:24:41.129Z">Sun Nov 16 2025 10:24:41
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 9</li>
-            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 23</li>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 25</li>
-            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 87</li>
+            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 14</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 57</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 67</li>
+            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1783,10 +1783,10 @@ Last updated: <time datetime="2025-11-16T08:24:41.129Z">Sun Nov 16 2025 10:24:41
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 15</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 34</li>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 69</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 85</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 13</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 21</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 67</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 73</li>
             <li> <a href="{{ "/tags/punk-pop" | relative_url }}">punk pop</a> # 99</li>
         </ul>
       </td>
@@ -1794,7 +1794,7 @@ Last updated: <time datetime="2025-11-16T08:24:41.129Z">Sun Nov 16 2025 10:24:41
     <tr>
       <td>73</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1f2035c855ce3e5c53f2f908a5dc9d5c.png" alt="Cover for Radical Optimism" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/787b99ed519694d755514a27a5ce3735.png" alt="Cover for Radical Optimism" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-05-03</td>
       <td>Dua Lipa</td>
@@ -1806,8 +1806,9 @@ Last updated: <time datetime="2025-11-16T08:24:41.129Z">Sun Nov 16 2025 10:24:41
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 40</li>
-            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 68</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 49</li>
+            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 69</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 88</li>
         </ul>
       </td>
     </tr>

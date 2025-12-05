@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T20:35:45.568Z
+date: 2025-12-05T00:06:43.754Z
 permalink: tags/mass
 title: mass
 ---
 
 ## mass
 
-Last updated: <time datetime="2025-10-28T20:35:45.568Z">Tue Oct 28 2025 22:35:45 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T00:06:43.754Z">Fri Dec 05 2025 02:06:43 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -211,8 +211,8 @@ A mass is a musical setting of the Catholic liturgy, typically featuring the Kyr
       <td>
         <ul>
             <li> <a href="{{ "/tags/czech-classical" | relative_url }}">czech classical</a> # 4</li>
-            <li> <a href="{{ "/tags/late-romantic" | relative_url }}">late romantic</a> # 26</li>
             <li> <a href="{{ "/tags/classical-composer" | relative_url }}">classical composer</a> # 66</li>
+            <li> <a href="{{ "/tags/late-romantic" | relative_url }}">late romantic</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -307,7 +307,7 @@ A mass is a musical setting of the Catholic liturgy, typically featuring the Kyr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/late-romantic" | relative_url }}">late romantic</a> # 21</li>
+            <li> <a href="{{ "/tags/late-romantic" | relative_url }}">late romantic</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -325,9 +325,9 @@ A mass is a musical setting of the Catholic liturgy, typically featuring the Kyr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/late-romantic" | relative_url }}">late romantic</a> # 36</li>
+            <li> <a href="{{ "/tags/requiem" | relative_url }}">requiem</a> # 11</li>
+            <li> <a href="{{ "/tags/late-romantic" | relative_url }}">late romantic</a> # 65</li>
             <li> <a href="{{ "/tags/classical-composer" | relative_url }}">classical composer</a> # 88</li>
-            <li> <a href="{{ "/tags/requiem" | relative_url }}">requiem</a> # 90</li>
             <li> <a href="{{ "/tags/czech-classical" | relative_url }}">czech classical</a> # 99</li>
         </ul>
       </td>
@@ -498,8 +498,8 @@ A mass is a musical setting of the Catholic liturgy, typically featuring the Kyr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 41</li>
-            <li> <a href="{{ "/tags/requiem" | relative_url }}">requiem</a> # 57</li>
+            <li> <a href="{{ "/tags/requiem" | relative_url }}">requiem</a> # 44</li>
+            <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -595,7 +595,7 @@ A mass is a musical setting of the Catholic liturgy, typically featuring the Kyr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/requiem" | relative_url }}">requiem</a> # 99</li>
+            <li> <a href="{{ "/tags/requiem" | relative_url }}">requiem</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -673,7 +673,7 @@ A mass is a musical setting of the Catholic liturgy, typically featuring the Kyr
       <td>
         <ul>
             <li> <a href="{{ "/tags/classical-composer" | relative_url }}">classical composer</a> # 14</li>
-            <li> <a href="{{ "/tags/requiem" | relative_url }}">requiem</a> # 67</li>
+            <li> <a href="{{ "/tags/requiem" | relative_url }}">requiem</a> # 34</li>
             <li> <a href="{{ "/tags/czech-classical" | relative_url }}">czech classical</a> # 80</li>
         </ul>
       </td>
@@ -922,7 +922,7 @@ A mass is a musical setting of the Catholic liturgy, typically featuring the Kyr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sacred" | relative_url }}">sacred</a> # 61</li>
+            <li> <a href="{{ "/tags/sacred" | relative_url }}">sacred</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -964,8 +964,8 @@ A mass is a musical setting of the Catholic liturgy, typically featuring the Kyr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/requiem" | relative_url }}">requiem</a> # 75</li>
-            <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 84</li>
+            <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 17</li>
+            <li> <a href="{{ "/tags/requiem" | relative_url }}">requiem</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1164,7 +1164,7 @@ A mass is a musical setting of the Catholic liturgy, typically featuring the Kyr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 64</li>
+            <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1203,8 +1203,8 @@ A mass is a musical setting of the Catholic liturgy, typically featuring the Kyr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 32</li>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 46</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 55</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1238,10 +1238,10 @@ A mass is a musical setting of the Catholic liturgy, typically featuring the Kyr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 3</li>
-            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 5</li>
-            <li> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a> # 34</li>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 55</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 46</li>
+            <li> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a> # 67</li>
+            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 96</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1497,7 +1497,7 @@ A mass is a musical setting of the Catholic liturgy, typically featuring the Kyr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/requiem" | relative_url }}">requiem</a> # 49</li>
+            <li> <a href="{{ "/tags/requiem" | relative_url }}">requiem</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1543,8 +1543,8 @@ A mass is a musical setting of the Catholic liturgy, typically featuring the Kyr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/requiem" | relative_url }}">requiem</a> # 1</li>
-            <li> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a> # 57</li>
+            <li> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a> # 44</li>
+            <li> <a href="{{ "/tags/requiem" | relative_url }}">requiem</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1637,7 +1637,7 @@ A mass is a musical setting of the Catholic liturgy, typically featuring the Kyr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/late-romantic" | relative_url }}">late romantic</a> # 32</li>
+            <li> <a href="{{ "/tags/late-romantic" | relative_url }}">late romantic</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1662,7 +1662,7 @@ A mass is a musical setting of the Catholic liturgy, typically featuring the Kyr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trip" | relative_url }}">trip</a> # 47</li>
+            <li> <a href="{{ "/tags/trip" | relative_url }}">trip</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1699,7 +1699,7 @@ A mass is a musical setting of the Catholic liturgy, typically featuring the Kyr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/requiem" | relative_url }}">requiem</a> # 22</li>
+            <li> <a href="{{ "/tags/requiem" | relative_url }}">requiem</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1806,6 +1806,7 @@ A mass is a musical setting of the Catholic liturgy, typically featuring the Kyr
     <tr>
       <td>53</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf8966aec948f10c1cbacb1189caaa26.png" alt="Cover for Art Is Life" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>j-rad [o_x]</td>

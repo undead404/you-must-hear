@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-24T23:18:25.012Z
+date: 2025-12-04T23:50:52.149Z
 permalink: tags/doujin-ongaku
 title: doujin ongaku
 ---
 
 ## doujin ongaku
 
-Last updated: <time datetime="2025-10-24T23:18:25.012Z">Sat Oct 25 2025 02:18:25 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-04T23:50:52.149Z">Fri Dec 05 2025 01:50:52 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,7 +31,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/pVjf6F2mELuLRJpR1g3AK3mcjvziMUJ3gHhzoDEFKe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE3/LTE2NDc5NjEwMDgt/NjcwMS5qcGVn.jpeg" alt="Cover for Harmonoize" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d476c796f95fae995213a912bf7370d4.png" alt="Cover for Harmonoize" style="max-width:120px; height:auto;" />
       </td>
       <td>1977</td>
       <td>Various Artists</td>
@@ -47,8 +47,8 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 19</li>
             <li> <a href="{{ "/tags/j-core" | relative_url }}">j-core</a> # 78</li>
+            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -128,6 +128,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
     <tr>
       <td>50</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ce7336a817f32bbf95678c350a9612ac.png" alt="Cover for 月の蝕" style="max-width:120px; height:auto;" />
       </td>
       <td>1993-06-10</td>
       <td>黒百合姉妹</td>
@@ -145,7 +146,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
     <tr>
       <td>31</td>
       <td>
-          <img src="https://i.discogs.com/hq5MW_kwZh0LwBcRsrAJiyz30cG90DCW6oNwKUI_7Sk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNDQw/MDEtMTQzMjQwMzIw/My04NTIwLmpwZWc.jpeg" alt="Cover for 13-The wing I was given-" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/221e83d49b3140ecb4c6202da05212fe.png" alt="Cover for 13-The wing I was given-" style="max-width:120px; height:auto;" />
       </td>
       <td>1994</td>
       <td>Ether</td>
@@ -165,7 +166,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
     <tr>
       <td>1</td>
       <td>
-          <img src="https://i.discogs.com/EnHlFtF86eQvGfk2d8C6fis-0Bj1VdtrExxFOAOOxlY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTQw/NzAtMTMwMTMzMjgz/My5qcGVn.jpeg" alt="Cover for All Things Are Quite Silent" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a3e9905acece07f2a332cf09a8bdf24c.png" alt="Cover for All Things Are Quite Silent" style="max-width:120px; height:auto;" />
       </td>
       <td>1994-12-01</td>
       <td>JURI et LISA</td>
@@ -179,7 +180,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 27</li>
+            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -236,11 +237,11 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 28</li>
-            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 55</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 73</li>
-            <li> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a> # 83</li>
-            <li> <a href="{{ "/tags/rechtsrock" | relative_url }}">rechtsrock</a> # 94</li>
+            <li> <a href="{{ "/tags/rechtsrock" | relative_url }}">rechtsrock</a> # 7</li>
+            <li> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a> # 18</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 28</li>
+            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 47</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -266,7 +267,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
     <tr>
       <td>37</td>
       <td>
-          <img src="https://i.discogs.com/0SlZmfQ03XAxiGkaPXMRTL8a0-33CTqnCYxZU9DXd1M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDI4/NDYtMTQxODQ4Nzky/My0yMDY5LmpwZWc.jpeg" alt="Cover for Umbalance" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1fc4ad9139c34f78ab3de2ebcbbb80c5.png" alt="Cover for Umbalance" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Ether</td>
@@ -336,20 +337,20 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 26</li>
-            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 81</li>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 89</li>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 90</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 93</li>
-            <li> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a> # 97</li>
-            <li> <a href="{{ "/tags/rechtsrock" | relative_url }}">rechtsrock</a> # 98</li>
+            <li> <a href="{{ "/tags/rechtsrock" | relative_url }}">rechtsrock</a> # 3</li>
+            <li> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a> # 4</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 8</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 10</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 12</li>
+            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 19</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>90</td>
       <td>
-          <img src="https://i.discogs.com/gidm4O-PRRo5Jbm3Jc57AxQ05cwVfuKfQIdc6q0k1t0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjcy/NTgxLTE2Mzg5NTkz/NDMtNDQ4OS5qcGVn.jpeg" alt="Cover for Thanks &#x2F; you" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0cbb57388dfd49a4a43dc7aa79dfb365.png" alt="Cover for Thanks &#x2F; you" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-08-13</td>
       <td>Dai</td>
@@ -385,7 +386,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a> # 95</li>
+            <li> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -419,8 +420,8 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 21</li>
-            <li> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a> # 78</li>
+            <li> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a> # 23</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -553,7 +554,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a> # 85</li>
+            <li> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -639,6 +640,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
     <tr>
       <td>97</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f1afe4b8d05041bb87cc965de2b06566.png" alt="Cover for Collapse of the sky" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-08-14</td>
       <td>ゆよゆっぺ</td>
@@ -728,10 +730,10 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a> # 32</li>
-            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 42</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 53</li>
-            <li> <a href="{{ "/tags/rechtsrock" | relative_url }}">rechtsrock</a> # 81</li>
+            <li> <a href="{{ "/tags/rechtsrock" | relative_url }}">rechtsrock</a> # 20</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 43</li>
+            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 60</li>
+            <li> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -796,7 +798,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
     <tr>
       <td>77</td>
       <td>
-          <img src="https://i.discogs.com/lKDOMOLXbW0poBb0X5qpAr1HVl0FkQaI-sCKaWigKkM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDc2/NDQ0LTE2MTM2Njcw/NzMtNzMwMi5qcGVn.jpeg" alt="Cover for 愛憎悲哀カタルシス" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0a2d96ea6764079f4cbd057cc66c921e.png" alt="Cover for 愛憎悲哀カタルシス" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-10-30</td>
       <td>Ariabl&#39;eyeS</td>
@@ -836,7 +838,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
     <tr>
       <td>53</td>
       <td>
-          <img src="https://i.discogs.com/xBTSS3QBSFyEtv0lPWZzQvZymQI045qYraFh57mbWfA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNjAw/MDYtMTQ3OTIyNzcy/NS02Mjk0LnBuZw.jpeg" alt="Cover for Michno-sequence" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/335ad8795a094dcbcde7a7331016fa54.png" alt="Cover for Michno-sequence" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-07-08</td>
       <td>Camellia</td>
@@ -878,7 +880,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
     <tr>
       <td>33</td>
       <td>
-          <img src="https://i.discogs.com/gubxXES8Bm2q6-TdzIxVMlVEmwIv_vQ96qzPEuPGx1U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Njg1/MTE2LTE2ODk0NDgz/MTItNTk5Ni5qcGVn.jpeg" alt="Cover for 幻葬図書館" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/34cc17617edf468daa435d1be9ed6c57.png" alt="Cover for 幻葬図書館" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-12-30</td>
       <td>sound sepher</td>
@@ -929,12 +931,12 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 70</li>
-            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 75</li>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 80</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 88</li>
-            <li> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a> # 96</li>
-            <li> <a href="{{ "/tags/rechtsrock" | relative_url }}">rechtsrock</a> # 97</li>
+            <li> <a href="{{ "/tags/rechtsrock" | relative_url }}">rechtsrock</a> # 4</li>
+            <li> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a> # 5</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 13</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 20</li>
+            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 25</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -961,7 +963,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
     <tr>
       <td>11</td>
       <td>
-          <img src="https://i.discogs.com/X9IN2Ut18YisTjXA9JiPGZgdYz1qm-jaRpqPl_GyFm0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NzQ4/NDctMTUzMzA3MTI4/OC02Mzc5LmpwZWc.jpeg" alt="Cover for RAVER&#39;S NEST 1 TOHO RAVE PARTY" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/257051cca9584820c8005b9da4ee8147.png" alt="Cover for RAVER&#39;S NEST 1 TOHO RAVE PARTY" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-08-12</td>
       <td>DiGiTAL WiNG</td>
@@ -1002,7 +1004,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
     <tr>
       <td>48</td>
       <td>
-          <img src="https://i.discogs.com/q7K5EoR0pnYQbKL-5dh903rEHK3epAlG8djhrXAXvZM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzQw/MjE4LTE1NzI1NTE2/OTgtMjY5My5qcGVn.jpeg" alt="Cover for Persona" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/97c6a1197509400ab3cd6ee9312a1574.png" alt="Cover for Persona" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-10-27</td>
       <td>Eine Kleine</td>
@@ -1021,7 +1023,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
     <tr>
       <td>34</td>
       <td>
-          <img src="https://i.discogs.com/X9IN2Ut18YisTjXA9JiPGZgdYz1qm-jaRpqPl_GyFm0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NzQ4/NDctMTUzMzA3MTI4/OC02Mzc5LmpwZWc.jpeg" alt="Cover for RAVER&#39;S NEST 2 TOHO RAVE PARTY" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1faec1e0e2ad4bd5cbbcd01597b9c281.png" alt="Cover for RAVER&#39;S NEST 2 TOHO RAVE PARTY" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-12-30</td>
       <td>DiGiTAL WiNG</td>
@@ -1061,7 +1063,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
     <tr>
       <td>44</td>
       <td>
-          <img src="https://i.discogs.com/dsxx9k_Zb0PR9gqSXIqRIat5vB2fyAAvuJAjcnGcsG4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDA3/ODQyLTE2MTkwOTQx/MDEtMzE4Ny5qcGVn.jpeg" alt="Cover for Gebet" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a0b4d0cb42a43ec8b523311ccc962f4.png" alt="Cover for Gebet" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-08-17</td>
       <td>Resonecia</td>
@@ -1097,7 +1099,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/eurobeat" | relative_url }}">eurobeat</a> # 18</li>
+            <li> <a href="{{ "/tags/eurobeat" | relative_url }}">eurobeat</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1145,7 +1147,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
     <tr>
       <td>69</td>
       <td>
-          <img src="https://i.discogs.com/X9IN2Ut18YisTjXA9JiPGZgdYz1qm-jaRpqPl_GyFm0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NzQ4/NDctMTUzMzA3MTI4/OC02Mzc5LmpwZWc.jpeg" alt="Cover for RAVER&#39;S NEST 3 TOHO RAVE PARTY" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2a4765189f3f4effceb34374fbca4f0b.png" alt="Cover for RAVER&#39;S NEST 3 TOHO RAVE PARTY" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-12-30</td>
       <td>DiGiTAL WiNG</td>
@@ -1161,14 +1163,14 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a> # 18</li>
+            <li> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>71</td>
       <td>
-          <img src="https://i.discogs.com/9pecywxUw-TKs-lDs4weAIHlPbRqjWF4RcunZiv9kjU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Nzc1/MzI2LTE2OTAyNTU3/MTgtMzU2Ny5qcGVn.jpeg" alt="Cover for the note of satanism" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fd4b2709716141d0acb95c95f7b037a2.png" alt="Cover for the note of satanism" style="max-width:120px; height:auto;" />
       </td>
       <td>2017</td>
       <td>Love Solfege</td>
@@ -1313,7 +1315,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a> # 24</li>
+            <li> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1397,13 +1399,14 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a> # 14</li>
+            <li> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>79</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/22a43168edd84a28ca27cc2a03ee6d4c.png" alt="Cover for DANCE with WOLVES" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>発熱巫女～ず</td>
@@ -1419,7 +1422,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a> # 47</li>
+            <li> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1439,7 +1442,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a> # 77</li>
+            <li> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1459,7 +1462,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a> # 50</li>
+            <li> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1481,13 +1484,14 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a> # 56</li>
+            <li> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a> # 45</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>85</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7c491ca0f17c45f7b3417230ed38a7fc.png" alt="Cover for napitas" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Pulot</td>
@@ -1502,7 +1506,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a> # 57</li>
+            <li> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1524,7 +1528,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a> # 67</li>
+            <li> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1548,6 +1552,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
     <tr>
       <td>8</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4d5552ce95c34728a147b45dc3422a75.png" alt="Cover for 箱庭トライアングル" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>星名優子</td>
@@ -1584,6 +1589,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
     <tr>
       <td>15</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a05deba672e409ce0c12a9fd9e53c58.png" alt="Cover for To be continued" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Armelyrics</td>
@@ -1659,6 +1665,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
     <tr>
       <td>21</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/88ecafd24a5c490aa942ff53f5fb9db9.png" alt="Cover for 空の足あと" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>空色絵本</td>
@@ -1748,6 +1755,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
     <tr>
       <td>32</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e59755d0f1dd4e668087b56a83a744dd.png" alt="Cover for Ale &amp; Malt" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Casket &amp; 荒御霊</td>
@@ -1803,6 +1811,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
     <tr>
       <td>41</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/79e408813c5aa9b7fdb72de3bc6f2ca9.png" alt="Cover for wired" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>anoare</td>
@@ -1844,6 +1853,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
     <tr>
       <td>43</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f0e62e59afa14a4a9d460d290183c71e.png" alt="Cover for a la mode" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>葉月ゆら×月子 (La Bella Luna)</td>
@@ -1863,6 +1873,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
     <tr>
       <td>45</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e30026cf32b14e299b8c22900184a1d8.png" alt="Cover for ファンシー★エレクトリカルパレード！" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Highend Color</td>
@@ -1881,6 +1892,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
     <tr>
       <td>47</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/541149f00af7c44ed20c8ae5eef3cba2.png" alt="Cover for 天の極み 海の深さ" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>黒百合姉妹</td>
@@ -1971,6 +1983,7 @@ Doujin ongaku refers to independent, self-published music originating from Japan
     <tr>
       <td>65</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5717e2da1f64ee9e5dcd098d1b82c0c6.png" alt="Cover for AMETHYST" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Emille&#39;s Moonlight Serenade</td>
