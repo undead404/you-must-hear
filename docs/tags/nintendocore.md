@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T03:38:34.444Z
+date: 2025-12-05T09:56:02.890Z
 permalink: tags/nintendocore
 title: nintendocore
 ---
 
 ## nintendocore
 
-Last updated: <time datetime="2025-12-03T03:38:34.444Z">Wed Dec 03 2025 05:38:34 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T09:56:02.890Z">Fri Dec 05 2025 11:56:02 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -145,11 +145,11 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-zealand" | relative_url }}">new zealand</a> # 6</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 19</li>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 23</li>
-            <li> <a href="{{ "/tags/new-jack-swing" | relative_url }}">new jack swing</a> # 24</li>
-            <li> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a> # 76</li>
+            <li> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a> # 25</li>
+            <li> <a href="{{ "/tags/new-jack-swing" | relative_url }}">new jack swing</a> # 77</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 78</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 81</li>
+            <li> <a href="{{ "/tags/new-zealand" | relative_url }}">new zealand</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -171,7 +171,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 32</li>
+            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 69</li>
             <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 74</li>
         </ul>
       </td>
@@ -247,7 +247,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-metal" | relative_url }}">instrumental metal</a> # 51</li>
+            <li> <a href="{{ "/tags/instrumental-metal" | relative_url }}">instrumental metal</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -269,7 +269,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 22</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -328,8 +328,8 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 39</li>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 63</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 38</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -352,8 +352,8 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 16</li>
-            <li> <a href="{{ "/tags/instrumental-metal" | relative_url }}">instrumental metal</a> # 92</li>
+            <li> <a href="{{ "/tags/instrumental-metal" | relative_url }}">instrumental metal</a> # 9</li>
+            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -376,8 +376,8 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 12</li>
-            <li> <a href="{{ "/tags/instrumental-metal" | relative_url }}">instrumental metal</a> # 90</li>
+            <li> <a href="{{ "/tags/instrumental-metal" | relative_url }}">instrumental metal</a> # 11</li>
+            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -417,8 +417,9 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 61</li>
-            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 77</li>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 24</li>
+            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 40</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -456,7 +457,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 30</li>
+            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -475,9 +476,9 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 60</li>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 76</li>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 91</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 10</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 25</li>
+            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -496,7 +497,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 8</li>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -535,7 +536,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 22</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -556,7 +557,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 31</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -575,9 +576,9 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 2</li>
             <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 26</li>
-            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 46</li>
-            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 99</li>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -595,7 +596,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 78</li>
+            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -619,9 +620,9 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 39</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 73</li>
-            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 86</li>
+            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 15</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 26</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -664,8 +665,8 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 27</li>
-            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 92</li>
+            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 9</li>
+            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -685,7 +686,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 85</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -741,8 +742,8 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 12</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 93</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 8</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -762,7 +763,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 78</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -782,7 +783,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 84</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -823,9 +824,9 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 21</li>
-            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 58</li>
-            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 73</li>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 28</li>
+            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 41</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 80</li>
             <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 83</li>
         </ul>
       </td>
@@ -846,7 +847,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 78</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -867,7 +868,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 31</li>
+            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -997,8 +998,8 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 1</li>
             <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 39</li>
-            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1063,7 +1064,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 76</li>
+            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1083,7 +1084,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 23</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1101,7 +1102,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-opera" | relative_url }}">rock opera</a> # 91</li>
+            <li> <a href="{{ "/tags/rock-opera" | relative_url }}">rock opera</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1142,7 +1143,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a> # 80</li>
+            <li> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1232,7 +1233,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 41</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1295,7 +1296,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a> # 76</li>
+            <li> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1316,7 +1317,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 24</li>
+            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1339,7 +1340,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 56</li>
+            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1401,7 +1402,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a> # 75</li>
+            <li> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1428,7 +1429,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 45</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1446,8 +1447,8 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 48</li>
-            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 66</li>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 35</li>
+            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1468,9 +1469,9 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 29</li>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 88</li>
-            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 92</li>
+            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 8</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 13</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1493,7 +1494,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 47</li>
+            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 54</li>
             <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 66</li>
         </ul>
       </td>
@@ -1522,9 +1523,9 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 65</li>
-            <li> <a href="{{ "/tags/liquid-funk" | relative_url }}">liquid funk</a> # 65</li>
-            <li> <a href="{{ "/tags/neurofunk" | relative_url }}">neurofunk</a> # 79</li>
+            <li> <a href="{{ "/tags/neurofunk" | relative_url }}">neurofunk</a> # 22</li>
+            <li> <a href="{{ "/tags/liquid-funk" | relative_url }}">liquid funk</a> # 36</li>
+            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1551,8 +1552,8 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 67</li>
-            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 81</li>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 19</li>
+            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1637,7 +1638,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 14</li>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1719,13 +1720,13 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 2</li>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 14</li>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 28</li>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 40</li>
-            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 50</li>
-            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 85</li>
-            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 90</li>
+            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 11</li>
+            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 16</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 49</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 58</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 71</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 86</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1773,9 +1774,9 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 7</li>
-            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 26</li>
-            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 69</li>
+            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 32</li>
+            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 75</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1801,7 +1802,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-metal" | relative_url }}">instrumental metal</a> # 49</li>
+            <li> <a href="{{ "/tags/instrumental-metal" | relative_url }}">instrumental metal</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1900,8 +1901,8 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 37</li>
-            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 85</li>
+            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 16</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1926,9 +1927,9 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 34</li>
+            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 18</li>
             <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 35</li>
-            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 83</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1950,8 +1951,8 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 16</li>
-            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 79</li>
+            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 22</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1972,7 +1973,7 @@ Nintendocore fuses aggressive metalcore and post-hardcore with 8-bit video game 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/demoscene" | relative_url }}">demoscene</a> # 22</li>
+            <li> <a href="{{ "/tags/demoscene" | relative_url }}">demoscene</a> # 79</li>
         </ul>
       </td>
     </tr>

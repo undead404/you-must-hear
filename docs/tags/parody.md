@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T03:39:51.324Z
+date: 2025-12-05T09:57:54.354Z
 permalink: tags/parody
 title: parody
 ---
 
 ## parody
 
-Last updated: <time datetime="2025-12-03T03:39:51.324Z">Wed Dec 03 2025 05:39:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T09:57:54.354Z">Fri Dec 05 2025 11:57:54 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -130,7 +130,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 23</li>
+            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -152,8 +152,8 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musical-theater" | relative_url }}">musical theater</a> # 86</li>
-            <li> <a href="{{ "/tags/showtune" | relative_url }}">showtune</a> # 98</li>
+            <li> <a href="{{ "/tags/showtune" | relative_url }}">showtune</a> # 3</li>
+            <li> <a href="{{ "/tags/musical-theater" | relative_url }}">musical theater</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -174,7 +174,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 5</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -193,8 +193,8 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 56</li>
-            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 66</li>
+            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 35</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -216,7 +216,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 33</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -235,7 +235,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 71</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -256,7 +256,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 14</li>
+            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -276,7 +276,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 40</li>
+            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -330,9 +330,9 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 17</li>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 58</li>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 68</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 33</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 43</li>
+            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -356,7 +356,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 15</li>
+            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -374,7 +374,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 58</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -431,7 +431,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 55</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -450,7 +450,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 86</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -468,7 +468,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagode" | relative_url }}">pagode</a> # 83</li>
+            <li> <a href="{{ "/tags/pagode" | relative_url }}">pagode</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -505,11 +505,11 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 54</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 73</li>
-            <li> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a> # 83</li>
-            <li> <a href="{{ "/tags/rechtsrock" | relative_url }}">rechtsrock</a> # 94</li>
-            <li> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a> # 94</li>
+            <li> <a href="{{ "/tags/rechtsrock" | relative_url }}">rechtsrock</a> # 7</li>
+            <li> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a> # 7</li>
+            <li> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a> # 18</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 28</li>
+            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -554,7 +554,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 64</li>
+            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -610,13 +610,13 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 30</li>
-            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 82</li>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 89</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 93</li>
-            <li> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a> # 97</li>
-            <li> <a href="{{ "/tags/rechtsrock" | relative_url }}">rechtsrock</a> # 98</li>
-            <li> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a> # 100</li>
+            <li> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a> # 1</li>
+            <li> <a href="{{ "/tags/rechtsrock" | relative_url }}">rechtsrock</a> # 3</li>
+            <li> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a> # 4</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 8</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 12</li>
+            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 19</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -653,7 +653,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 85</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -709,8 +709,8 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 26</li>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 78</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 23</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -730,7 +730,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 23</li>
+            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -762,12 +762,12 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 1</li>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 22</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 33</li>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 49</li>
-            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 54</li>
-            <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 86</li>
+            <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 15</li>
+            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 47</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 52</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 67</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 79</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -788,7 +788,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 20</li>
+            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -862,7 +862,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 93</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -920,7 +920,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 28</li>
+            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1019,7 +1019,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 38</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1038,7 +1038,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 92</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1072,8 +1072,8 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a> # 78</li>
-            <li> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a> # 92</li>
+            <li> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a> # 9</li>
+            <li> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1095,7 +1095,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 57</li>
+            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1131,9 +1131,9 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 10</li>
-            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 19</li>
-            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 27</li>
+            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 74</li>
+            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 82</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1255,7 +1255,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 29</li>
+            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1311,12 +1311,12 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 70</li>
-            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 76</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 88</li>
-            <li> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a> # 96</li>
-            <li> <a href="{{ "/tags/rechtsrock" | relative_url }}">rechtsrock</a> # 97</li>
-            <li> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a> # 99</li>
+            <li> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a> # 2</li>
+            <li> <a href="{{ "/tags/rechtsrock" | relative_url }}">rechtsrock</a> # 4</li>
+            <li> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a> # 5</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 13</li>
+            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 25</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1396,16 +1396,16 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 6</li>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 8</li>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 19</li>
-            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 19</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 36</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 36</li>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 43</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 44</li>
+            <li> <a href="{{ "/tags/patriotic" | relative_url }}">patriotic</a> # 8</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 57</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 58</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 65</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 65</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 71</li>
-            <li> <a href="{{ "/tags/patriotic" | relative_url }}">patriotic</a> # 93</li>
+            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 80</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 82</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 93</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1423,13 +1423,13 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 3</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 19</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 21</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 23</li>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 24</li>
+            <li> <a href="{{ "/tags/patriotic" | relative_url }}">patriotic</a> # 13</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 77</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 78</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 80</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 82</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 84</li>
-            <li> <a href="{{ "/tags/patriotic" | relative_url }}">patriotic</a> # 88</li>
+            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1470,7 +1470,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 25</li>
+            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1503,15 +1503,15 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/rechtsrock" | relative_url }}">rechtsrock</a> # 1</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 3</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 6</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 14</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 28</li>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 41</li>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 47</li>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 59</li>
-            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 65</li>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 87</li>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 95</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 98</li>
-            <li> <a href="{{ "/tags/rechtsrock" | relative_url }}">rechtsrock</a> # 100</li>
+            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 35</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 42</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 54</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1533,9 +1533,9 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 3</li>
-            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 64</li>
-            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 68</li>
+            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 33</li>
+            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 35</li>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1576,9 +1576,9 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 76</li>
-            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 95</li>
-            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 100</li>
+            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 1</li>
+            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 6</li>
+            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1604,8 +1604,8 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 37</li>
-            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 82</li>
+            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 19</li>
+            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1623,9 +1623,9 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 7</li>
-            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 19</li>
-            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 30</li>
+            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 71</li>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 82</li>
+            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1685,9 +1685,9 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 74</li>
-            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 93</li>
-            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 99</li>
+            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 2</li>
+            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 8</li>
+            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1705,8 +1705,8 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 82</li>
-            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 98</li>
+            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 3</li>
+            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1730,7 +1730,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 55</li>
+            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1752,8 +1752,8 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 44</li>
-            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 87</li>
+            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 14</li>
+            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1779,7 +1779,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 16</li>
+            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1858,7 +1858,7 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 77</li>
+            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1921,25 +1921,25 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 4</li>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 5</li>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 7</li>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 11</li>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 26</li>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 40</li>
-            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 41</li>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 52</li>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 53</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 62</li>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 67</li>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 69</li>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 71</li>
-            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 72</li>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 75</li>
-            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 76</li>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 78</li>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 86</li>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 98</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 3</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 15</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 23</li>
+            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 25</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 26</li>
+            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 29</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 30</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 32</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 34</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 36</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 48</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 49</li>
+            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 60</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 61</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 75</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 90</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 94</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 96</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1957,13 +1957,13 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 5</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 21</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 24</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 25</li>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 28</li>
+            <li> <a href="{{ "/tags/patriotic" | relative_url }}">patriotic</a> # 12</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 73</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 76</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 77</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 80</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 83</li>
-            <li> <a href="{{ "/tags/patriotic" | relative_url }}">patriotic</a> # 89</li>
+            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -2102,8 +2102,8 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 6</li>
-            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 43</li>
+            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 58</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -2120,16 +2120,16 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 2</li>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 4</li>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 14</li>
-            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 16</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 32</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 32</li>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 38</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 42</li>
+            <li> <a href="{{ "/tags/patriotic" | relative_url }}">patriotic</a> # 9</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 59</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 63</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 69</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 69</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 73</li>
-            <li> <a href="{{ "/tags/patriotic" | relative_url }}">patriotic</a> # 92</li>
+            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 83</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 87</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 97</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -2160,10 +2160,10 @@ Parody music recreates recognizable songs or musical styles with altered lyrics 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 13</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 16</li>
-            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 17</li>
-            <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 79</li>
+            <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 22</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 84</li>
+            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 84</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 88</li>
         </ul>
       </td>
     </tr>

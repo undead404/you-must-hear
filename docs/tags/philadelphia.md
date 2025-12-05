@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T03:41:52.576Z
+date: 2025-12-05T10:01:45.942Z
 permalink: tags/philadelphia
 title: philadelphia
 ---
 
 ## philadelphia
 
-Last updated: <time datetime="2025-12-03T03:41:52.576Z">Wed Dec 03 2025 05:41:52 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T10:01:45.942Z">Fri Dec 05 2025 12:01:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
   </thead>
   <tbody>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/27a8380398269f7507ad46e6e9062bf8.png" alt="Cover for Back Stabbers" style="max-width:120px; height:auto;" />
       </td>
@@ -43,13 +43,13 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/motown" | relative_url }}">motown</a> # 20</li>
-            <li> <a href="{{ "/tags/philly-soul" | relative_url }}">philly soul</a> # 26</li>
+            <li> <a href="{{ "/tags/philly-soul" | relative_url }}">philly soul</a> # 75</li>
+            <li> <a href="{{ "/tags/motown" | relative_url }}">motown</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/07189031d9935ecd902f2d4c2e12eb93.png" alt="Cover for The Jacksons" style="max-width:120px; height:auto;" />
       </td>
@@ -68,7 +68,7 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
       </td>
       <td>1978-04-07</td>
@@ -85,7 +85,7 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3747d0e87f1314a4764a3f18300b96e9.png" alt="Cover for Paradise" style="max-width:120px; height:auto;" />
       </td>
@@ -102,7 +102,7 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/SgghnNBxRZDVWcPi7kAspPEjFLBMFWs7-bTjIE5vHfM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMDkz/ODAtMTQxNjE0NjU3/Ny05Mzg0LmpwZWc.jpeg" alt="Cover for A Lot of Changes Comin&#39;" style="max-width:120px; height:auto;" />
       </td>
@@ -120,7 +120,7 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/ihQX3LtMcbM_tPVB1RP-iW9_c7ayeTg5tz2RWuxjo3Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODQ4/MjAxLTE1NDMxMjM2/NTktNjU5MS5qcGVn.jpeg" alt="Cover for Best Of" style="max-width:120px; height:auto;" />
       </td>
@@ -138,7 +138,7 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/awgnf_rZlAxklqMw04eCz8GrzKTxjkNK7kqPZwI0zx0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTA1/OTktMTMzNTI3OTUw/MC5qcGVn.jpeg" alt="Cover for Pt1 Rock N Soul" style="max-width:120px; height:auto;" />
       </td>
@@ -156,25 +156,7 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
     </tr>
     <tr>
-      <td>36</td>
-      <td>
-          <img src="https://i.discogs.com/XLE-_zMDWUiA2X2Wk723POxIFnLsAR_u3QhplpU8-l4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTQ5/MjYxLTE1MDczNjU4/MzAtNTk1NS5qcGVn.jpeg" alt="Cover for Sweet Dreams" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1988</td>
-      <td>The Philadelphia Orchestra</td>
-      <td>Sweet Dreams</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>67</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/OVVBuggAreXjPO9SEX4rgFF5FWJ7OrBfdB-8Supsa_o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDE4/MTktMTQ1NjIwNDU2/OC01OTIyLmpwZWc.jpeg" alt="Cover for Look Without Seeing" style="max-width:120px; height:auto;" />
       </td>
@@ -193,7 +175,25 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>65</td>
+      <td>
+          <img src="https://i.discogs.com/XLE-_zMDWUiA2X2Wk723POxIFnLsAR_u3QhplpU8-l4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTQ5/MjYxLTE1MDczNjU4/MzAtNTk1NS5qcGVn.jpeg" alt="Cover for Sweet Dreams" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1988</td>
+      <td>The Philadelphia Orchestra</td>
+      <td>Sweet Dreams</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/EhRgSoblkGcStHOjPF2RZs1vXPkS2STQJz-ExZIDOyc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MzE5/MTItMTM4Nzk4NzQ4/MC01OTIyLmpwZWc.jpeg" alt="Cover for Flight of Mavis" style="max-width:120px; height:auto;" />
       </td>
@@ -211,7 +211,7 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/pTGF-0AAQ42AOf7e8NsCtMjBJB2y24fwA9GOtJ_KXf8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDU3/OTg1LTE0OTA4ODY3/MTAtMzI0Ni5qcGVn.jpeg" alt="Cover for Spools" style="max-width:120px; height:auto;" />
       </td>
@@ -229,7 +229,25 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>12</td>
+      <td>
+          <img src="https://i.discogs.com/RQDMDU5uNT71fYUktvGpGW997kFPhbnWMpFGHo6Z-Xo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NTYz/Mi0xNjgwOTk2OTgx/LTY4ODkuanBlZw.jpeg" alt="Cover for Love Is the Message: The Best of MFSB" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995</td>
+      <td>MFSB</td>
+      <td>Love Is the Message: The Best of MFSB</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6239e873321442dfa87eb07cb9c29a3a.png" alt="Cover for The Love Is The Message: The Best Of Mfsb" style="max-width:120px; height:auto;" />
       </td>
@@ -249,25 +267,7 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
     </tr>
     <tr>
-      <td>89</td>
-      <td>
-          <img src="https://i.discogs.com/RQDMDU5uNT71fYUktvGpGW997kFPhbnWMpFGHo6Z-Xo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NTYz/Mi0xNjgwOTk2OTgx/LTY4ODkuanBlZw.jpeg" alt="Cover for Love Is the Message: The Best of MFSB" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1995</td>
-      <td>MFSB</td>
-      <td>Love Is the Message: The Best of MFSB</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>17</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/GwWv_f6IyarrVU2DpBBhreOgobiwCKiBdUnfs-3NxL0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTMz/MTktMTQxMzg3NzI5/My02MjI3LmpwZWc.jpeg" alt="Cover for Play Thing" style="max-width:120px; height:auto;" />
       </td>
@@ -285,7 +285,7 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
       </td>
       <td>1996-04-02</td>
@@ -297,13 +297,13 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 59</li>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 89</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 12</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/rWE2nQb4gP9wlmktkXWCjdeYzCQysqSDe7nwL_3DEoY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDE3/OTYyLTE0OTAyMTMw/ODAtNjM1NS5qcGVn.jpeg" alt="Cover for Walkin on thin ice" style="max-width:120px; height:auto;" />
       </td>
@@ -323,7 +323,7 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>96</td>
       <td>
           <img src="https://i.discogs.com/woB6F3fFTPF5oX8aecb1AHp63TdnkPcanYTPdhqG6wA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDUz/Ni0xMzkxODA3MjU3/LTQ3NTguanBlZw.jpeg" alt="Cover for The Psycho-Social, Chemical, Biological And Electro-Mangetic Manipulation Of Human…" style="max-width:120px; height:auto;" />
       </td>
@@ -340,7 +340,7 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/AbY0v-XBft99LxT2B8SET3jNkBITRuKkDDlpzZnP3Yw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjMw/MC0xNjE2MzMyMjk4/LTk0NTMuanBlZw.jpeg" alt="Cover for Hello Sunshine" style="max-width:120px; height:auto;" />
       </td>
@@ -360,12 +360,12 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/protest" | relative_url }}">protest</a> # 60</li>
+            <li> <a href="{{ "/tags/protest" | relative_url }}">protest</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/13ebf4676b07c751ba2fef75f853df6b.png" alt="Cover for Things Fall Apart" style="max-width:120px; height:auto;" />
       </td>
@@ -378,14 +378,14 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 17</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 29</li>
-            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 34</li>
+            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 67</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 72</li>
+            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>30</td>
       <td>
       </td>
       <td>1999-08-17</td>
@@ -406,7 +406,7 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ed35315ce9e26fc15d47e1ff02257f6.png" alt="Cover for Disconnect" style="max-width:120px; height:auto;" />
       </td>
@@ -426,7 +426,7 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
       </td>
       <td>2002</td>
@@ -441,12 +441,12 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/concert" | relative_url }}">concert</a> # 50</li>
+            <li> <a href="{{ "/tags/concert" | relative_url }}">concert</a> # 51</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/JQgT1m83-F4-EDgG1kCTGomRwlHkWzy7EDwjqxnAExA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNDEz/NS0xNTQ2NjMwNDMw/LTg3OTcuanBlZw.jpeg" alt="Cover for Information Changer" style="max-width:120px; height:auto;" />
       </td>
@@ -464,7 +464,7 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c4fce7fbc57b0c9b0730df96ec393a0f.png" alt="Cover for For Me" style="max-width:120px; height:auto;" />
       </td>
@@ -483,7 +483,7 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5a6decf4618a4cad8f8b3242cf3aceb1.png" alt="Cover for Phrenology" style="max-width:120px; height:auto;" />
       </td>
@@ -502,7 +502,7 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
       </td>
       <td>2003</td>
@@ -522,7 +522,7 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/thnkevjavJEUiG2-xQk_2JDqodZ9DtRMDUMW0fPNphM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NTkx/Ny0xNDA5MTY1OTM0/LTc0MTUuanBlZw.jpeg" alt="Cover for Past and Present Futurists" style="max-width:120px; height:auto;" />
       </td>
@@ -540,7 +540,7 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4298448609838aa6140a9bf716708166.png" alt="Cover for Beautifully Human: Words and Sounds, Volume 2" style="max-width:120px; height:auto;" />
       </td>
@@ -557,7 +557,7 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
       </td>
       <td>2005-02-02</td>
@@ -572,13 +572,13 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 38</li>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 66</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 35</li>
+            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/C_PKN3KffSF63erRaTyiF6N16KMQWZlM5fMTOtWonlo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMTE3/OS0xNTg3NTY5Nzgy/LTM0NTguanBlZw.jpeg" alt="Cover for Black Candles" style="max-width:120px; height:auto;" />
       </td>
@@ -598,7 +598,7 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
       </td>
       <td>2006-07-25</td>
@@ -617,7 +617,7 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/AHls8OR97cCTbqsPlvjkqeHeuYGJl2WB4I6ORCiL0qU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTM1/MTA0LTE1MTA1MDI3/MTgtODE5MC5qcGVn.jpeg" alt="Cover for Present The Karaoke Meltdowns" style="max-width:120px; height:auto;" />
       </td>
@@ -638,7 +638,7 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/585160c5540004754d1b4266ec94dcc3.png" alt="Cover for Fat City Reprise" style="max-width:120px; height:auto;" />
       </td>
@@ -661,25 +661,7 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
     </tr>
     <tr>
-      <td>31</td>
-      <td>
-          <img src="https://i.discogs.com/K46FF85xDIebwBhNZ_0GtSLzQtDlehzE3duCXUYYcus/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MTA2/OTMtMTQ2NTA4NDA3/Ny00NjQ0LmpwZWc.jpeg" alt="Cover for The EP" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2007</td>
-      <td>George Stanford</td>
-      <td>The EP</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>66</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/099aeb6d06dd33a290a204eba7570c65.png" alt="Cover for The Philadelphia Sessions" style="max-width:120px; height:auto;" />
       </td>
@@ -701,7 +683,25 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>70</td>
+      <td>
+          <img src="https://i.discogs.com/K46FF85xDIebwBhNZ_0GtSLzQtDlehzE3duCXUYYcus/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MTA2/OTMtMTQ2NTA4NDA3/Ny00NjQ0LmpwZWc.jpeg" alt="Cover for The EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>George Stanford</td>
+      <td>The EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
       <td>
           <img src="https://i.discogs.com/zK5ht_Pkn_sIZWySZOw1Cv0Fve0JoD6Ql1TnwY9VJa8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzI2/ODItMTYyODAyMzc0/NS04MzY3LmpwZWc.jpeg" alt="Cover for Mr. Underrated Skills" style="max-width:120px; height:auto;" />
       </td>
@@ -721,7 +721,7 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/P1EjtoTEn-qe9TQ-lOO2Yo7m_6VJPhXPWbS-eyTvhU8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDc0/NTU4LTE1Mjc3ODA1/NTEtODQzNC5qcGVn.jpeg" alt="Cover for Golden Dragon" style="max-width:120px; height:auto;" />
       </td>
@@ -741,7 +741,7 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/Xil4aPlenV_gy2-mN20UkmALus5Y2AwXSudrFkd_vSE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzgz/NjktMTI0ODM4NDUy/OS5qcGVn.jpeg" alt="Cover for You Say EP" style="max-width:120px; height:auto;" />
       </td>
@@ -763,7 +763,7 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/54e4a1e5d78555aab23ac147c45dcb52.png" alt="Cover for Gameboy Madrigals" style="max-width:120px; height:auto;" />
       </td>
@@ -781,7 +781,7 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>93</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/de87626ab094e50647b98a6a410e5c9c.png" alt="Cover for Will-o&#39;-Wisp" style="max-width:120px; height:auto;" />
       </td>
@@ -808,12 +808,12 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 55</li>
+            <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 46</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/070cddb2aa734febb6750198f890bf21.png" alt="Cover for Only Way To Be Alone" style="max-width:120px; height:auto;" />
       </td>
@@ -831,7 +831,7 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/BofLa1Sv4V5Cb0lPfSAuF_dwz1-GnT6nysh4u4A4ebs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjIw/OTEtMTIyNTgyODYx/MC5qcGVn.jpeg" alt="Cover for Filled With Guilt &amp; Diamonds EP" style="max-width:120px; height:auto;" />
       </td>
@@ -852,7 +852,7 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
       </td>
       <td>2008-11-14</td>
@@ -883,7 +883,7 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ea6594dd2305c8b3b2f6edfa8c185153.png" alt="Cover for All Saints&#39; Day" style="max-width:120px; height:auto;" />
       </td>
@@ -904,7 +904,7 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
       </td>
       <td>2009-08-18</td>
@@ -921,7 +921,7 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>85</td>
       <td>
       </td>
       <td>2010</td>
@@ -938,7 +938,7 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/tDBR2btbCXymbSvywnAbA4Vdgus6KCG1_WWjD8oW4Dw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTE2/NTAtMTI5MjA5MjQ4/OS5wbmc.jpeg" alt="Cover for reso-rubbish" style="max-width:120px; height:auto;" />
       </td>
@@ -964,7 +964,7 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/7MdS1a64EllSp9JzdvTer5N_hSp4FE8nsyOEocoTcAU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTM5/NDMwLTE1ODcyMDEx/ODktNjIxNi5qcGVn.jpeg" alt="Cover for Halcyon [EP]" style="max-width:120px; height:auto;" />
       </td>
@@ -991,7 +991,7 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/U4UOFlgN1I5WJVQrsjUilYtaqCQpKf2MW9pHWlfNeb0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NTU0/NDMtMTM1MDQxNjAz/NC05NjU1LmpwZWc.jpeg" alt="Cover for Sorry I&#39;m Not Sorry" style="max-width:120px; height:auto;" />
       </td>
@@ -1015,13 +1015,13 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
         <ul>
             <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 8</li>
             <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 12</li>
-            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 33</li>
-            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 85</li>
+            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 16</li>
+            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7cd85f6451fa46d4b2166b907453a048.png" alt="Cover for All I Want" style="max-width:120px; height:auto;" />
       </td>
@@ -1049,7 +1049,7 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>49</td>
       <td>
       </td>
       <td>2011</td>
@@ -1073,15 +1073,15 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 57</li>
+            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 28</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 44</li>
             <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 65</li>
-            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 73</li>
             <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bb9aa113c1364b1b864e65b2118f5a69.png" alt="Cover for Moonbreak" style="max-width:120px; height:auto;" />
       </td>
@@ -1107,7 +1107,7 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/VVwVN5wkv16DZ5cmsCOgXu_bHKcL6-oZsABSvpGkjXE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODgy/NzMwLTE1MjQwNTc2/NTAtODEyOS5qcGVn.jpeg" alt="Cover for Bad Weather Classic EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1125,7 +1125,7 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>94</td>
       <td>
       </td>
       <td>2011-06-16</td>
@@ -1145,7 +1145,7 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>99</td>
       <td>
           <img src="https://i.discogs.com/irgVJV-5NzDejsaUHj5OvQaiK6eWZMwvgte63xHap0g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NDg2/NzctMTM5ODkxMzM1/NC0xMzA0LmpwZWc.jpeg" alt="Cover for To Begin Again" style="max-width:120px; height:auto;" />
       </td>
@@ -1165,7 +1165,7 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
       </td>
       <td>2012-05-15</td>
@@ -1186,13 +1186,13 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 23</li>
-            <li> <a href="{{ "/tags/slide-guitar" | relative_url }}">slide guitar</a> # 58</li>
+            <li> <a href="{{ "/tags/slide-guitar" | relative_url }}">slide guitar</a> # 43</li>
+            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c7e1d642a977f12dc5d0fb5a2a91194d.png" alt="Cover for Demo" style="max-width:120px; height:auto;" />
       </td>
@@ -1214,7 +1214,7 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3060d6804a144db29c086f2423cccbf6.png" alt="Cover for Heaven" style="max-width:120px; height:auto;" />
       </td>
@@ -1228,12 +1228,12 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 94</li>
+            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 7</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/1irWP2yCJi5_2nc3ZzHo4kNzPtAxUJsnR49uuBfhUNA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTUy/NTEwLTE2ODgyNjE4/ODktODY1NC5qcGVn.jpeg" alt="Cover for From a Cabin in the Woods" style="max-width:120px; height:auto;" />
       </td>
@@ -1251,7 +1251,7 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/PhA4BHOVLsKadZgHN6lejABkcJzygso2CAg8x3LYsRc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NTYy/MjktMTQxOTcwMTIz/NC05MzkzLmpwZWc.jpeg" alt="Cover for Miners&#39; Rebellion" style="max-width:120px; height:auto;" />
       </td>
@@ -1271,7 +1271,7 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/J1IPImma4jevH-F1h3QP47xZ6i0l3VeyPq4uKIMyWoc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyODkz/OTItMTM2MDgwMjUw/OS0xODMzLmpwZWc.jpeg" alt="Cover for A Complete Record of Urban Archaeology" style="max-width:120px; height:auto;" />
       </td>
@@ -1295,7 +1295,7 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d6914d1311124048c0ad01c40c9ca1f1.png" alt="Cover for Interrupt" style="max-width:120px; height:auto;" />
       </td>
@@ -1315,7 +1315,7 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/fIkFllC2HV7WxU4OJKhG6SwJxyqaJlLgKE8JM7B2fP4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NDI0/OTUtMTM3MDgzMTI3/NS01ODMxLnBuZw.jpeg" alt="Cover for Dirty Water EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1342,7 +1342,7 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/86c4d481c5f94cc98532171311e3166c.png" alt="Cover for More Is Than Isn&#39;t" style="max-width:120px; height:auto;" />
       </td>
@@ -1361,7 +1361,7 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/Nda8ik9K_ITtnPsvDBBhWKtw5CHu8bxxfqvmpnR6uW0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1OTE1/NjItMTQwNzk1MjY5/NC0yNjQ5LmpwZWc.jpeg" alt="Cover for Be Frank, Furness" style="max-width:120px; height:auto;" />
       </td>
@@ -1378,7 +1378,7 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/LzRe5LuOJm_pZaEkh8LhjCGTcbrqPaETryxkMk0A2io/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMTY4/NzgtMTQ1NzMxMzA2/Ni0xODEyLmpwZWc.jpeg" alt="Cover for Mobile Freedom Home" style="max-width:120px; height:auto;" />
       </td>
@@ -1401,7 +1401,7 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/ghA_Vh2P8x_2pw7UNrrUeS9P7Zq-sfST3NXXntQyBSI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NDUw/MjUtMTM5MzUzMDk0/MS00MTU3LmpwZWc.jpeg" alt="Cover for E Rey (Live in Philidelphia)" style="max-width:120px; height:auto;" />
       </td>
@@ -1419,7 +1419,7 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0a144f203944aeb71c9f776bd5f86b01.png" alt="Cover for Can I Be Honest?" style="max-width:120px; height:auto;" />
       </td>
@@ -1438,12 +1438,12 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian-rap" | relative_url }}">christian rap</a> # 63</li>
+            <li> <a href="{{ "/tags/christian-rap" | relative_url }}">christian rap</a> # 38</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/LGYWXIYJYi5VsFALswlNqJ7wUEo_cCZAqtlgOa9JWoE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNjU3/NjktMTQ1ODI1ODg4/NS0yNzkwLmpwZWc.jpeg" alt="Cover for Cool Cool Cool" style="max-width:120px; height:auto;" />
       </td>
@@ -1463,7 +1463,7 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/91b602ef8efdeb49d26668ccc38f21c8.png" alt="Cover for Activation" style="max-width:120px; height:auto;" />
       </td>
@@ -1486,7 +1486,7 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/dXdzOUOvSr83BFOqVSGdF1TfgDyvN1EllgXv84dR-ZU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NDE5/NzMtMTQ2Nzc4NTI0/My0yMTcwLmpwZWc.jpeg" alt="Cover for Form Hell" style="max-width:120px; height:auto;" />
       </td>
@@ -1507,7 +1507,7 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/gfROsdaF8rcxraWpW3NKryVdMq7UMmEy5SwhcMG_RPk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2ODcw/MzQtMTQ2NjYxNDU3/Ni0yNDQ3LmpwZWc.jpeg" alt="Cover for Different Words &#x2F; Different Meanings" style="max-width:120px; height:auto;" />
       </td>
@@ -1522,12 +1522,12 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 16</li>
+            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7bcdc476f4214a1f6f74fb59a819dba5.png" alt="Cover for The Future Is Trash" style="max-width:120px; height:auto;" />
       </td>
@@ -1548,7 +1548,7 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/_mSnqwC4CDkunKRPYbmJ-H_RDD9rc067JvrSzbyNf2U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODA3/OTQzLTE1MjI3MjM0/NzItODU3Ny5qcGVn.jpeg" alt="Cover for Grow Its Teeth" style="max-width:120px; height:auto;" />
       </td>
@@ -1568,7 +1568,7 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/et2Bco9Qvr0SdQ4DicF7Jl6-BjiE79XPN0w9_Cb2xRs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MzI3/ODgtMTQ2OTcyMjE1/MS04NzY4LmpwZWc.jpeg" alt="Cover for Spectrum 1973" style="max-width:120px; height:auto;" />
       </td>
@@ -1586,29 +1586,7 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
     </tr>
     <tr>
-      <td>61</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/861818ea501a8badb5917304001c2733.png" alt="Cover for Hyphae Reign" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2021-09-17</td>
-      <td>Existentia</td>
-      <td>Hyphae Reign</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>63</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7cfd34223463e33dc937e2e82b989db8.png" alt="Cover for Calculating Failure" style="max-width:120px; height:auto;" />
       </td>
@@ -1630,7 +1608,29 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>40</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/861818ea501a8badb5917304001c2733.png" alt="Cover for Hyphae Reign" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-09-17</td>
+      <td>Existentia</td>
+      <td>Hyphae Reign</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/eee50ce5ebc1908fc3770132ddb1e28e.png" alt="Cover for Untying The Giant Knot" style="max-width:120px; height:auto;" />
       </td>
@@ -1648,12 +1648,12 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       <td>
         <ul>
             <li> <a href="{{ "/tags/new-jersey" | relative_url }}">new jersey</a> # 17</li>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 34</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>95</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8550581dea2effe35bc46b1832ff81cb.png" alt="Cover for Demo II" style="max-width:120px; height:auto;" />
       </td>
@@ -1674,7 +1674,7 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/AiYckV6eGZHYB6XmFKFhE4DXoHKq0iFjCFjbZhHhSD4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjUy/NTM0LTE2Nzc1NjE5/NzMtNDc2My5qcGVn.jpeg" alt="Cover for MiRth" style="max-width:120px; height:auto;" />
       </td>
@@ -1694,7 +1694,7 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/w3DYzi7V8isNi8mX8khrxkiEoD-qAZljUCTxnS4RPdM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDUz/NDgwLTE2OTYwNzA2/NzEtMzY5NC5qcGVn.jpeg" alt="Cover for N.I.T.S.T.W.D.S.W." style="max-width:120px; height:auto;" />
       </td>
@@ -1717,7 +1717,7 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7e27162c62a8ed9e8954220306f0d450.png" alt="Cover for Ohio" style="max-width:120px; height:auto;" />
       </td>
@@ -1738,47 +1738,68 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>33</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5648cf93f221b09e66a1b85ab35867a7.png" alt="Cover for Send Me All Your Love" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>Brickyard Pro</td>
-      <td>I SEE HATERS</td>
+      <td>Bridge Underwater</td>
+      <td>Send Me All Your Love</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 1</li>
+            <li> <a href="{{ "/tags/arcade-fire" | relative_url }}">arcade fire</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>52</td>
       <td>
       </td>
       <td></td>
-      <td>Brickyard Pro</td>
-      <td>Brickyard Pro: Why Should We Keep Dying?</td>
+      <td>Bridge Underwater</td>
+      <td>Collected Songs New and Old: Volume One</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/arcade-fire" | relative_url }}">arcade fire</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 6</li>
+            <li> <a href="{{ "/tags/arcade-fire" | relative_url }}">arcade fire</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a34c7edad0f7452899cef227135c7e47.png" alt="Cover for Rainy Day Songs" style="max-width:120px; height:auto;" />
       </td>
@@ -1808,112 +1829,43 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 42</li>
+            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 59</li>
             <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>67</td>
       <td>
       </td>
       <td></td>
-      <td>Ahd Child</td>
-      <td>Rough Drafts</td>
+      <td>Brickyard Pro</td>
+      <td>Brickyard Pro: Why Should We Keep Dying?</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>24</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2e6d387956d5474e9897475515e4f4cf.png" alt="Cover for A Studio 4 Comp" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>Ahd Child</td>
-      <td>Meeting of Minds</td>
+      <td>Off the Board</td>
+      <td>A Studio 4 Comp</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/broken-beat" | relative_url }}">broken beat</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>11</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Ahd Child</td>
-      <td>Reverse Psychology</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>12</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/00cf91eb19934106903395283afeb981.png" alt="Cover for The Acoustic Improv Sessions (comp.)" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>The Acoustic Improv Sessions (RC Dub&#39;d)</td>
-      <td>The Acoustic Improv Sessions (comp.)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>18</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b7883e737a1946bcac3bff356f90c913.png" alt="Cover for The First Delights" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Bridge Underwater</td>
-      <td>The First Delights</td>
-      <td>
-        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a></li>
         </ul>
       </td>
@@ -1925,12 +1877,14 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
     <tr>
       <td>26</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/298d958aeb2a40a68a9ea1de1139e690.png" alt="Cover for Down on Silverlake" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>Experience Kef</td>
-      <td>Songs Of The Harvest</td>
+      <td>Sam Silbert</td>
+      <td>Down on Silverlake</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a></li>
         </ul>
       </td>
@@ -1940,98 +1894,7 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
     </tr>
     <tr>
-      <td>33</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Famous Flowz</td>
-      <td>www.twitter.com&#x2F;famous4flowin</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>38</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/046ff1c199e788609416bffbde020758.png" alt="Cover for SHOEBLIND" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>shoeblind</td>
-      <td>SHOEBLIND</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>43</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Laura Shay</td>
-      <td>To a Place</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>49</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Bridge Underwater</td>
-      <td>Collected Songs New and Old: Volume One</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/46e321d490074760a46a4fe47eb481af.png" alt="Cover for First Songs" style="max-width:120px; height:auto;" />
       </td>
@@ -2059,22 +1922,74 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>58</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5648cf93f221b09e66a1b85ab35867a7.png" alt="Cover for Send Me All Your Love" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>Bridge Underwater</td>
-      <td>Send Me All Your Love</td>
+      <td>Laura Shay</td>
+      <td>To a Place</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/046ff1c199e788609416bffbde020758.png" alt="Cover for SHOEBLIND" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>shoeblind</td>
+      <td>SHOEBLIND</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Famous Flowz</td>
+      <td>www.twitter.com&#x2F;famous4flowin</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Brickyard Pro</td>
+      <td>I SEE HATERS</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
         </ul>
       </td>
       <td>
@@ -2085,14 +2000,12 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
     <tr>
       <td>75</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/298d958aeb2a40a68a9ea1de1139e690.png" alt="Cover for Down on Silverlake" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>Sam Silbert</td>
-      <td>Down on Silverlake</td>
+      <td>Experience Kef</td>
+      <td>Songs Of The Harvest</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a></li>
         </ul>
       </td>
@@ -2102,17 +2015,15 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>83</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2e6d387956d5474e9897475515e4f4cf.png" alt="Cover for A Studio 4 Comp" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b7883e737a1946bcac3bff356f90c913.png" alt="Cover for The First Delights" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>Off the Board</td>
-      <td>A Studio 4 Comp</td>
+      <td>Bridge Underwater</td>
+      <td>The First Delights</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a></li>
         </ul>
       </td>
@@ -2122,7 +2033,98 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>89</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/00cf91eb19934106903395283afeb981.png" alt="Cover for The Acoustic Improv Sessions (comp.)" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>The Acoustic Improv Sessions (RC Dub&#39;d)</td>
+      <td>The Acoustic Improv Sessions (comp.)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Ahd Child</td>
+      <td>Reverse Psychology</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Ahd Child</td>
+      <td>Meeting of Minds</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/broken-beat" | relative_url }}">broken beat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Ahd Child</td>
+      <td>Rough Drafts</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
       <td>
       </td>
       <td></td>

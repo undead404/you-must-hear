@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T03:42:30.650Z
+date: 2025-12-05T10:07:46.057Z
 permalink: tags/soft-rock
 title: soft rock
 ---
 
 ## soft rock
 
-Last updated: <time datetime="2025-12-03T03:42:30.650Z">Wed Dec 03 2025 05:42:30 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T10:07:46.057Z">Fri Dec 05 2025 12:07:46 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -150,7 +150,7 @@ Soft rock emerged in the 1970s as a mellower alternative to hard rock, featuring
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 76</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -171,7 +171,7 @@ Soft rock emerged in the 1970s as a mellower alternative to hard rock, featuring
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a> # 91</li>
+            <li> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -300,7 +300,7 @@ Soft rock emerged in the 1970s as a mellower alternative to hard rock, featuring
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 79</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -374,7 +374,7 @@ Soft rock emerged in the 1970s as a mellower alternative to hard rock, featuring
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 62</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -414,7 +414,7 @@ Soft rock emerged in the 1970s as a mellower alternative to hard rock, featuring
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 99</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -434,8 +434,8 @@ Soft rock emerged in the 1970s as a mellower alternative to hard rock, featuring
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 19</li>
-            <li> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a> # 25</li>
+            <li> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a> # 76</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -454,8 +454,8 @@ Soft rock emerged in the 1970s as a mellower alternative to hard rock, featuring
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 47</li>
-            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 79</li>
+            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 22</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -480,9 +480,9 @@ Soft rock emerged in the 1970s as a mellower alternative to hard rock, featuring
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 93</li>
-            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 94</li>
-            <li> <a href="{{ "/tags/westcoast" | relative_url }}">westcoast</a> # 99</li>
+            <li> <a href="{{ "/tags/westcoast" | relative_url }}">westcoast</a> # 2</li>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 7</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -538,8 +538,8 @@ Soft rock emerged in the 1970s as a mellower alternative to hard rock, featuring
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 6</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 37</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 64</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -593,8 +593,8 @@ Soft rock emerged in the 1970s as a mellower alternative to hard rock, featuring
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 31</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 84</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 17</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -614,7 +614,7 @@ Soft rock emerged in the 1970s as a mellower alternative to hard rock, featuring
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 36</li>
+            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -633,7 +633,7 @@ Soft rock emerged in the 1970s as a mellower alternative to hard rock, featuring
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 38</li>
+            <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -654,7 +654,7 @@ Soft rock emerged in the 1970s as a mellower alternative to hard rock, featuring
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 20</li>
+            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -695,7 +695,7 @@ Soft rock emerged in the 1970s as a mellower alternative to hard rock, featuring
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 94</li>
+            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -734,7 +734,7 @@ Soft rock emerged in the 1970s as a mellower alternative to hard rock, featuring
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 61</li>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -811,7 +811,7 @@ Soft rock emerged in the 1970s as a mellower alternative to hard rock, featuring
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 96</li>
+            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -907,10 +907,10 @@ Soft rock emerged in the 1970s as a mellower alternative to hard rock, featuring
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 77</li>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 85</li>
-            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 96</li>
-            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 98</li>
+            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 3</li>
+            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 5</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 12</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -929,7 +929,7 @@ Soft rock emerged in the 1970s as a mellower alternative to hard rock, featuring
       <td>
         <ul>
             <li> <a href="{{ "/tags/classic-country" | relative_url }}">classic country</a> # 2</li>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 23</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 78</li>
             <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 99</li>
         </ul>
       </td>
@@ -971,7 +971,7 @@ Soft rock emerged in the 1970s as a mellower alternative to hard rock, featuring
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/westcoast" | relative_url }}">westcoast</a> # 80</li>
+            <li> <a href="{{ "/tags/westcoast" | relative_url }}">westcoast</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1103,7 +1103,7 @@ Soft rock emerged in the 1970s as a mellower alternative to hard rock, featuring
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 94</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1124,10 +1124,10 @@ Soft rock emerged in the 1970s as a mellower alternative to hard rock, featuring
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 1</li>
             <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 2</li>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 11</li>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 53</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 100</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 47</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1148,7 +1148,7 @@ Soft rock emerged in the 1970s as a mellower alternative to hard rock, featuring
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 30</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1267,12 +1267,12 @@ Soft rock emerged in the 1970s as a mellower alternative to hard rock, featuring
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 76</li>
-            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 99</li>
-            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 100</li>
-            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 100</li>
-            <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 100</li>
-            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 100</li>
+            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 1</li>
+            <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 1</li>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 1</li>
+            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 1</li>
+            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 2</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1345,8 +1345,8 @@ Soft rock emerged in the 1970s as a mellower alternative to hard rock, featuring
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 66</li>
-            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 85</li>
+            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 15</li>
+            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1402,17 +1402,17 @@ Soft rock emerged in the 1970s as a mellower alternative to hard rock, featuring
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 29</li>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 33</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 4</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 6</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 17</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 29</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 32</li>
             <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 35</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 36</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 50</li>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 66</li>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 72</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 51</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 65</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 68</li>
+            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 72</li>
             <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 77</li>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 84</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 95</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1432,11 +1432,11 @@ Soft rock emerged in the 1970s as a mellower alternative to hard rock, featuring
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 5</li>
             <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 8</li>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 71</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 77</li>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 77</li>
-            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 96</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 22</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 24</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1518,7 +1518,7 @@ Soft rock emerged in the 1970s as a mellower alternative to hard rock, featuring
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 79</li>
+            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1554,8 +1554,8 @@ Soft rock emerged in the 1970s as a mellower alternative to hard rock, featuring
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 8</li>
             <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 18</li>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1594,7 +1594,7 @@ Soft rock emerged in the 1970s as a mellower alternative to hard rock, featuring
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 91</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1669,10 +1669,10 @@ Soft rock emerged in the 1970s as a mellower alternative to hard rock, featuring
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 7</li>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 79</li>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 80</li>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 86</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 15</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 21</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 22</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1712,8 +1712,8 @@ Soft rock emerged in the 1970s as a mellower alternative to hard rock, featuring
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 59</li>
-            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 98</li>
+            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 3</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1752,11 +1752,11 @@ Soft rock emerged in the 1970s as a mellower alternative to hard rock, featuring
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 8</li>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 64</li>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 71</li>
-            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 72</li>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 93</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 8</li>
+            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 27</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 30</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 34</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1775,7 +1775,7 @@ Soft rock emerged in the 1970s as a mellower alternative to hard rock, featuring
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 82</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1815,9 +1815,9 @@ Soft rock emerged in the 1970s as a mellower alternative to hard rock, featuring
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 62</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 91</li>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 98</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 3</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 10</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1837,7 +1837,7 @@ Soft rock emerged in the 1970s as a mellower alternative to hard rock, featuring
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 84</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1855,7 +1855,7 @@ Soft rock emerged in the 1970s as a mellower alternative to hard rock, featuring
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 93</li>
+            <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1874,7 +1874,7 @@ Soft rock emerged in the 1970s as a mellower alternative to hard rock, featuring
       <td>
         <ul>
             <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 9</li>
-            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 30</li>
+            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1896,8 +1896,8 @@ Soft rock emerged in the 1970s as a mellower alternative to hard rock, featuring
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 57</li>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 100</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 1</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1934,9 +1934,9 @@ Soft rock emerged in the 1970s as a mellower alternative to hard rock, featuring
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 41</li>
-            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 98</li>
-            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 98</li>
+            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 9</li>
+            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 16</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 60</li>
         </ul>
       </td>
     </tr>

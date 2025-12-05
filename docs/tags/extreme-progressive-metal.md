@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T03:45:22.059Z
+date: 2025-12-05T11:22:33.524Z
 permalink: tags/extreme-progressive-metal
 title: extreme progressive metal
 ---
 
 ## extreme progressive metal
 
-Last updated: <time datetime="2025-12-03T03:45:22.059Z">Wed Dec 03 2025 05:45:22 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T11:22:33.524Z">Fri Dec 05 2025 13:22:33 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -100,8 +100,8 @@ Extreme progressive metal fuses the technical complexity and ambitious song stru
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a> # 17</li>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 93</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 8</li>
+            <li> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -123,7 +123,7 @@ Extreme progressive metal fuses the technical complexity and ambitious song stru
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 67</li>
+            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -182,7 +182,7 @@ Extreme progressive metal fuses the technical complexity and ambitious song stru
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a> # 47</li>
+            <li> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -306,7 +306,7 @@ Extreme progressive metal fuses the technical complexity and ambitious song stru
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 98</li>
+            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -324,7 +324,7 @@ Extreme progressive metal fuses the technical complexity and ambitious song stru
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 78</li>
+            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -402,7 +402,7 @@ Extreme progressive metal fuses the technical complexity and ambitious song stru
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 92</li>
+            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -462,7 +462,7 @@ Extreme progressive metal fuses the technical complexity and ambitious song stru
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 58</li>
+            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 43</li>
             <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 86</li>
         </ul>
       </td>
@@ -573,8 +573,8 @@ Extreme progressive metal fuses the technical complexity and ambitious song stru
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 92</li>
-            <li> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a> # 100</li>
+            <li> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a> # 1</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -632,7 +632,7 @@ Extreme progressive metal fuses the technical complexity and ambitious song stru
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -687,8 +687,8 @@ Extreme progressive metal fuses the technical complexity and ambitious song stru
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a> # 39</li>
-            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 48</li>
+            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 53</li>
+            <li> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -805,7 +805,7 @@ Extreme progressive metal fuses the technical complexity and ambitious song stru
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 25</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -823,7 +823,7 @@ Extreme progressive metal fuses the technical complexity and ambitious song stru
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 69</li>
+            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -871,8 +871,8 @@ Extreme progressive metal fuses the technical complexity and ambitious song stru
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 47</li>
-            <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 64</li>
+            <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 37</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -931,7 +931,7 @@ Extreme progressive metal fuses the technical complexity and ambitious song stru
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 31</li>
+            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1067,7 +1067,7 @@ Extreme progressive metal fuses the technical complexity and ambitious song stru
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 54</li>
+            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1089,7 +1089,7 @@ Extreme progressive metal fuses the technical complexity and ambitious song stru
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 30</li>
+            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1203,7 +1203,7 @@ Extreme progressive metal fuses the technical complexity and ambitious song stru
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 1</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1238,11 +1238,11 @@ Extreme progressive metal fuses the technical complexity and ambitious song stru
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 28</li>
-            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 51</li>
-            <li> <a href="{{ "/tags/german-black-metal" | relative_url }}">german black metal</a> # 59</li>
-            <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 71</li>
-            <li> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a> # 83</li>
+            <li> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a> # 18</li>
+            <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 30</li>
+            <li> <a href="{{ "/tags/german-black-metal" | relative_url }}">german black metal</a> # 42</li>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 49</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1261,7 +1261,7 @@ Extreme progressive metal fuses the technical complexity and ambitious song stru
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 19</li>
+            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1299,7 +1299,7 @@ Extreme progressive metal fuses the technical complexity and ambitious song stru
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 13</li>
+            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1380,8 +1380,8 @@ Extreme progressive metal fuses the technical complexity and ambitious song stru
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 13</li>
-            <li> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a> # 98</li>
+            <li> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a> # 3</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1777,7 +1777,7 @@ Extreme progressive metal fuses the technical complexity and ambitious song stru
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-deathcore" | relative_url }}">technical deathcore</a> # 88</li>
+            <li> <a href="{{ "/tags/technical-deathcore" | relative_url }}">technical deathcore</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1912,7 +1912,7 @@ Extreme progressive metal fuses the technical complexity and ambitious song stru
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 14</li>
+            <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 87</li>
         </ul>
       </td>
     </tr>

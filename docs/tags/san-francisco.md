@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T03:38:43.314Z
+date: 2025-12-05T09:56:18.348Z
 permalink: tags/san-francisco
 title: san francisco
 ---
 
 ## san francisco
 
-Last updated: <time datetime="2025-12-03T03:38:43.314Z">Wed Dec 03 2025 05:38:43 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T09:56:18.348Z">Fri Dec 05 2025 11:56:18 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -172,7 +172,7 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 53</li>
+            <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -231,8 +231,8 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 53</li>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 82</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 19</li>
+            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -278,11 +278,11 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 74</li>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 76</li>
-            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 78</li>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 91</li>
-            <li> <a href="{{ "/tags/oakland" | relative_url }}">oakland</a> # 99</li>
+            <li> <a href="{{ "/tags/oakland" | relative_url }}">oakland</a> # 2</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 10</li>
+            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 23</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 25</li>
+            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -301,7 +301,7 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 66</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -324,9 +324,9 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 9</li>
-            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 30</li>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 60</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 41</li>
+            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 71</li>
+            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -347,7 +347,7 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 33</li>
+            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -364,7 +364,7 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 96</li>
+            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -410,8 +410,8 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 7</li>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 23</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 78</li>
+            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -461,10 +461,10 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 18</li>
             <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 31</li>
-            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 32</li>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 51</li>
-            <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 83</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 50</li>
+            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -485,7 +485,7 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 47</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -506,7 +506,7 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anarcho-punk" | relative_url }}">anarcho-punk</a> # 35</li>
+            <li> <a href="{{ "/tags/anarcho-punk" | relative_url }}">anarcho-punk</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -570,7 +570,7 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 1</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -596,10 +596,10 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 18</li>
+            <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 22</li>
+            <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 31</li>
             <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 45</li>
-            <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 70</li>
-            <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 79</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -662,8 +662,8 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 48</li>
-            <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 62</li>
+            <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 39</li>
+            <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 53</li>
             <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 68</li>
         </ul>
       </td>
@@ -795,8 +795,8 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 81</li>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 95</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 6</li>
+            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -854,7 +854,7 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 90</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -881,11 +881,11 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a> # 11</li>
             <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 27</li>
+            <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 32</li>
             <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 46</li>
             <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 62</li>
-            <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 69</li>
-            <li> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -970,9 +970,9 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 59</li>
-            <li> <a href="{{ "/tags/ibiza" | relative_url }}">ibiza</a> # 83</li>
-            <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 90</li>
+            <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 11</li>
+            <li> <a href="{{ "/tags/ibiza" | relative_url }}">ibiza</a> # 18</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1032,9 +1032,9 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 4</li>
             <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 12</li>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 78</li>
-            <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 97</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1126,7 +1126,7 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 34</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1153,10 +1153,10 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 12</li>
+            <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 16</li>
             <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 29</li>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 53</li>
-            <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 85</li>
-            <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 89</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1292,14 +1292,14 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 3</li>
+            <li> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a> # 4</li>
+            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 13</li>
+            <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 14</li>
             <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 18</li>
             <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 24</li>
             <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 27</li>
-            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 35</li>
-            <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 87</li>
-            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 88</li>
-            <li> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a> # 96</li>
+            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 66</li>
+            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1347,13 +1347,13 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 7</li>
+            <li> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a> # 8</li>
+            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 20</li>
             <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 23</li>
+            <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 27</li>
             <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 41</li>
             <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 50</li>
-            <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 74</li>
-            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 81</li>
-            <li> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a> # 92</li>
+            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1395,7 +1395,7 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 80</li>
+            <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1432,9 +1432,9 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 12</li>
+            <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 38</li>
             <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 52</li>
-            <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 63</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1478,7 +1478,7 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 56</li>
+            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1566,14 +1566,14 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 15</li>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 21</li>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 27</li>
-            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 32</li>
+            <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 21</li>
+            <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 30</li>
             <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 44</li>
+            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 69</li>
             <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 69</li>
-            <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 71</li>
-            <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 80</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 74</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 80</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 86</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 91</li>
         </ul>
       </td>
@@ -1600,9 +1600,9 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 52</li>
+            <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 36</li>
+            <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 49</li>
             <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 64</li>
-            <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1677,10 +1677,10 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 5</li>
             <li> <a href="{{ "/tags/innovative" | relative_url }}">innovative</a> # 14</li>
-            <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 20</li>
-            <li> <a href="{{ "/tags/trip" | relative_url }}">trip</a> # 81</li>
+            <li> <a href="{{ "/tags/trip" | relative_url }}">trip</a> # 20</li>
+            <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 81</li>
+            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1722,7 +1722,7 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oakland" | relative_url }}">oakland</a> # 86</li>
+            <li> <a href="{{ "/tags/oakland" | relative_url }}">oakland</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1755,17 +1755,17 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 11</li>
+            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 14</li>
+            <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 15</li>
+            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 23</li>
+            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 27</li>
             <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 28</li>
+            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 38</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 41</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 45</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 47</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 49</li>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 54</li>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 56</li>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 60</li>
-            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 63</li>
-            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 74</li>
-            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 78</li>
-            <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 86</li>
-            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 87</li>
-            <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1858,8 +1858,8 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 46</li>
-            <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 60</li>
+            <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 41</li>
+            <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 55</li>
             <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 73</li>
         </ul>
       </td>
@@ -1965,8 +1965,8 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 56</li>
-            <li> <a href="{{ "/tags/glasgow" | relative_url }}">glasgow</a> # 81</li>
+            <li> <a href="{{ "/tags/glasgow" | relative_url }}">glasgow</a> # 20</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1990,8 +1990,8 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 16</li>
-            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 37</li>
+            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 63</li>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -2012,7 +2012,7 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 22</li>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -2052,13 +2052,13 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-orleans" | relative_url }}">new orleans</a> # 12</li>
-            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 16</li>
-            <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 24</li>
-            <li> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a> # 49</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 59</li>
-            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 63</li>
-            <li> <a href="{{ "/tags/dixieland" | relative_url }}">dixieland</a> # 79</li>
+            <li> <a href="{{ "/tags/dixieland" | relative_url }}">dixieland</a> # 22</li>
+            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 38</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 42</li>
+            <li> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a> # 52</li>
+            <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 77</li>
+            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 85</li>
+            <li> <a href="{{ "/tags/new-orleans" | relative_url }}">new orleans</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -2082,7 +2082,7 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 17</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -2116,8 +2116,8 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 45</li>
             <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 48</li>
-            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -2143,8 +2143,8 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 5</li>
-            <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 74</li>
+            <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 27</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -2162,7 +2162,7 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 47</li>
+            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 54</li>
             <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 58</li>
         </ul>
       </td>
@@ -2205,8 +2205,8 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 48</li>
-            <li> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a> # 61</li>
+            <li> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a> # 40</li>
+            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -2226,7 +2226,7 @@ The San Francisco tag encompasses the city&#39;s diverse musical legacy, from ps
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oakland" | relative_url }}">oakland</a> # 75</li>
+            <li> <a href="{{ "/tags/oakland" | relative_url }}">oakland</a> # 25</li>
         </ul>
       </td>
     </tr>

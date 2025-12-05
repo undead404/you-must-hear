@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T03:41:24.765Z
+date: 2025-12-05T10:00:17.291Z
 permalink: tags/brazilian-pop
 title: brazilian pop
 ---
 
 ## brazilian pop
 
-Last updated: <time datetime="2025-12-03T03:41:24.765Z">Wed Dec 03 2025 05:41:24 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T10:00:17.291Z">Fri Dec 05 2025 12:00:17 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -89,7 +89,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 15</li>
+            <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -114,7 +114,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 41</li>
+            <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -132,7 +132,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 19</li>
+            <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -154,7 +154,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brasileira" | relative_url }}">brasileira</a> # 67</li>
+            <li> <a href="{{ "/tags/brasileira" | relative_url }}">brasileira</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -177,8 +177,8 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 12</li>
-            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 98</li>
+            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 3</li>
+            <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -200,7 +200,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 24</li>
+            <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -243,7 +243,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 75</li>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -285,8 +285,8 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 75</li>
-            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 95</li>
+            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 6</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -328,7 +328,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 7</li>
+            <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -352,7 +352,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 43</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -448,7 +448,6 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -535,7 +534,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 63</li>
+            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -579,7 +578,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 77</li>
+            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -602,7 +601,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 43</li>
+            <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -661,7 +660,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brasileira" | relative_url }}">brasileira</a> # 87</li>
+            <li> <a href="{{ "/tags/brasileira" | relative_url }}">brasileira</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -723,7 +722,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brasileira" | relative_url }}">brasileira</a> # 55</li>
+            <li> <a href="{{ "/tags/brasileira" | relative_url }}">brasileira</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -747,8 +746,8 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 47</li>
-            <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 96</li>
+            <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 5</li>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -773,6 +772,24 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
       <td>
         <ul>
             <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 33</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c88711b6eb09b8a3f5bb56edc0c56cbf.png" alt="Cover for Companhia do Calypso, Vol. 01 (Ao Vivo)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Companhia do Calypso</td>
+      <td>Companhia do Calypso, Vol. 01 (Ao Vivo)</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brega" | relative_url }}">brega</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -810,23 +827,6 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>89</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c88711b6eb09b8a3f5bb56edc0c56cbf.png" alt="Cover for Companhia do Calypso, Vol. 01 (Ao Vivo)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2006</td>
-      <td>Companhia do Calypso</td>
-      <td>Companhia do Calypso, Vol. 01 (Ao Vivo)</td>
-      <td>
-        <ul>
         </ul>
       </td>
       <td>
@@ -986,7 +986,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brasileira" | relative_url }}">brasileira</a> # 47</li>
+            <li> <a href="{{ "/tags/brasileira" | relative_url }}">brasileira</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1095,8 +1095,8 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 16</li>
-            <li> <a href="{{ "/tags/brasileira" | relative_url }}">brasileira</a> # 51</li>
+            <li> <a href="{{ "/tags/brasileira" | relative_url }}">brasileira</a> # 45</li>
+            <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1161,7 +1161,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 29</li>
+            <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1184,9 +1184,9 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 39</li>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 47</li>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 60</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 40</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 54</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1209,9 +1209,9 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 39</li>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 49</li>
-            <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 93</li>
+            <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 8</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 52</li>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1229,7 +1229,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a> # 21</li>
+            <li> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1293,9 +1293,9 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 46</li>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 53</li>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 72</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 28</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 48</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1340,7 +1340,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 53</li>
+            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1388,10 +1388,10 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 34</li>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 75</li>
-            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 82</li>
-            <li> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a> # 86</li>
+            <li> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a> # 14</li>
+            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 17</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 26</li>
+            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1415,8 +1415,8 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 5</li>
-            <li> <a href="{{ "/tags/sertanejo" | relative_url }}">sertanejo</a> # 73</li>
+            <li> <a href="{{ "/tags/sertanejo" | relative_url }}">sertanejo</a> # 28</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1456,7 +1456,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romantica" | relative_url }}">romantica</a> # 32</li>
+            <li> <a href="{{ "/tags/romantica" | relative_url }}">romantica</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1497,9 +1497,9 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 10</li>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 11</li>
             <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 50</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 90</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1523,7 +1523,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 4</li>
+            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1545,7 +1545,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 30</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1617,7 +1617,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
       <td>
         <ul>
             <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 14</li>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 21</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1641,9 +1641,9 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 4</li>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 5</li>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 48</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 52</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 96</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1690,9 +1690,9 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
       <td>
         <ul>
             <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 2</li>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 82</li>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 93</li>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 95</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 6</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 8</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1734,7 +1734,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brasileira" | relative_url }}">brasileira</a> # 40</li>
+            <li> <a href="{{ "/tags/brasileira" | relative_url }}">brasileira</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1851,20 +1851,20 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 2</li>
+            <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 3</li>
+            <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 4</li>
+            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 5</li>
             <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 5</li>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 14</li>
+            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 6</li>
+            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 6</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 14</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 16</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 18</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 32</li>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 45</li>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 67</li>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 81</li>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 85</li>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 87</li>
-            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 95</li>
-            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 95</li>
-            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 96</li>
-            <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 97</li>
-            <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 98</li>
-            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 99</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 34</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 56</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1887,7 +1887,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagode" | relative_url }}">pagode</a> # 39</li>
+            <li> <a href="{{ "/tags/pagode" | relative_url }}">pagode</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1979,7 +1979,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 89</li>
+            <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -2082,7 +2082,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 89</li>
+            <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -2105,8 +2105,8 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 11</li>
-            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 22</li>
+            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 77</li>
+            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -2127,7 +2127,7 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 14</li>
+            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 85</li>
         </ul>
       </td>
     </tr>

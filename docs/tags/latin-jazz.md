@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T03:42:01.413Z
+date: 2025-12-05T10:03:46.000Z
 permalink: tags/latin-jazz
 title: latin jazz
 ---
 
 ## latin jazz
 
-Last updated: <time datetime="2025-12-03T03:42:01.413Z">Wed Dec 03 2025 05:42:01 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T10:03:46.000Z">Fri Dec 05 2025 12:03:46 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,25 +29,7 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
   </thead>
   <tbody>
     <tr>
-      <td>86</td>
-      <td>
-      </td>
-      <td>1958</td>
-      <td>Machito</td>
-      <td>Kenya</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/mambo" | relative_url }}">mambo</a> # 77</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
       </td>
       <td>1958</td>
@@ -66,7 +48,25 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>15</td>
+      <td>
+      </td>
+      <td>1958</td>
+      <td>Machito</td>
+      <td>Kenya</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mambo" | relative_url }}">mambo</a> # 77</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/R3Mzp8W7lB061Qf6D7osG18tRjVrqAK5fNIOouN3ruA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTU1/NzMtMTM2NDkzMDE5/NS03Njc1LmpwZWc.jpeg" alt="Cover for Lena Goes Latin" style="max-width:120px; height:auto;" />
       </td>
@@ -86,7 +86,7 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>76</td>
       <td>
       </td>
       <td>1961-02-09</td>
@@ -108,7 +108,27 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>41</td>
+      <td>
+      </td>
+      <td>1962</td>
+      <td>Charles Mingus</td>
+      <td>Tijuana Moods</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 8</li>
+            <li> <a href="{{ "/tags/cool-jazz" | relative_url }}">cool jazz</a> # 93</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
       <td>
       </td>
       <td>1962</td>
@@ -123,32 +143,12 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vibraphone" | relative_url }}">vibraphone</a> # 87</li>
+            <li> <a href="{{ "/tags/vibraphone" | relative_url }}">vibraphone</a> # 15</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
-      <td>
-      </td>
-      <td>1962</td>
-      <td>Charles Mingus</td>
-      <td>Tijuana Moods</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 93</li>
-            <li> <a href="{{ "/tags/cool-jazz" | relative_url }}">cool jazz</a> # 93</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>17</td>
+      <td>84</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/69f1fa8b5c55dfba84040e16750d7465.png" alt="Cover for Desafinado" style="max-width:120px; height:auto;" />
       </td>
@@ -167,7 +167,7 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/225900fe8585106f15b79cfd4f75cf62.png" alt="Cover for Jazz Samba Encore!" style="max-width:120px; height:auto;" />
       </td>
@@ -186,27 +186,7 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
     </tr>
     <tr>
-      <td>51</td>
-      <td>
-          <img src="https://i.discogs.com/yWXQVhk8Mcy-g3o_gcN13ny8bWmUDxjEfraXr619O4s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MTEw/MS0xMzQ5MTA4MjU4/LTczNDguanBlZw.jpeg" alt="Cover for Soul Sauce" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1965</td>
-      <td>Cal Tjader</td>
-      <td>Soul Sauce</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 75</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8901b29452ee40b0c06bebd1c8fa7f4b.png" alt="Cover for The Shadow Of Your Smile" style="max-width:120px; height:auto;" />
       </td>
@@ -221,13 +201,33 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 74</li>
-            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 90</li>
+            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 11</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 27</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>50</td>
+      <td>
+          <img src="https://i.discogs.com/yWXQVhk8Mcy-g3o_gcN13ny8bWmUDxjEfraXr619O4s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MTEw/MS0xMzQ5MTA4MjU4/LTczNDguanBlZw.jpeg" alt="Cover for Soul Sauce" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1965</td>
+      <td>Cal Tjader</td>
+      <td>Soul Sauce</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 26</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
       <td>
       </td>
       <td>1965</td>
@@ -246,7 +246,7 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/tSPwx3vAmwNUedLQe-9TeFnDaLdmkoLJMPdqmty6q2c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMzAx/My0xNjUwMzYyNDk0/LTIxNjAuanBlZw.jpeg" alt="Cover for Soul Burst" style="max-width:120px; height:auto;" />
       </td>
@@ -265,31 +265,14 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/vibraphone" | relative_url }}">vibraphone</a> # 6</li>
             <li> <a href="{{ "/tags/mambo" | relative_url }}">mambo</a> # 9</li>
-            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 91</li>
-            <li> <a href="{{ "/tags/vibraphone" | relative_url }}">vibraphone</a> # 95</li>
+            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 10</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
-      <td>
-      </td>
-      <td>1966</td>
-      <td>Oscar Peterson</td>
-      <td>Soul Español</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a09e217a8a9445d8b583f7005c26e2de.png" alt="Cover for Look To The Rainbow" style="max-width:120px; height:auto;" />
       </td>
@@ -308,7 +291,24 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>85</td>
+      <td>
+      </td>
+      <td>1966</td>
+      <td>Oscar Peterson</td>
+      <td>Soul Español</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
       <td>
       </td>
       <td>1967</td>
@@ -322,32 +322,12 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 32</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
-      <td>
-          <img src="https://i.discogs.com/WIarSDVhs1K93beP1b8RSY1OfbAaEjgevzqX2GGC7qM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNjQ4/ODEtMTUxMzA1MjE4/Mi00NzY3LmpwZWc.jpeg" alt="Cover for The Beat Of The Brass" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1968</td>
-      <td>Herb Alpert and the Tijuana Brass</td>
-      <td>The Beat Of The Brass</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brass" | relative_url }}">brass</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/brass" | relative_url }}">brass</a> # 82</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/ouJVdeRyJNqQu2Xrm8nFePo1eBjRPBWkPlcVIrnxrb4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNDQ5/OS0xMjk1NjAyMDU3/LmpwZWc.jpeg" alt="Cover for Acid" style="max-width:120px; height:auto;" />
       </td>
@@ -363,12 +343,32 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/afro-cuban" | relative_url }}">afro-cuban</a> # 99</li>
+            <li> <a href="{{ "/tags/afro-cuban" | relative_url }}">afro-cuban</a> # 2</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>88</td>
+      <td>
+          <img src="https://i.discogs.com/WIarSDVhs1K93beP1b8RSY1OfbAaEjgevzqX2GGC7qM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNjQ4/ODEtMTUxMzA1MjE4/Mi00NzY3LmpwZWc.jpeg" alt="Cover for The Beat Of The Brass" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1968</td>
+      <td>Herb Alpert and the Tijuana Brass</td>
+      <td>The Beat Of The Brass</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brass" | relative_url }}">brass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brass" | relative_url }}">brass</a> # 18</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
       <td>
       </td>
       <td>1968</td>
@@ -386,7 +386,7 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/cfQCD55tR-Mh1Ccml3S4qGuY4tkjx0Pz_wOVsUIPl40/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTU1/NTgtMTQ0NDEyODU2/My00MzIyLmpwZWc.jpeg" alt="Cover for Samba Blim" style="max-width:120px; height:auto;" />
       </td>
@@ -404,7 +404,30 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>53</td>
+      <td>
+      </td>
+      <td>1970</td>
+      <td>Chucho Valdés</td>
+      <td>Canciones Ineditas</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cuban" | relative_url }}">cuban</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-piano" | relative_url }}">jazz piano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/cuban" | relative_url }}">cuban</a> # 29</li>
+            <li> <a href="{{ "/tags/jazz-piano" | relative_url }}">jazz piano</a> # 69</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/fQ9MxngmHwpDcFgDAdEZbEq9L0jKt7n2W9TWR6TueR0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3Mzc5/MjAtMTM3MzkxMzk0/Mi02MjY0LmpwZWc.jpeg" alt="Cover for Superimposition" style="max-width:120px; height:auto;" />
       </td>
@@ -426,30 +449,7 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
     </tr>
     <tr>
-      <td>48</td>
-      <td>
-      </td>
-      <td>1970</td>
-      <td>Chucho Valdés</td>
-      <td>Canciones Ineditas</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cuban" | relative_url }}">cuban</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-piano" | relative_url }}">jazz piano</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/jazz-piano" | relative_url }}">jazz piano</a> # 69</li>
-            <li> <a href="{{ "/tags/cuban" | relative_url }}">cuban</a> # 72</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>28</td>
+      <td>73</td>
       <td>
       </td>
       <td>1970</td>
@@ -467,7 +467,7 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/xHiFwdQTMqZ1iGQuIt8YFLLHQrY39StY3VbXePgTxFE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTA1/MDMtMTMzNjQ5NjQ0/Ni5qcGVn.jpeg" alt="Cover for Crime Pays" style="max-width:120px; height:auto;" />
       </td>
@@ -485,7 +485,7 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>75</td>
       <td>
       </td>
       <td>1972</td>
@@ -504,7 +504,7 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4864984fad00914c62d9c5a05a7b1881.png" alt="Cover for La Gran Fuga" style="max-width:120px; height:auto;" />
       </td>
@@ -522,12 +522,12 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 90</li>
+            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 11</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>60</td>
       <td>
       </td>
       <td>1973</td>
@@ -546,28 +546,7 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
     </tr>
     <tr>
-      <td>63</td>
-      <td>
-          <img src="https://i.discogs.com/Lfmgp5G5ybBfI2D_JV2aDvaisgODHMppuQeqwe8PrH8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDYy/MzYtMTU1NTkzOTQ0/OC01NzU5LmpwZWc.jpeg" alt="Cover for Latin-Soul-Rock" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1974</td>
-      <td>Fania All Stars</td>
-      <td>Latin-Soul-Rock</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a> # 11</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>68</td>
+      <td>33</td>
       <td>
       </td>
       <td>1974</td>
@@ -586,7 +565,28 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>38</td>
+      <td>
+          <img src="https://i.discogs.com/Lfmgp5G5ybBfI2D_JV2aDvaisgODHMppuQeqwe8PrH8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDYy/MzYtMTU1NTkzOTQ0/OC01NzU5LmpwZWc.jpeg" alt="Cover for Latin-Soul-Rock" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1974</td>
+      <td>Fania All Stars</td>
+      <td>Latin-Soul-Rock</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a> # 89</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/rVk3epZn2LdZVXoZTtaFamQZ2PFYhBwjqr6GrOzqw_E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MTcz/NTctMTYyODM3MTE2/OC02NjQ4LmpwZWc.jpeg" alt="Cover for Verve Jazz Masters 39" style="max-width:120px; height:auto;" />
       </td>
@@ -604,7 +604,7 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/84cd51c87a3e2b4228df8a19ed69ac44.png" alt="Cover for Two" style="max-width:120px; height:auto;" />
       </td>
@@ -625,7 +625,7 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>89</td>
       <td>
           <img src="https://i.discogs.com/ECYShQck7M8y6VMWlyad1SsJjBG7o1YLzGNlcqa78yk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTE2/NzEtMTQxMDcwNTg0/Ny0zNzkxLmpwZWc.jpeg" alt="Cover for Amazonas" style="max-width:120px; height:auto;" />
       </td>
@@ -642,31 +642,13 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 87</li>
-            <li> <a href="{{ "/tags/vibraphone" | relative_url }}">vibraphone</a> # 88</li>
+            <li> <a href="{{ "/tags/vibraphone" | relative_url }}">vibraphone</a> # 14</li>
+            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 14</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>74</td>
-      <td>
-          <img src="https://i.discogs.com/Z0EyjDXbH-34hpUluI3C7uv5b1udXD6khOt4GP4U4ow/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NTcw/OC0xMzk5NjY0NzAw/LTczODguanBlZw.jpeg" alt="Cover for Caliente!" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1976</td>
-      <td>Gato Barbieri</td>
-      <td>Caliente!</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/GUv7NkbROTmrCMUIycz09IPl-pjrE_LMILwxi-ZAdpQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODU2/NzUtMTQ5NDE4NjI3/Mi02NTc0LmpwZWc.jpeg" alt="Cover for Sofrito" style="max-width:120px; height:auto;" />
       </td>
@@ -685,7 +667,25 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>27</td>
+      <td>
+          <img src="https://i.discogs.com/Z0EyjDXbH-34hpUluI3C7uv5b1udXD6khOt4GP4U4ow/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NTcw/OC0xMzk5NjY0NzAw/LTczODguanBlZw.jpeg" alt="Cover for Caliente!" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1976</td>
+      <td>Gato Barbieri</td>
+      <td>Caliente!</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/bDVzZ642n5wLOtCH2uPwhwAgW17EMq1uu2Muf_M7SQU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxODE2/MTItMTY4OTA5MDMz/My0zMTkxLmpwZWc.jpeg" alt="Cover for Exuberancia" style="max-width:120px; height:auto;" />
       </td>
@@ -703,7 +703,7 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/Z5mmYPpLAr9wyWIpCqO-1o9pkUGrhd0Tb5BLdb37uxk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NDI5/NjMtMTQ2OTkyNjE3/MC0xMzg4LmpwZWc.jpeg" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -718,12 +718,12 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/afro-cuban" | relative_url }}">afro-cuban</a> # 97</li>
+            <li> <a href="{{ "/tags/afro-cuban" | relative_url }}">afro-cuban</a> # 4</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/Yi9qwfQGCu1O8eGTTYm-I1KV8xQhe1cxJy-2SKhCqlE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNDM5/OTYtMTM2MjMyOTc2/NS05ODMzLmpwZWc.jpeg" alt="Cover for Lo Mejor De Eddie Palmieri" style="max-width:120px; height:auto;" />
       </td>
@@ -742,7 +742,7 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>100</td>
       <td>
           <img src="https://i.discogs.com/i2zzo3XtNK7d-Ll90Qx6dtB1m8IQn-zoyABkUsgQ6uY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzEw/MDU2LTE2NTMxNzUy/NTgtMzAxOS5qcGVn.jpeg" alt="Cover for Illuminations" style="max-width:120px; height:auto;" />
       </td>
@@ -760,7 +760,7 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/w4Lxyi5J18oKeQZj7kQP9qlvObL2FDbszwTPiAv7_nc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzIz/NDYtMTU0MDIxMzA0/Mi04NTI3LmpwZWc.jpeg" alt="Cover for Caliente" style="max-width:120px; height:auto;" />
       </td>
@@ -778,7 +778,7 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/Yikgh2mf0IgjDOeSFzfWoPsTG2si8A1vNF2BS-uBiAY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxODQ4/Ni0xMzgxNjg0OTk2/LTczMjMuanBlZw.jpeg" alt="Cover for Corazón (Deluxe Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -793,12 +793,12 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 61</li>
+            <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 40</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/vUAchCEq7MPck42oOJ288PWco3B2xRBQYYL68E60BqM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMzEx/NTItMTQzOTA3NDU3/Ny0xNzI4LmpwZWc.jpeg" alt="Cover for Gozame! Pero Ya..." style="max-width:120px; height:auto;" />
       </td>
@@ -817,7 +817,7 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>54</td>
       <td>
       </td>
       <td>1989-10-03</td>
@@ -837,7 +837,7 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/hzAhrqCs9RXpdzHPga0MIiJQscYRilIIYOFil3uzA_8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NDQ3/MC0xNjAzNjQzNzE2/LTQwNDIuanBlZw.jpeg" alt="Cover for João" style="max-width:120px; height:auto;" />
       </td>
@@ -856,7 +856,7 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>65</td>
       <td>
       </td>
       <td>1991-10-26</td>
@@ -875,7 +875,7 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/GipmEEdChATaPvhw2dHEdfgvk6v9T4Jar01zsI7sMfU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTIw/ODgtMTI2MTA0MzMw/Ny5qcGVn.jpeg" alt="Cover for Americas" style="max-width:120px; height:auto;" />
       </td>
@@ -894,16 +894,16 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 42</li>
-            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 52</li>
-            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 66</li>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 93</li>
-            <li> <a href="{{ "/tags/flamenco-guitar" | relative_url }}">flamenco guitar</a> # 100</li>
+            <li> <a href="{{ "/tags/flamenco-guitar" | relative_url }}">flamenco guitar</a> # 1</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 8</li>
+            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 35</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 49</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/uMS5oSwhA681v1kkUK6rOJzTWX3kcf5W8ucL31rkChY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNDM5/MjktMTQxNjkzODE4/MC05MzM5LmpwZWc.jpeg" alt="Cover for Delírio Carioca" style="max-width:120px; height:auto;" />
       </td>
@@ -922,7 +922,7 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/iJeHG3PHIU6caoMq36gv8zSk1KtLIVE0YfT3ZQwWjFY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTg4/MDktMTMzMTU0MDc3/Ny5qcGVn.jpeg" alt="Cover for Master Sessions Volume I" style="max-width:120px; height:auto;" />
       </td>
@@ -939,12 +939,12 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       <td>
         <ul>
             <li> <a href="{{ "/tags/mambo" | relative_url }}">mambo</a> # 17</li>
-            <li> <a href="{{ "/tags/cuban" | relative_url }}">cuban</a> # 78</li>
+            <li> <a href="{{ "/tags/cuban" | relative_url }}">cuban</a> # 23</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b475c04f03fc4c67beacad91d6b41271.png" alt="Cover for THE BEST OF IRAKERE" style="max-width:120px; height:auto;" />
       </td>
@@ -962,7 +962,7 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/Q8FjD91R-mD7tnKboAEzHbu-tlRzFptGlpq5QykwouQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5OTcy/MzItMTQ5NDE3MjE5/OC0yMjcwLmpwZWc.jpeg" alt="Cover for The Best Of Paquito D&#39;Rivera" style="max-width:120px; height:auto;" />
       </td>
@@ -982,7 +982,7 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7312cbf750a9007f488486c21c01f060.png" alt="Cover for One More Once" style="max-width:120px; height:auto;" />
       </td>
@@ -1000,7 +1000,7 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/0RvSCNQpHlk8cUyAzqWmwRG_lJ2Ios8IIwZait_COJI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzc3/ODMtMTE5ODU3MzE1/OS5qcGVn.jpeg" alt="Cover for Arturo Sandoval &amp; The Latin Train" style="max-width:120px; height:auto;" />
       </td>
@@ -1016,12 +1016,12 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cuban" | relative_url }}">cuban</a> # 44</li>
+            <li> <a href="{{ "/tags/cuban" | relative_url }}">cuban</a> # 57</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/PoewxhBW8QIMr33FJRQEJqIe2Qje2pxG6KqpNiLg4Zg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NjA3/MjQtMTM4MDY1NDA3/OS01ODg0LmpwZWc.jpeg" alt="Cover for Great Moments" style="max-width:120px; height:auto;" />
       </td>
@@ -1039,7 +1039,7 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
       </td>
       <td>1997-06-23</td>
@@ -1053,16 +1053,16 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/cuban" | relative_url }}">cuban</a> # 1</li>
             <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 2</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 4</li>
             <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 22</li>
             <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 87</li>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 97</li>
-            <li> <a href="{{ "/tags/cuban" | relative_url }}">cuban</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/483aef5a23374660aec1eb450e5f943f.png" alt="Cover for Talkin&#39; Verve" style="max-width:120px; height:auto;" />
       </td>
@@ -1083,7 +1083,7 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/_3eYBh8m6UWxDOoIR3PW2Mq4siErpPij_-U1WGnBR8I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNjg3/MTMtMTU4OTU2NDIz/OC0zNzIxLmpwZWc.jpeg" alt="Cover for Soneando Trombon" style="max-width:120px; height:auto;" />
       </td>
@@ -1102,15 +1102,15 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a> # 2</li>
             <li> <a href="{{ "/tags/mambo" | relative_url }}">mambo</a> # 6</li>
-            <li> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a> # 32</li>
-            <li> <a href="{{ "/tags/puerto-rico" | relative_url }}">puerto rico</a> # 87</li>
-            <li> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a> # 99</li>
+            <li> <a href="{{ "/tags/puerto-rico" | relative_url }}">puerto rico</a> # 14</li>
+            <li> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>99</td>
       <td>
       </td>
       <td>1998</td>
@@ -1129,7 +1129,7 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/Ug9xXTgIjVmM0hTGXd1zReibSPhIaMuVmvyI5ep9Xoo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjMz/NzIzLTE2MjczMjQ0/MTktNjYyNy5qcGVn.jpeg" alt="Cover for Eliane Elias Sings Jobim" style="max-width:120px; height:auto;" />
       </td>
@@ -1149,7 +1149,7 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/Fbs_r3OQe_jR_k0dYkpllWIkd05iyHrxq0RkR33BdFY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMDM0/OS0xMzM0MjYxODky/LmpwZWc.jpeg" alt="Cover for Buena Vista Social Club Presents" style="max-width:120px; height:auto;" />
       </td>
@@ -1163,12 +1163,12 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cuban" | relative_url }}">cuban</a> # 97</li>
+            <li> <a href="{{ "/tags/cuban" | relative_url }}">cuban</a> # 3</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>66</td>
       <td>
       </td>
       <td>1999-05-24</td>
@@ -1181,12 +1181,12 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cuban" | relative_url }}">cuban</a> # 98</li>
+            <li> <a href="{{ "/tags/cuban" | relative_url }}">cuban</a> # 2</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>98</td>
       <td>
           <img src="https://i.discogs.com/mQfQPKa3-KSCp6ogbG_FO3dq1J1cl6vYZiXH_Nsq40s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjYw/NjctMTYxMDg4MzU4/OS03MjAyLmpwZWc.jpeg" alt="Cover for I Need To Know" style="max-width:120px; height:auto;" />
       </td>
@@ -1207,7 +1207,7 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>57</td>
       <td>
       </td>
       <td>2000</td>
@@ -1223,12 +1223,12 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 14</li>
+            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>82</td>
       <td>
       </td>
       <td>2000</td>
@@ -1245,7 +1245,7 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/L5xr4UfHcrwkVDgGu_T7q_fDERN4kfOuVS54BvdyY7Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTU4/ODEtMTM0NDU4ODg3/OC00MzQwLmpwZWc.jpeg" alt="Cover for Cachaito" style="max-width:120px; height:auto;" />
       </td>
@@ -1263,7 +1263,7 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/nx-rfIyeuQz8R0xXku5V1iRoR8e76XWuBEr8b5QKX2Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTI4/MTAtMTU4Nzg0NDEx/My01ODY4LmpwZWc.jpeg" alt="Cover for The Girl From Ipanema - The Bossa Nova Years" style="max-width:120px; height:auto;" />
       </td>
@@ -1281,7 +1281,7 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb8b2975831346748234c54d3073fc34.png" alt="Cover for Jazz Moods - Cool" style="max-width:120px; height:auto;" />
       </td>
@@ -1297,12 +1297,12 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-saxophone" | relative_url }}">jazz saxophone</a> # 97</li>
+            <li> <a href="{{ "/tags/jazz-saxophone" | relative_url }}">jazz saxophone</a> # 4</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>95</td>
       <td>
       </td>
       <td>2002</td>
@@ -1319,7 +1319,7 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/MTlXiUQb2PQHfrICfKDTTsoUCXIXgYsl5kSt82l000s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyOTIz/MzYtMTM4OTc4Mzk0/NC00NjA1LmpwZWc.jpeg" alt="Cover for Mundo" style="max-width:120px; height:auto;" />
       </td>
@@ -1337,14 +1337,14 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 15</li>
             <li> <a href="{{ "/tags/western" | relative_url }}">western</a> # 26</li>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 60</li>
-            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 86</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>45</td>
       <td>
       </td>
       <td>2003</td>
@@ -1364,25 +1364,7 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
     </tr>
     <tr>
-      <td>33</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/25909373c66fdb81d0d961b8c4948b26.png" alt="Cover for New Conceptions" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2003</td>
-      <td>Chucho Valdés</td>
-      <td>New Conceptions</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>38</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/j1u3UTpN5yLuobROI6MO2XRbiQEI6eQwu5L-3x8QPX0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDE5/NTQ4LTE2MDgyMTY2/MTktMjYzOS5qcGVn.jpeg" alt="Cover for Enchantment" style="max-width:120px; height:auto;" />
       </td>
@@ -1400,7 +1382,25 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>68</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/25909373c66fdb81d0d961b8c4948b26.png" alt="Cover for New Conceptions" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Chucho Valdés</td>
+      <td>New Conceptions</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
       <td>
       </td>
       <td>2003-07-22</td>
@@ -1417,7 +1417,7 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/48IxAufmej_-5Op8U0apJyROgVXvWrxQFn6XxRuiRPs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNTM1/OTYtMTQzNDkxODgz/OC0xNTQzLmpwZWc.jpeg" alt="Cover for Poncho at Montreux" style="max-width:120px; height:auto;" />
       </td>
@@ -1436,7 +1436,25 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>19</td>
+      <td>
+      </td>
+      <td>2005</td>
+      <td>St. Petersburg Ska-Jazz Review</td>
+      <td>Too Good To Be True</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/nJqtD4WLyIWArhTcOe7C2Hmyw-7y3cFB9uoIVIytZqY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Mjg1/MTAtMTM2ODEyNTU5/OC01MTMwLmpwZWc.jpeg" alt="Cover for Too Good Too Be True" style="max-width:120px; height:auto;" />
       </td>
@@ -1455,25 +1473,7 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
     </tr>
     <tr>
-      <td>82</td>
-      <td>
-      </td>
-      <td>2005</td>
-      <td>St. Petersburg Ska-Jazz Review</td>
-      <td>Too Good To Be True</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>11</td>
+      <td>90</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c879f22edf1ef6b3b1a504455bc2a33b.png" alt="Cover for Trippin&#39;" style="max-width:120px; height:auto;" />
       </td>
@@ -1492,25 +1492,7 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
     </tr>
     <tr>
-      <td>5</td>
-      <td>
-          <img src="https://i.discogs.com/Tk2YZBeJctB_SJU32oyF9vuZgXjD1t3CFoZTlSgWPW4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDMw/NTIxLTE1MDg1Nzg1/OTAtMzU1Ny5qcGVn.jpeg" alt="Cover for Buena Vista Social Club Presents: Omara Portuondo" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2006</td>
-      <td>Omara Portuondo</td>
-      <td>Buena Vista Social Club Presents: Omara Portuondo</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/BzFoassSC86m_t6vuvDRrEdASRC44ZkMKny3i8m6Akk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MTQ3/MjctMTQ5MTYzMjQz/Ny0zMzc5LmpwZWc.jpeg" alt="Cover for Bebo" style="max-width:120px; height:auto;" />
       </td>
@@ -1528,7 +1510,25 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>96</td>
+      <td>
+          <img src="https://i.discogs.com/Tk2YZBeJctB_SJU32oyF9vuZgXjD1t3CFoZTlSgWPW4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDMw/NTIxLTE1MDg1Nzg1/OTAtMzU1Ny5qcGVn.jpeg" alt="Cover for Buena Vista Social Club Presents: Omara Portuondo" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Omara Portuondo</td>
+      <td>Buena Vista Social Club Presents: Omara Portuondo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
       <td>
       </td>
       <td>2006-03-07</td>
@@ -1545,7 +1545,7 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/tDRHGMEfJeFZXwQxpZaG5Su0MMqbipxzK0MxavbeT44/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNzcz/MjMtMTQ2MDQxNTg4/Ni0yOTEwLmpwZWc.jpeg" alt="Cover for Cafe Tropical" style="max-width:120px; height:auto;" />
       </td>
@@ -1563,7 +1563,7 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/14de1deeeafa449995bdac35b66acd9a.png" alt="Cover for Around The City" style="max-width:120px; height:auto;" />
       </td>
@@ -1582,7 +1582,7 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/UVUk9bCme2gDCQB374LPsxhShNOzHqGKJ3O1wLGpFik/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzEz/MzAtMTE5NDU3NjA2/Ny5qcGVn.jpeg" alt="Cover for Tones Of The Tropics" style="max-width:120px; height:auto;" />
       </td>
@@ -1606,7 +1606,7 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/Br7rrJcb0W2_TQNf37kTYvbFlhDfewFf4dHSpV8Q7XA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNjcx/MS0xMTkzNTE4OTM1/LmpwZWc.jpeg" alt="Cover for Sabor" style="max-width:120px; height:auto;" />
       </td>
@@ -1622,13 +1622,13 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/broken-beat" | relative_url }}">broken beat</a> # 79</li>
+            <li> <a href="{{ "/tags/broken-beat" | relative_url }}">broken beat</a> # 22</li>
             <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/nwFTecC4Fsb29c7XvfcjvWc-0wkMxL8CQJ8MhzqJfeg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODQ4/MDEtMTE5OTEzODIz/NS5qcGVn.jpeg" alt="Cover for A World Within A World" style="max-width:120px; height:auto;" />
       </td>
@@ -1646,7 +1646,7 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>94</td>
       <td>
       </td>
       <td>2007-09-05</td>
@@ -1670,12 +1670,12 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 60</li>
+            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e0097eba9ce343fc8211319914205083.png" alt="Cover for Tropidélico" style="max-width:120px; height:auto;" />
       </td>
@@ -1693,7 +1693,7 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/mTV6FYZkI3DJML0u6KnTO2rcecnBaITcqAG1IbAXcQo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTI0/MTYyLTE2NTgxNTg3/OTgtNDM3OS5wbmc.jpeg" alt="Cover for Buena Vista Social Club (25th Anniversary Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1713,7 +1713,7 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2649e4510f757bc6002a6a2ea0f9d628.png" alt="Cover for Swop" style="max-width:120px; height:auto;" />
       </td>
@@ -1729,15 +1729,15 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 13</li>
-            <li> <a href="{{ "/tags/afro-cuban" | relative_url }}">afro-cuban</a> # 42</li>
-            <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 57</li>
-            <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 92</li>
+            <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 46</li>
+            <li> <a href="{{ "/tags/afro-cuban" | relative_url }}">afro-cuban</a> # 59</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 88</li>
+            <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/aIfDi2ZWyuheUqGzD1B97iAhir2B_CgNy3C_XeEbYKk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjgw/ODYtMTIyNjI0Njk5/MC5qcGVn.jpeg" alt="Cover for Niña De Fuego" style="max-width:120px; height:auto;" />
       </td>
@@ -1755,7 +1755,7 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5d0a3bd02338c8cf00fb1ed4a43eaebb.png" alt="Cover for New York City" style="max-width:120px; height:auto;" />
       </td>
@@ -1772,7 +1772,7 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
       </td>
       <td>2008-10-13</td>
@@ -1785,12 +1785,12 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cuban" | relative_url }}">cuban</a> # 52</li>
+            <li> <a href="{{ "/tags/cuban" | relative_url }}">cuban</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/7t_L2Dd4Xrbz6xWbefK7T2kFGqTM_XcBaQEwGliS-qU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTcz/MDQtMTQwNjA1NDIw/Ny01NjI0LmpwZWc.jpeg" alt="Cover for New York - Addis - LondonThe Story of Ethio Jazz 1965-1975" style="max-width:120px; height:auto;" />
       </td>
@@ -1808,7 +1808,7 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/bxxU7v5hmrsa60SjjePw5v9ny3au_nhcEwI0-OvAckY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNzYz/MDgtMTQxNzcxNzU4/NS0yNzA5LmpwZWc.jpeg" alt="Cover for Top Secrets" style="max-width:120px; height:auto;" />
       </td>
@@ -1827,14 +1827,14 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 30</li>
-            <li> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a> # 75</li>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 97</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 4</li>
+            <li> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a> # 26</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/aef4e3a454a9646c9f00f49888c103cd.png" alt="Cover for Tarzan Original Soundtrack (Italian Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1856,7 +1856,7 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>80</td>
       <td>
       </td>
       <td>2012-03-19</td>
@@ -1874,7 +1874,7 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d5f9c58100e7d20f3be55dcae30b51f1.png" alt="Cover for The Cuban Tapes" style="max-width:120px; height:auto;" />
       </td>
@@ -1896,12 +1896,12 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cuban" | relative_url }}">cuban</a> # 79</li>
+            <li> <a href="{{ "/tags/cuban" | relative_url }}">cuban</a> # 22</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ffba7e29e222465ec682e7b5b1d0307e.png" alt="Cover for Saudade" style="max-width:120px; height:auto;" />
       </td>
@@ -1915,12 +1915,12 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 83</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 18</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/cxUKRh_fDwbqD1Gsdyl8zUcS2oxBJ2MOHEC--IbvG5M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNTQw/MTItMTQ2MDA1NDM3/Ny05NjI2LmpwZWc.jpeg" alt="Cover for Selected Works 1979 to 1983" style="max-width:120px; height:auto;" />
       </td>
@@ -1941,7 +1941,7 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/36d5f00b844fce19dca893b22a591a32.png" alt="Cover for Mirrors" style="max-width:120px; height:auto;" />
       </td>
@@ -1963,7 +1963,7 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/-5Sh5ht-W-NNXNNlNPtP4kssP6Yzco1ORJamWNTpBYQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTgz/Mzk3LTE1MDIyMjYw/MzQtMTA4Mi5qcGVn.jpeg" alt="Cover for So It Is" style="max-width:120px; height:auto;" />
       </td>
@@ -1978,12 +1978,12 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 84</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 17</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/59560295af56912737fbdb59e6315d54.png" alt="Cover for Look Around The Corner" style="max-width:120px; height:auto;" />
       </td>
@@ -2004,7 +2004,7 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/90470b90db044806c385cd6afd9c3c63.png" alt="Cover for COMO LA PIEL" style="max-width:120px; height:auto;" />
       </td>

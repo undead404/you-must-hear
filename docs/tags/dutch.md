@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T03:39:56.268Z
+date: 2025-12-05T09:57:59.972Z
 permalink: tags/dutch
 title: dutch
 ---
 
 ## dutch
 
-Last updated: <time datetime="2025-12-03T03:39:56.268Z">Wed Dec 03 2025 05:39:56 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T09:57:59.972Z">Fri Dec 05 2025 11:57:59 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -62,7 +62,7 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/canterbury-scene" | relative_url }}">canterbury scene</a> # 86</li>
+            <li> <a href="{{ "/tags/canterbury-scene" | relative_url }}">canterbury scene</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -218,7 +218,7 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 18</li>
+            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -236,7 +236,7 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/netherlands" | relative_url }}">netherlands</a> # 89</li>
+            <li> <a href="{{ "/tags/netherlands" | relative_url }}">netherlands</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -272,7 +272,7 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nederlandstalig" | relative_url }}">nederlandstalig</a> # 92</li>
+            <li> <a href="{{ "/tags/nederlandstalig" | relative_url }}">nederlandstalig</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -292,7 +292,7 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nederlandstalig" | relative_url }}">nederlandstalig</a> # 100</li>
+            <li> <a href="{{ "/tags/nederlandstalig" | relative_url }}">nederlandstalig</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -311,7 +311,7 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nederlandstalig" | relative_url }}">nederlandstalig</a> # 77</li>
+            <li> <a href="{{ "/tags/nederlandstalig" | relative_url }}">nederlandstalig</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -334,7 +334,7 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 90</li>
+            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -358,8 +358,8 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 43</li>
-            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 91</li>
+            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 10</li>
+            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -383,7 +383,7 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a> # 93</li>
+            <li> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a> # 8</li>
             <li> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a> # 97</li>
         </ul>
       </td>
@@ -514,7 +514,7 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nederlandstalig" | relative_url }}">nederlandstalig</a> # 97</li>
+            <li> <a href="{{ "/tags/nederlandstalig" | relative_url }}">nederlandstalig</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -557,6 +557,7 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
         <ul>
             <li> <a href="{{ "/tags/fastcore" | relative_url }}">fastcore</a> # 5</li>
             <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 5</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -621,8 +622,8 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 79</li>
-            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 95</li>
+            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 5</li>
+            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -684,10 +685,10 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a> # 83</li>
-            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 96</li>
-            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 98</li>
-            <li> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a> # 100</li>
+            <li> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a> # 1</li>
+            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 3</li>
+            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 5</li>
+            <li> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -764,7 +765,7 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nederlandstalig" | relative_url }}">nederlandstalig</a> # 87</li>
+            <li> <a href="{{ "/tags/nederlandstalig" | relative_url }}">nederlandstalig</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -826,8 +827,8 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 63</li>
-            <li> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a> # 94</li>
+            <li> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a> # 7</li>
+            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -928,7 +929,7 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a> # 91</li>
+            <li> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1003,8 +1004,8 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nederlandstalig" | relative_url }}">nederlandstalig</a> # 85</li>
-            <li> <a href="{{ "/tags/nederlands" | relative_url }}">nederlands</a> # 94</li>
+            <li> <a href="{{ "/tags/nederlands" | relative_url }}">nederlands</a> # 7</li>
+            <li> <a href="{{ "/tags/nederlandstalig" | relative_url }}">nederlandstalig</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1024,7 +1025,7 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nederlandstalig" | relative_url }}">nederlandstalig</a> # 91</li>
+            <li> <a href="{{ "/tags/nederlandstalig" | relative_url }}">nederlandstalig</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1123,7 +1124,7 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a> # 86</li>
+            <li> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1201,7 +1202,7 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a> # 69</li>
+            <li> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1240,7 +1241,7 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 81</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1306,7 +1307,7 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a> # 97</li>
+            <li> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1326,8 +1327,8 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/yiddish" | relative_url }}">yiddish</a> # 4</li>
             <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 28</li>
-            <li> <a href="{{ "/tags/yiddish" | relative_url }}">yiddish</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1409,7 +1410,7 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 97</li>
+            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1433,8 +1434,8 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 36</li>
             <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 62</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1484,9 +1485,9 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 80</li>
-            <li> <a href="{{ "/tags/brass" | relative_url }}">brass</a> # 83</li>
-            <li> <a href="{{ "/tags/netherlands" | relative_url }}">netherlands</a> # 90</li>
+            <li> <a href="{{ "/tags/netherlands" | relative_url }}">netherlands</a> # 11</li>
+            <li> <a href="{{ "/tags/brass" | relative_url }}">brass</a> # 17</li>
+            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1549,7 +1550,7 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 54</li>
+            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1693,7 +1694,7 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nederlandstalig" | relative_url }}">nederlandstalig</a> # 99</li>
+            <li> <a href="{{ "/tags/nederlandstalig" | relative_url }}">nederlandstalig</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -1814,8 +1815,8 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 77</li>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 81</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 20</li>
+            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1855,7 +1856,7 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 90</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1958,7 +1959,7 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/netherlands" | relative_url }}">netherlands</a> # 99</li>
+            <li> <a href="{{ "/tags/netherlands" | relative_url }}">netherlands</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -1981,7 +1982,7 @@ Dutch pop encompasses the diverse popular music created in the Netherlands, blen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/netherlands" | relative_url }}">netherlands</a> # 94</li>
+            <li> <a href="{{ "/tags/netherlands" | relative_url }}">netherlands</a> # 7</li>
         </ul>
       </td>
     </tr>

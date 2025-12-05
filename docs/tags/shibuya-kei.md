@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T03:43:09.943Z
+date: 2025-12-05T10:11:46.436Z
 permalink: tags/shibuya-kei
 title: shibuya-kei
 ---
 
 ## shibuya-kei
 
-Last updated: <time datetime="2025-12-03T03:43:09.943Z">Wed Dec 03 2025 05:43:09 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T10:11:46.436Z">Fri Dec 05 2025 12:11:46 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -47,7 +47,7 @@ Shibuya-kei is a Japanese pop genre that emerged in Tokyo&#39;s Shibuya district
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/j1-aXLyvdDDN2GMEi3HzHOsJNBgNEGCMp9wHupr2D6I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTI2/ODQtMTI5Mjk4MjQ4/NS5qcGVn.jpeg" alt="Cover for Couples" style="max-width:120px; height:auto;" />
       </td>
@@ -137,9 +137,9 @@ Shibuya-kei is a Japanese pop genre that emerged in Tokyo&#39;s Shibuya district
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 16</li>
-            <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 51</li>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 60</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 41</li>
+            <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 49</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -279,7 +279,7 @@ Shibuya-kei is a Japanese pop genre that emerged in Tokyo&#39;s Shibuya district
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/15f84aa300e59c3ad0d5119f85f0d3c3.png" alt="Cover for 風の歌を聴け" style="max-width:120px; height:auto;" />
       </td>
@@ -453,7 +453,7 @@ Shibuya-kei is a Japanese pop genre that emerged in Tokyo&#39;s Shibuya district
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>70</td>
       <td>
       </td>
       <td>1995-09-30</td>
@@ -488,13 +488,13 @@ Shibuya-kei is a Japanese pop genre that emerged in Tokyo&#39;s Shibuya district
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 26</li>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 75</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 25</li>
+            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/6oziW7ckBtFI68ipz3mP-x27LrwExhGJrCEdnQOwoEQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4Nzc3/LTEzOTEyNDY4NDEt/NDI3MS5qcGVn.jpeg" alt="Cover for Viva La Woman" style="max-width:120px; height:auto;" />
       </td>
@@ -510,8 +510,8 @@ Shibuya-kei is a Japanese pop genre that emerged in Tokyo&#39;s Shibuya district
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 16</li>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 68</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 32</li>
+            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -620,7 +620,7 @@ Shibuya-kei is a Japanese pop genre that emerged in Tokyo&#39;s Shibuya district
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 1</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -938,7 +938,7 @@ Shibuya-kei is a Japanese pop genre that emerged in Tokyo&#39;s Shibuya district
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 64</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -965,7 +965,7 @@ Shibuya-kei is a Japanese pop genre that emerged in Tokyo&#39;s Shibuya district
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>81</td>
       <td>
       </td>
       <td>2002-07-03</td>
@@ -979,7 +979,7 @@ Shibuya-kei is a Japanese pop genre that emerged in Tokyo&#39;s Shibuya district
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 19</li>
+            <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1018,9 +1018,9 @@ Shibuya-kei is a Japanese pop genre that emerged in Tokyo&#39;s Shibuya district
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 63</li>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 90</li>
-            <li> <a href="{{ "/tags/japanese-female-pop-rock" | relative_url }}">japanese female pop-rock</a> # 100</li>
+            <li> <a href="{{ "/tags/japanese-female-pop-rock" | relative_url }}">japanese female pop-rock</a> # 1</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 11</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1082,7 +1082,7 @@ Shibuya-kei is a Japanese pop genre that emerged in Tokyo&#39;s Shibuya district
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>74</td>
       <td>
       </td>
       <td>2003-04-23</td>
@@ -1099,9 +1099,9 @@ Shibuya-kei is a Japanese pop genre that emerged in Tokyo&#39;s Shibuya district
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 37</li>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 60</li>
-            <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 66</li>
+            <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 35</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 41</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1137,7 +1137,7 @@ Shibuya-kei is a Japanese pop genre that emerged in Tokyo&#39;s Shibuya district
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 18</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1196,8 +1196,8 @@ Shibuya-kei is a Japanese pop genre that emerged in Tokyo&#39;s Shibuya district
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 16</li>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 36</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 65</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1218,7 +1218,7 @@ Shibuya-kei is a Japanese pop genre that emerged in Tokyo&#39;s Shibuya district
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 87</li>
+            <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1237,7 +1237,7 @@ Shibuya-kei is a Japanese pop genre that emerged in Tokyo&#39;s Shibuya district
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 51</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1280,7 +1280,7 @@ Shibuya-kei is a Japanese pop genre that emerged in Tokyo&#39;s Shibuya district
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/sMqexlGoK_38qCfy3oepiSVtzG3pAP-LYQWuylnWvFM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NTg1/NTEtMTQ2NDAxOTA4/Mi0xMDAxLmpwZWc.jpeg" alt="Cover for after six" style="max-width:120px; height:auto;" />
       </td>
@@ -1316,8 +1316,8 @@ Shibuya-kei is a Japanese pop genre that emerged in Tokyo&#39;s Shibuya district
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 46</li>
-            <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 54</li>
+            <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 47</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1403,26 +1403,6 @@ Shibuya-kei is a Japanese pop genre that emerged in Tokyo&#39;s Shibuya district
       </td>
     </tr>
     <tr>
-      <td>70</td>
-      <td>
-          <img src="https://i.discogs.com/MBJwGqa_4qLZTO52u4aiLyOxSbIFdzJwVVYG3jq7nQ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDUw/MTE3LTE2NzA5MTc2/OTYtMTI2OC5qcGVn.jpeg" alt="Cover for ハイカラ・ガール" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2008</td>
-      <td>Capsule</td>
-      <td>ハイカラ・ガール</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dacd23a9108968bb86ef6b7732801d14.png" alt="Cover for Another Secret" style="max-width:120px; height:auto;" />
@@ -1455,8 +1435,8 @@ Shibuya-kei is a Japanese pop genre that emerged in Tokyo&#39;s Shibuya district
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 58</li>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 97</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 15</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1475,7 +1455,7 @@ Shibuya-kei is a Japanese pop genre that emerged in Tokyo&#39;s Shibuya district
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 58</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1529,12 +1509,12 @@ Shibuya-kei is a Japanese pop genre that emerged in Tokyo&#39;s Shibuya district
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 3</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c15765b1d370defb26d8a308435c7ef.png" alt="Cover for PLAYER" style="max-width:120px; height:auto;" />
       </td>
@@ -1566,8 +1546,8 @@ Shibuya-kei is a Japanese pop genre that emerged in Tokyo&#39;s Shibuya district
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 14</li>
             <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 52</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1590,10 +1570,10 @@ Shibuya-kei is a Japanese pop genre that emerged in Tokyo&#39;s Shibuya district
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 41</li>
-            <li> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a> # 97</li>
-            <li> <a href="{{ "/tags/future-funk" | relative_url }}">future funk</a> # 97</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 99</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 1</li>
+            <li> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a> # 4</li>
+            <li> <a href="{{ "/tags/future-funk" | relative_url }}">future funk</a> # 4</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1658,7 +1638,7 @@ Shibuya-kei is a Japanese pop genre that emerged in Tokyo&#39;s Shibuya district
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 35</li>
+            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 66</li>
             <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 87</li>
         </ul>
       </td>
@@ -1694,7 +1674,7 @@ Shibuya-kei is a Japanese pop genre that emerged in Tokyo&#39;s Shibuya district
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-funk" | relative_url }}">future funk</a> # 93</li>
+            <li> <a href="{{ "/tags/future-funk" | relative_url }}">future funk</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1714,8 +1694,8 @@ Shibuya-kei is a Japanese pop genre that emerged in Tokyo&#39;s Shibuya district
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 43</li>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 59</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 42</li>
+            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1738,7 +1718,7 @@ Shibuya-kei is a Japanese pop genre that emerged in Tokyo&#39;s Shibuya district
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ff3e0f03639021bbe9f93f9f5aed7571.png" alt="Cover for We Are The Times" style="max-width:120px; height:auto;" />
       </td>
@@ -1757,7 +1737,7 @@ Shibuya-kei is a Japanese pop genre that emerged in Tokyo&#39;s Shibuya district
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 50</li>
+            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1815,8 +1795,8 @@ Shibuya-kei is a Japanese pop genre that emerged in Tokyo&#39;s Shibuya district
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 44</li>
-            <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 53</li>
+            <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 48</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1896,7 +1876,7 @@ Shibuya-kei is a Japanese pop genre that emerged in Tokyo&#39;s Shibuya district
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>73</td>
       <td>
       </td>
       <td></td>
@@ -1913,13 +1893,30 @@ Shibuya-kei is a Japanese pop genre that emerged in Tokyo&#39;s Shibuya district
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/912ca9d45dc721837051ff5f73f9d5ed.png" alt="Cover for Katamari Fortissimo Damacy" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Yu Miyake</td>
       <td>Katamari Fortissimo Damacy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>
+      </td>
+      <td></td>
+      <td>リョウときりん(佐藤利奈と大亀あすか)</td>
+      <td>笑顔になる</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
@@ -1971,7 +1968,7 @@ Shibuya-kei is a Japanese pop genre that emerged in Tokyo&#39;s Shibuya district
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/68338384c97611d3801a00a3b36b8d4c.png" alt="Cover for ペルソナ4 オリジナル・サウンドトラック" style="max-width:120px; height:auto;" />
       </td>

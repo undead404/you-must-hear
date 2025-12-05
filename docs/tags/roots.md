@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T03:41:20.017Z
+date: 2025-12-05T10:00:12.033Z
 permalink: tags/roots
 title: roots
 ---
 
 ## roots
 
-Last updated: <time datetime="2025-12-03T03:41:20.017Z">Wed Dec 03 2025 05:41:20 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T10:00:12.033Z">Fri Dec 05 2025 12:00:12 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
   </thead>
   <tbody>
     <tr>
-      <td>32</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7b0edb8aec5544d0b6fd4b9c98224ecd.png" alt="Cover for Songs From The Depression" style="max-width:120px; height:auto;" />
       </td>
@@ -47,12 +47,12 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 43</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
       </td>
       <td>1969</td>
@@ -65,12 +65,12 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 99</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 2</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/IS7pbusJEfgtUM_vs3wI_OWogvzG8_nJp-9kHdKcA7I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzc4/OTI3LTE2MDMxOTcw/NzAtNDc3OC5qcGVn.jpeg" alt="Cover for Trojan Box Set: Roots (3 Of 3)" style="max-width:120px; height:auto;" />
       </td>
@@ -86,12 +86,12 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jamaica" | relative_url }}">jamaica</a> # 44</li>
+            <li> <a href="{{ "/tags/jamaica" | relative_url }}">jamaica</a> # 57</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
       </td>
       <td>1974</td>
@@ -110,7 +110,7 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>95</td>
       <td>
       </td>
       <td>1975</td>
@@ -123,12 +123,12 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jamaica" | relative_url }}">jamaica</a> # 4</li>
+            <li> <a href="{{ "/tags/jamaica" | relative_url }}">jamaica</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>79</td>
       <td>
       </td>
       <td>1975</td>
@@ -147,7 +147,7 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/syKZ7r9oQibFDKeq4OyjlL3dGAe2oh2CzSiH4XS-uKY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NTA5/OS0xMjExOTA1Mzgx/LmpwZWc.jpeg" alt="Cover for Man In The Hills" style="max-width:120px; height:auto;" />
       </td>
@@ -165,7 +165,7 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/cpSErZZhuHlnamfGyNiyTK2XFRDmJJ_jDnbBPnC7j10/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTEw/MzAtMTM0NTE3MDc3/NS00OTE2LmpwZWc.jpeg" alt="Cover for Two Sevens Clash" style="max-width:120px; height:auto;" />
       </td>
@@ -179,31 +179,13 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/roots-reggae" | relative_url }}">roots reggae</a> # 22</li>
-            <li> <a href="{{ "/tags/jamaica" | relative_url }}">jamaica</a> # 30</li>
+            <li> <a href="{{ "/tags/jamaica" | relative_url }}">jamaica</a> # 71</li>
+            <li> <a href="{{ "/tags/roots-reggae" | relative_url }}">roots reggae</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
-      <td>
-          <img src="https://i.discogs.com/sFZPnudK_FQwJpRo0_act24AtWfhmC48cEoxVUEJpqg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5OTI1/Ni0xMjExOTA1Njgx/LmpwZWc.jpeg" alt="Cover for Hail H.I.M." style="max-width:120px; height:auto;" />
-      </td>
-      <td>1980</td>
-      <td>Burning Spear</td>
-      <td>Hail H.I.M.</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>48</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/tRxjHAKjuwPRU-LqRyGxBuenFS1AVvb6wF83DRJNt6s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNjUy/NjAtMTM2MDA5NDc3/Mi01MzU3LmpwZWc.jpeg" alt="Cover for Israel Dub" style="max-width:120px; height:auto;" />
       </td>
@@ -222,7 +204,25 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>83</td>
+      <td>
+          <img src="https://i.discogs.com/sFZPnudK_FQwJpRo0_act24AtWfhmC48cEoxVUEJpqg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5OTI1/Ni0xMjExOTA1Njgx/LmpwZWc.jpeg" alt="Cover for Hail H.I.M." style="max-width:120px; height:auto;" />
+      </td>
+      <td>1980</td>
+      <td>Burning Spear</td>
+      <td>Hail H.I.M.</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/6ZH96hWvzytDaqWL4JERVDMBjNIP9nGBYIxkmIACwoo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1MjQ1/MjUtMTQ4MjE4OTgx/My02Mjk2LmpwZWc.jpeg" alt="Cover for The Very Best of Toots and the Maytals" style="max-width:120px; height:auto;" />
       </td>
@@ -238,12 +238,12 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jamaica" | relative_url }}">jamaica</a> # 80</li>
+            <li> <a href="{{ "/tags/jamaica" | relative_url }}">jamaica</a> # 20</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/qHHSD8D0zXEQpGWkOe1ClYJgXv-68Ug_L7RjVjE4VU8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NzI0/Ni0xMzk5NjU0NzQw/LTY5MzQuanBlZw.jpeg" alt="Cover for Wise and Foolish" style="max-width:120px; height:auto;" />
       </td>
@@ -261,7 +261,7 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/EIikXQcCP56qctOTMqhC-ulJohDn50VcW3cdckwwUuU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjAw/MzAtMTM1NzM4NzE0/OC05NTYwLmpwZWc.jpeg" alt="Cover for King of Kings" style="max-width:120px; height:auto;" />
       </td>
@@ -280,7 +280,7 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/3HODJw9OaurIs4dqme2mzm6KurDpNO9G7nzdL1mhP7k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMzcw/NS0xNjI4MjEyMzc2/LTk0MTEuanBlZw.jpeg" alt="Cover for Reggae Greats" style="max-width:120px; height:auto;" />
       </td>
@@ -295,12 +295,12 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/roots-reggae" | relative_url }}">roots reggae</a> # 68</li>
+            <li> <a href="{{ "/tags/roots-reggae" | relative_url }}">roots reggae</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/yfMl8cOmOhP6cgjDNZtYhdkhKCem_cp1qypOjagr59M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjE5/MDgtMTI4NTM5ODUx/MS5qcGVn.jpeg" alt="Cover for In Session" style="max-width:120px; height:auto;" />
       </td>
@@ -320,7 +320,24 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>11</td>
+      <td>
+      </td>
+      <td>1986</td>
+      <td>Black Uhuru</td>
+      <td>Brutal</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roots" | relative_url }}">roots</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/IvwycCTnHPydILDiMZE_TccZxFfzZFelxAvmtQ1itp0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzE5/MjctMTI4MDk1MDcz/NC5qcGVn.jpeg" alt="Cover for Moods" style="max-width:120px; height:auto;" />
       </td>
@@ -340,24 +357,7 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
     </tr>
     <tr>
-      <td>90</td>
-      <td>
-      </td>
-      <td>1986</td>
-      <td>Black Uhuru</td>
-      <td>Brutal</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roots" | relative_url }}">roots</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>47</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/hFuJQb_KEy5OCKa4g5bB3hu45ggQEEaHcHBAezBz__w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2Nzkx/MTMtMTQ5NjU5Mjk3/NS01NTA5LmpwZWc.jpeg" alt="Cover for La kora du Sénégal, vol. 2 : Chant et poésie d&#39;Afrique noire" style="max-width:120px; height:auto;" />
       </td>
@@ -370,12 +370,12 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 62</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 39</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for Superior Riddim" style="max-width:120px; height:auto;" />
       </td>
@@ -396,7 +396,7 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>40</td>
       <td>
       </td>
       <td>1989</td>
@@ -413,12 +413,12 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 11</li>
+            <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>75</td>
       <td>
       </td>
       <td>1989</td>
@@ -436,7 +436,7 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/byLMc1vdH3e_p8-PDJr4BxmnmkCRikLK1t6mENTcS7w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDI0/MDQtMTQ4NzE3NDQ2/My0yNjU1LmpwZWc.jpeg" alt="Cover for Dreadlocks the Time Is Now" style="max-width:120px; height:auto;" />
       </td>
@@ -453,13 +453,13 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/roots-reggae" | relative_url }}">roots reggae</a> # 55</li>
-            <li> <a href="{{ "/tags/ragga-reggae" | relative_url }}">ragga-reggae</a> # 99</li>
+            <li> <a href="{{ "/tags/ragga-reggae" | relative_url }}">ragga-reggae</a> # 2</li>
+            <li> <a href="{{ "/tags/roots-reggae" | relative_url }}">roots reggae</a> # 46</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
       </td>
       <td>1990-10-08</td>
@@ -479,7 +479,7 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/95f3d0cdb11a1b9ce33d57f829107f2d.png" alt="Cover for Rastaman Vibration (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -501,7 +501,7 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/M1ss0ApPpsKcz8dpfC26pmIyY7RJWGDCW4Y0tXvzelo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NDU3/MzctMTM5MzU0Njk5/NS0yNDg4LmpwZWc.jpeg" alt="Cover for In Dub, Vol. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -518,7 +518,7 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e2105381a5067e4edfdaafe28cdebd7b.png" alt="Cover for Do You Want More?!!!??!" style="max-width:120px; height:auto;" />
       </td>
@@ -537,7 +537,7 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>65</td>
       <td>
       </td>
       <td>1995</td>
@@ -557,7 +557,7 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/q4xb8RSCFk8qIr9CgN2q5p_vqLJCMFvnKPnqwqMM2oA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTY2/NjctMTQ3MTExMTg3/MS0zNDUxLmpwZWc.jpeg" alt="Cover for Be Yourself" style="max-width:120px; height:auto;" />
       </td>
@@ -572,12 +572,12 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancehall-reggae" | relative_url }}">dancehall reggae</a> # 51</li>
+            <li> <a href="{{ "/tags/dancehall-reggae" | relative_url }}">dancehall reggae</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>96</td>
       <td>
           <img src="https://i.discogs.com/DEhRrZyEEp5SlO-GmUlpDDDkodozcMpfxA2vNeXOXyg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDM4/OTEtMTE5MjI4OTAx/My5qcGVn.jpeg" alt="Cover for Dub Convention" style="max-width:120px; height:auto;" />
       </td>
@@ -597,7 +597,7 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>93</td>
       <td>
           <img src="https://i.discogs.com/-DM8u4ZgktagfB-f4gsxrL7kBdMJC6olzC14nHn8OBs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODcx/NjM5LTE2MjE5MTA5/MzctMzQ3Mi5qcGVn.jpeg" alt="Cover for Easy Star Volume 2: Dancehall Culture" style="max-width:120px; height:auto;" />
       </td>
@@ -614,12 +614,12 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jamaican" | relative_url }}">jamaican</a> # 67</li>
+            <li> <a href="{{ "/tags/jamaican" | relative_url }}">jamaican</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
       </td>
       <td>1998-10-06</td>
@@ -634,12 +634,12 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/roots-reggae" | relative_url }}">roots reggae</a> # 84</li>
+            <li> <a href="{{ "/tags/roots-reggae" | relative_url }}">roots reggae</a> # 17</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>59</td>
       <td>
       </td>
       <td>1999-03-23</td>
@@ -659,7 +659,7 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
       </td>
       <td>2000</td>
@@ -675,52 +675,14 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 50</li>
-            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 88</li>
-            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 96</li>
+            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 5</li>
+            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 13</li>
+            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 51</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
-      <td>
-      </td>
-      <td>2000</td>
-      <td>Beef</td>
-      <td>Flexodus</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roots" | relative_url }}">roots</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roots-reggae" | relative_url }}">roots reggae</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>46</td>
-      <td>
-          <img src="https://i.discogs.com/SkiU7EU-VFlafdf95djJ11nqoTtRYzwS34y0ksXQUQM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1OTY4/MDMtMTQ2NDc4NzYz/My0xODU5LmpwZWc.jpeg" alt="Cover for Na Syjon" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2000</td>
-      <td>Etna</td>
-      <td>Na Syjon</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/polish" | relative_url }}">polish</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roots" | relative_url }}">roots</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>56</td>
+      <td>45</td>
       <td>
       </td>
       <td>2000</td>
@@ -741,7 +703,45 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>55</td>
+      <td>
+          <img src="https://i.discogs.com/SkiU7EU-VFlafdf95djJ11nqoTtRYzwS34y0ksXQUQM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1OTY4/MDMtMTQ2NDc4NzYz/My0xODU5LmpwZWc.jpeg" alt="Cover for Na Syjon" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>Etna</td>
+      <td>Na Syjon</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/polish" | relative_url }}">polish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roots" | relative_url }}">roots</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>
+      </td>
+      <td>2000</td>
+      <td>Beef</td>
+      <td>Flexodus</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roots" | relative_url }}">roots</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roots-reggae" | relative_url }}">roots reggae</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/aB971wi2z_0qTZ0MGN9o_UAkGCdAW4-ZGyLWL4hmXC8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzA0/MTktMTMxODk0Nzkw/OC5qcGVn.jpeg" alt="Cover for Boxing &#39;round" style="max-width:120px; height:auto;" />
       </td>
@@ -761,7 +761,7 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b3776c64d4240dd8a9c3a7f9bd233da.png" alt="Cover for Wiosna Ludu" style="max-width:120px; height:auto;" />
       </td>
@@ -779,7 +779,7 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>33</td>
       <td>
       </td>
       <td>2001-06-19</td>
@@ -798,44 +798,7 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
     </tr>
     <tr>
-      <td>73</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f7e3c4dbca9d11c14ae854f863076a52.png" alt="Cover for Tribo Da Lua" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2002</td>
-      <td>Dazaranha</td>
-      <td>Tribo Da Lua</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/roots" | relative_url }}">roots</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>75</td>
-      <td>
-      </td>
-      <td>2002</td>
-      <td>Gondwana</td>
-      <td>Made In Jamaica</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/v08umMCy7yxRv2SutGjPP6cfvtX1sw1phsWL_MHn8cI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MTE3/MTYtMTQyMDkzMzA1/OC00MDE1LmpwZWc.jpeg" alt="Cover for Unplugged" style="max-width:120px; height:auto;" />
       </td>
@@ -855,7 +818,44 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>26</td>
+      <td>
+      </td>
+      <td>2002</td>
+      <td>Gondwana</td>
+      <td>Made In Jamaica</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f7e3c4dbca9d11c14ae854f863076a52.png" alt="Cover for Tribo Da Lua" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>Dazaranha</td>
+      <td>Tribo Da Lua</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/roots" | relative_url }}">roots</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
       <td>
       </td>
       <td>2002-04-02</td>
@@ -875,7 +875,7 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/2tSDE1yen91txSY5Dt70k6kEhhC0ASMI2MZkVCPhMN8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzOTc0/NTItMTMyODgxODkz/Mi5qcGVn.jpeg" alt="Cover for From Rasta To You" style="max-width:120px; height:auto;" />
       </td>
@@ -896,7 +896,7 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/gFHc-5XYc6Aat_5DgeQiG7I--QB1SRvvYo2kKlzpgoo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDY4/MjAtMTI4MzAxMzA3/NS5qcGVn.jpeg" alt="Cover for The Best Of Burning Spear" style="max-width:120px; height:auto;" />
       </td>
@@ -914,7 +914,7 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>61</td>
       <td>
       </td>
       <td>2002-11-19</td>
@@ -934,7 +934,7 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>98</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5a6decf4618a4cad8f8b3242cf3aceb1.png" alt="Cover for Phrenology" style="max-width:120px; height:auto;" />
       </td>
@@ -948,12 +948,12 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a> # 79</li>
+            <li> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a> # 22</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>92</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bc856d8ff6dc1c730d5791e7096b60e0.png" alt="Cover for The Best Of Boubacar Traoré" style="max-width:120px; height:auto;" />
       </td>
@@ -970,13 +970,13 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 36</li>
-            <li> <a href="{{ "/tags/mali" | relative_url }}">mali</a> # 85</li>
+            <li> <a href="{{ "/tags/mali" | relative_url }}">mali</a> # 16</li>
+            <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
       </td>
       <td>2003</td>
@@ -995,7 +995,7 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>94</td>
       <td>
       </td>
       <td>2003</td>
@@ -1011,7 +1011,7 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/GtjoAOBas6E5Nx79CYBRSThYNBSNDf9kpbNqu2UJuMc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjQ0/MTgxLTE1ODg1OTY4/NjItMzgwNS5qcGVn.jpeg" alt="Cover for Vieille ecole" style="max-width:120px; height:auto;" />
       </td>
@@ -1033,23 +1033,23 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 20</li>
-            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 47</li>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 58</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 43</li>
+            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 53</li>
+            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>51</td>
       <td>
+          <img src="https://i.discogs.com/UKrg8En1tRGKMzJrjnUEmFyufH0YoHTCgTG6Hw82Z8M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODIw/MDktMTU1NjEwMzYz/My0zMDkyLmpwZWc.jpeg" alt="Cover for On the Frontline" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
-      <td>Linval Thompson</td>
-      <td>Inna de Yard</td>
+      <td>Black Roots</td>
+      <td>On the Frontline</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roots" | relative_url }}">roots</a></li>
         </ul>
       </td>
       <td>
@@ -1058,28 +1058,7 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
     </tr>
     <tr>
-      <td>29</td>
-      <td>
-          <img src="https://i.discogs.com/MqkGSVgX79gRlVUghKuJS5C7-yG-SknWKBeVWPihUmc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjkz/MjUtMTI2OTYzNTE2/OS5qcGVn.jpeg" alt="Cover for Öppna dörren" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2005</td>
-      <td>Ital Skurk</td>
-      <td>Öppna dörren</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roots" | relative_url }}">roots</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roots-reggae" | relative_url }}">roots reggae</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>34</td>
+      <td>67</td>
       <td>
       </td>
       <td>2005</td>
@@ -1101,16 +1080,19 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>72</td>
       <td>
-          <img src="https://i.discogs.com/UKrg8En1tRGKMzJrjnUEmFyufH0YoHTCgTG6Hw82Z8M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODIw/MDktMTU1NjEwMzYz/My0zMDkyLmpwZWc.jpeg" alt="Cover for On the Frontline" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/MqkGSVgX79gRlVUghKuJS5C7-yG-SknWKBeVWPihUmc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjkz/MjUtMTI2OTYzNTE2/OS5qcGVn.jpeg" alt="Cover for Öppna dörren" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
-      <td>Black Roots</td>
-      <td>On the Frontline</td>
+      <td>Ital Skurk</td>
+      <td>Öppna dörren</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roots" | relative_url }}">roots</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roots-reggae" | relative_url }}">roots reggae</a></li>
         </ul>
       </td>
       <td>
@@ -1119,7 +1101,25 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>89</td>
+      <td>
+      </td>
+      <td>2005</td>
+      <td>Linval Thompson</td>
+      <td>Inna de Yard</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roots" | relative_url }}">roots</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
       <td>
       </td>
       <td>2005-07-07</td>
@@ -1138,7 +1138,7 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
       </td>
       <td>2005-10-09</td>
@@ -1154,13 +1154,13 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 28</li>
-            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 67</li>
+            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 34</li>
+            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e2b757abed30404ebd90cbff0d308f51.png" alt="Cover for Bloom" style="max-width:120px; height:auto;" />
       </td>
@@ -1182,14 +1182,14 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/fiddle" | relative_url }}">fiddle</a> # 62</li>
-            <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 73</li>
+            <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 28</li>
+            <li> <a href="{{ "/tags/fiddle" | relative_url }}">fiddle</a> # 39</li>
             <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/IIE7lSe0OibxpAgquryfWcBAsVT7qbt6amyJiMisG1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNTcx/MTgtMTM2MjY5Nzkw/My03MDA3LmpwZWc.jpeg" alt="Cover for Songbook" style="max-width:120px; height:auto;" />
       </td>
@@ -1213,7 +1213,7 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c0e8969b5df540cdb191627f96a0d630.png" alt="Cover for All Things Real" style="max-width:120px; height:auto;" />
       </td>
@@ -1236,7 +1236,7 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/N62ubTroMFx_ptKXcT4O2VHTsAbRkpVOtU7qS2bkzq4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0OTA5/OC0xMTc2MjkzNjc4/LmpwZWc.jpeg" alt="Cover for Prigadi-pragadi" style="max-width:120px; height:auto;" />
       </td>
@@ -1256,13 +1256,13 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 59</li>
-            <li> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a> # 90</li>
+            <li> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a> # 11</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/WS-RpmgejYiqN8UOL55xl7cVg_35HEVJ6G5vfkFMltc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDc2/ODEyLTE1MTcwNzE4/OTEtOTI5MC5qcGVn.jpeg" alt="Cover for Am Mike" style="max-width:120px; height:auto;" />
       </td>
@@ -1279,12 +1279,12 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/riddim" | relative_url }}">riddim</a> # 87</li>
+            <li> <a href="{{ "/tags/riddim" | relative_url }}">riddim</a> # 14</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
       </td>
       <td>2007</td>
@@ -1302,7 +1302,7 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/54ONZ5XZo9M4ToJYUSHbByaWiO-bQyHHMHGKap3dkpI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NzI2/NTctMTM2NTg2MDMy/MC02NjY1LmpwZWc.jpeg" alt="Cover for Free Yourself" style="max-width:120px; height:auto;" />
       </td>
@@ -1321,7 +1321,7 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/IbKt9ux_1Y0yzL7jDwh-wb-lgl-1raDde5JPQB7FktQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MjI2/NS0xNTg4ODY0MzUx/LTE2MTMuanBlZw.jpeg" alt="Cover for Roots Rock Remixed" style="max-width:120px; height:auto;" />
       </td>
@@ -1341,7 +1341,7 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/eb3dabdbba9544b198c8f79572fff28f.png" alt="Cover for So Much Better" style="max-width:120px; height:auto;" />
       </td>
@@ -1359,32 +1359,12 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/roots-reggae" | relative_url }}">roots reggae</a> # 32</li>
+            <li> <a href="{{ "/tags/roots-reggae" | relative_url }}">roots reggae</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
-      <td>
-          <img src="https://i.discogs.com/ms5BIw7ERT-VyC7sFujm_LCM5a_-kQfvBddHpMmcWvg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjM4/MDIyLTE1NTgwMzIy/MzQtODA3OS5qcGVn.jpeg" alt="Cover for Światło" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2008</td>
-      <td>Anti Babylon System</td>
-      <td>Światło</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roots" | relative_url }}">roots</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roots-reggae" | relative_url }}">roots reggae</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>66</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/65d4038046b4a0667b3594bcbc40a08f.png" alt="Cover for Today" style="max-width:120px; height:auto;" />
       </td>
@@ -1405,7 +1385,27 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>99</td>
+      <td>
+          <img src="https://i.discogs.com/ms5BIw7ERT-VyC7sFujm_LCM5a_-kQfvBddHpMmcWvg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjM4/MDIyLTE1NTgwMzIy/MzQtODA3OS5qcGVn.jpeg" alt="Cover for Światło" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>Anti Babylon System</td>
+      <td>Światło</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roots" | relative_url }}">roots</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roots-reggae" | relative_url }}">roots reggae</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/npBTDUEQ4AnoCLDzIgECsscusWactfK-2WtXmPfRYwM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Nzg2/NzYtMTMwMDYzNTUy/NC5qcGVn.jpeg" alt="Cover for Lyrical Faya" style="max-width:120px; height:auto;" />
       </td>
@@ -1428,7 +1428,7 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>84</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a771cff7ccc5078bbee4034da910c0a.png" alt="Cover for Find a Way to Care" style="max-width:120px; height:auto;" />
       </td>
@@ -1447,7 +1447,7 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0b15d0d723d52d5e2226bd04ef35ed1f.png" alt="Cover for Introducing Hanggai" style="max-width:120px; height:auto;" />
       </td>
@@ -1464,13 +1464,13 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 68</li>
-            <li> <a href="{{ "/tags/asia" | relative_url }}">asia</a> # 92</li>
+            <li> <a href="{{ "/tags/asia" | relative_url }}">asia</a> # 9</li>
+            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c9ad7db9696b489ea79c6b149e84855d.png" alt="Cover for No Love for the Poisonous" style="max-width:120px; height:auto;" />
       </td>
@@ -1492,7 +1492,7 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1cd9679a01bcf123324d7548c9c456c6.png" alt="Cover for Ballads and Mental Breakdowns" style="max-width:120px; height:auto;" />
       </td>
@@ -1517,17 +1517,17 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 33</li>
-            <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 51</li>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 63</li>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 64</li>
-            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 78</li>
-            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 82</li>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 19</li>
+            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 23</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 37</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 38</li>
+            <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 49</li>
+            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/55eaed8e72225c60c565acd6f40cab8f.png" alt="Cover for O Brother, Where Art Thou? (Original Motion Picture Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
@@ -1540,13 +1540,13 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 25</li>
-            <li> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a> # 83</li>
+            <li> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a> # 18</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ae04942b5112eef48f9a9f29937f2c8a.png" alt="Cover for Strange Part Of The Country" style="max-width:120px; height:auto;" />
       </td>
@@ -1572,7 +1572,7 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/xr1zz4gXu_ioACrlr3I7KVfMBswXyZK2GPKCsg0LDjI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzU4/NjktMTMyNzkyNTYz/Ni5qcGVn.jpeg" alt="Cover for It Was Written &#x2F; Flashing Lights" style="max-width:120px; height:auto;" />
       </td>
@@ -1591,7 +1591,7 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
       </td>
       <td>2009-05-26</td>
@@ -1607,12 +1607,12 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 70</li>
+            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 31</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4e4d83c8dcb54f9eab2459c84321ffa9.png" alt="Cover for Pearl River" style="max-width:120px; height:auto;" />
       </td>
@@ -1633,7 +1633,7 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/910c3195e1504bf281cfa77b42095bd9.png" alt="Cover for Undercover Blues" style="max-width:120px; height:auto;" />
       </td>
@@ -1650,12 +1650,12 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 58</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
       </td>
       <td>2010-08-13</td>
@@ -1673,12 +1673,12 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       <td>
         <ul>
             <li> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a> # 16</li>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 23</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/721d9d42236b4d1fb0d45a40a6546f48.png" alt="Cover for Greyhound" style="max-width:120px; height:auto;" />
       </td>
@@ -1696,12 +1696,12 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 34</li>
+            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e768efe692df4bcfcb4b52712f932cb1.png" alt="Cover for The Depths" style="max-width:120px; height:auto;" />
       </td>
@@ -1718,12 +1718,12 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 71</li>
+            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 30</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>97</td>
       <td>
       </td>
       <td>2013</td>
@@ -1740,7 +1740,7 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/phixl03n6qGsPtjpkmXkyXw6b_CEC4aep7ctbiQ2lns/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjI2/MjUtMTU0MjY2Mzgz/NC03MzI3LmpwZWc.jpeg" alt="Cover for Dub, Reggae And Roots From The Melodica King" style="max-width:120px; height:auto;" />
       </td>
@@ -1757,7 +1757,7 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/79fbabb0b477491bc943e26e35f4b395.png" alt="Cover for Smoke &amp; Mirrors" style="max-width:120px; height:auto;" />
       </td>
@@ -1777,7 +1777,7 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/48e523ba9bd118b78083fdaebd1d1f38.png" alt="Cover for Let the Devil In" style="max-width:120px; height:auto;" />
       </td>
@@ -1802,17 +1802,17 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 28</li>
-            <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 49</li>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 60</li>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 63</li>
-            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 75</li>
-            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 81</li>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 20</li>
+            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 26</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 38</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 41</li>
+            <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 51</li>
+            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/xgEnMjaoifKEJ6U1BNbC4uheFNMF7a6ILw6nZYHOGJo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODE2/NTQtMTM5MDMwMDU0/My03MTg3LmpwZWc.jpeg" alt="Cover for Israelites: The Best Of Desmond Dekker" style="max-width:120px; height:auto;" />
       </td>
@@ -1832,7 +1832,7 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c8075cc3e31e1c500a51b3ef30aac13f.png" alt="Cover for Drivin&#39; It Down" style="max-width:120px; height:auto;" />
       </td>
@@ -1852,7 +1852,7 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/E3yu8_XzlK1GYIqwH7ALsu4lnMYezG7ELqjooIjxjz8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MTA0/OTgtMTQ2NzE1OTU5/OS02NTcxLmpwZWc.jpeg" alt="Cover for We Shall Overcome the Seeger Sessions" style="max-width:120px; height:auto;" />
       </td>
@@ -1877,7 +1877,7 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/zrexhXB6EmotlcDRL_pERhxLiwWe5we8iBTvIH0gsDk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDYw/Nzc4LTE2NjI3MjQ0/OTQtMzg0Mi5qcGVn.jpeg" alt="Cover for Ao Vivo Em Atlantida" style="max-width:120px; height:auto;" />
       </td>
@@ -1894,12 +1894,12 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jamaican" | relative_url }}">jamaican</a> # 70</li>
+            <li> <a href="{{ "/tags/jamaican" | relative_url }}">jamaican</a> # 31</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d68e54ce9708460edeb2ea3ca52fd843.png" alt="Cover for STAR IN THE HOOD" style="max-width:120px; height:auto;" />
       </td>
@@ -1922,25 +1922,7 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-      </td>
-      <td>2023</td>
-      <td>Various Artists</td>
-      <td>Roots of Chicha: Psychedelic Cumbias From Peru</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roots" | relative_url }}">roots</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>43</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/QLlCx3adZ0CBbJIBz_OiG3hc_q4BArOXkiRkT8DQzr8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjk4/MTEzLTE3MzU0OTY2/MDktODA1OS5qcGVn.jpeg" alt="Cover for sickness cartridges rain from the aero-blimps. they&#39;re handing out leaflets calling the infections &quot;happiness&quot; and &quot;beauty.&quot;" style="max-width:120px; height:auto;" />
       </td>
@@ -1962,7 +1944,25 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>100</td>
+      <td>
+      </td>
+      <td>2023</td>
+      <td>Various Artists</td>
+      <td>Roots of Chicha: Psychedelic Cumbias From Peru</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roots" | relative_url }}">roots</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/81EVm4iNZZa_0-aMtXsLQgP8WjXto_TXohMiBY4NIzY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzc4/NjYyLTE1NDE3Nzgz/NzUtMTUzMy5qcGVn.jpeg" alt="Cover for The Complete Lee &quot;Scratch&quot; Perry Sessions" style="max-width:120px; height:auto;" />
       </td>
@@ -1983,28 +1983,56 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>29</td>
       <td>
       </td>
       <td></td>
-      <td>Mbuguah</td>
-      <td>Together</td>
+      <td>Crazy Mountain Billies</td>
+      <td>Badlands III</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/africa" | relative_url }}">africa</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jamaica" | relative_url }}">jamaica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roots" | relative_url }}">roots</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jamaica" | relative_url }}">jamaica</a> # 10</li>
+            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 14</li>
+            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>30</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Crazy Mountain Billies</td>
+      <td>Badlands II</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roots" | relative_url }}">roots</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 9</li>
+            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 78</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
       <td>
       </td>
       <td></td>
@@ -2039,67 +2067,56 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-orleans" | relative_url }}">new orleans</a> # 12</li>
-            <li> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a> # 49</li>
+            <li> <a href="{{ "/tags/dixieland" | relative_url }}">dixieland</a> # 22</li>
+            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 38</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 42</li>
+            <li> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a> # 52</li>
             <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 53</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 59</li>
-            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 63</li>
             <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 77</li>
-            <li> <a href="{{ "/tags/dixieland" | relative_url }}">dixieland</a> # 79</li>
+            <li> <a href="{{ "/tags/new-orleans" | relative_url }}">new orleans</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>87</td>
       <td>
       </td>
       <td></td>
-      <td>Crazy Mountain Billies</td>
-      <td>Badlands II</td>
+      <td>Mbuguah</td>
+      <td>Together</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/africa" | relative_url }}">africa</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jamaica" | relative_url }}">jamaica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roots" | relative_url }}">roots</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 23</li>
-            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 92</li>
+            <li> <a href="{{ "/tags/jamaica" | relative_url }}">jamaica</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>39</td>
       <td>
       </td>
       <td></td>
-      <td>Crazy Mountain Billies</td>
-      <td>Badlands III</td>
+      <td>Shango Axe</td>
+      <td>Shango Axe</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roots" | relative_url }}">roots</a></li>
-            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
-            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
-            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a></li>
-            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
-            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 14</li>
-            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>81</td>
       <td>
       </td>
       <td></td>
@@ -2108,23 +2125,6 @@ Roots music encompasses authentic reggae and dub sounds that emerged from Jamaic
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>62</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Shango Axe</td>
-      <td>Shango Axe</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roots" | relative_url }}">roots</a></li>
         </ul>
       </td>
       <td>

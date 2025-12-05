@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T03:37:44.058Z
+date: 2025-12-05T09:54:48.297Z
 permalink: tags/baroque-pop
 title: baroque pop
 ---
 
 ## baroque pop
 
-Last updated: <time datetime="2025-12-03T03:37:44.058Z">Wed Dec 03 2025 05:37:44 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T09:54:48.297Z">Fri Dec 05 2025 11:54:48 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -42,7 +42,7 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 59</li>
+            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 42</li>
             <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 66</li>
         </ul>
       </td>
@@ -61,7 +61,7 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 78</li>
+            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -133,8 +133,8 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 42</li>
-            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 55</li>
+            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 46</li>
+            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 59</li>
             <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 89</li>
         </ul>
       </td>
@@ -155,9 +155,9 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 33</li>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 35</li>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 98</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 3</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 66</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -178,7 +178,7 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 97</li>
+            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -288,7 +288,7 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       <td>
         <ul>
             <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 19</li>
-            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 67</li>
+            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -379,7 +379,7 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 98</li>
+            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -399,7 +399,7 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 77</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -435,9 +435,9 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 14</li>
             <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 21</li>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 56</li>
-            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 87</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -462,11 +462,11 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 1</li>
+            <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 1</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 5</li>
             <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 17</li>
-            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 82</li>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 96</li>
-            <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 100</li>
-            <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 100</li>
+            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -505,9 +505,9 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 28</li>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 58</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 93</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 8</li>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 42</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -530,8 +530,8 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 52</li>
-            <li> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a> # 100</li>
+            <li> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a> # 1</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -558,11 +558,11 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 1</li>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 64</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 77</li>
-            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 94</li>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 99</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 2</li>
+            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 7</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 24</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 37</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -580,7 +580,7 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 68</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -616,8 +616,8 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 62</li>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 63</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 38</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -635,8 +635,8 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 13</li>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 69</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 32</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -655,7 +655,7 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 43</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -716,7 +716,7 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 54</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -736,11 +736,11 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 43</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 82</li>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 88</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 90</li>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 92</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 9</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 11</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 13</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 19</li>
+            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -830,8 +830,8 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 38</li>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 64</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 37</li>
+            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -852,8 +852,8 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 26</li>
             <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 74</li>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -872,7 +872,7 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 40</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -891,7 +891,7 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 33</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -933,9 +933,9 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 3</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 28</li>
             <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 35</li>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 73</li>
-            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -971,7 +971,7 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 95</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -989,9 +989,9 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 5</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 27</li>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 44</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 57</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 74</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1010,7 +1010,7 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 55</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1028,7 +1028,7 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 84</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1063,8 +1063,8 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 9</li>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 44</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 57</li>
+            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1086,7 +1086,7 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 24</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1104,7 +1104,7 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 57</li>
+            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1123,7 +1123,7 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 70</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1141,9 +1141,9 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 72</li>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 77</li>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 78</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 23</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 24</li>
+            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1161,8 +1161,8 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 51</li>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 59</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 42</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1184,8 +1184,8 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       <td>
         <ul>
             <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 23</li>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 43</li>
-            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 76</li>
+            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 25</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1203,7 +1203,7 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 53</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1222,7 +1222,7 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 62</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1240,9 +1240,9 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 29</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 57</li>
-            <li> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a> # 59</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 40</li>
+            <li> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a> # 42</li>
+            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1262,12 +1262,12 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 63</li>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 81</li>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 85</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 89</li>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 95</li>
-            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 99</li>
+            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 2</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 6</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 12</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 15</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 20</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1287,11 +1287,11 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 71</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 77</li>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 77</li>
-            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 96</li>
-            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 96</li>
+            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 5</li>
+            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 5</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 22</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 24</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1312,17 +1312,17 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 29</li>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 33</li>
+            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 1</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 4</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 6</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 17</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 29</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 32</li>
             <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 35</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 36</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 50</li>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 66</li>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 72</li>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 84</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 95</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 97</li>
-            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 100</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 51</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 65</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 68</li>
+            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1343,8 +1343,8 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 79</li>
-            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 100</li>
+            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 1</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1367,11 +1367,11 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 2</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 9</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 13</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 23</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 39</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 78</li>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 88</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 92</li>
-            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1390,8 +1390,8 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 71</li>
-            <li> <a href="{{ "/tags/rock-opera" | relative_url }}">rock opera</a> # 74</li>
+            <li> <a href="{{ "/tags/rock-opera" | relative_url }}">rock opera</a> # 27</li>
+            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1426,7 +1426,7 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 83</li>
+            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1481,7 +1481,7 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 89</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -1501,8 +1501,8 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 1</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 35</li>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1522,8 +1522,8 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 99</li>
-            <li> <a href="{{ "/tags/doomergaze" | relative_url }}">doomergaze</a> # 99</li>
+            <li> <a href="{{ "/tags/doomergaze" | relative_url }}">doomergaze</a> # 2</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -1544,7 +1544,7 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-prog" | relative_url }}">neo-prog</a> # 100</li>
+            <li> <a href="{{ "/tags/neo-prog" | relative_url }}">neo-prog</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -1562,8 +1562,8 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 41</li>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 62</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 40</li>
+            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1582,7 +1582,7 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 46</li>
+            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1638,7 +1638,7 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 75</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1657,7 +1657,7 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 53</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1683,7 +1683,7 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 27</li>
+            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1701,9 +1701,9 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 2</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 9</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 74</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 92</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1742,8 +1742,8 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 32</li>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 56</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 45</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1767,11 +1767,11 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 85</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 93</li>
-            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 98</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 99</li>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 100</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 1</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 2</li>
+            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 2</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 8</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1789,8 +1789,8 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 56</li>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 76</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 25</li>
+            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1826,7 +1826,7 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 49</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1870,8 +1870,8 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 90</li>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 97</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 4</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1889,7 +1889,7 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 71</li>
+            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1907,8 +1907,8 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 57</li>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 65</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 36</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1926,8 +1926,8 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 4</li>
-            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 30</li>
+            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 71</li>
+            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1968,11 +1968,11 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 2</li>
+            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 4</li>
             <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 6</li>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 47</li>
-            <li> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a> # 48</li>
-            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 95</li>
-            <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 99</li>
+            <li> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a> # 52</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1996,8 +1996,8 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 96</li>
-            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 97</li>
+            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 4</li>
+            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -2017,9 +2017,9 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 68</li>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 89</li>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 97</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 4</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 12</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 34</li>
         </ul>
       </td>
     </tr>

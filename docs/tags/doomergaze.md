@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T03:43:50.482Z
+date: 2025-12-05T10:57:09.207Z
 permalink: tags/doomergaze
 title: doomergaze
 ---
 
 ## doomergaze
 
-Last updated: <time datetime="2025-12-03T03:43:50.482Z">Wed Dec 03 2025 05:43:50 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T10:57:09.207Z">Fri Dec 05 2025 12:57:09 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -43,7 +43,7 @@ Doomergaze blends melancholic pop with shoegaze-inspired atmospheric textures, e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 19</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -100,7 +100,7 @@ Doomergaze blends melancholic pop with shoegaze-inspired atmospheric textures, e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 79</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -120,7 +120,7 @@ Doomergaze blends melancholic pop with shoegaze-inspired atmospheric textures, e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 67</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -144,7 +144,7 @@ Doomergaze blends melancholic pop with shoegaze-inspired atmospheric textures, e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 1</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -164,7 +164,7 @@ Doomergaze blends melancholic pop with shoegaze-inspired atmospheric textures, e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 94</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -202,7 +202,7 @@ Doomergaze blends melancholic pop with shoegaze-inspired atmospheric textures, e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 72</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -223,7 +223,7 @@ Doomergaze blends melancholic pop with shoegaze-inspired atmospheric textures, e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 57</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -243,7 +243,7 @@ Doomergaze blends melancholic pop with shoegaze-inspired atmospheric textures, e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 52</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -263,7 +263,7 @@ Doomergaze blends melancholic pop with shoegaze-inspired atmospheric textures, e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 40</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -286,7 +286,7 @@ Doomergaze blends melancholic pop with shoegaze-inspired atmospheric textures, e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 85</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -306,7 +306,7 @@ Doomergaze blends melancholic pop with shoegaze-inspired atmospheric textures, e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 36</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -326,7 +326,7 @@ Doomergaze blends melancholic pop with shoegaze-inspired atmospheric textures, e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 100</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -347,7 +347,7 @@ Doomergaze blends melancholic pop with shoegaze-inspired atmospheric textures, e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 76</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -367,7 +367,7 @@ Doomergaze blends melancholic pop with shoegaze-inspired atmospheric textures, e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 97</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -386,7 +386,7 @@ Doomergaze blends melancholic pop with shoegaze-inspired atmospheric textures, e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 81</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -406,8 +406,8 @@ Doomergaze blends melancholic pop with shoegaze-inspired atmospheric textures, e
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 2</li>
             <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 17</li>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -425,7 +425,7 @@ Doomergaze blends melancholic pop with shoegaze-inspired atmospheric textures, e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 31</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -445,7 +445,7 @@ Doomergaze blends melancholic pop with shoegaze-inspired atmospheric textures, e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 44</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -465,7 +465,7 @@ Doomergaze blends melancholic pop with shoegaze-inspired atmospheric textures, e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 33</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -485,7 +485,7 @@ Doomergaze blends melancholic pop with shoegaze-inspired atmospheric textures, e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 25</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -505,7 +505,7 @@ Doomergaze blends melancholic pop with shoegaze-inspired atmospheric textures, e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 7</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -544,7 +544,7 @@ Doomergaze blends melancholic pop with shoegaze-inspired atmospheric textures, e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 64</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -565,8 +565,8 @@ Doomergaze blends melancholic pop with shoegaze-inspired atmospheric textures, e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 62</li>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 63</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 38</li>
+            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -586,7 +586,7 @@ Doomergaze blends melancholic pop with shoegaze-inspired atmospheric textures, e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 27</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -606,7 +606,7 @@ Doomergaze blends melancholic pop with shoegaze-inspired atmospheric textures, e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 15</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -625,7 +625,7 @@ Doomergaze blends melancholic pop with shoegaze-inspired atmospheric textures, e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 42</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -646,10 +646,10 @@ Doomergaze blends melancholic pop with shoegaze-inspired atmospheric textures, e
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 5</li>
+            <li> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a> # 9</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 12</li>
             <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 25</li>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 89</li>
-            <li> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a> # 92</li>
-            <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -669,7 +669,7 @@ Doomergaze blends melancholic pop with shoegaze-inspired atmospheric textures, e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 69</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -689,7 +689,7 @@ Doomergaze blends melancholic pop with shoegaze-inspired atmospheric textures, e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 38</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -709,7 +709,7 @@ Doomergaze blends melancholic pop with shoegaze-inspired atmospheric textures, e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 37</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -729,7 +729,7 @@ Doomergaze blends melancholic pop with shoegaze-inspired atmospheric textures, e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 30</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -749,7 +749,7 @@ Doomergaze blends melancholic pop with shoegaze-inspired atmospheric textures, e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 6</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -775,10 +775,10 @@ Doomergaze blends melancholic pop with shoegaze-inspired atmospheric textures, e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 23</li>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 75</li>
-            <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 87</li>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 94</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 7</li>
+            <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 14</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 26</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -798,7 +798,7 @@ Doomergaze blends melancholic pop with shoegaze-inspired atmospheric textures, e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 77</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -818,7 +818,7 @@ Doomergaze blends melancholic pop with shoegaze-inspired atmospheric textures, e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 11</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -838,7 +838,7 @@ Doomergaze blends melancholic pop with shoegaze-inspired atmospheric textures, e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 12</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -858,7 +858,7 @@ Doomergaze blends melancholic pop with shoegaze-inspired atmospheric textures, e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 4</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -878,7 +878,7 @@ Doomergaze blends melancholic pop with shoegaze-inspired atmospheric textures, e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 66</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -898,7 +898,7 @@ Doomergaze blends melancholic pop with shoegaze-inspired atmospheric textures, e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 90</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -918,7 +918,7 @@ Doomergaze blends melancholic pop with shoegaze-inspired atmospheric textures, e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 78</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -938,7 +938,7 @@ Doomergaze blends melancholic pop with shoegaze-inspired atmospheric textures, e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 48</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -958,7 +958,7 @@ Doomergaze blends melancholic pop with shoegaze-inspired atmospheric textures, e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 47</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -978,7 +978,7 @@ Doomergaze blends melancholic pop with shoegaze-inspired atmospheric textures, e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 45</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -998,7 +998,7 @@ Doomergaze blends melancholic pop with shoegaze-inspired atmospheric textures, e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 34</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1018,7 +1018,7 @@ Doomergaze blends melancholic pop with shoegaze-inspired atmospheric textures, e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 29</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1038,7 +1038,7 @@ Doomergaze blends melancholic pop with shoegaze-inspired atmospheric textures, e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 28</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1058,7 +1058,7 @@ Doomergaze blends melancholic pop with shoegaze-inspired atmospheric textures, e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 20</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1078,7 +1078,7 @@ Doomergaze blends melancholic pop with shoegaze-inspired atmospheric textures, e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 17</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1098,7 +1098,7 @@ Doomergaze blends melancholic pop with shoegaze-inspired atmospheric textures, e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 3</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1156,7 +1156,7 @@ Doomergaze blends melancholic pop with shoegaze-inspired atmospheric textures, e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 21</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1200,11 +1200,11 @@ Doomergaze blends melancholic pop with shoegaze-inspired atmospheric textures, e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 16</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 22</li>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 24</li>
-            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 92</li>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 95</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 6</li>
+            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 8</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 78</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 79</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1224,7 +1224,7 @@ Doomergaze blends melancholic pop with shoegaze-inspired atmospheric textures, e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 82</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1244,7 +1244,7 @@ Doomergaze blends melancholic pop with shoegaze-inspired atmospheric textures, e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 74</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1264,7 +1264,7 @@ Doomergaze blends melancholic pop with shoegaze-inspired atmospheric textures, e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 35</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1284,7 +1284,7 @@ Doomergaze blends melancholic pop with shoegaze-inspired atmospheric textures, e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 22</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1342,7 +1342,7 @@ Doomergaze blends melancholic pop with shoegaze-inspired atmospheric textures, e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 24</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1362,7 +1362,7 @@ Doomergaze blends melancholic pop with shoegaze-inspired atmospheric textures, e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 8</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1401,7 +1401,7 @@ Doomergaze blends melancholic pop with shoegaze-inspired atmospheric textures, e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 96</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1421,7 +1421,7 @@ Doomergaze blends melancholic pop with shoegaze-inspired atmospheric textures, e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 98</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1443,8 +1443,8 @@ Doomergaze blends melancholic pop with shoegaze-inspired atmospheric textures, e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 87</li>
-            <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 94</li>
+            <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 7</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1465,8 +1465,8 @@ Doomergaze blends melancholic pop with shoegaze-inspired atmospheric textures, e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 86</li>
-            <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 92</li>
+            <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 9</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1486,7 +1486,7 @@ Doomergaze blends melancholic pop with shoegaze-inspired atmospheric textures, e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 83</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1525,7 +1525,7 @@ Doomergaze blends melancholic pop with shoegaze-inspired atmospheric textures, e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 84</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1545,7 +1545,7 @@ Doomergaze blends melancholic pop with shoegaze-inspired atmospheric textures, e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 73</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1565,7 +1565,7 @@ Doomergaze blends melancholic pop with shoegaze-inspired atmospheric textures, e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 61</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1585,7 +1585,7 @@ Doomergaze blends melancholic pop with shoegaze-inspired atmospheric textures, e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 55</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1605,7 +1605,7 @@ Doomergaze blends melancholic pop with shoegaze-inspired atmospheric textures, e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 53</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1625,7 +1625,7 @@ Doomergaze blends melancholic pop with shoegaze-inspired atmospheric textures, e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 26</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1645,7 +1645,7 @@ Doomergaze blends melancholic pop with shoegaze-inspired atmospheric textures, e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 10</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1684,7 +1684,7 @@ Doomergaze blends melancholic pop with shoegaze-inspired atmospheric textures, e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 93</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1723,7 +1723,7 @@ Doomergaze blends melancholic pop with shoegaze-inspired atmospheric textures, e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 91</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1762,7 +1762,7 @@ Doomergaze blends melancholic pop with shoegaze-inspired atmospheric textures, e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 92</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1782,7 +1782,7 @@ Doomergaze blends melancholic pop with shoegaze-inspired atmospheric textures, e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 43</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1824,7 +1824,7 @@ Doomergaze blends melancholic pop with shoegaze-inspired atmospheric textures, e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/doomgaze" | relative_url }}">doomgaze</a> # 49</li>
+            <li> <a href="{{ "/tags/doomgaze" | relative_url }}">doomgaze</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1886,9 +1886,9 @@ Doomergaze blends melancholic pop with shoegaze-inspired atmospheric textures, e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 45</li>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 56</li>
-            <li> <a href="{{ "/tags/rabm" | relative_url }}">rabm</a> # 92</li>
+            <li> <a href="{{ "/tags/rabm" | relative_url }}">rabm</a> # 9</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 45</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1926,7 +1926,7 @@ Doomergaze blends melancholic pop with shoegaze-inspired atmospheric textures, e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 41</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1946,7 +1946,7 @@ Doomergaze blends melancholic pop with shoegaze-inspired atmospheric textures, e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 16</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 85</li>
         </ul>
       </td>
     </tr>

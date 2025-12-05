@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T03:37:02.960Z
+date: 2025-12-05T09:53:55.428Z
 permalink: tags/rock-nacional
 title: rock nacional
 ---
 
 ## rock nacional
 
-Last updated: <time datetime="2025-12-03T03:37:02.960Z">Wed Dec 03 2025 05:37:02 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T09:53:55.428Z">Fri Dec 05 2025 11:53:55 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Rock nacional is a Latin American rock movement that emerged in the 1980s, prima
   </thead>
   <tbody>
     <tr>
-      <td>10</td>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ddb3805522464256a8ef007073f921bd.png" alt="Cover for The Best Of Miriam Makeba: The Early Years" style="max-width:120px; height:auto;" />
       </td>
@@ -44,13 +44,13 @@ Rock nacional is a Latin American rock movement that emerged in the 1980s, prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 66</li>
-            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 74</li>
+            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 27</li>
+            <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 35</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4fdd8378c124ede7d9034f426a90cb30.png" alt="Cover for Por Quem Os Sinos Dobram" style="max-width:120px; height:auto;" />
       </td>
@@ -66,12 +66,12 @@ Rock nacional is a Latin American rock movement that emerged in the 1980s, prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 64</li>
+            <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 37</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/89d38b9772b34cc7cc51d8b1f8d44d20.png" alt="Cover for Batalhões de estranhos" style="max-width:120px; height:auto;" />
       </td>
@@ -86,12 +86,12 @@ Rock nacional is a Latin American rock movement that emerged in the 1980s, prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 35</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2a7add8da7094203a2d01200a5ce68e6.png" alt="Cover for Aerial 13" style="max-width:120px; height:auto;" />
       </td>
@@ -112,7 +112,7 @@ Rock nacional is a Latin American rock movement that emerged in the 1980s, prima
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/1SUNjNh0yVu3c8HEhzXYWuvzS009TJIEpVpPFGcSxdM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjMz/NzktMTQ2OTgxMjEw/MC0xNTc1LmpwZWc.jpeg" alt="Cover for As 20 Mais" style="max-width:120px; height:auto;" />
       </td>
@@ -130,7 +130,7 @@ Rock nacional is a Latin American rock movement that emerged in the 1980s, prima
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5edeb117f78003be4415f0afc8fb7445.png" alt="Cover for A Revolta Dos Dandis" style="max-width:120px; height:auto;" />
       </td>
@@ -143,63 +143,12 @@ Rock nacional is a Latin American rock movement that emerged in the 1980s, prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 44</li>
+            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 57</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
-      <td>
-      </td>
-      <td>1987</td>
-      <td>Various Artists</td>
-      <td>4 Décadas De Rock Nacional (1996-2006)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>15</td>
-      <td>
-      </td>
-      <td>1987</td>
-      <td>Various Artists</td>
-      <td>4 Décadas De Rock Nacional (1966-1976)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>28</td>
-      <td>
-      </td>
-      <td>1987</td>
-      <td>Various Artists</td>
-      <td>4 Décadas De Rock Nacional (1986-1996)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>44</td>
+      <td>57</td>
       <td>
       </td>
       <td>1987</td>
@@ -216,7 +165,58 @@ Rock nacional is a Latin American rock movement that emerged in the 1980s, prima
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>73</td>
+      <td>
+      </td>
+      <td>1987</td>
+      <td>Various Artists</td>
+      <td>4 Décadas De Rock Nacional (1986-1996)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>
+      </td>
+      <td>1987</td>
+      <td>Various Artists</td>
+      <td>4 Décadas De Rock Nacional (1966-1976)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>
+      </td>
+      <td>1987</td>
+      <td>Various Artists</td>
+      <td>4 Décadas De Rock Nacional (1996-2006)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/80fc6365adcb4a503721d38c74a2842c.png" alt="Cover for Un baión para el ojo idiota" style="max-width:120px; height:auto;" />
       </td>
@@ -234,7 +234,7 @@ Rock nacional is a Latin American rock movement that emerged in the 1980s, prima
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>12</td>
       <td>
       </td>
       <td>1990</td>
@@ -251,7 +251,7 @@ Rock nacional is a Latin American rock movement that emerged in the 1980s, prima
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>64</td>
       <td>
       </td>
       <td>1991</td>
@@ -269,7 +269,7 @@ Rock nacional is a Latin American rock movement that emerged in the 1980s, prima
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/CHXPMYhUzlWNz-wfpaPiytpKrL7fJL6eo7S3LWsz-Z4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDg1/MTctMTU3NzgwOTk3/My01NDM4LmpwZWc.jpeg" alt="Cover for Y Punto..." style="max-width:120px; height:auto;" />
       </td>
@@ -289,7 +289,7 @@ Rock nacional is a Latin American rock movement that emerged in the 1980s, prima
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bda7e796a06e44980074974e8d83c042.png" alt="Cover for Filmes de guerra, canções de amor" style="max-width:120px; height:auto;" />
       </td>
@@ -306,7 +306,7 @@ Rock nacional is a Latin American rock movement that emerged in the 1980s, prima
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>16</td>
       <td>
       </td>
       <td>1994</td>
@@ -326,7 +326,7 @@ Rock nacional is a Latin American rock movement that emerged in the 1980s, prima
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/dza_FxgPZ48e0RdUS__aBxFnU8lHSRuxHA85B0HZ4mw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4Nzkw/NzQtMTU3MDEwODYx/MS05NTIxLmpwZWc.jpeg" alt="Cover for Álbum" style="max-width:120px; height:auto;" />
       </td>
@@ -345,16 +345,16 @@ Rock nacional is a Latin American rock movement that emerged in the 1980s, prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 26</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 52</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 55</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 55</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 56</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 45</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 46</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 46</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 49</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>88</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c528b162db4c52355f3dcad0473e990.png" alt="Cover for A Tempestade" style="max-width:120px; height:auto;" />
       </td>
@@ -372,7 +372,7 @@ Rock nacional is a Latin American rock movement that emerged in the 1980s, prima
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>21</td>
       <td>
       </td>
       <td>1997</td>
@@ -389,7 +389,7 @@ Rock nacional is a Latin American rock movement that emerged in the 1980s, prima
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/KZ5U_AOF61sp_1CZ3jx91P62Aoda3yWUQYx94F23Opo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzM4/MTQzLTE1NDEwMDk4/NDQtODI1MS5qcGVn.jpeg" alt="Cover for Demos 2008" style="max-width:120px; height:auto;" />
       </td>
@@ -408,7 +408,7 @@ Rock nacional is a Latin American rock movement that emerged in the 1980s, prima
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/a-qRNV2Z413OznY094zH69DfyZ2_d4rYhC8uWyDkbkc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTc1/NDI1LTE1MTg3ODY5/NjItNzI1NS5qcGVn.jpeg" alt="Cover for Millennium" style="max-width:120px; height:auto;" />
       </td>
@@ -426,7 +426,7 @@ Rock nacional is a Latin American rock movement that emerged in the 1980s, prima
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>89</td>
       <td>
           <img src="https://i.discogs.com/XZGS0t3VJG2Nwztjbm6EI-M47dfJ0dUE6m74cIRVY1M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzY0/NDY4LTE2NjUyNzky/NjAtMTcwMS5qcGVn.jpeg" alt="Cover for Confusões de Pensamentos" style="max-width:120px; height:auto;" />
       </td>
@@ -449,7 +449,7 @@ Rock nacional is a Latin American rock movement that emerged in the 1980s, prima
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4859415197da457ea386f4803a47053c.png" alt="Cover for Mais Do Mesmo" style="max-width:120px; height:auto;" />
       </td>
@@ -463,12 +463,66 @@ Rock nacional is a Latin American rock movement that emerged in the 1980s, prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 86</li>
+            <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 15</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>20</td>
+      <td>
+      </td>
+      <td>1999</td>
+      <td>Ira!</td>
+      <td>Isso é amor</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>
+          <img src="https://i.discogs.com/J-4U3gSKekbd0N6TJS7LUP457cko2JBhuo-o2TDFoTI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNzAy/NTItMTM1NDIxOTQy/OS01MTMwLmpwZWc.jpeg" alt="Cover for Lutar Pelo Que E Meu" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>Charlie Brown JR.</td>
+      <td>Lutar Pelo Que E Meu</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>
+          <img src="https://i.discogs.com/RehimWBG_brykCqxTz7GutSxSXYkHdnInEUu26iXG24/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODQ5/MTE1LTE2NDQxNTU0/MDAtOTI2Mi5qcGVn.jpeg" alt="Cover for Com Voce... Meu Mundo Ficaria Completo" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>Cássia Eller</td>
+      <td>Com Voce... Meu Mundo Ficaria Completo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/lYqbm5zwsDRv3Fe-n92FXKwgGqkBBzqWWj0e4jMsGTY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNjQz/NDctMTQxNTEwNjk5/NS00MzE5LmpwZWc.jpeg" alt="Cover for O Essencial de Nenhum de Nós - Série Focus" style="max-width:120px; height:auto;" />
       </td>
@@ -488,61 +542,7 @@ Rock nacional is a Latin American rock movement that emerged in the 1980s, prima
       </td>
     </tr>
     <tr>
-      <td>43</td>
-      <td>
-          <img src="https://i.discogs.com/RehimWBG_brykCqxTz7GutSxSXYkHdnInEUu26iXG24/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODQ5/MTE1LTE2NDQxNTU0/MDAtOTI2Mi5qcGVn.jpeg" alt="Cover for Com Voce... Meu Mundo Ficaria Completo" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1999</td>
-      <td>Cássia Eller</td>
-      <td>Com Voce... Meu Mundo Ficaria Completo</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>60</td>
-      <td>
-          <img src="https://i.discogs.com/J-4U3gSKekbd0N6TJS7LUP457cko2JBhuo-o2TDFoTI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNzAy/NTItMTM1NDIxOTQy/OS01MTMwLmpwZWc.jpeg" alt="Cover for Lutar Pelo Que E Meu" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1999</td>
-      <td>Charlie Brown JR.</td>
-      <td>Lutar Pelo Que E Meu</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>80</td>
-      <td>
-      </td>
-      <td>1999</td>
-      <td>Ira!</td>
-      <td>Isso é amor</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>36</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/yJj8EvHhqThOLeK-iPs4CLPZDhZPfxwDIbEPpZ5NWMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODI1/ODYyLTE1NDI2ODA2/NDktMjUyMS5qcGVn.jpeg" alt="Cover for 90°" style="max-width:120px; height:auto;" />
       </td>
@@ -560,7 +560,7 @@ Rock nacional is a Latin American rock movement that emerged in the 1980s, prima
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/sAKLMpfqgd4KITeVEg8h45GKpPtIRhKR-F8NFUTb8rM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMTE1/NDMtMTQzMTYzMjEx/NS04MDczLnBuZw.jpeg" alt="Cover for Acustico Mtv" style="max-width:120px; height:auto;" />
       </td>
@@ -580,7 +580,7 @@ Rock nacional is a Latin American rock movement that emerged in the 1980s, prima
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>23</td>
       <td>
       </td>
       <td>2001</td>
@@ -599,7 +599,7 @@ Rock nacional is a Latin American rock movement that emerged in the 1980s, prima
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/48932fc38c45f846a79f0a74807c91a0.png" alt="Cover for Amor Pra Recomeçar" style="max-width:120px; height:auto;" />
       </td>
@@ -617,7 +617,7 @@ Rock nacional is a Latin American rock movement that emerged in the 1980s, prima
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/KAhLtVik6yUAyNXxfzLaFFim7l00wJMx20yyYmNMm28/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTk4/NTgtMTM0NzUwMzI1/Ny01OTYzLmpwZWc.jpeg" alt="Cover for &#39;Novo Aeon&#39;" style="max-width:120px; height:auto;" />
       </td>
@@ -635,12 +635,32 @@ Rock nacional is a Latin American rock movement that emerged in the 1980s, prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 42</li>
+            <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>53</td>
+      <td>
+          <img src="https://i.discogs.com/ZDz2Bn8lfsBthrLuHr-UOLlVO9ICUkwb3_3cd6epgF4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1OTgz/OTgtMTQyMjgxMTE0/Mi0xOTYwLmpwZWc.jpeg" alt="Cover for Detrás de las paredes" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>Charly García</td>
+      <td>Detrás de las paredes</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/7LBqg-B2y6Xss_ki84M63asJl09J4YJRU_MdlPKPDrY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDg0/ODUzLTE1NTUwOTI5/MjAtODQ0Ny5qcGVn.jpeg" alt="Cover for Manfra" style="max-width:120px; height:auto;" />
       </td>
@@ -663,27 +683,7 @@ Rock nacional is a Latin American rock movement that emerged in the 1980s, prima
       </td>
     </tr>
     <tr>
-      <td>48</td>
-      <td>
-          <img src="https://i.discogs.com/ZDz2Bn8lfsBthrLuHr-UOLlVO9ICUkwb3_3cd6epgF4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1OTgz/OTgtMTQyMjgxMTE0/Mi0xOTYwLmpwZWc.jpeg" alt="Cover for Detrás de las paredes" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2002</td>
-      <td>Charly García</td>
-      <td>Detrás de las paredes</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/859ef49f50a4410bc101b845a75bc218.png" alt="Cover for Rosas E Vinho Tinto" style="max-width:120px; height:auto;" />
       </td>
@@ -697,12 +697,12 @@ Rock nacional is a Latin American rock movement that emerged in the 1980s, prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 52</li>
+            <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/HA6MjCEstZDWz-OqZvncICHTFX5ktOSnn5NI4EoWGaA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMTIz/OTItMTQ3NDk4NDIy/NC03NzQ0LmpwZWc.jpeg" alt="Cover for 15 Andar" style="max-width:120px; height:auto;" />
       </td>
@@ -720,7 +720,7 @@ Rock nacional is a Latin American rock movement that emerged in the 1980s, prima
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/G9691tQkImNX8wqklf5KF21-HTDV8bbds5ZS6D42U84/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTI5/MzI3LTE0OTIxMzE2/NjUtODMzMC5qcGVn.jpeg" alt="Cover for FLARE" style="max-width:120px; height:auto;" />
       </td>
@@ -736,12 +736,12 @@ Rock nacional is a Latin American rock movement that emerged in the 1980s, prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternativo" | relative_url }}">alternativo</a> # 67</li>
+            <li> <a href="{{ "/tags/alternativo" | relative_url }}">alternativo</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/z3BKSkAJmsi2s-2KnYVjyBeEFQjWmtZrTriqka7prHQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NTU1/NDctMTQyMTg5Njc4/NC00NjU5LmpwZWc.jpeg" alt="Cover for Vos" style="max-width:120px; height:auto;" />
       </td>
@@ -759,7 +759,7 @@ Rock nacional is a Latin American rock movement that emerged in the 1980s, prima
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>9</td>
       <td>
       </td>
       <td>2003-11-20</td>
@@ -777,7 +777,7 @@ Rock nacional is a Latin American rock movement that emerged in the 1980s, prima
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d73d79bf42274f379f0ba536b5a8476f.png" alt="Cover for Como Animales" style="max-width:120px; height:auto;" />
       </td>
@@ -797,7 +797,7 @@ Rock nacional is a Latin American rock movement that emerged in the 1980s, prima
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2c133e2d6c96b221433801870efc0d43.png" alt="Cover for A Contraluz" style="max-width:120px; height:auto;" />
       </td>
@@ -812,12 +812,12 @@ Rock nacional is a Latin American rock movement that emerged in the 1980s, prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 77</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 24</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/DACu8JdPWTppZd2QAMkmzOcluij2uqJl9CVEwoE9LGw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODQx/MzM0LTE1MjMyODkx/MTUtMjYxMi5qcGVn.jpeg" alt="Cover for Para Mi Para Vos" style="max-width:120px; height:auto;" />
       </td>
@@ -835,7 +835,7 @@ Rock nacional is a Latin American rock movement that emerged in the 1980s, prima
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/418951b9a315cbd663639ddd6fe25b9b.png" alt="Cover for Acústico MTV" style="max-width:120px; height:auto;" />
       </td>
@@ -854,7 +854,7 @@ Rock nacional is a Latin American rock movement that emerged in the 1980s, prima
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ae28af596987af49904b75fd7491bee7.png" alt="Cover for Estaciones" style="max-width:120px; height:auto;" />
       </td>
@@ -876,7 +876,7 @@ Rock nacional is a Latin American rock movement that emerged in the 1980s, prima
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/rL4sAek3PE0x6-hhTIBzYTf4kHxq4AkSoAWFF7otIow/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTI1/OTYzLTE0OTIwNzg5/MTctNjAxMy5qcGVn.jpeg" alt="Cover for MAQUETAS LOS RECONOCES" style="max-width:120px; height:auto;" />
       </td>
@@ -895,7 +895,7 @@ Rock nacional is a Latin American rock movement that emerged in the 1980s, prima
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/INjSb1M_ek3UqSSDkpeB3HmLClXaDFx1XT4-spXFKQk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTI5/ODExLTE1MTA0MTUw/OTUtMTg0OS5qcGVn.jpeg" alt="Cover for Otro Día en el Planeta Tierra" style="max-width:120px; height:auto;" />
       </td>
@@ -915,7 +915,7 @@ Rock nacional is a Latin American rock movement that emerged in the 1980s, prima
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
       </td>
       <td>2005-12-21</td>
@@ -933,7 +933,7 @@ Rock nacional is a Latin American rock movement that emerged in the 1980s, prima
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
       </td>
       <td>2006-04</td>
@@ -950,7 +950,7 @@ Rock nacional is a Latin American rock movement that emerged in the 1980s, prima
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>8</td>
       <td>
       </td>
       <td>2006-05</td>
@@ -970,7 +970,7 @@ Rock nacional is a Latin American rock movement that emerged in the 1980s, prima
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/2Rxg4xlAcMscRCZ3UnnwJsVhcWH0MREWlTbTkStKl3Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNzMw/NTgtMTQ2NjEwMjMw/NC0zMTgyLmpwZWc.jpeg" alt="Cover for Brasileira Ao Vivo: Uma Homenagem Ao Samba-Reggae" style="max-width:120px; height:auto;" />
       </td>
@@ -997,7 +997,7 @@ Rock nacional is a Latin American rock movement that emerged in the 1980s, prima
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>33</td>
       <td>
       </td>
       <td>2007</td>
@@ -1015,7 +1015,7 @@ Rock nacional is a Latin American rock movement that emerged in the 1980s, prima
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>11</td>
       <td>
       </td>
       <td>2007-04-20</td>
@@ -1035,7 +1035,7 @@ Rock nacional is a Latin American rock movement that emerged in the 1980s, prima
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/E0CSxKKcPUG_36UN8Vp4kM7SrziMQpAubzZn0IwHINU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MDk4/NjQtMTM5NzkxNzUx/Ny02NTgyLmpwZWc.jpeg" alt="Cover for SóNós" style="max-width:120px; height:auto;" />
       </td>
@@ -1053,7 +1053,7 @@ Rock nacional is a Latin American rock movement that emerged in the 1980s, prima
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/KKIMD9bugW_7PeInzSwAMpN4pEMYb4Tpe2ZqFr79paM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDEx/OTc5LTE1NDY0NDIz/MDEtODkwMC5qcGVn.jpeg" alt="Cover for Aventuras domesticas" style="max-width:120px; height:auto;" />
       </td>
@@ -1071,7 +1071,7 @@ Rock nacional is a Latin American rock movement that emerged in the 1980s, prima
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c7753c1a4d534ad9a82598e9dd4a6434.png" alt="Cover for Esclavo" style="max-width:120px; height:auto;" />
       </td>
@@ -1092,7 +1092,7 @@ Rock nacional is a Latin American rock movement that emerged in the 1980s, prima
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>17</td>
       <td>
       </td>
       <td>2008-05-06</td>
@@ -1107,12 +1107,12 @@ Rock nacional is a Latin American rock movement that emerged in the 1980s, prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spanish-rock" | relative_url }}">spanish rock</a> # 90</li>
+            <li> <a href="{{ "/tags/spanish-rock" | relative_url }}">spanish rock</a> # 11</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/5Ku5dSYoQrHUcklHJaMTtY1-c1Yh8LfAZkhQKThtgwU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTA1/NzAwLTE1MDk5MzY3/NzgtMjY5NC5qcGVn.jpeg" alt="Cover for Silêncio Raro" style="max-width:120px; height:auto;" />
       </td>
@@ -1133,50 +1133,12 @@ Rock nacional is a Latin American rock movement that emerged in the 1980s, prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 9</li>
+            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
-      <td>
-          <img src="https://i.discogs.com/PlqjRJVH18vlUd6BXfPFYzLFHye1PXThYxpLiK9snHo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzYy/OTY1LTE2NjUyNjMx/MzctNzY5Ny5qcGVn.jpeg" alt="Cover for À moda do caos" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2009</td>
-      <td>Martiataka</td>
-      <td>À moda do caos</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td>
-          <img src="https://i.discogs.com/PlqjRJVH18vlUd6BXfPFYzLFHye1PXThYxpLiK9snHo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzYy/OTY1LTE2NjUyNjMx/MzctNzY5Ny5qcGVn.jpeg" alt="Cover for Marginal" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2009</td>
-      <td>Martiataka</td>
-      <td>Marginal</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/dch_6TxkGx-GsxAdIdXWsDrAuRpgcRG4LUaBSuYjdnQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzM5/MTQ4LTE1MTQ1MzQx/OTYtMzg1MC5qcGVn.jpeg" alt="Cover for Ya no somos dos ahora" style="max-width:120px; height:auto;" />
       </td>
@@ -1195,7 +1157,45 @@ Rock nacional is a Latin American rock movement that emerged in the 1980s, prima
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>94</td>
+      <td>
+          <img src="https://i.discogs.com/PlqjRJVH18vlUd6BXfPFYzLFHye1PXThYxpLiK9snHo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzYy/OTY1LTE2NjUyNjMx/MzctNzY5Ny5qcGVn.jpeg" alt="Cover for Marginal" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Martiataka</td>
+      <td>Marginal</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>
+          <img src="https://i.discogs.com/PlqjRJVH18vlUd6BXfPFYzLFHye1PXThYxpLiK9snHo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzYy/OTY1LTE2NjUyNjMx/MzctNzY5Ny5qcGVn.jpeg" alt="Cover for À moda do caos" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Martiataka</td>
+      <td>À moda do caos</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d666b1f4d33f8f46d7393c9b12e1901e.png" alt="Cover for Sete Chaves" style="max-width:120px; height:auto;" />
       </td>
@@ -1214,7 +1214,7 @@ Rock nacional is a Latin American rock movement that emerged in the 1980s, prima
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/HuNFOBc_ZbiB7ixg96Qq-Y1z_knInnhdSfI6mNzSX9Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5OTkx/MTEtMTQ1MzIwNzU2/My04NTc3LmpwZWc.jpeg" alt="Cover for Acústico" style="max-width:120px; height:auto;" />
       </td>
@@ -1230,15 +1230,15 @@ Rock nacional is a Latin American rock movement that emerged in the 1980s, prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 19</li>
-            <li> <a href="{{ "/tags/unplugged" | relative_url }}">unplugged</a> # 20</li>
-            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 31</li>
-            <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 48</li>
+            <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 53</li>
+            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 70</li>
+            <li> <a href="{{ "/tags/unplugged" | relative_url }}">unplugged</a> # 80</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
       </td>
       <td>2011</td>
@@ -1256,13 +1256,13 @@ Rock nacional is a Latin American rock movement that emerged in the 1980s, prima
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>54</td>
       <td>
-          <img src="https://i.discogs.com/FPOGpgjlAPt9-EMFJE9r2NPciCrCdM-UpGzXhPx0zcw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODA4/MTY5LTE1ODE5OTM4/MTMtMjY2MC5qcGVn.jpeg" alt="Cover for Saturno (Deluxe Version)" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/_kCt3Y1KYFgtU3fOBJwFXpWY6ABXP_0uasR50ghwen4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNDU4/NTQtMTQ3ODk4MjQ4/My02NzMwLmpwZWc.jpeg" alt="Cover for Realidade Aumentada" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
-      <td>Capital Inicial</td>
-      <td>Saturno (Deluxe Version)</td>
+      <td>The Tape Disaster</td>
+      <td>Realidade Aumentada</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a></li>
@@ -1274,7 +1274,7 @@ Rock nacional is a Latin American rock movement that emerged in the 1980s, prima
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/QQ9A8GLbindEs3_lpiJu1-c-JFbcGswT53oT_vj_IkA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzM5/MTQ0LTE1MTQ1MzQw/MDYtNTg0Ny5qcGVn.jpeg" alt="Cover for COPLA" style="max-width:120px; height:auto;" />
       </td>
@@ -1293,13 +1293,13 @@ Rock nacional is a Latin American rock movement that emerged in the 1980s, prima
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>71</td>
       <td>
-          <img src="https://i.discogs.com/_kCt3Y1KYFgtU3fOBJwFXpWY6ABXP_0uasR50ghwen4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNDU4/NTQtMTQ3ODk4MjQ4/My02NzMwLmpwZWc.jpeg" alt="Cover for Realidade Aumentada" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/FPOGpgjlAPt9-EMFJE9r2NPciCrCdM-UpGzXhPx0zcw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODA4/MTY5LTE1ODE5OTM4/MTMtMjY2MC5qcGVn.jpeg" alt="Cover for Saturno (Deluxe Version)" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
-      <td>The Tape Disaster</td>
-      <td>Realidade Aumentada</td>
+      <td>Capital Inicial</td>
+      <td>Saturno (Deluxe Version)</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a></li>
@@ -1311,7 +1311,7 @@ Rock nacional is a Latin American rock movement that emerged in the 1980s, prima
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/yAzh6cOYqDoF5GWL81eEUeraIm-fuW2arbKphf4Y4to/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzM5/MTMyLTE1MTQ1MzM3/MzEtODEwMi5qcGVn.jpeg" alt="Cover for Visceral" style="max-width:120px; height:auto;" />
       </td>
@@ -1330,7 +1330,7 @@ Rock nacional is a Latin American rock movement that emerged in the 1980s, prima
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4e61c8987ac64cb09adb30d124b243c0.png" alt="Cover for Animal Nacional" style="max-width:120px; height:auto;" />
       </td>
@@ -1350,7 +1350,25 @@ Rock nacional is a Latin American rock movement that emerged in the 1980s, prima
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>7</td>
+      <td>
+          <img src="https://i.discogs.com/2GEG0xp_ivYksJ-qHrd2S2NVJDz0R_uX8st1qO4apDM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTg5/NzM0LTE1Njk1Mzg5/NzItMTI3Ny5qcGVn.jpeg" alt="Cover for Usted Señalemelo" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014</td>
+      <td>Usted Señalemelo</td>
+      <td>Usted Señalemelo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3656cd815fe20525449c6594a3243fa1.png" alt="Cover for Não Estamos Sozinhos (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1370,25 +1388,7 @@ Rock nacional is a Latin American rock movement that emerged in the 1980s, prima
       </td>
     </tr>
     <tr>
-      <td>94</td>
-      <td>
-          <img src="https://i.discogs.com/2GEG0xp_ivYksJ-qHrd2S2NVJDz0R_uX8st1qO4apDM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTg5/NzM0LTE1Njk1Mzg5/NzItMTI3Ny5qcGVn.jpeg" alt="Cover for Usted Señalemelo" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2014</td>
-      <td>Usted Señalemelo</td>
-      <td>Usted Señalemelo</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>81</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/Pa4Rp_KLRB-8f2XvkZZ861tHH-YJxRaJRcAwN9ikhR4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDA5/OTY0LTE1MjY0OTIz/MDAtNjkwNS5qcGVn.jpeg" alt="Cover for historias" style="max-width:120px; height:auto;" />
       </td>
@@ -1408,7 +1408,7 @@ Rock nacional is a Latin American rock movement that emerged in the 1980s, prima
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
       </td>
       <td>2014-11-27</td>
@@ -1426,7 +1426,7 @@ Rock nacional is a Latin American rock movement that emerged in the 1980s, prima
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/S_JDWNh9zzfk8V9NJCcjP1h0lAPdgipGK_zzU1hgfQI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NzAz/MTUtMTQ2MDA2NjYw/My02NjMyLmpwZWc.jpeg" alt="Cover for El Viaje A Ninguna Parte" style="max-width:120px; height:auto;" />
       </td>
@@ -1445,13 +1445,70 @@ Rock nacional is a Latin American rock movement that emerged in the 1980s, prima
       <td>
         <ul>
             <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 15</li>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 56</li>
-            <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 78</li>
+            <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 23</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 45</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>31</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/55b3de126beaf6ec84b82e9f61e2e6f3.png" alt="Cover for Ultraje a Rigor x Raimundos" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015</td>
+      <td>Ultraje A Rigor</td>
+      <td>Ultraje a Rigor x Raimundos</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>
+          <img src="https://i.discogs.com/MUtnLH4R863qgKKLYI4GlbP6Z0_3RNHCroHzDPw3w3M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzM5/MTA3LTE1MTQ1MzM1/NjQtOTY1OC5qcGVn.jpeg" alt="Cover for ¡Eureka!" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015</td>
+      <td>Salta la Banca</td>
+      <td>¡Eureka!</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e6ddafec4ec7aba00542ba546ffdedf8.png" alt="Cover for Piano Volumen 2" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015</td>
+      <td>Daniel Melero</td>
+      <td>Piano Volumen 2</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
       <td>
           <img src="https://i.discogs.com/1zkD6dO_e-_GB_dxoZkDqGq5TcH1qQMqAtT9pqMFiXo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzQ0/NTAyLTE2NDYxMjY5/MjYtMTk5OS5qcGVn.jpeg" alt="Cover for Aleph Zero" style="max-width:120px; height:auto;" />
       </td>
@@ -1491,64 +1548,7 @@ Rock nacional is a Latin American rock movement that emerged in the 1980s, prima
       </td>
     </tr>
     <tr>
-      <td>33</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e6ddafec4ec7aba00542ba546ffdedf8.png" alt="Cover for Piano Volumen 2" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2015</td>
-      <td>Daniel Melero</td>
-      <td>Piano Volumen 2</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>55</td>
-      <td>
-          <img src="https://i.discogs.com/MUtnLH4R863qgKKLYI4GlbP6Z0_3RNHCroHzDPw3w3M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzM5/MTA3LTE1MTQ1MzM1/NjQtOTY1OC5qcGVn.jpeg" alt="Cover for ¡Eureka!" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2015</td>
-      <td>Salta la Banca</td>
-      <td>¡Eureka!</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>70</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/55b3de126beaf6ec84b82e9f61e2e6f3.png" alt="Cover for Ultraje a Rigor x Raimundos" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2015</td>
-      <td>Ultraje A Rigor</td>
-      <td>Ultraje a Rigor x Raimundos</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/7AEJAWlgX9ijE5YUlniJ1Ef1iJDbHF3jYQibzNOvIUo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzIy/MDItMTQ3ODc0Mjk1/Ni01NTE4LmpwZWc.jpeg" alt="Cover for Casi Justicia Social" style="max-width:120px; height:auto;" />
       </td>
@@ -1567,7 +1567,7 @@ Rock nacional is a Latin American rock movement that emerged in the 1980s, prima
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/To1iRF0CpTtty6KPaqJSH3cAVHgnAt5UpRCwzLWvZ30/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzk0/NzQ2LTE2NDI1NDg3/NjgtMzUxNS5qcGVn.jpeg" alt="Cover for De Buena Madera" style="max-width:120px; height:auto;" />
       </td>
@@ -1587,7 +1587,7 @@ Rock nacional is a Latin American rock movement that emerged in the 1980s, prima
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/409135ba70cc42fc9a8a4f89c3885682.png" alt="Cover for Respirar" style="max-width:120px; height:auto;" />
       </td>
@@ -1610,7 +1610,7 @@ Rock nacional is a Latin American rock movement that emerged in the 1980s, prima
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/kHY9qMKnv6KVc1oXAutPYTPgqeWofaVoVSHqV9ExMFk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjAx/OTEtMTI2NzI0MzM3/MC5qcGVn.jpeg" alt="Cover for {Des}concerto" style="max-width:120px; height:auto;" />
       </td>
@@ -1628,7 +1628,7 @@ Rock nacional is a Latin American rock movement that emerged in the 1980s, prima
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/BNDF8UkiMtr41rWgoV7dLr-VRNtheYu3ndIMIo-jvZw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMjcw/MDEtMTQwOTE2Mzc3/MS01ODAwLmpwZWc.jpeg" alt="Cover for A golpes de Rock&#39;n&#39;Roll" style="max-width:120px; height:auto;" />
       </td>
@@ -1648,31 +1648,7 @@ Rock nacional is a Latin American rock movement that emerged in the 1980s, prima
       </td>
     </tr>
     <tr>
-      <td>78</td>
-      <td>
-          <img src="https://i.discogs.com/RBHfDtC4AGL5agc-Wl8WSyY_Za_IauUT1-9YSO1Z9EA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Nzk0/NTQ0LTE2OTkwNTg4/NTMtOTYwNy5wbmc.jpeg" alt="Cover for Lo Más Cercano a Caer" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2023-05-26</td>
-      <td>Nenagenix</td>
-      <td>Lo Más Cercano a Caer</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doomergaze" | relative_url }}">doomergaze</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/doomergaze" | relative_url }}">doomergaze</a> # 54</li>
-            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 76</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>87</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8a41ecaf64bd960438f322fc0c2adf29.png" alt="Cover for Lo Más Cercano a Caer" style="max-width:120px; height:auto;" />
       </td>
@@ -1690,13 +1666,37 @@ Rock nacional is a Latin American rock movement that emerged in the 1980s, prima
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/doomergaze" | relative_url }}">doomergaze</a> # 30</li>
             <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 39</li>
-            <li> <a href="{{ "/tags/doomergaze" | relative_url }}">doomergaze</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>22</td>
+      <td>
+          <img src="https://i.discogs.com/RBHfDtC4AGL5agc-Wl8WSyY_Za_IauUT1-9YSO1Z9EA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Nzk0/NTQ0LTE2OTkwNTg4/NTMtOTYwNy5wbmc.jpeg" alt="Cover for Lo Más Cercano a Caer" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023-05-26</td>
+      <td>Nenagenix</td>
+      <td>Lo Más Cercano a Caer</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doomergaze" | relative_url }}">doomergaze</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/doomergaze" | relative_url }}">doomergaze</a> # 47</li>
+            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 76</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
       <td>
       </td>
       <td></td>
@@ -1712,175 +1712,26 @@ Rock nacional is a Latin American rock movement that emerged in the 1980s, prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternativo" | relative_url }}">alternativo</a> # 22</li>
-            <li> <a href="{{ "/tags/viola" | relative_url }}">viola</a> # 67</li>
+            <li> <a href="{{ "/tags/viola" | relative_url }}">viola</a> # 34</li>
+            <li> <a href="{{ "/tags/alternativo" | relative_url }}">alternativo</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>48</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/41cc48c87ae3fc95836cc5c9b9766ca5.png" alt="Cover for Coisas Da Vida" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>A Nova Banda da Cidade</td>
-      <td>A Nova Banda da Cidade</td>
+      <td>Os Caras &amp; Carol</td>
+      <td>Coisas Da Vida</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Sujetos Deseantes</td>
-      <td>Sujetos Deseantes</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Martiataka</td>
-      <td>Rockæ Roll Combustível</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>8</td>
-      <td>
-      </td>
-      <td></td>
-      <td>CATALINATOM</td>
-      <td>Natural &#x2F; Tal mar</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>9</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Derroche</td>
-      <td>Maqueta</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>18</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ca45941cb10aa82715af86b47dd42e99.png" alt="Cover for Idiocracia" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Besouro da Lua</td>
-      <td>Idiocracia</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>22</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/559abd685a234e95bde7d7e20e18f9a2.png" alt="Cover for Não Tente Me Prender" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Sinfonia Aleatória</td>
-      <td>Não Tente Me Prender</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>23</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Vários intérpretes</td>
-      <td>Mónó</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>32</td>
-      <td>
-      </td>
-      <td></td>
-      <td>RadioEletricos</td>
-      <td>Nós ainda somos iguais</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a></li>
         </ul>
@@ -1891,16 +1742,17 @@ Rock nacional is a Latin American rock movement that emerged in the 1980s, prima
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>52</td>
       <td>
       </td>
       <td></td>
-      <td>Marcelo Lupis</td>
-      <td>SHHHH</td>
+      <td>Escola de Robô</td>
+      <td>Um Mais Um Mais</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a></li>
         </ul>
       </td>
@@ -1910,7 +1762,43 @@ Rock nacional is a Latin American rock movement that emerged in the 1980s, prima
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>55</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/99ae73dc49767dd608f12f61ae2b9a7e.png" alt="Cover for Lar" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Colina</td>
+      <td>Lar</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>
+      </td>
+      <td></td>
+      <td>LanLan e os Elaines</td>
+      <td>Com Ela</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dce13f14d2cf44cea42c573900d88efc.png" alt="Cover for Bad Luck Experience" style="max-width:120px; height:auto;" />
       </td>
@@ -1931,14 +1819,16 @@ Rock nacional is a Latin American rock movement that emerged in the 1980s, prima
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>67</td>
       <td>
       </td>
       <td></td>
-      <td>LanLan e os Elaines</td>
-      <td>Com Ela</td>
+      <td>Marcelo Lupis</td>
+      <td>SHHHH</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a></li>
         </ul>
       </td>
@@ -1948,60 +1838,170 @@ Rock nacional is a Latin American rock movement that emerged in the 1980s, prima
       </td>
     </tr>
     <tr>
-      <td>46</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/99ae73dc49767dd608f12f61ae2b9a7e.png" alt="Cover for Lar" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Colina</td>
-      <td>Lar</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>49</td>
+      <td>69</td>
       <td>
       </td>
       <td></td>
-      <td>Escola de Robô</td>
-      <td>Um Mais Um Mais</td>
+      <td>RadioEletricos</td>
+      <td>Nós ainda somos iguais</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>53</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/41cc48c87ae3fc95836cc5c9b9766ca5.png" alt="Cover for Coisas Da Vida" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Os Caras &amp; Carol</td>
-      <td>Coisas Da Vida</td>
-      <td>
-        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Vários intérpretes</td>
+      <td>Mónó</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/559abd685a234e95bde7d7e20e18f9a2.png" alt="Cover for Não Tente Me Prender" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Sinfonia Aleatória</td>
+      <td>Não Tente Me Prender</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ca45941cb10aa82715af86b47dd42e99.png" alt="Cover for Idiocracia" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Besouro da Lua</td>
+      <td>Idiocracia</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Derroche</td>
+      <td>Maqueta</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>
+      </td>
+      <td></td>
+      <td>CATALINATOM</td>
+      <td>Natural &#x2F; Tal mar</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Martiataka</td>
+      <td>Rockæ Roll Combustível</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Sujetos Deseantes</td>
+      <td>Sujetos Deseantes</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+      </td>
+      <td></td>
+      <td>A Nova Banda da Cidade</td>
+      <td>A Nova Banda da Cidade</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a></li>
         </ul>
       </td>

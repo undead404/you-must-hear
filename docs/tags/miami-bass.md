@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T03:43:45.119Z
+date: 2025-12-05T10:52:04.126Z
 permalink: tags/miami-bass
 title: miami bass
 ---
 
 ## miami bass
 
-Last updated: <time datetime="2025-12-03T03:43:45.119Z">Wed Dec 03 2025 05:43:45 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T10:52:04.126Z">Fri Dec 05 2025 12:52:04 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
   </thead>
   <tbody>
     <tr>
-      <td>78</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2c730003d14efc3e3103065887788d82.png" alt="Cover for Pretty Girl Party" style="max-width:120px; height:auto;" />
       </td>
@@ -49,7 +49,25 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>48</td>
+      <td>
+      </td>
+      <td>1972</td>
+      <td>Various Artists</td>
+      <td>Miami Bass Express</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
       <td>
           <img src="https://i.discogs.com/rfLxFuASfblLhnPG5-TnKpxDrRj3wMeSHX2dpLK9Y9s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTIx/OTI1LTE2MjY0OTgy/MDctMTIyNy5qcGVn.jpeg" alt="Cover for Masters Of Tweak! (TWCD-001)" style="max-width:120px; height:auto;" />
       </td>
@@ -69,25 +87,7 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
     </tr>
     <tr>
-      <td>53</td>
-      <td>
-      </td>
-      <td>1972</td>
-      <td>Various Artists</td>
-      <td>Miami Bass Express</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>28</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/pVjf6F2mELuLRJpR1g3AK3mcjvziMUJ3gHhzoDEFKe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE3/LTE2NDc5NjEwMDgt/NjcwMS5qcGVn.jpeg" alt="Cover for Further Out" style="max-width:120px; height:auto;" />
       </td>
@@ -107,7 +107,7 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/d1UFlrNDZY6D-bjfmFZJ4w5bD7YyEFWGAa8uHPipAfw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjEy/NDk4LTE2NzI0MDU0/NTMtODM1OC5qcGVn.jpeg" alt="Cover for Saint of the Pit" style="max-width:120px; height:auto;" />
       </td>
@@ -127,12 +127,12 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 71</li>
+            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 28</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b1e558a433190e141d877b28665a4fec.png" alt="Cover for Dirty Love Songs" style="max-width:120px; height:auto;" />
       </td>
@@ -151,18 +151,17 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 75</li>
+            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 24</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>57</td>
       <td>
-          <img src="https://i.discogs.com/pVjf6F2mELuLRJpR1g3AK3mcjvziMUJ3gHhzoDEFKe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE3/LTE2NDc5NjEwMDgt/NjcwMS5qcGVn.jpeg" alt="Cover for Flavored Beats 4" style="max-width:120px; height:auto;" />
       </td>
       <td>1987</td>
-      <td>Various Artists</td>
-      <td>Flavored Beats 4</td>
+      <td>MC Shy-D</td>
+      <td>got to be tough</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a></li>
@@ -174,7 +173,7 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/QQznaDLX19Jx0pQclJ4IiF_KWskV1qkhCf_Para3-6w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MTkz/LTEzODA2MDk1NzMt/NTgzNC5qcGVn.jpeg" alt="Cover for Got To Be Tough" style="max-width:120px; height:auto;" />
       </td>
@@ -192,12 +191,13 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>72</td>
       <td>
+          <img src="https://i.discogs.com/pVjf6F2mELuLRJpR1g3AK3mcjvziMUJ3gHhzoDEFKe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE3/LTE2NDc5NjEwMDgt/NjcwMS5qcGVn.jpeg" alt="Cover for Flavored Beats 4" style="max-width:120px; height:auto;" />
       </td>
       <td>1987</td>
-      <td>MC Shy-D</td>
-      <td>got to be tough</td>
+      <td>Various Artists</td>
+      <td>Flavored Beats 4</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a></li>
@@ -209,7 +209,7 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/w7i3NSojV7BLkiwqimoMqTEtdPMXxzxoct8uyKdhUwI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTA0/MTgtMTIxMjYwMzcw/MS5qcGVn.jpeg" alt="Cover for Double-Barrel Prayer" style="max-width:120px; height:auto;" />
       </td>
@@ -247,32 +247,14 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 35</li>
-            <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 46</li>
-            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 51</li>
+            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 49</li>
+            <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 55</li>
+            <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
-      <td>
-      </td>
-      <td>1988</td>
-      <td>Various Artists</td>
-      <td>The Miami Bass Wars</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/ZMsZMttGhPRWNHH2B6QdLoL29kqZ65agCLpggc5uwbo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTE4/OC0wMDEuanBn.jpeg" alt="Cover for Banned in the U.S.A." style="max-width:120px; height:auto;" />
       </td>
@@ -290,7 +272,25 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>51</td>
+      <td>
+      </td>
+      <td>1988</td>
+      <td>Various Artists</td>
+      <td>The Miami Bass Wars</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c751a949259a44e5585b6983aee0bc1b.png" alt="Cover for Sports Weekend" style="max-width:120px; height:auto;" />
       </td>
@@ -308,13 +308,13 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 27</li>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 32</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 69</li>
+            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1ff80e301818bfcf65cae1a268f9d0b8.png" alt="Cover for As Nasty As They Wanna Be" style="max-width:120px; height:auto;" />
       </td>
@@ -331,7 +331,7 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/797b025805edb48d7866d1493ca8406e.png" alt="Cover for Sla Radical Dance Disco Club" style="max-width:120px; height:auto;" />
       </td>
@@ -344,13 +344,31 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 69</li>
+            <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 31</li>
             <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>62</td>
+      <td>
+      </td>
+      <td>1990</td>
+      <td>The Boys From the Bottom</td>
+      <td>Boom I Got Your Girlfriend</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bass" | relative_url }}">bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/lotYBeu_1tJiNZhk5-I9U8zWajocX_l-bD6Jgbk2s3k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTQ1/OTgtMTYyNjExOTQy/NC05NDEzLmpwZWc.jpeg" alt="Cover for All You Need" style="max-width:120px; height:auto;" />
       </td>
@@ -369,25 +387,7 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
     </tr>
     <tr>
-      <td>39</td>
-      <td>
-      </td>
-      <td>1990</td>
-      <td>The Boys From the Bottom</td>
-      <td>Boom I Got Your Girlfriend</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bass" | relative_url }}">bass</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
       </td>
       <td>1993-03-03</td>
@@ -405,7 +405,7 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/noa0eqK35mZJoRLHBvEeeVseNxc8z49qPXbgxMeMIJw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3Njgw/OS0xNTkwNDAzMjc0/LTYxNTUuanBlZw.jpeg" alt="Cover for Pumpin The Trax" style="max-width:120px; height:auto;" />
       </td>
@@ -421,12 +421,53 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a> # 68</li>
+            <li> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>30</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/858d7b629cfc5b05d6204ee26bccf996.png" alt="Cover for Shake A Lil&#39; Somethin&#39;" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996</td>
+      <td>2 Live Crew</td>
+      <td>Shake A Lil&#39; Somethin&#39;</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>
+          <img src="https://i.discogs.com/V6n1tj5qLB2G7GSe69_3yUrOzWtsT4ZYeBwXnOQDpr4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzUw/NDMtMTM4MzM1NTM4/Ny05NzE5LmpwZWc.jpeg" alt="Cover for So So Def Bass All-Stars" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996</td>
+      <td>Ghost Town DJ&#39;s</td>
+      <td>So So Def Bass All-Stars</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
+            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/GbaAjNO2LgeF926HADmjwDfBmpIXuS5tapYvXpsQNAE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDk3/NDItMTI1MjU4NTM2/OS5qcGVn.jpeg" alt="Cover for The Original 2 Live Crew" style="max-width:120px; height:auto;" />
       </td>
@@ -448,57 +489,15 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>39</td>
       <td>
-          <img src="https://i.discogs.com/V6n1tj5qLB2G7GSe69_3yUrOzWtsT4ZYeBwXnOQDpr4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzUw/NDMtMTM4MzM1NTM4/Ny05NzE5LmpwZWc.jpeg" alt="Cover for So So Def Bass All-Stars" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1996</td>
-      <td>Ghost Town DJ&#39;s</td>
-      <td>So So Def Bass All-Stars</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
-            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>71</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/858d7b629cfc5b05d6204ee26bccf996.png" alt="Cover for Shake A Lil&#39; Somethin&#39;" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1996</td>
-      <td>2 Live Crew</td>
-      <td>Shake A Lil&#39; Somethin&#39;</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>35</td>
-      <td>
-          <img src="https://i.discogs.com/pVjf6F2mELuLRJpR1g3AK3mcjvziMUJ3gHhzoDEFKe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE3/LTE2NDc5NjEwMDgt/NjcwMS5qcGVn.jpeg" alt="Cover for History of Miami Bass" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/GbaAjNO2LgeF926HADmjwDfBmpIXuS5tapYvXpsQNAE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDk3/NDItMTI1MjU4NTM2/OS5qcGVn.jpeg" alt="Cover for The Real One" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
-      <td>Various Artists</td>
-      <td>History of Miami Bass</td>
+      <td>2 Live Crew</td>
+      <td>The Real One</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a></li>
         </ul>
       </td>
@@ -508,7 +507,7 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/erb9jyYysK8g1hLToHu8Jgw3JYyShrpi8glUqWTMJ_g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMTEx/MTQtMTQyNDA5MDA0/Mi04OTg2LmpwZWc.jpeg" alt="Cover for Greatest Hits Vol. 4" style="max-width:120px; height:auto;" />
       </td>
@@ -527,15 +526,16 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>66</td>
       <td>
-          <img src="https://i.discogs.com/GbaAjNO2LgeF926HADmjwDfBmpIXuS5tapYvXpsQNAE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDk3/NDItMTI1MjU4NTM2/OS5qcGVn.jpeg" alt="Cover for The Real One" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/pVjf6F2mELuLRJpR1g3AK3mcjvziMUJ3gHhzoDEFKe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE3/LTE2NDc5NjEwMDgt/NjcwMS5qcGVn.jpeg" alt="Cover for History of Miami Bass" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
-      <td>2 Live Crew</td>
-      <td>The Real One</td>
+      <td>Various Artists</td>
+      <td>History of Miami Bass</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a></li>
         </ul>
       </td>
@@ -545,7 +545,7 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/DGRBwh2xQBNg6OIOsfN-2LG7Z0DVLQxPaXTnOjlWgNg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTIw/NC0xNTg2OTEzMzA0/LTQ5NDkuanBlZw.jpeg" alt="Cover for Flavored Beats 4" style="max-width:120px; height:auto;" />
       </td>
@@ -563,7 +563,7 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
       </td>
       <td>2000</td>
@@ -580,7 +580,7 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/QMMlyMpbVVnep0zjqWJCnMJ_s6eBoUxQwU4BeCdFl0E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MDM5/NS0xNjEwNTAyMDU4/LTM3MDAubXBv.jpeg" alt="Cover for Got Funk?, Vol. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -597,7 +597,7 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/oDnO8NzuT9cebmKWIVeEFpBJ0ZhEiuDN6hrpY43REJQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzcw/ODU3LTE0OTkzNjY0/NjQtNDQ5MC5qcGVn.jpeg" alt="Cover for The Best of Tag Team" style="max-width:120px; height:auto;" />
       </td>
@@ -615,7 +615,7 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/QB-wAv4iFneA2_zRx2d0BWQITCe93soDXmDoa0dQxFo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNzUy/LTEwODQxNDM5MDku/anBn.jpeg" alt="Cover for Live" style="max-width:120px; height:auto;" />
       </td>
@@ -636,7 +636,7 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>38</td>
       <td>
       </td>
       <td>2001-09-17</td>
@@ -657,7 +657,7 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/05cc113d265d5c64b190e351709b4748.png" alt="Cover for Funk 4 da Trunk" style="max-width:120px; height:auto;" />
       </td>
@@ -679,7 +679,7 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>100</td>
       <td>
           <img src="https://i.discogs.com/uhdzdNvTQhu--Clv5mSpub7dUoq8pVmu5P4o2kzP5h0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTI1/Mi0xMTI0MTk1MDEy/LmpwZw.jpeg" alt="Cover for Stop Drop &amp; Funk" style="max-width:120px; height:auto;" />
       </td>
@@ -697,24 +697,7 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
     </tr>
     <tr>
-      <td>70</td>
-      <td>
-      </td>
-      <td>2003-12-08</td>
-      <td>Diamanda Galás</td>
-      <td>Defixiones, Will and Testament</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 54</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
       </td>
       <td>2003-12-08</td>
@@ -734,12 +717,49 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 62</li>
+            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 37</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>31</td>
+      <td>
+      </td>
+      <td>2003-12-08</td>
+      <td>Diamanda Galás</td>
+      <td>Defixiones, Will and Testament</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 45</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a75a9f2a2bf4410babf81933b5e6c702.png" alt="Cover for Bangers &amp; Cash" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>Spank Rock</td>
+      <td>Bangers &amp; Cash</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/5ug5oKnv6aNx-HTkD8gCv278ia36nM7_cMi_WUHy2Ak/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjUx/Njk0LTE1MzE0NTY4/NTQtOTA5Ny5qcGVn.jpeg" alt="Cover for Back At Your Ass For The Nine-4" style="max-width:120px; height:auto;" />
       </td>
@@ -760,27 +780,7 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
     </tr>
     <tr>
-      <td>91</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a75a9f2a2bf4410babf81933b5e6c702.png" alt="Cover for Bangers &amp; Cash" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2005</td>
-      <td>Spank Rock</td>
-      <td>Bangers &amp; Cash</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f5092a408b5db4a889311894cca9c6d.png" alt="Cover for Arular" style="max-width:120px; height:auto;" />
       </td>
@@ -793,13 +793,13 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 53</li>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 72</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 29</li>
+            <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/MdbGiHGpR6yl67GV_Ak6NVDHOCTh4jsnEfhRMQXmPZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4ODEx/My0xMzYyOTE2ODcz/LTUyNTguanBlZw.jpeg" alt="Cover for Booty Bass" style="max-width:120px; height:auto;" />
       </td>
@@ -817,7 +817,7 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
       </td>
       <td>2005-10</td>
@@ -838,7 +838,7 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/PK1HrYgkHv_U8Dx-D7n3q2KAVcDkmKaALPO5lhkS3I4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2Nzk1/Ni0xMTQ1NDY1NzIx/LmpwZWc.jpeg" alt="Cover for YoYoYoYoYoYo" style="max-width:120px; height:auto;" />
       </td>
@@ -851,31 +851,12 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 78</li>
+            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 23</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
-      <td>
-          <img src="https://i.discogs.com/1yqYFlc88wcQ1vMkPX8xG4qYV31o9cF-HSjkoSpQLRg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNDI1/NS0xMzE2OTc1Mzc3/LmpwZWc.jpeg" alt="Cover for Sex-O-Matic" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2006</td>
-      <td>Edu K</td>
-      <td>Sex-O-Matic</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f2badb9f32044db87763ea6e21224b6.png" alt="Cover for From Buraka To The World EP" style="max-width:120px; height:auto;" />
       </td>
@@ -897,7 +878,26 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>54</td>
+      <td>
+          <img src="https://i.discogs.com/1yqYFlc88wcQ1vMkPX8xG4qYV31o9cF-HSjkoSpQLRg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNDI1/NS0xMzE2OTc1Mzc3/LmpwZWc.jpeg" alt="Cover for Sex-O-Matic" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Edu K</td>
+      <td>Sex-O-Matic</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/PK1HrYgkHv_U8Dx-D7n3q2KAVcDkmKaALPO5lhkS3I4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2Nzk1/Ni0xMTQ1NDY1NzIx/LmpwZWc.jpeg" alt="Cover for Yo Yo Yo Yo Yo" style="max-width:120px; height:auto;" />
       </td>
@@ -914,7 +914,7 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/309fb7e8ba743810e9de9174e3b24551.png" alt="Cover for YoYoYoYoYo" style="max-width:120px; height:auto;" />
       </td>
@@ -927,12 +927,12 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 76</li>
+            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 25</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
       </td>
       <td>2008-04-01</td>
@@ -952,13 +952,13 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 42</li>
-            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 70</li>
+            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 29</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/afc05eee00594deca3694af61188f85a.png" alt="Cover for Oozing Bass Spasms" style="max-width:120px; height:auto;" />
       </td>
@@ -978,12 +978,12 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 69</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb1ab2d1e8dc4e0d890d8c7ca5204e10.png" alt="Cover for Nuttin&#39; Butt Funk" style="max-width:120px; height:auto;" />
       </td>
@@ -1004,7 +1004,7 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5b0a91502d128f42714fe9aacc248e39.png" alt="Cover for Party Rock" style="max-width:120px; height:auto;" />
       </td>
@@ -1021,13 +1021,12 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>40</td>
       <td>
-          <img src="https://i.discogs.com/MbWVsSLnwj-G-tffY6M_XR_Lns6zQ8fsnky6iCInRMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODMy/NzMtMTQzOTAzOTEz/MS04MDExLmpwZWc.jpeg" alt="Cover for Dark Side of the Boom" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Various Artists</td>
-      <td>Dark Side of the Boom</td>
+      <td>DJ Magic Mike Presents… Bootyz In Motion</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a></li>
@@ -1039,7 +1038,25 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>45</td>
+      <td>
+          <img src="https://i.discogs.com/c7wVSWlGT0aW6QKArXn3mcYNNdrWvjBpM6z5Lv4qDlw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDU4/ODQtMTUwNTMxMjA0/My0xMzI4LmpwZWc.jpeg" alt="Cover for Gotta Lotta Booty Explicit" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Various Artists</td>
+      <td>Gotta Lotta Booty Explicit</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/MbWVsSLnwj-G-tffY6M_XR_Lns6zQ8fsnky6iCInRMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODMy/NzMtMTQzOTAzOTEz/MS04MDExLmpwZWc.jpeg" alt="Cover for I&#39;m About To Break" style="max-width:120px; height:auto;" />
       </td>
@@ -1058,13 +1075,13 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>63</td>
       <td>
-          <img src="https://i.discogs.com/c7wVSWlGT0aW6QKArXn3mcYNNdrWvjBpM6z5Lv4qDlw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDU4/ODQtMTUwNTMxMjA0/My0xMzI4LmpwZWc.jpeg" alt="Cover for Gotta Lotta Booty Explicit" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/MbWVsSLnwj-G-tffY6M_XR_Lns6zQ8fsnky6iCInRMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODMy/NzMtMTQzOTAzOTEz/MS04MDExLmpwZWc.jpeg" alt="Cover for Dark Side of the Boom" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Various Artists</td>
-      <td>Gotta Lotta Booty Explicit</td>
+      <td>Dark Side of the Boom</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a></li>
@@ -1076,24 +1093,7 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
     </tr>
     <tr>
-      <td>61</td>
-      <td>
-      </td>
-      <td>2009</td>
-      <td>Various Artists</td>
-      <td>DJ Magic Mike Presents… Bootyz In Motion</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>67</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6159a97a2effd2cb3a787b514764b980.png" alt="Cover for Shawty" style="max-width:120px; height:auto;" />
       </td>
@@ -1112,7 +1112,7 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/57b0952c5d2f2e93ff95bb5ebb56dc35.png" alt="Cover for Somethin&#39; &#39;Bout Kreay" style="max-width:120px; height:auto;" />
       </td>
@@ -1125,12 +1125,12 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a> # 74</li>
+            <li> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a> # 26</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/699918b123ec4b339129f9a138bce98a.png" alt="Cover for Dirty Dancing" style="max-width:120px; height:auto;" />
       </td>
@@ -1150,7 +1150,7 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
       </td>
       <td>2012-08-28</td>
@@ -1169,7 +1169,7 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/EpKXeft4JZsk5e2E-cM1QAPxKJ8rlA35oQVM_6nb43E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNjEw/ODQtMTQxMDA1NzE1/NS02MDAyLmpwZWc.jpeg" alt="Cover for Flashmaster Ray Tracks" style="max-width:120px; height:auto;" />
       </td>
@@ -1194,7 +1194,7 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f183c38964a6ff6b9e2157c6851de2d4.png" alt="Cover for Big Juicy" style="max-width:120px; height:auto;" />
       </td>
@@ -1207,13 +1207,13 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 27</li>
-            <li> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a> # 98</li>
+            <li> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a> # 3</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2db025295c79837e4382fc2e9997a210.png" alt="Cover for Barely Legal" style="max-width:120px; height:auto;" />
       </td>
@@ -1229,15 +1229,15 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 89</li>
-            <li> <a href="{{ "/tags/doomergaze" | relative_url }}">doomergaze</a> # 89</li>
-            <li> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a> # 92</li>
-            <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 96</li>
+            <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 5</li>
+            <li> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a> # 9</li>
+            <li> <a href="{{ "/tags/doomergaze" | relative_url }}">doomergaze</a> # 12</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 12</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/s_w627paqenbqH3wnD0HfX4fTmwLqdxCASSyhRIdswU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MDgx/NDMtMTU0OTI4OTk4/Ny0yMDkyLmpwZWc.jpeg" alt="Cover for SuperLove" style="max-width:120px; height:auto;" />
       </td>
@@ -1255,7 +1255,7 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/VPksA0AGXgLDarsrDTcfuE788Oe9tMfeJPN9hFiszpg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNjgw/ODAtMTQ3NzY3MzM0/OC03MzQ1LmpwZWc.jpeg" alt="Cover for NO SERVICE vol.1" style="max-width:120px; height:auto;" />
       </td>
@@ -1278,7 +1278,7 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/ka5lgT2sVW9lCiEyimLw-ehpvkdcKqfxKvAad3uLfTQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzA4/OTA2LTE1MTM5MDA0/MTktOTgxMy5qcGVn.jpeg" alt="Cover for أسلحة ضخ جاف حدب" style="max-width:120px; height:auto;" />
       </td>
@@ -1295,14 +1295,14 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 37</li>
-            <li> <a href="{{ "/tags/juke" | relative_url }}">juke</a> # 72</li>
-            <li> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a> # 93</li>
+            <li> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a> # 8</li>
+            <li> <a href="{{ "/tags/juke" | relative_url }}">juke</a> # 27</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/6xp5P1LXAqMgyUgeZJRkMm1clqjVtZD2IKZsnnv2jIQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTY4/MTI3LTE1NDkyMjI2/MjktNjI0OS5qcGVn.jpeg" alt="Cover for Booty Blaster" style="max-width:120px; height:auto;" />
       </td>
@@ -1319,12 +1319,12 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a> # 86</li>
+            <li> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a> # 15</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/feHhX012-UC6oQp0bbUqkXgh4kKa88Vg-hA-ao080-M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDgw/OTU5LTE2MzM0NTkw/MzQtMjcxNi5qcGVn.jpeg" alt="Cover for Da Hardhood Bass Ballers - Home Run Edition" style="max-width:120px; height:auto;" />
       </td>
@@ -1342,7 +1342,7 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a218f03a389fd7adb6cfc15c10d5eabe.png" alt="Cover for Ison [Explicit]" style="max-width:120px; height:auto;" />
       </td>
@@ -1369,12 +1369,12 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 13</li>
+            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/-LpUTM0CfQqZAMSpfyhU5KXet1L-ruHrPSGmDhnVvvY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjg5/MjMzLTE2MDY2NTEz/NDctNDU4MS5wbmc.jpeg" alt="Cover for NO SERVICE vol.1" style="max-width:120px; height:auto;" />
       </td>
@@ -1397,7 +1397,7 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>89</td>
       <td>
           <img src="https://i.discogs.com/ke8_O9zA1dVsFoM6KCM--R6Gw4DsrWYWkPg0EwpfEzY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzEz/MzkzLTE1MzI3MjY5/NjctMjI1My5qcGVn.jpeg" alt="Cover for NO SERVICE vol.1" style="max-width:120px; height:auto;" />
       </td>
@@ -1420,7 +1420,7 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/d7Qygw6GmKpC1Wdnb38z8Dgvf4Yuf4c5lAJa-p4D1h0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDgz/MzA3LTE1MzYxNzc1/MzgtMTEyNC5qcGVn.jpeg" alt="Cover for Summer Ade" style="max-width:120px; height:auto;" />
       </td>
@@ -1439,7 +1439,7 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/KokeA7jBuryeRjnD2WXtlaoHOhjDagJIYkPumTdYdM4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTky/MDg1LTE1Njk1OTY3/NzYtMjk3OC5qcGVn.jpeg" alt="Cover for NO SERVICE vol.1" style="max-width:120px; height:auto;" />
       </td>
@@ -1462,7 +1462,7 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/qKLMHqfyrIBB5j-IdJpZ0w3fFSknnswiI5GAVJ0tfkE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzY5/OTMyLTE1OTA0MjUx/MzAtMTE4OC5qcGVn.jpeg" alt="Cover for FUNKED OUT" style="max-width:120px; height:auto;" />
       </td>
@@ -1484,27 +1484,7 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
     </tr>
     <tr>
-      <td>24</td>
-      <td>
-          <img src="https://i.discogs.com/qo6-KgeTRB9ox6Ud9yUx9xqvhhfM46JSPIBvLPx8d8w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzc1/MzE2LTE1NjA4NTc0/MjktMjMyMC5qcGVn.jpeg" alt="Cover for Texas Terrortech Vol.1" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2019-06-18</td>
-      <td>textasy</td>
-      <td>Texas Terrortech Vol.1</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>31</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/qo6-KgeTRB9ox6Ud9yUx9xqvhhfM46JSPIBvLPx8d8w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzc1/MzE2LTE1NjA4NTc0/MjktMjMyMC5qcGVn.jpeg" alt="Cover for Texas Terrortech Vol. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1524,7 +1504,27 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>77</td>
+      <td>
+          <img src="https://i.discogs.com/qo6-KgeTRB9ox6Ud9yUx9xqvhhfM46JSPIBvLPx8d8w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzc1/MzE2LTE1NjA4NTc0/MjktMjMyMC5qcGVn.jpeg" alt="Cover for Texas Terrortech Vol.1" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-06-18</td>
+      <td>textasy</td>
+      <td>Texas Terrortech Vol.1</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
       <td>
           <img src="https://i.discogs.com/zPdRC2jsGSYNFG6e9eDNvSY2rZIHiZt7DN7sseNT1ZA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDgw/OTU5LTE1ODE3NTUx/MzUtMjQ5MC5qcGVn.jpeg" alt="Cover for NO SERVICE vol.1" style="max-width:120px; height:auto;" />
       </td>
@@ -1547,49 +1547,7 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
     </tr>
     <tr>
-      <td>21</td>
-      <td>
-          <img src="https://i.discogs.com/qKLMHqfyrIBB5j-IdJpZ0w3fFSknnswiI5GAVJ0tfkE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzY5/OTMyLTE1OTA0MjUx/MzAtMTE4OC5qcGVn.jpeg" alt="Cover for UNTITLED #2" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2020</td>
-      <td>RAW TAKES</td>
-      <td>UNTITLED #2</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rave" | relative_url }}">rave</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>30</td>
-      <td>
-          <img src="https://i.discogs.com/qKLMHqfyrIBB5j-IdJpZ0w3fFSknnswiI5GAVJ0tfkE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzY5/OTMyLTE1OTA0MjUx/MzAtMTE4OC5qcGVn.jpeg" alt="Cover for TRASH BIN" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2020</td>
-      <td>RAW TAKES</td>
-      <td>TRASH BIN</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rave" | relative_url }}">rave</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>37</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/qKLMHqfyrIBB5j-IdJpZ0w3fFSknnswiI5GAVJ0tfkE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzY5/OTMyLTE1OTA0MjUx/MzAtMTE4OC5qcGVn.jpeg" alt="Cover for CAR RADIO" style="max-width:120px; height:auto;" />
       </td>
@@ -1610,7 +1568,49 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>71</td>
+      <td>
+          <img src="https://i.discogs.com/qKLMHqfyrIBB5j-IdJpZ0w3fFSknnswiI5GAVJ0tfkE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzY5/OTMyLTE1OTA0MjUx/MzAtMTE4OC5qcGVn.jpeg" alt="Cover for TRASH BIN" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020</td>
+      <td>RAW TAKES</td>
+      <td>TRASH BIN</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rave" | relative_url }}">rave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>
+          <img src="https://i.discogs.com/qKLMHqfyrIBB5j-IdJpZ0w3fFSknnswiI5GAVJ0tfkE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzY5/OTMyLTE1OTA0MjUx/MzAtMTE4OC5qcGVn.jpeg" alt="Cover for UNTITLED #2" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020</td>
+      <td>RAW TAKES</td>
+      <td>UNTITLED #2</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rave" | relative_url }}">rave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/s5v3BACmLrsML7OV_MITllS4qw9uhgI2oyqt94lZsxk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxODk3/NzgtMTQ1NjgyMDI2/OS02NTU3LmpwZWc.jpeg" alt="Cover for Do U Dirty" style="max-width:120px; height:auto;" />
       </td>
@@ -1647,25 +1647,25 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 2</li>
+            <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 3</li>
+            <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 4</li>
             <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 5</li>
+            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 5</li>
+            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 6</li>
             <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 9</li>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 14</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 14</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 16</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 18</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 32</li>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 45</li>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 67</li>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 81</li>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 85</li>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 87</li>
-            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 95</li>
-            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 96</li>
-            <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 97</li>
-            <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 98</li>
-            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 99</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 34</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 56</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/4zxGfBiWipE1EAK8xS8COko93PYJxHuQNRL_BJ7Jtec/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzA0/MTg4LTE1OTYyMzI1/NDItODgxNy5qcGVn.jpeg" alt="Cover for NO SERVICE vol.1" style="max-width:120px; height:auto;" />
       </td>
@@ -1688,7 +1688,7 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/1non0EKjvnKKLEUq0-rf2hOf8usQcSyfZCHaBJROYx4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODk1/OTk1LTE2ODI1NjUy/MDgtMTMzNS5qcGVn.jpeg" alt="Cover for NO SERVICE vol.1" style="max-width:120px; height:auto;" />
       </td>
@@ -1711,7 +1711,7 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/Q2W2PgAOIcbWzb64Mcem5xNfMbQVvZ0q5ulIx5buuKg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzEy/Mjc5LTE2NDIwMjMw/ODQtNDgxNC5qcGVn.jpeg" alt="Cover for FLOODLIGHT: DNB AID FOR PAKISTAN" style="max-width:120px; height:auto;" />
       </td>
@@ -1734,7 +1734,7 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/naqeBha6sVjdss25zmcXAFumNhWpxG5YhvoC38EY9a8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjk1/Mjk2LTE2NDk1Mjk0/ODgtODM1NC5qcGVn.jpeg" alt="Cover for Baile" style="max-width:120px; height:auto;" />
       </td>
@@ -1752,7 +1752,7 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/peMWkEFAE95a1Bk_r1wrLixVBXlsc-xJ39Yg96kR3_0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjM5/MzAyLTE2NDA5NzAy/NDAtNTgyMy5qcGVn.jpeg" alt="Cover for Hard Candy Cock" style="max-width:120px; height:auto;" />
       </td>
@@ -1780,12 +1780,12 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 20</li>
+            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/ShwNkedjuVxSaBpii28HwLl6q_WjqJ2aq8cKqhUKgz0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzk1/NzA4LTE2MzI4MTM4/NzMtMzU4MC5qcGVn.jpeg" alt="Cover for NO SERVICE vol.1" style="max-width:120px; height:auto;" />
       </td>
@@ -1808,7 +1808,7 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>99</td>
       <td>
           <img src="https://i.discogs.com/Pf8zUsSsAz8hJ3QGZYISWzsAe6c31QAmc78ZNpgPXAs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODg3/NzQ0LTE2NjYyODY2/NTktMjg0MS5qcGVn.jpeg" alt="Cover for No Free Rides" style="max-width:120px; height:auto;" />
       </td>
@@ -1829,7 +1829,7 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>96</td>
       <td>
           <img src="https://i.discogs.com/F-qamzpG1A2XMwD71l7FgLLzpAK6SSA4m74XJPvwZu4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQx/NjU0LTE2NDk2NzY5/MjAtOTUyMC5wbmc.jpeg" alt="Cover for NO SERVICE vol.1" style="max-width:120px; height:auto;" />
       </td>
@@ -1852,7 +1852,7 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/tfgmPgF9hmARwGvo8m-IQYiXN2InmBlDBusIzwcNEu8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTg0/OTEzLTE2ODAxMDQ0/MzQtMTE0NS5qcGVn.jpeg" alt="Cover for NO SERVICE vol.1" style="max-width:120px; height:auto;" />
       </td>
@@ -1875,7 +1875,7 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>98</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5ac63a6dcf39d4662e2c0908eb39ef63.png" alt="Cover for No Free Rides (feat. PullUp Reddy)" style="max-width:120px; height:auto;" />
       </td>
@@ -1895,7 +1895,7 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/bDk3R8GQ-QFqLT665kxOhL_GtiBBtDzRkayF43C2dEE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDI2/MTk4LTE2MDIxMDY0/MzMtNjM5OS5qcGVn.jpeg" alt="Cover for NO SERVICE vol.1" style="max-width:120px; height:auto;" />
       </td>
@@ -1918,7 +1918,7 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c9956a4fbe635b3d69000c2ceb0d9bda.png" alt="Cover for Shawty" style="max-width:120px; height:auto;" />
       </td>
@@ -1938,7 +1938,7 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>78</td>
       <td>
       </td>
       <td>2023-05</td>
@@ -1958,7 +1958,7 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6749f2c7314e078d3d31028fd8284912.png" alt="Cover for BAILE" style="max-width:120px; height:auto;" />
       </td>
@@ -1972,12 +1972,12 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a> # 89</li>
+            <li> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a> # 12</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/4DXhzSvQ28o5L51sUrBAUNJ8Yzfa-5f6PzviPvgJJEs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MzE3/MzctMTQ4NDQzMDU3/OC00Nzg2LmpwZWc.jpeg" alt="Cover for AMERICA HAS A PROBLEM (feat. Kendrick Lamar)" style="max-width:120px; height:auto;" />
       </td>
@@ -1995,7 +1995,7 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f9458b0b0393fcfaa3fd837d66cee940.png" alt="Cover for The Girlfriend Experience" style="max-width:120px; height:auto;" />
       </td>
@@ -2012,35 +2012,16 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>53</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a000f0f997ee6a170c1b75c2d2c77f53.png" alt="Cover for Back To Miami" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>Mr.3</td>
-      <td>Trappin In Tha Pussy</td>
+      <td>Dj Rideon</td>
+      <td>Back To Miami</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>19</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Sinistro e Mião</td>
-      <td>Rap Brasil</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bass" | relative_url }}">bass</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a></li>
         </ul>
@@ -2051,7 +2032,7 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2cd0b0cbbdcc32519e3fdb8c83c5cfa5.png" alt="Cover for Funk 4 Da Trunk" style="max-width:120px; height:auto;" />
       </td>
@@ -2073,16 +2054,16 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>82</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a000f0f997ee6a170c1b75c2d2c77f53.png" alt="Cover for Back To Miami" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>Dj Rideon</td>
-      <td>Back To Miami</td>
+      <td>Sinistro e Mião</td>
+      <td>Rap Brasil</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bass" | relative_url }}">bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a></li>
         </ul>
@@ -2093,13 +2074,32 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>94</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a6562b58cdb4b920495c3ea41d2c897.png" alt="Cover for 340: Good Night, Sweet Prince, Vol. 3" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>Bull of Heaven</td>
-      <td>340: Good Night, Sweet Prince, Vol. 3</td>
+      <td>Mr.3</td>
+      <td>Trappin In Tha Pussy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/89daddce94e2b7bc2d752fe90f791017.png" alt="Cover for Superlove" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Tinashe</td>
+      <td>Superlove</td>
       <td>
         <ul>
         </ul>
@@ -2110,13 +2110,13 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>74</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/89daddce94e2b7bc2d752fe90f791017.png" alt="Cover for Superlove" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a6562b58cdb4b920495c3ea41d2c897.png" alt="Cover for 340: Good Night, Sweet Prince, Vol. 3" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>Tinashe</td>
-      <td>Superlove</td>
+      <td>Bull of Heaven</td>
+      <td>340: Good Night, Sweet Prince, Vol. 3</td>
       <td>
         <ul>
         </ul>
