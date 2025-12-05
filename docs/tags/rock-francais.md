@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T03:52:45.923Z
+date: 2025-12-05T12:22:03.162Z
 permalink: tags/rock-francais
 title: rock francais
 ---
 
 ## rock francais
 
-Last updated: <time datetime="2025-12-03T03:52:45.923Z">Wed Dec 03 2025 05:52:45 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T12:22:03.162Z">Fri Dec 05 2025 14:22:03 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Rock français is French-language rock music that emerged in the 1960s and flour
   </thead>
   <tbody>
     <tr>
-      <td>18</td>
+      <td>83</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c1cc92bb3e947d0b2b64307449a98e4.png" alt="Cover for Emile Jacotey" style="max-width:120px; height:auto;" />
       </td>
@@ -47,7 +47,7 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>82</td>
       <td>
       </td>
       <td>1979</td>
@@ -67,12 +67,12 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 17</li>
+            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ac63e46250384fd4cfb41ae0209d2ed7.png" alt="Cover for Marche ou Crève" style="max-width:120px; height:auto;" />
       </td>
@@ -89,13 +89,13 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 31</li>
-            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 71</li>
+            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 30</li>
+            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>100</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb67477dc0dcc2c5c38237d4d1c01dc1.png" alt="Cover for Dure Limite" style="max-width:120px; height:auto;" />
       </td>
@@ -113,7 +113,7 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>95</td>
       <td>
       </td>
       <td>1990</td>
@@ -130,7 +130,7 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2f74b07f7d230eec0ad9ee6b3b958991.png" alt="Cover for En route pour la joie" style="max-width:120px; height:auto;" />
       </td>
@@ -145,12 +145,12 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 89</li>
+            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 12</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
       </td>
       <td>1991-02</td>
@@ -167,7 +167,7 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c765df10e752420a877b1f4d59de4d0b.png" alt="Cover for Tostaky" style="max-width:120px; height:auto;" />
       </td>
@@ -186,7 +186,7 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>93</td>
       <td>
       </td>
       <td>1992-11</td>
@@ -203,7 +203,7 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>34</td>
       <td>
       </td>
       <td>1993-04</td>
@@ -221,7 +221,7 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
       </td>
       <td>1995</td>
@@ -240,7 +240,7 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/GeMHrFLVhlszylvp41gTwrpQ32Do8t8wPlewpO1jbWo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1OTYx/OC0xNDg3MTg5MzE0/LTUwNjAuanBlZw.jpeg" alt="Cover for Post-partum" style="max-width:120px; height:auto;" />
       </td>
@@ -258,7 +258,7 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>56</td>
       <td>
       </td>
       <td>1996-06-04</td>
@@ -275,7 +275,7 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
       </td>
       <td>1996-10-07</td>
@@ -293,7 +293,7 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>72</td>
       <td>
       </td>
       <td>1996-10</td>
@@ -310,7 +310,7 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/887509ef741e4749904edf0e826d4ed0.png" alt="Cover for 666.667 Club" style="max-width:120px; height:auto;" />
       </td>
@@ -324,12 +324,12 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 70</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 31</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>96</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/63276e31fc08e1b38f99d1c281c068ee.png" alt="Cover for Anti Best Of" style="max-width:120px; height:auto;" />
       </td>
@@ -346,7 +346,7 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7b8bc01ad066439dbccbf979350f1e60.png" alt="Cover for Utopia" style="max-width:120px; height:auto;" />
       </td>
@@ -364,7 +364,7 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dd330235b9ecf77531534135e44a9108.png" alt="Cover for Louise Attaque" style="max-width:120px; height:auto;" />
       </td>
@@ -380,12 +380,12 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       <td>
         <ul>
             <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 33</li>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 61</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 40</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>65</td>
       <td>
       </td>
       <td>1997-09</td>
@@ -402,7 +402,7 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/92d090fd37cb4710939f6909397c844e.png" alt="Cover for Fantaisie Militaire" style="max-width:120px; height:auto;" />
       </td>
@@ -421,25 +421,7 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
     </tr>
     <tr>
-      <td>72</td>
-      <td>
-          <img src="https://i.discogs.com/KAjFgEyIxXFb_pA07qQ2hiEni5965SuCqAvAZuPHSRI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzM4/NzctMTM0MjU1Nzc0/NC05ODQ4LmpwZWc.jpeg" alt="Cover for Veuillez Rendre L&#39;Ame" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1998</td>
-      <td>Noir Désir</td>
-      <td>Veuillez Rendre L&#39;Ame</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
       </td>
       <td>1998</td>
@@ -457,7 +439,25 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>29</td>
+      <td>
+          <img src="https://i.discogs.com/KAjFgEyIxXFb_pA07qQ2hiEni5965SuCqAvAZuPHSRI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzM4/NzctMTM0MjU1Nzc0/NC05ODQ4LmpwZWc.jpeg" alt="Cover for Veuillez Rendre L&#39;Ame" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>Noir Désir</td>
+      <td>Veuillez Rendre L&#39;Ame</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
       <td>
       </td>
       <td>1998-04</td>
@@ -479,13 +479,13 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 61</li>
-            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 82</li>
+            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 19</li>
+            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 40</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1fbfb440c34ac957ca56d7275247e1af.png" alt="Cover for La Ouache" style="max-width:120px; height:auto;" />
       </td>
@@ -500,14 +500,14 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 17</li>
-            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 95</li>
-            <li> <a href="{{ "/tags/breizh" | relative_url }}">breizh</a> # 97</li>
+            <li> <a href="{{ "/tags/breizh" | relative_url }}">breizh</a> # 4</li>
+            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 6</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>87</td>
       <td>
       </td>
       <td>1998-10-12</td>
@@ -524,7 +524,7 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
       </td>
       <td>1999-02-02</td>
@@ -541,7 +541,7 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>45</td>
       <td>
       </td>
       <td>1999-08-24</td>
@@ -560,7 +560,7 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>46</td>
       <td>
       </td>
       <td>2000</td>
@@ -577,7 +577,7 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>74</td>
       <td>
       </td>
       <td>2000-01-24</td>
@@ -594,7 +594,7 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>30</td>
       <td>
       </td>
       <td>2001-01-08</td>
@@ -613,7 +613,7 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>89</td>
       <td>
           <img src="https://i.discogs.com/jj03taLmHRkEyDL1oBAm6f9fUe0dDpuFCcmS86JTdak/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mzkz/MzUtMTI4OTQ4ODc5/Mi5qcGVn.jpeg" alt="Cover for Verdure &amp; Libido" style="max-width:120px; height:auto;" />
       </td>
@@ -631,7 +631,7 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/Dxkgz5AjEc808N1kGTYblyRa3H7c_yitCQbmtzqPA_E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTE1/NDQtMTIyMzcwOTEx/NC5qcGVn.jpeg" alt="Cover for La Treve" style="max-width:120px; height:auto;" />
       </td>
@@ -649,7 +649,7 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/qZ4tS72D6uscU5IUkNDECHFIb6xDTp3vzLqXiidBYY8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NDMy/NS0xMTY5MDM1MjA5/LmpwZWc.jpeg" alt="Cover for des Visages des Figures" style="max-width:120px; height:auto;" />
       </td>
@@ -665,13 +665,13 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 79</li>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 83</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 18</li>
+            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 22</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>76</td>
       <td>
       </td>
       <td>2002</td>
@@ -689,29 +689,12 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 60</li>
+            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
-      <td>
-      </td>
-      <td>2002</td>
-      <td>Programme</td>
-      <td>L&#39;enfer tiède</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>35</td>
+      <td>66</td>
       <td>
       </td>
       <td>2002</td>
@@ -729,7 +712,24 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>78</td>
+      <td>
+      </td>
+      <td>2002</td>
+      <td>Programme</td>
+      <td>L&#39;enfer tiède</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/98f0c0fd7fc24de0a407df2692393353.png" alt="Cover for Paradize" style="max-width:120px; height:auto;" />
       </td>
@@ -746,7 +746,7 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
       </td>
       <td>2002-04-23</td>
@@ -766,7 +766,7 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/_so7-ycymPB-ZqIvvSdnmY0qzkBIt09cqG-K1HiTAGs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjg1/MjYtMTIzMzI2MjQw/Mi5qcGVn.jpeg" alt="Cover for Notre Epoque" style="max-width:120px; height:auto;" />
       </td>
@@ -784,12 +784,12 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 31</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dbbf43d88edf4cbf597e2d4e0df85319.png" alt="Cover for 3.6.3" style="max-width:120px; height:auto;" />
       </td>
@@ -808,7 +808,7 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/QDUnfJ1gRIPkNamAJdYQ_Vn66n0A5kFWgCit6HFAhBc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzgx/MzktMTE5ODYxOTM5/OS5qcGVn.jpeg" alt="Cover for Pièce montée des grands jours" style="max-width:120px; height:auto;" />
       </td>
@@ -828,14 +828,14 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 4</li>
+            <li> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a> # 23</li>
             <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 37</li>
-            <li> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a> # 78</li>
-            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/p8BoYZhLoPnK7T5vDwvJcdfH4Yo_nR9aIC_ACWNQfSs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5OTY0/OTItMTM1MTc4Mzcw/NS04MDQ0LmpwZWc.jpeg" alt="Cover for Droit de véto" style="max-width:120px; height:auto;" />
       </td>
@@ -854,13 +854,13 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 14</li>
-            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 68</li>
+            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 33</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>75</td>
       <td>
       </td>
       <td>2003-06</td>
@@ -877,17 +877,15 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>26</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4d51dd3c87be2e16b56b5383adb60617.png" alt="Cover for Dr. Beat - Souvenirs d&#39;été" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
-      <td>Minuit</td>
-      <td>Dr. Beat - Souvenirs d&#39;été</td>
+      <td>Encre</td>
+      <td>Flux</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a></li>
         </ul>
       </td>
@@ -897,24 +895,7 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
     </tr>
     <tr>
-      <td>28</td>
-      <td>
-      </td>
-      <td>2004</td>
-      <td>Programme</td>
-      <td>Bogue</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>61</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/Ns--dNtcdBFZcsmEmYQbbFowHqLgHTulEMXS7k088Hw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTUw/OTE5LTE3MzAzMTAy/NjYtNDQ3My5qcGVn.jpeg" alt="Cover for Cuisine Non-Stop: Introduction to the French Nouvelle Generation" style="max-width:120px; height:auto;" />
       </td>
@@ -936,15 +917,14 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>73</td>
       <td>
       </td>
       <td>2004</td>
-      <td>Encre</td>
-      <td>Flux</td>
+      <td>Programme</td>
+      <td>Bogue</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a></li>
         </ul>
       </td>
@@ -954,7 +934,27 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>98</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4d51dd3c87be2e16b56b5383adb60617.png" alt="Cover for Dr. Beat - Souvenirs d&#39;été" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Minuit</td>
+      <td>Dr. Beat - Souvenirs d&#39;été</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
       <td>
       </td>
       <td>2004-05-04</td>
@@ -973,7 +973,7 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>38</td>
       <td>
       </td>
       <td>2004-05-11</td>
@@ -990,7 +990,7 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
       </td>
       <td>2004-06</td>
@@ -1009,7 +1009,7 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/PLdFbz9x_IiJkGlxQY6wYEniuE4w1qZtWgkUJBwnk3w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTg5/MzgtMTQzMzg4ODA0/Ni01NDA1LmpwZWc.jpeg" alt="Cover for Revolution.Com" style="max-width:120px; height:auto;" />
       </td>
@@ -1027,7 +1027,7 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/70KMrGjFFVi_Cx9jV6m6K8_cPOhguyO3C0oct65Om30/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMTMy/NC0xNDM5MzYwODc1/LTM4NTYuanBlZw.jpeg" alt="Cover for Le Femme Chocolat" style="max-width:120px; height:auto;" />
       </td>
@@ -1043,13 +1043,13 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 1</li>
-            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 64</li>
+            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 37</li>
+            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>90</td>
       <td>
       </td>
       <td>2005-02-21</td>
@@ -1071,12 +1071,12 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 43</li>
+            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>91</td>
       <td>
       </td>
       <td>2005-04-17</td>
@@ -1093,7 +1093,7 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
       </td>
       <td>2005-06-06</td>
@@ -1112,7 +1112,7 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>59</td>
       <td>
       </td>
       <td>2005-09-19</td>
@@ -1130,7 +1130,7 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e0ee4bebd4b54f0aa8aa60ffec264c1a.png" alt="Cover for A Plus Tard Crocodile" style="max-width:120px; height:auto;" />
       </td>
@@ -1149,7 +1149,24 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>68</td>
+      <td>
+      </td>
+      <td>2005-10-17</td>
+      <td>Nonstop</td>
+      <td>Road movie en béquilles</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1766e8a7e221ad61c7576222c452f334.png" alt="Cover for Scandale mélancolique" style="max-width:120px; height:auto;" />
       </td>
@@ -1168,24 +1185,7 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
     </tr>
     <tr>
-      <td>33</td>
-      <td>
-      </td>
-      <td>2005-10-17</td>
-      <td>Nonstop</td>
-      <td>Road movie en béquilles</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>2</td>
+      <td>99</td>
       <td>
           <img src="https://i.discogs.com/5h--Wj_KtB5rx9Gyxk6K5wlVpJLMydiwBpEREiHKAVk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDk2/NjctMTMyNTE1NTk3/NC5qcGVn.jpeg" alt="Cover for Something like that..." style="max-width:120px; height:auto;" />
       </td>
@@ -1203,13 +1203,31 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 33</li>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 35</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 66</li>
+            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>39</td>
+      <td>
+      </td>
+      <td>2006</td>
+      <td>Christophe</td>
+      <td>Best Of</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9bc6f9714ee4b2cedfedbe8f5a267ac9.png" alt="Cover for Flash" style="max-width:120px; height:auto;" />
       </td>
@@ -1229,25 +1247,7 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
     </tr>
     <tr>
-      <td>62</td>
-      <td>
-      </td>
-      <td>2006</td>
-      <td>Christophe</td>
-      <td>Best Of</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
       </td>
       <td>2006-08-21</td>
@@ -1261,12 +1261,12 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 97</li>
+            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 4</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/CBhJfrhxtzimsUsgJE0L2uJkpu-hhogovjwdh4MTiIg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MDU2/MC0xMTY3NTE4Nzk1/LmpwZWc.jpeg" alt="Cover for Mélanger les couleurs" style="max-width:120px; height:auto;" />
       </td>
@@ -1284,7 +1284,7 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
       </td>
       <td>2006-10-16</td>
@@ -1301,7 +1301,7 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/oiDT8K80mzkyeXFErN-M9RNxYlzrkEm-4kNzzGwc4TU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NDk0/NjctMTM4MDUzMzA2/OS01MDAwLnBuZw.jpeg" alt="Cover for La Folie Douce" style="max-width:120px; height:auto;" />
       </td>
@@ -1320,32 +1320,7 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
     </tr>
     <tr>
-      <td>80</td>
-      <td>
-      </td>
-      <td>2007-02-19</td>
-      <td>Les Fatals Picards</td>
-      <td>Pamplemousse Mécanique</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/humour" | relative_url }}">humour</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 78</li>
-            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 96</li>
-            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 98</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/IdhYt4UG9ZXB3-WV6WrxMVMsA75_RjstAQboe4vT5EY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTY3/OTItMTM3MjU4MzYz/Mi0xNjQxLmpwZWc.jpeg" alt="Cover for Pamplemousse Mecanique" style="max-width:120px; height:auto;" />
       </td>
@@ -1364,14 +1339,39 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 3</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 18</li>
             <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 68</li>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 83</li>
-            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
+      <td>
+      </td>
+      <td>2007-02-19</td>
+      <td>Les Fatals Picards</td>
+      <td>Pamplemousse Mécanique</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/humour" | relative_url }}">humour</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 5</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 23</li>
+            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
       <td>
       </td>
       <td>2007-03-19</td>
@@ -1388,12 +1388,12 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 55</li>
+            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 46</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/EiEvGOdvVGPpSnl_ejJB9GVLqAHuIlyHQYDv3xP4WHE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njk0/NzEtMTUwNzEzNDUw/Ni0yMjEwLmpwZWc.jpeg" alt="Cover for Blonde Comme Moi" style="max-width:120px; height:auto;" />
       </td>
@@ -1412,7 +1412,7 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>35</td>
       <td>
       </td>
       <td>2007-10-15</td>
@@ -1430,13 +1430,13 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 63</li>
-            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 84</li>
+            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 17</li>
+            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 38</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/AnKuAMCJsrOiA-3k9j3fUX7E7kUkWE0Y2BX23Errhok/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODQw/ODUtMTE5OTA5MDg4/OS5qcGVn.jpeg" alt="Cover for La Mécanique Du Coeur" style="max-width:120px; height:auto;" />
       </td>
@@ -1454,7 +1454,7 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/Mv4aM3IqHK7NnvrbQ3kwKx_qHd3UaD0rPL3HqHBGbuY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMDI0/NDItMTQ3NDgxMDYy/OC03MzM0LmpwZWc.jpeg" alt="Cover for Le Gang" style="max-width:120px; height:auto;" />
       </td>
@@ -1472,7 +1472,7 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>63</td>
       <td>
       </td>
       <td>2008-03-17</td>
@@ -1490,13 +1490,13 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 18</li>
-            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 69</li>
+            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 32</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
       </td>
       <td>2008-03-24</td>
@@ -1509,13 +1509,13 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 12</li>
-            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 42</li>
+            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 59</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>33</td>
       <td>
       </td>
       <td>2008-05-26</td>
@@ -1530,12 +1530,12 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 86</li>
+            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 15</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/M7nrBZZG4WSkvY5VYLqFigi0UtxXqdOn-k_Pjttwc2c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MjE2/MjQtMTYxOTEwOTEw/Mi04MDA2LmpwZWc.jpeg" alt="Cover for Un Eté Caniculaire" style="max-width:120px; height:auto;" />
       </td>
@@ -1553,12 +1553,12 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 53</li>
+            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/QKoiwy7e772_70JyJOiFvRlwbqh1zuFkUTV_shkqg6Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5OTEw/MzgtMTY4MzI5NzA5/Ni01OTUxLmpwZWc.jpeg" alt="Cover for Le sens de la gravité" style="max-width:120px; height:auto;" />
       </td>
@@ -1577,13 +1577,13 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 54</li>
-            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 83</li>
+            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 18</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 47</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/JzyindiZOz6waOcggmlTD00F6Ih0MdFt2-Tj-5k4sPk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjIx/OTAtMTQxNTgwNDE2/Ni0xMTYxLmpwZWc.jpeg" alt="Cover for Contreband" style="max-width:120px; height:auto;" />
       </td>
@@ -1612,15 +1612,15 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 3</li>
-            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 5</li>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 55</li>
-            <li> <a href="{{ "/tags/mass" | relative_url }}">mass</a> # 94</li>
+            <li> <a href="{{ "/tags/mass" | relative_url }}">mass</a> # 7</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 46</li>
+            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 96</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/DqbpK6rtiycG0XgRRsKT8GfME3BN8Q0q0C92UNrCTEE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjU3/MTA1LTE2MTI0NjQ4/MDQtMzQyMy5qcGVn.jpeg" alt="Cover for Vertiges" style="max-width:120px; height:auto;" />
       </td>
@@ -1642,13 +1642,13 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 41</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 49</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 52</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/QTid6tcN-Ls1AdxXAhAYvFbCUnIHn--3D3I2_uRbGvQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMDA1/MjMtMTQ0MDYxNzMw/Ni02NDU2LmpwZWc.jpeg" alt="Cover for Erotica" style="max-width:120px; height:auto;" />
       </td>
@@ -1674,7 +1674,7 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
       </td>
       <td>2010-05-31</td>
@@ -1689,12 +1689,12 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 99</li>
+            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 2</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>55</td>
       <td>
       </td>
       <td>2011-03-11</td>
@@ -1712,13 +1712,13 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 40</li>
-            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 78</li>
+            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 23</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>94</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/19e36dc11c02423ac2f736ff67ee9568.png" alt="Cover for Celkilt" style="max-width:120px; height:auto;" />
       </td>
@@ -1741,14 +1741,14 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic-punk" | relative_url }}">celtic punk</a> # 23</li>
-            <li> <a href="{{ "/tags/celtic-rock" | relative_url }}">celtic rock</a> # 31</li>
-            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 36</li>
+            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 65</li>
+            <li> <a href="{{ "/tags/celtic-rock" | relative_url }}">celtic rock</a> # 69</li>
+            <li> <a href="{{ "/tags/celtic-punk" | relative_url }}">celtic punk</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f9a12a00db3646dbc6f559b310cc4dd8.png" alt="Cover for Hey What&#39;s Under Your Kilt?" style="max-width:120px; height:auto;" />
       </td>
@@ -1771,14 +1771,14 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic-punk" | relative_url }}">celtic punk</a> # 32</li>
-            <li> <a href="{{ "/tags/celtic-rock" | relative_url }}">celtic rock</a> # 43</li>
-            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 56</li>
+            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 45</li>
+            <li> <a href="{{ "/tags/celtic-rock" | relative_url }}">celtic rock</a> # 58</li>
+            <li> <a href="{{ "/tags/celtic-punk" | relative_url }}">celtic punk</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/068272700cdfa05a14003ad462a08cfd.png" alt="Cover for Paris Tropical (Jean Tonique Remix)" style="max-width:120px; height:auto;" />
       </td>
@@ -1798,7 +1798,7 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>70</td>
       <td>
       </td>
       <td>2012-10-22</td>
@@ -1815,12 +1815,12 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 63</li>
+            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 38</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>92</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7290c6073b0f4ccdccbc00e97632fbe4.png" alt="Cover for On The Table" style="max-width:120px; height:auto;" />
       </td>
@@ -1843,14 +1843,14 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic-punk" | relative_url }}">celtic punk</a> # 24</li>
-            <li> <a href="{{ "/tags/celtic-rock" | relative_url }}">celtic rock</a> # 32</li>
-            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 37</li>
+            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 64</li>
+            <li> <a href="{{ "/tags/celtic-rock" | relative_url }}">celtic rock</a> # 68</li>
+            <li> <a href="{{ "/tags/celtic-punk" | relative_url }}">celtic punk</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/41cb91d4d6a07677aa2e07e64dd8abe0.png" alt="Cover for Minuit" style="max-width:120px; height:auto;" />
       </td>
@@ -1870,7 +1870,7 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4fbf023bc1d809f4f7e6fb1fa1c4c060.png" alt="Cover for Montparnasse - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1894,15 +1894,15 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 56</li>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 71</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 72</li>
-            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 80</li>
+            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 21</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 29</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 30</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 45</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a2bdc043e916fad40efb45decffac65f.png" alt="Cover for SixTape" style="max-width:120px; height:auto;" />
       </td>
@@ -1923,7 +1923,7 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/194bb957290be3cd782e764a639ffed1.png" alt="Cover for Paris tropical (Kazy Lambist Remix)" style="max-width:120px; height:auto;" />
       </td>
@@ -1943,7 +1943,7 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bf4ab2ed30fafb3bb2a1d29e3f107054.png" alt="Cover for Vertigo" style="max-width:120px; height:auto;" />
       </td>
@@ -1963,7 +1963,26 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>50</td>
+      <td>
+          <img src="https://i.discogs.com/DqbpK6rtiycG0XgRRsKT8GfME3BN8Q0q0C92UNrCTEE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjU3/MTA1LTE2MTI0NjQ4/MDQtMzQyMy5qcGVn.jpeg" alt="Cover for Tendrement," style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019</td>
+      <td>Film Noir</td>
+      <td>Tendrement,</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 35</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 35</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/q9wBb4ZkJ-5piff8f6EPiMpqMG7t__UNjqTJeEuv4qk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTQ2/NzcxLTE2MzEwMTg3/MDEtMzkzOC5qcGVn.jpeg" alt="Cover for La mariée (Vague à l&#39;âme)" style="max-width:120px; height:auto;" />
       </td>
@@ -1985,31 +2004,12 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 20</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>51</td>
-      <td>
-          <img src="https://i.discogs.com/DqbpK6rtiycG0XgRRsKT8GfME3BN8Q0q0C92UNrCTEE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjU3/MTA1LTE2MTI0NjQ4/MDQtMzQyMy5qcGVn.jpeg" alt="Cover for Tendrement," style="max-width:120px; height:auto;" />
-      </td>
-      <td>2019</td>
-      <td>Film Noir</td>
-      <td>Tendrement,</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 66</li>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 66</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>15</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/7DNMFtBKePj8NyPWyxTpeW5e8ESWG_qbV3W5JLnsReU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzU1/MjAzLTE2NzgzNTIw/MjctMzAwNS5qcGVn.jpeg" alt="Cover for Juste Derrière Toi" style="max-width:120px; height:auto;" />
       </td>
@@ -2031,12 +2031,12 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 49</li>
+            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/w47jcZCl5GumxG3GbimB4XHi9V52YxKmemX0CTkexv4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTQz/MTEtMTE5MzEzMjEw/NS5qcGVn.jpeg" alt="Cover for Tu Vas Pas Mourir De Rire" style="max-width:120px; height:auto;" />
       </td>
@@ -2054,7 +2054,7 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>77</td>
       <td>
       </td>
       <td></td>
@@ -2072,12 +2072,12 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 59</li>
+            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>54</td>
       <td>
       </td>
       <td></td>

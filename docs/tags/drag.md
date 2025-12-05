@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T06:30:44.289Z
+date: 2025-12-05T12:36:44.730Z
 permalink: tags/drag
 title: drag
 ---
 
 ## drag
 
-Last updated: <time datetime="2025-12-03T06:30:44.289Z">Wed Dec 03 2025 08:30:44 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T12:36:44.730Z">Fri Dec 05 2025 14:36:44 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
   </thead>
   <tbody>
     <tr>
-      <td>44</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c86abcac2dab4925954e5b2f73d07d4e.png" alt="Cover for beko_skrotup" style="max-width:120px; height:auto;" />
       </td>
@@ -55,7 +55,7 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/yOWnZnDsrrtJ1L7jGtArFka5RXx954CrlkBnNU9CLtk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjgy/MDg3LTE1NTEzMTM0/OTgtNTU2Ni5qcGVn.jpeg" alt="Cover for &#x2F;" style="max-width:120px; height:auto;" />
       </td>
@@ -77,7 +77,7 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>46</td>
       <td>
       </td>
       <td>1999-09-14</td>
@@ -94,7 +94,7 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/af6101e2fa8343c6ab3a028817431462.png" alt="Cover for infinity" style="max-width:120px; height:auto;" />
       </td>
@@ -121,7 +121,7 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>98</td>
       <td>
           <img src="https://i.discogs.com/sa30E3tbhY5afW6NjPKQvhHH9Abd1mKz8_H4vDZ3TC4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzUz/ODEtMTYzNDI5MTM2/MS0xMzMxLmpwZWc.jpeg" alt="Cover for Failure To Play Art" style="max-width:120px; height:auto;" />
       </td>
@@ -144,7 +144,7 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/849111a75bc64175beca336fc578228e.png" alt="Cover for Second Coming" style="max-width:120px; height:auto;" />
       </td>
@@ -164,7 +164,7 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/ptJ5-eOosG3jQeOhiqe6UgnjhTXWWiKX4rw7FVrgs5k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjU3/MzgtMTUxNzkzNzAy/Ny0zNjM2LmpwZWc.jpeg" alt="Cover for Up Here In The Clouds" style="max-width:120px; height:auto;" />
       </td>
@@ -179,30 +179,12 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-and-dark" | relative_url }}">deep and dark</a> # 55</li>
+            <li> <a href="{{ "/tags/deep-and-dark" | relative_url }}">deep and dark</a> # 46</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>59</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fa6aa46b21014f6abca49582705f9a4e.png" alt="Cover for ⌂¿⌂" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2010-08</td>
-      <td>G.A.N. 665+1</td>
-      <td>⌂¿⌂</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>88</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/i92QtXaNlZDTf6z5LR0ddhmPlyV4NRMzHYdtNPNIy9E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODMx/MjMtMTMxOTQ3Mzgx/Ni5qcGVn.jpeg" alt="Cover for High Park" style="max-width:120px; height:auto;" />
       </td>
@@ -222,7 +204,25 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>42</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fa6aa46b21014f6abca49582705f9a4e.png" alt="Cover for ⌂¿⌂" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-08</td>
+      <td>G.A.N. 665+1</td>
+      <td>⌂¿⌂</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c2023719b35ba0a88c8d7067e79ea76.png" alt="Cover for Diamond Eyed Coyote" style="max-width:120px; height:auto;" />
       </td>
@@ -242,12 +242,30 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/animals" | relative_url }}">animals</a> # 43</li>
+            <li> <a href="{{ "/tags/animals" | relative_url }}">animals</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>21</td>
+      <td>
+      </td>
+      <td>2010-11-28</td>
+      <td>WIK▲N</td>
+      <td>ILLEG▲L GR▲VE MUSIC EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drag" | relative_url }}">drag</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/IC5KRDnW75y_SUxFE8pU56uBMIIHVoxS95b-GuAgQdM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTEy/MjktMTMzNjUxOTQ2/MC01NjYzLnBuZw.jpeg" alt="Cover for escape" style="max-width:120px; height:auto;" />
       </td>
@@ -268,25 +286,7 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
     </tr>
     <tr>
-      <td>79</td>
-      <td>
-      </td>
-      <td>2010-11-28</td>
-      <td>WIK▲N</td>
-      <td>ILLEG▲L GR▲VE MUSIC EP</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drag" | relative_url }}">drag</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>76</td>
+      <td>24</td>
       <td>
       </td>
       <td>2010-12-07</td>
@@ -304,7 +304,7 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/VO-FYn2ezwJC1b7eT6IzKt5Gr8yZpv1HWkaG7jA6q30/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzk3/MTU0LTE1NTM0MzEx/MDMtOTQ1Ny5qcGVn.jpeg" alt="Cover for †ʄ† FNORD †ʄ†" style="max-width:120px; height:auto;" />
       </td>
@@ -323,7 +323,7 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>95</td>
       <td>
           <img src="https://i.discogs.com/7QfN2U4U0OPMVptXXwYzj5aeupW-7ye5EQbZJ0HgGOo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTk2/ODgyLTE2MzQyOTQx/ODUtNzQ5OC5wbmc.jpeg" alt="Cover for AN INTRODUCTION TO DOOMG▲ZE" style="max-width:120px; height:auto;" />
       </td>
@@ -352,12 +352,12 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a> # 49</li>
+            <li> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>96</td>
       <td>
           <img src="https://i.discogs.com/7QfN2U4U0OPMVptXXwYzj5aeupW-7ye5EQbZJ0HgGOo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTk2/ODgyLTE2MzQyOTQx/ODUtNzQ5OC5wbmc.jpeg" alt="Cover for No ☨ Age" style="max-width:120px; height:auto;" />
       </td>
@@ -376,7 +376,7 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>25</td>
       <td>
       </td>
       <td>2011-02</td>
@@ -399,15 +399,15 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 1</li>
-            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 15</li>
-            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 66</li>
-            <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 87</li>
+            <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 14</li>
+            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 35</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 86</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/vyogepT2Ey_oyzXoH3LLvxayJKMd9sMi31sBEOqOUdg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODg1/NzItMTMxMTg1ODc0/Mi5qcGVn.jpeg" alt="Cover for Caput Mortuum EP" style="max-width:120px; height:auto;" />
       </td>
@@ -427,7 +427,7 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/rPO8QXZpcZvqL5s7KLfP037tWQinH_bfxT22S59R2L4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDk2/NjQxLTE2NTQ2MTAw/MzQtMzkwMy5qcGVn.jpeg" alt="Cover for Love Never Dies" style="max-width:120px; height:auto;" />
       </td>
@@ -446,7 +446,7 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/OHNZrkCHBlTenZ43LUJDAF6GuNgHFgGAceTXKPcZSz4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwODA2/NDYtMTQzMzI1MjQ2/MS03MDM3LmpwZWc.jpeg" alt="Cover for sad porn" style="max-width:120px; height:auto;" />
       </td>
@@ -466,7 +466,7 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/_wLz7REzSwI4OnYkYAfHhDnA9qNyfV2qutQL4DjbRwc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTQz/NjMtMTMyNDM4MDI0/Mi5qcGVn.jpeg" alt="Cover for SMOG WRAITH" style="max-width:120px; height:auto;" />
       </td>
@@ -493,7 +493,7 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>92</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2c488209a9c9431fb6bb860fcd883083.png" alt="Cover for Batty Bwoy - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -513,7 +513,7 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/h3EBSVUaUX170s1smn3zhG97xH9LuHSRSBlp1iXXZVU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTc2/MTUwLTE2MDEyMjA3/MzEtNDUxMi5wbmc.jpeg" alt="Cover for saVme" style="max-width:120px; height:auto;" />
       </td>
@@ -533,7 +533,7 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/hbvdx5sdc_VY19uCtaH9Z7phoofyb_3-FOxBWAeXh6k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1ODA0/MjEtMTM2ODk5MDY1/My0xMzg2LmpwZWc.jpeg" alt="Cover for Come With Me, Hail Mary" style="max-width:120px; height:auto;" />
       </td>
@@ -550,7 +550,7 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/KFygz0_lX3RDmBdeuyKljGF7eQepkfW30CbwmFdwMdc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODYx/NDg4LTE3MDg0Mjk2/NTYtNDAxNS5qcGVn.jpeg" alt="Cover for OKEAN" style="max-width:120px; height:auto;" />
       </td>
@@ -573,14 +573,14 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 26</li>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 74</li>
-            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 81</li>
+            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 20</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 27</li>
+            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/17d7d6a8f36c6125b3e8ac1809ee321d.png" alt="Cover for Ride For Aids (Feat. Alaska 5000) - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -600,52 +600,7 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
     </tr>
     <tr>
-      <td>25</td>
-      <td>
-          <img src="https://i.discogs.com/fNbL-l84kfwJ9CCZTE08Y4Lzfs7JLiR1lS2kIg0-RVw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NjMw/MTYtMTM5Mzk5NzQx/NS01MDY2LmpwZWc.jpeg" alt="Cover for PΞRFΞC†iONiS†" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2012-05-12</td>
-      <td>‹‹ʘ››</td>
-      <td>PΞRFΞC†iONiS†</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drag" | relative_url }}">drag</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/polish" | relative_url }}">polish</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>33</td>
-      <td>
-          <img src="https://i.discogs.com/fNbL-l84kfwJ9CCZTE08Y4Lzfs7JLiR1lS2kIg0-RVw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NjMw/MTYtMTM5Mzk5NzQx/NS01MDY2LmpwZWc.jpeg" alt="Cover for GЯ∆ViTY" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2012-05-12</td>
-      <td>‹‹ʘ››</td>
-      <td>GЯ∆ViTY</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drag" | relative_url }}">drag</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/polish" | relative_url }}">polish</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>38</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/fNbL-l84kfwJ9CCZTE08Y4Lzfs7JLiR1lS2kIg0-RVw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NjMw/MTYtMTM5Mzk5NzQx/NS01MDY2LmpwZWc.jpeg" alt="Cover for БIʘPHILIΛ" style="max-width:120px; height:auto;" />
       </td>
@@ -671,7 +626,52 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>68</td>
+      <td>
+          <img src="https://i.discogs.com/fNbL-l84kfwJ9CCZTE08Y4Lzfs7JLiR1lS2kIg0-RVw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NjMw/MTYtMTM5Mzk5NzQx/NS01MDY2LmpwZWc.jpeg" alt="Cover for GЯ∆ViTY" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-05-12</td>
+      <td>‹‹ʘ››</td>
+      <td>GЯ∆ViTY</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drag" | relative_url }}">drag</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/polish" | relative_url }}">polish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>
+          <img src="https://i.discogs.com/fNbL-l84kfwJ9CCZTE08Y4Lzfs7JLiR1lS2kIg0-RVw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NjMw/MTYtMTM5Mzk5NzQx/NS01MDY2LmpwZWc.jpeg" alt="Cover for PΞRFΞC†iONiS†" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-05-12</td>
+      <td>‹‹ʘ››</td>
+      <td>PΞRFΞC†iONiS†</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drag" | relative_url }}">drag</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/polish" | relative_url }}">polish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/yelPjGxH7PrcNN0xTLMyhfSACNRs0TPIfkUpCyUW1fs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NTQz/NDEtMTQ4MDg2Mjcw/MS01MjQxLnBuZw.jpeg" alt="Cover for Popular" style="max-width:120px; height:auto;" />
       </td>
@@ -690,7 +690,7 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/Hqh4h2VQaXQu6Nlb3u9f6T5omxkatsrQW3Xa0ep4cnI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Nzgy/OTE3LTE2MjEzNjQ0/OTEtNTQ5My5qcGVn.jpeg" alt="Cover for AUTOPSY" style="max-width:120px; height:auto;" />
       </td>
@@ -710,7 +710,7 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/syxRX-COoeG_fh4fM5oI19FIJKqzOgMZirdjdI0Ku7E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzQ3/NDctMTM0MjI3MzY4/Mi03NTQyLmpwZWc.jpeg" alt="Cover for restorative art" style="max-width:120px; height:auto;" />
       </td>
@@ -730,7 +730,7 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/l8ekWc7-x1Z7Hj1sVCIQcwlKp1AzY0mDnCf2xVDkriU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDU4/MzkzLTE1NjcwNjQ4/NDItMzg3Ny5qcGVn.jpeg" alt="Cover for beko_BOX3" style="max-width:120px; height:auto;" />
       </td>
@@ -748,7 +748,7 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>99</td>
       <td>
           <img src="https://i.discogs.com/IIgox_95JvLL1YcveggBoyGghMgIHKhGaB1kGxCprhc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NDI4/NzktMTM3NDA3ODUz/NS02MDcyLmpwZWc.jpeg" alt="Cover for Perspectives From The Medicine Cabinet" style="max-width:120px; height:auto;" />
       </td>
@@ -772,13 +772,13 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 9</li>
-            <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 23</li>
+            <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 78</li>
+            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/SRiob3XI3AVLTxpTmdw_dLyK8CP6tbZro41WWnw7tg8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NTIx/NTUtMTQ1MjMwNzIy/NC05OTMwLmpwZWc.jpeg" alt="Cover for В моих глазах" style="max-width:120px; height:auto;" />
       </td>
@@ -797,7 +797,7 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/_f9Zpgs0qhSUIZSt7UE-HOssPv-I8f1UMQuyAjEH4hw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NTIy/OTAtMTQ1MjMxMTgx/NC05MDE4LmpwZWc.jpeg" alt="Cover for Волчок" style="max-width:120px; height:auto;" />
       </td>
@@ -818,7 +818,7 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/PK3v04gVcOXBHZNv9MEa8uJVCo5HMJ6ci2nhc4f2rkk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDk0/MDU3LTE1MjgxNjQ0/MTAtNzA0Ni5qcGVn.jpeg" alt="Cover for Lady Marmalade - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -838,7 +838,7 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/Va1qx0TkVqqtXo1k-4sHwzT2h5HHc8k1TV7fa6zLQIM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5ODI1/MzgtMTQzMDk0OTQ1/Ni02MDk5LmpwZWc.jpeg" alt="Cover for Epileptics" style="max-width:120px; height:auto;" />
       </td>
@@ -852,11 +852,12 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/anarcho-punk" | relative_url }}">anarcho-punk</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/v6Edq5-HXzb6oSlzv4yez2LjRfurNsoZ72GWY174TBs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NjA2/NTEtMTQ0MTkyODY1/Mi00MzY1LmpwZWc.jpeg" alt="Cover for -&#x3D;ШПERаЯΛVE&#x3D;-" style="max-width:120px; height:auto;" />
       </td>
@@ -877,7 +878,7 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/562886a38e3675e608ac7ae3bc7c5f82.png" alt="Cover for Nails (Piano Introduction) - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -898,29 +899,7 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
     </tr>
     <tr>
-      <td>36</td>
-      <td>
-          <img src="https://i.discogs.com/4llCxCidb34q5fSOlqeUz19OeVYQSRISYiix_5L-XrU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDIy/NjkxLTE1MjY4NjM3/MTItMTg4OC5qcGVn.jpeg" alt="Cover for funeral" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2015</td>
-      <td>LUNAR⋆VISION</td>
-      <td>funeral</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drag" | relative_url }}">drag</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>48</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/1jgc7Z8skG6SeroqWdqZfQtmpj8Vulxy5gViaCeqRIg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDIy/NzMzLTE1MjY4NjM3/MjgtODQzMS5qcGVn.jpeg" alt="Cover for Iceberg" style="max-width:120px; height:auto;" />
       </td>
@@ -945,7 +924,29 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>65</td>
+      <td>
+          <img src="https://i.discogs.com/4llCxCidb34q5fSOlqeUz19OeVYQSRISYiix_5L-XrU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDIy/NjkxLTE1MjY4NjM3/MTItMTg4OC5qcGVn.jpeg" alt="Cover for funeral" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015</td>
+      <td>LUNAR⋆VISION</td>
+      <td>funeral</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drag" | relative_url }}">drag</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/IoJcTTynuYT74J_5z9qnBmScKm0L1i6adCxZTVL8xQY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjE5/MDU2LTE0OTM1ODc1/MjctMzExMC5qcGVn.jpeg" alt="Cover for Oxytocin" style="max-width:120px; height:auto;" />
       </td>
@@ -968,7 +969,7 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/iL_dUBmfABYJaljHi6kq8Fub6biBHFQcA72gAsPnU0o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNTcz/NzgtMTQzOTcxMDE1/MS05MDM1LmpwZWc.jpeg" alt="Cover for DIGITAL ECSTASY" style="max-width:120px; height:auto;" />
       </td>
@@ -989,7 +990,7 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/Y8cffG73-IoFHdzev7uBc21uPBhBPWian5a27L5FlyQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NTEw/NTItMTYwODI4NzQ3/OS01OTYxLmpwZWc.jpeg" alt="Cover for Дрёма" style="max-width:120px; height:auto;" />
       </td>
@@ -1008,7 +1009,7 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0323eba2ad63df52102efef93e5ddfaa.png" alt="Cover for Ecstasy - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1028,7 +1029,7 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a913d8d060072324addda8f9224a8860.png" alt="Cover for Gagged - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1049,7 +1050,7 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/f-Av6jUYf0Bbja-a_FHZrNmhe8z59flM4vnlThYW-Eg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNTcz/NjUtMTQzOTcwOTYx/NS0zMjcyLmpwZWc.jpeg" alt="Cover for Hysteria" style="max-width:120px; height:auto;" />
       </td>
@@ -1073,7 +1074,7 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/hy35nVub-Hjkl-3QbgPHOH1OMZTCdnrDSvhRfzcMScM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNTcz/NzMtMTQzOTcwOTg0/My05MzY3LmpwZWc.jpeg" alt="Cover for Gottheit" style="max-width:120px; height:auto;" />
       </td>
@@ -1096,7 +1097,7 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>49</td>
       <td>
       </td>
       <td>2015-10-13</td>
@@ -1113,7 +1114,7 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/zeyjDDmc3JURVuS37UEOPjyZdTeoBTRZ94ej79Mg_18/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjE2/MDMwLTE1NTAwOTgz/NTEtMzUzOC5qcGVn.jpeg" alt="Cover for Alegoria" style="max-width:120px; height:auto;" />
       </td>
@@ -1132,7 +1133,7 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/182AWr09w7mV_TEYMeLlUKLc1okJi6hKd9Zb1BTqgTc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjkw/NzQtMTQ1OTQ2MjA2/OC0yMTYwLmpwZWc.jpeg" alt="Cover for Skruvat och choppat av Afasi" style="max-width:120px; height:auto;" />
       </td>
@@ -1150,7 +1151,7 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa8f54b07ac770ada2e71c7584579fa2.png" alt="Cover for Super Queen (Cast Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1170,7 +1171,7 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e7d607739497d98fcbcb644fc0f1d095.png" alt="Cover for RuPaul&#39;s Drag Race: The Rusical" style="max-width:120px; height:auto;" />
       </td>
@@ -1190,7 +1191,7 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5019fc6848613d786c5fbe61891487d6.png" alt="Cover for Read Her" style="max-width:120px; height:auto;" />
       </td>
@@ -1211,7 +1212,7 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/09ec01244b2257520a7aaf50bf982660.png" alt="Cover for Catuaba" style="max-width:120px; height:auto;" />
       </td>
@@ -1228,12 +1229,12 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 1</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/23ff1013b233e95366766e3c0e8c0a20.png" alt="Cover for Ai Ai Ai Mega Príncipe" style="max-width:120px; height:auto;" />
       </td>
@@ -1248,12 +1249,12 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 96</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 5</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/71ed6c72fc050cc279631b157653ddaf.png" alt="Cover for Vai Passar Mal" style="max-width:120px; height:auto;" />
       </td>
@@ -1271,7 +1272,7 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ed6bd9afcf2e9d552a93fed6fb12a44b.png" alt="Cover for Everybody’s Talking About Jamie" style="max-width:120px; height:auto;" />
       </td>
@@ -1292,7 +1293,7 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/T7QTgWvRI2qsbj6ny5wXlLL6k8m6tHDod6SOwkYThtU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODU2/MDUwLTE1MDU0MjYw/MDgtODA3Mi5qcGVn.jpeg" alt="Cover for Joga Bunda" style="max-width:120px; height:auto;" />
       </td>
@@ -1310,7 +1311,7 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bd2767531acd39c1981e87633abcf966.png" alt="Cover for ROTTEN RAW WITCH HOUSE" style="max-width:120px; height:auto;" />
       </td>
@@ -1335,7 +1336,7 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/kPliuankuFd43fip-CF27PMKcumgB_ahd_cr-QuYG28/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDc2/MTE4LTE1MDkzOTQy/MDItMzY2My5qcGVn.jpeg" alt="Cover for Yet Another Dig (feat. Alaska Thunderfuck)" style="max-width:120px; height:auto;" />
       </td>
@@ -1353,7 +1354,7 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6bf40a3e54530c2e26c4839f8b4c346b.png" alt="Cover for Mercadinho" style="max-width:120px; height:auto;" />
       </td>
@@ -1369,12 +1370,12 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 98</li>
+            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 3</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/38f2271b74af7c80add15b763583cc22.png" alt="Cover for Não Quero Seu (Din Din)" style="max-width:120px; height:auto;" />
       </td>
@@ -1393,7 +1394,7 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/rc2Zp2QrmgdMW8gNXJu2EGIe4eabJOypPlRsK5MrxSI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjg1/NTUwLTE1MjA2MzEy/MDctNjg0Ni5wbmc.jpeg" alt="Cover for Why You Mad Tho? (Drew G Rdr Remix)" style="max-width:120px; height:auto;" />
       </td>
@@ -1411,7 +1412,7 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/J10uxeBVG9NOXReExVbSPD4ooowRCrHyPNWIiYeGurw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NzQ2/MzQtMTMzNjc2NzE1/Mi00MjA3LmpwZWc.jpeg" alt="Cover for American [Explicit]" style="max-width:120px; height:auto;" />
       </td>
@@ -1430,7 +1431,7 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0c6dfe2edf31258a06162931170c9090.png" alt="Cover for In My Feelings" style="max-width:120px; height:auto;" />
       </td>
@@ -1451,7 +1452,7 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d9039e573a655a0794f3499980603dee.png" alt="Cover for Não Para Não" style="max-width:120px; height:auto;" />
       </td>
@@ -1465,11 +1466,12 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/brega" | relative_url }}">brega</a> # 17</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/iBWnDfYVaq1AFkpAsTIUUcI_k4GtN79LY_VhYNlpvbI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTM5/MDM2LTE1Njg1NjE0/NTYtMjEwNS5qcGVn.jpeg" alt="Cover for Forbidden Files" style="max-width:120px; height:auto;" />
       </td>
@@ -1488,7 +1490,7 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>100</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b4a80bd90c8037f68f81d00fa0a718b7.png" alt="Cover for Ravioli - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1510,7 +1512,7 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0cc88490aa03e5cd484e13af8909c6c6.png" alt="Cover for Batidão Tropical" style="max-width:120px; height:auto;" />
       </td>
@@ -1523,13 +1525,14 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 29</li>
-            <li> <a href="{{ "/tags/calypso" | relative_url }}">calypso</a> # 32</li>
+            <li> <a href="{{ "/tags/brega" | relative_url }}">brega</a> # 19</li>
+            <li> <a href="{{ "/tags/calypso" | relative_url }}">calypso</a> # 69</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/R2mCRgBMCHbXJUDsj_c04GsEnumLs1evF5kK255lGm8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjk1/NTgzLTE2NTYyMjgw/NjAtNjM0OS5qcGVn.jpeg" alt="Cover for The Trial" style="max-width:120px; height:auto;" />
       </td>
@@ -1551,14 +1554,14 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 56</li>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 85</li>
-            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 86</li>
+            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 15</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 16</li>
+            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 45</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/-kF9prSDpCvLHCJ0h72GLn1vt_A48ZVg2W2kU_4OY1Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjUy/NTc1LTE2ODA2NTAx/NjctODQ4OC5qcGVn.jpeg" alt="Cover for How Embarrassing" style="max-width:120px; height:auto;" />
       </td>
@@ -1573,37 +1576,12 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 6</li>
+            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
-      <td>
-      </td>
-      <td></td>
-      <td>System 09</td>
-      <td>100 Tracks</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drag" | relative_url }}">drag</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-techno" | relative_url }}">hardcore techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 31</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>66</td>
+      <td>35</td>
       <td>
       </td>
       <td></td>
@@ -1630,118 +1608,47 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 11</li>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 60</li>
-            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 74</li>
+            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 27</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 41</li>
+            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>94</td>
       <td>
       </td>
       <td></td>
-      <td>Zeph&#x2F;Prole</td>
-      <td>truth-art</td>
+      <td>System 09</td>
+      <td>100 Tracks</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drag" | relative_url }}">drag</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-techno" | relative_url }}">hardcore techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/653a86f4c62048a18123182e594fcc59.png" alt="Cover for ƔI▲†∆†▲IƔ" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>ƔI▲†∆†▲IƔ</td>
-      <td>ƔI▲†∆†▲IƔ</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drag" | relative_url }}">drag</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>11</td>
+      <td>3</td>
       <td>
       </td>
       <td></td>
-      <td>DRAG (DressedAsGirl)</td>
-      <td>EP1 - MadHat Sessions</td>
+      <td>Samira Close</td>
+      <td>Madrugada</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drag" | relative_url }}">drag</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>13</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ea2d32ad7910510db21a7926c57732cc.png" alt="Cover for Chinatown - Single" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>BibleGirl</td>
-      <td>Chinatown - Single</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drag" | relative_url }}">drag</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>14</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Vários intérpretes</td>
-      <td>Hurricane Bianca: From Russia with Hate Soundtrack</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drag" | relative_url }}">drag</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>15</td>
-      <td>
-      </td>
-      <td></td>
-      <td>magn∆Carta</td>
-      <td>Demo</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drag" | relative_url }}">drag</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a></li>
         </ul>
       </td>
       <td>
@@ -1752,15 +1659,14 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
     <tr>
       <td>17</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c2953f8b0e9340d996dcfd601ec492a3.png" alt="Cover for ʂǔ☦ć☦dɚ" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>⁂✴⁂ (sacred star)</td>
-      <td>ʂǔ☦ć☦dɚ</td>
+      <td>Samira Close</td>
+      <td>Madrugada - Single</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drag" | relative_url }}">drag</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
       <td>
@@ -1769,17 +1675,15 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>23</td>
       <td>
       </td>
       <td></td>
-      <td>PUK3!!</td>
-      <td>NO LO ARRUINES OTRA VEZ</td>
+      <td>Радость моя</td>
+      <td>Vibe Boy</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drag" | relative_url }}">drag</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a></li>
         </ul>
       </td>
@@ -1789,15 +1693,18 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>40</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eec8b3a89981259930a8c4d78b96eaa8.png" alt="Cover for SEREIA" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>ƔI▲†∆†▲IƔ</td>
-      <td>SLIT</td>
+      <td>Lia Clark e Pabllo Vittar</td>
+      <td>SEREIA</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drag" | relative_url }}">drag</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rave" | relative_url }}">rave</a></li>
         </ul>
       </td>
       <td>
@@ -1806,12 +1713,50 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>44</td>
       <td>
       </td>
       <td></td>
-      <td>ΣXIS†EMY</td>
-      <td>LAIR</td>
+      <td>✝BL▲CK C∆T✝</td>
+      <td>GHƩTTΩ BL∆STƩR</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drag" | relative_url }}">drag</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>
+      </td>
+      <td></td>
+      <td>✝BL▲CK C∆T✝</td>
+      <td>DEVASTATED</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drag" | relative_url }}">drag</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+      </td>
+      <td></td>
+      <td>SΛUDΛDƩ</td>
+      <td>Ţ Ƅ М Ȃ</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drag" | relative_url }}">drag</a></li>
@@ -1826,16 +1771,37 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>55</td>
       <td>
       </td>
       <td></td>
-      <td>✝BL▲CK C∆T✝</td>
-      <td>#TW74 - ✝BL▲CK C∆T✝ - ▲ P ∆ ✝ H Y</td>
+      <td>Mia Badgyal</td>
+      <td>Na Batida - Single</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drag" | relative_url }}">drag</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aeed6c5cbb0da2cf4741e9ea256e472e.png" alt="Cover for S E D A T I V E" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>SUICIDEWΛVЕ</td>
+      <td>S E D A T I V E</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drag" | relative_url }}">drag</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a></li>
         </ul>
       </td>
@@ -1845,7 +1811,64 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>61</td>
+      <td>
+      </td>
+      <td></td>
+      <td>HΞ▲†H DΞ▲DGΞR</td>
+      <td>▲†</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drag" | relative_url }}">drag</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>
+      </td>
+      <td></td>
+      <td>S∆CRIVICE</td>
+      <td>§PELL ßØØK EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drag" | relative_url }}">drag</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6be8a77232cd1d6350d463b0f23ff88e.png" alt="Cover for Gaia" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Sindel Blade</td>
+      <td>Gaia</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drag" | relative_url }}">drag</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
       <td>
       </td>
       <td></td>
@@ -1870,36 +1893,16 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
     </tr>
     <tr>
-      <td>26</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6be8a77232cd1d6350d463b0f23ff88e.png" alt="Cover for Gaia" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Sindel Blade</td>
-      <td>Gaia</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drag" | relative_url }}">drag</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>34</td>
+      <td>78</td>
       <td>
       </td>
       <td></td>
-      <td>S∆CRIVICE</td>
-      <td>§PELL ßØØK EP</td>
+      <td>✝BL▲CK C∆T✝</td>
+      <td>#TW74 - ✝BL▲CK C∆T✝ - ▲ P ∆ ✝ H Y</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drag" | relative_url }}">drag</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a></li>
         </ul>
       </td>
@@ -1909,16 +1912,18 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>80</td>
       <td>
       </td>
       <td></td>
-      <td>HΞ▲†H DΞ▲DGΞR</td>
-      <td>▲†</td>
+      <td>ΣXIS†EMY</td>
+      <td>LAIR</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drag" | relative_url }}">drag</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rave" | relative_url }}">rave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a></li>
         </ul>
       </td>
       <td>
@@ -1927,19 +1932,34 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>81</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aeed6c5cbb0da2cf4741e9ea256e472e.png" alt="Cover for S E D A T I V E" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>SUICIDEWΛVЕ</td>
-      <td>S E D A T I V E</td>
+      <td>ƔI▲†∆†▲IƔ</td>
+      <td>SLIT</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drag" | relative_url }}">drag</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>
+      </td>
+      <td></td>
+      <td>PUK3!!</td>
+      <td>NO LO ARRUINES OTRA VEZ</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drag" | relative_url }}">drag</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a></li>
         </ul>
       </td>
@@ -1949,12 +1969,13 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>84</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c2953f8b0e9340d996dcfd601ec492a3.png" alt="Cover for ʂǔ☦ć☦dɚ" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>Mia Badgyal</td>
-      <td>Na Batida - Single</td>
+      <td>⁂✴⁂ (sacred star)</td>
+      <td>ʂǔ☦ć☦dɚ</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drag" | relative_url }}">drag</a></li>
@@ -1967,17 +1988,15 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>86</td>
       <td>
       </td>
       <td></td>
-      <td>SΛUDΛDƩ</td>
-      <td>Ţ Ƅ М Ȃ</td>
+      <td>magn∆Carta</td>
+      <td>Demo</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drag" | relative_url }}">drag</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rave" | relative_url }}">rave</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a></li>
         </ul>
       </td>
@@ -1987,17 +2006,16 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>87</td>
       <td>
       </td>
       <td></td>
-      <td>✝BL▲CK C∆T✝</td>
-      <td>DEVASTATED</td>
+      <td>Vários intérpretes</td>
+      <td>Hurricane Bianca: From Russia with Hate Soundtrack</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drag" | relative_url }}">drag</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
       <td>
@@ -2006,17 +2024,19 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>88</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ea2d32ad7910510db21a7926c57732cc.png" alt="Cover for Chinatown - Single" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>✝BL▲CK C∆T✝</td>
-      <td>GHƩTTΩ BL∆STƩR</td>
+      <td>BibleGirl</td>
+      <td>Chinatown - Single</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drag" | relative_url }}">drag</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
         </ul>
       </td>
       <td>
@@ -2025,18 +2045,17 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>90</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eec8b3a89981259930a8c4d78b96eaa8.png" alt="Cover for SEREIA" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>Lia Clark e Pabllo Vittar</td>
-      <td>SEREIA</td>
+      <td>DRAG (DressedAsGirl)</td>
+      <td>EP1 - MadHat Sessions</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drag" | relative_url }}">drag</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rave" | relative_url }}">rave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
         </ul>
       </td>
       <td>
@@ -2045,12 +2064,31 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>93</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/653a86f4c62048a18123182e594fcc59.png" alt="Cover for ƔI▲†∆†▲IƔ" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>ƔI▲†∆†▲IƔ</td>
+      <td>ƔI▲†∆†▲IƔ</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drag" | relative_url }}">drag</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
       <td>
       </td>
       <td></td>
-      <td>Радость моя</td>
-      <td>Vibe Boy</td>
+      <td>Zeph&#x2F;Prole</td>
+      <td>truth-art</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drag" | relative_url }}">drag</a></li>
@@ -2064,41 +2102,6 @@ Drag music encompasses high-energy pop, dance, and electronic tracks that celebr
     </tr>
     <tr>
       <td>83</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Samira Close</td>
-      <td>Madrugada - Single</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drag" | relative_url }}">drag</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>98</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Samira Close</td>
-      <td>Madrugada</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drag" | relative_url }}">drag</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>18</td>
       <td>
       </td>
       <td></td>

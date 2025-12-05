@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T05:52:18.423Z
+date: 2025-12-05T12:34:49.685Z
 permalink: tags/jewish
 title: jewish
 ---
 
 ## jewish
 
-Last updated: <time datetime="2025-12-03T05:52:18.423Z">Wed Dec 03 2025 07:52:18 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T12:34:49.685Z">Fri Dec 05 2025 14:34:49 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -63,7 +63,7 @@ Jewish music encompasses a diverse spectrum of sounds rooted in Jewish cultural 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a> # 81</li>
+            <li> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -228,7 +228,7 @@ Jewish music encompasses a diverse spectrum of sounds rooted in Jewish cultural 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a> # 31</li>
+            <li> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -247,7 +247,7 @@ Jewish music encompasses a diverse spectrum of sounds rooted in Jewish cultural 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a> # 8</li>
+            <li> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -320,7 +320,7 @@ Jewish music encompasses a diverse spectrum of sounds rooted in Jewish cultural 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a> # 59</li>
+            <li> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -340,7 +340,7 @@ Jewish music encompasses a diverse spectrum of sounds rooted in Jewish cultural 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a> # 71</li>
+            <li> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -377,7 +377,7 @@ Jewish music encompasses a diverse spectrum of sounds rooted in Jewish cultural 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mediterranean" | relative_url }}">mediterranean</a> # 77</li>
+            <li> <a href="{{ "/tags/mediterranean" | relative_url }}">mediterranean</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -413,7 +413,7 @@ Jewish music encompasses a diverse spectrum of sounds rooted in Jewish cultural 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a> # 13</li>
+            <li> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -436,8 +436,8 @@ Jewish music encompasses a diverse spectrum of sounds rooted in Jewish cultural 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 47</li>
-            <li> <a href="{{ "/tags/mediterranean" | relative_url }}">mediterranean</a> # 87</li>
+            <li> <a href="{{ "/tags/mediterranean" | relative_url }}">mediterranean</a> # 14</li>
+            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -476,8 +476,8 @@ Jewish music encompasses a diverse spectrum of sounds rooted in Jewish cultural 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 13</li>
             <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 80</li>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -575,7 +575,7 @@ Jewish music encompasses a diverse spectrum of sounds rooted in Jewish cultural 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/clarinet" | relative_url }}">clarinet</a> # 80</li>
+            <li> <a href="{{ "/tags/clarinet" | relative_url }}">clarinet</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -651,9 +651,9 @@ Jewish music encompasses a diverse spectrum of sounds rooted in Jewish cultural 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a> # 64</li>
-            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 92</li>
-            <li> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a> # 97</li>
+            <li> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a> # 4</li>
+            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 9</li>
+            <li> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -674,7 +674,7 @@ Jewish music encompasses a diverse spectrum of sounds rooted in Jewish cultural 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/yiddish" | relative_url }}">yiddish</a> # 98</li>
+            <li> <a href="{{ "/tags/yiddish" | relative_url }}">yiddish</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -695,7 +695,7 @@ Jewish music encompasses a diverse spectrum of sounds rooted in Jewish cultural 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/yiddish" | relative_url }}">yiddish</a> # 88</li>
+            <li> <a href="{{ "/tags/yiddish" | relative_url }}">yiddish</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -788,7 +788,7 @@ Jewish music encompasses a diverse spectrum of sounds rooted in Jewish cultural 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 29</li>
+            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -825,7 +825,7 @@ Jewish music encompasses a diverse spectrum of sounds rooted in Jewish cultural 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/balkan" | relative_url }}">balkan</a> # 51</li>
+            <li> <a href="{{ "/tags/balkan" | relative_url }}">balkan</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -844,7 +844,7 @@ Jewish music encompasses a diverse spectrum of sounds rooted in Jewish cultural 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/balkan" | relative_url }}">balkan</a> # 28</li>
+            <li> <a href="{{ "/tags/balkan" | relative_url }}">balkan</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -864,7 +864,7 @@ Jewish music encompasses a diverse spectrum of sounds rooted in Jewish cultural 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a> # 4</li>
+            <li> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -918,8 +918,8 @@ Jewish music encompasses a diverse spectrum of sounds rooted in Jewish cultural 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/roots-reggae" | relative_url }}">roots reggae</a> # 44</li>
-            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 52</li>
+            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 49</li>
+            <li> <a href="{{ "/tags/roots-reggae" | relative_url }}">roots reggae</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -974,7 +974,7 @@ Jewish music encompasses a diverse spectrum of sounds rooted in Jewish cultural 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 84</li>
+            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1045,9 +1045,9 @@ Jewish music encompasses a diverse spectrum of sounds rooted in Jewish cultural 
       <td>
         <ul>
             <li> <a href="{{ "/tags/japanoise" | relative_url }}">japanoise</a> # 16</li>
-            <li> <a href="{{ "/tags/nyhc" | relative_url }}">nyhc</a> # 26</li>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 32</li>
-            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 55</li>
+            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 45</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 69</li>
+            <li> <a href="{{ "/tags/nyhc" | relative_url }}">nyhc</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1160,10 +1160,10 @@ Jewish music encompasses a diverse spectrum of sounds rooted in Jewish cultural 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a> # 1</li>
+            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 3</li>
+            <li> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a> # 18</li>
             <li> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a> # 51</li>
-            <li> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a> # 83</li>
-            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 98</li>
-            <li> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1202,7 +1202,7 @@ Jewish music encompasses a diverse spectrum of sounds rooted in Jewish cultural 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a> # 34</li>
+            <li> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1277,8 +1277,8 @@ Jewish music encompasses a diverse spectrum of sounds rooted in Jewish cultural 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a> # 16</li>
-            <li> <a href="{{ "/tags/oud" | relative_url }}">oud</a> # 72</li>
+            <li> <a href="{{ "/tags/oud" | relative_url }}">oud</a> # 28</li>
+            <li> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1314,15 +1314,15 @@ Jewish music encompasses a diverse spectrum of sounds rooted in Jewish cultural 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 7</li>
+            <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 13</li>
             <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 19</li>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 33</li>
-            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 44</li>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 62</li>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 62</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 65</li>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 70</li>
-            <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 88</li>
-            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 94</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 31</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 36</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 38</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 39</li>
+            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 57</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1392,16 +1392,16 @@ Jewish music encompasses a diverse spectrum of sounds rooted in Jewish cultural 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 4</li>
+            <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 6</li>
             <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 10</li>
-            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 65</li>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 67</li>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 75</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 76</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 14</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 20</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 25</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 25</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 34</li>
+            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 36</li>
             <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 80</li>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 81</li>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 87</li>
-            <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 95</li>
-            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1441,7 +1441,7 @@ Jewish music encompasses a diverse spectrum of sounds rooted in Jewish cultural 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 39</li>
+            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1497,7 +1497,7 @@ Jewish music encompasses a diverse spectrum of sounds rooted in Jewish cultural 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a> # 58</li>
+            <li> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1525,8 +1525,8 @@ Jewish music encompasses a diverse spectrum of sounds rooted in Jewish cultural 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 48</li>
-            <li> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a> # 89</li>
+            <li> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a> # 12</li>
+            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1546,7 +1546,7 @@ Jewish music encompasses a diverse spectrum of sounds rooted in Jewish cultural 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a> # 92</li>
+            <li> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1608,10 +1608,10 @@ Jewish music encompasses a diverse spectrum of sounds rooted in Jewish cultural 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 40</li>
-            <li> <a href="{{ "/tags/a-capella" | relative_url }}">a capella</a> # 42</li>
-            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 47</li>
-            <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 60</li>
+            <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 41</li>
+            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 54</li>
+            <li> <a href="{{ "/tags/a-capella" | relative_url }}">a capella</a> # 59</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1667,7 +1667,7 @@ Jewish music encompasses a diverse spectrum of sounds rooted in Jewish cultural 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/yiddish" | relative_url }}">yiddish</a> # 87</li>
+            <li> <a href="{{ "/tags/yiddish" | relative_url }}">yiddish</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1758,7 +1758,7 @@ Jewish music encompasses a diverse spectrum of sounds rooted in Jewish cultural 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/yiddish" | relative_url }}">yiddish</a> # 86</li>
+            <li> <a href="{{ "/tags/yiddish" | relative_url }}">yiddish</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1869,7 +1869,7 @@ Jewish music encompasses a diverse spectrum of sounds rooted in Jewish cultural 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 93</li>
+            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1889,8 +1889,8 @@ Jewish music encompasses a diverse spectrum of sounds rooted in Jewish cultural 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a> # 43</li>
-            <li> <a href="{{ "/tags/yiddish" | relative_url }}">yiddish</a> # 96</li>
+            <li> <a href="{{ "/tags/yiddish" | relative_url }}">yiddish</a> # 5</li>
+            <li> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1915,8 +1915,8 @@ Jewish music encompasses a diverse spectrum of sounds rooted in Jewish cultural 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 86</li>
-            <li> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a> # 94</li>
+            <li> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a> # 7</li>
+            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1935,7 +1935,7 @@ Jewish music encompasses a diverse spectrum of sounds rooted in Jewish cultural 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a> # 21</li>
+            <li> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1954,7 +1954,7 @@ Jewish music encompasses a diverse spectrum of sounds rooted in Jewish cultural 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/yiddish" | relative_url }}">yiddish</a> # 89</li>
+            <li> <a href="{{ "/tags/yiddish" | relative_url }}">yiddish</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -1986,10 +1986,10 @@ Jewish music encompasses a diverse spectrum of sounds rooted in Jewish cultural 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 17</li>
-            <li> <a href="{{ "/tags/choir" | relative_url }}">choir</a> # 38</li>
-            <li> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a> # 45</li>
-            <li> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a> # 53</li>
+            <li> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a> # 45</li>
+            <li> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a> # 56</li>
+            <li> <a href="{{ "/tags/choir" | relative_url }}">choir</a> # 63</li>
+            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 84</li>
         </ul>
       </td>
     </tr>

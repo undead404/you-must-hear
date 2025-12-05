@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T06:31:03.412Z
+date: 2025-12-05T12:36:57.170Z
 permalink: tags/anarcho-punk
 title: anarcho-punk
 ---
 
 ## anarcho-punk
 
-Last updated: <time datetime="2025-12-03T06:31:03.412Z">Wed Dec 03 2025 08:31:03 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T12:36:57.170Z">Fri Dec 05 2025 14:36:57 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -302,9 +302,9 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 7</li>
             <li> <a href="{{ "/tags/deathrock" | relative_url }}">deathrock</a> # 38</li>
             <li> <a href="{{ "/tags/horror-punk" | relative_url }}">horror punk</a> # 60</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -324,7 +324,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/d-beat" | relative_url }}">d-beat</a> # 76</li>
+            <li> <a href="{{ "/tags/d-beat" | relative_url }}">d-beat</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -460,7 +460,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
         <ul>
             <li> <a href="{{ "/tags/deathrock" | relative_url }}">deathrock</a> # 6</li>
             <li> <a href="{{ "/tags/horror-punk" | relative_url }}">horror punk</a> # 8</li>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 92</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -517,7 +517,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crust" | relative_url }}">crust</a> # 94</li>
+            <li> <a href="{{ "/tags/crust" | relative_url }}">crust</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -660,7 +660,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crust" | relative_url }}">crust</a> # 92</li>
+            <li> <a href="{{ "/tags/crust" | relative_url }}">crust</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -795,7 +795,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 25</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1151,9 +1151,9 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skacore" | relative_url }}">skacore</a> # 70</li>
-            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 83</li>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 91</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 10</li>
+            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 18</li>
+            <li> <a href="{{ "/tags/skacore" | relative_url }}">skacore</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1193,7 +1193,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-rock" | relative_url }}">modern rock</a> # 47</li>
+            <li> <a href="{{ "/tags/modern-rock" | relative_url }}">modern rock</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1284,7 +1284,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 66</li>
+            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1379,7 +1379,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-rock" | relative_url }}">modern rock</a> # 54</li>
+            <li> <a href="{{ "/tags/modern-rock" | relative_url }}">modern rock</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1397,7 +1397,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a> # 65</li>
+            <li> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1417,7 +1417,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a> # 60</li>
+            <li> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1439,8 +1439,8 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 23</li>
-            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 79</li>
+            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 21</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1462,8 +1462,8 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 19</li>
-            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 75</li>
+            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 25</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1521,8 +1521,8 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 75</li>
-            <li> <a href="{{ "/tags/skacore" | relative_url }}">skacore</a> # 83</li>
+            <li> <a href="{{ "/tags/skacore" | relative_url }}">skacore</a> # 17</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1589,7 +1589,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 34</li>
+            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 67</li>
         </ul>
       </td>
     </tr>

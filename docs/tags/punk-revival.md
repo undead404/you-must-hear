@@ -9,6 +9,10 @@ title: punk revival
 
 Last updated: <time datetime="2025-12-05T11:41:30.285Z">Fri Dec 05 2025 13:41:30 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Punk revival refers to periods when punk rock&#39;s raw energy and DIY ethos resurge with renewed cultural relevance, often updating the sound with contemporary production while maintaining its rebellious spirit. These movements typically emerge when new generations rediscover punk&#39;s directness and anti-establishment attitude, breathing fresh life into its stripped-down power chords and urgent vocals. The tag captures both late-90s pop-punk&#39;s mainstream breakthrough and early-2000s garage rock revivals that brought punk&#39;s immediacy back to the forefront.
+
 ### 100 chronological releases
 
 <table>

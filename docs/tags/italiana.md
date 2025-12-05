@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T05:11:46.823Z
+date: 2025-12-05T12:33:57.855Z
 permalink: tags/italiana
 title: italiana
 ---
 
 ## italiana
 
-Last updated: <time datetime="2025-12-03T05:11:46.823Z">Wed Dec 03 2025 07:11:46 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T12:33:57.855Z">Fri Dec 05 2025 14:33:57 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -62,9 +62,9 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 3</li>
-            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 71</li>
-            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 99</li>
+            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 2</li>
+            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 30</li>
+            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -86,7 +86,7 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 87</li>
+            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -107,7 +107,7 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 86</li>
+            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -126,7 +126,7 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 93</li>
+            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -146,7 +146,7 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 96</li>
+            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -166,7 +166,7 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 98</li>
+            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -185,7 +185,7 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 98</li>
+            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -208,8 +208,8 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 94</li>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 98</li>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 2</li>
+            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -268,7 +268,7 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 100</li>
+            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -292,9 +292,9 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 90</li>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 97</li>
-            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 99</li>
+            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 2</li>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 3</li>
+            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -357,9 +357,9 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 32</li>
-            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 58</li>
-            <li> <a href="{{ "/tags/napoli" | relative_url }}">napoli</a> # 100</li>
+            <li> <a href="{{ "/tags/napoli" | relative_url }}">napoli</a> # 1</li>
+            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 43</li>
+            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -401,8 +401,8 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 81</li>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 93</li>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 6</li>
+            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -442,7 +442,7 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 91</li>
+            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -499,7 +499,7 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 57</li>
+            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -522,8 +522,8 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 64</li>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 83</li>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 14</li>
+            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -563,7 +563,7 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 92</li>
+            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -586,8 +586,8 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 69</li>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 86</li>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 12</li>
+            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -660,7 +660,7 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 91</li>
+            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -683,8 +683,8 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 71</li>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 88</li>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 10</li>
+            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -724,7 +724,7 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 92</li>
+            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -789,9 +789,9 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 68</li>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 85</li>
-            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 90</li>
+            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 11</li>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 13</li>
+            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -811,7 +811,7 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 29</li>
+            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -849,7 +849,7 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 97</li>
+            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -907,8 +907,8 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 62</li>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 82</li>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 15</li>
+            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -932,11 +932,11 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 59</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 80</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 81</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 81</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 81</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 20</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 20</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 20</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 21</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -974,7 +974,7 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 83</li>
+            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -993,7 +993,7 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 90</li>
+            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1034,7 +1034,7 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 78</li>
+            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1058,7 +1058,7 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 77</li>
+            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1135,8 +1135,8 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 70</li>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 87</li>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 11</li>
+            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1196,7 +1196,7 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 86</li>
+            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1217,7 +1217,7 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 13</li>
+            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1275,7 +1275,7 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 94</li>
+            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1297,7 +1297,7 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 93</li>
+            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1319,8 +1319,8 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 2</li>
-            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 98</li>
+            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 3</li>
+            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1340,7 +1340,7 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 73</li>
+            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1404,7 +1404,7 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 91</li>
+            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1424,7 +1424,7 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 89</li>
+            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -1464,10 +1464,10 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 51</li>
-            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 64</li>
-            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 84</li>
-            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 95</li>
+            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 5</li>
+            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 17</li>
+            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 37</li>
+            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1489,8 +1489,8 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 10</li>
-            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 88</li>
+            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 12</li>
+            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1513,8 +1513,8 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 87</li>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 96</li>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 4</li>
+            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1534,7 +1534,7 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 93</li>
+            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1576,9 +1576,9 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 23</li>
-            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 85</li>
-            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 98</li>
+            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 3</li>
+            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 16</li>
+            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1598,7 +1598,7 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 94</li>
+            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1617,7 +1617,7 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 21</li>
+            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1634,7 +1634,7 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a> # 97</li>
+            <li> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1671,7 +1671,7 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 88</li>
+            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1752,8 +1752,8 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 89</li>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 91</li>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 7</li>
+            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -1772,7 +1772,7 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 33</li>
+            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1791,7 +1791,7 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 80</li>
+            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1812,7 +1812,7 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 79</li>
+            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1855,8 +1855,8 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 60</li>
-            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 96</li>
+            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 5</li>
+            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1946,7 +1946,7 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 82</li>
+            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1969,8 +1969,8 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 85</li>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 95</li>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 5</li>
+            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -2014,8 +2014,8 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 70</li>
-            <li> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a> # 92</li>
+            <li> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a> # 8</li>
+            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -2038,8 +2038,8 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 77</li>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 90</li>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 8</li>
+            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -2062,9 +2062,9 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 18</li>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 100</li>
-            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 100</li>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 1</li>
+            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 1</li>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -2086,7 +2086,7 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 86</li>
+            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 14</li>
         </ul>
       </td>
     </tr>

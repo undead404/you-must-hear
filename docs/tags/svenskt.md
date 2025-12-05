@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T03:59:45.996Z
+date: 2025-12-05T12:30:08.702Z
 permalink: tags/svenskt
 title: svenskt
 ---
 
 ## svenskt
 
-Last updated: <time datetime="2025-12-03T03:59:45.996Z">Wed Dec 03 2025 05:59:45 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T12:30:08.702Z">Fri Dec 05 2025 14:30:08 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -44,7 +44,7 @@ Svenskt, meaning &quot;Swedish&quot; in Swedish, encompasses music sung in the S
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 67</li>
+            <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -98,7 +98,7 @@ Svenskt, meaning &quot;Swedish&quot; in Swedish, encompasses music sung in the S
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 42</li>
+            <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -389,7 +389,7 @@ Svenskt, meaning &quot;Swedish&quot; in Swedish, encompasses music sung in the S
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 20</li>
+            <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -446,7 +446,7 @@ Svenskt, meaning &quot;Swedish&quot; in Swedish, encompasses music sung in the S
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 58</li>
+            <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -879,7 +879,7 @@ Svenskt, meaning &quot;Swedish&quot; in Swedish, encompasses music sung in the S
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sverige" | relative_url }}">sverige</a> # 88</li>
+            <li> <a href="{{ "/tags/sverige" | relative_url }}">sverige</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -914,7 +914,6 @@ Svenskt, meaning &quot;Swedish&quot; in Swedish, encompasses music sung in the S
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1025,7 +1024,7 @@ Svenskt, meaning &quot;Swedish&quot; in Swedish, encompasses music sung in the S
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sverige" | relative_url }}">sverige</a> # 90</li>
+            <li> <a href="{{ "/tags/sverige" | relative_url }}">sverige</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1101,7 +1100,7 @@ Svenskt, meaning &quot;Swedish&quot; in Swedish, encompasses music sung in the S
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 13</li>
+            <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1243,8 +1242,8 @@ Svenskt, meaning &quot;Swedish&quot; in Swedish, encompasses music sung in the S
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 4</li>
-            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 13</li>
+            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 88</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1298,7 +1297,7 @@ Svenskt, meaning &quot;Swedish&quot; in Swedish, encompasses music sung in the S
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sverige" | relative_url }}">sverige</a> # 74</li>
+            <li> <a href="{{ "/tags/sverige" | relative_url }}">sverige</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1398,7 +1397,7 @@ Svenskt, meaning &quot;Swedish&quot; in Swedish, encompasses music sung in the S
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 31</li>
+            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1474,7 +1473,7 @@ Svenskt, meaning &quot;Swedish&quot; in Swedish, encompasses music sung in the S
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 60</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1627,8 +1626,8 @@ Svenskt, meaning &quot;Swedish&quot; in Swedish, encompasses music sung in the S
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sverige" | relative_url }}">sverige</a> # 81</li>
-            <li> <a href="{{ "/tags/svensk" | relative_url }}">svensk</a> # 84</li>
+            <li> <a href="{{ "/tags/svensk" | relative_url }}">svensk</a> # 17</li>
+            <li> <a href="{{ "/tags/sverige" | relative_url }}">sverige</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1758,7 +1757,7 @@ Svenskt, meaning &quot;Swedish&quot; in Swedish, encompasses music sung in the S
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 64</li>
+            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1878,10 +1877,10 @@ Svenskt, meaning &quot;Swedish&quot; in Swedish, encompasses music sung in the S
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 8</li>
-            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 13</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 37</li>
-            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 74</li>
+            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 26</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 64</li>
+            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 87</li>
+            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1900,7 +1899,6 @@ Svenskt, meaning &quot;Swedish&quot; in Swedish, encompasses music sung in the S
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 31</li>
         </ul>
       </td>
     </tr>

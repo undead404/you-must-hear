@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T04:11:46.174Z
+date: 2025-12-05T12:32:50.975Z
 permalink: tags/quebec
 title: quebec
 ---
 
 ## quebec
 
-Last updated: <time datetime="2025-12-03T04:11:46.174Z">Wed Dec 03 2025 06:11:46 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T12:32:50.975Z">Fri Dec 05 2025 14:32:50 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -46,7 +46,7 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a> # 85</li>
+            <li> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a> # 16</li>
             <li> <a href="{{ "/tags/canterbury" | relative_url }}">canterbury</a> # 94</li>
         </ul>
       </td>
@@ -87,7 +87,7 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 61</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -302,7 +302,7 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 65</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -358,8 +358,8 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 61</li>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 87</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 14</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -420,7 +420,7 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 55</li>
+            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -454,7 +454,7 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 6</li>
+            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -603,7 +603,7 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 83</li>
+            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -678,8 +678,8 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 52</li>
-            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 76</li>
+            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 24</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -734,7 +734,7 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-black-metal" | relative_url }}">french black metal</a> # 8</li>
+            <li> <a href="{{ "/tags/french-black-metal" | relative_url }}">french black metal</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -753,7 +753,7 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 94</li>
+            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -864,7 +864,7 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 77</li>
+            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -884,7 +884,7 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 92</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -903,7 +903,7 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 97</li>
+            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -942,7 +942,7 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 78</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -969,7 +969,7 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 63</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1005,7 +1005,7 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 83</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1043,7 +1043,7 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 84</li>
+            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1082,7 +1082,7 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 42</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1107,10 +1107,10 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 77</li>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 89</li>
-            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 98</li>
-            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 99</li>
+            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 2</li>
+            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 2</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 12</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1183,7 +1183,7 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 74</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1257,7 +1257,7 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 72</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1278,7 +1278,7 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 9</li>
+            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1340,8 +1340,8 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 74</li>
-            <li> <a href="{{ "/tags/fast-melodic-punk" | relative_url }}">fast melodic punk</a> # 93</li>
+            <li> <a href="{{ "/tags/fast-melodic-punk" | relative_url }}">fast melodic punk</a> # 8</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1381,8 +1381,8 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 73</li>
-            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 93</li>
+            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 7</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1437,7 +1437,7 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 89</li>
+            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1458,7 +1458,7 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 2</li>
+            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1482,7 +1482,7 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 43</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1512,9 +1512,9 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 71</li>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 76</li>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 93</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 8</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 25</li>
+            <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1553,7 +1553,7 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-black-metal" | relative_url }}">french black metal</a> # 7</li>
+            <li> <a href="{{ "/tags/french-black-metal" | relative_url }}">french black metal</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1603,12 +1603,12 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 9</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 49</li>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 81</li>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 96</li>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 100</li>
-            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 100</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 1</li>
+            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 1</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 5</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 20</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 52</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1625,7 +1625,7 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 52</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1647,8 +1647,8 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 22</li>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 67</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 34</li>
+            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1716,9 +1716,9 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 70</li>
-            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 76</li>
-            <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 77</li>
+            <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 24</li>
+            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 25</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1799,7 +1799,7 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 64</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1821,7 +1821,7 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 13</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1842,7 +1842,7 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 56</li>
+            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1903,8 +1903,8 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       <td>
         <ul>
             <li> <a href="{{ "/tags/vancouver" | relative_url }}">vancouver</a> # 22</li>
-            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 23</li>
-            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 63</li>
+            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 37</li>
+            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1975,7 +1975,7 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 54</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1998,7 +1998,7 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 47</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 53</li>
         </ul>
       </td>
     </tr>

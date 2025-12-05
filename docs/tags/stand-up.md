@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T03:54:45.947Z
+date: 2025-12-05T12:29:15.324Z
 permalink: tags/stand-up
 title: stand-up
 ---
 
 ## stand-up
 
-Last updated: <time datetime="2025-12-03T03:54:45.947Z">Wed Dec 03 2025 05:54:45 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T12:29:15.324Z">Fri Dec 05 2025 14:29:15 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -69,9 +69,9 @@ Stand-up is a performance art where solo comedians deliver humorous monologues d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 46</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 63</li>
-            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 70</li>
+            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 31</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 38</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -109,7 +109,7 @@ Stand-up is a performance art where solo comedians deliver humorous monologues d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 70</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -132,8 +132,8 @@ Stand-up is a performance art where solo comedians deliver humorous monologues d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 65</li>
-            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 72</li>
+            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 29</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -169,7 +169,7 @@ Stand-up is a performance art where solo comedians deliver humorous monologues d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 44</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -207,7 +207,7 @@ Stand-up is a performance art where solo comedians deliver humorous monologues d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 10</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -243,9 +243,9 @@ Stand-up is a performance art where solo comedians deliver humorous monologues d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 65</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 78</li>
-            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 86</li>
+            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 15</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 23</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -305,9 +305,9 @@ Stand-up is a performance art where solo comedians deliver humorous monologues d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 51</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 69</li>
-            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 76</li>
+            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 25</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 32</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -343,7 +343,7 @@ Stand-up is a performance art where solo comedians deliver humorous monologues d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 74</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -381,7 +381,7 @@ Stand-up is a performance art where solo comedians deliver humorous monologues d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 61</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -438,7 +438,7 @@ Stand-up is a performance art where solo comedians deliver humorous monologues d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 67</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -476,7 +476,7 @@ Stand-up is a performance art where solo comedians deliver humorous monologues d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 14</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -498,9 +498,9 @@ Stand-up is a performance art where solo comedians deliver humorous monologues d
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 7</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 8</li>
             <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 48</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 93</li>
-            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -555,8 +555,8 @@ Stand-up is a performance art where solo comedians deliver humorous monologues d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 43</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 50</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 51</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -615,10 +615,10 @@ Stand-up is a performance art where solo comedians deliver humorous monologues d
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 3</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 4</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 14</li>
             <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 40</li>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 87</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 97</li>
-            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -642,9 +642,9 @@ Stand-up is a performance art where solo comedians deliver humorous monologues d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 45</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 62</li>
-            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 69</li>
+            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 32</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 39</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -682,7 +682,7 @@ Stand-up is a performance art where solo comedians deliver humorous monologues d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 27</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -702,7 +702,7 @@ Stand-up is a performance art where solo comedians deliver humorous monologues d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 23</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -754,10 +754,10 @@ Stand-up is a performance art where solo comedians deliver humorous monologues d
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 5</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 6</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 17</li>
             <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 44</li>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 84</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 95</li>
-            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -833,7 +833,7 @@ Stand-up is a performance art where solo comedians deliver humorous monologues d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 85</li>
+            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -869,7 +869,7 @@ Stand-up is a performance art where solo comedians deliver humorous monologues d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 16</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -887,7 +887,7 @@ Stand-up is a performance art where solo comedians deliver humorous monologues d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 50</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -942,7 +942,7 @@ Stand-up is a performance art where solo comedians deliver humorous monologues d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 75</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -984,7 +984,7 @@ Stand-up is a performance art where solo comedians deliver humorous monologues d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 66</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1062,7 +1062,7 @@ Stand-up is a performance art where solo comedians deliver humorous monologues d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 71</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1081,7 +1081,7 @@ Stand-up is a performance art where solo comedians deliver humorous monologues d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 12</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1118,7 +1118,7 @@ Stand-up is a performance art where solo comedians deliver humorous monologues d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 6</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1141,8 +1141,8 @@ Stand-up is a performance art where solo comedians deliver humorous monologues d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 75</li>
-            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 83</li>
+            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 18</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1182,8 +1182,8 @@ Stand-up is a performance art where solo comedians deliver humorous monologues d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 72</li>
-            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 80</li>
+            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 21</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1203,7 +1203,7 @@ Stand-up is a performance art where solo comedians deliver humorous monologues d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 88</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1221,7 +1221,7 @@ Stand-up is a performance art where solo comedians deliver humorous monologues d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 18</li>
+            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1239,7 +1239,7 @@ Stand-up is a performance art where solo comedians deliver humorous monologues d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 13</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1275,8 +1275,8 @@ Stand-up is a performance art where solo comedians deliver humorous monologues d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 74</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 85</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 16</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1298,9 +1298,9 @@ Stand-up is a performance art where solo comedians deliver humorous monologues d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 21</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 10</li>
             <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 58</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 91</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1324,9 +1324,9 @@ Stand-up is a performance art where solo comedians deliver humorous monologues d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 49</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 67</li>
-            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 73</li>
+            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 28</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 34</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1403,10 +1403,10 @@ Stand-up is a performance art where solo comedians deliver humorous monologues d
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 9</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 11</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 21</li>
             <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 62</li>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 80</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 90</li>
-            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1426,7 +1426,7 @@ Stand-up is a performance art where solo comedians deliver humorous monologues d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 83</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1446,8 +1446,8 @@ Stand-up is a performance art where solo comedians deliver humorous monologues d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 62</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 80</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 21</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1470,9 +1470,9 @@ Stand-up is a performance art where solo comedians deliver humorous monologues d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 57</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 73</li>
-            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 82</li>
+            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 19</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 28</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1496,10 +1496,10 @@ Stand-up is a performance art where solo comedians deliver humorous monologues d
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 10</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 12</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 22</li>
             <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 68</li>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 79</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 89</li>
-            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1517,7 +1517,7 @@ Stand-up is a performance art where solo comedians deliver humorous monologues d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 81</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 20</li>
             <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 93</li>
         </ul>
       </td>
@@ -1576,8 +1576,8 @@ Stand-up is a performance art where solo comedians deliver humorous monologues d
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 2</li>
             <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 36</li>
-            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1597,8 +1597,8 @@ Stand-up is a performance art where solo comedians deliver humorous monologues d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 7</li>
             <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 30</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1712,11 +1712,11 @@ Stand-up is a performance art where solo comedians deliver humorous monologues d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 1</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 1</li>
+            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 1</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 10</li>
             <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 31</li>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 91</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 100</li>
-            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 100</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1739,9 +1739,9 @@ Stand-up is a performance art where solo comedians deliver humorous monologues d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 66</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 79</li>
-            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 87</li>
+            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 14</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 22</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1799,8 +1799,8 @@ Stand-up is a performance art where solo comedians deliver humorous monologues d
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 17</li>
             <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 80</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1820,7 +1820,7 @@ Stand-up is a performance art where solo comedians deliver humorous monologues d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 57</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1843,9 +1843,9 @@ Stand-up is a performance art where solo comedians deliver humorous monologues d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 47</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 64</li>
-            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 71</li>
+            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 30</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 37</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1892,13 +1892,13 @@ Stand-up is a performance art where solo comedians deliver humorous monologues d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/broadway" | relative_url }}">broadway</a> # 61</li>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 74</li>
+            <li> <a href="{{ "/tags/showtune" | relative_url }}">showtune</a> # 1</li>
+            <li> <a href="{{ "/tags/musical-theater" | relative_url }}">musical theater</a> # 6</li>
+            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 12</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 15</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 27</li>
+            <li> <a href="{{ "/tags/broadway" | relative_url }}">broadway</a> # 40</li>
             <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 76</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 86</li>
-            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 89</li>
-            <li> <a href="{{ "/tags/musical-theater" | relative_url }}">musical theater</a> # 95</li>
-            <li> <a href="{{ "/tags/showtune" | relative_url }}">showtune</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1922,10 +1922,10 @@ Stand-up is a performance art where solo comedians deliver humorous monologues d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 71</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 82</li>
+            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 13</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 19</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 30</li>
             <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 87</li>
-            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1949,9 +1949,9 @@ Stand-up is a performance art where solo comedians deliver humorous monologues d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 62</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 76</li>
-            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 84</li>
+            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 17</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 25</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1975,9 +1975,9 @@ Stand-up is a performance art where solo comedians deliver humorous monologues d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 50</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 68</li>
-            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 74</li>
+            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 27</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 33</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1996,7 +1996,7 @@ Stand-up is a performance art where solo comedians deliver humorous monologues d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 38</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -2040,10 +2040,10 @@ Stand-up is a performance art where solo comedians deliver humorous monologues d
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 4</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 5</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 16</li>
             <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 43</li>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 85</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 96</li>
-            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -2067,10 +2067,10 @@ Stand-up is a performance art where solo comedians deliver humorous monologues d
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 11</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 14</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 26</li>
             <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 74</li>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 75</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 87</li>
-            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 90</li>
         </ul>
       </td>
     </tr>

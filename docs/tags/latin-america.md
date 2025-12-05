@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T05:21:55.414Z
+date: 2025-12-05T12:34:27.802Z
 permalink: tags/latin-america
 title: latin america
 ---
 
 ## latin america
 
-Last updated: <time datetime="2025-12-03T05:21:55.414Z">Wed Dec 03 2025 07:21:55 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T12:34:27.802Z">Fri Dec 05 2025 14:34:27 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,53 +29,7 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
   </thead>
   <tbody>
     <tr>
-      <td>54</td>
-      <td>
-      </td>
-      <td>1972</td>
-      <td>Víctor Jara</td>
-      <td>La población</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 55</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>55</td>
-      <td>
-          <img src="https://i.discogs.com/3Z4RlMNrT1Z99kXSklNlzPLEfAufJ8wiGho2hbB0aGU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MzE1/OS0xNjQ2ODQ2NTYy/LTU3NTUuanBlZw.jpeg" alt="Cover for Máximas Texturas 006" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1972</td>
-      <td>Various Artists</td>
-      <td>Máximas Texturas 006</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/america" | relative_url }}">america</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 90</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>60</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for Mínimas Texturas 005" style="max-width:120px; height:auto;" />
       </td>
@@ -103,11 +57,36 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
     <tr>
       <td>46</td>
       <td>
-          <img src="https://i.discogs.com/cZbYRAdq4sFD7P_FSrlHhFIDjq4Tpb_Vmxb76yz1JD0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4Nzk2/MDQtMTM3ODMxODEy/MS0xNzU5LmpwZWc.jpeg" alt="Cover for Canto por travesura" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/3Z4RlMNrT1Z99kXSklNlzPLEfAufJ8wiGho2hbB0aGU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MzE1/OS0xNjQ2ODQ2NTYy/LTU3NTUuanBlZw.jpeg" alt="Cover for Máximas Texturas 006" style="max-width:120px; height:auto;" />
       </td>
-      <td>1973-09</td>
+      <td>1972</td>
+      <td>Various Artists</td>
+      <td>Máximas Texturas 006</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/america" | relative_url }}">america</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 90</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>
+      </td>
+      <td>1972</td>
       <td>Víctor Jara</td>
-      <td>Canto por travesura</td>
+      <td>La población</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
@@ -122,7 +101,28 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>55</td>
+      <td>
+          <img src="https://i.discogs.com/cZbYRAdq4sFD7P_FSrlHhFIDjq4Tpb_Vmxb76yz1JD0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4Nzk2/MDQtMTM3ODMxODEy/MS0xNzU5LmpwZWc.jpeg" alt="Cover for Canto por travesura" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1973-09</td>
+      <td>Víctor Jara</td>
+      <td>Canto por travesura</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 55</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
       <td>
       </td>
       <td>1974</td>
@@ -142,28 +142,7 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
     </tr>
     <tr>
-      <td>40</td>
-      <td>
-          <img src="https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg" alt="Cover for The Rough Guide Cuba" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1977</td>
-      <td>Various Artists</td>
-      <td>The Rough Guide Cuba</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cuban" | relative_url }}">cuban</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4837f8191a6e47e8993fdd79e9e86c70.png" alt="Cover for Breathe 01" style="max-width:120px; height:auto;" />
       </td>
@@ -188,7 +167,28 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>61</td>
+      <td>
+          <img src="https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg" alt="Cover for The Rough Guide Cuba" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1977</td>
+      <td>Various Artists</td>
+      <td>The Rough Guide Cuba</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cuban" | relative_url }}">cuban</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/dDlJlgWpgHH1pmok2qE3JZsxd9muL0MIyTTZDYQQVvY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTM2/NTE1LTE2NDQ3MTY1/NDgtNzgzNi5qcGVn.jpeg" alt="Cover for La Mandrágora" style="max-width:120px; height:auto;" />
       </td>
@@ -206,7 +206,7 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/197ade15cdc54bbb83d9fa69d21b8251.png" alt="Cover for Tempos Modernos (Remasterizado)" style="max-width:120px; height:auto;" />
       </td>
@@ -223,12 +223,12 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 49</li>
+            <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cfdd89b91b2ab3b569aa4ddfb7a9d5c9.png" alt="Cover for Normal" style="max-width:120px; height:auto;" />
       </td>
@@ -250,7 +250,7 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>90</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b0710ab4ec484248b1e07ce4832a527b.png" alt="Cover for Quantization Proclamation" style="max-width:120px; height:auto;" />
       </td>
@@ -269,7 +269,7 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/4FO8CHxIrjBMAuKNY13ZaqYjaqyP6FyemtjcgJrdTaY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNTg4/NTAtMTQ1NjI0MjEy/NS0xMjAxLmpwZWc.jpeg" alt="Cover for Lacuna" style="max-width:120px; height:auto;" />
       </td>
@@ -292,7 +292,7 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/oj9LKwmeJOt_-Au9H6mGYWmK6c2jkwCzLEeN5zZaGcI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzM5/OTgtMTMyNDUyMDg1/My5qcGVn.jpeg" alt="Cover for Coleccion Suprema" style="max-width:120px; height:auto;" />
       </td>
@@ -312,7 +312,7 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/-6vuVsoVlRwA7UTSi_muaYWt1yeDdzSdY1jiGcHlzS8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyOTE5/MzYtMTQzODE2MzQx/NC04MzQ4LmpwZWc.jpeg" alt="Cover for El Mundo de Los Beatles en el Perú" style="max-width:120px; height:auto;" />
       </td>
@@ -332,7 +332,7 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/056ff4b2276cda47e598d98edd97cbc6.png" alt="Cover for Frágil" style="max-width:120px; height:auto;" />
       </td>
@@ -353,16 +353,16 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 2</li>
-            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 57</li>
-            <li> <a href="{{ "/tags/peru" | relative_url }}">peru</a> # 65</li>
+            <li> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a> # 20</li>
+            <li> <a href="{{ "/tags/peru" | relative_url }}">peru</a> # 36</li>
+            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 43</li>
             <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 66</li>
-            <li> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a> # 80</li>
+            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7ad75636641f8dd8f80ae0e2841dfc43.png" alt="Cover for O Canto Da Cidade" style="max-width:120px; height:auto;" />
       </td>
@@ -376,12 +376,12 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 87</li>
+            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 14</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8b906a8d66474d1e9c9bf4ed4715fca2.png" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -396,57 +396,13 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 18</li>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 25</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 76</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
-      <td>
-      </td>
-      <td>1993</td>
-      <td>Jorge González</td>
-      <td>Jorge González</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 22</li>
-            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 53</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>67</td>
-      <td>
-          <img src="https://i.discogs.com/vs7GhG5dPNuw_0Qj_MFCcrxV5HFYvVs_YVj7aTZZAPs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NDQ4/NTUtMTQ3MTk3Mjky/OC0yNDc1LmpwZWc.jpeg" alt="Cover for Canto Libre" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1993</td>
-      <td>Víctor Jara</td>
-      <td>Canto Libre</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 66</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/4nq-VhFpsbJzatFbg83n2950mcYMHv6ZMQ3pkSQEk2M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjUx/MTgtMTM4MjY3MjYz/MS04OTA0LmpwZWc.jpeg" alt="Cover for Jorge Gonzalez" style="max-width:120px; height:auto;" />
       </td>
@@ -464,15 +420,59 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 42</li>
-            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 53</li>
-            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 69</li>
-            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 89</li>
+            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 12</li>
+            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 32</li>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 47</li>
+            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>34</td>
+      <td>
+          <img src="https://i.discogs.com/vs7GhG5dPNuw_0Qj_MFCcrxV5HFYvVs_YVj7aTZZAPs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NDQ4/NTUtMTQ3MTk3Mjky/OC0yNDc1LmpwZWc.jpeg" alt="Cover for Canto Libre" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1993</td>
+      <td>Víctor Jara</td>
+      <td>Canto Libre</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 35</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>
+      </td>
+      <td>1993</td>
+      <td>Jorge González</td>
+      <td>Jorge González</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 48</li>
+            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 79</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/_S9x_JIakyB2epmelJXEf3OlvhGprSDLLRV-9Y3vmww/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzU5/ODktMTMxNzQzNjM4/NC5qcGVn.jpeg" alt="Cover for Pura Sangre" style="max-width:120px; height:auto;" />
       </td>
@@ -492,7 +492,28 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>22</td>
+      <td>
+          <img src="https://i.discogs.com/Xnd9WB1cKLGTbHsDuXBDsdoMtnA7t9gc8fFPz5iOgX8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNDMx/MjctMTQ3Mzc3OTUy/NC00MTY0LmpwZWc.jpeg" alt="Cover for El derecho de vivir en paz" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994</td>
+      <td>Víctor Jara</td>
+      <td>El derecho de vivir en paz</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 25</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/CIAlF_wvy9s15u6KQAZfLfKT_QAFHNChxMerPCcPkRY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDU3/Mjc0LTE2NTc4NTU1/NzctOTg5MC5qcGVn.jpeg" alt="Cover for No Puedo Esperar" style="max-width:120px; height:auto;" />
       </td>
@@ -517,35 +538,14 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/peru" | relative_url }}">peru</a> # 54</li>
-            <li> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a> # 74</li>
+            <li> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a> # 27</li>
+            <li> <a href="{{ "/tags/peru" | relative_url }}">peru</a> # 47</li>
             <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>79</td>
-      <td>
-          <img src="https://i.discogs.com/Xnd9WB1cKLGTbHsDuXBDsdoMtnA7t9gc8fFPz5iOgX8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNDMx/MjctMTQ3Mzc3OTUy/NC00MTY0LmpwZWc.jpeg" alt="Cover for El derecho de vivir en paz" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1994</td>
-      <td>Víctor Jara</td>
-      <td>El derecho de vivir en paz</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 76</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/822c1bbf52ab494dc9871d43a4df2019.png" alt="Cover for Música De Rua" style="max-width:120px; height:auto;" />
       </td>
@@ -566,7 +566,7 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
       </td>
       <td>1995-06</td>
@@ -583,15 +583,15 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 56</li>
-            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 75</li>
-            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 80</li>
-            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 94</li>
+            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 7</li>
+            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 21</li>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 26</li>
+            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 45</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>45</td>
       <td>
       </td>
       <td>1997</td>
@@ -605,14 +605,14 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 47</li>
-            <li> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a> # 73</li>
+            <li> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a> # 28</li>
+            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 53</li>
             <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/3Z4RlMNrT1Z99kXSklNlzPLEfAufJ8wiGho2hbB0aGU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MzE1/OS0xNjQ2ODQ2NTYy/LTU3NTUuanBlZw.jpeg" alt="Cover for Mínimas Texturas 007" style="max-width:120px; height:auto;" />
       </td>
@@ -637,7 +637,7 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b2fd2f7a17c64beebf1058be84e188cb.png" alt="Cover for Cuerpo y Alma" style="max-width:120px; height:auto;" />
       </td>
@@ -652,12 +652,12 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trova" | relative_url }}">trova</a> # 81</li>
+            <li> <a href="{{ "/tags/trova" | relative_url }}">trova</a> # 19</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/-DM8u4ZgktagfB-f4gsxrL7kBdMJC6olzC14nHn8OBs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODcx/NjM5LTE2MjE5MTA5/MzctMzQ3Mi5qcGVn.jpeg" alt="Cover for The Rough Guide to Mambo" style="max-width:120px; height:auto;" />
       </td>
@@ -676,7 +676,7 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/h1mltPto0SOyRNCXj7tG1ckHtF_5eEVxRDGVSFI8LCs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTUz/Njk0LTE2ODkxOTk2/MzctMzAxMy5qcGVn.jpeg" alt="Cover for Calcinha Preta, Vol. 13 (Ao Vivo)" style="max-width:120px; height:auto;" />
       </td>
@@ -693,7 +693,7 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/YLodzgWJahyQjsaOG8VJVEBdaNrykYdZDTd1NqTbD_I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjYy/ODI2LTE2ODE2NDkw/NzItMTU1OC5qcGVn.jpeg" alt="Cover for Ao Vivo em Fortaleza" style="max-width:120px; height:auto;" />
       </td>
@@ -715,7 +715,7 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/67d0b12e55abbb8cfb68cc4f6f397c9c.png" alt="Cover for Sol Da Liberdade" style="max-width:120px; height:auto;" />
       </td>
@@ -732,7 +732,7 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/MdeXozvKurXZTCXwaM_SPvdg308lZjDtMDsdkHXqtBU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzY3/ODcyLTE2NzAxNzE5/NTQtNzgyMi5qcGVn.jpeg" alt="Cover for Árbol Blanco" style="max-width:120px; height:auto;" />
       </td>
@@ -758,16 +758,16 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trova" | relative_url }}">trova</a> # 55</li>
-            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 56</li>
+            <li> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a> # 22</li>
+            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 44</li>
+            <li> <a href="{{ "/tags/trova" | relative_url }}">trova</a> # 46</li>
             <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 71</li>
-            <li> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a> # 78</li>
             <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/XP2G96kSPKfO--if03QdOlbgfbE9IimRT3e_p0GDen4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNjMt/MDAxLmpwZw.jpeg" alt="Cover for Aeronautica Y Otras Tecnologías" style="max-width:120px; height:auto;" />
       </td>
@@ -798,12 +798,12 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/barcelona" | relative_url }}">barcelona</a> # 68</li>
+            <li> <a href="{{ "/tags/barcelona" | relative_url }}">barcelona</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/MTlXiUQb2PQHfrICfKDTTsoUCXIXgYsl5kSt82l000s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyOTIz/MzYtMTM4OTc4Mzk0/NC00NjA1LmpwZWc.jpeg" alt="Cover for Mundo" style="max-width:120px; height:auto;" />
       </td>
@@ -822,35 +822,13 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       <td>
         <ul>
             <li> <a href="{{ "/tags/western" | relative_url }}">western</a> # 26</li>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 60</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 41</li>
             <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
-      <td>
-          <img src="https://i.discogs.com/yKo46p2gn_ts1qAJ8DdY13PcpKS-p505O_2f5QCyopM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNDIy/OTItMTQ1NDAyMzgw/NC00OTE1LmpwZWc.jpeg" alt="Cover for Arecibo Psycodelic Classics 17: Abortos Musicales" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2003</td>
-      <td>Mu.</td>
-      <td>Arecibo Psycodelic Classics 17: Abortos Musicales</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/puerto-rico" | relative_url }}">puerto rico</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/puerto-rico" | relative_url }}">puerto rico</a> # 37</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/3Z4RlMNrT1Z99kXSklNlzPLEfAufJ8wiGho2hbB0aGU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MzE1/OS0xNjQ2ODQ2NTYy/LTU3NTUuanBlZw.jpeg" alt="Cover for Máximas Texturas 008" style="max-width:120px; height:auto;" />
       </td>
@@ -876,7 +854,29 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>96</td>
+      <td>
+          <img src="https://i.discogs.com/yKo46p2gn_ts1qAJ8DdY13PcpKS-p505O_2f5QCyopM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNDIy/OTItMTQ1NDAyMzgw/NC00OTE1LmpwZWc.jpeg" alt="Cover for Arecibo Psycodelic Classics 17: Abortos Musicales" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Mu.</td>
+      <td>Arecibo Psycodelic Classics 17: Abortos Musicales</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/puerto-rico" | relative_url }}">puerto rico</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/puerto-rico" | relative_url }}">puerto rico</a> # 64</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/UNGuj87HlCpkxf74FcnAWkCH-eLbBT5xGjBH47e7eD8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODU0/ODEtMTI0MzE4MzYz/Ny5qcGVn.jpeg" alt="Cover for Believe EP" style="max-width:120px; height:auto;" />
       </td>
@@ -901,7 +901,7 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/Nu_HmIRSt2bA7och6LW1xBINQYr_6Wz4mJvqw9soKMs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTQ3/OTUtMTMzMzQ4MTYx/Mi5qcGVn.jpeg" alt="Cover for EP04" style="max-width:120px; height:auto;" />
       </td>
@@ -926,7 +926,7 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ca3723342810c883f7061abaeb983192.png" alt="Cover for Hoje à Noite, Vol. 11 (Inéditas e ao Vivo)" style="max-width:120px; height:auto;" />
       </td>
@@ -943,7 +943,7 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>99</td>
       <td>
           <img src="https://i.discogs.com/_9w6p0YXLwjOKtPV7e9gWxeYdCXDLVRLsz2fKqk0ZvI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MjU5/MDEtMTY3MDA5Mjc3/MS0zMjAzLmpwZWc.jpeg" alt="Cover for The Rough Guide To Tango Nuevo" style="max-width:120px; height:auto;" />
       </td>
@@ -962,7 +962,7 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/EmnFLRDH7QC1O7D9itEZ_UdvfKWehE7L4hKFX4xy2Kc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDI3/OTIzLTE1OTEzNzQz/MTMtODc2NC5qcGVn.jpeg" alt="Cover for Velocidad" style="max-width:120px; height:auto;" />
       </td>
@@ -988,17 +988,35 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 9</li>
+            <li> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a> # 11</li>
+            <li> <a href="{{ "/tags/trova" | relative_url }}">trova</a> # 34</li>
+            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 35</li>
             <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 49</li>
-            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 65</li>
-            <li> <a href="{{ "/tags/trova" | relative_url }}">trova</a> # 66</li>
             <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 68</li>
-            <li> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a> # 89</li>
+            <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>62</td>
+      <td>
+      </td>
+      <td>2005</td>
+      <td>Tito Puente</td>
+      <td>The Rough Guide to Tito Puente</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab6af9b06a4e48f183ff9eb9f8a0acee.png" alt="Cover for Cabiosile" style="max-width:120px; height:auto;" />
       </td>
@@ -1023,25 +1041,7 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
     </tr>
     <tr>
-      <td>39</td>
-      <td>
-      </td>
-      <td>2005</td>
-      <td>Tito Puente</td>
-      <td>The Rough Guide to Tito Puente</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
       </td>
       <td>2005-01-10</td>
@@ -1071,15 +1071,15 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 8</li>
-            <li> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a> # 11</li>
+            <li> <a href="{{ "/tags/barcelona" | relative_url }}">barcelona</a> # 11</li>
             <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 54</li>
-            <li> <a href="{{ "/tags/barcelona" | relative_url }}">barcelona</a> # 90</li>
+            <li> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a> # 90</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>100</td>
       <td>
           <img src="https://i.discogs.com/rNqdioodPBT8ErXyUwY21id5pQ2Swn1dTNEEvJRByBE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NDY2/OS0xNjAzNzQxNzY0/LTY5MTkuanBlZw.jpeg" alt="Cover for Invisible EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1104,38 +1104,7 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
     </tr>
     <tr>
-      <td>59</td>
-      <td>
-          <img src="https://i.discogs.com/JcJ9zf8o7ttgCn2ESUGcxb2hws76itrk050-cGumwe0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMzE1/MDYtMTQ3NzA2NjQ1/OC04NzE4LmpwZWc.jpeg" alt="Cover for Bailando en el muladar" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2007</td>
-      <td>Cementerio Club</td>
-      <td>Bailando en el muladar</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/peru" | relative_url }}">peru</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 48</li>
-            <li> <a href="{{ "/tags/peru" | relative_url }}">peru</a> # 55</li>
-            <li> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a> # 75</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/Cqwf55MP7DvssPlQ812jaF8KZENOxSif91C0QtIX4h0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MjE4/My0xMzc0ODg1NjAw/LTMyMDkuanBlZw.jpeg" alt="Cover for Kraut Slut" style="max-width:120px; height:auto;" />
       </td>
@@ -1165,7 +1134,38 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>42</td>
+      <td>
+          <img src="https://i.discogs.com/JcJ9zf8o7ttgCn2ESUGcxb2hws76itrk050-cGumwe0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMzE1/MDYtMTQ3NzA2NjQ1/OC04NzE4LmpwZWc.jpeg" alt="Cover for Bailando en el muladar" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Cementerio Club</td>
+      <td>Bailando en el muladar</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/peru" | relative_url }}">peru</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a> # 26</li>
+            <li> <a href="{{ "/tags/peru" | relative_url }}">peru</a> # 46</li>
+            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 52</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/UtOo1-1lF9ainxpeVxkNn08of8_qBSI-EhMRRyOOaZg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjIw/NDUtMTE4OTE1NjA2/MS5qcGVn.jpeg" alt="Cover for Patria" style="max-width:120px; height:auto;" />
       </td>
@@ -1191,37 +1191,7 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
     </tr>
     <tr>
-      <td>21</td>
-      <td>
-      </td>
-      <td>2007-10-13</td>
-      <td>Todosantos</td>
-      <td>Acid Girlzzz Demo</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/venezuela" | relative_url }}">venezuela</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/venezuela" | relative_url }}">venezuela</a> # 22</li>
-            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 29</li>
-            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 37</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>68</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/G1aecFZdypJW17L3RAi5XFvVxLZ6SwsuDCBM8FaYF1c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDk3/ODktMTQ0NDQ5NDkw/OS0xOTA3LmpwZWc.jpeg" alt="Cover for Acid Girlzzz EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1244,15 +1214,45 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 20</li>
-            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 35</li>
+            <li> <a href="{{ "/tags/venezuela" | relative_url }}">venezuela</a> # 38</li>
             <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 45</li>
-            <li> <a href="{{ "/tags/venezuela" | relative_url }}">venezuela</a> # 63</li>
+            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 66</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>80</td>
+      <td>
+      </td>
+      <td>2007-10-13</td>
+      <td>Todosantos</td>
+      <td>Acid Girlzzz Demo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/venezuela" | relative_url }}">venezuela</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 64</li>
+            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 72</li>
+            <li> <a href="{{ "/tags/venezuela" | relative_url }}">venezuela</a> # 79</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/Wf3-reLMxF0NL4O4ISFPi3hLqnPQf4uVth67B5on-tA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODQy/MDgtMTI2MTQ5MjUx/Ny5qcGVn.jpeg" alt="Cover for Orient Stress" style="max-width:120px; height:auto;" />
       </td>
@@ -1277,12 +1277,12 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 27</li>
+            <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
       </td>
       <td>2008</td>
@@ -1297,13 +1297,13 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 65</li>
-            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 90</li>
+            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 11</li>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 36</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/TErnlFGoVHsNv36wVPQgS8Dd-2go_4XW8-OiRXbD-W0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTQy/OTUzLTE1Njg2MzI3/ODQtMzc4MC5qcGVn.jpeg" alt="Cover for Vengo a enamorarte" style="max-width:120px; height:auto;" />
       </td>
@@ -1321,13 +1321,13 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 7</li>
-            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 34</li>
+            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 67</li>
+            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/OL001b9N4keMIBSpWv24f-dY1Gz5P9zNoyKmBHZqSP4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTY0/MTItMTIyODE0NTQ0/NS5qcGVn.jpeg" alt="Cover for 33minutos" style="max-width:120px; height:auto;" />
       </td>
@@ -1350,7 +1350,7 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/IPAGmcrvGdi6retlZAXarm-0ir7jVehnybguJWQTi5Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNjU4/MzQtMTM4OTA5NTE3/Mi01NDI4LmpwZWc.jpeg" alt="Cover for Rising Tide Of Conformity" style="max-width:120px; height:auto;" />
       </td>
@@ -1388,16 +1388,35 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/mediterranean" | relative_url }}">mediterranean</a> # 13</li>
+            <li> <a href="{{ "/tags/barcelona" | relative_url }}">barcelona</a> # 15</li>
+            <li> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a> # 31</li>
+            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 38</li>
             <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 50</li>
-            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 63</li>
-            <li> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a> # 70</li>
-            <li> <a href="{{ "/tags/barcelona" | relative_url }}">barcelona</a> # 86</li>
-            <li> <a href="{{ "/tags/mediterranean" | relative_url }}">mediterranean</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>53</td>
+      <td>
+          <img src="https://i.discogs.com/-DM8u4ZgktagfB-f4gsxrL7kBdMJC6olzC14nHn8OBs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODcx/NjM5LTE2MjE5MTA5/MzctMzQ3Mi5qcGVn.jpeg" alt="Cover for The Rough Guide to Tango" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Various Artists</td>
+      <td>The Rough Guide to Tango</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/rfLxFuASfblLhnPG5-TnKpxDrRj3wMeSHX2dpLK9Y9s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTIx/OTI1LTE2MjY0OTgy/MDctMTIyNy5qcGVn.jpeg" alt="Cover for The Rough Guide to Samba" style="max-width:120px; height:auto;" />
       </td>
@@ -1417,26 +1436,7 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
     </tr>
     <tr>
-      <td>48</td>
-      <td>
-          <img src="https://i.discogs.com/-DM8u4ZgktagfB-f4gsxrL7kBdMJC6olzC14nHn8OBs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODcx/NjM5LTE2MjE5MTA5/MzctMzQ3Mi5qcGVn.jpeg" alt="Cover for The Rough Guide to Tango" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2009</td>
-      <td>Various Artists</td>
-      <td>The Rough Guide to Tango</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
       </td>
       <td>2009-03-09</td>
@@ -1450,12 +1450,12 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 96</li>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 5</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
       </td>
       <td>2009-08-17</td>
@@ -1475,15 +1475,15 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 48</li>
-            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 61</li>
-            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 76</li>
-            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 85</li>
+            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 16</li>
+            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 25</li>
+            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 40</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/ToNDJYB10tX9A0_iyxhqDDBC6WiztqQw97sAiIVVKvo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjQx/MzItMTMyNDMwNzU1/MC5qcGVn.jpeg" alt="Cover for Clochette" style="max-width:120px; height:auto;" />
       </td>
@@ -1510,13 +1510,13 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 48</li>
-            <li> <a href="{{ "/tags/buenos-aires" | relative_url }}">buenos aires</a> # 73</li>
+            <li> <a href="{{ "/tags/buenos-aires" | relative_url }}">buenos aires</a> # 27</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3571b2edf8794863c8c2d33694f03e95.png" alt="Cover for Hiperativo" style="max-width:120px; height:auto;" />
       </td>
@@ -1532,12 +1532,12 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       <td>
         <ul>
             <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 18</li>
-            <li> <a href="{{ "/tags/skate-punk" | relative_url }}">skate punk</a> # 65</li>
+            <li> <a href="{{ "/tags/skate-punk" | relative_url }}">skate punk</a> # 36</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>89</td>
       <td>
           <img src="https://i.discogs.com/7ib6ttufEqk1HXwfopuw6a0_HoU73gc7lAPAjfCoL1Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjI2/OTktMTI4NTQzMTM3/OS5qcGVn.jpeg" alt="Cover for Viva Como Queira" style="max-width:120px; height:auto;" />
       </td>
@@ -1561,7 +1561,7 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/EL-fNCH8gBIWb1izCBj4eiOQfhEkQTEj8JKcNO4S_jk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTc4/OTgtMTMwMjM5NTYy/NS5qcGVn.jpeg" alt="Cover for Umbra" style="max-width:120px; height:auto;" />
       </td>
@@ -1587,7 +1587,7 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>93</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8dff10b8cecd4498c4e6d98613362ab2.png" alt="Cover for 1A10" style="max-width:120px; height:auto;" />
       </td>
@@ -1610,7 +1610,7 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/LiEk7VUVNUu-MA2xCMzvgBY9nCLAxzgMQV0SneTBHCs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODgx/MzItMTI5MTkxMzAx/OC5qcGVn.jpeg" alt="Cover for Somewhere I Can Hear My Heart Beating" style="max-width:120px; height:auto;" />
       </td>
@@ -1643,13 +1643,13 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 57</li>
-            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 63</li>
+            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 38</li>
+            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 44</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cbce3c0393fe47cda25d0e629489accf.png" alt="Cover for Projeto Paralelo" style="max-width:120px; height:auto;" />
       </td>
@@ -1665,39 +1665,12 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 68</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
-      <td>
-          <img src="https://i.discogs.com/C2yE6ktZYKp8NIJq_r_XX6lrvUj61F0SJspcCbl8CgY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MzY0/OTUtMTQ4MDU1MzIw/NC01NTI0LmpwZWc.jpeg" alt="Cover for La Continuidad" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2011</td>
-      <td>Ada Rave Cuarteto</td>
-      <td>La Continuidad</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/buenos-aires" | relative_url }}">buenos aires</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/quartet" | relative_url }}">quartet</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/buenos-aires" | relative_url }}">buenos aires</a> # 55</li>
-            <li> <a href="{{ "/tags/quartet" | relative_url }}">quartet</a> # 67</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>52</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/3T_YIZ5hVNIKNzWrYWE1oGe9sS-WSxbNAJXBDISj5Dw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjEz/ODIxLTE1NTc1MzEz/MDEtOTE2OS5qcGVn.jpeg" alt="Cover for Niños Azules" style="max-width:120px; height:auto;" />
       </td>
@@ -1722,37 +1695,42 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 3</li>
-            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 49</li>
-            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 87</li>
-            <li> <a href="{{ "/tags/buenos-aires" | relative_url }}">buenos aires</a> # 95</li>
+            <li> <a href="{{ "/tags/buenos-aires" | relative_url }}">buenos aires</a> # 5</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 14</li>
+            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 52</li>
+            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>92</td>
       <td>
-          <img src="https://i.discogs.com/MPJYYFbvOMQVEytlrZfPWe-athWM4WgYWOQdSJW_l64/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyOTI2/NTAtMTQzODE4MDQ4/OS04ODIxLmpwZWc.jpeg" alt="Cover for Möbius and the Healing Process" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/C2yE6ktZYKp8NIJq_r_XX6lrvUj61F0SJspcCbl8CgY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MzY0/OTUtMTQ4MDU1MzIw/NC01NTI0LmpwZWc.jpeg" alt="Cover for La Continuidad" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
-      <td>This Lonely Crowd</td>
-      <td>Möbius and the Healing Process</td>
+      <td>Ada Rave Cuarteto</td>
+      <td>La Continuidad</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/buenos-aires" | relative_url }}">buenos aires</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/quartet" | relative_url }}">quartet</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/quartet" | relative_url }}">quartet</a> # 34</li>
+            <li> <a href="{{ "/tags/buenos-aires" | relative_url }}">buenos aires</a> # 46</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/443fgCQfT6MJURRPamft4B-7r2PXUQ7rkb8veA-w8ic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzQx/OTAtMTM0OTA2NjY5/Ny03NTE2LmpwZWc.jpeg" alt="Cover for Guisando" style="max-width:120px; height:auto;" />
       </td>
@@ -1774,7 +1752,29 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>82</td>
+      <td>
+          <img src="https://i.discogs.com/MPJYYFbvOMQVEytlrZfPWe-athWM4WgYWOQdSJW_l64/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyOTI2/NTAtMTQzODE4MDQ4/OS04ODIxLmpwZWc.jpeg" alt="Cover for Möbius and the Healing Process" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011</td>
+      <td>This Lonely Crowd</td>
+      <td>Möbius and the Healing Process</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c17907934acf42cfa45a7b5ae3505425.png" alt="Cover for Multishow Ao Vivo NX Zero 10 Anos" style="max-width:120px; height:auto;" />
       </td>
@@ -1787,31 +1787,12 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 85</li>
+            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
-      <td>
-          <img src="https://i.discogs.com/lD82FmoXEqYESz6arOYfFKSoHLGWJO81mHW2Pq723AM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNjM1/NzEtMTMyNzQyOTg4/My5qcGVn.jpeg" alt="Cover for There Is No Such Thing As Death, Life Is Only A Dream And We Are The Imagination Of Ourselves" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2012</td>
-      <td>Mythomaniacs Are Right</td>
-      <td>There Is No Such Thing As Death, Life Is Only A Dream And We Are The Imagination Of Ourselves</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 26</li>
-            <li> <a href="{{ "/tags/dada" | relative_url }}">dada</a> # 71</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>63</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/JdHo_yTAm_TzWxf2R8q_yRATWFsjsNObHku3hHyUdy8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTEx/ODE4LTE1OTI3NjUz/MTktMjkxNS5qcGVn.jpeg" alt="Cover for Decompor" style="max-width:120px; height:auto;" />
       </td>
@@ -1834,13 +1815,32 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/doomgaze" | relative_url }}">doomgaze</a> # 40</li>
-            <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 76</li>
+            <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 25</li>
+            <li> <a href="{{ "/tags/doomgaze" | relative_url }}">doomgaze</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>86</td>
+      <td>
+          <img src="https://i.discogs.com/lD82FmoXEqYESz6arOYfFKSoHLGWJO81mHW2Pq723AM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNjM1/NzEtMTMyNzQyOTg4/My5qcGVn.jpeg" alt="Cover for There Is No Such Thing As Death, Life Is Only A Dream And We Are The Imagination Of Ourselves" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012</td>
+      <td>Mythomaniacs Are Right</td>
+      <td>There Is No Such Thing As Death, Life Is Only A Dream And We Are The Imagination Of Ourselves</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dada" | relative_url }}">dada</a> # 30</li>
+            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 75</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f5e677fa839e479481ca890cf14c618d.png" alt="Cover for Vitam" style="max-width:120px; height:auto;" />
       </td>
@@ -1867,7 +1867,7 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
       </td>
       <td>2013-11-27</td>
@@ -1881,12 +1881,12 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 41</li>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/X3XLtnbtk-N7nJSOGKVrKy4bNXy2jdN1Pv7GtmHZ2SQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NTcy/MTYtMTQwNDYzNTYy/NC0zNTM3LmpwZWc.jpeg" alt="Cover for Un día sin lluvia" style="max-width:120px; height:auto;" />
       </td>
@@ -1913,7 +1913,7 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>95</td>
       <td>
           <img src="https://i.discogs.com/68KThpShNFrAFI1uVDwtAia1KwECtuOTkyIReDwxR4I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODkx/MTQyLTE1OTk2NzYz/NzYtNTQ1OC5qcGVn.jpeg" alt="Cover for Latina Utopia" style="max-width:120px; height:auto;" />
       </td>
@@ -1932,7 +1932,7 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0e645be47e75c89126b8334a35271103.png" alt="Cover for Teoría de la televisión y la radio" style="max-width:120px; height:auto;" />
       </td>
@@ -1953,12 +1953,12 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/peru" | relative_url }}">peru</a> # 53</li>
+            <li> <a href="{{ "/tags/peru" | relative_url }}">peru</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/d3ITPkdOQUIZugBe8s6DS3JGRD4_w8IVT-kQqyOedlQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzQ4/ODQ1LTE3MTYzNzI1/MDItMTkwMS5qcGVn.jpeg" alt="Cover for Nortec Collective: The Tijuana Sessions, Volume 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1975,7 +1975,7 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/xskXN71r_p8HV3iGsWQ7fgk9MxdSxrdVyCyf86fQYYE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTM2/NTA0LTE2MDQwNTgz/MzYtNDQ1MC5qcGVn.jpeg" alt="Cover for The First Voyage" style="max-width:120px; height:auto;" />
       </td>
@@ -1996,13 +1996,13 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/quartet" | relative_url }}">quartet</a> # 88</li>
+            <li> <a href="{{ "/tags/quartet" | relative_url }}">quartet</a> # 13</li>
             <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>98</td>
       <td>
           <img src="https://i.discogs.com/1EyCZQmma1wGooPb_6lSui2LnFZHixip2x6uxFikxC0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDgz/ODM0LTE1NDc3NTg1/MTktMzUyMi5qcGVn.jpeg" alt="Cover for MODERNO" style="max-width:120px; height:auto;" />
       </td>
@@ -2019,13 +2019,13 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 1</li>
-            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 20</li>
+            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 81</li>
+            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/1EyCZQmma1wGooPb_6lSui2LnFZHixip2x6uxFikxC0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDgz/ODM0LTE1NDc3NTg1/MTktMzUyMi5qcGVn.jpeg" alt="Cover for Estrella (single)" style="max-width:120px; height:auto;" />
       </td>
@@ -2052,7 +2052,7 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/6x8aHPIY2E3u-Zg0VwQ7KtqGaRL6pO-rMfsXrIZdFE0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODM1/Njc0LTE2OTk0MzY2/MjQtMjY3OS5qcGVn.jpeg" alt="Cover for Synthed EP" style="max-width:120px; height:auto;" />
       </td>
@@ -2078,7 +2078,7 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ebd1b2caae1626c02d63201233e0529d.png" alt="Cover for 111 1" style="max-width:120px; height:auto;" />
       </td>
@@ -2095,14 +2095,14 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 29</li>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 87</li>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 92</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 9</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 14</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/ujGQzvFx_G9iklNRLJ5uzTEgqh-1Og6bgltHIu7UF4c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjA3/NzY5LTE2MTc4OTc5/NTgtNTY2Ny5qcGVn.jpeg" alt="Cover for Seis Segadoras Verdes (UBE Mountain Remix)" style="max-width:120px; height:auto;" />
       </td>
@@ -2128,20 +2128,39 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 7</li>
+            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>3</td>
+      <td>
+          <img src="https://i.discogs.com/m4vadfbUPFqImbVk_tGSllT8WP5n-yf7sP57Sxn70UQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTU2/MDEwLTE1Mjk0Mjgz/NjUtNzg5NS5qcGVn.jpeg" alt="Cover for As 20 +" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023</td>
+      <td>Calcinha Preta</td>
+      <td>As 20 +</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
       <td>
       </td>
       <td>2023</td>
       <td>Various Artists</td>
-      <td>Moradia do som Bossa Nova</td>
+      <td>Women of Latin America</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
         </ul>
       </td>
       <td>
@@ -2150,7 +2169,7 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for Mínimas Texturas 003" style="max-width:120px; height:auto;" />
       </td>
@@ -2175,16 +2194,15 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>71</td>
       <td>
       </td>
       <td>2023</td>
       <td>Various Artists</td>
-      <td>Women of Latin America</td>
+      <td>Moradia do som Bossa Nova</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a></li>
         </ul>
       </td>
       <td>
@@ -2193,25 +2211,7 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
     </tr>
     <tr>
-      <td>98</td>
-      <td>
-          <img src="https://i.discogs.com/m4vadfbUPFqImbVk_tGSllT8WP5n-yf7sP57Sxn70UQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTU2/MDEwLTE1Mjk0Mjgz/NjUtNzg5NS5qcGVn.jpeg" alt="Cover for As 20 +" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2023</td>
-      <td>Calcinha Preta</td>
-      <td>As 20 +</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/QGbsipsEvbVcncSEb2u7DtFUM2Qoh2NMoUblntfXqFM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTYz/MDc2LTE3MDIyMTg2/NDktNjYzNS5qcGVn.jpeg" alt="Cover for That Dissappearing Thing" style="max-width:120px; height:auto;" />
       </td>
@@ -2235,7 +2235,7 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/QGbsipsEvbVcncSEb2u7DtFUM2Qoh2NMoUblntfXqFM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTYz/MDc2LTE3MDIyMTg2/NDktNjYzNS5qcGVn.jpeg" alt="Cover for 10 de noviembre de 2006" style="max-width:120px; height:auto;" />
       </td>
@@ -2260,7 +2260,7 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
       </td>
       <td></td>
@@ -2279,12 +2279,53 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>28</td>
       <td>
       </td>
       <td></td>
-      <td>Prozac Ensemble</td>
-      <td>Pozac Ensemble EP</td>
+      <td>Que Cosa</td>
+      <td>Viejo Amor</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Hixaga</td>
+      <td>die Zeitänderungen</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/america" | relative_url }}">america</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Cezna</td>
+      <td>Cezna EP</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
@@ -2303,30 +2344,7 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
     </tr>
     <tr>
-      <td>23</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Ligne6</td>
-      <td>Ligne6 EP</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/america" | relative_url }}">america</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>36</td>
+      <td>65</td>
       <td>
       </td>
       <td></td>
@@ -2352,12 +2370,35 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>78</td>
       <td>
       </td>
       <td></td>
-      <td>Cezna</td>
-      <td>Cezna EP</td>
+      <td>Ligne6</td>
+      <td>Ligne6 EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/america" | relative_url }}">america</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Prozac Ensemble</td>
+      <td>Pozac Ensemble EP</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
@@ -2376,48 +2417,7 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
     </tr>
     <tr>
-      <td>47</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Hixaga</td>
-      <td>die Zeitänderungen</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/america" | relative_url }}">america</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>73</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Que Cosa</td>
-      <td>Viejo Amor</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>26</td>
+      <td>75</td>
       <td>
       </td>
       <td></td>

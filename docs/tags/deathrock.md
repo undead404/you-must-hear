@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T04:07:46.036Z
+date: 2025-12-05T12:31:38.557Z
 permalink: tags/deathrock
 title: deathrock
 ---
 
 ## deathrock
 
-Last updated: <time datetime="2025-12-03T04:07:46.036Z">Wed Dec 03 2025 06:07:46 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T12:31:38.557Z">Fri Dec 05 2025 14:31:38 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -97,7 +97,7 @@ Deathrock emerged from late 1970s punk rock, blending horror aesthetics with dar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 4</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -118,7 +118,7 @@ Deathrock emerged from late 1970s punk rock, blending horror aesthetics with dar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 56</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -142,9 +142,9 @@ Deathrock emerged from late 1970s punk rock, blending horror aesthetics with dar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 7</li>
+            <li> <a href="{{ "/tags/anarcho-punk" | relative_url }}">anarcho-punk</a> # 18</li>
             <li> <a href="{{ "/tags/horror-punk" | relative_url }}">horror punk</a> # 60</li>
-            <li> <a href="{{ "/tags/anarcho-punk" | relative_url }}">anarcho-punk</a> # 83</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -182,7 +182,7 @@ Deathrock emerged from late 1970s punk rock, blending horror aesthetics with dar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anarcho-punk" | relative_url }}">anarcho-punk</a> # 66</li>
+            <li> <a href="{{ "/tags/anarcho-punk" | relative_url }}">anarcho-punk</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -226,9 +226,9 @@ Deathrock emerged from late 1970s punk rock, blending horror aesthetics with dar
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/anarcho-punk" | relative_url }}">anarcho-punk</a> # 2</li>
             <li> <a href="{{ "/tags/horror-punk" | relative_url }}">horror punk</a> # 8</li>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 92</li>
-            <li> <a href="{{ "/tags/anarcho-punk" | relative_url }}">anarcho-punk</a> # 99</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -246,7 +246,7 @@ Deathrock emerged from late 1970s punk rock, blending horror aesthetics with dar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 80</li>
+            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -428,8 +428,8 @@ Deathrock emerged from late 1970s punk rock, blending horror aesthetics with dar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/riot-grrrl" | relative_url }}">riot grrrl</a> # 28</li>
-            <li> <a href="{{ "/tags/noise-punk" | relative_url }}">noise punk</a> # 82</li>
+            <li> <a href="{{ "/tags/noise-punk" | relative_url }}">noise punk</a> # 19</li>
+            <li> <a href="{{ "/tags/riot-grrrl" | relative_url }}">riot grrrl</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -451,8 +451,8 @@ Deathrock emerged from late 1970s punk rock, blending horror aesthetics with dar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/riot-grrrl" | relative_url }}">riot grrrl</a> # 32</li>
-            <li> <a href="{{ "/tags/noise-punk" | relative_url }}">noise punk</a> # 83</li>
+            <li> <a href="{{ "/tags/noise-punk" | relative_url }}">noise punk</a> # 18</li>
+            <li> <a href="{{ "/tags/riot-grrrl" | relative_url }}">riot grrrl</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -643,7 +643,7 @@ Deathrock emerged from late 1970s punk rock, blending horror aesthetics with dar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 11</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -662,7 +662,7 @@ Deathrock emerged from late 1970s punk rock, blending horror aesthetics with dar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 57</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -702,7 +702,7 @@ Deathrock emerged from late 1970s punk rock, blending horror aesthetics with dar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 3</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -871,7 +871,7 @@ Deathrock emerged from late 1970s punk rock, blending horror aesthetics with dar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 21</li>
+            <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1107,7 +1107,7 @@ Deathrock emerged from late 1970s punk rock, blending horror aesthetics with dar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 71</li>
+            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1185,7 +1185,7 @@ Deathrock emerged from late 1970s punk rock, blending horror aesthetics with dar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-rock" | relative_url }}">modern rock</a> # 44</li>
+            <li> <a href="{{ "/tags/modern-rock" | relative_url }}">modern rock</a> # 57</li>
             <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 97</li>
         </ul>
       </td>
@@ -1355,7 +1355,7 @@ Deathrock emerged from late 1970s punk rock, blending horror aesthetics with dar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 43</li>
+            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1502,8 +1502,8 @@ Deathrock emerged from late 1970s punk rock, blending horror aesthetics with dar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 51</li>
-            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 85</li>
+            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 16</li>
+            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1560,7 +1560,7 @@ Deathrock emerged from late 1970s punk rock, blending horror aesthetics with dar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 69</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1637,8 +1637,8 @@ Deathrock emerged from late 1970s punk rock, blending horror aesthetics with dar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 81</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 87</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 14</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1659,7 +1659,7 @@ Deathrock emerged from late 1970s punk rock, blending horror aesthetics with dar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 78</li>
+            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1792,7 +1792,7 @@ Deathrock emerged from late 1970s punk rock, blending horror aesthetics with dar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 59</li>
+            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1829,7 +1829,7 @@ Deathrock emerged from late 1970s punk rock, blending horror aesthetics with dar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 63</li>
+            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1879,8 +1879,8 @@ Deathrock emerged from late 1970s punk rock, blending horror aesthetics with dar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 1</li>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 27</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 73</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1925,8 +1925,8 @@ Deathrock emerged from late 1970s punk rock, blending horror aesthetics with dar
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/anarcho-punk" | relative_url }}">anarcho-punk</a> # 22</li>
             <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 65</li>
-            <li> <a href="{{ "/tags/anarcho-punk" | relative_url }}">anarcho-punk</a> # 79</li>
             <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 79</li>
         </ul>
       </td>

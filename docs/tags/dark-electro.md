@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T04:04:46.022Z
+date: 2025-12-05T12:31:22.269Z
 permalink: tags/dark-electro
 title: dark electro
 ---
 
 ## dark electro
 
-Last updated: <time datetime="2025-12-03T04:04:46.022Z">Wed Dec 03 2025 06:04:46 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T12:31:22.269Z">Fri Dec 05 2025 14:31:22 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -47,7 +47,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 67</li>
+            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -74,9 +74,9 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/futurepop" | relative_url }}">futurepop</a> # 8</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 27</li>
-            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 64</li>
+            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 37</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 74</li>
+            <li> <a href="{{ "/tags/futurepop" | relative_url }}">futurepop</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -98,8 +98,8 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 88</li>
-            <li> <a href="{{ "/tags/deep-and-dark" | relative_url }}">deep and dark</a> # 95</li>
+            <li> <a href="{{ "/tags/deep-and-dark" | relative_url }}">deep and dark</a> # 6</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -199,7 +199,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 28</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -299,7 +299,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 87</li>
+            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -359,8 +359,8 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 4</li>
-            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 100</li>
+            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 1</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -381,7 +381,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darksynth" | relative_url }}">darksynth</a> # 91</li>
+            <li> <a href="{{ "/tags/darksynth" | relative_url }}">darksynth</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -422,7 +422,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 92</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -443,7 +443,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 90</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -462,7 +462,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/futurepop" | relative_url }}">futurepop</a> # 11</li>
+            <li> <a href="{{ "/tags/futurepop" | relative_url }}">futurepop</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -490,12 +490,12 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 53</li>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 63</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 71</li>
-            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 89</li>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 94</li>
-            <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 95</li>
+            <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 6</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 7</li>
+            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 12</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 28</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 36</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -556,8 +556,8 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 51</li>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 55</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 46</li>
+            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -593,8 +593,8 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 68</li>
-            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 76</li>
+            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 25</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -669,7 +669,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 3</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -689,7 +689,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 22</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -770,10 +770,10 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 17</li>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 59</li>
-            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 59</li>
-            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 76</li>
+            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 25</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 42</li>
+            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 42</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -792,7 +792,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 81</li>
+            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -811,7 +811,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 61</li>
+            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -851,8 +851,8 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 49</li>
-            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 94</li>
+            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 7</li>
+            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -872,8 +872,8 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 40</li>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 79</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 22</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -895,7 +895,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 46</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -934,7 +934,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 48</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -953,7 +953,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 15</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -991,7 +991,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 36</li>
+            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1026,7 +1026,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 6</li>
+            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1045,8 +1045,8 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 15</li>
-            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 59</li>
+            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 42</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1158,7 +1158,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 89</li>
+            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -1178,8 +1178,8 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 2</li>
-            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 14</li>
+            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 87</li>
+            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1197,7 +1197,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 39</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1217,7 +1217,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 92</li>
+            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1297,7 +1297,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 37</li>
+            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1334,7 +1334,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 24</li>
+            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1372,7 +1372,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 31</li>
+            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1393,7 +1393,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 91</li>
+            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1417,7 +1417,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 45</li>
+            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1435,7 +1435,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 72</li>
+            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1455,7 +1455,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 86</li>
+            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1479,7 +1479,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 40</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1498,10 +1498,10 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 27</li>
-            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 40</li>
-            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 42</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 84</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 17</li>
+            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 59</li>
+            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 61</li>
+            <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1528,7 +1528,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 38</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1567,8 +1567,8 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 83</li>
-            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 93</li>
+            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 8</li>
+            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1591,8 +1591,8 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 45</li>
-            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 77</li>
+            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 24</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1614,8 +1614,8 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 76</li>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 84</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 16</li>
+            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1651,7 +1651,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 80</li>
+            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1671,7 +1671,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 78</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1730,7 +1730,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 97</li>
+            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1770,7 +1770,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 41</li>
+            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1830,7 +1830,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 69</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1869,7 +1869,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 94</li>
+            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1891,7 +1891,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 15</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1914,7 +1914,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a> # 93</li>
+            <li> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1953,7 +1953,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 55</li>
+            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -2003,10 +2003,10 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 55</li>
-            <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 89</li>
-            <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 90</li>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 91</li>
+            <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 10</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 10</li>
+            <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 12</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -2031,8 +2031,8 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 35</li>
-            <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 77</li>
+            <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 24</li>
+            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 66</li>
         </ul>
       </td>
     </tr>

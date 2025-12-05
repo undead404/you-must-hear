@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T04:00:46.381Z
+date: 2025-12-05T12:30:32.225Z
 permalink: tags/lo-fi
 title: lo-fi
 ---
 
 ## lo-fi
 
-Last updated: <time datetime="2025-12-03T04:00:46.381Z">Wed Dec 03 2025 06:00:46 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T12:30:32.225Z">Fri Dec 05 2025 14:30:32 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -44,7 +44,7 @@ Lo-fi music is a genre of music that is characterized by its intentionally low-q
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillhop" | relative_url }}">chillhop</a> # 100</li>
+            <li> <a href="{{ "/tags/chillhop" | relative_url }}">chillhop</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -63,7 +63,7 @@ Lo-fi music is a genre of music that is characterized by its intentionally low-q
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 65</li>
+            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -138,7 +138,7 @@ Lo-fi music is a genre of music that is characterized by its intentionally low-q
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 15</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -158,8 +158,8 @@ Lo-fi music is a genre of music that is characterized by its intentionally low-q
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 38</li>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 98</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 3</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -177,9 +177,9 @@ Lo-fi music is a genre of music that is characterized by its intentionally low-q
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 74</li>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 82</li>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 83</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 18</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 19</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -198,9 +198,9 @@ Lo-fi music is a genre of music that is characterized by its intentionally low-q
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 23</li>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 33</li>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 89</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 12</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 68</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -238,8 +238,8 @@ Lo-fi music is a genre of music that is characterized by its intentionally low-q
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 67</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 71</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 30</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -256,8 +256,8 @@ Lo-fi music is a genre of music that is characterized by its intentionally low-q
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 78</li>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 79</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 22</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -277,7 +277,7 @@ Lo-fi music is a genre of music that is characterized by its intentionally low-q
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 100</li>
+            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -297,8 +297,8 @@ Lo-fi music is a genre of music that is characterized by its intentionally low-q
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a> # 20</li>
-            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 83</li>
+            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 18</li>
+            <li> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -353,7 +353,7 @@ Lo-fi music is a genre of music that is characterized by its intentionally low-q
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 53</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -409,15 +409,15 @@ Lo-fi music is a genre of music that is characterized by its intentionally low-q
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 2</li>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 4</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 2</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 3</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 26</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 29</li>
-            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 38</li>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 67</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 69</li>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 75</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 98</li>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 99</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 31</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 34</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 62</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 95</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -439,8 +439,8 @@ Lo-fi music is a genre of music that is characterized by its intentionally low-q
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 9</li>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 93</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 8</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -458,7 +458,7 @@ Lo-fi music is a genre of music that is characterized by its intentionally low-q
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 51</li>
+            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -500,9 +500,9 @@ Lo-fi music is a genre of music that is characterized by its intentionally low-q
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 92</li>
-            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 97</li>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 100</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 1</li>
+            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 4</li>
+            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -539,7 +539,7 @@ Lo-fi music is a genre of music that is characterized by its intentionally low-q
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 8</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -557,9 +557,9 @@ Lo-fi music is a genre of music that is characterized by its intentionally low-q
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 44</li>
-            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 56</li>
-            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 92</li>
+            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 9</li>
+            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 45</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -578,7 +578,7 @@ Lo-fi music is a genre of music that is characterized by its intentionally low-q
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 56</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -614,7 +614,7 @@ Lo-fi music is a genre of music that is characterized by its intentionally low-q
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 68</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -633,8 +633,8 @@ Lo-fi music is a genre of music that is characterized by its intentionally low-q
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 52</li>
-            <li> <a href="{{ "/tags/psychobilly" | relative_url }}">psychobilly</a> # 61</li>
+            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 48</li>
+            <li> <a href="{{ "/tags/psychobilly" | relative_url }}">psychobilly</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -656,9 +656,9 @@ Lo-fi music is a genre of music that is characterized by its intentionally low-q
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 71</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 81</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 87</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 14</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 20</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -702,13 +702,13 @@ Lo-fi music is a genre of music that is characterized by its intentionally low-q
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 92</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 94</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 96</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 96</li>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 97</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 97</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 100</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 1</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 4</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 4</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 5</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 5</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 7</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -728,7 +728,7 @@ Lo-fi music is a genre of music that is characterized by its intentionally low-q
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 100</li>
+            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -748,7 +748,7 @@ Lo-fi music is a genre of music that is characterized by its intentionally low-q
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 27</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -786,7 +786,7 @@ Lo-fi music is a genre of music that is characterized by its intentionally low-q
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 16</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -842,9 +842,9 @@ Lo-fi music is a genre of music that is characterized by its intentionally low-q
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 61</li>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 85</li>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 87</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 14</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 15</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -862,8 +862,8 @@ Lo-fi music is a genre of music that is characterized by its intentionally low-q
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 28</li>
             <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 47</li>
-            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -882,9 +882,9 @@ Lo-fi music is a genre of music that is characterized by its intentionally low-q
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-zealand" | relative_url }}">new zealand</a> # 13</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 38</li>
             <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 60</li>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 62</li>
+            <li> <a href="{{ "/tags/new-zealand" | relative_url }}">new zealand</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -902,8 +902,8 @@ Lo-fi music is a genre of music that is characterized by its intentionally low-q
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 24</li>
             <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 26</li>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -924,8 +924,8 @@ Lo-fi music is a genre of music that is characterized by its intentionally low-q
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 96</li>
-            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 99</li>
+            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 2</li>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -970,12 +970,12 @@ Lo-fi music is a genre of music that is characterized by its intentionally low-q
       <td>
         <ul>
             <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 1</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 19</li>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 21</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 10</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 22</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 39</li>
             <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 47</li>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 62</li>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 79</li>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 91</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 77</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1011,7 +1011,7 @@ Lo-fi music is a genre of music that is characterized by its intentionally low-q
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 58</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1030,7 +1030,7 @@ Lo-fi music is a genre of music that is characterized by its intentionally low-q
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 36</li>
+            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1069,7 +1069,7 @@ Lo-fi music is a genre of music that is characterized by its intentionally low-q
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 69</li>
+            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1091,8 +1091,8 @@ Lo-fi music is a genre of music that is characterized by its intentionally low-q
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 34</li>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 94</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 7</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1115,8 +1115,8 @@ Lo-fi music is a genre of music that is characterized by its intentionally low-q
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 31</li>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 97</li>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 4</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1140,8 +1140,8 @@ Lo-fi music is a genre of music that is characterized by its intentionally low-q
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 37</li>
             <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 42</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1161,7 +1161,7 @@ Lo-fi music is a genre of music that is characterized by its intentionally low-q
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 63</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1198,9 +1198,9 @@ Lo-fi music is a genre of music that is characterized by its intentionally low-q
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 28</li>
-            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 40</li>
-            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 96</li>
+            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 5</li>
+            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 61</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1223,7 +1223,7 @@ Lo-fi music is a genre of music that is characterized by its intentionally low-q
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 98</li>
+            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1263,7 +1263,7 @@ Lo-fi music is a genre of music that is characterized by its intentionally low-q
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 54</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1303,12 +1303,12 @@ Lo-fi music is a genre of music that is characterized by its intentionally low-q
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 52</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 1</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 5</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 26</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 30</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 49</li>
             <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 58</li>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 71</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 75</li>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 96</li>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1327,7 +1327,7 @@ Lo-fi music is a genre of music that is characterized by its intentionally low-q
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 2</li>
+            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1349,7 +1349,7 @@ Lo-fi music is a genre of music that is characterized by its intentionally low-q
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 68</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1367,7 +1367,7 @@ Lo-fi music is a genre of music that is characterized by its intentionally low-q
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 93</li>
+            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1421,7 +1421,7 @@ Lo-fi music is a genre of music that is characterized by its intentionally low-q
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 89</li>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -1441,7 +1441,7 @@ Lo-fi music is a genre of music that is characterized by its intentionally low-q
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 57</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1485,9 +1485,9 @@ Lo-fi music is a genre of music that is characterized by its intentionally low-q
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 40</li>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 55</li>
-            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 90</li>
+            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 11</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 42</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1560,17 +1560,19 @@ Lo-fi music is a genre of music that is characterized by its intentionally low-q
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vaportrap" | relative_url }}">vaportrap</a></li>
             <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 1</li>
+            <li> <a href="{{ "/tags/vaportrap" | relative_url }}">vaportrap</a> # 1</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 2</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 4</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 15</li>
             <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 17</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 83</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 86</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 97</li>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 99</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 100</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1593,9 +1595,9 @@ Lo-fi music is a genre of music that is characterized by its intentionally low-q
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 29</li>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 67</li>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 78</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 23</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 34</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1618,8 +1620,8 @@ Lo-fi music is a genre of music that is characterized by its intentionally low-q
       <td>
         <ul>
             <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 5</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 69</li>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 96</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 5</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1643,10 +1645,10 @@ Lo-fi music is a genre of music that is characterized by its intentionally low-q
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 6</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 11</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 13</li>
             <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 14</li>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 88</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 90</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1671,10 +1673,10 @@ Lo-fi music is a genre of music that is characterized by its intentionally low-q
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 51</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 79</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 80</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 90</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 11</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 21</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 22</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1697,10 +1699,10 @@ Lo-fi music is a genre of music that is characterized by its intentionally low-q
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 39</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 65</li>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 80</li>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 91</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 10</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 21</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 36</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1720,7 +1722,7 @@ Lo-fi music is a genre of music that is characterized by its intentionally low-q
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 14</li>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1746,11 +1748,11 @@ Lo-fi music is a genre of music that is characterized by its intentionally low-q
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 22</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 23</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 38</li>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 96</li>
-            <li> <a href="{{ "/tags/lobit" | relative_url }}">lobit</a> # 99</li>
+            <li> <a href="{{ "/tags/lobit" | relative_url }}">lobit</a> # 1</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 5</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 64</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 78</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1770,7 +1772,7 @@ Lo-fi music is a genre of music that is characterized by its intentionally low-q
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillhop" | relative_url }}">chillhop</a> # 99</li>
+            <li> <a href="{{ "/tags/chillhop" | relative_url }}">chillhop</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -1794,9 +1796,9 @@ Lo-fi music is a genre of music that is characterized by its intentionally low-q
       <td>
         <ul>
             <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 1</li>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 96</li>
-            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 98</li>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 99</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 2</li>
+            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 3</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1839,12 +1841,12 @@ Lo-fi music is a genre of music that is characterized by its intentionally low-q
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 9</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 11</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 24</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 27</li>
             <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 30</li>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 39</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 74</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 77</li>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 90</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 92</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1868,7 +1870,7 @@ Lo-fi music is a genre of music that is characterized by its intentionally low-q
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 16</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1906,7 +1908,7 @@ Lo-fi music is a genre of music that is characterized by its intentionally low-q
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillhop" | relative_url }}">chillhop</a> # 97</li>
+            <li> <a href="{{ "/tags/chillhop" | relative_url }}">chillhop</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1926,7 +1928,7 @@ Lo-fi music is a genre of music that is characterized by its intentionally low-q
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 81</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1949,9 +1951,9 @@ Lo-fi music is a genre of music that is characterized by its intentionally low-q
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 70</li>
-            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 71</li>
-            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 97</li>
+            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 4</li>
+            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 30</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1973,8 +1975,8 @@ Lo-fi music is a genre of music that is characterized by its intentionally low-q
       <td>
         <ul>
             <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 2</li>
-            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 78</li>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 99</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 2</li>
+            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1997,8 +1999,8 @@ Lo-fi music is a genre of music that is characterized by its intentionally low-q
       <td>
         <ul>
             <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 23</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 26</li>
             <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 59</li>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -2018,7 +2020,7 @@ Lo-fi music is a genre of music that is characterized by its intentionally low-q
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 24</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 74</li>
         </ul>
       </td>
     </tr>

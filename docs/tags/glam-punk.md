@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T05:37:01.741Z
+date: 2025-12-05T12:34:33.785Z
 permalink: tags/glam-punk
 title: glam punk
 ---
 
 ## glam punk
 
-Last updated: <time datetime="2025-12-03T05:37:01.741Z">Wed Dec 03 2025 07:37:01 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T12:34:33.785Z">Fri Dec 05 2025 14:34:33 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -66,8 +66,8 @@ Glam punk fuses the raw energy and rebellious spirit of punk rock with the theat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 12</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 63</li>
+            <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -85,8 +85,8 @@ Glam punk fuses the raw energy and rebellious spirit of punk rock with the theat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 69</li>
-            <li> <a href="{{ "/tags/proto-punk" | relative_url }}">proto-punk</a> # 90</li>
+            <li> <a href="{{ "/tags/proto-punk" | relative_url }}">proto-punk</a> # 11</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -167,8 +167,8 @@ Glam punk fuses the raw energy and rebellious spirit of punk rock with the theat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/proto-punk" | relative_url }}">proto-punk</a> # 1</li>
-            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 10</li>
+            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 91</li>
+            <li> <a href="{{ "/tags/proto-punk" | relative_url }}">proto-punk</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -367,7 +367,7 @@ Glam punk fuses the raw energy and rebellious spirit of punk rock with the theat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 49</li>
+            <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -390,7 +390,7 @@ Glam punk fuses the raw energy and rebellious spirit of punk rock with the theat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 7</li>
+            <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -412,7 +412,7 @@ Glam punk fuses the raw energy and rebellious spirit of punk rock with the theat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 15</li>
+            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -435,7 +435,7 @@ Glam punk fuses the raw energy and rebellious spirit of punk rock with the theat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 42</li>
+            <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -613,7 +613,7 @@ Glam punk fuses the raw energy and rebellious spirit of punk rock with the theat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-punk" | relative_url }}">noise punk</a> # 57</li>
+            <li> <a href="{{ "/tags/noise-punk" | relative_url }}">noise punk</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -693,7 +693,7 @@ Glam punk fuses the raw energy and rebellious spirit of punk rock with the theat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 32</li>
+            <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -759,7 +759,7 @@ Glam punk fuses the raw energy and rebellious spirit of punk rock with the theat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 47</li>
+            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -839,7 +839,7 @@ Glam punk fuses the raw energy and rebellious spirit of punk rock with the theat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 27</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -879,7 +879,7 @@ Glam punk fuses the raw energy and rebellious spirit of punk rock with the theat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 17</li>
+            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -902,7 +902,7 @@ Glam punk fuses the raw energy and rebellious spirit of punk rock with the theat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 28</li>
+            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -979,9 +979,9 @@ Glam punk fuses the raw energy and rebellious spirit of punk rock with the theat
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 3</li>
+            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 18</li>
             <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 33</li>
-            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 83</li>
-            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -999,9 +999,9 @@ Glam punk fuses the raw energy and rebellious spirit of punk rock with the theat
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 6</li>
+            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 20</li>
             <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 37</li>
-            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 81</li>
-            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1024,9 +1024,9 @@ Glam punk fuses the raw energy and rebellious spirit of punk rock with the theat
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 7</li>
+            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 22</li>
             <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 42</li>
-            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 79</li>
-            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1049,7 +1049,7 @@ Glam punk fuses the raw energy and rebellious spirit of punk rock with the theat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 16</li>
+            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1095,9 +1095,9 @@ Glam punk fuses the raw energy and rebellious spirit of punk rock with the theat
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 1</li>
+            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 7</li>
             <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 16</li>
-            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 94</li>
-            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1116,7 +1116,7 @@ Glam punk fuses the raw energy and rebellious spirit of punk rock with the theat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 89</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -1239,7 +1239,7 @@ Glam punk fuses the raw energy and rebellious spirit of punk rock with the theat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/proto-punk" | relative_url }}">proto-punk</a> # 5</li>
+            <li> <a href="{{ "/tags/proto-punk" | relative_url }}">proto-punk</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1261,7 +1261,7 @@ Glam punk fuses the raw energy and rebellious spirit of punk rock with the theat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 55</li>
+            <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1309,7 +1309,7 @@ Glam punk fuses the raw energy and rebellious spirit of punk rock with the theat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 49</li>
+            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1327,7 +1327,7 @@ Glam punk fuses the raw energy and rebellious spirit of punk rock with the theat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 29</li>
+            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1348,7 +1348,7 @@ Glam punk fuses the raw energy and rebellious spirit of punk rock with the theat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 55</li>
+            <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1372,7 +1372,7 @@ Glam punk fuses the raw energy and rebellious spirit of punk rock with the theat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 42</li>
+            <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1396,7 +1396,7 @@ Glam punk fuses the raw energy and rebellious spirit of punk rock with the theat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 19</li>
+            <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1463,7 +1463,7 @@ Glam punk fuses the raw energy and rebellious spirit of punk rock with the theat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 23</li>
+            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1486,7 +1486,7 @@ Glam punk fuses the raw energy and rebellious spirit of punk rock with the theat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 57</li>
+            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1550,9 +1550,9 @@ Glam punk fuses the raw energy and rebellious spirit of punk rock with the theat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 24</li>
-            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 30</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 68</li>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 70</li>
+            <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1673,11 +1673,11 @@ Glam punk fuses the raw energy and rebellious spirit of punk rock with the theat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 11</li>
-            <li> <a href="{{ "/tags/greek" | relative_url }}">greek</a> # 13</li>
-            <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 27</li>
-            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 33</li>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 67</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 69</li>
+            <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 74</li>
+            <li> <a href="{{ "/tags/greek" | relative_url }}">greek</a> # 87</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1734,14 +1734,14 @@ Glam punk fuses the raw energy and rebellious spirit of punk rock with the theat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 37</li>
-            <li> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a> # 39</li>
-            <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 45</li>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 66</li>
-            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 81</li>
+            <li> <a href="{{ "/tags/greek" | relative_url }}">greek</a> # 11</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 12</li>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 19</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 35</li>
+            <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 56</li>
+            <li> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a> # 61</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 64</li>
             <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 87</li>
-            <li> <a href="{{ "/tags/greek" | relative_url }}">greek</a> # 88</li>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 89</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 90</li>
         </ul>
       </td>
@@ -1823,7 +1823,7 @@ Glam punk fuses the raw energy and rebellious spirit of punk rock with the theat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 22</li>
+            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1844,7 +1844,7 @@ Glam punk fuses the raw energy and rebellious spirit of punk rock with the theat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 41</li>
+            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1884,8 +1884,8 @@ Glam punk fuses the raw energy and rebellious spirit of punk rock with the theat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 1</li>
-            <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 38</li>
+            <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 63</li>
+            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -2031,18 +2031,18 @@ Glam punk fuses the raw energy and rebellious spirit of punk rock with the theat
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/neo-prog" | relative_url }}">neo-prog</a> # 4</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 9</li>
+            <li> <a href="{{ "/tags/greek" | relative_url }}">greek</a> # 14</li>
+            <li> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a> # 15</li>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 25</li>
+            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 39</li>
+            <li> <a href="{{ "/tags/dark-metal" | relative_url }}">dark metal</a> # 41</li>
             <li> <a href="{{ "/tags/new-prog" | relative_url }}">new prog</a> # 43</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 50</li>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 50</li>
-            <li> <a href="{{ "/tags/dark-metal" | relative_url }}">dark metal</a> # 60</li>
-            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 62</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 51</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 51</li>
             <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 63</li>
-            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 75</li>
-            <li> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a> # 84</li>
-            <li> <a href="{{ "/tags/greek" | relative_url }}">greek</a> # 85</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 87</li>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 92</li>
-            <li> <a href="{{ "/tags/neo-prog" | relative_url }}">neo-prog</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -2087,7 +2087,7 @@ Glam punk fuses the raw energy and rebellious spirit of punk rock with the theat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 48</li>
+            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -2125,7 +2125,7 @@ Glam punk fuses the raw energy and rebellious spirit of punk rock with the theat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 59</li>
+            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -2147,8 +2147,8 @@ Glam punk fuses the raw energy and rebellious spirit of punk rock with the theat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a> # 63</li>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 88</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 13</li>
+            <li> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -2197,7 +2197,7 @@ Glam punk fuses the raw energy and rebellious spirit of punk rock with the theat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 41</li>
+            <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -2219,8 +2219,8 @@ Glam punk fuses the raw energy and rebellious spirit of punk rock with the theat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 7</li>
-            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 34</li>
+            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 67</li>
+            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -2241,7 +2241,7 @@ Glam punk fuses the raw energy and rebellious spirit of punk rock with the theat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 28</li>
+            <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 73</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T04:12:46.000Z
+date: 2025-12-05T12:32:57.476Z
 permalink: tags/traditional-pop
 title: traditional pop
 ---
 
 ## traditional pop
 
-Last updated: <time datetime="2025-12-03T04:12:46.000Z">Wed Dec 03 2025 06:12:46 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T12:32:57.476Z">Fri Dec 05 2025 14:32:57 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -78,9 +78,9 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 5</li>
             <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 15</li>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 79</li>
-            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 95</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -104,7 +104,7 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 52</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -122,8 +122,8 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 68</li>
-            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 87</li>
+            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 12</li>
+            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -143,7 +143,7 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 93</li>
+            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -163,9 +163,9 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 17</li>
+            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 38</li>
             <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 51</li>
-            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 63</li>
-            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -188,7 +188,7 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dixieland" | relative_url }}">dixieland</a> # 90</li>
+            <li> <a href="{{ "/tags/dixieland" | relative_url }}">dixieland</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -266,7 +266,7 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 19</li>
+            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -289,7 +289,7 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 38</li>
+            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 63</li>
             <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 95</li>
         </ul>
       </td>
@@ -369,7 +369,7 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 84</li>
+            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -410,7 +410,7 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 99</li>
+            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -433,7 +433,7 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 72</li>
+            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -549,7 +549,7 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 1</li>
+            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -650,7 +650,7 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 6</li>
+            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -751,7 +751,7 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 62</li>
+            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -923,7 +923,7 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 30</li>
+            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -960,7 +960,7 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 26</li>
+            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1122,9 +1122,9 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/mastersinger" | relative_url }}">mastersinger</a> # 8</li>
             <li> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a> # 37</li>
             <li> <a href="{{ "/tags/cool-jazz" | relative_url }}">cool jazz</a> # 44</li>
-            <li> <a href="{{ "/tags/mastersinger" | relative_url }}">mastersinger</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1182,8 +1182,8 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 17</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 82</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 19</li>
+            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1312,7 +1312,7 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a> # 85</li>
+            <li> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1391,8 +1391,6 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 3</li>
-            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1512,8 +1510,8 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 65</li>
-            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 81</li>
+            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 20</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1571,7 +1569,7 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 9</li>
+            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1735,12 +1733,12 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 6</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 12</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 15</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 20</li>
             <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 23</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 63</li>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 81</li>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 85</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 89</li>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 95</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1878,8 +1876,8 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 1</li>
             <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 20</li>
+            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1921,8 +1919,8 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 56</li>
-            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 99</li>
+            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 2</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1941,9 +1939,9 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 9</li>
             <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 19</li>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 72</li>
-            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 91</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -2003,7 +2001,7 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a> # 61</li>
+            <li> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -2023,8 +2021,8 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       <td>
         <ul>
             <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 13</li>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 55</li>
-            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 85</li>
+            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 14</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 46</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T06:30:03.174Z
+date: 2025-12-05T12:35:56.331Z
 permalink: tags/love-metal
 title: love metal
 ---
 
 ## love metal
 
-Last updated: <time datetime="2025-12-03T06:30:03.174Z">Wed Dec 03 2025 08:30:03 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T12:35:56.331Z">Fri Dec 05 2025 14:35:56 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -79,9 +79,9 @@ Love metal blends gothic and heavy metal with romantically-charged lyrics, creat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 1</li>
-            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 28</li>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 70</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 31</li>
+            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 70</li>
+            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -101,9 +101,9 @@ Love metal blends gothic and heavy metal with romantically-charged lyrics, creat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 22</li>
-            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 31</li>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 76</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 25</li>
+            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 67</li>
+            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -138,7 +138,7 @@ Love metal blends gothic and heavy metal with romantically-charged lyrics, creat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 5</li>
+            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -244,8 +244,8 @@ Love metal blends gothic and heavy metal with romantically-charged lyrics, creat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 48</li>
-            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 62</li>
+            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 39</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -284,8 +284,8 @@ Love metal blends gothic and heavy metal with romantically-charged lyrics, creat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 48</li>
-            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 67</li>
+            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 34</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 53</li>
             <li> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a> # 92</li>
         </ul>
       </td>
@@ -306,8 +306,8 @@ Love metal blends gothic and heavy metal with romantically-charged lyrics, creat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 54</li>
-            <li> <a href="{{ "/tags/suomi" | relative_url }}">suomi</a> # 90</li>
+            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 47</li>
+            <li> <a href="{{ "/tags/suomi" | relative_url }}">suomi</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -344,7 +344,7 @@ Love metal blends gothic and heavy metal with romantically-charged lyrics, creat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 40</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -385,7 +385,7 @@ Love metal blends gothic and heavy metal with romantically-charged lyrics, creat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 2</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -423,7 +423,7 @@ Love metal blends gothic and heavy metal with romantically-charged lyrics, creat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ukraine" | relative_url }}">ukraine</a> # 78</li>
+            <li> <a href="{{ "/tags/ukraine" | relative_url }}">ukraine</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -479,7 +479,7 @@ Love metal blends gothic and heavy metal with romantically-charged lyrics, creat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 82</li>
+            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -592,8 +592,8 @@ Love metal blends gothic and heavy metal with romantically-charged lyrics, creat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 30</li>
-            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 45</li>
+            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 68</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -647,7 +647,7 @@ Love metal blends gothic and heavy metal with romantically-charged lyrics, creat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 98</li>
+            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -757,7 +757,7 @@ Love metal blends gothic and heavy metal with romantically-charged lyrics, creat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 83</li>
+            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -891,9 +891,9 @@ Love metal blends gothic and heavy metal with romantically-charged lyrics, creat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 25</li>
-            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 29</li>
-            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 99</li>
+            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 2</li>
+            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 72</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -912,8 +912,8 @@ Love metal blends gothic and heavy metal with romantically-charged lyrics, creat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 78</li>
-            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 92</li>
+            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 9</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -933,7 +933,7 @@ Love metal blends gothic and heavy metal with romantically-charged lyrics, creat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 51</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -952,8 +952,8 @@ Love metal blends gothic and heavy metal with romantically-charged lyrics, creat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 33</li>
-            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 47</li>
+            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 53</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -972,7 +972,7 @@ Love metal blends gothic and heavy metal with romantically-charged lyrics, creat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 16</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -992,8 +992,8 @@ Love metal blends gothic and heavy metal with romantically-charged lyrics, creat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 63</li>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 64</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 37</li>
+            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1013,7 +1013,7 @@ Love metal blends gothic and heavy metal with romantically-charged lyrics, creat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 7</li>
+            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1032,7 +1032,7 @@ Love metal blends gothic and heavy metal with romantically-charged lyrics, creat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 49</li>
+            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1053,7 +1053,7 @@ Love metal blends gothic and heavy metal with romantically-charged lyrics, creat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 24</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1074,8 +1074,8 @@ Love metal blends gothic and heavy metal with romantically-charged lyrics, creat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 72</li>
-            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 99</li>
+            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 2</li>
+            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1094,7 +1094,7 @@ Love metal blends gothic and heavy metal with romantically-charged lyrics, creat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 100</li>
+            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -1112,8 +1112,8 @@ Love metal blends gothic and heavy metal with romantically-charged lyrics, creat
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 62</li>
             <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 76</li>
-            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 89</li>
         </ul>
       </td>
     </tr>

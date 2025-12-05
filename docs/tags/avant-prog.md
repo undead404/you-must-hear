@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T06:32:07.900Z
+date: 2025-12-05T12:38:27.695Z
 permalink: tags/avant-prog
 title: avant-prog
 ---
 
 ## avant-prog
 
-Last updated: <time datetime="2025-12-03T06:32:07.900Z">Wed Dec 03 2025 08:32:07 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T12:38:27.695Z">Fri Dec 05 2025 14:38:27 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -62,8 +62,8 @@ Avant-prog pushes progressive rock into experimental territory, embracing disson
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a> # 26</li>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 70</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 30</li>
+            <li> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -85,7 +85,7 @@ Avant-prog pushes progressive rock into experimental territory, embracing disson
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-prog" | relative_url }}">symphonic prog</a> # 21</li>
+            <li> <a href="{{ "/tags/symphonic-prog" | relative_url }}">symphonic prog</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -123,7 +123,7 @@ Avant-prog pushes progressive rock into experimental territory, embracing disson
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/canterbury-scene" | relative_url }}">canterbury scene</a> # 74</li>
+            <li> <a href="{{ "/tags/canterbury-scene" | relative_url }}">canterbury scene</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -198,7 +198,7 @@ Avant-prog pushes progressive rock into experimental territory, embracing disson
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-prog" | relative_url }}">symphonic prog</a> # 73</li>
+            <li> <a href="{{ "/tags/symphonic-prog" | relative_url }}">symphonic prog</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -236,25 +236,7 @@ Avant-prog pushes progressive rock into experimental territory, embracing disson
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/canterbury-scene" | relative_url }}">canterbury scene</a> # 50</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>20</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4152f40a094637a8d08cf8e5f3d3ca4f.png" alt="Cover for Winter Songs" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1979</td>
-      <td>Art Bears</td>
-      <td>Winter Songs</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
+            <li> <a href="{{ "/tags/canterbury-scene" | relative_url }}">canterbury scene</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -269,6 +251,25 @@ Avant-prog pushes progressive rock into experimental territory, embracing disson
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chamber-rock" | relative_url }}">chamber rock</a> # 62</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4152f40a094637a8d08cf8e5f3d3ca4f.png" alt="Cover for Winter Songs" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1979</td>
+      <td>Art Bears</td>
+      <td>Winter Songs</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a></li>
         </ul>
       </td>
       <td>
@@ -336,6 +337,25 @@ Avant-prog pushes progressive rock into experimental territory, embracing disson
       </td>
     </tr>
     <tr>
+      <td>16</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f11e8dfed69940b7bb8a1c903fda741c.png" alt="Cover for The World As It Is Today" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1981</td>
+      <td>Art Bears</td>
+      <td>The World As It Is Today</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chamber-rock" | relative_url }}">chamber rock</a> # 49</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e27ee78af83c50ce57fb163f49371a7f.png" alt="Cover for Deceit" style="max-width:120px; height:auto;" />
@@ -351,27 +371,9 @@ Avant-prog pushes progressive rock into experimental territory, embracing disson
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 13</li>
-            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 55</li>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 81</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>16</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f11e8dfed69940b7bb8a1c903fda741c.png" alt="Cover for The World As It Is Today" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1981</td>
-      <td>Art Bears</td>
-      <td>The World As It Is Today</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 20</li>
+            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 46</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -484,26 +486,8 @@ Avant-prog pushes progressive rock into experimental territory, embracing disson
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 80</li>
-            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 91</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>44</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/93869b7be3d135064d4dc299a3d01509.png" alt="Cover for The Ghost Trade" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1986</td>
-      <td>Camberwell Now</td>
-      <td>The Ghost Trade</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
+            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 10</li>
+            <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -519,6 +503,25 @@ Avant-prog pushes progressive rock into experimental territory, embracing disson
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chamber-rock" | relative_url }}">chamber rock</a> # 85</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/93869b7be3d135064d4dc299a3d01509.png" alt="Cover for The Ghost Trade" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1986</td>
+      <td>Camberwell Now</td>
+      <td>The Ghost Trade</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a></li>
         </ul>
       </td>
       <td>
@@ -579,7 +582,7 @@ Avant-prog pushes progressive rock into experimental territory, embracing disson
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 22</li>
+            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -616,6 +619,7 @@ Avant-prog pushes progressive rock into experimental territory, embracing disson
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/chamber-rock" | relative_url }}">chamber rock</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -640,9 +644,9 @@ Avant-prog pushes progressive rock into experimental territory, embracing disson
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 26</li>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 61</li>
-            <li> <a href="{{ "/tags/showtune" | relative_url }}">showtune</a> # 99</li>
+            <li> <a href="{{ "/tags/showtune" | relative_url }}">showtune</a> # 2</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 40</li>
+            <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -741,7 +745,7 @@ Avant-prog pushes progressive rock into experimental territory, embracing disson
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 89</li>
+            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -756,6 +760,7 @@ Avant-prog pushes progressive rock into experimental territory, embracing disson
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber-rock" | relative_url }}">chamber rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
             <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a></li>
             <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a></li>
@@ -763,8 +768,9 @@ Avant-prog pushes progressive rock into experimental territory, embracing disson
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 53</li>
-            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 61</li>
+            <li> <a href="{{ "/tags/chamber-rock" | relative_url }}">chamber rock</a> # 18</li>
+            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 39</li>
+            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -783,13 +789,15 @@ Avant-prog pushes progressive rock into experimental territory, embracing disson
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/chamber-rock" | relative_url }}">chamber rock</a></li>
             <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 35</li>
-            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 80</li>
+            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 21</li>
+            <li> <a href="{{ "/tags/chamber-rock" | relative_url }}">chamber rock</a> # 40</li>
+            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -808,7 +816,26 @@ Avant-prog pushes progressive rock into experimental territory, embracing disson
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a> # 61</li>
+            <li> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a> # 40</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a2d95dd2c9505ddc43a5562800fff5b.png" alt="Cover for Faust" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995</td>
+      <td>Art Zoyd</td>
+      <td>Faust</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chamber-rock" | relative_url }}">chamber rock</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -839,24 +866,6 @@ Avant-prog pushes progressive rock into experimental territory, embracing disson
       <td>1995</td>
       <td>Aksak Maboul</td>
       <td>Un Peu de L&#39;Ame des Bandits</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>99</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a2d95dd2c9505ddc43a5562800fff5b.png" alt="Cover for Faust" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1995</td>
-      <td>Art Zoyd</td>
-      <td>Faust</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a></li>
@@ -901,7 +910,7 @@ Avant-prog pushes progressive rock into experimental territory, embracing disson
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 62</li>
+            <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -920,7 +929,7 @@ Avant-prog pushes progressive rock into experimental territory, embracing disson
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a> # 60</li>
+            <li> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1035,8 +1044,8 @@ Avant-prog pushes progressive rock into experimental territory, embracing disson
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 48</li>
-            <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 59</li>
+            <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 42</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1055,7 +1064,7 @@ Avant-prog pushes progressive rock into experimental territory, embracing disson
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 2</li>
+            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1071,13 +1080,15 @@ Avant-prog pushes progressive rock into experimental territory, embracing disson
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a></li>
             <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/chamber-rock" | relative_url }}">chamber rock</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 54</li>
-            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 69</li>
-            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 71</li>
+            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 29</li>
+            <li> <a href="{{ "/tags/chamber-rock" | relative_url }}">chamber rock</a> # 30</li>
+            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 32</li>
+            <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1162,7 +1173,7 @@ Avant-prog pushes progressive rock into experimental territory, embracing disson
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 79</li>
+            <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1200,7 +1211,7 @@ Avant-prog pushes progressive rock into experimental territory, embracing disson
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 53</li>
+            <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1256,7 +1267,7 @@ Avant-prog pushes progressive rock into experimental territory, embracing disson
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a> # 74</li>
+            <li> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1297,9 +1308,9 @@ Avant-prog pushes progressive rock into experimental territory, embracing disson
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ragtime" | relative_url }}">ragtime</a> # 10</li>
-            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 62</li>
-            <li> <a href="{{ "/tags/oregon" | relative_url }}">oregon</a> # 92</li>
+            <li> <a href="{{ "/tags/oregon" | relative_url }}">oregon</a> # 9</li>
+            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 38</li>
+            <li> <a href="{{ "/tags/ragtime" | relative_url }}">ragtime</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1356,7 +1367,7 @@ Avant-prog pushes progressive rock into experimental territory, embracing disson
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a> # 91</li>
+            <li> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1392,7 +1403,7 @@ Avant-prog pushes progressive rock into experimental territory, embracing disson
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 51</li>
+            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1415,7 +1426,7 @@ Avant-prog pushes progressive rock into experimental territory, embracing disson
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/canterbury-scene" | relative_url }}">canterbury scene</a> # 54</li>
+            <li> <a href="{{ "/tags/canterbury-scene" | relative_url }}">canterbury scene</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1454,7 +1465,7 @@ Avant-prog pushes progressive rock into experimental territory, embracing disson
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 47</li>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1474,7 +1485,7 @@ Avant-prog pushes progressive rock into experimental territory, embracing disson
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 91</li>
+            <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1512,7 +1523,7 @@ Avant-prog pushes progressive rock into experimental territory, embracing disson
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 18</li>
+            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1531,6 +1542,7 @@ Avant-prog pushes progressive rock into experimental territory, embracing disson
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/chamber-rock" | relative_url }}">chamber rock</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1610,7 +1622,7 @@ Avant-prog pushes progressive rock into experimental territory, embracing disson
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a> # 70</li>
+            <li> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1633,8 +1645,8 @@ Avant-prog pushes progressive rock into experimental territory, embracing disson
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 49</li>
-            <li> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a> # 68</li>
+            <li> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a> # 33</li>
+            <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1698,9 +1710,10 @@ Avant-prog pushes progressive rock into experimental territory, embracing disson
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 8</li>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 83</li>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 93</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 8</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 18</li>
+            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 88</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1762,9 +1775,9 @@ Avant-prog pushes progressive rock into experimental territory, embracing disson
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 41</li>
-            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 58</li>
-            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 62</li>
+            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 39</li>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 43</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1786,9 +1799,9 @@ Avant-prog pushes progressive rock into experimental territory, embracing disson
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 21</li>
-            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 94</li>
-            <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 94</li>
+            <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 7</li>
+            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 7</li>
+            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1808,12 +1821,12 @@ Avant-prog pushes progressive rock into experimental territory, embracing disson
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 6</li>
             <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 6</li>
-            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 73</li>
-            <li> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a> # 75</li>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 80</li>
-            <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 88</li>
+            <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 13</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 21</li>
+            <li> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a> # 27</li>
+            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 28</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1854,9 +1867,9 @@ Avant-prog pushes progressive rock into experimental territory, embracing disson
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 33</li>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 88</li>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 89</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 12</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 13</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1877,11 +1890,11 @@ Avant-prog pushes progressive rock into experimental territory, embracing disson
       <td>
         <ul>
             <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 11</li>
-            <li> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a> # 43</li>
+            <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 17</li>
+            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 19</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 43</li>
             <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 54</li>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 58</li>
-            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 82</li>
-            <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 84</li>
+            <li> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1905,8 +1918,8 @@ Avant-prog pushes progressive rock into experimental territory, embracing disson
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 65</li>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 91</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 10</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1959,12 +1972,14 @@ Avant-prog pushes progressive rock into experimental territory, embracing disson
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber-rock" | relative_url }}">chamber rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 62</li>
+            <li> <a href="{{ "/tags/chamber-rock" | relative_url }}">chamber rock</a> # 27</li>
+            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 39</li>
         </ul>
       </td>
     </tr>
