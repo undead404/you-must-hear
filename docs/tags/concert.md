@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T07:10:03.686Z
+date: 2025-12-05T13:08:45.899Z
 permalink: tags/concert
 title: concert
 ---
 
 ## concert
 
-Last updated: <time datetime="2025-12-03T07:10:03.686Z">Wed Dec 03 2025 09:10:03 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T13:08:45.899Z">Fri Dec 05 2025 15:08:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -46,7 +46,7 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 78</li>
+            <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -91,7 +91,7 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 23</li>
+            <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -112,7 +112,7 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a> # 55</li>
+            <li> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -174,8 +174,8 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hamburg" | relative_url }}">hamburg</a> # 49</li>
-            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 100</li>
+            <li> <a href="{{ "/tags/hamburg" | relative_url }}">hamburg</a> # 52</li>
+            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -397,8 +397,8 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/netherlands" | relative_url }}">netherlands</a> # 15</li>
             <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 35</li>
-            <li> <a href="{{ "/tags/netherlands" | relative_url }}">netherlands</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -437,8 +437,8 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 13</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 51</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 50</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -497,8 +497,8 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 15</li>
-            <li> <a href="{{ "/tags/rai" | relative_url }}">rai</a> # 51</li>
+            <li> <a href="{{ "/tags/rai" | relative_url }}">rai</a> # 50</li>
+            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -856,7 +856,7 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/barcelona" | relative_url }}">barcelona</a> # 73</li>
+            <li> <a href="{{ "/tags/barcelona" | relative_url }}">barcelona</a> # 28</li>
             <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 76</li>
         </ul>
       </td>
@@ -1043,7 +1043,7 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 10</li>
+            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1282,7 +1282,7 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-punk" | relative_url }}">noise punk</a> # 54</li>
+            <li> <a href="{{ "/tags/noise-punk" | relative_url }}">noise punk</a> # 47</li>
             <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 74</li>
         </ul>
       </td>
@@ -1612,8 +1612,8 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/hamburg" | relative_url }}">hamburg</a> # 28</li>
             <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 51</li>
-            <li> <a href="{{ "/tags/hamburg" | relative_url }}">hamburg</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1654,7 +1654,7 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 94</li>
+            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1792,8 +1792,8 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/didgeridoo" | relative_url }}">didgeridoo</a> # 59</li>
-            <li> <a href="{{ "/tags/buenos-aires" | relative_url }}">buenos aires</a> # 91</li>
+            <li> <a href="{{ "/tags/buenos-aires" | relative_url }}">buenos aires</a> # 9</li>
+            <li> <a href="{{ "/tags/didgeridoo" | relative_url }}">didgeridoo</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1822,8 +1822,8 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/waltz" | relative_url }}">waltz</a> # 70</li>
-            <li> <a href="{{ "/tags/classical-composer" | relative_url }}">classical composer</a> # 95</li>
+            <li> <a href="{{ "/tags/classical-composer" | relative_url }}">classical composer</a> # 6</li>
+            <li> <a href="{{ "/tags/waltz" | relative_url }}">waltz</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1842,10 +1842,10 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 36</li>
-            <li> <a href="{{ "/tags/classical-violin" | relative_url }}">classical violin</a> # 84</li>
-            <li> <a href="{{ "/tags/sonata" | relative_url }}">sonata</a> # 90</li>
-            <li> <a href="{{ "/tags/violin-sonata" | relative_url }}">violin sonata</a> # 91</li>
+            <li> <a href="{{ "/tags/violin-sonata" | relative_url }}">violin sonata</a> # 10</li>
+            <li> <a href="{{ "/tags/sonata" | relative_url }}">sonata</a> # 11</li>
+            <li> <a href="{{ "/tags/classical-violin" | relative_url }}">classical violin</a> # 17</li>
+            <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 66</li>
         </ul>
       </td>
     </tr>

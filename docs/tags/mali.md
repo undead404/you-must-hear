@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T06:56:30.784Z
+date: 2025-12-05T12:54:45.929Z
 permalink: tags/mali
 title: mali
 ---
 
 ## mali
 
-Last updated: <time datetime="2025-12-03T06:56:30.784Z">Wed Dec 03 2025 08:56:30 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T12:54:45.929Z">Fri Dec 05 2025 14:54:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
   </thead>
   <tbody>
     <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f4b1537b18a6f54b832d849ec1a29fc7.png" alt="Cover for Mali" style="max-width:120px; height:auto;" />
       </td>
@@ -49,7 +49,7 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/Eh_Z8BZSijsXmAVoeXqsRdA2l0YIlInVw61PHLZBRuQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTc4/NjYtMTI0MTQzMDEw/OC5qcGVn.jpeg" alt="Cover for Bembeya Jazz National - Classic Titles" style="max-width:120px; height:auto;" />
       </td>
@@ -69,7 +69,7 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f215302e2a9f47ee81c0342c8a8dc4c1.png" alt="Cover for Soro" style="max-width:120px; height:auto;" />
       </td>
@@ -86,12 +86,12 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 17</li>
+            <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/-DM8u4ZgktagfB-f4gsxrL7kBdMJC6olzC14nHn8OBs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODcx/NjM5LTE2MjE5MTA5/MzctMzQ3Mi5qcGVn.jpeg" alt="Cover for The Wassoulou Sound: Women of Mali" style="max-width:120px; height:auto;" />
       </td>
@@ -110,7 +110,7 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ec68975b7d33418bb7a9ca6581ae6e36.png" alt="Cover for Mariama" style="max-width:120px; height:auto;" />
       </td>
@@ -129,7 +129,7 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/wT1MXw_9N3IOFReffrwbFbjNThoownhaCE9Tpp5ZjRI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTY4/OTUtMTI5NDQyMTEw/OS5qcGVn.jpeg" alt="Cover for The River" style="max-width:120px; height:auto;" />
       </td>
@@ -147,7 +147,24 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>5</td>
+      <td>
+      </td>
+      <td>1991</td>
+      <td>Oumou Sangare</td>
+      <td>Moussolou</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mali" | relative_url }}">mali</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/NJ59eof2I25W2ZwneJ9fzwA-pHwLtcXYKThVTo3ArpA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDU3/MDgtMTMyNDAzNDU3/MC5qcGVn.jpeg" alt="Cover for Amen" style="max-width:120px; height:auto;" />
       </td>
@@ -166,24 +183,7 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
       </td>
     </tr>
     <tr>
-      <td>96</td>
-      <td>
-      </td>
-      <td>1991</td>
-      <td>Oumou Sangare</td>
-      <td>Moussolou</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mali" | relative_url }}">mali</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>46</td>
+      <td>55</td>
       <td>
       </td>
       <td>1992</td>
@@ -197,32 +197,13 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 15</li>
             <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 52</li>
+            <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>62</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/109390224ceb3a4700dcb82d8a34e3bd.png" alt="Cover for The Source" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1992-06-15</td>
-      <td>Ali Farka Touré</td>
-      <td>The Source</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 46</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/546a859232b54c5ecc7ce2ce5f8a5316.png" alt="Cover for Talking Timbuktu" style="max-width:120px; height:auto;" />
       </td>
@@ -239,48 +220,31 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
       <td>
         <ul>
             <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 8</li>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 72</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>39</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/109390224ceb3a4700dcb82d8a34e3bd.png" alt="Cover for The Source" style="max-width:120px; height:auto;" />
       </td>
-      <td>1993</td>
-      <td>Oumou Sangare</td>
-      <td>Ko Sira</td>
+      <td>1992-06-15</td>
+      <td>Ali Farka Touré</td>
+      <td>The Source</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mali" | relative_url }}">mali</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/african" | relative_url }}">african</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
         </ul>
       </td>
       <td>
         <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>71</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bd5a291fab9469e86cf861d4c0a4849e.png" alt="Cover for Mangoni" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1993</td>
-      <td>Nahawa Doumbia</td>
-      <td>Mangoni</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mali" | relative_url }}">mali</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/3MQX-ljeVugddjKsqCl2qBpxtjrrhRHRPn8t6Kyi4P8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjkz/ODUtMTIxODk5NDE4/OS5qcGVn.jpeg" alt="Cover for The Divas From Mali" style="max-width:120px; height:auto;" />
       </td>
@@ -299,17 +263,16 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>30</td>
       <td>
-          <img src="https://i.discogs.com/JGTDIKFcm6MzjTOnnP0zJSLqEJM6Xy8Ju50xm9kUwEU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwOTQ1/NTQtMTQ3MTI1OTEx/Ni05MzE4LmpwZWc.jpeg" alt="Cover for Les Tambours Du Mali" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bd5a291fab9469e86cf861d4c0a4849e.png" alt="Cover for Mangoni" style="max-width:120px; height:auto;" />
       </td>
-      <td>1994</td>
-      <td>Mamadou Kanté</td>
-      <td>Les Tambours Du Mali</td>
+      <td>1993</td>
+      <td>Nahawa Doumbia</td>
+      <td>Mangoni</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mali" | relative_url }}">mali</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
         </ul>
       </td>
       <td>
@@ -318,7 +281,25 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>34</td>
+      <td>
+      </td>
+      <td>1993</td>
+      <td>Oumou Sangare</td>
+      <td>Ko Sira</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mali" | relative_url }}">mali</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/african" | relative_url }}">african</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2d60cb9664a6ad9d5f135c2ce05ca374.png" alt="Cover for Talking Timbuktu" style="max-width:120px; height:auto;" />
       </td>
@@ -338,7 +319,26 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>74</td>
+      <td>
+          <img src="https://i.discogs.com/JGTDIKFcm6MzjTOnnP0zJSLqEJM6Xy8Ju50xm9kUwEU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwOTQ1/NTQtMTQ3MTI1OTEx/Ni05MzE4LmpwZWc.jpeg" alt="Cover for Les Tambours Du Mali" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994</td>
+      <td>Mamadou Kanté</td>
+      <td>Les Tambours Du Mali</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mali" | relative_url }}">mali</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
       <td>
       </td>
       <td>1995</td>
@@ -358,7 +358,7 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/5ctwQJhIiy2bWIzwliz05cKY3-gF9TccHYhAyrQa9dI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDI4/NjItMTI0MDQ4MzE5/NS5qcGVn.jpeg" alt="Cover for Radio Mali" style="max-width:120px; height:auto;" />
       </td>
@@ -376,7 +376,7 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>56</td>
       <td>
       </td>
       <td>1997</td>
@@ -394,7 +394,7 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>83</td>
       <td>
       </td>
       <td>1997</td>
@@ -410,7 +410,7 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
       </td>
       <td>1998</td>
@@ -427,7 +427,7 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
       </td>
       <td>1998-11-11</td>
@@ -446,7 +446,25 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>46</td>
+      <td>
+          <img src="https://i.discogs.com/EarHLNuBQ5O7GKO9zTgyN62DQXZ37JNcgA5txSa2CWs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NTg2/NDMtMTQyMjMxODc1/NC00NTExLmpwZWc.jpeg" alt="Cover for Papa" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>Salif Keita</td>
+      <td>Papa</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mali" | relative_url }}">mali</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/962b39f4d19f17c730c49d1b63b7d722.png" alt="Cover for Kulanjan" style="max-width:120px; height:auto;" />
       </td>
@@ -465,25 +483,7 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
       </td>
     </tr>
     <tr>
-      <td>55</td>
-      <td>
-          <img src="https://i.discogs.com/EarHLNuBQ5O7GKO9zTgyN62DQXZ37JNcgA5txSa2CWs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NTg2/NDMtMTQyMjMxODc1/NC00NTExLmpwZWc.jpeg" alt="Cover for Papa" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1999</td>
-      <td>Salif Keita</td>
-      <td>Papa</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mali" | relative_url }}">mali</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b7f78c270cd1485ca4d1144eb0ad5eaa.png" alt="Cover for Niafunke" style="max-width:120px; height:auto;" />
       </td>
@@ -498,13 +498,31 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 35</li>
-            <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 81</li>
+            <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 20</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>17</td>
+      <td>
+          <img src="https://i.discogs.com/Rjm62zFh_5cfxGhL_bJHVHAJFtTNEMynoQHHorA9nrk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNzI4/OC0xNTg0OTIyMDk5/LTEyMjYuanBlZw.jpeg" alt="Cover for Alkibar" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999-07-05</td>
+      <td>Afel Bocoum</td>
+      <td>Alkibar</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mali" | relative_url }}">mali</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/Rjm62zFh_5cfxGhL_bJHVHAJFtTNEMynoQHHorA9nrk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNzI4/OC0xNTg0OTIyMDk5/LTEyMjYuanBlZw.jpeg" alt="Cover for Mali Music" style="max-width:120px; height:auto;" />
       </td>
@@ -523,25 +541,7 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
       </td>
     </tr>
     <tr>
-      <td>84</td>
-      <td>
-          <img src="https://i.discogs.com/Rjm62zFh_5cfxGhL_bJHVHAJFtTNEMynoQHHorA9nrk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNzI4/OC0xNTg0OTIyMDk5/LTEyMjYuanBlZw.jpeg" alt="Cover for Alkibar" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1999-07-05</td>
-      <td>Afel Bocoum</td>
-      <td>Alkibar</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mali" | relative_url }}">mali</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>34</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/jxNPDypk-rXle0-2eARNM9m5qTiuTegobHJK9Uk4b7g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyODQ3/NjctMTQzODAwNTI3/My01MTExLmpwZWc.jpeg" alt="Cover for Tunga" style="max-width:120px; height:auto;" />
       </td>
@@ -559,7 +559,7 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/05e6417ac08401890212c871aed88a8d.png" alt="Cover for Wanita" style="max-width:120px; height:auto;" />
       </td>
@@ -576,13 +576,13 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 31</li>
             <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 47</li>
+            <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/uISJhrtZ5xSkstypGLQ0CU2e1sN9bg6T_LqhzL4jMXQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyODIw/OTEtMTYwOTg4NzY3/Ni0yMDQ4LmpwZWc.jpeg" alt="Cover for Sigui" style="max-width:120px; height:auto;" />
       </td>
@@ -601,27 +601,7 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
       </td>
     </tr>
     <tr>
-      <td>23</td>
-      <td>
-          <img src="https://i.discogs.com/BYv2jx2frA59XwSpx6l6udGiIcl0y4cRagIs2El8TuE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjEz/NjMtMTYyNTY2MTQw/My03NDk3LmpwZWc.jpeg" alt="Cover for Golden Voice - The Very Best Of Salif Keita" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2002</td>
-      <td>Salif Keita</td>
-      <td>Golden Voice - The Very Best Of Salif Keita</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/african" | relative_url }}">african</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 46</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>42</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4bb8a73ecc0447659d6d4ba462524bdc.png" alt="Cover for Moffou" style="max-width:120px; height:auto;" />
       </td>
@@ -636,13 +616,33 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
       <td>
         <ul>
             <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 4</li>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 4</li>
-            <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 28</li>
+            <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 73</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>78</td>
+      <td>
+          <img src="https://i.discogs.com/BYv2jx2frA59XwSpx6l6udGiIcl0y4cRagIs2El8TuE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjEz/NjMtMTYyNTY2MTQw/My03NDk3LmpwZWc.jpeg" alt="Cover for Golden Voice - The Very Best Of Salif Keita" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>Salif Keita</td>
+      <td>Golden Voice - The Very Best Of Salif Keita</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/african" | relative_url }}">african</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 55</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/nz3K2jWX6a4uh6vJXVCwu-qkfneW7VIj8Vq7-HJkkIM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDc3/NjkzLTE1NTQ5NzEx/NjQtNTEzMS5qcGVn.jpeg" alt="Cover for Bush Taxi From Bamako To Accra" style="max-width:120px; height:auto;" />
       </td>
@@ -663,7 +663,7 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/id4HIuw-x0A6jUFEVJ9jXHdSBfbuhTz5moKY57eqSnI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTgy/NTc2LTE1MzgwNDU3/MDUtMzQ1NS5qcGVn.jpeg" alt="Cover for Kora Music From Mali" style="max-width:120px; height:auto;" />
       </td>
@@ -682,7 +682,7 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb0d19444ed147f1bbf19631d9564e39.png" alt="Cover for Timbuktu" style="max-width:120px; height:auto;" />
       </td>
@@ -697,13 +697,13 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 23</li>
             <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 76</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/Gv-ktk2PrWFptOeNcHVyreMOYWd9XtA82d5aZDX4NPY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2OTU2/MzQtMTQwMDI5MTM1/OC03NDg1LmpwZWc.jpeg" alt="Cover for Biriko" style="max-width:120px; height:auto;" />
       </td>
@@ -722,27 +722,7 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
       </td>
     </tr>
     <tr>
-      <td>31</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/28a73f3ea36c808706294950132962fc.png" alt="Cover for Amassakoul" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2003</td>
-      <td>Tinariwen</td>
-      <td>Amassakoul</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/african" | relative_url }}">african</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 38</li>
-            <li> <a href="{{ "/tags/algeria" | relative_url }}">algeria</a> # 67</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bc856d8ff6dc1c730d5791e7096b60e0.png" alt="Cover for The Best Of Boubacar Traoré" style="max-width:120px; height:auto;" />
       </td>
@@ -759,13 +739,33 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 36</li>
+            <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 65</li>
             <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>70</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/28a73f3ea36c808706294950132962fc.png" alt="Cover for Amassakoul" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Tinariwen</td>
+      <td>Amassakoul</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/african" | relative_url }}">african</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 12</li>
+            <li> <a href="{{ "/tags/algeria" | relative_url }}">algeria</a> # 34</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
       <td>
       </td>
       <td>2003-01-28</td>
@@ -782,27 +782,7 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
       </td>
     </tr>
     <tr>
-      <td>86</td>
-      <td>
-          <img src="https://i.discogs.com/OfwTt3xlGjQ47809-i91o7-KC9NLmKt1DZ07tHA5gt4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjUy/MDktMTY5MDA0Mzk2/MS02MDE0LmpwZWc.jpeg" alt="Cover for Bowmboi" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2003-09-26</td>
-      <td>Rokia Traoré</td>
-      <td>Bowmboi</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/africa" | relative_url }}">africa</a></li>
-            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/mali" | relative_url }}">mali</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 14</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fa5606bbe098e71bfa2daaf7a64e3011.png" alt="Cover for Bowmboï" style="max-width:120px; height:auto;" />
       </td>
@@ -822,7 +802,27 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>15</td>
+      <td>
+          <img src="https://i.discogs.com/OfwTt3xlGjQ47809-i91o7-KC9NLmKt1DZ07tHA5gt4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjUy/MDktMTY5MDA0Mzk2/MS02MDE0LmpwZWc.jpeg" alt="Cover for Bowmboi" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003-09-26</td>
+      <td>Rokia Traoré</td>
+      <td>Bowmboi</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/africa" | relative_url }}">africa</a></li>
+            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/mali" | relative_url }}">mali</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 14</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
       <td>
       </td>
       <td>2003-09-29</td>
@@ -839,7 +839,7 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
       </td>
       <td>2004</td>
@@ -856,7 +856,7 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
       </td>
       <td>2004-08-02</td>
@@ -871,13 +871,13 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 91</li>
-            <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 99</li>
+            <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 2</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 10</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a123b001630b488396caeac562d07bab.png" alt="Cover for Tassoumakan" style="max-width:120px; height:auto;" />
       </td>
@@ -898,7 +898,49 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>7</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/478eef88888e4b64cbe5a06227d50c2e.png" alt="Cover for M&#39;Bemba" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>Salif Keita</td>
+      <td>M&#39;Bemba</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mali" | relative_url }}">mali</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/africa" | relative_url }}">africa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 29</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 47</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4b1a175eb3f740bdb1ec941c1a766dd3.png" alt="Cover for Solon Kôno" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>Djelimady Tounkara</td>
+      <td>Solon Kôno</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/african" | relative_url }}">african</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/mali" | relative_url }}">mali</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 92</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
       <td>
       </td>
       <td>2005</td>
@@ -916,49 +958,7 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
       </td>
     </tr>
     <tr>
-      <td>51</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4b1a175eb3f740bdb1ec941c1a766dd3.png" alt="Cover for Solon Kôno" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2005</td>
-      <td>Djelimady Tounkara</td>
-      <td>Solon Kôno</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/african" | relative_url }}">african</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/mali" | relative_url }}">mali</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 9</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>94</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/478eef88888e4b64cbe5a06227d50c2e.png" alt="Cover for M&#39;Bemba" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2005</td>
-      <td>Salif Keita</td>
-      <td>M&#39;Bemba</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mali" | relative_url }}">mali</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
-            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/africa" | relative_url }}">africa</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 29</li>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 54</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>9</td>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/mxIlWwFO6qS2fuqCts2We_2NCn2iywte2T2BWN26Fo4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MTg3/NjAtMTQ0NTI3MTQy/Ny0zMzQ1LmdpZg.jpeg" alt="Cover for Mandinka Rap from Mali" style="max-width:120px; height:auto;" />
       </td>
@@ -976,7 +976,7 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/TFiTRrKt0efOoekXgv9m_qHDu5bQNuMqFPuhCq3bLzw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTU3/NzMtMTM0MTQ5MjQ4/MS02OTE5LmpwZWc.jpeg" alt="Cover for Kokanko Sata" style="max-width:120px; height:auto;" />
       </td>
@@ -994,7 +994,7 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/SKDyuGDnTSzM17psjGY6pECVFYd7SyF_jGpWrN6Q8t0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2Njk0/Mi0xNjYyOTM2MTMy/LTgyNzMuanBlZw.jpeg" alt="Cover for In The Heart Of The Moon" style="max-width:120px; height:auto;" />
       </td>
@@ -1013,7 +1013,7 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>89</td>
       <td>
           <img src="https://i.discogs.com/KS9J6E41100fhXcbrvCdD4eNhCSHaaRoWeBRCfEnu_Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NDY4/MTUtMTQyNTgxNDYy/Ni02NDM3LmpwZWc.jpeg" alt="Cover for Red Moon" style="max-width:120px; height:auto;" />
       </td>
@@ -1044,12 +1044,12 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 18</li>
+            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c3ee768ae304082ab018fecfdb7e797.png" alt="Cover for Boulevard de l&#39;Indépendance" style="max-width:120px; height:auto;" />
       </td>
@@ -1066,12 +1066,12 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
       <td>
         <ul>
             <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 15</li>
-            <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 76</li>
+            <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 25</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f11ae8a1ec01475fc704be88d3a63c7c.png" alt="Cover for Savane" style="max-width:120px; height:auto;" />
       </td>
@@ -1085,14 +1085,14 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 10</li>
-            <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 97</li>
+            <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 4</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 91</li>
             <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/ydzVRBKzQcD9W_Uypy8Y5FhIJ7y7PqSADXzUmQ8M-IQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzQ0/NzItMTMwODA4MjU4/Mi5qcGVn.jpeg" alt="Cover for Abacabok" style="max-width:120px; height:auto;" />
       </td>
@@ -1109,26 +1109,27 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>22</td>
       <td>
-          <img src="https://i.discogs.com/lTuN9Rqwxyua2t71bzF8is8ifO1Q34jhmKoMvk5u4mk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDEw/ODAtMTI5NDQ1MTQ3/Mi5qcGVn.jpeg" alt="Cover for Vieux Farka Toure" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
-      <td>Vieux Farka Toure</td>
-      <td>Vieux Farka Toure</td>
+      <td>Habib Koité &amp; Bamada</td>
+      <td>Afriki</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/african" | relative_url }}">african</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/mali" | relative_url }}">mali</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 69</li>
+            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 78</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/FYCOAkKL-cxFe2QaryvWahwSzNbEs0mP6hkXUSPVU-s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzc5/MDEtMTI1MDAwNzYx/NS5qcGVn.jpeg" alt="Cover for Africi" style="max-width:120px; height:auto;" />
       </td>
@@ -1143,51 +1144,32 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 11</li>
             <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 80</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>75</td>
       <td>
+          <img src="https://i.discogs.com/lTuN9Rqwxyua2t71bzF8is8ifO1Q34jhmKoMvk5u4mk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDEw/ODAtMTI5NDQ1MTQ3/Mi5qcGVn.jpeg" alt="Cover for Vieux Farka Toure" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
-      <td>Habib Koité &amp; Bamada</td>
-      <td>Afriki</td>
+      <td>Vieux Farka Toure</td>
+      <td>Vieux Farka Toure</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
-            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/mali" | relative_url }}">mali</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/african" | relative_url }}">african</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 18</li>
-            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 78</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>17</td>
-      <td>
-          <img src="https://i.discogs.com/PMq7U44-jDUNbKvGGiEvlnYfMFctTZei4hiZY7a_f8Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTcy/OTctMTMyMDkwOTQ1/MS5qcGVn.jpeg" alt="Cover for Red Earth - A Malian Journey" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2007</td>
-      <td>Dee Dee Bridgewater</td>
-      <td>Red Earth - A Malian Journey</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mali" | relative_url }}">mali</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
+            <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/puQnAn0QHgItI_11H4BjFjHzillL24xZjt768ZIgMN0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjk5/MzItMTMyMzk2NTM5/Mi5qcGVn.jpeg" alt="Cover for The Mande Variations" style="max-width:120px; height:auto;" />
       </td>
@@ -1205,7 +1187,25 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>84</td>
+      <td>
+          <img src="https://i.discogs.com/PMq7U44-jDUNbKvGGiEvlnYfMFctTZei4hiZY7a_f8Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTcy/OTctMTMyMDkwOTQ1/MS5qcGVn.jpeg" alt="Cover for Red Earth - A Malian Journey" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Dee Dee Bridgewater</td>
+      <td>Red Earth - A Malian Journey</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mali" | relative_url }}">mali</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
       <td>
       </td>
       <td>2007-02-05</td>
@@ -1218,12 +1218,12 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 74</li>
+            <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 27</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/qv-WPwKZsfDL7-guFpL8XHPj7Vtg20L-HQvbpLaWEtg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMjUw/NDAtMTUyMDg2Mzk1/Ni01NzQ2LmpwZWc.jpeg" alt="Cover for Stereo Spirit" style="max-width:120px; height:auto;" />
       </td>
@@ -1241,7 +1241,7 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
       </td>
       <td>2007-06-11</td>
@@ -1262,7 +1262,7 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/u8pNtthbSlPqIJPaFmGNzRKTt1w8-l8eYZmgMYs29vs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMzUx/My0xNTQwMTQyMzMz/LTUyMDUuanBlZw.jpeg" alt="Cover for Dimanche a Bamako" style="max-width:120px; height:auto;" />
       </td>
@@ -1279,12 +1279,12 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
       <td>
         <ul>
             <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 3</li>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 81</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 20</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d612c72be1a14dd38ea246ffe9e6f23e.png" alt="Cover for The Mandé Variations" style="max-width:120px; height:auto;" />
       </td>
@@ -1302,7 +1302,7 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
       </td>
       <td>2008-03-01</td>
@@ -1321,7 +1321,7 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/4HixZBLuzMLF9Qm2e4nvr1IIvwPIyknsSYWhdSaenwo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTY5/NDQtMTIzMTExNjQx/My5qcGVn.jpeg" alt="Cover for Welcome to Mali" style="max-width:120px; height:auto;" />
       </td>
@@ -1337,12 +1337,48 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
         <ul>
             <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 3</li>
             <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 19</li>
-            <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 70</li>
+            <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 31</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>21</td>
+      <td>
+          <img src="https://i.discogs.com/HW14VQKmpAkIKawWtRM55k_ZzF0WM39MetWNrtj0sMg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMTQ5/MzUtMTM5MTkyMjM4/Ny01NTM5LmpwZWc.jpeg" alt="Cover for In Griot Time - String Music from Mali" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Various Artists</td>
+      <td>In Griot Time - String Music from Mali</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mali" | relative_url }}">mali</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>
+          <img src="https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg" alt="Cover for The Rough Guide to Mali and Guinea" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Various Artists</td>
+      <td>The Rough Guide to Mali and Guinea</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/ZEq6RL1Zl6wNPEzzWjz59rPxrDgk8nTOAzDTlkQEnyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzQx/MzU1LTE2MjUxNDkz/MjUtMzExNS5qcGVn.jpeg" alt="Cover for African Artists Hand In Hand" style="max-width:120px; height:auto;" />
       </td>
@@ -1362,43 +1398,7 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
       </td>
     </tr>
     <tr>
-      <td>41</td>
-      <td>
-          <img src="https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg" alt="Cover for The Rough Guide to Mali and Guinea" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2009</td>
-      <td>Various Artists</td>
-      <td>The Rough Guide to Mali and Guinea</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>80</td>
-      <td>
-          <img src="https://i.discogs.com/HW14VQKmpAkIKawWtRM55k_ZzF0WM39MetWNrtj0sMg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMTQ5/MzUtMTM5MTkyMjM4/Ny01NTM5LmpwZWc.jpeg" alt="Cover for In Griot Time - String Music from Mali" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2009</td>
-      <td>Various Artists</td>
-      <td>In Griot Time - String Music from Mali</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mali" | relative_url }}">mali</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>78</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/YF6jBMxnVK2o_yPlX-o6-H6zNp6D1-9rWrNprN16KGU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Nzg1/OTMtMTIzNjQyNTcz/OC5qcGVn.jpeg" alt="Cover for Seya" style="max-width:120px; height:auto;" />
       </td>
@@ -1416,7 +1416,7 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/36c059de243c41eea1f59464960aff4d.png" alt="Cover for Live" style="max-width:120px; height:auto;" />
       </td>
@@ -1434,7 +1434,7 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/VVTkGnxMT6BrB7x7ZlGVpAhASdHOHdXDzXUnmy6qCA0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTI1/OTUtMTI5MjI3NTI3/OC5qcGVn.jpeg" alt="Cover for Ali &amp; Toumani" style="max-width:120px; height:auto;" />
       </td>
@@ -1449,12 +1449,12 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 12</li>
+            <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/uB6Vq9OtpZa6fuD3csP6DWsgzeSGFnj7JgTB0ShsMZY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNjkx/NTctMTMyNzY2OTA3/NS5qcGVn.jpeg" alt="Cover for Le Mystère Jazz De Tombouctou" style="max-width:120px; height:auto;" />
       </td>
@@ -1472,7 +1472,7 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/cJUhTPkEz-RO-ah-x4KVi4qrBTF7mSP4baoUF3dy7qo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMTA3/ODAtMTYxODg1MTY5/Ny04OTU1LmpwZWc.jpeg" alt="Cover for Courage" style="max-width:120px; height:auto;" />
       </td>
@@ -1494,7 +1494,7 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
       </td>
       <td>2011-05-24</td>
@@ -1508,12 +1508,12 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 22</li>
+            <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>99</td>
       <td>
           <img src="https://i.discogs.com/1_UdiH6irveuui5YPWaU6zFueVSfG7C6Evvsjz2a_S0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTQ2/NjgtMTQyMTU3Mjcz/My05MTI5LmpwZWc.jpeg" alt="Cover for Bush Taxi Mali - Field Recordings From Mali" style="max-width:120px; height:auto;" />
       </td>
@@ -1531,7 +1531,7 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/OL12vB0xD5n_XTM4eXY3AWQ3jHeGBet5K12gIH0x2ZU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjc1/MTIxLTE2MDY1MDIw/MTktODc1OC5qcGVn.jpeg" alt="Cover for Yelema" style="max-width:120px; height:auto;" />
       </td>
@@ -1551,7 +1551,7 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/AvTbyqTsvQGU8Lq7vfP_3xquZdHkrLoBhOUeP4CyBII/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3Nzg0/NjItMTQwMjQyMDAz/NC05OTIyLmpwZWc.jpeg" alt="Cover for Guerrier" style="max-width:120px; height:auto;" />
       </td>
@@ -1572,7 +1572,7 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/zXs4qv-b6zPp65DA173RCKw-xnylkFcwZGTs3EjycVw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NTky/OTQtMTQ2ODE1ODAy/OS01NTgwLmpwZWc.jpeg" alt="Cover for Mbalimaou" style="max-width:120px; height:auto;" />
       </td>
@@ -1590,7 +1590,7 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>63</td>
       <td>
       </td>
       <td>2014-03-10</td>
@@ -1607,7 +1607,7 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>98</td>
       <td>
           <img src="https://i.discogs.com/LGy3H3_B_pCTkRNNMITMLWjvQr3BklZJDC5-qVn1lC0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTYw/NDIxLTE1Njg5NzY0/ODctMTAyNS5qcGVn.jpeg" alt="Cover for Mali to Memphis" style="max-width:120px; height:auto;" />
       </td>
@@ -1625,12 +1625,12 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a> # 12</li>
+            <li> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ff3e6b3b638c41fd91eec1fe8704dd48.png" alt="Cover for Ma Ya" style="max-width:120px; height:auto;" />
       </td>
@@ -1648,7 +1648,7 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/hsWLZWHKnMDpED76V115_cWMJdFL8ICAF0OzIWLGWJY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjIz/OTEyLTE1MTk1ODgz/ODMtNjg0MC5qcGVn.jpeg" alt="Cover for Ladilikan" style="max-width:120px; height:auto;" />
       </td>
@@ -1666,7 +1666,7 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>95</td>
       <td>
           <img src="https://i.discogs.com/l6hOLTcwPaiYDP5ysulfDKKcHGR3C-LH0co3f1Bqgsw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTA1/NzU0LTE1MjQ0OTAx/MzQtMzMyNS5qcGVn.jpeg" alt="Cover for Dounia Tabolo" style="max-width:120px; height:auto;" />
       </td>
@@ -1684,7 +1684,7 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/-a-yQyz-adgKz7tawjyxfDIGgr-bMxrHf-YRrcKiYmM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTcx/NzMtMTI4NzI0NTky/MS5qcGVn.jpeg" alt="Cover for Aman Iman" style="max-width:120px; height:auto;" />
       </td>
@@ -1703,14 +1703,14 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 68</li>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 89</li>
-            <li> <a href="{{ "/tags/takamba" | relative_url }}">takamba</a> # 97</li>
+            <li> <a href="{{ "/tags/takamba" | relative_url }}">takamba</a> # 4</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 12</li>
+            <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/Q3xdFSdzdl7xaXb2IWqxmI7x4kXnTLJmlWk3dxqbXNk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTA0/NzMtMTM2MDk2Njk5/OS00MjcxLmpwZWc.jpeg" alt="Cover for New Ancient Strings of Mali" style="max-width:120px; height:auto;" />
       </td>
@@ -1728,31 +1728,12 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>28</td>
       <td>
       </td>
       <td></td>
-      <td>Sissokho Yakhouba</td>
-      <td>Mali: Kora &amp; Balafon (Air Mail Music Collection)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duo" | relative_url }}">duo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mali" | relative_url }}">mali</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Adama Coulibaly</td>
-      <td>Baba</td>
+      <td>Toumani Diabate and Ballake Sissoko</td>
+      <td>New Ancient Strings</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mali" | relative_url }}">mali</a></li>
@@ -1764,19 +1745,34 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>69</td>
       <td>
       </td>
       <td></td>
-      <td>Argile African Heat</td>
-      <td>Idjo</td>
+      <td>Argile &amp; African Heat</td>
+      <td>Koko</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mali" | relative_url }}">mali</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Drisa Kone</td>
+      <td>The Art of Jenbe Drumming - The Mali Tradition Vol. 2</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/africa" | relative_url }}">africa</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/african" | relative_url }}">african</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/flute" | relative_url }}">flute</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mali" | relative_url }}">mali</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
         </ul>
       </td>
       <td>
@@ -1785,12 +1781,12 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>82</td>
       <td>
       </td>
       <td></td>
-      <td>Sissokho Yakhouba &amp; Lansine Kouyate</td>
-      <td>Mali - kora &amp; balafon</td>
+      <td>Mah Damba</td>
+      <td>The Divas From Mali</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mali" | relative_url }}">mali</a></li>
@@ -1802,7 +1798,25 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>90</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Diaou Kouyate</td>
+      <td>Africa</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mali" | relative_url }}">mali</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1cd976111339a219606d02410554f046.png" alt="Cover for Mali Foli: Dakan" style="max-width:120px; height:auto;" />
       </td>
@@ -1826,30 +1840,12 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>94</td>
       <td>
       </td>
       <td></td>
-      <td>Diaou Kouyate</td>
-      <td>Africa</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mali" | relative_url }}">mali</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>19</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Mah Damba</td>
-      <td>The Divas From Mali</td>
+      <td>Sissokho Yakhouba &amp; Lansine Kouyate</td>
+      <td>Mali - kora &amp; balafon</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mali" | relative_url }}">mali</a></li>
@@ -1861,17 +1857,19 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>96</td>
       <td>
       </td>
       <td></td>
-      <td>Drisa Kone</td>
-      <td>The Art of Jenbe Drumming - The Mali Tradition Vol. 2</td>
+      <td>Argile African Heat</td>
+      <td>Idjo</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/africa" | relative_url }}">africa</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/african" | relative_url }}">african</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/flute" | relative_url }}">flute</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mali" | relative_url }}">mali</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
         </ul>
       </td>
       <td>
@@ -1880,29 +1878,12 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>97</td>
       <td>
       </td>
       <td></td>
-      <td>Argile &amp; African Heat</td>
-      <td>Koko</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mali" | relative_url }}">mali</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>73</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Toumani Diabate and Ballake Sissoko</td>
-      <td>New Ancient Strings</td>
+      <td>Adama Coulibaly</td>
+      <td>Baba</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mali" | relative_url }}">mali</a></li>
@@ -1914,12 +1895,31 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>100</td>
       <td>
       </td>
       <td></td>
-      <td>Jaraba Jakite</td>
-      <td>The Art of Jenbe Drumming - The Mali Tradition Vol. 1</td>
+      <td>Sissokho Yakhouba</td>
+      <td>Mali: Kora &amp; Balafon (Air Mail Music Collection)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duo" | relative_url }}">duo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mali" | relative_url }}">mali</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Argile, feat. Sona Diabate</td>
+      <td>Live In Africa &amp; Europe</td>
       <td>
         <ul>
         </ul>
@@ -1930,7 +1930,7 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>86</td>
       <td>
       </td>
       <td></td>
@@ -1946,12 +1946,12 @@ Malian music blends traditional West African instruments like the kora, ngoni, a
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>87</td>
       <td>
       </td>
       <td></td>
-      <td>Argile, feat. Sona Diabate</td>
-      <td>Live In Africa &amp; Europe</td>
+      <td>Jaraba Jakite</td>
+      <td>The Art of Jenbe Drumming - The Mali Tradition Vol. 1</td>
       <td>
         <ul>
         </ul>

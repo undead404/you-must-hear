@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T07:07:38.691Z
+date: 2025-12-05T12:59:45.977Z
 permalink: tags/oldies
 title: oldies
 ---
 
 ## oldies
 
-Last updated: <time datetime="2025-12-03T07:07:38.691Z">Wed Dec 03 2025 09:07:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T12:59:45.977Z">Fri Dec 05 2025 14:59:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -81,7 +81,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 66</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -100,7 +100,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a> # 94</li>
+            <li> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -213,7 +213,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 98</li>
+            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -307,8 +307,8 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 58</li>
-            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 100</li>
+            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 1</li>
+            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -348,8 +348,8 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 28</li>
-            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 94</li>
+            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 7</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -370,7 +370,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mastersinger" | relative_url }}">mastersinger</a> # 100</li>
+            <li> <a href="{{ "/tags/mastersinger" | relative_url }}">mastersinger</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -430,7 +430,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/motown" | relative_url }}">motown</a> # 90</li>
+            <li> <a href="{{ "/tags/motown" | relative_url }}">motown</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -453,9 +453,9 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 16</li>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 42</li>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 84</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 16</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 57</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -492,7 +492,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 55</li>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -529,7 +529,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a> # 55</li>
+            <li> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -584,7 +584,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a> # 36</li>
+            <li> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -718,7 +718,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 97</li>
+            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -779,7 +779,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       <td>
         <ul>
             <li> <a href="{{ "/tags/crooners" | relative_url }}">crooners</a> # 16</li>
-            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 62</li>
+            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -802,8 +802,8 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 27</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 47</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 54</li>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -841,7 +841,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a> # 82</li>
+            <li> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -936,8 +936,8 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a> # 83</li>
-            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 95</li>
+            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 6</li>
+            <li> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -995,7 +995,28 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 74</li>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 24</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/17463b7ea6794ea7b8ef02e7445492ac.png" alt="Cover for The Very Best of the Righteous Brothers: Unchained Melody" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1990</td>
+      <td>The Righteous Brothers</td>
+      <td>The Very Best of the Righteous Brothers: Unchained Melody</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1028,26 +1049,6 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>97</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/17463b7ea6794ea7b8ef02e7445492ac.png" alt="Cover for The Very Best of the Righteous Brothers: Unchained Melody" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1990</td>
-      <td>The Righteous Brothers</td>
-      <td>The Very Best of the Righteous Brothers: Unchained Melody</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
         </ul>
       </td>
       <td>
@@ -1107,7 +1108,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 64</li>
+            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1162,7 +1163,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 90</li>
+            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1225,12 +1226,12 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 97</li>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 97</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 99</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 99</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 99</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 99</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 2</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 2</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 2</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 2</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 4</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1252,7 +1253,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 32</li>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 55</li>
             <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 87</li>
         </ul>
       </td>
@@ -1275,7 +1276,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 31</li>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 56</li>
             <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 88</li>
         </ul>
       </td>
@@ -1295,7 +1296,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 76</li>
+            <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1405,7 +1406,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a> # 85</li>
+            <li> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1574,7 +1575,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 41</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1652,7 +1653,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a> # 99</li>
+            <li> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -1675,7 +1676,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       <td>
         <ul>
             <li> <a href="{{ "/tags/crooners" | relative_url }}">crooners</a> # 15</li>
-            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 64</li>
+            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1695,7 +1696,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 80</li>
+            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1731,7 +1732,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 31</li>
+            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1751,7 +1752,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a> # 84</li>
+            <li> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1771,8 +1772,8 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 61</li>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 81</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 20</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1814,7 +1815,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a> # 75</li>
+            <li> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1888,7 +1889,7 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 93</li>
+            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1969,9 +1970,9 @@ Oldies music typically refers to popular music from the 1950s, 1960s, and 1970s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 48</li>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 49</li>
-            <li> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a> # 87</li>
+            <li> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a> # 14</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 51</li>
+            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 53</li>
         </ul>
       </td>
     </tr>

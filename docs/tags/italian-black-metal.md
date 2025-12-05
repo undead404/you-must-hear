@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T06:54:10.376Z
+date: 2025-12-05T12:51:47.734Z
 permalink: tags/italian-black-metal
 title: italian black metal
 ---
 
 ## italian black metal
 
-Last updated: <time datetime="2025-12-03T06:54:10.376Z">Wed Dec 03 2025 08:54:10 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T12:51:47.734Z">Fri Dec 05 2025 14:51:47 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -249,8 +249,8 @@ Italian black metal is a subgenre of black metal music that originated in Italy 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cyber-metal" | relative_url }}">cyber metal</a> # 31</li>
-            <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 78</li>
+            <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 23</li>
+            <li> <a href="{{ "/tags/cyber-metal" | relative_url }}">cyber metal</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1712,7 +1712,7 @@ Italian black metal is a subgenre of black metal music that originated in Italy 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a> # 27</li>
+            <li> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a> # 73</li>
             <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 93</li>
         </ul>
       </td>
@@ -1915,8 +1915,8 @@ Italian black metal is a subgenre of black metal music that originated in Italy 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/epic-black-metal" | relative_url }}">epic black metal</a> # 57</li>
-            <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 58</li>
+            <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 43</li>
+            <li> <a href="{{ "/tags/epic-black-metal" | relative_url }}">epic black metal</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1957,7 +1957,7 @@ Italian black metal is a subgenre of black metal music that originated in Italy 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/epic-black-metal" | relative_url }}">epic black metal</a> # 49</li>
+            <li> <a href="{{ "/tags/epic-black-metal" | relative_url }}">epic black metal</a> # 50</li>
         </ul>
       </td>
     </tr>

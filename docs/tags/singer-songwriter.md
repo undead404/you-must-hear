@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T07:07:10.939Z
+date: 2025-12-05T12:57:45.980Z
 permalink: tags/singer-songwriter
 title: singer-songwriter
 ---
 
 ## singer-songwriter
 
-Last updated: <time datetime="2025-12-03T07:07:10.939Z">Wed Dec 03 2025 09:07:10 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T12:57:45.980Z">Fri Dec 05 2025 14:57:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -45,8 +45,8 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 58</li>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 91</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 10</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -66,7 +66,7 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 70</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -85,7 +85,7 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 8</li>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -107,7 +107,7 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       <td>
         <ul>
             <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 23</li>
-            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 23</li>
+            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -128,9 +128,9 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 19</li>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 61</li>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 93</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 7</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 40</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -149,7 +149,7 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 26</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -168,7 +168,7 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 82</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -204,7 +204,7 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 77</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -242,8 +242,8 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 59</li>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 94</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 7</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -263,7 +263,7 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 80</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -302,7 +302,7 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 40</li>
+            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -320,8 +320,8 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 17</li>
             <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 25</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -341,6 +341,7 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       <td>
         <ul>
             <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 52</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -397,9 +398,9 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 5</li>
+            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 36</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 55</li>
-            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 65</li>
+            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -436,8 +437,8 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 46</li>
-            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 54</li>
+            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 46</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 54</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 79</li>
         </ul>
       </td>
@@ -476,7 +477,7 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 21</li>
+            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -587,7 +588,7 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 11</li>
+            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -608,7 +609,7 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 1</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -664,8 +665,8 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 12</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 84</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -702,7 +703,7 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 53</li>
+            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 47</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 81</li>
         </ul>
       </td>
@@ -739,8 +740,8 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 28</li>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 75</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 26</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -776,7 +777,7 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 94</li>
+            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -814,8 +815,8 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 48</li>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 97</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 4</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -834,9 +835,9 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 50</li>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 69</li>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 83</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 18</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 32</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -877,7 +878,7 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 87</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -896,7 +897,7 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 34</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -915,7 +916,7 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 77</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -934,8 +935,8 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 10</li>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 29</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 72</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -954,8 +955,8 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 2</li>
             <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 16</li>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -992,7 +993,7 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 96</li>
+            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1011,13 +1012,13 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 7</li>
+            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 11</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 11</li>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 20</li>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 40</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 69</li>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 69</li>
-            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 90</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 94</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 32</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 32</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 60</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1090,8 +1091,8 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 89</li>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 100</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 1</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -1165,8 +1166,8 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 68</li>
-            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 69</li>
+            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 31</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1185,7 +1186,7 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 97</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1224,11 +1225,11 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 80</li>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 89</li>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 95</li>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 98</li>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 99</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 2</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 3</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 6</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 12</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1250,8 +1251,8 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 53</li>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 65</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 36</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1271,7 +1272,7 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 90</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1294,10 +1295,10 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 58</li>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 98</li>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 99</li>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 100</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 1</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 2</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 3</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1318,8 +1319,8 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 5</li>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 72</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 29</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1340,10 +1341,10 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 86</li>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 96</li>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 97</li>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 98</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 3</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 4</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 5</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1382,11 +1383,11 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       <td>
         <ul>
             <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 2</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 12</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 15</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 20</li>
             <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 23</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 63</li>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 81</li>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 85</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 89</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1407,10 +1408,10 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       <td>
         <ul>
             <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 5</li>
+            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 5</li>
             <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 8</li>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 71</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 77</li>
-            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 96</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 24</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1432,16 +1433,16 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       <td>
         <ul>
             <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 1</li>
-            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 29</li>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 33</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 4</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 6</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 17</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 29</li>
             <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 35</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 36</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 50</li>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 72</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 51</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 65</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 68</li>
+            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 72</li>
             <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 77</li>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 84</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 95</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1461,8 +1462,8 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 31</li>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 92</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 9</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1480,10 +1481,10 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 8</li>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 38</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 97</li>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 100</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 1</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 4</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 63</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1503,8 +1504,8 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 78</li>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 91</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 10</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1525,8 +1526,8 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 3</li>
             <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 28</li>
-            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1547,7 +1548,7 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 47</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1566,7 +1567,7 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 83</li>
+            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1594,12 +1595,12 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       <td>
         <ul>
             <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 1</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 19</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 10</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 22</li>
             <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 31</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 39</li>
             <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 47</li>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 62</li>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 79</li>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 91</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1617,9 +1618,9 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 4</li>
             <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 4</li>
             <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 8</li>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1641,7 +1642,7 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       <td>
         <ul>
             <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 10</li>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 52</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1677,11 +1678,11 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 33</li>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 45</li>
-            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 48</li>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 54</li>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 92</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 10</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 46</li>
+            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 53</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 56</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1702,7 +1703,7 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 97</li>
+            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1722,7 +1723,7 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 1</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1743,9 +1744,9 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 1</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 6</li>
             <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 45</li>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 95</li>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1767,7 +1768,7 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 15</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1788,8 +1789,8 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 98</li>
-            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 99</li>
+            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 2</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1829,10 +1830,10 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       <td>
         <ul>
             <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 4</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 8</li>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 71</li>
-            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 72</li>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 93</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 8</li>
+            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 27</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 30</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1862,16 +1863,16 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 1</li>
             <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 1</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 1</li>
+            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 1</li>
+            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 1</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 1</li>
             <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 2</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 9</li>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 90</li>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 94</li>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 100</li>
-            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 100</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 100</li>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 100</li>
-            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 100</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 7</li>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 11</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1891,7 +1892,7 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 100</li>
+            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -1931,7 +1932,7 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 100</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -1950,9 +1951,9 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 93</li>
-            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 96</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 98</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 3</li>
+            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 5</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1972,7 +1973,7 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 54</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1992,9 +1993,9 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 75</li>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 89</li>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 91</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 10</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 12</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -2013,7 +2014,7 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 68</li>
+            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -2033,14 +2034,14 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 1</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 2</li>
+            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 2</li>
             <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 5</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 70</li>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 83</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 89</li>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 95</li>
-            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 99</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 99</li>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 100</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 6</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 12</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 18</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -2061,8 +2062,8 @@ Singer-songwriter is an intimate genre centered on solo artists who write and pe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 90</li>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 91</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 8</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 10</li>
         </ul>
       </td>
     </tr>

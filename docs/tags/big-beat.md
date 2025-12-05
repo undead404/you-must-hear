@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T07:09:48.711Z
+date: 2025-12-05T13:06:45.932Z
 permalink: tags/big-beat
 title: big beat
 ---
 
 ## big beat
 
-Last updated: <time datetime="2025-12-03T07:09:48.711Z">Wed Dec 03 2025 09:09:48 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T13:06:45.932Z">Fri Dec 05 2025 15:06:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -47,7 +47,7 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 56</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -68,7 +68,7 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 53</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -89,7 +89,7 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 87</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -111,8 +111,8 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 31</li>
             <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 68</li>
-            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -151,7 +151,7 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 67</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -187,7 +187,7 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 69</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 32</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 73</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 73</li>
         </ul>
@@ -208,7 +208,7 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 44</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -268,7 +268,7 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 22</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -332,9 +332,9 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 53</li>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 55</li>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 84</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 17</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 46</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -359,10 +359,10 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 63</li>
+            <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 3</li>
+            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 7</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 38</li>
             <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 78</li>
-            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 94</li>
-            <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -415,10 +415,10 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 38</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 27</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 38</li>
             <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 60</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 63</li>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 74</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -454,7 +454,7 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 51</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -479,9 +479,9 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 41</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 53</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 53</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -524,7 +524,7 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 47</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -620,7 +620,7 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 46</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -638,7 +638,7 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 48</li>
+            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -875,7 +875,7 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 55</li>
+            <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1065,7 +1065,7 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 88</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1100,7 +1100,7 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 90</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1157,7 +1157,7 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 93</li>
+            <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1291,7 +1291,7 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 67</li>
+            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1352,8 +1352,8 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       <td>
         <ul>
             <li> <a href="{{ "/tags/broken-beat" | relative_url }}">broken beat</a> # 2</li>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 24</li>
-            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 89</li>
+            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 11</li>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1396,9 +1396,9 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 7</li>
-            <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 29</li>
             <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 37</li>
+            <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 72</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1428,15 +1428,15 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 12</li>
             <li> <a href="{{ "/tags/lounge-groove" | relative_url }}">lounge groove</a> # 20</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 39</li>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 40</li>
-            <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 41</li>
-            <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 58</li>
+            <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 59</li>
+            <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 60</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 61</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 62</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 62</li>
-            <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 63</li>
-            <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 67</li>
+            <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 64</li>
+            <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 68</li>
+            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1485,8 +1485,8 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 56</li>
-            <li> <a href="{{ "/tags/bounce" | relative_url }}">bounce</a> # 92</li>
+            <li> <a href="{{ "/tags/bounce" | relative_url }}">bounce</a> # 9</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1505,7 +1505,7 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 64</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1543,9 +1543,9 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 31</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 57</li>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 97</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 4</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 44</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1595,10 +1595,10 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 23</li>
+            <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 2</li>
             <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 28</li>
-            <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 42</li>
-            <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 99</li>
+            <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 58</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1638,7 +1638,7 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 80</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1695,8 +1695,8 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 46</li>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 81</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 20</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1735,8 +1735,8 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 12</li>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 59</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 42</li>
+            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1781,10 +1781,10 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 49</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 52</li>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 72</li>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 79</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 22</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 29</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 49</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1807,7 +1807,7 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 93</li>
+            <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1828,7 +1828,7 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 33</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1871,7 +1871,7 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 85</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1891,7 +1891,7 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 33</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1916,12 +1916,12 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/progressive-breaks" | relative_url }}">progressive breaks</a> # 1</li>
             <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 1</li>
             <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 15</li>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 66</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 72</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 83</li>
-            <li> <a href="{{ "/tags/progressive-breaks" | relative_url }}">progressive breaks</a> # 100</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 18</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 29</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1945,9 +1945,9 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 66</li>
-            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 83</li>
-            <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 100</li>
+            <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 1</li>
+            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 18</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1970,8 +1970,8 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 4</li>
-            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 44</li>
+            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 57</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1999,8 +1999,8 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
         <ul>
             <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 22</li>
             <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 26</li>
-            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 53</li>
-            <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 74</li>
+            <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 26</li>
+            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -2022,8 +2022,8 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 3</li>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 75</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 26</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -2046,7 +2046,7 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 63</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -2076,11 +2076,11 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
         <ul>
             <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 6</li>
             <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 17</li>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 39</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 18</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 19</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 19</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 61</li>
             <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 66</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 82</li>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 82</li>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -2099,7 +2099,7 @@ Big beat is a music genre that emerged in the 1990s and was popularized by artis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 92</li>
+            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 9</li>
         </ul>
       </td>
     </tr>

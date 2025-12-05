@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T06:54:00.280Z
+date: 2025-12-05T12:51:36.898Z
 permalink: tags/experimental-techno
 title: experimental techno
 ---
 
 ## experimental techno
 
-Last updated: <time datetime="2025-12-03T06:54:00.280Z">Wed Dec 03 2025 08:54:00 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T12:51:36.898Z">Fri Dec 05 2025 14:51:36 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
   </thead>
   <tbody>
     <tr>
-      <td>44</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/ALSEHOJwstvCsq4MoJ1Bf3egUT-b6riYLKCRxfN7A5o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjQw/MzUwLTE2MjI0NzMz/ODgtMjc2My5qcGVn.jpeg" alt="Cover for Self Loathing" style="max-width:120px; height:auto;" />
       </td>
@@ -50,7 +50,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/VpEsEQMPQsOOWZNIgwSOW_lYz0lJPwnkN9DQC9DOKts/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzYx/NjAtMTMxNzQ1MzU4/MS5qcGVn.jpeg" alt="Cover for Mishap Records! the world leader in specialized stupid shit!" style="max-width:120px; height:auto;" />
       </td>
@@ -84,7 +84,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>81</td>
       <td>
       </td>
       <td>1988</td>
@@ -103,7 +103,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4245587f183e4da2b45c2c3d3bf1782e.png" alt="Cover for Frequencies" style="max-width:120px; height:auto;" />
       </td>
@@ -121,7 +121,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/43d2b05c36504d788580323e8105ba2a.png" alt="Cover for Musik" style="max-width:120px; height:auto;" />
       </td>
@@ -135,12 +135,12 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/detroit-techno" | relative_url }}">detroit techno</a> # 24</li>
+            <li> <a href="{{ "/tags/detroit-techno" | relative_url }}">detroit techno</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/DOCLp0wiPrC3J53m0JFbSJENBgzqPNu0Gu6ie1hE0kg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODE5/MjctMTMzNjE1Njky/Ni5qcGVn.jpeg" alt="Cover for Disturb light TaPeD in Reduced" style="max-width:120px; height:auto;" />
       </td>
@@ -163,7 +163,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/88ea501940e9492b85bfef4e2ce5dbc7.png" alt="Cover for Classics" style="max-width:120px; height:auto;" />
       </td>
@@ -177,13 +177,13 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 7</li>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 71</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 30</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f946b8fac2391acadff5b1fd49d48857.png" alt="Cover for BCD" style="max-width:120px; height:auto;" />
       </td>
@@ -197,12 +197,12 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 65</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 36</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c32842dd23334495ae2d481b4ecec4cb.png" alt="Cover for Iaora Tahiti" style="max-width:120px; height:auto;" />
       </td>
@@ -216,12 +216,12 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 18</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/36ee427de4e93e07adde29926d60edfd.png" alt="Cover for Tri Repetae" style="max-width:120px; height:auto;" />
       </td>
@@ -235,69 +235,33 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 32</li>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 45</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 56</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>19</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0a6aa658906e01e1602d7336265b69d6.png" alt="Cover for Anorak Twat" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
-      <td>Eggplant</td>
-      <td>Anorak Twat</td>
+      <td>Porter Ricks</td>
+      <td>Biokinetics</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roots-reggae" | relative_url }}">roots reggae</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 28</li>
-            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 39</li>
-            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 75</li>
+            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 3</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0fa898dea74448e69336ed3520f551fb.png" alt="Cover for Catgirl" style="max-width:120px; height:auto;" />
       </td>
@@ -347,35 +311,88 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 35</li>
             <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 41</li>
-            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 49</li>
-            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 66</li>
+            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 52</li>
             <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>69</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0a6aa658906e01e1602d7336265b69d6.png" alt="Cover for Anorak Twat" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
-      <td>Porter Ricks</td>
-      <td>Biokinetics</td>
+      <td>Eggplant</td>
+      <td>Anorak Twat</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roots-reggae" | relative_url }}">roots reggae</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 98</li>
+            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 62</li>
+            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 73</li>
+            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>80</td>
+      <td>
+      </td>
+      <td>1996-01-29</td>
+      <td>Conemelt</td>
+      <td>Confuse And Destroy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5d9b0da0e5cbfc0ee8c919c665e0af69.png" alt="Cover for Advance" style="max-width:120px; height:auto;" />
       </td>
@@ -393,24 +410,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>21</td>
-      <td>
-      </td>
-      <td>1996-01-29</td>
-      <td>Conemelt</td>
-      <td>Confuse And Destroy</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/88207c0b19d84d77936a25765c75cf9e.png" alt="Cover for Polymorphic EP" style="max-width:120px; height:auto;" />
       </td>
@@ -460,14 +460,14 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 41</li>
+            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 42</li>
             <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 48</li>
-            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 59</li>
+            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7d077836e0f34dbd6210c799a0195a8a.png" alt="Cover for Autoditacker" style="max-width:120px; height:auto;" />
       </td>
@@ -485,7 +485,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/662f34700a0c5db9e6b2ee66e0e4443a.png" alt="Cover for Love Under Will" style="max-width:120px; height:auto;" />
       </td>
@@ -505,7 +505,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf931f91db3a415789ac95f8643e6005.png" alt="Cover for Olento" style="max-width:120px; height:auto;" />
       </td>
@@ -523,12 +523,12 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 21</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
       </td>
       <td>1998</td>
@@ -577,17 +577,17 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 8</li>
             <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 19</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 21</li>
             <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 23</li>
+            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 23</li>
             <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 59</li>
-            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 78</li>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 80</li>
-            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ff5676fb16bb2a6549eba5c29856739a.png" alt="Cover for Analog Worms Attack" style="max-width:120px; height:auto;" />
       </td>
@@ -604,7 +604,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>59</td>
       <td>
       </td>
       <td>2001</td>
@@ -624,13 +624,13 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/juke" | relative_url }}">juke</a> # 46</li>
-            <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 49</li>
+            <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 52</li>
+            <li> <a href="{{ "/tags/juke" | relative_url }}">juke</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/04e093ea7a7a48fa9b4b9a1e9a9d9baf.png" alt="Cover for spclab9 ep" style="max-width:120px; height:auto;" />
       </td>
@@ -652,7 +652,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>66</td>
       <td>
       </td>
       <td>2002-12-02</td>
@@ -675,7 +675,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
       </td>
       <td>2003</td>
@@ -692,7 +692,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5bb7e3245220bd03a2034a5a9b70f2ef.png" alt="Cover for Rounds" style="max-width:120px; height:auto;" />
       </td>
@@ -705,13 +705,13 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 53</li>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 76</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 25</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>93</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/806d707b4eaf4367c34da06999276df2.png" alt="Cover for Random Overload" style="max-width:120px; height:auto;" />
       </td>
@@ -736,7 +736,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/AM61e6Sk9-hABBmvpxPcGoE7nv8sBUBV4_dhvpqMBfY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzgw/NTM5LTE1MzQwOTUw/NDItNDUwOS5qcGVn.jpeg" alt="Cover for unlistenable music" style="max-width:120px; height:auto;" />
       </td>
@@ -758,12 +758,12 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 46</li>
+            <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4e392a0f66b8dc26bea5f28296a5b2d1.png" alt="Cover for Utopìa" style="max-width:120px; height:auto;" />
       </td>
@@ -789,7 +789,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
       </td>
       <td>2004-07-27</td>
@@ -808,7 +808,26 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>49</td>
+      <td>
+          <img src="https://i.discogs.com/388Kyg0FUbfmYN_FXVmyNepg-TDY1mcfA3baqI3LklU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzY4/OC0xMTExMzk3OTU1/LmpwZw.jpeg" alt="Cover for Relics &amp; Artifacts" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>The Sun God</td>
+      <td>Relics &amp; Artifacts</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/detroit-techno" | relative_url }}">detroit techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dbff582078e743859d959dac29d8e117.png" alt="Cover for Umpomat" style="max-width:120px; height:auto;" />
       </td>
@@ -828,26 +847,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>52</td>
-      <td>
-          <img src="https://i.discogs.com/388Kyg0FUbfmYN_FXVmyNepg-TDY1mcfA3baqI3LklU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzY4/OC0xMTExMzk3OTU1/LmpwZw.jpeg" alt="Cover for Relics &amp; Artifacts" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2005</td>
-      <td>The Sun God</td>
-      <td>Relics &amp; Artifacts</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/detroit-techno" | relative_url }}">detroit techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>29</td>
+      <td>72</td>
       <td>
       </td>
       <td>2005-04-16</td>
@@ -865,7 +865,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/134c1eb85b054e6faeb1ad13da1fdceb.png" alt="Cover for Thrills" style="max-width:120px; height:auto;" />
       </td>
@@ -884,7 +884,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6ddbd5d270b3e3736f8b8c8b69738615.png" alt="Cover for The Final Finalist" style="max-width:120px; height:auto;" />
       </td>
@@ -906,7 +906,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f3bdae22f0e020f80371a2813677bc12.png" alt="Cover for Orchestra of Bubbles" style="max-width:120px; height:auto;" />
       </td>
@@ -923,7 +923,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>99</td>
       <td>
           <img src="https://i.discogs.com/-uiXIts37F3rSzh5zO6ylAjO0ztIlmbAj8Njn6aFGjE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMTc3/Ni0xMjM1Mjg5NTc3/LmpwZWc.jpeg" alt="Cover for social engines (cl-001)" style="max-width:120px; height:auto;" />
       </td>
@@ -948,7 +948,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>90</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/234feb154f504328c3d24ea537d52ce9.png" alt="Cover for Chapitre Premier" style="max-width:120px; height:auto;" />
       </td>
@@ -968,7 +968,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/G1LMHi2rxngkCAUOFLdfEdpxnK07_xS4OKJhjwKjGQ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTMw/MjItMTE5NjQyOTI2/NS5qcGVn.jpeg" alt="Cover for Roboclub B1-66ER EP" style="max-width:120px; height:auto;" />
       </td>
@@ -986,7 +986,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/L9_cLpSbkNhs0TnzjyZZGCxRqK0KeD0zCHtr-KLBFq8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzI4/NTMtMTIxMDQyNTM4/OC5qcGVn.jpeg" alt="Cover for Wasn Los Im Ohr" style="max-width:120px; height:auto;" />
       </td>
@@ -1009,7 +1009,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/CTLHw3dwBMQJ3KPMlycTDPlOWuzVFGrndVjYsMk3ubs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDk0/MTYtMTIwMTI4MjA4/OS5qcGVn.jpeg" alt="Cover for [gruen025] Density Operator" style="max-width:120px; height:auto;" />
       </td>
@@ -1029,7 +1029,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/hKzHEdQ6thJ3DcQhkNP8ZkyEIgHzEFCQStbV-6MPlZ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjM2/NzItMTIwNDcyNzkz/NS5qcGVn.jpeg" alt="Cover for Music for color dreams" style="max-width:120px; height:auto;" />
       </td>
@@ -1052,7 +1052,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/SJ8WcuPPPAdM00-69RUDcfQPrqsCVuwQ7fgKAszhAY8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDM2/NzUtMTIwNzk4NTgz/Ni5qcGVn.jpeg" alt="Cover for ca112 - Orvonton - Remitente" style="max-width:120px; height:auto;" />
       </td>
@@ -1076,7 +1076,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1c4d668ed1f6cb6b0d601f3b15763ee9.png" alt="Cover for BCD-2" style="max-width:120px; height:auto;" />
       </td>
@@ -1090,12 +1090,12 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 37</li>
+            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e472503dd320d92a9eb69de4f80f9033.png" alt="Cover for fat no more (ep)" style="max-width:120px; height:auto;" />
       </td>
@@ -1116,7 +1116,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
       </td>
       <td>2009-08-17</td>
@@ -1136,15 +1136,15 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 16</li>
             <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 27</li>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 48</li>
-            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 61</li>
-            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 85</li>
+            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 40</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/4xvqe1FW0lw0a5C-vKTshw-Qmxeh4OMPtVWxCN7CTXM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTY3/MzMtMTI2MzY4NTIz/MS5qcGVn.jpeg" alt="Cover for Bambaataa Eats His Breakfast" style="max-width:120px; height:auto;" />
       </td>
@@ -1164,7 +1164,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/31dyxEdoDn8RkSNtiXadSwiV1EmH6kDbv9TDvaskwcU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTU0/NzMtMTUzMTI1OTEy/MS05MzI5LmpwZWc.jpeg" alt="Cover for Night Music - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1182,7 +1182,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/45870574d6be4425b020031618799e77.png" alt="Cover for Ay Ay Ay" style="max-width:120px; height:auto;" />
       </td>
@@ -1196,12 +1196,12 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-and-dark" | relative_url }}">deep and dark</a> # 34</li>
+            <li> <a href="{{ "/tags/deep-and-dark" | relative_url }}">deep and dark</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/-zd_-Dw0ZLbORDAapzP4YMfBDuHvIW7dckX1wyOBAPA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTU4/MjAtMTMxNTUxOTAy/NC5qcGVn.jpeg" alt="Cover for king of aboulia" style="max-width:120px; height:auto;" />
       </td>
@@ -1222,7 +1222,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3a81adfb183548d7a7c8d5324573f0fa.png" alt="Cover for Splazsh" style="max-width:120px; height:auto;" />
       </td>
@@ -1236,12 +1236,12 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 67</li>
+            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/wbJoQcOr7VTN84bmCjnbzXXMFV-BjpiZLxDht3oAG8s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDgy/MjktMTI5NzUwMzA3/MS5qcGVn.jpeg" alt="Cover for Moves &amp; Steps" style="max-width:120px; height:auto;" />
       </td>
@@ -1259,7 +1259,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/E8YZkmWtd_Hojk7a5J8yphKCJH1BHp6QS_2T6093LlM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODIz/MjYtMTMxOTQ0MjMz/MS5qcGVn.jpeg" alt="Cover for Arabxilla" style="max-width:120px; height:auto;" />
       </td>
@@ -1277,7 +1277,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3e62d76f9b284b4dcb91510d20373c97.png" alt="Cover for Eps 1991 - 2002" style="max-width:120px; height:auto;" />
       </td>
@@ -1297,7 +1297,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/BJc7F3z-k5AVMMwiXqWsw92YkDYV7kV0MGpoen5mvLM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTQ0/NDgtMTM3NjU5MTQ3/NS03NjIxLmpwZWc.jpeg" alt="Cover for Fantastic &amp; Tangible" style="max-width:120px; height:auto;" />
       </td>
@@ -1320,7 +1320,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
       </td>
       <td>2011-09-26</td>
@@ -1337,12 +1337,12 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       <td>
         <ul>
             <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 12</li>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 66</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 35</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/73d8d04d594a915849420f1b5c1d09c3.png" alt="Cover for Goodbye Swingtime" style="max-width:120px; height:auto;" />
       </td>
@@ -1365,7 +1365,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>91</td>
       <td>
       </td>
       <td>2011-12-28</td>
@@ -1388,7 +1388,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3a2a8f3d116840248807b5ff43462224.png" alt="Cover for Parastrophics" style="max-width:120px; height:auto;" />
       </td>
@@ -1410,13 +1410,13 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 59</li>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 70</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 31</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/00cd990452a4b6edbb352a1f97eb2162.png" alt="Cover for Name Your Tiger" style="max-width:120px; height:auto;" />
       </td>
@@ -1437,7 +1437,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/P0tRyPSy7TFekSznbGz4fFebh1pueCf4xHen2zxnVWM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0Nzg0/MzAtMTM2NjQ3ODMw/My04MDcwLmpwZWc.jpeg" alt="Cover for Nautically Inclined" style="max-width:120px; height:auto;" />
       </td>
@@ -1455,7 +1455,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ac0b041fb074f62d139def37ac395fd.png" alt="Cover for Exai" style="max-width:120px; height:auto;" />
       </td>
@@ -1473,7 +1473,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e56ed80c298c475b93ff3f6d91e8d5a4.png" alt="Cover for Half Of Where You Live" style="max-width:120px; height:auto;" />
       </td>
@@ -1491,7 +1491,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/30ee1348cc31442780e464746f726b39.png" alt="Cover for II" style="max-width:120px; height:auto;" />
       </td>
@@ -1509,7 +1509,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6f6fa4c2158440beade1fe91bc2e4aab.png" alt="Cover for Happiness" style="max-width:120px; height:auto;" />
       </td>
@@ -1531,7 +1531,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/rF0X_XER4EHhp5Vd8jSIQNi_zvIxtXEbBPtKuL6uH4c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MTEx/NDAtMTM5Mjc2NDM5/MC05Mjc0LmpwZWc.jpeg" alt="Cover for La Loi De Morphine" style="max-width:120px; height:auto;" />
       </td>
@@ -1561,12 +1561,12 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 27</li>
+            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/STLWcsqssq1oUZ-Nrk7U299_esjkMzimmxxSa_4PpOs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0Nzk3/MTMtMTM5NDQzMzQ1/MC0xODUzLmpwZWc.jpeg" alt="Cover for Pale Blue" style="max-width:120px; height:auto;" />
       </td>
@@ -1590,7 +1590,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ed6e84627d3d46f5c6d9a0e576983ad7.png" alt="Cover for Bécs" style="max-width:120px; height:auto;" />
       </td>
@@ -1604,14 +1604,14 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 39</li>
-            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 56</li>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 97</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 4</li>
+            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 44</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/wvXq54ISBUJY0zsuer8syYpST17OM7rH8zr7xi7b1mU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3OTg3/NTQtMTQwMjk3NDYw/NC02MTU4LmpwZWc.jpeg" alt="Cover for High End" style="max-width:120px; height:auto;" />
       </td>
@@ -1629,7 +1629,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4b046c10c98d44ecc414f5f38bedcc47.png" alt="Cover for Human Voice" style="max-width:120px; height:auto;" />
       </td>
@@ -1652,12 +1652,12 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       <td>
         <ul>
             <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 14</li>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 58</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/G43zFVmN9IHurP85OT86BRcJQ7O2cRhpSr3agOcpkCc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NjA2/MTUtMTQyNDcxNzcx/NS0yMzA1LmpwZWc.jpeg" alt="Cover for Studie I Närhet, Längtan Och Besvikelse" style="max-width:120px; height:auto;" />
       </td>
@@ -1674,7 +1674,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb6034caebe375c59d1e211249ae81b6.png" alt="Cover for Interview 2016" style="max-width:120px; height:auto;" />
       </td>
@@ -1692,7 +1692,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>100</td>
       <td>
           <img src="https://i.discogs.com/14wEUrGgmFDzim1aGXhaTActwcnA8kQ-OnRCCHvqu08/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNjUz/NTMtMTQ1NjM1NzIy/OC01NTM2LmpwZWc.jpeg" alt="Cover for life&#x2F;less" style="max-width:120px; height:auto;" />
       </td>
@@ -1716,7 +1716,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/3M7F5But6ECFXDxPTxhSIVLZZ_Cc6nVaXVfUtqkTtRo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0ODU1/NTEtMTQ4MTQwMTQ3/MS0yNDk5LmpwZWc.jpeg" alt="Cover for PLMN001" style="max-width:120px; height:auto;" />
       </td>
@@ -1736,7 +1736,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/00FOCPwxLuMrBnWdRkQhqDjoSHPXFKHl4V74wrGUTlE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODE1/MC0xMTY0MzkzMDkx/LmpwZWc.jpeg" alt="Cover for Love Under Will EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1756,7 +1756,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7b950fd174a2290ee06969c1e34f45da.png" alt="Cover for Unfall" style="max-width:120px; height:auto;" />
       </td>
@@ -1780,17 +1780,17 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 11</li>
             <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 13</li>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 46</li>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 61</li>
+            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 14</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 40</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 55</li>
             <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 85</li>
-            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 87</li>
-            <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>95</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a97fb90b6e4e562d6c545dcdce07a956.png" alt="Cover for Cryptovirus" style="max-width:120px; height:auto;" />
       </td>
@@ -1811,7 +1811,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/47f8536eae417634a13320f7fed4e2d9.png" alt="Cover for Singularity" style="max-width:120px; height:auto;" />
       </td>
@@ -1825,12 +1825,12 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 72</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/nd6iHi_QmHlP7Lm7SpyVj7WzIaphQcK9M_cXhTqpR5A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzU3/MTA5LTE1NjA0NTg0/MTEtNTQyNS5qcGVn.jpeg" alt="Cover for Predawn Qualia EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1850,7 +1850,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb795ca34dadd4d535aa186a68167e1f.png" alt="Cover for For You and I" style="max-width:120px; height:auto;" />
       </td>
@@ -1867,12 +1867,12 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 26</li>
+            <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/cuKLvziASNaVnb5e3xVtkeG50yuIg4d4-nH0m2fuod4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTY0/NDU1LTE1OTM4NTk5/ODUtNzAzMi5qcGVn.jpeg" alt="Cover for Echoes From Beyond" style="max-width:120px; height:auto;" />
       </td>
@@ -1891,14 +1891,14 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-and-dark" | relative_url }}">deep and dark</a> # 77</li>
-            <li> <a href="{{ "/tags/melodic-techno" | relative_url }}">melodic techno</a> # 89</li>
-            <li> <a href="{{ "/tags/dark-electronic" | relative_url }}">dark electronic</a> # 97</li>
+            <li> <a href="{{ "/tags/dark-electronic" | relative_url }}">dark electronic</a> # 4</li>
+            <li> <a href="{{ "/tags/melodic-techno" | relative_url }}">melodic techno</a> # 12</li>
+            <li> <a href="{{ "/tags/deep-and-dark" | relative_url }}">deep and dark</a> # 24</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d633f51991e4e57a2195196c2d850a6.png" alt="Cover for Richard Devine EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1948,14 +1948,14 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 30</li>
-            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 43</li>
+            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 58</li>
+            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 71</li>
             <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c120eafc45a9012bb22dfd5ebee818ce.png" alt="Cover for Love Of Plastic" style="max-width:120px; height:auto;" />
       </td>
@@ -1975,12 +1975,12 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 56</li>
+            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 45</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/eb1f578eb421700754a193b1332fcbed.png" alt="Cover for Plonk" style="max-width:120px; height:auto;" />
       </td>
@@ -1998,13 +1998,13 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 94</li>
-            <li> <a href="{{ "/tags/deep-and-dark" | relative_url }}">deep and dark</a> # 94</li>
+            <li> <a href="{{ "/tags/deep-and-dark" | relative_url }}">deep and dark</a> # 7</li>
+            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 7</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad5f93405430187d86f12ada61d7f85f.png" alt="Cover for ULTRACHROMA" style="max-width:120px; height:auto;" />
       </td>
@@ -2025,7 +2025,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/7h74KlFN1RfyIjPK4FpeqQEnMQwodJjZwIWioXw__jQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzIx/NjM0LTE3MDcyNzkw/NDEtNjIwNi5qcGVn.jpeg" alt="Cover for Helios Rave Draft" style="max-width:120px; height:auto;" />
       </td>
@@ -2045,7 +2045,91 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>34</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Aleksandr Shubin</td>
+      <td>Second</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 66</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b9826374b704ed4a5c0725226cfe651.png" alt="Cover for wax" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>oozee</td>
+      <td>wax</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rave" | relative_url }}">rave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tekno" | relative_url }}">tekno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/tekno" | relative_url }}">tekno</a> # 7</li>
+            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 68</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Titee &amp; Pixieguts</td>
+      <td>Long River Remix - Adrian Carter</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/australia" | relative_url }}">australia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sheffield" | relative_url }}">sheffield</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/sheffield" | relative_url }}">sheffield</a> # 50</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/163c140f21124162aaa245a2258c1779.png" alt="Cover for 1+1&#x3D;69" style="max-width:120px; height:auto;" />
       </td>
@@ -2101,126 +2185,165 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 5</li>
+            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>22</td>
       <td>
       </td>
       <td></td>
-      <td>Titee &amp; Pixieguts</td>
-      <td>Long River Remix - Adrian Carter</td>
+      <td>Vladislav Delay as Sistol</td>
+      <td>On the Bright Side</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/australia" | relative_url }}">australia</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sheffield" | relative_url }}">sheffield</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sheffield" | relative_url }}">sheffield</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>23</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b9826374b704ed4a5c0725226cfe651.png" alt="Cover for wax" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>oozee</td>
-      <td>wax</td>
+      <td>Vladislav Delay As Sistol</td>
+      <td>On the Bright Side</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Alphax Cubert</td>
+      <td>The state of minimalism</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/detroit-techno" | relative_url }}">detroit techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>
+      </td>
+      <td></td>
+      <td>SPAmbient</td>
+      <td>Selected SPAmbient Works</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/england" | relative_url }}">england</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rave" | relative_url }}">rave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tekno" | relative_url }}">tekno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/yoga" | relative_url }}">yoga</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 33</li>
-            <li> <a href="{{ "/tags/tekno" | relative_url }}">tekno</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>71</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1dd76d1c003a4c60b42497001bbc2dfa.png" alt="Cover for Chemia EP" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>Aleksandr Shubin</td>
-      <td>Second</td>
+      <td>Sergio Oo Aaaa vs Co</td>
+      <td>Chemia EP</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 35</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>78</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e3b354c5a9764053bc4db78404a0abd6.png" alt="Cover for Mindless Intelligence" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Mindspin</td>
-      <td>Discover(y)</td>
+      <td>Mindless Intelligence</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td>
-      </td>
-      <td></td>
-      <td>oozee</td>
-      <td>room frequencies</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
         </ul>
       </td>
@@ -2230,28 +2353,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>12</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Wasted Elk</td>
-      <td>Flaming Forest</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>15</td>
+      <td>86</td>
       <td>
       </td>
       <td></td>
@@ -2339,161 +2441,59 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>89</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e3b354c5a9764053bc4db78404a0abd6.png" alt="Cover for Mindless Intelligence" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Wasted Elk</td>
+      <td>Flaming Forest</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>
+      </td>
+      <td></td>
+      <td>oozee</td>
+      <td>room frequencies</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>
       </td>
       <td></td>
       <td>Mindspin</td>
-      <td>Mindless Intelligence</td>
+      <td>Discover(y)</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>30</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1dd76d1c003a4c60b42497001bbc2dfa.png" alt="Cover for Chemia EP" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Sergio Oo Aaaa vs Co</td>
-      <td>Chemia EP</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>31</td>
-      <td>
-      </td>
-      <td></td>
-      <td>SPAmbient</td>
-      <td>Selected SPAmbient Works</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/england" | relative_url }}">england</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/yoga" | relative_url }}">yoga</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>37</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Alphax Cubert</td>
-      <td>The state of minimalism</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/detroit-techno" | relative_url }}">detroit techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>78</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Vladislav Delay As Sistol</td>
-      <td>On the Bright Side</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>79</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Vladislav Delay as Sistol</td>
-      <td>On the Bright Side</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
         </ul>
       </td>
       <td>

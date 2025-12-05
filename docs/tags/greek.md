@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T07:09:56.498Z
+date: 2025-12-05T13:07:45.901Z
 permalink: tags/greek
 title: greek
 ---
 
 ## greek
 
-Last updated: <time datetime="2025-12-03T07:09:56.498Z">Wed Dec 03 2025 09:09:56 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T13:07:45.901Z">Fri Dec 05 2025 15:07:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -81,7 +81,7 @@ Greek music encompasses a diverse range of styles rooted in Greece&#39;s rich mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/greece" | relative_url }}">greece</a> # 99</li>
+            <li> <a href="{{ "/tags/greece" | relative_url }}">greece</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -158,7 +158,7 @@ Greek music encompasses a diverse range of styles rooted in Greece&#39;s rich mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/greece" | relative_url }}">greece</a> # 59</li>
+            <li> <a href="{{ "/tags/greece" | relative_url }}">greece</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -253,7 +253,7 @@ Greek music encompasses a diverse range of styles rooted in Greece&#39;s rich mu
       <td>
         <ul>
             <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 27</li>
-            <li> <a href="{{ "/tags/dark-metal" | relative_url }}">dark metal</a> # 32</li>
+            <li> <a href="{{ "/tags/dark-metal" | relative_url }}">dark metal</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -307,8 +307,8 @@ Greek music encompasses a diverse range of styles rooted in Greece&#39;s rich mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 5</li>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 17</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 84</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -367,7 +367,7 @@ Greek music encompasses a diverse range of styles rooted in Greece&#39;s rich mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 91</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -481,7 +481,7 @@ Greek music encompasses a diverse range of styles rooted in Greece&#39;s rich mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/greece" | relative_url }}">greece</a> # 51</li>
+            <li> <a href="{{ "/tags/greece" | relative_url }}">greece</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -518,8 +518,8 @@ Greek music encompasses a diverse range of styles rooted in Greece&#39;s rich mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 6</li>
-            <li> <a href="{{ "/tags/national-socialist" | relative_url }}">national socialist</a> # 94</li>
+            <li> <a href="{{ "/tags/national-socialist" | relative_url }}">national socialist</a> # 7</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -541,7 +541,7 @@ Greek music encompasses a diverse range of styles rooted in Greece&#39;s rich mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 43</li>
+            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -564,8 +564,8 @@ Greek music encompasses a diverse range of styles rooted in Greece&#39;s rich mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 50</li>
-            <li> <a href="{{ "/tags/greece" | relative_url }}">greece</a> # 88</li>
+            <li> <a href="{{ "/tags/greece" | relative_url }}">greece</a> # 13</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -604,7 +604,7 @@ Greek music encompasses a diverse range of styles rooted in Greece&#39;s rich mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/greece" | relative_url }}">greece</a> # 81</li>
+            <li> <a href="{{ "/tags/greece" | relative_url }}">greece</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -640,7 +640,7 @@ Greek music encompasses a diverse range of styles rooted in Greece&#39;s rich mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/greece" | relative_url }}">greece</a> # 66</li>
+            <li> <a href="{{ "/tags/greece" | relative_url }}">greece</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -682,7 +682,7 @@ Greek music encompasses a diverse range of styles rooted in Greece&#39;s rich mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/greece" | relative_url }}">greece</a> # 57</li>
+            <li> <a href="{{ "/tags/greece" | relative_url }}">greece</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -744,11 +744,11 @@ Greek music encompasses a diverse range of styles rooted in Greece&#39;s rich mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 11</li>
             <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 24</li>
-            <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 27</li>
-            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 33</li>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 67</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 69</li>
+            <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 74</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -810,13 +810,13 @@ Greek music encompasses a diverse range of styles rooted in Greece&#39;s rich mu
       <td>
         <ul>
             <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 10</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 37</li>
-            <li> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a> # 39</li>
-            <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 45</li>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 66</li>
-            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 81</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 12</li>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 19</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 35</li>
+            <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 56</li>
+            <li> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a> # 61</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 64</li>
             <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 87</li>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 89</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 90</li>
         </ul>
       </td>
@@ -874,7 +874,7 @@ Greek music encompasses a diverse range of styles rooted in Greece&#39;s rich mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/greece" | relative_url }}">greece</a> # 87</li>
+            <li> <a href="{{ "/tags/greece" | relative_url }}">greece</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -894,8 +894,8 @@ Greek music encompasses a diverse range of styles rooted in Greece&#39;s rich mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 62</li>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 94</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 7</li>
+            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -927,10 +927,10 @@ Greek music encompasses a diverse range of styles rooted in Greece&#39;s rich mu
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 32</li>
+            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 38</li>
+            <li> <a href="{{ "/tags/native-american" | relative_url }}">native american</a> # 39</li>
             <li> <a href="{{ "/tags/western" | relative_url }}">western</a> # 40</li>
-            <li> <a href="{{ "/tags/native-american" | relative_url }}">native american</a> # 62</li>
-            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 63</li>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -976,18 +976,18 @@ Greek music encompasses a diverse range of styles rooted in Greece&#39;s rich mu
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/neo-prog" | relative_url }}">neo-prog</a> # 4</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 9</li>
             <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 11</li>
+            <li> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a> # 15</li>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 25</li>
+            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 39</li>
+            <li> <a href="{{ "/tags/dark-metal" | relative_url }}">dark metal</a> # 41</li>
             <li> <a href="{{ "/tags/new-prog" | relative_url }}">new prog</a> # 43</li>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 50</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 50</li>
-            <li> <a href="{{ "/tags/dark-metal" | relative_url }}">dark metal</a> # 60</li>
-            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 62</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 51</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 51</li>
             <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 63</li>
-            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 75</li>
-            <li> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a> # 84</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 87</li>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 92</li>
-            <li> <a href="{{ "/tags/neo-prog" | relative_url }}">neo-prog</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1011,8 +1011,8 @@ Greek music encompasses a diverse range of styles rooted in Greece&#39;s rich mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-metal" | relative_url }}">dark metal</a> # 41</li>
-            <li> <a href="{{ "/tags/greece" | relative_url }}">greece</a> # 91</li>
+            <li> <a href="{{ "/tags/greece" | relative_url }}">greece</a> # 10</li>
+            <li> <a href="{{ "/tags/dark-metal" | relative_url }}">dark metal</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1035,8 +1035,8 @@ Greek music encompasses a diverse range of styles rooted in Greece&#39;s rich mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 38</li>
-            <li> <a href="{{ "/tags/greece" | relative_url }}">greece</a> # 61</li>
+            <li> <a href="{{ "/tags/greece" | relative_url }}">greece</a> # 40</li>
+            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1056,8 +1056,8 @@ Greek music encompasses a diverse range of styles rooted in Greece&#39;s rich mu
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/dark-metal" | relative_url }}">dark metal</a> # 9</li>
             <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 16</li>
-            <li> <a href="{{ "/tags/dark-metal" | relative_url }}">dark metal</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1078,7 +1078,7 @@ Greek music encompasses a diverse range of styles rooted in Greece&#39;s rich mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/greece" | relative_url }}">greece</a> # 62</li>
+            <li> <a href="{{ "/tags/greece" | relative_url }}">greece</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1135,7 +1135,7 @@ Greek music encompasses a diverse range of styles rooted in Greece&#39;s rich mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/greece" | relative_url }}">greece</a> # 71</li>
+            <li> <a href="{{ "/tags/greece" | relative_url }}">greece</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1156,7 +1156,7 @@ Greek music encompasses a diverse range of styles rooted in Greece&#39;s rich mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/greece" | relative_url }}">greece</a> # 52</li>
+            <li> <a href="{{ "/tags/greece" | relative_url }}">greece</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1193,7 +1193,7 @@ Greek music encompasses a diverse range of styles rooted in Greece&#39;s rich mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/greece" | relative_url }}">greece</a> # 95</li>
+            <li> <a href="{{ "/tags/greece" | relative_url }}">greece</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -1212,7 +1212,7 @@ Greek music encompasses a diverse range of styles rooted in Greece&#39;s rich mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/greece" | relative_url }}">greece</a> # 93</li>
+            <li> <a href="{{ "/tags/greece" | relative_url }}">greece</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1231,7 +1231,7 @@ Greek music encompasses a diverse range of styles rooted in Greece&#39;s rich mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/greece" | relative_url }}">greece</a> # 86</li>
+            <li> <a href="{{ "/tags/greece" | relative_url }}">greece</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1250,7 +1250,7 @@ Greek music encompasses a diverse range of styles rooted in Greece&#39;s rich mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/greece" | relative_url }}">greece</a> # 84</li>
+            <li> <a href="{{ "/tags/greece" | relative_url }}">greece</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1269,7 +1269,7 @@ Greek music encompasses a diverse range of styles rooted in Greece&#39;s rich mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/greece" | relative_url }}">greece</a> # 83</li>
+            <li> <a href="{{ "/tags/greece" | relative_url }}">greece</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1288,7 +1288,7 @@ Greek music encompasses a diverse range of styles rooted in Greece&#39;s rich mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/greece" | relative_url }}">greece</a> # 82</li>
+            <li> <a href="{{ "/tags/greece" | relative_url }}">greece</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1307,7 +1307,7 @@ Greek music encompasses a diverse range of styles rooted in Greece&#39;s rich mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/greece" | relative_url }}">greece</a> # 79</li>
+            <li> <a href="{{ "/tags/greece" | relative_url }}">greece</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1326,7 +1326,7 @@ Greek music encompasses a diverse range of styles rooted in Greece&#39;s rich mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/greece" | relative_url }}">greece</a> # 78</li>
+            <li> <a href="{{ "/tags/greece" | relative_url }}">greece</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1345,7 +1345,7 @@ Greek music encompasses a diverse range of styles rooted in Greece&#39;s rich mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/greece" | relative_url }}">greece</a> # 77</li>
+            <li> <a href="{{ "/tags/greece" | relative_url }}">greece</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1364,7 +1364,7 @@ Greek music encompasses a diverse range of styles rooted in Greece&#39;s rich mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/greece" | relative_url }}">greece</a> # 76</li>
+            <li> <a href="{{ "/tags/greece" | relative_url }}">greece</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1383,7 +1383,7 @@ Greek music encompasses a diverse range of styles rooted in Greece&#39;s rich mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/greece" | relative_url }}">greece</a> # 74</li>
+            <li> <a href="{{ "/tags/greece" | relative_url }}">greece</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1402,7 +1402,7 @@ Greek music encompasses a diverse range of styles rooted in Greece&#39;s rich mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/greece" | relative_url }}">greece</a> # 70</li>
+            <li> <a href="{{ "/tags/greece" | relative_url }}">greece</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1421,7 +1421,7 @@ Greek music encompasses a diverse range of styles rooted in Greece&#39;s rich mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/greece" | relative_url }}">greece</a> # 69</li>
+            <li> <a href="{{ "/tags/greece" | relative_url }}">greece</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1440,7 +1440,7 @@ Greek music encompasses a diverse range of styles rooted in Greece&#39;s rich mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/greece" | relative_url }}">greece</a> # 68</li>
+            <li> <a href="{{ "/tags/greece" | relative_url }}">greece</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1459,7 +1459,7 @@ Greek music encompasses a diverse range of styles rooted in Greece&#39;s rich mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/greece" | relative_url }}">greece</a> # 67</li>
+            <li> <a href="{{ "/tags/greece" | relative_url }}">greece</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1478,7 +1478,7 @@ Greek music encompasses a diverse range of styles rooted in Greece&#39;s rich mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/greece" | relative_url }}">greece</a> # 65</li>
+            <li> <a href="{{ "/tags/greece" | relative_url }}">greece</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1497,7 +1497,7 @@ Greek music encompasses a diverse range of styles rooted in Greece&#39;s rich mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/greece" | relative_url }}">greece</a> # 64</li>
+            <li> <a href="{{ "/tags/greece" | relative_url }}">greece</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1516,7 +1516,7 @@ Greek music encompasses a diverse range of styles rooted in Greece&#39;s rich mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 78</li>
+            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1535,7 +1535,7 @@ Greek music encompasses a diverse range of styles rooted in Greece&#39;s rich mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/greece" | relative_url }}">greece</a> # 60</li>
+            <li> <a href="{{ "/tags/greece" | relative_url }}">greece</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1554,7 +1554,7 @@ Greek music encompasses a diverse range of styles rooted in Greece&#39;s rich mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/greece" | relative_url }}">greece</a> # 58</li>
+            <li> <a href="{{ "/tags/greece" | relative_url }}">greece</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1573,7 +1573,7 @@ Greek music encompasses a diverse range of styles rooted in Greece&#39;s rich mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/greece" | relative_url }}">greece</a> # 56</li>
+            <li> <a href="{{ "/tags/greece" | relative_url }}">greece</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1592,7 +1592,7 @@ Greek music encompasses a diverse range of styles rooted in Greece&#39;s rich mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/greece" | relative_url }}">greece</a> # 55</li>
+            <li> <a href="{{ "/tags/greece" | relative_url }}">greece</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1611,7 +1611,7 @@ Greek music encompasses a diverse range of styles rooted in Greece&#39;s rich mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/greece" | relative_url }}">greece</a> # 53</li>
+            <li> <a href="{{ "/tags/greece" | relative_url }}">greece</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1630,7 +1630,7 @@ Greek music encompasses a diverse range of styles rooted in Greece&#39;s rich mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/greece" | relative_url }}">greece</a> # 50</li>
+            <li> <a href="{{ "/tags/greece" | relative_url }}">greece</a> # 51</li>
         </ul>
       </td>
     </tr>

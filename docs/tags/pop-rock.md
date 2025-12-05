@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T06:56:44.690Z
+date: 2025-12-05T12:56:46.021Z
 permalink: tags/pop-rock
 title: pop rock
 ---
 
 ## pop rock
 
-Last updated: <time datetime="2025-12-03T06:56:44.690Z">Wed Dec 03 2025 08:56:44 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T12:56:46.021Z">Fri Dec 05 2025 14:56:46 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -63,7 +63,7 @@ Pop rock blends the catchy melodies and accessible structures of pop music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 81</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -124,8 +124,8 @@ Pop rock blends the catchy melodies and accessible structures of pop music with 
         <ul>
             <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 2</li>
             <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 2</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 3</li>
             <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 86</li>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -144,8 +144,8 @@ Pop rock blends the catchy melodies and accessible structures of pop music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 93</li>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 94</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 7</li>
+            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -163,8 +163,8 @@ Pop rock blends the catchy melodies and accessible structures of pop music with 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 27</li>
             <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 42</li>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -185,7 +185,7 @@ Pop rock blends the catchy melodies and accessible structures of pop music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 33</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -205,7 +205,7 @@ Pop rock blends the catchy melodies and accessible structures of pop music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 38</li>
+            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -279,7 +279,7 @@ Pop rock blends the catchy melodies and accessible structures of pop music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 28</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -320,11 +320,11 @@ Pop rock blends the catchy melodies and accessible structures of pop music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 9</li>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 33</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 38</li>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 90</li>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 98</li>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 3</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 11</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 61</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 67</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -417,7 +417,7 @@ Pop rock blends the catchy melodies and accessible structures of pop music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 56</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -436,7 +436,7 @@ Pop rock blends the catchy melodies and accessible structures of pop music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 59</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -455,7 +455,7 @@ Pop rock blends the catchy melodies and accessible structures of pop music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 57</li>
+            <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -474,7 +474,7 @@ Pop rock blends the catchy melodies and accessible structures of pop music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 53</li>
+            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -494,7 +494,7 @@ Pop rock blends the catchy melodies and accessible structures of pop music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 46</li>
+            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -514,7 +514,7 @@ Pop rock blends the catchy melodies and accessible structures of pop music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 62</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -539,12 +539,12 @@ Pop rock blends the catchy melodies and accessible structures of pop music with 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 1</li>
+            <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 1</li>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 1</li>
+            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 1</li>
+            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 2</li>
             <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 11</li>
-            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 99</li>
-            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 100</li>
-            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 100</li>
-            <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 100</li>
-            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -566,9 +566,9 @@ Pop rock blends the catchy melodies and accessible structures of pop music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 91</li>
-            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 94</li>
-            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 100</li>
+            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 1</li>
+            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 7</li>
+            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -589,7 +589,7 @@ Pop rock blends the catchy melodies and accessible structures of pop music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 12</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -608,7 +608,7 @@ Pop rock blends the catchy melodies and accessible structures of pop music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/punk-pop" | relative_url }}">punk pop</a> # 56</li>
+            <li> <a href="{{ "/tags/punk-pop" | relative_url }}">punk pop</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -630,8 +630,8 @@ Pop rock blends the catchy melodies and accessible structures of pop music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 94</li>
-            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 95</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 4</li>
+            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -653,8 +653,8 @@ Pop rock blends the catchy melodies and accessible structures of pop music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 43</li>
-            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 93</li>
+            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 8</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -674,7 +674,7 @@ Pop rock blends the catchy melodies and accessible structures of pop music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 50</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -734,10 +734,10 @@ Pop rock blends the catchy melodies and accessible structures of pop music with 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 2</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 5</li>
             <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 10</li>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 40</li>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 96</li>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 99</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -778,9 +778,9 @@ Pop rock blends the catchy melodies and accessible structures of pop music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 88</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 96</li>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 99</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 2</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 4</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -819,10 +819,10 @@ Pop rock blends the catchy melodies and accessible structures of pop music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 29</li>
+            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 14</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 15</li>
             <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 51</li>
-            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 85</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 86</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -859,8 +859,8 @@ Pop rock blends the catchy melodies and accessible structures of pop music with 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 44</li>
             <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 57</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -881,8 +881,8 @@ Pop rock blends the catchy melodies and accessible structures of pop music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 96</li>
-            <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 97</li>
+            <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 4</li>
+            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -903,9 +903,9 @@ Pop rock blends the catchy melodies and accessible structures of pop music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 90</li>
-            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 95</li>
-            <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 100</li>
+            <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 1</li>
+            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 6</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -944,10 +944,10 @@ Pop rock blends the catchy melodies and accessible structures of pop music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 35</li>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 89</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 97</li>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 100</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 1</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 4</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 12</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -969,8 +969,8 @@ Pop rock blends the catchy melodies and accessible structures of pop music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 83</li>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 88</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 13</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -988,10 +988,10 @@ Pop rock blends the catchy melodies and accessible structures of pop music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 5</li>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 15</li>
-            <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 52</li>
-            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 57</li>
+            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 43</li>
+            <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 46</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 85</li>
+            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1053,8 +1053,8 @@ Pop rock blends the catchy melodies and accessible structures of pop music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 50</li>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 90</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 11</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1094,8 +1094,8 @@ Pop rock blends the catchy melodies and accessible structures of pop music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 52</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 85</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 16</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1116,9 +1116,9 @@ Pop rock blends the catchy melodies and accessible structures of pop music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 7</li>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 10</li>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 67</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 34</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 92</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1144,10 +1144,10 @@ Pop rock blends the catchy melodies and accessible structures of pop music with 
       <td>
         <ul>
             <li> <a href="{{ "/tags/doomergaze" | relative_url }}">doomergaze</a> # 6</li>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 16</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 22</li>
-            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 92</li>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 95</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 6</li>
+            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 8</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 79</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1168,10 +1168,10 @@ Pop rock blends the catchy melodies and accessible structures of pop music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 74</li>
-            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 79</li>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 87</li>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 99</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 2</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 14</li>
+            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 20</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1207,8 +1207,8 @@ Pop rock blends the catchy melodies and accessible structures of pop music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 21</li>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 68</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 33</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1230,9 +1230,9 @@ Pop rock blends the catchy melodies and accessible structures of pop music with 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 12</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 24</li>
             <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 33</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 77</li>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1257,10 +1257,10 @@ Pop rock blends the catchy melodies and accessible structures of pop music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 22</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 8</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 13</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 43</li>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 87</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 93</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1301,7 +1301,7 @@ Pop rock blends the catchy melodies and accessible structures of pop music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 45</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1338,10 +1338,10 @@ Pop rock blends the catchy melodies and accessible structures of pop music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 82</li>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 87</li>
-            <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 95</li>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 100</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 1</li>
+            <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 6</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 14</li>
+            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1362,8 +1362,8 @@ Pop rock blends the catchy melodies and accessible structures of pop music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 67</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 81</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 20</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1384,10 +1384,10 @@ Pop rock blends the catchy melodies and accessible structures of pop music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 7</li>
             <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 12</li>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 79</li>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 80</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 21</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 22</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1425,7 +1425,7 @@ Pop rock blends the catchy melodies and accessible structures of pop music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 90</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1481,8 +1481,8 @@ Pop rock blends the catchy melodies and accessible structures of pop music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 41</li>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 74</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 26</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1507,8 +1507,8 @@ Pop rock blends the catchy melodies and accessible structures of pop music with 
       <td>
         <ul>
             <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 2</li>
-            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 89</li>
-            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 98</li>
+            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 3</li>
+            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -1547,13 +1547,13 @@ Pop rock blends the catchy melodies and accessible structures of pop music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 16</li>
-            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 71</li>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 72</li>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 74</li>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 85</li>
-            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 93</li>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 93</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 8</li>
+            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 8</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 15</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 27</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 29</li>
+            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 30</li>
+            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1590,8 +1590,8 @@ Pop rock blends the catchy melodies and accessible structures of pop music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 41</li>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 49</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 52</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1646,7 +1646,7 @@ Pop rock blends the catchy melodies and accessible structures of pop music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 100</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -1665,7 +1665,7 @@ Pop rock blends the catchy melodies and accessible structures of pop music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 13</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1706,8 +1706,8 @@ Pop rock blends the catchy melodies and accessible structures of pop music with 
       <td>
         <ul>
             <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 8</li>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 62</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 91</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 10</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1730,7 +1730,7 @@ Pop rock blends the catchy melodies and accessible structures of pop music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 89</li>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1770,7 +1770,7 @@ Pop rock blends the catchy melodies and accessible structures of pop music with 
       <td>
         <ul>
             <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 26</li>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 34</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1793,10 +1793,10 @@ Pop rock blends the catchy melodies and accessible structures of pop music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 92</li>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 97</li>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 99</li>
-            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 100</li>
+            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 1</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 2</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 4</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1817,7 +1817,7 @@ Pop rock blends the catchy melodies and accessible structures of pop music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 36</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1838,7 +1838,7 @@ Pop rock blends the catchy melodies and accessible structures of pop music with 
       <td>
         <ul>
             <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 32</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 59</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1915,8 +1915,8 @@ Pop rock blends the catchy melodies and accessible structures of pop music with 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 1</li>
             <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 60</li>
-            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1977,8 +1977,8 @@ Pop rock blends the catchy melodies and accessible structures of pop music with 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 1</li>
             <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 15</li>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -2033,14 +2033,14 @@ Pop rock blends the catchy melodies and accessible structures of pop music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 47</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 70</li>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 83</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 89</li>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 95</li>
-            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 99</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 99</li>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 100</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 1</li>
+            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 2</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 2</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 6</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 12</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 18</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 31</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -2061,8 +2061,8 @@ Pop rock blends the catchy melodies and accessible structures of pop music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 51</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 68</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 33</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 50</li>
         </ul>
       </td>
     </tr>

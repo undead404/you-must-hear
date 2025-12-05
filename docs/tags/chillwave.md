@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T07:07:49.430Z
+date: 2025-12-05T13:00:45.889Z
 permalink: tags/chillwave
 title: chillwave
 ---
 
 ## chillwave
 
-Last updated: <time datetime="2025-12-03T07:07:49.430Z">Wed Dec 03 2025 09:07:49 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T13:00:45.889Z">Fri Dec 05 2025 15:00:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -47,8 +47,8 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       <td>
         <ul>
             <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 6</li>
-            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 42</li>
-            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 64</li>
+            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 37</li>
+            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -89,8 +89,8 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 96</li>
-            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 100</li>
+            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 1</li>
+            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -223,8 +223,8 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 10</li>
             <li> <a href="{{ "/tags/broken-beat" | relative_url }}">broken beat</a> # 11</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -298,7 +298,7 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 12</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -374,8 +374,8 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 35</li>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 70</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 31</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -485,7 +485,7 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 73</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -507,8 +507,8 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 32</li>
-            <li> <a href="{{ "/tags/alternative-electronic" | relative_url }}">alternative electronic</a> # 90</li>
+            <li> <a href="{{ "/tags/alternative-electronic" | relative_url }}">alternative electronic</a> # 10</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -583,7 +583,7 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 92</li>
+            <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -621,9 +621,9 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 21</li>
-            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 37</li>
             <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 56</li>
+            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 64</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -690,12 +690,12 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 1</li>
+            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 1</li>
             <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 5</li>
             <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 5</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 49</li>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 81</li>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 100</li>
-            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 100</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 20</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -771,7 +771,7 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 29</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -868,7 +868,7 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 40</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -891,7 +891,7 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 33</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -950,10 +950,10 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 18</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 35</li>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 62</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 65</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 36</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 39</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 66</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -976,8 +976,8 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 46</li>
-            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 59</li>
+            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 41</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1005,12 +1005,12 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       <td>
         <ul>
             <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 1</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 19</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 22</li>
             <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 31</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 39</li>
             <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 47</li>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 62</li>
             <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 77</li>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 79</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1086,7 +1086,7 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 45</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1127,9 +1127,9 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 14</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 82</li>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 98</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 3</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 19</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1191,9 +1191,9 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 5</li>
             <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 12</li>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 47</li>
-            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 95</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1288,7 +1288,7 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 97</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1310,8 +1310,8 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 47</li>
-            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 88</li>
+            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 13</li>
+            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1331,7 +1331,7 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 29</li>
+            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1353,9 +1353,9 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 34</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 38</li>
             <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 58</li>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 59</li>
+            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1470,7 +1470,7 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       <td>
         <ul>
             <li> <a href="{{ "/tags/chillstep" | relative_url }}">chillstep</a> # 1</li>
-            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 96</li>
+            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1513,8 +1513,8 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 27</li>
             <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 63</li>
-            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1629,7 +1629,7 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 26</li>
+            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1653,10 +1653,10 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       <td>
         <ul>
             <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 4</li>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 15</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 37</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 87</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 95</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 6</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 14</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 64</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1760,8 +1760,8 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 27</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 38</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 63</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1808,11 +1808,11 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       <td>
         <ul>
             <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 5</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 16</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 25</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 28</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 28</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 51</li>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 73</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 73</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 76</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1834,7 +1834,7 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 46</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1857,9 +1857,9 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 78</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 79</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 92</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 9</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 22</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1919,7 +1919,7 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 84</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1941,8 +1941,8 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 44</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 59</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 42</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1982,7 +1982,7 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 9</li>
+            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -2001,9 +2001,9 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 37</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 48</li>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 67</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 34</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 53</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -2024,8 +2024,8 @@ Chillwave is a music genre that emerged in the late 2000s and is characterized b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 63</li>
-            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 96</li>
+            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 5</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 38</li>
         </ul>
       </td>
     </tr>

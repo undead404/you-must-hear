@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T06:54:43.993Z
+date: 2025-12-05T12:52:21.444Z
 permalink: tags/screamo
 title: screamo
 ---
 
 ## screamo
 
-Last updated: <time datetime="2025-12-03T06:54:43.993Z">Wed Dec 03 2025 08:54:43 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T12:52:21.444Z">Fri Dec 05 2025 14:52:21 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -42,8 +42,8 @@ Screamo is a subgenre of punk rock and emo music that emerged in the early 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 82</li>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 96</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 5</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -61,8 +61,8 @@ Screamo is a subgenre of punk rock and emo music that emerged in the early 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 57</li>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 60</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 41</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -85,10 +85,10 @@ Screamo is a subgenre of punk rock and emo music that emerged in the early 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 95</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 96</li>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 100</li>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 100</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 1</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 1</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 5</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -106,8 +106,8 @@ Screamo is a subgenre of punk rock and emo music that emerged in the early 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 76</li>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 87</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 14</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -125,8 +125,8 @@ Screamo is a subgenre of punk rock and emo music that emerged in the early 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 73</li>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 81</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 20</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -144,9 +144,9 @@ Screamo is a subgenre of punk rock and emo music that emerged in the early 1990s
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 19</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 27</li>
             <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 62</li>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 74</li>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -164,8 +164,8 @@ Screamo is a subgenre of punk rock and emo music that emerged in the early 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 70</li>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 79</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 22</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -183,8 +183,8 @@ Screamo is a subgenre of punk rock and emo music that emerged in the early 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 68</li>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 71</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 30</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -204,8 +204,8 @@ Screamo is a subgenre of punk rock and emo music that emerged in the early 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 10</li>
-            <li> <a href="{{ "/tags/emoviolence" | relative_url }}">emoviolence</a> # 100</li>
+            <li> <a href="{{ "/tags/emoviolence" | relative_url }}">emoviolence</a> # 1</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -242,7 +242,7 @@ Screamo is a subgenre of punk rock and emo music that emerged in the early 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emoviolence" | relative_url }}">emoviolence</a> # 96</li>
+            <li> <a href="{{ "/tags/emoviolence" | relative_url }}">emoviolence</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -263,7 +263,7 @@ Screamo is a subgenre of punk rock and emo music that emerged in the early 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 75</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -283,7 +283,7 @@ Screamo is a subgenre of punk rock and emo music that emerged in the early 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emoviolence" | relative_url }}">emoviolence</a> # 99</li>
+            <li> <a href="{{ "/tags/emoviolence" | relative_url }}">emoviolence</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -302,7 +302,7 @@ Screamo is a subgenre of punk rock and emo music that emerged in the early 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 40</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -340,7 +340,7 @@ Screamo is a subgenre of punk rock and emo music that emerged in the early 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 88</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -361,7 +361,7 @@ Screamo is a subgenre of punk rock and emo music that emerged in the early 1990s
       <td>
         <ul>
             <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 11</li>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 80</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -440,11 +440,11 @@ Screamo is a subgenre of punk rock and emo music that emerged in the early 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 49</li>
-            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 51</li>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 80</li>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 93</li>
-            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 98</li>
+            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 2</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 8</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 21</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 48</li>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -503,7 +503,7 @@ Screamo is a subgenre of punk rock and emo music that emerged in the early 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 57</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -562,7 +562,7 @@ Screamo is a subgenre of punk rock and emo music that emerged in the early 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 91</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -583,8 +583,8 @@ Screamo is a subgenre of punk rock and emo music that emerged in the early 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 61</li>
-            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 86</li>
+            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 14</li>
+            <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -604,7 +604,7 @@ Screamo is a subgenre of punk rock and emo music that emerged in the early 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 61</li>
+            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -641,33 +641,9 @@ Screamo is a subgenre of punk rock and emo music that emerged in the early 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 30</li>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 34</li>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 46</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>12</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/02eaf41d1d0741e781ebf4d57e9b460b.png" alt="Cover for Define the Great Line" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2006-03-25</td>
-      <td>Underoath</td>
-      <td>Define the Great Line</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
-            <li style="font-size: calc(1rem * 90 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
-            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 23</li>
-            <li> <a href="{{ "/tags/christian-metalcore" | relative_url }}">christian metalcore</a> # 53</li>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 73</li>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 84</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 56</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 65</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -704,7 +680,31 @@ Screamo is a subgenre of punk rock and emo music that emerged in the early 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 23</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 79</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/02eaf41d1d0741e781ebf4d57e9b460b.png" alt="Cover for Define the Great Line" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-06-20</td>
+      <td>Underoath</td>
+      <td>Define the Great Line</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
+            <li style="font-size: calc(1rem * 90 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
+            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 17</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 23</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 27</li>
+            <li> <a href="{{ "/tags/christian-metalcore" | relative_url }}">christian metalcore</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -725,9 +725,9 @@ Screamo is a subgenre of punk rock and emo music that emerged in the early 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 7</li>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 50</li>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 68</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 32</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 51</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -749,7 +749,7 @@ Screamo is a subgenre of punk rock and emo music that emerged in the early 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 46</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -767,8 +767,8 @@ Screamo is a subgenre of punk rock and emo music that emerged in the early 1990s
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 8</li>
             <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 9</li>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -806,9 +806,9 @@ Screamo is a subgenre of punk rock and emo music that emerged in the early 1990s
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 3</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 19</li>
             <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 55</li>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 82</li>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -866,7 +866,7 @@ Screamo is a subgenre of punk rock and emo music that emerged in the early 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 10</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -924,8 +924,8 @@ Screamo is a subgenre of punk rock and emo music that emerged in the early 1990s
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 25</li>
             <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 56</li>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -948,9 +948,9 @@ Screamo is a subgenre of punk rock and emo music that emerged in the early 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 49</li>
-            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 56</li>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 59</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 42</li>
+            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 45</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -988,7 +988,7 @@ Screamo is a subgenre of punk rock and emo music that emerged in the early 1990s
       <td>
         <ul>
             <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 28</li>
-            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 58</li>
+            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 41</li>
             <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 83</li>
             <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 86</li>
         </ul>
@@ -1027,7 +1027,7 @@ Screamo is a subgenre of punk rock and emo music that emerged in the early 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 84</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1047,9 +1047,9 @@ Screamo is a subgenre of punk rock and emo music that emerged in the early 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 49</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 11</li>
+            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 52</li>
             <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 60</li>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1069,7 +1069,7 @@ Screamo is a subgenre of punk rock and emo music that emerged in the early 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 96</li>
+            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1088,15 +1088,15 @@ Screamo is a subgenre of punk rock and emo music that emerged in the early 1990s
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 4</li>
             <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 6</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 10</li>
             <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 15</li>
+            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 19</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 22</li>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 34</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 31</li>
             <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 36</li>
-            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 67</li>
-            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 82</li>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 91</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 96</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1118,8 +1118,8 @@ Screamo is a subgenre of punk rock and emo music that emerged in the early 1990s
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 6</li>
             <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 57</li>
-            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1142,10 +1142,10 @@ Screamo is a subgenre of punk rock and emo music that emerged in the early 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 56</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 7</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 7</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 44</li>
             <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 57</li>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 93</li>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1200,8 +1200,8 @@ Screamo is a subgenre of punk rock and emo music that emerged in the early 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 69</li>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 77</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 24</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1279,8 +1279,8 @@ Screamo is a subgenre of punk rock and emo music that emerged in the early 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 61</li>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 79</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 22</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1304,10 +1304,10 @@ Screamo is a subgenre of punk rock and emo music that emerged in the early 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 18</li>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 26</li>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 84</li>
-            <li> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a> # 89</li>
+            <li> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a> # 12</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 16</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 72</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1327,7 +1327,7 @@ Screamo is a subgenre of punk rock and emo music that emerged in the early 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emoviolence" | relative_url }}">emoviolence</a> # 98</li>
+            <li> <a href="{{ "/tags/emoviolence" | relative_url }}">emoviolence</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1348,7 +1348,7 @@ Screamo is a subgenre of punk rock and emo music that emerged in the early 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 69</li>
+            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1367,7 +1367,7 @@ Screamo is a subgenre of punk rock and emo music that emerged in the early 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 59</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1406,8 +1406,9 @@ Screamo is a subgenre of punk rock and emo music that emerged in the early 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 83</li>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 89</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 11</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 18</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1426,7 +1427,7 @@ Screamo is a subgenre of punk rock and emo music that emerged in the early 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 35</li>
+            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1451,8 +1452,8 @@ Screamo is a subgenre of punk rock and emo music that emerged in the early 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 34</li>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 72</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 29</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1471,7 +1472,7 @@ Screamo is a subgenre of punk rock and emo music that emerged in the early 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emoviolence" | relative_url }}">emoviolence</a> # 58</li>
+            <li> <a href="{{ "/tags/emoviolence" | relative_url }}">emoviolence</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1499,10 +1500,10 @@ Screamo is a subgenre of punk rock and emo music that emerged in the early 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 35</li>
-            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 37</li>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 43</li>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 69</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 32</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 58</li>
+            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 63</li>
+            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1525,7 +1526,7 @@ Screamo is a subgenre of punk rock and emo music that emerged in the early 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 40</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1547,8 +1548,8 @@ Screamo is a subgenre of punk rock and emo music that emerged in the early 1990s
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 4</li>
             <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 10</li>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1573,12 +1574,12 @@ Screamo is a subgenre of punk rock and emo music that emerged in the early 1990s
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 1</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 2</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 10</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 16</li>
             <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 27</li>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 71</li>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 85</li>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 91</li>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 98</li>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 100</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1622,13 +1623,13 @@ Screamo is a subgenre of punk rock and emo music that emerged in the early 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 21</li>
-            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 66</li>
-            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 68</li>
-            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 86</li>
-            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 96</li>
-            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 98</li>
-            <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 98</li>
+            <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 3</li>
+            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 3</li>
+            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 5</li>
+            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 12</li>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 30</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 34</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1653,7 +1654,7 @@ Screamo is a subgenre of punk rock and emo music that emerged in the early 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 76</li>
+            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1694,7 +1695,7 @@ Screamo is a subgenre of punk rock and emo music that emerged in the early 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 32</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 70</li>
             <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 89</li>
         </ul>
       </td>
@@ -1720,7 +1721,7 @@ Screamo is a subgenre of punk rock and emo music that emerged in the early 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 63</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1747,8 +1748,8 @@ Screamo is a subgenre of punk rock and emo music that emerged in the early 1990s
       <td>
         <ul>
             <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 5</li>
-            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 42</li>
-            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 44</li>
+            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 56</li>
+            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1775,13 +1776,13 @@ Screamo is a subgenre of punk rock and emo music that emerged in the early 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 22</li>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 29</li>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 85</li>
-            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 88</li>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 90</li>
-            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 97</li>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 100</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 1</li>
+            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 4</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 11</li>
+            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 12</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 15</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 69</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 79</li>
             <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 100</li>
         </ul>
       </td>
@@ -1809,8 +1810,8 @@ Screamo is a subgenre of punk rock and emo music that emerged in the early 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 72</li>
-            <li> <a href="{{ "/tags/christian-metalcore" | relative_url }}">christian metalcore</a> # 96</li>
+            <li> <a href="{{ "/tags/christian-metalcore" | relative_url }}">christian metalcore</a> # 5</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1831,7 +1832,7 @@ Screamo is a subgenre of punk rock and emo music that emerged in the early 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 65</li>
+            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1850,12 +1851,12 @@ Screamo is a subgenre of punk rock and emo music that emerged in the early 1990s
       <td>
         <ul>
             <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 5</li>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 14</li>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 28</li>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 40</li>
-            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 50</li>
-            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 85</li>
-            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 90</li>
+            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 11</li>
+            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 16</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 49</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 58</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 71</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1882,11 +1883,11 @@ Screamo is a subgenre of punk rock and emo music that emerged in the early 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 48</li>
-            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 71</li>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 77</li>
-            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 88</li>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 90</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 11</li>
+            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 13</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 24</li>
+            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 29</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1908,8 +1909,8 @@ Screamo is a subgenre of punk rock and emo music that emerged in the early 1990s
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/emoviolence" | relative_url }}">emoviolence</a> # 8</li>
             <li> <a href="{{ "/tags/straight-edge" | relative_url }}">straight edge</a> # 13</li>
-            <li> <a href="{{ "/tags/emoviolence" | relative_url }}">emoviolence</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1950,10 +1951,10 @@ Screamo is a subgenre of punk rock and emo music that emerged in the early 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 49</li>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 81</li>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 95</li>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 96</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 4</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 6</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 20</li>
+            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1980,11 +1981,11 @@ Screamo is a subgenre of punk rock and emo music that emerged in the early 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 19</li>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 60</li>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 65</li>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 92</li>
-            <li> <a href="{{ "/tags/christian-metalcore" | relative_url }}">christian metalcore</a> # 99</li>
+            <li> <a href="{{ "/tags/christian-metalcore" | relative_url }}">christian metalcore</a> # 2</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 9</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 35</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 41</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -2006,7 +2007,7 @@ Screamo is a subgenre of punk rock and emo music that emerged in the early 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 98</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -2030,9 +2031,9 @@ Screamo is a subgenre of punk rock and emo music that emerged in the early 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a> # 83</li>
-            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 88</li>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 99</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 2</li>
+            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 12</li>
+            <li> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -2051,10 +2052,10 @@ Screamo is a subgenre of punk rock and emo music that emerged in the early 1990s
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 1</li>
             <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 1</li>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 64</li>
-            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 74</li>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 100</li>
+            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 27</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -2074,7 +2075,7 @@ Screamo is a subgenre of punk rock and emo music that emerged in the early 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 76</li>
+            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -2099,11 +2100,11 @@ Screamo is a subgenre of punk rock and emo music that emerged in the early 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 1</li>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 14</li>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 50</li>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 72</li>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 79</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 21</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 29</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 49</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 83</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -2123,9 +2124,9 @@ Screamo is a subgenre of punk rock and emo music that emerged in the early 1990s
       <td>
         <ul>
             <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 3</li>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 22</li>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 58</li>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 96</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 5</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 43</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -2147,10 +2148,10 @@ Screamo is a subgenre of punk rock and emo music that emerged in the early 1990s
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 3</li>
+            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 4</li>
             <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 4</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 12</li>
-            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 97</li>
-            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -2169,7 +2170,7 @@ Screamo is a subgenre of punk rock and emo music that emerged in the early 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emoviolence" | relative_url }}">emoviolence</a> # 50</li>
+            <li> <a href="{{ "/tags/emoviolence" | relative_url }}">emoviolence</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -2191,7 +2192,7 @@ Screamo is a subgenre of punk rock and emo music that emerged in the early 1990s
       <td>
         <ul>
             <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 3</li>
-            <li> <a href="{{ "/tags/emoviolence" | relative_url }}">emoviolence</a> # 25</li>
+            <li> <a href="{{ "/tags/emoviolence" | relative_url }}">emoviolence</a> # 75</li>
         </ul>
       </td>
     </tr>

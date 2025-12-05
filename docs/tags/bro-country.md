@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T07:07:31.014Z
+date: 2025-12-05T12:58:45.896Z
 permalink: tags/bro-country
 title: bro-country
 ---
 
 ## bro-country
 
-Last updated: <time datetime="2025-12-03T07:07:31.014Z">Wed Dec 03 2025 09:07:31 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T12:58:45.896Z">Fri Dec 05 2025 14:58:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -43,15 +43,15 @@ Bro-country is a modern country music subgenre that emerged in the 2010s, blendi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 16</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 17</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 24</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 33</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 38</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 38</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 40</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 63</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 64</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 68</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 77</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 84</li>
-            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -71,15 +71,15 @@ Bro-country is a modern country music subgenre that emerged in the 2010s, blendi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 10</li>
-            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 13</li>
+            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 17</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 21</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 41</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 48</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 53</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 53</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 54</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 80</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 81</li>
-            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 84</li>
+            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 88</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 91</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 97</li>
         </ul>
       </td>
@@ -99,15 +99,15 @@ Bro-country is a modern country music subgenre that emerged in the 2010s, blendi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 3</li>
-            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 6</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 43</li>
+            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 19</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 25</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 46</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 58</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 58</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 59</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 76</li>
-            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 82</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 89</li>
+            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 95</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -133,12 +133,12 @@ Bro-country is a modern country music subgenre that emerged in the 2010s, blendi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 30</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 39</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 39</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 41</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 61</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 62</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 66</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 71</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 79</li>
         </ul>
       </td>
@@ -165,12 +165,12 @@ Bro-country is a modern country music subgenre that emerged in the 2010s, blendi
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 16</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 16</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 17</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 32</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 35</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 36</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 49</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 64</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -196,13 +196,13 @@ Bro-country is a modern country music subgenre that emerged in the 2010s, blendi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 6</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 6</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 7</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 18</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 21</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 23</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 34</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 78</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -229,12 +229,12 @@ Bro-country is a modern country music subgenre that emerged in the 2010s, blendi
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 11</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 11</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 12</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 28</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 29</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 30</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 43</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 70</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -260,12 +260,12 @@ Bro-country is a modern country music subgenre that emerged in the 2010s, blendi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 34</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 37</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 37</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 39</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 58</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 63</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 64</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 67</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 76</li>
         </ul>
       </td>
@@ -293,12 +293,12 @@ Bro-country is a modern country music subgenre that emerged in the 2010s, blendi
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 8</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 8</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 9</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 20</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 23</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 26</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 39</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 75</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -324,12 +324,12 @@ Bro-country is a modern country music subgenre that emerged in the 2010s, blendi
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 20</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 20</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 21</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 36</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 39</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 41</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 54</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 59</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -355,12 +355,12 @@ Bro-country is a modern country music subgenre that emerged in the 2010s, blendi
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 19</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 19</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 20</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 35</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 38</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 40</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 52</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 60</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -387,11 +387,11 @@ Bro-country is a modern country music subgenre that emerged in the 2010s, blendi
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 35</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 35</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 37</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 38</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 56</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 61</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 66</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 63</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 74</li>
         </ul>
       </td>
@@ -419,12 +419,12 @@ Bro-country is a modern country music subgenre that emerged in the 2010s, blendi
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 21</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 21</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 22</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 37</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 40</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 43</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 55</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 57</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -451,12 +451,12 @@ Bro-country is a modern country music subgenre that emerged in the 2010s, blendi
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 12</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 12</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 13</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 29</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 30</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 31</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 44</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 69</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -482,12 +482,12 @@ Bro-country is a modern country music subgenre that emerged in the 2010s, blendi
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 24</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 24</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 25</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 39</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 43</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 54</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 46</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 58</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -513,12 +513,12 @@ Bro-country is a modern country music subgenre that emerged in the 2010s, blendi
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 22</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 22</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 23</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 38</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 41</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 56</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 44</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 56</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -536,13 +536,13 @@ Bro-country is a modern country music subgenre that emerged in the 2010s, blendi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 41</li>
-            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 46</li>
+            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 21</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 27</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 50</li>
+            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 52</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 60</li>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 60</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 61</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 74</li>
-            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 80</li>
-            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 82</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 94</li>
         </ul>
       </td>
@@ -569,12 +569,12 @@ Bro-country is a modern country music subgenre that emerged in the 2010s, blendi
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 25</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 25</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 26</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 40</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 44</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 52</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 48</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 60</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -601,12 +601,12 @@ Bro-country is a modern country music subgenre that emerged in the 2010s, blendi
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 27</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 27</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 28</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 43</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 47</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 50</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 64</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -646,8 +646,8 @@ Bro-country is a modern country music subgenre that emerged in the 2010s, blendi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 7</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 20</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -672,12 +672,12 @@ Bro-country is a modern country music subgenre that emerged in the 2010s, blendi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 17</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 48</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 48</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 49</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 53</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 68</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 77</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 84</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 93</li>
         </ul>
       </td>
@@ -702,8 +702,8 @@ Bro-country is a modern country music subgenre that emerged in the 2010s, blendi
         <ul>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 9</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 14</li>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 40</li>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 70</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 19</li>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -730,12 +730,12 @@ Bro-country is a modern country music subgenre that emerged in the 2010s, blendi
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 28</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 28</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 29</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 44</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 48</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 49</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 51</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 65</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -837,7 +837,6 @@ Bro-country is a modern country music subgenre that emerged in the 2010s, blendi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -864,12 +863,12 @@ Bro-country is a modern country music subgenre that emerged in the 2010s, blendi
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 9</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 9</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 10</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 22</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 25</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 28</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 40</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 72</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -887,8 +886,6 @@ Bro-country is a modern country music subgenre that emerged in the 2010s, blendi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 5</li>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 58</li>
             <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 78</li>
         </ul>
       </td>
@@ -931,8 +928,8 @@ Bro-country is a modern country music subgenre that emerged in the 2010s, blendi
       <td>
         <ul>
             <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 1</li>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 88</li>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 92</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 6</li>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -952,8 +949,7 @@ Bro-country is a modern country music subgenre that emerged in the 2010s, blendi
       <td>
         <ul>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 10</li>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 54</li>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 74</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1111,8 +1107,8 @@ Bro-country is a modern country music subgenre that emerged in the 2010s, blendi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 39</li>
-            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 61</li>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 62</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 62</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 63</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 81</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 99</li>
@@ -1133,8 +1129,7 @@ Bro-country is a modern country music subgenre that emerged in the 2010s, blendi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 24</li>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 66</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1157,7 +1152,7 @@ Bro-country is a modern country music subgenre that emerged in the 2010s, blendi
       <td>
         <ul>
             <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 13</li>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 45</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1266,14 +1261,14 @@ Bro-country is a modern country music subgenre that emerged in the 2010s, blendi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 1</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 1</li>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 1</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 1</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 5</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 10</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 10</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 10</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 15</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 95</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1300,12 +1295,12 @@ Bro-country is a modern country music subgenre that emerged in the 2010s, blendi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 18</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 47</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 47</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 48</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 54</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 67</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 76</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 83</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 91</li>
         </ul>
       </td>
@@ -1324,8 +1319,6 @@ Bro-country is a modern country music subgenre that emerged in the 2010s, blendi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 2</li>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 56</li>
             <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 83</li>
         </ul>
       </td>
@@ -1397,8 +1390,8 @@ Bro-country is a modern country music subgenre that emerged in the 2010s, blendi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 37</li>
-            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 63</li>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 64</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 64</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 65</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 88</li>
         </ul>
@@ -1418,7 +1411,6 @@ Bro-country is a modern country music subgenre that emerged in the 2010s, blendi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1436,8 +1428,7 @@ Bro-country is a modern country music subgenre that emerged in the 2010s, blendi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 41</li>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 71</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1463,8 +1454,8 @@ Bro-country is a modern country music subgenre that emerged in the 2010s, blendi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 33</li>
-            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 66</li>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 68</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 68</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 70</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 91</li>
         </ul>
@@ -1494,12 +1485,12 @@ Bro-country is a modern country music subgenre that emerged in the 2010s, blendi
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 17</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 17</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 18</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 33</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 36</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 37</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 50</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 63</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1526,12 +1517,12 @@ Bro-country is a modern country music subgenre that emerged in the 2010s, blendi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 34</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 34</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 36</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 40</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 54</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 60</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 67</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 61</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 73</li>
         </ul>
       </td>
@@ -1595,12 +1586,12 @@ Bro-country is a modern country music subgenre that emerged in the 2010s, blendi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 14</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 50</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 50</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 51</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 51</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 70</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 78</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 87</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 95</li>
         </ul>
       </td>
@@ -1628,12 +1619,12 @@ Bro-country is a modern country music subgenre that emerged in the 2010s, blendi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 9</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 47</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 54</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 54</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 55</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 74</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 83</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 92</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 99</li>
         </ul>
       </td>
@@ -1707,12 +1698,12 @@ Bro-country is a modern country music subgenre that emerged in the 2010s, blendi
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 10</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 10</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 11</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 27</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 27</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 29</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 42</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 71</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1740,12 +1731,12 @@ Bro-country is a modern country music subgenre that emerged in the 2010s, blendi
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 29</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 29</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 31</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 45</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 46</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 50</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 54</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 66</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1772,12 +1763,12 @@ Bro-country is a modern country music subgenre that emerged in the 2010s, blendi
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 5</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 5</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 6</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 16</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 16</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 16</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 17</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 27</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 84</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1804,11 +1795,11 @@ Bro-country is a modern country music subgenre that emerged in the 2010s, blendi
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 33</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 33</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 35</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 41</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 52</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 57</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 68</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 59</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 71</li>
         </ul>
       </td>
@@ -1827,9 +1818,8 @@ Bro-country is a modern country music subgenre that emerged in the 2010s, blendi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 68</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 24</li>
             <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 87</li>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1857,12 +1847,12 @@ Bro-country is a modern country music subgenre that emerged in the 2010s, blendi
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 30</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 30</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 32</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 45</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 48</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 52</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 55</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 67</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1889,8 +1879,8 @@ Bro-country is a modern country music subgenre that emerged in the 2010s, blendi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 34</li>
-            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 69</li>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 67</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 67</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 69</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 90</li>
         </ul>
@@ -1919,8 +1909,8 @@ Bro-country is a modern country music subgenre that emerged in the 2010s, blendi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 32</li>
-            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 67</li>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 69</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 69</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 71</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 92</li>
         </ul>
@@ -1945,7 +1935,7 @@ Bro-country is a modern country music subgenre that emerged in the 2010s, blendi
       <td>
         <ul>
             <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 24</li>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 30</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1972,8 +1962,8 @@ Bro-country is a modern country music subgenre that emerged in the 2010s, blendi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 30</li>
-            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 70</li>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 71</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 71</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 73</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 95</li>
         </ul>
@@ -1993,7 +1983,6 @@ Bro-country is a modern country music subgenre that emerged in the 2010s, blendi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 48</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 55</li>
         </ul>
       </td>
@@ -2021,14 +2010,14 @@ Bro-country is a modern country music subgenre that emerged in the 2010s, blendi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 2</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 2</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 2</li>
-            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 13</li>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 2</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 13</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 13</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 13</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 19</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 58</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 87</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -2055,13 +2044,13 @@ Bro-country is a modern country music subgenre that emerged in the 2010s, blendi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 14</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 14</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 15</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 31</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 34</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 34</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 47</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 66</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -2088,13 +2077,13 @@ Bro-country is a modern country music subgenre that emerged in the 2010s, blendi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 26</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 26</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 27</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 42</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 46</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 51</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 49</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 62</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -2122,12 +2111,12 @@ Bro-country is a modern country music subgenre that emerged in the 2010s, blendi
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 31</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 31</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 33</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 44</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 49</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 53</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 56</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 69</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -2154,12 +2143,12 @@ Bro-country is a modern country music subgenre that emerged in the 2010s, blendi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 5</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 45</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 56</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 56</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 57</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 76</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 86</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -2185,7 +2174,7 @@ Bro-country is a modern country music subgenre that emerged in the 2010s, blendi
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 7</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 8</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 11</li>
-            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 71</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -2235,7 +2224,7 @@ Bro-country is a modern country music subgenre that emerged in the 2010s, blendi
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 5</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 5</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 7</li>
-            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 77</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -2261,7 +2250,7 @@ Bro-country is a modern country music subgenre that emerged in the 2010s, blendi
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 6</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 6</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 8</li>
-            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 74</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -2282,7 +2271,7 @@ Bro-country is a modern country music subgenre that emerged in the 2010s, blendi
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 1</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 1</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 2</li>
-            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 95</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -2308,7 +2297,7 @@ Bro-country is a modern country music subgenre that emerged in the 2010s, blendi
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 8</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 9</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 13</li>
-            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 70</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -2377,7 +2366,7 @@ Bro-country is a modern country music subgenre that emerged in the 2010s, blendi
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 4</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 4</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 6</li>
-            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 78</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -2398,7 +2387,7 @@ Bro-country is a modern country music subgenre that emerged in the 2010s, blendi
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 3</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 3</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 5</li>
-            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 81</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -2420,8 +2409,8 @@ Bro-country is a modern country music subgenre that emerged in the 2010s, blendi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 55</li>
-            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 84</li>
+            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 17</li>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -2439,7 +2428,7 @@ Bro-country is a modern country music subgenre that emerged in the 2010s, blendi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 88</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -2457,9 +2446,8 @@ Bro-country is a modern country music subgenre that emerged in the 2010s, blendi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 30</li>
             <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 61</li>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 68</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -2485,7 +2473,7 @@ Bro-country is a modern country music subgenre that emerged in the 2010s, blendi
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 2</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 2</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 4</li>
-            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 82</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -2511,7 +2499,7 @@ Bro-country is a modern country music subgenre that emerged in the 2010s, blendi
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 11</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 12</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 17</li>
-            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 58</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -2552,8 +2540,8 @@ Bro-country is a modern country music subgenre that emerged in the 2010s, blendi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 55</li>
             <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 67</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -2575,8 +2563,8 @@ Bro-country is a modern country music subgenre that emerged in the 2010s, blendi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 92</li>
-            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 96</li>
+            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 5</li>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -2594,7 +2582,7 @@ Bro-country is a modern country music subgenre that emerged in the 2010s, blendi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 89</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 27</li>
         </ul>
       </td>
     </tr>
