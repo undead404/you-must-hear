@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-27T00:18:08.098Z
+date: 2025-12-04T16:52:13.830Z
 permalink: tags/garage
 title: garage
 ---
 
 ## garage
 
-Last updated: <time datetime="2025-11-27T00:18:08.098Z">Thu Nov 27 2025 02:18:08 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T16:52:13.830Z">Thu Dec 04 2025 18:52:13 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -47,7 +47,7 @@ Garage is a raw, energetic genre rooted in lo-fi rock and punk aesthetics, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/proto-punk" | relative_url }}">proto-punk</a> # 40</li>
+            <li> <a href="{{ "/tags/proto-punk" | relative_url }}">proto-punk</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -69,7 +69,7 @@ Garage is a raw, energetic genre rooted in lo-fi rock and punk aesthetics, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 56</li>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -144,7 +144,7 @@ Garage is a raw, energetic genre rooted in lo-fi rock and punk aesthetics, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/proto-punk" | relative_url }}">proto-punk</a> # 67</li>
+            <li> <a href="{{ "/tags/proto-punk" | relative_url }}">proto-punk</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -225,8 +225,8 @@ Garage is a raw, energetic genre rooted in lo-fi rock and punk aesthetics, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 77</li>
-            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 89</li>
+            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 12</li>
+            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -280,7 +280,7 @@ Garage is a raw, energetic genre rooted in lo-fi rock and punk aesthetics, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 61</li>
+            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -302,7 +302,7 @@ Garage is a raw, energetic genre rooted in lo-fi rock and punk aesthetics, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 58</li>
+            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -322,7 +322,7 @@ Garage is a raw, energetic genre rooted in lo-fi rock and punk aesthetics, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 4</li>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -395,7 +395,7 @@ Garage is a raw, energetic genre rooted in lo-fi rock and punk aesthetics, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 78</li>
+            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -620,7 +620,7 @@ Garage is a raw, energetic genre rooted in lo-fi rock and punk aesthetics, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 95</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -659,7 +659,7 @@ Garage is a raw, energetic genre rooted in lo-fi rock and punk aesthetics, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 42</li>
+            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -680,7 +680,7 @@ Garage is a raw, energetic genre rooted in lo-fi rock and punk aesthetics, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 41</li>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -719,7 +719,7 @@ Garage is a raw, energetic genre rooted in lo-fi rock and punk aesthetics, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 20</li>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -740,7 +740,7 @@ Garage is a raw, energetic genre rooted in lo-fi rock and punk aesthetics, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/proto-punk" | relative_url }}">proto-punk</a> # 68</li>
+            <li> <a href="{{ "/tags/proto-punk" | relative_url }}">proto-punk</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -798,7 +798,7 @@ Garage is a raw, energetic genre rooted in lo-fi rock and punk aesthetics, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 59</li>
+            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -818,8 +818,8 @@ Garage is a raw, energetic genre rooted in lo-fi rock and punk aesthetics, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 2</li>
             <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 43</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -839,7 +839,7 @@ Garage is a raw, energetic genre rooted in lo-fi rock and punk aesthetics, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 19</li>
+            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -900,7 +900,7 @@ Garage is a raw, energetic genre rooted in lo-fi rock and punk aesthetics, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 55</li>
+            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -923,7 +923,7 @@ Garage is a raw, energetic genre rooted in lo-fi rock and punk aesthetics, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 76</li>
+            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1028,8 +1028,8 @@ Garage is a raw, energetic genre rooted in lo-fi rock and punk aesthetics, chara
         <ul>
             <li> <a href="{{ "/tags/psychobilly" | relative_url }}">psychobilly</a> # 1</li>
             <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 13</li>
-            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 58</li>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 85</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 16</li>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1146,7 +1146,7 @@ Garage is a raw, energetic genre rooted in lo-fi rock and punk aesthetics, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/proto-punk" | relative_url }}">proto-punk</a> # 44</li>
+            <li> <a href="{{ "/tags/proto-punk" | relative_url }}">proto-punk</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1186,7 +1186,7 @@ Garage is a raw, energetic genre rooted in lo-fi rock and punk aesthetics, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 53</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1226,9 +1226,9 @@ Garage is a raw, energetic genre rooted in lo-fi rock and punk aesthetics, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 77</li>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 21</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 23</li>
             <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 79</li>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1271,7 +1271,7 @@ Garage is a raw, energetic genre rooted in lo-fi rock and punk aesthetics, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 60</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1308,7 +1308,7 @@ Garage is a raw, energetic genre rooted in lo-fi rock and punk aesthetics, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 7</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1335,10 +1335,10 @@ Garage is a raw, energetic genre rooted in lo-fi rock and punk aesthetics, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 85</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 89</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 93</li>
-            <li> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a> # 94</li>
+            <li> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a> # 7</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 8</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 12</li>
+            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1375,7 +1375,7 @@ Garage is a raw, energetic genre rooted in lo-fi rock and punk aesthetics, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 75</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1415,7 +1415,7 @@ Garage is a raw, energetic genre rooted in lo-fi rock and punk aesthetics, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 15</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1474,7 +1474,7 @@ Garage is a raw, energetic genre rooted in lo-fi rock and punk aesthetics, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 61</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1496,7 +1496,7 @@ Garage is a raw, energetic genre rooted in lo-fi rock and punk aesthetics, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 93</li>
+            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1535,12 +1535,12 @@ Garage is a raw, energetic genre rooted in lo-fi rock and punk aesthetics, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 64</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 67</li>
-            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 68</li>
-            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 71</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 76</li>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 91</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 10</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 25</li>
+            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 30</li>
+            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 33</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 34</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1635,12 +1635,12 @@ Garage is a raw, energetic genre rooted in lo-fi rock and punk aesthetics, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 10</li>
-            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 25</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 23</li>
             <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 39</li>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 53</li>
-            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 53</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 78</li>
+            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 48</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 48</li>
+            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 76</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1660,8 +1660,8 @@ Garage is a raw, energetic genre rooted in lo-fi rock and punk aesthetics, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 40</li>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 68</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 33</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1700,7 +1700,7 @@ Garage is a raw, energetic genre rooted in lo-fi rock and punk aesthetics, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 91</li>
+            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1720,12 +1720,12 @@ Garage is a raw, energetic genre rooted in lo-fi rock and punk aesthetics, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 37</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 44</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 51</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 73</li>
-            <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 86</li>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 99</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 2</li>
+            <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 15</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 28</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 50</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 57</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1746,7 +1746,7 @@ Garage is a raw, energetic genre rooted in lo-fi rock and punk aesthetics, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 81</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1827,8 +1827,8 @@ Garage is a raw, energetic genre rooted in lo-fi rock and punk aesthetics, chara
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 42</li>
             <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 50</li>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 59</li>
             <li> <a href="{{ "/tags/deep-dubstep" | relative_url }}">deep dubstep</a> # 98</li>
         </ul>
       </td>
@@ -1857,10 +1857,10 @@ Garage is a raw, energetic genre rooted in lo-fi rock and punk aesthetics, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 35</li>
-            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 76</li>
-            <li> <a href="{{ "/tags/drumstep" | relative_url }}">drumstep</a> # 77</li>
-            <li> <a href="{{ "/tags/juke" | relative_url }}">juke</a> # 90</li>
+            <li> <a href="{{ "/tags/juke" | relative_url }}">juke</a> # 10</li>
+            <li> <a href="{{ "/tags/drumstep" | relative_url }}">drumstep</a> # 24</li>
+            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 25</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1993,7 +1993,7 @@ Garage is a raw, energetic genre rooted in lo-fi rock and punk aesthetics, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 98</li>
+            <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -2035,8 +2035,8 @@ Garage is a raw, energetic genre rooted in lo-fi rock and punk aesthetics, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 3</li>
             <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 94</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -2057,7 +2057,7 @@ Garage is a raw, energetic genre rooted in lo-fi rock and punk aesthetics, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 47</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -2082,8 +2082,8 @@ Garage is a raw, energetic genre rooted in lo-fi rock and punk aesthetics, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 56</li>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 57</li>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 43</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 45</li>
         </ul>
       </td>
     </tr>

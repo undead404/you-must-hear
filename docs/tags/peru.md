@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T09:11:51.023Z
+date: 2025-12-04T16:19:10.645Z
 permalink: tags/peru
 title: peru
 ---
 
 ## peru
 
-Last updated: <time datetime="2025-10-22T09:11:51.023Z">Wed Oct 22 2025 12:11:51 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-04T16:19:10.645Z">Thu Dec 04 2025 18:19:10 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -43,7 +43,7 @@ The Peru tag encompasses the diverse musical landscape of Peruvian culture, blen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a> # 12</li>
+            <li> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -82,7 +82,7 @@ The Peru tag encompasses the diverse musical landscape of Peruvian culture, blen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a> # 30</li>
+            <li> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -143,7 +143,7 @@ The Peru tag encompasses the diverse musical landscape of Peruvian culture, blen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a> # 26</li>
+            <li> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -163,7 +163,7 @@ The Peru tag encompasses the diverse musical landscape of Peruvian culture, blen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a> # 33</li>
+            <li> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -183,7 +183,7 @@ The Peru tag encompasses the diverse musical landscape of Peruvian culture, blen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a> # 43</li>
+            <li> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -204,7 +204,7 @@ The Peru tag encompasses the diverse musical landscape of Peruvian culture, blen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a> # 42</li>
+            <li> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -243,7 +243,7 @@ The Peru tag encompasses the diverse musical landscape of Peruvian culture, blen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a> # 60</li>
+            <li> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -269,6 +269,7 @@ The Peru tag encompasses the diverse musical landscape of Peruvian culture, blen
     <tr>
       <td>11</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/845ffb74dbcd4b9cc6c7224e5fadf9e4.png" alt="Cover for Music of Peru" style="max-width:120px; height:auto;" />
       </td>
       <td>1977</td>
       <td>Various Artists</td>
@@ -362,8 +363,8 @@ The Peru tag encompasses the diverse musical landscape of Peruvian culture, blen
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/natal" | relative_url }}">natal</a> # 29</li>
             <li> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a> # 58</li>
-            <li> <a href="{{ "/tags/natal" | relative_url }}">natal</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -384,8 +385,8 @@ The Peru tag encompasses the diverse musical landscape of Peruvian culture, blen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a> # 11</li>
             <li> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a> # 88</li>
+            <li> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -430,7 +431,7 @@ The Peru tag encompasses the diverse musical landscape of Peruvian culture, blen
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/mNIhhTKQAC-32LX-LkURdjB1jnP1pVGxeIn_daJx6GI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNjky/MzMtMTQwMTc3MDY1/Mi04ODkzLmpwZWc.jpeg" alt="Cover for Cada canción con su razón" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4dfa30ed5ced4d72ab533bae58595ce0.png" alt="Cover for Cada canción con su razón" style="max-width:120px; height:auto;" />
       </td>
       <td>1981</td>
       <td>Chabuca Granda</td>
@@ -520,15 +521,15 @@ The Peru tag encompasses the diverse musical landscape of Peruvian culture, blen
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/natal" | relative_url }}">natal</a> # 16</li>
             <li> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a> # 72</li>
-            <li> <a href="{{ "/tags/natal" | relative_url }}">natal</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>65</td>
       <td>
-          <img src="https://i.discogs.com/5JeFy2UY8DmEXBUQcnCuXrnrp9NabKHDxMWgwJR_n_A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTUw/OTQ3LTE1MDcwNjU0/MTgtNjYwOC5qcGVn.jpeg" alt="Cover for Frágil" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/056ff4b2276cda47e598d98edd97cbc6.png" alt="Cover for Frágil" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>Frágil</td>
@@ -547,11 +548,11 @@ The Peru tag encompasses the diverse musical landscape of Peruvian culture, blen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 2</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 34</li>
-            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 57</li>
-            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 69</li>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 32</li>
+            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 43</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 66</li>
             <li> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a> # 80</li>
+            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -572,7 +573,7 @@ The Peru tag encompasses the diverse musical landscape of Peruvian culture, blen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/natal" | relative_url }}">natal</a> # 95</li>
+            <li> <a href="{{ "/tags/natal" | relative_url }}">natal</a> # 6</li>
             <li> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a> # 96</li>
         </ul>
       </td>
@@ -603,9 +604,9 @@ The Peru tag encompasses the diverse musical landscape of Peruvian culture, blen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 14</li>
-            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 58</li>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 43</li>
             <li> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a> # 74</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -631,9 +632,9 @@ The Peru tag encompasses the diverse musical landscape of Peruvian culture, blen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 15</li>
+            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 16</li>
+            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 24</li>
             <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 36</li>
-            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -712,7 +713,7 @@ The Peru tag encompasses the diverse musical landscape of Peruvian culture, blen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/flute" | relative_url }}">flute</a> # 23</li>
+            <li> <a href="{{ "/tags/flute" | relative_url }}">flute</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -751,7 +752,7 @@ The Peru tag encompasses the diverse musical landscape of Peruvian culture, blen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternativo" | relative_url }}">alternativo</a> # 44</li>
+            <li> <a href="{{ "/tags/alternativo" | relative_url }}">alternativo</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -892,6 +893,7 @@ The Peru tag encompasses the diverse musical landscape of Peruvian culture, blen
     <tr>
       <td>83</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d81f5b8c54c00a219681948d16885b0b.png" alt="Cover for Lamento Negro" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Susana Baca</td>
@@ -979,7 +981,7 @@ The Peru tag encompasses the diverse musical landscape of Peruvian culture, blen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternativo" | relative_url }}">alternativo</a> # 59</li>
+            <li> <a href="{{ "/tags/alternativo" | relative_url }}">alternativo</a> # 42</li>
             <li> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a> # 81</li>
         </ul>
       </td>
@@ -1045,11 +1047,11 @@ The Peru tag encompasses the diverse musical landscape of Peruvian culture, blen
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 25</li>
+            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 27</li>
             <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 28</li>
-            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 42</li>
-            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 66</li>
-            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 73</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 75</li>
+            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 35</li>
+            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1170,8 +1172,8 @@ The Peru tag encompasses the diverse musical landscape of Peruvian culture, blen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 48</li>
-            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 59</li>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 42</li>
+            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 52</li>
             <li> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a> # 75</li>
         </ul>
       </td>
@@ -1406,7 +1408,7 @@ The Peru tag encompasses the diverse musical landscape of Peruvian culture, blen
     <tr>
       <td>80</td>
       <td>
-          <img src="https://i.discogs.com/XPmKLFBpAPLF6I_thfJMCXjtaVp31iqmBemHUU5Geg4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDc2/NTMyLTE0OTExOTUw/MjYtMTg4Ni5qcGVn.jpeg" alt="Cover for Alma Corazón Y Vida" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dee9d156048685ba9f78b639ec1f1355.png" alt="Cover for Alma Corazón Y Vida" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-11-27</td>
       <td>Norick</td>
@@ -1445,6 +1447,7 @@ The Peru tag encompasses the diverse musical landscape of Peruvian culture, blen
     <tr>
       <td>23</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f6b04cf34f114201c219f316fe0837a2.png" alt="Cover for Pornoise" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-04-07</td>
       <td>Hexis</td>
@@ -1468,7 +1471,6 @@ The Peru tag encompasses the diverse musical landscape of Peruvian culture, blen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 2</li>
             <li> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a> # 45</li>
         </ul>
       </td>
@@ -1476,7 +1478,6 @@ The Peru tag encompasses the diverse musical landscape of Peruvian culture, blen
     <tr>
       <td>5</td>
       <td>
-          <img src="https://i.discogs.com/qcJE0H82OVc0M8m35zYHTHdkM0aJ75guS9RgCNVQEm0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NTg2/ODctMTM3NDU5MTc0/MS05MTMwLmpwZWc.jpeg" alt="Cover for Peruvianfreaks" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-04-07</td>
       <td>Hexis</td>
@@ -1499,6 +1500,7 @@ The Peru tag encompasses the diverse musical landscape of Peruvian culture, blen
     <tr>
       <td>98</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/426bd613666c4f80a0e904c53e3f5b36.png" alt="Cover for Caídas y Vueltas" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-07-19</td>
       <td>Procrastinación 1 Yo 0</td>
@@ -1538,7 +1540,7 @@ The Peru tag encompasses the diverse musical landscape of Peruvian culture, blen
     <tr>
       <td>9</td>
       <td>
-          <img src="https://i.discogs.com/dA9n-DTkrEaQkCkoa1iucBzLoQsoBPINx64ddRc4Zek/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzUz/NzI3LTE1NjA0NzY5/NjgtMTg2Ni5qcGVn.jpeg" alt="Cover for Rockstar Rebelion" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/774f0a490ab0491d98d4ef6ea6674770.png" alt="Cover for Rockstar Rebelion" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-12</td>
       <td>Ni Voz Ni Voto</td>
@@ -1632,9 +1634,9 @@ The Peru tag encompasses the diverse musical landscape of Peruvian culture, blen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 5</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 34</li>
             <li> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a> # 56</li>
-            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 69</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1654,7 +1656,7 @@ The Peru tag encompasses the diverse musical landscape of Peruvian culture, blen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a> # 81</li>
+            <li> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1748,7 +1750,7 @@ The Peru tag encompasses the diverse musical landscape of Peruvian culture, blen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a> # 86</li>
+            <li> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1810,7 +1812,7 @@ The Peru tag encompasses the diverse musical landscape of Peruvian culture, blen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 57</li>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1830,7 +1832,7 @@ The Peru tag encompasses the diverse musical landscape of Peruvian culture, blen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a> # 55</li>
+            <li> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1875,7 +1877,7 @@ The Peru tag encompasses the diverse musical landscape of Peruvian culture, blen
     <tr>
       <td>77</td>
       <td>
-          <img src="https://i.discogs.com/Escp5Qh1OcapgOkDvc6cUadeVLsDrbUdDpkVnSswd08/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTk5/Njg1LTE2NTU0MzY5/MDEtODU2MC5qcGVn.jpeg" alt="Cover for Isqun" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b79c6359082eece13f38730872db4a06.png" alt="Cover for Isqun" style="max-width:120px; height:auto;" />
       </td>
       <td>2021</td>
       <td>Renata Flores</td>
@@ -1897,6 +1899,7 @@ The Peru tag encompasses the diverse musical landscape of Peruvian culture, blen
     <tr>
       <td>24</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/129059ad5e62a9e9c6682f9ca4f17f7d.png" alt="Cover for Huayno Music Of Peru - Vol. 1" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-04-14</td>
       <td>Various Artists</td>
@@ -2028,6 +2031,7 @@ The Peru tag encompasses the diverse musical landscape of Peruvian culture, blen
     <tr>
       <td>96</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8d1a5dd02a46b36e2285a09dfbca9737.png" alt="Cover for Ese Hijo De Puta Se Mete Vidrio" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Mi Mochila Huele A Semen</td>

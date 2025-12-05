@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-27T00:02:37.990Z
+date: 2025-12-04T16:19:16.713Z
 permalink: tags/memphis-rap
 title: memphis rap
 ---
 
 ## memphis rap
 
-Last updated: <time datetime="2025-11-27T00:02:37.990Z">Thu Nov 27 2025 02:02:37 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T16:19:16.713Z">Thu Dec 04 2025 18:19:16 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -66,7 +66,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 17</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 84</li>
             <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 85</li>
             <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 92</li>
         </ul>
@@ -144,7 +144,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       <td>
         <ul>
             <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 42</li>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 52</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -164,7 +164,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 84</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -275,8 +275,8 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a> # 30</li>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 44</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 54</li>
+            <li> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -369,8 +369,8 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 44</li>
-            <li> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a> # 82</li>
+            <li> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a> # 19</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -410,8 +410,8 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 41</li>
             <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 51</li>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -483,8 +483,8 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 18</li>
             <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 72</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -508,8 +508,8 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 35</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 58</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 43</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 66</li>
             <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 80</li>
         </ul>
       </td>
@@ -529,7 +529,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a> # 54</li>
+            <li> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -552,9 +552,9 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 1</li>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 55</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 46</li>
             <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 62</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -573,7 +573,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 30</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -632,7 +632,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 32</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -671,7 +671,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a> # 34</li>
+            <li> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -690,9 +690,9 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 18</li>
             <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 27</li>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 28</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 73</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -771,7 +771,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 12</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -789,9 +789,9 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 14</li>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 51</li>
-            <li> <a href="{{ "/tags/chopped-and-screwed" | relative_url }}">chopped and screwed</a> # 91</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 47</li>
+            <li> <a href="{{ "/tags/chopped-and-screwed" | relative_url }}">chopped and screwed</a> # 65</li>
+            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -849,11 +849,11 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 29</li>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 34</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 39</li>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 50</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 61</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 40</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 48</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 62</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 67</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -946,7 +946,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a> # 84</li>
+            <li> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -965,7 +965,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       <td>
         <ul>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 37</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 44</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -984,10 +984,10 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 11</li>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 33</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 41</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 77</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 24</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 60</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 68</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1005,9 +1005,9 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 5</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 18</li>
             <li> <a href="{{ "/tags/black-ambient" | relative_url }}">black ambient</a> # 32</li>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 83</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1047,7 +1047,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 7</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1072,7 +1072,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 1</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1092,11 +1092,11 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 15</li>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 65</li>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 68</li>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 77</li>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 89</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 10</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 24</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 33</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 36</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1120,8 +1120,8 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 12</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 66</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 35</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1161,10 +1161,10 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 45</li>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 48</li>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 52</li>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 68</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 29</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 49</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 52</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1186,8 +1186,8 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 22</li>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 86</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 15</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1229,8 +1229,8 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 60</li>
-            <li> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a> # 80</li>
+            <li> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a> # 21</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1255,10 +1255,10 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 69</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 73</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 85</li>
-            <li> <a href="{{ "/tags/chopped-and-screwed" | relative_url }}">chopped and screwed</a> # 100</li>
+            <li> <a href="{{ "/tags/chopped-and-screwed" | relative_url }}">chopped and screwed</a> # 1</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 16</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 28</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1276,7 +1276,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 86</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1296,7 +1296,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 49</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1316,7 +1316,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 65</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1334,7 +1334,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chopped-and-screwed" | relative_url }}">chopped and screwed</a> # 98</li>
+            <li> <a href="{{ "/tags/chopped-and-screwed" | relative_url }}">chopped and screwed</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1489,7 +1489,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 26</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1507,7 +1507,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 70</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1548,10 +1548,10 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 26</li>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 62</li>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 93</li>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 99</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 2</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 8</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 39</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1569,7 +1569,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chopped-and-screwed" | relative_url }}">chopped and screwed</a> # 96</li>
+            <li> <a href="{{ "/tags/chopped-and-screwed" | relative_url }}">chopped and screwed</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1594,7 +1594,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 2</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1631,8 +1631,8 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 7</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 13</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 88</li>
+            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1694,7 +1694,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 46</li>
+            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1751,7 +1751,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 32</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1770,8 +1770,8 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 24</li>
             <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 59</li>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1792,7 +1792,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a> # 61</li>
+            <li> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1814,9 +1814,9 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 34</li>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 40</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 61</li>
             <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 63</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1834,8 +1834,8 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 36</li>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 62</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 35</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1854,9 +1854,9 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 23</li>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 46</li>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 60</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 41</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 55</li>
+            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1873,7 +1873,7 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 96</li>
+            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1896,8 +1896,8 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 66</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 86</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 15</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1918,9 +1918,9 @@ Memphis rap, also known as Memphis hip hop or Memphis horrorcore, is a subgenre 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 92</li>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 98</li>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 98</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 3</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 3</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 9</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T09:13:18.842Z
+date: 2025-12-04T16:51:58.106Z
 permalink: tags/swedish-punk
 title: swedish punk
 ---
 
 ## swedish punk
 
-Last updated: <time datetime="2025-10-22T09:13:18.842Z">Wed Oct 22 2025 12:13:18 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-04T16:51:58.106Z">Thu Dec 04 2025 18:51:58 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,7 +31,7 @@ Swedish punk emerged in the late 1970s as a raw, politically charged movement th
     <tr>
       <td>17</td>
       <td>
-          <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for Punksvall 1979-80" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a7f6d151d1ad12e51d948ea2808ce5e8.png" alt="Cover for Punksvall 1979-80" style="max-width:120px; height:auto;" />
       </td>
       <td>1972</td>
       <td>Various Artists</td>
@@ -50,6 +50,7 @@ Swedish punk emerged in the late 1970s as a raw, politically charged movement th
     <tr>
       <td>1</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/68a5eae4d93e144ff82da92adee53061.png" alt="Cover for Äggröran 3" style="max-width:120px; height:auto;" />
       </td>
       <td>1977</td>
       <td>Various Artists</td>
@@ -68,7 +69,7 @@ Swedish punk emerged in the late 1970s as a raw, politically charged movement th
     <tr>
       <td>67</td>
       <td>
-          <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for Umeå vråljazz giganter" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f47f92a326854032b617009c6f3abcc4.png" alt="Cover for Umeå vråljazz giganter" style="max-width:120px; height:auto;" />
       </td>
       <td>1977</td>
       <td>Various Artists</td>
@@ -122,6 +123,7 @@ Swedish punk emerged in the late 1970s as a raw, politically charged movement th
     <tr>
       <td>54</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/04c90b2fe4c9177acc18d150cf852854.png" alt="Cover for Problem" style="max-width:120px; height:auto;" />
       </td>
       <td>1978</td>
       <td>Problem</td>
@@ -260,7 +262,7 @@ Swedish punk emerged in the late 1970s as a raw, politically charged movement th
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/1f5NovzGATaDBCqlFB16vBFLlJlcDA5o7pmO6VCWCrE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDQ0/ODEzLTE1MDg4MzE0/ODAtNDI3NC5qcGVn.jpeg" alt="Cover for Aktion" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/10ee188fe924d31861d63e354f40832a.png" alt="Cover for Aktion" style="max-width:120px; height:auto;" />
       </td>
       <td>1980</td>
       <td>KSMB</td>
@@ -279,6 +281,7 @@ Swedish punk emerged in the late 1970s as a raw, politically charged movement th
     <tr>
       <td>12</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2395eba2f79cfd95a6ab9c0a6d017b29.png" alt="Cover for Blixtar" style="max-width:120px; height:auto;" />
       </td>
       <td>1981</td>
       <td>City Kent</td>
@@ -297,7 +300,7 @@ Swedish punk emerged in the late 1970s as a raw, politically charged movement th
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/-D59UntkRT7cDTDS2kOmEH7FJBDcYId0d2XGpO30-Mo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDYx/MjctMTE4NzczMzIw/Mi5qcGVn.jpeg" alt="Cover for Rika barn leka bäst" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e86c4d8093153efe63480fee91d089a.png" alt="Cover for Rika barn leka bäst" style="max-width:120px; height:auto;" />
       </td>
       <td>1981</td>
       <td>KSMB</td>
@@ -388,6 +391,7 @@ Swedish punk emerged in the late 1970s as a raw, politically charged movement th
     <tr>
       <td>9</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c2a9f1432ddb411db1fc10d5c5c71f83.png" alt="Cover for Allt vad jag vill ha" style="max-width:120px; height:auto;" />
       </td>
       <td>1991</td>
       <td>23 Till</td>
@@ -445,6 +449,7 @@ Swedish punk emerged in the late 1970s as a raw, politically charged movement th
     <tr>
       <td>34</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8e49801237f1aad5bc9eddd0cb15ecde.png" alt="Cover for Eldar" style="max-width:120px; height:auto;" />
       </td>
       <td>1994</td>
       <td>Cosa Nostra</td>
@@ -665,6 +670,7 @@ Swedish punk emerged in the late 1970s as a raw, politically charged movement th
     <tr>
       <td>81</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/deddcd9c5821477aabf96c0d313c07ae.png" alt="Cover for Erektion" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Troublemakers</td>
@@ -685,6 +691,7 @@ Swedish punk emerged in the late 1970s as a raw, politically charged movement th
     <tr>
       <td>36</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5c05030586a12dad838d315d30acf282.png" alt="Cover for Singlar 85-98" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Charta 77</td>
@@ -704,6 +711,7 @@ Swedish punk emerged in the late 1970s as a raw, politically charged movement th
     <tr>
       <td>42</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/23b8eeaf479e4a038b3f7e07bf216bc8.png" alt="Cover for Vild &amp; vacker" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Troublemakers</td>
@@ -724,7 +732,7 @@ Swedish punk emerged in the late 1970s as a raw, politically charged movement th
     <tr>
       <td>53</td>
       <td>
-          <img src="https://i.discogs.com/C2bkxlENTLVbuwo7AvwbM39qlg5cQNT_tACmlnWdtuM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDA4/MzUtMTMxNTc2NDQy/OC5qcGVn.jpeg" alt="Cover for Pogo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c098de289fbe43099d288a23d80c2e3d.png" alt="Cover for Pogo" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Troublemakers</td>
@@ -798,7 +806,7 @@ Swedish punk emerged in the late 1970s as a raw, politically charged movement th
     <tr>
       <td>10</td>
       <td>
-          <img src="https://i.discogs.com/rxRlBWuO4gSfD6V2G8REZYYgVtgLnUuYk0FcHsKyIB0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMzA2/Ny0xMTYyNDE4MzQ2/LmpwZWc.jpeg" alt="Cover for Drömmar och nostalgi 1981-2016" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9d3d0f38a5f80343855bb7d3cc5c41b9.png" alt="Cover for Drömmar och nostalgi 1981-2016" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Troublemakers</td>
@@ -836,7 +844,7 @@ Swedish punk emerged in the late 1970s as a raw, politically charged movement th
     <tr>
       <td>31</td>
       <td>
-          <img src="https://i.discogs.com/yOTFjUWpDQ1W43K85L01n-Gom4_uJj-Ww4fV66fqaf8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MTI1/MTctMTQwODk1NTIw/Ni03Mzg4LmpwZWc.jpeg" alt="Cover for Nu får du dra!" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0387568d89df7b0cfe037a3255f26907.png" alt="Cover for Nu får du dra!" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>GBG Punx</td>
@@ -891,6 +899,7 @@ Swedish punk emerged in the late 1970s as a raw, politically charged movement th
     <tr>
       <td>55</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/28bbd6fe83bf495eb8f942efa7726941.png" alt="Cover for Kleptoman" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Troublemakers</td>
@@ -949,6 +958,7 @@ Swedish punk emerged in the late 1970s as a raw, politically charged movement th
     <tr>
       <td>32</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4eb22efd18e4a0aaf70b9df38ba42a65.png" alt="Cover for Nästan allt" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Rolands Gosskör</td>
@@ -967,6 +977,7 @@ Swedish punk emerged in the late 1970s as a raw, politically charged movement th
     <tr>
       <td>74</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ea0d8db433694733bd9fb459630bca4.png" alt="Cover for Idiot" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Troublemakers</td>
@@ -1002,7 +1013,7 @@ Swedish punk emerged in the late 1970s as a raw, politically charged movement th
     <tr>
       <td>39</td>
       <td>
-          <img src="https://i.discogs.com/YUZGyiWHGi_vJAVcEUpj1sN4DGxRkhZiP9NHQSUewDI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTg3/MDItMTI4Mzk4MDY3/OC5qcGVn.jpeg" alt="Cover for Manipulerade Mongon" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/008b63825edd4fa2cf680632c7689283.png" alt="Cover for Manipulerade Mongon" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-05-18</td>
       <td>P.F. Commando</td>
@@ -1072,7 +1083,7 @@ Swedish punk emerged in the late 1970s as a raw, politically charged movement th
     <tr>
       <td>56</td>
       <td>
-          <img src="https://i.discogs.com/yqO39KRLkKZHUNVn0agq7DKn9LsQlkH3bsM48wGpCm8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5Mzc1/MTctMTQwNjgwMzc3/OC0xNTQ5LmpwZWc.jpeg" alt="Cover for Inget blir som man tror…" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7ecd19cc90065baeeba266c1fab60295.png" alt="Cover for Inget blir som man tror…" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Simma i Vättern</td>
@@ -1127,6 +1138,7 @@ Swedish punk emerged in the late 1970s as a raw, politically charged movement th
     <tr>
       <td>84</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/624bc72334e82dfede6f2f9e7c2a35a9.png" alt="Cover for Vart tog alla roliga kompisarna vägen?" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-04-06</td>
       <td>Sällskapsresan</td>
@@ -1162,6 +1174,7 @@ Swedish punk emerged in the late 1970s as a raw, politically charged movement th
     <tr>
       <td>69</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dc06ed94d96b4ab9950d3a907dd5678b.png" alt="Cover for Made in Sweden" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Troublemakers</td>
@@ -1235,6 +1248,7 @@ Swedish punk emerged in the late 1970s as a raw, politically charged movement th
     <tr>
       <td>62</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a289c2a00e334ec0bd067b10c8e6fa20.png" alt="Cover for Mimifierat" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Mimikry</td>
@@ -1288,6 +1302,7 @@ Swedish punk emerged in the late 1970s as a raw, politically charged movement th
     <tr>
       <td>51</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e1e13c05b99574a5e8a9090cf0c1b13d.png" alt="Cover for 30" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-03</td>
       <td>Troublemakers</td>
@@ -1308,6 +1323,7 @@ Swedish punk emerged in the late 1970s as a raw, politically charged movement th
     <tr>
       <td>22</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c8394241b954ee8ce93ff583dc12826.png" alt="Cover for Miljonprogrammet" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-10-28</td>
       <td>Ligisterna</td>
@@ -1403,6 +1419,7 @@ Swedish punk emerged in the late 1970s as a raw, politically charged movement th
     <tr>
       <td>88</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/09c43daf174a462faa478b939558fd19.png" alt="Cover for Handen på hjärtat" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-05-29</td>
       <td>Asta Kask</td>
@@ -1421,7 +1438,7 @@ Swedish punk emerged in the late 1970s as a raw, politically charged movement th
     <tr>
       <td>71</td>
       <td>
-          <img src="https://i.discogs.com/zBqfNBzRlT2Pbc__DJ1hwnmvHLiFpb1I5UmfC4DbjbQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NDQ1/MDUtMTM5NjEyNDc0/My01OTI2LmpwZWc.jpeg" alt="Cover for Välkommen hem" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/18ae658345bd009261f024a9fc9315c1.png" alt="Cover for Välkommen hem" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-03-26</td>
       <td>Asta Kask</td>
@@ -1493,7 +1510,7 @@ Swedish punk emerged in the late 1970s as a raw, politically charged movement th
     <tr>
       <td>52</td>
       <td>
-          <img src="https://i.discogs.com/rMjXyTDkmP3qRFLWiHA7ZdpORPoC-8DOWad17z5UXfg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNzcx/NTQtMTQ1NDcwMTAw/OS03MzAxLmpwZWc.jpeg" alt="Cover for Allting kommer tillbaka" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0b5240abd4fb44c7b4ff979725c93afe.png" alt="Cover for Allting kommer tillbaka" style="max-width:120px; height:auto;" />
       </td>
       <td>2015</td>
       <td>Moment 23</td>
@@ -1530,7 +1547,7 @@ Swedish punk emerged in the late 1970s as a raw, politically charged movement th
     <tr>
       <td>64</td>
       <td>
-          <img src="https://i.discogs.com/qTzsIX840oA2Rs6e_hKjU_R3VGitMOXc2h9cxP0KcUs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxODM4/MjEtMTQzNTYwNDgw/Mi0yMDUzLmpwZWc.jpeg" alt="Cover for Folk Som Klagar På Folk Som Klagar" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2c3b72f824bc81ca0dc46bccf83191bf.png" alt="Cover for Folk Som Klagar På Folk Som Klagar" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-12-18</td>
       <td>Psykbryt</td>
@@ -1549,7 +1566,7 @@ Swedish punk emerged in the late 1970s as a raw, politically charged movement th
     <tr>
       <td>57</td>
       <td>
-          <img src="https://i.discogs.com/HiRo-gx_h3kF3KC52E5PhjgZJXmBYaGPDS2nV63vAWM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNjQ2/ODctMTQ1ODI0MTA4/Ni05NTM5LmpwZWc.jpeg" alt="Cover for Totalradio" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3bd2fb3bd68903ed661ce8c1997a22ac.png" alt="Cover for Totalradio" style="max-width:120px; height:auto;" />
       </td>
       <td>2016</td>
       <td>Troublemakers</td>
@@ -1623,7 +1640,7 @@ Swedish punk emerged in the late 1970s as a raw, politically charged movement th
     <tr>
       <td>59</td>
       <td>
-          <img src="https://i.discogs.com/rmBsQ5p5r3c2EBrwZzrR-up6SFT6QrURun6BrIfIcoM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjIw/NzIzLTE1MTk1NTU1/NjMtNDY3NC5qcGVn.jpeg" alt="Cover for Revolt" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8b581a8b09ca41796a0558a84e1b08dd.png" alt="Cover for Revolt" style="max-width:120px; height:auto;" />
       </td>
       <td>2018</td>
       <td>Mimikry</td>
@@ -1642,7 +1659,7 @@ Swedish punk emerged in the late 1970s as a raw, politically charged movement th
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/GRf1eqYoO7HiprRyazik62S_GQRXamIphY_wsiTIjgU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTUy/Nzg4LTE1Mzc1MjU1/MTMtNTY1Ni5qcGVn.jpeg" alt="Cover for För Sverige" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/61eb96de877598d6a90e0053ae878946.png" alt="Cover for För Sverige" style="max-width:120px; height:auto;" />
       </td>
       <td>2018</td>
       <td>Lastkaj 14</td>
@@ -1679,7 +1696,7 @@ Swedish punk emerged in the late 1970s as a raw, politically charged movement th
     <tr>
       <td>47</td>
       <td>
-          <img src="https://i.discogs.com/wEHthFeVeuErL-Vd2eKDaPQFg1Cu-uVKhKzBURRrK7A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTEx/MjE3LTE2MDgyMDAw/NzctODM2OC5qcGVn.jpeg" alt="Cover for Geronimo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/04b24b899d5c59747debd92ec1de6299.png" alt="Cover for Geronimo" style="max-width:120px; height:auto;" />
       </td>
       <td>2020</td>
       <td>Björnarna</td>
@@ -1753,7 +1770,7 @@ Swedish punk emerged in the late 1970s as a raw, politically charged movement th
     <tr>
       <td>63</td>
       <td>
-          <img src="https://i.discogs.com/L5kyxZGemgwoxaa8o8Jl35fau3eI2g_8z9JS03Wsayg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTUz/Mzk2LTE2MzY4MDEy/NDUtMTYxMS5qcGVn.jpeg" alt="Cover for En sista skål" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1bbff03a5de91fc7bd8e0a08ff152ebc.png" alt="Cover for En sista skål" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-03-31</td>
       <td>Troublemakers</td>
