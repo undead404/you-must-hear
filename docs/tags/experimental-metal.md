@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-25T20:37:54.258Z
+date: 2025-12-05T04:38:55.287Z
 permalink: tags/experimental-metal
 title: experimental metal
 ---
 
 ## experimental metal
 
-Last updated: <time datetime="2025-11-25T20:37:54.258Z">Tue Nov 25 2025 22:37:54 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T04:38:55.287Z">Fri Dec 05 2025 06:38:55 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -51,7 +51,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 60</li>
+            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -89,7 +89,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-doom-metal" | relative_url }}">atmospheric doom metal</a> # 61</li>
+            <li> <a href="{{ "/tags/atmospheric-doom-metal" | relative_url }}">atmospheric doom metal</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -116,7 +116,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 62</li>
+            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -137,8 +137,8 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a> # 67</li>
-            <li> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a> # 90</li>
+            <li> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a> # 10</li>
+            <li> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -165,7 +165,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 54</li>
+            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -207,7 +207,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 79</li>
+            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -225,7 +225,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 11</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -263,7 +263,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 29</li>
+            <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -312,7 +312,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 52</li>
+            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -330,8 +330,8 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 28</li>
-            <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 59</li>
+            <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 42</li>
+            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -354,7 +354,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a> # 67</li>
+            <li> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -386,14 +386,14 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 6</li>
-            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 37</li>
-            <li> <a href="{{ "/tags/new-prog" | relative_url }}">new prog</a> # 71</li>
-            <li> <a href="{{ "/tags/stoner-doom" | relative_url }}">stoner doom</a> # 72</li>
-            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 90</li>
-            <li> <a href="{{ "/tags/y2k-prog" | relative_url }}">y2k prog</a> # 92</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 93</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 94</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 7</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 8</li>
+            <li> <a href="{{ "/tags/y2k-prog" | relative_url }}">y2k prog</a> # 9</li>
+            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 11</li>
+            <li> <a href="{{ "/tags/stoner-doom" | relative_url }}">stoner doom</a> # 29</li>
+            <li> <a href="{{ "/tags/new-prog" | relative_url }}">new prog</a> # 30</li>
+            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 64</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -414,7 +414,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 56</li>
+            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -455,8 +455,8 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 31</li>
-            <li> <a href="{{ "/tags/atmospheric-doom-metal" | relative_url }}">atmospheric doom metal</a> # 69</li>
+            <li> <a href="{{ "/tags/atmospheric-doom-metal" | relative_url }}">atmospheric doom metal</a> # 32</li>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -475,7 +475,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 93</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -525,8 +525,8 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a> # 13</li>
             <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 22</li>
-            <li> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -550,7 +550,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 3</li>
+            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -569,7 +569,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 78</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -608,7 +608,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-doom-metal" | relative_url }}">atmospheric doom metal</a> # 30</li>
+            <li> <a href="{{ "/tags/atmospheric-doom-metal" | relative_url }}">atmospheric doom metal</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -629,6 +629,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/innovative" | relative_url }}">innovative</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a></li>
@@ -641,7 +642,8 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a> # 57</li>
+            <li> <a href="{{ "/tags/innovative" | relative_url }}">innovative</a> # 12</li>
+            <li> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -682,7 +684,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 80</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -739,9 +741,9 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 11</li>
-            <li> <a href="{{ "/tags/progressive-power-metal" | relative_url }}">progressive power metal</a> # 63</li>
-            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 77</li>
+            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 24</li>
+            <li> <a href="{{ "/tags/progressive-power-metal" | relative_url }}">progressive power metal</a> # 38</li>
+            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -763,9 +765,9 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 19</li>
-            <li> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a> # 74</li>
-            <li> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a> # 99</li>
+            <li> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a> # 2</li>
+            <li> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a> # 26</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -846,8 +848,8 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 38</li>
-            <li> <a href="{{ "/tags/atmospheric-doom-metal" | relative_url }}">atmospheric doom metal</a> # 75</li>
+            <li> <a href="{{ "/tags/atmospheric-doom-metal" | relative_url }}">atmospheric doom metal</a> # 26</li>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -870,7 +872,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 84</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -894,7 +896,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 85</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -958,9 +960,9 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 38</li>
-            <li> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a> # 66</li>
-            <li> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a> # 83</li>
+            <li> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a> # 18</li>
+            <li> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a> # 35</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1004,9 +1006,9 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 43</li>
+            <li> <a href="{{ "/tags/shred" | relative_url }}">shred</a> # 48</li>
             <li> <a href="{{ "/tags/instrumental-metal" | relative_url }}">instrumental metal</a> # 53</li>
-            <li> <a href="{{ "/tags/shred" | relative_url }}">shred</a> # 53</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1031,9 +1033,9 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 20</li>
-            <li> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a> # 72</li>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 78</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 22</li>
+            <li> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a> # 29</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1053,7 +1055,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 52</li>
+            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 53</li>
             <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 72</li>
         </ul>
       </td>
@@ -1082,10 +1084,10 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 1</li>
-            <li> <a href="{{ "/tags/indonesian" | relative_url }}">indonesian</a> # 33</li>
-            <li> <a href="{{ "/tags/indonesia" | relative_url }}">indonesia</a> # 46</li>
-            <li> <a href="{{ "/tags/progressive-breaks" | relative_url }}">progressive breaks</a> # 57</li>
+            <li> <a href="{{ "/tags/progressive-breaks" | relative_url }}">progressive breaks</a> # 44</li>
+            <li> <a href="{{ "/tags/indonesia" | relative_url }}">indonesia</a> # 54</li>
+            <li> <a href="{{ "/tags/indonesian" | relative_url }}">indonesian</a> # 68</li>
+            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1111,7 +1113,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 3</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1221,7 +1223,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a> # 40</li>
+            <li> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1253,7 +1255,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 40</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1272,8 +1274,8 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 39</li>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 51</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 49</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1346,7 +1348,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
     <tr>
       <td>32</td>
       <td>
-          <img src="https://i.discogs.com/F7vz4IBu5H-4YQbRL9T-AURLvRuo_uv_FmuF1jkY-Mk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Mzg4/NTYtMTMzODQwMDUx/My03NzU2LmpwZWc.jpeg" alt="Cover for 5773" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/90596a4500814c34b47b123bf5e10e6e.png" alt="Cover for 5773" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-02-01</td>
       <td>Miasme</td>
@@ -1365,8 +1367,8 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-metal" | relative_url }}">atmospheric metal</a> # 63</li>
-            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 65</li>
+            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 35</li>
+            <li> <a href="{{ "/tags/atmospheric-metal" | relative_url }}">atmospheric metal</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1405,7 +1407,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-opera" | relative_url }}">rock opera</a> # 35</li>
+            <li> <a href="{{ "/tags/rock-opera" | relative_url }}">rock opera</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1430,7 +1432,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indonesia" | relative_url }}">indonesia</a> # 27</li>
+            <li> <a href="{{ "/tags/indonesia" | relative_url }}">indonesia</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1472,7 +1474,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 36</li>
+            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1510,6 +1512,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/extreme-progressive-metal" | relative_url }}">extreme progressive metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a></li>
@@ -1520,7 +1523,8 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 64</li>
+            <li> <a href="{{ "/tags/extreme-progressive-metal" | relative_url }}">extreme progressive metal</a> # 16</li>
+            <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1549,9 +1553,9 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 31</li>
-            <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 56</li>
-            <li> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a> # 62</li>
+            <li> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a> # 39</li>
+            <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 45</li>
+            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1578,10 +1582,10 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 2</li>
             <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 25</li>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 31</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 69</li>
             <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 74</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1626,8 +1630,8 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 54</li>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 60</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 41</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 45</li>
             <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 62</li>
             <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 86</li>
         </ul>
@@ -1719,7 +1723,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-doom-metal" | relative_url }}">atmospheric doom metal</a> # 48</li>
+            <li> <a href="{{ "/tags/atmospheric-doom-metal" | relative_url }}">atmospheric doom metal</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1825,6 +1829,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/extreme-progressive-metal" | relative_url }}">extreme progressive metal</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1850,7 +1855,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german-metal" | relative_url }}">german metal</a> # 75</li>
+            <li> <a href="{{ "/tags/german-metal" | relative_url }}">german metal</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1916,8 +1921,8 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 55</li>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 61</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 40</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 44</li>
             <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 64</li>
             <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 87</li>
         </ul>
@@ -1942,7 +1947,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shred" | relative_url }}">shred</a> # 96</li>
+            <li> <a href="{{ "/tags/shred" | relative_url }}">shred</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1965,7 +1970,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a> # 77</li>
+            <li> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -2055,9 +2060,9 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 57</li>
-            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 78</li>
-            <li> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a> # 84</li>
+            <li> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a> # 17</li>
+            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 23</li>
+            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -2082,9 +2087,9 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 58</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 17</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 43</li>
             <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 77</li>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -2110,8 +2115,8 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 36</li>
-            <li> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a> # 76</li>
+            <li> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a> # 25</li>
+            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -2136,8 +2141,8 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 65</li>
-            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 83</li>
+            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 18</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -2186,7 +2191,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a> # 74</li>
+            <li> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -2207,7 +2212,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 15</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -2227,7 +2232,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 55</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -2286,7 +2291,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stoner-doom" | relative_url }}">stoner doom</a> # 25</li>
+            <li> <a href="{{ "/tags/stoner-doom" | relative_url }}">stoner doom</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -2306,7 +2311,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 56</li>
+            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -2347,8 +2352,8 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 15</li>
-            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 53</li>
+            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 47</li>
+            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -2365,7 +2370,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 22</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 79</li>
         </ul>
       </td>
     </tr>

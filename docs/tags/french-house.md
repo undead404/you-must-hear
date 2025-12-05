@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-16T12:43:09.481Z
+date: 2025-12-05T04:38:49.910Z
 permalink: tags/french-house
 title: french house
 ---
 
 ## french house
 
-Last updated: <time datetime="2025-11-16T12:43:09.481Z">Sun Nov 16 2025 14:43:09 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T04:38:49.910Z">Fri Dec 05 2025 06:38:49 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -37,26 +37,6 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       <td>My House In Montmartre</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-house" | relative_url }}">french house</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>32</td>
-      <td>
-          <img src="https://i.discogs.com/3N-ajjn_adSfwxXYc2-NvVUj9uvkfUjMXtVQiUcyvO0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzIw/NTYtMTIyMjI0OTM5/Ni5qcGVn.jpeg" alt="Cover for Timocracy" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1976</td>
-      <td>Bandit</td>
-      <td>Timocracy</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-house" | relative_url }}">french house</a></li>
         </ul>
       </td>
@@ -146,8 +126,8 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 3</li>
-            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 75</li>
+            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 26</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -165,7 +145,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 34</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -247,10 +227,10 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 47</li>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 72</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 89</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 94</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 6</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 9</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 25</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -306,7 +286,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 65</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -482,9 +462,9 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 48</li>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 49</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 66</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 27</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 45</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -558,7 +538,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 11</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -658,14 +638,15 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 47</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 50</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 49</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>100</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/65052321de2e482284e85d6e934f1849.png" alt="Cover for Lambs Anger" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-11-05</td>
       <td>Mr. Oizo</td>
@@ -678,7 +659,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 60</li>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -734,7 +715,6 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -825,7 +805,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
     <tr>
       <td>77</td>
       <td>
-          <img src="https://i.discogs.com/z2p0_i_frcKdRFLt0JYMm_W-seJmqO4sxqQk-_F9FM0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzQ1/NTE3LTE2MDk1OTMx/MDItNjE5NC5wbmc.jpeg" alt="Cover for Turbo Town" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/457c664d21e24e27867c5b61fb0a8ac5.png" alt="Cover for Turbo Town" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-04-18</td>
       <td>80KIDZ</td>
@@ -841,7 +821,27 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 15</li>
+            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 86</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>
+          <img src="https://i.discogs.com/3N-ajjn_adSfwxXYc2-NvVUj9uvkfUjMXtVQiUcyvO0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzIw/NTYtMTIyMjI0OTM5/Ni5qcGVn.jpeg" alt="Cover for Timocracy" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-10-31</td>
+      <td>Bandit</td>
+      <td>Timocracy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-house" | relative_url }}">french house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -903,7 +903,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 30</li>
+            <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -923,7 +923,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 91</li>
+            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -986,9 +986,9 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 25</li>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 48</li>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 86</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 15</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 50</li>
+            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1025,7 +1025,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 22</li>
+            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 77</li>
             <li> <a href="{{ "/tags/darksynth" | relative_url }}">darksynth</a> # 98</li>
         </ul>
       </td>
@@ -1068,7 +1068,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 44</li>
+            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1090,8 +1090,8 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-funk" | relative_url }}">future funk</a> # 3</li>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 10</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 93</li>
+            <li> <a href="{{ "/tags/future-funk" | relative_url }}">future funk</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1115,7 +1115,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 16</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1184,7 +1184,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
     <tr>
       <td>3</td>
       <td>
-          <img src="https://i.discogs.com/jC6HOgbCvLmuy70T2Kv4ZrKDsfmervw7Nhj-enddxd4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTM2/ODY4LTE1MTgwOTkw/MjktMjI0Ni5qcGVn.jpeg" alt="Cover for Honeybun" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf5d03b049a617839ceb8daa7627ad64.png" alt="Cover for Honeybun" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-04-01</td>
       <td>Mere</td>
@@ -1322,14 +1322,14 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 16</li>
+            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>47</td>
       <td>
-          <img src="https://i.discogs.com/II35T8bwu749soyhI_hq-1QqAtQ4S7dvEpeP_vTYbM4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTAw/MTg4LTE1NDQxMzAw/ODEtNjI3Mi5qcGVn.jpeg" alt="Cover for Got 2 Be There" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c39a09d002045afc32a6ffd49407de55.png" alt="Cover for Got 2 Be There" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-12-06</td>
       <td>Midnight City</td>
@@ -1345,8 +1345,8 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 48</li>
-            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 65</li>
+            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 37</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1368,7 +1368,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 37</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1430,14 +1430,14 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-funk" | relative_url }}">future funk</a> # 52</li>
+            <li> <a href="{{ "/tags/future-funk" | relative_url }}">future funk</a> # 45</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>9</td>
       <td>
-          <img src="https://i.discogs.com/kbG46pl8UbOfAiHLsXJJm58RW8Zyk5QsKiBtdmEIwOE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTk2/NDYzLTE1ODUyNjk2/NTYtMzQxNC5qcGVn.jpeg" alt="Cover for Carrie&#39;s Groove" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c478142756f016d1868b8e74e3392bdd.png" alt="Cover for Carrie&#39;s Groove" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-03-27</td>
       <td>Midnight City</td>
@@ -1453,7 +1453,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 21</li>
+            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1476,14 +1476,14 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 12</li>
+            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>33</td>
       <td>
-          <img src="https://i.discogs.com/Qshec94UUtGbaZVDpKcESTiWOB1X5nJny1OemdGIm8g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzY0/MzI1LTE1OTAzNDA4/MTMtMjQ2Ny5qcGVn.jpeg" alt="Cover for Get It Up" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4f89956a680ab900785aa9db921a6646.png" alt="Cover for Get It Up" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-05-22</td>
       <td>Midnight City</td>
@@ -1499,15 +1499,15 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 24</li>
-            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 45</li>
+            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 57</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>14</td>
       <td>
-          <img src="https://i.discogs.com/N8iRMHQyajYAJjlddu64G4j3W_6qEt2p-GQ24tdtkd4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDY3/MjczLTE1OTIwMDUw/NDItNTY0MS5qcGVn.jpeg" alt="Cover for It&#39;s Gonna Be, What I Feel" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0885d6c042542b4180c10712d9bc100e.png" alt="Cover for It&#39;s Gonna Be, What I Feel" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-06-12</td>
       <td>Midnight City</td>
@@ -1518,15 +1518,15 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 7</li>
-            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 30</li>
+            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 72</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>6</td>
       <td>
-          <img src="https://i.discogs.com/UHaqkfo6Xol0sxxsby2spDwGPr102i7_T4xuw4zV7JQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTA5/MTkyLTE2MDM1NzA1/NzItNDg2NC5qcGVn.jpeg" alt="Cover for Here to stay" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/de96358698c8a2a442d06edf59474358.png" alt="Cover for Here to stay" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-10-23</td>
       <td>Midnight City</td>
@@ -1542,7 +1542,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 13</li>
+            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1561,14 +1561,13 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-funk" | relative_url }}">future funk</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>35</td>
       <td>
-          <img src="https://i.discogs.com/zYcVv4O5EymDHUwRqDXYHDoGwBfQD7lJSS9aCRWbMXE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTIw/OTA5LTE1NjQwOTk2/MzktNzY4MS5qcGVn.jpeg" alt="Cover for The Guestlist" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b17ef775139883aeb13b04002d39439c.png" alt="Cover for The Guestlist" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-12-18</td>
       <td>Midnight City</td>
@@ -1584,15 +1583,15 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 26</li>
-            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 48</li>
+            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 54</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>59</td>
       <td>
-          <img src="https://i.discogs.com/u5qNsQK3_8Y2YGclwZ5kqu89HWOifHpbxvxcfDStKkg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzg3/MDU3LTE2NTM4MTI5/NTgtOTc2Mi5qcGVn.jpeg" alt="Cover for Sun" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f1b3425e3f0f4c18ccad2018dab0b28f.png" alt="Cover for Sun" style="max-width:120px; height:auto;" />
       </td>
       <td>2021</td>
       <td>Neus</td>
@@ -1669,7 +1668,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-funk" | relative_url }}">future funk</a> # 62</li>
+            <li> <a href="{{ "/tags/future-funk" | relative_url }}">future funk</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1693,7 +1692,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 68</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1722,7 +1721,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
     <tr>
       <td>27</td>
       <td>
-          <img src="https://i.discogs.com/oOb4fxFmP1FlGJt4N4S34bWApn0iKNeyCuhQcZvOjRM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTA4/MDA4LTE2NTk3MDA5/OTAtMzgzNS5qcGVn.jpeg" alt="Cover for Good Feelings EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8f6c6e374e8f9967e22eb89fb9eebef9.png" alt="Cover for Good Feelings EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-08-05</td>
       <td>Midnight City</td>
@@ -1738,8 +1737,8 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 21</li>
-            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 38</li>
+            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 64</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1762,7 +1761,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
     <tr>
       <td>41</td>
       <td>
-          <img src="https://i.discogs.com/8ZK-a1TAf0Rccs1ESe9t2SMGwxQD_EzT4lcJ90u6zC0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTEy/Nzc3LTE2ODI3MDM1/NTMtMzUyNi5qcGVn.jpeg" alt="Cover for A Love That You Can Keep" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/10dbbc02b46a618eeb77e019d8a35041.png" alt="Cover for A Love That You Can Keep" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-04-28</td>
       <td>Midnight City</td>
@@ -1778,8 +1777,8 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 33</li>
-            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 57</li>
+            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 45</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1793,12 +1792,11 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       <td>Problématique</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-house" | relative_url }}">french house</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 80</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1824,8 +1822,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 2</li>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 16</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1846,7 +1843,7 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 27</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1881,8 +1878,8 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 1</li>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 64</li>
+            <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 2</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1916,8 +1913,8 @@ French house is a sophisticated strand of electronic dance music that emerged fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 28</li>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 77</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 24</li>
+            <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 29</li>
         </ul>
       </td>
     </tr>

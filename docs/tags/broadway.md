@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-25T20:38:38.985Z
+date: 2025-12-05T04:40:27.670Z
 permalink: tags/broadway
 title: broadway
 ---
 
 ## broadway
 
-Last updated: <time datetime="2025-11-25T20:38:38.985Z">Tue Nov 25 2025 22:38:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T04:40:27.670Z">Fri Dec 05 2025 06:40:27 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -324,7 +324,7 @@ Broadway refers to theatrical music originating from New York&#39;s iconic theat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 87</li>
+            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -344,7 +344,7 @@ Broadway refers to theatrical music originating from New York&#39;s iconic theat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 89</li>
+            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -478,7 +478,7 @@ Broadway refers to theatrical music originating from New York&#39;s iconic theat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/showtune" | relative_url }}">showtune</a> # 96</li>
+            <li> <a href="{{ "/tags/showtune" | relative_url }}">showtune</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -647,7 +647,7 @@ Broadway refers to theatrical music originating from New York&#39;s iconic theat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/showtune" | relative_url }}">showtune</a> # 97</li>
+            <li> <a href="{{ "/tags/showtune" | relative_url }}">showtune</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -762,7 +762,7 @@ Broadway refers to theatrical music originating from New York&#39;s iconic theat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 24</li>
+            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -913,7 +913,7 @@ Broadway refers to theatrical music originating from New York&#39;s iconic theat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 60</li>
+            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1005,7 +1005,7 @@ Broadway refers to theatrical music originating from New York&#39;s iconic theat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 12</li>
+            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1025,7 +1025,7 @@ Broadway refers to theatrical music originating from New York&#39;s iconic theat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 28</li>
+            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1081,7 +1081,7 @@ Broadway refers to theatrical music originating from New York&#39;s iconic theat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 97</li>
+            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1204,13 +1204,13 @@ Broadway refers to theatrical music originating from New York&#39;s iconic theat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 24</li>
+            <li> <a href="{{ "/tags/showtune" | relative_url }}">showtune</a> # 1</li>
+            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 12</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 15</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 27</li>
             <li> <a href="{{ "/tags/stand-up" | relative_url }}">stand-up</a> # 45</li>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 74</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 86</li>
-            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 89</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 76</li>
             <li> <a href="{{ "/tags/musical-theater" | relative_url }}">musical theater</a> # 95</li>
-            <li> <a href="{{ "/tags/showtune" | relative_url }}">showtune</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1267,7 +1267,7 @@ Broadway refers to theatrical music originating from New York&#39;s iconic theat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 79</li>
+            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1457,7 +1457,7 @@ Broadway refers to theatrical music originating from New York&#39;s iconic theat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 61</li>
+            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1475,7 +1475,7 @@ Broadway refers to theatrical music originating from New York&#39;s iconic theat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 29</li>
+            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 71</li>
             <li> <a href="{{ "/tags/musical-theater" | relative_url }}">musical theater</a> # 98</li>
         </ul>
       </td>
@@ -1496,7 +1496,7 @@ Broadway refers to theatrical music originating from New York&#39;s iconic theat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 72</li>
+            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1516,7 +1516,7 @@ Broadway refers to theatrical music originating from New York&#39;s iconic theat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 77</li>
+            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1573,8 +1573,8 @@ Broadway refers to theatrical music originating from New York&#39;s iconic theat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 12</li>
-            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 85</li>
+            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 16</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1669,7 +1669,7 @@ Broadway refers to theatrical music originating from New York&#39;s iconic theat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 1</li>
+            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 99</li>
         </ul>
       </td>
     </tr>

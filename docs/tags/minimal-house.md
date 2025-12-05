@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-11T04:47:43.707Z
+date: 2025-12-05T04:37:00.233Z
 permalink: tags/minimal-house
 title: minimal house
 ---
 
 ## minimal house
 
-Last updated: <time datetime="2025-11-11T04:47:43.707Z">Tue Nov 11 2025 06:47:43 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T04:37:00.233Z">Fri Dec 05 2025 06:37:00 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -99,7 +99,7 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-and-dark" | relative_url }}">deep and dark</a> # 54</li>
+            <li> <a href="{{ "/tags/deep-and-dark" | relative_url }}">deep and dark</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -138,7 +138,7 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-and-dark" | relative_url }}">deep and dark</a> # 62</li>
+            <li> <a href="{{ "/tags/deep-and-dark" | relative_url }}">deep and dark</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -161,8 +161,8 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 17</li>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 92</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 8</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -380,7 +380,7 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 70</li>
+            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -437,7 +437,7 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 71</li>
+            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -475,7 +475,7 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-and-dark" | relative_url }}">deep and dark</a> # 41</li>
+            <li> <a href="{{ "/tags/deep-and-dark" | relative_url }}">deep and dark</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -608,7 +608,7 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/detroit-techno" | relative_url }}">detroit techno</a> # 18</li>
+            <li> <a href="{{ "/tags/detroit-techno" | relative_url }}">detroit techno</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -630,8 +630,8 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/detroit-techno" | relative_url }}">detroit techno</a> # 77</li>
-            <li> <a href="{{ "/tags/deep-and-dark" | relative_url }}">deep and dark</a> # 88</li>
+            <li> <a href="{{ "/tags/deep-and-dark" | relative_url }}">deep and dark</a> # 13</li>
+            <li> <a href="{{ "/tags/detroit-techno" | relative_url }}">detroit techno</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -802,7 +802,7 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 9</li>
+            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -865,7 +865,7 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 10</li>
+            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 5</li>
             <li> <a href="{{ "/tags/live-set" | relative_url }}">live set</a> # 80</li>
         </ul>
       </td>
@@ -915,8 +915,8 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 44</li>
-            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 90</li>
+            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 38</li>
+            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1045,7 +1045,7 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 7</li>
+            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 1</li>
             <li> <a href="{{ "/tags/live-set" | relative_url }}">live set</a> # 77</li>
         </ul>
       </td>
@@ -1176,7 +1176,7 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 61</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1216,7 +1216,6 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1273,7 +1272,7 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 96</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1313,7 +1312,7 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 77</li>
+            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1385,9 +1384,9 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 50</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 71</li>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 93</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 28</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 79</li>
+            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1407,7 +1406,7 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 59</li>
+            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1466,14 +1465,14 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 4</li>
+            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 12</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/s_zHkU6xbgAUnhwK46KuuCnmB0kYd2MUJ8s1MUej5P0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTM2/MjQtMTI2NDc3MjQ4/OC5qcGVn.jpeg" alt="Cover for Azzurra" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e1cb04237d58409883e35c1668470a78.png" alt="Cover for Azzurra" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-02-08</td>
       <td>Gui Boratto</td>
@@ -1493,9 +1492,9 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 17</li>
-            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 21</li>
-            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 84</li>
+            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 20</li>
+            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 30</li>
+            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1552,7 +1551,7 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 38</li>
+            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1646,11 +1645,11 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 6</li>
-            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 32</li>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 40</li>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 35</li>
             <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 52</li>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 66</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 61</li>
+            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 70</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1728,7 +1727,7 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 64</li>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1767,12 +1766,12 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 5</li>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 24</li>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 33</li>
-            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 43</li>
-            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 47</li>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 50</li>
+            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 46</li>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 51</li>
+            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 58</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 71</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 79</li>
+            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1794,7 +1793,7 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/balearic" | relative_url }}">balearic</a> # 67</li>
+            <li> <a href="{{ "/tags/balearic" | relative_url }}">balearic</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1830,7 +1829,7 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 84</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1991,7 +1990,7 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 5</li>
+            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -2043,8 +2042,8 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-and-dark" | relative_url }}">deep and dark</a> # 31</li>
-            <li> <a href="{{ "/tags/dada" | relative_url }}">dada</a> # 79</li>
+            <li> <a href="{{ "/tags/dada" | relative_url }}">dada</a> # 22</li>
+            <li> <a href="{{ "/tags/deep-and-dark" | relative_url }}">deep and dark</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -2074,14 +2073,33 @@ Minimal house strips electronic dance music down to its essential elements, emph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 52</li>
+            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 46</li>
             <li> <a href="{{ "/tags/tekno" | relative_url }}">tekno</a> # 94</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/264e26c9d2c98e5b34b41a85dd55ec54.png" alt="Cover for It!" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Coco Steel &amp; Lovebomb</td>
+      <td>It!</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 17</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>10</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cee7929154874ac4b54a9a2633a6e03f.png" alt="Cover for Little Big Steps" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>nikbitz</td>
@@ -2197,23 +2215,6 @@ Minimal house strips electronic dance music down to its essential elements, emph
       <td></td>
       <td>Booka Shade</td>
       <td>GPMLP002 - Memento</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>68</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/264e26c9d2c98e5b34b41a85dd55ec54.png" alt="Cover for It!" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Coco Steel &amp; Lovebomb</td>
-      <td>It!</td>
       <td>
         <ul>
         </ul>

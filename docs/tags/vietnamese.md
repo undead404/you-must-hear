@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-02T20:50:53.995Z
+date: 2025-12-05T04:37:06.583Z
 permalink: tags/vietnamese
 title: vietnamese
 ---
 
 ## vietnamese
 
-Last updated: <time datetime="2025-11-02T20:50:53.995Z">Sun Nov 02 2025 22:50:53 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T04:37:06.583Z">Fri Dec 05 2025 06:37:06 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -520,7 +520,7 @@ Vietnamese music encompasses the diverse musical traditions and contemporary sou
     <tr>
       <td>20</td>
       <td>
-          <img src="https://i.discogs.com/1R4udoVbX5l90h4Ljm8Z4Juhf7PtiTz9SlvH99TOVXA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzY2/MDA2LTE1MTUwMjcw/MjctNzU2NS5qcGVn.jpeg" alt="Cover for The Best of TRISH 2" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1c627a9c6a76f4e4b421e58f79471e07.png" alt="Cover for The Best of TRISH 2" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Trish Thuy Trang</td>
@@ -561,7 +561,7 @@ Vietnamese music encompasses the diverse musical traditions and contemporary sou
     <tr>
       <td>97</td>
       <td>
-          <img src="https://i.discogs.com/t06sAF43k7uhiWhKSGyuXnl8HECL_93PZ8HVeog_9_c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTQ5/NjE5LTE2MDQyNjU2/ODctNDY1Ny5wbmc.jpeg" alt="Cover for Giấc Mơ Có Thật" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8e0abd5c43114408c4a14cad3219900a.png" alt="Cover for Giấc Mơ Có Thật" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-08-27</td>
       <td>Lệ Quyên</td>
@@ -802,7 +802,7 @@ Vietnamese music encompasses the diverse musical traditions and contemporary sou
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 40</li>
+            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -845,7 +845,7 @@ Vietnamese music encompasses the diverse musical traditions and contemporary sou
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/jCbrKDUDB-W7dI1Hcv82tZQEC47B-tBeKhenFlbOMPg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzU0/Mi0xNDUyODE4MDQ5/LTc3MDMuanBlZw.jpeg" alt="Cover for Khi Em Lớn" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/649f4052877cd8ceb3165f26ae63e27a.png" alt="Cover for Khi Em Lớn" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-10-02</td>
       <td>Orange</td>
@@ -861,7 +861,7 @@ Vietnamese music encompasses the diverse musical traditions and contemporary sou
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 84</li>
+            <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -923,7 +923,7 @@ Vietnamese music encompasses the diverse musical traditions and contemporary sou
     <tr>
       <td>92</td>
       <td>
-          <img src="https://i.discogs.com/yDFJgNMYeOafmlL4B7WHSXTIylCA-ZWUu6gAP5DRvGU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjk5/OTMxLTE1MjA4Nzcx/NzktMzM3NC5qcGVn.jpeg" alt="Cover for Saigon Radio" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/12e4bcd3adbd420ec2253803e9fd1977.png" alt="Cover for Saigon Radio" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-03-01</td>
       <td>Hà Anh Tuấn</td>
@@ -958,8 +958,8 @@ Vietnamese music encompasses the diverse musical traditions and contemporary sou
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 12</li>
-            <li> <a href="{{ "/tags/melbourne" | relative_url }}">melbourne</a> # 92</li>
+            <li> <a href="{{ "/tags/melbourne" | relative_url }}">melbourne</a> # 11</li>
+            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -999,14 +999,14 @@ Vietnamese music encompasses the diverse musical traditions and contemporary sou
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 47</li>
+            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>89</td>
       <td>
-          <img src="https://i.discogs.com/FS7vw4qvvTt2-vW7rVd0T6w2q7yOb4X5-O1pyT1J508/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTA2/MzI1LTE2NTQ2ODUy/MjMtNjYzMi5qcGVn.jpeg" alt="Cover for Em Không Là Duy Nhất" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9c6087e431259e8a6819a8b5b799e83c.png" alt="Cover for Em Không Là Duy Nhất" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Tóc Tiên</td>
@@ -1022,14 +1022,14 @@ Vietnamese music encompasses the diverse musical traditions and contemporary sou
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 49</li>
+            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>90</td>
       <td>
-          <img src="https://i.discogs.com/FS7vw4qvvTt2-vW7rVd0T6w2q7yOb4X5-O1pyT1J508/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTA2/MzI1LTE2NTQ2ODUy/MjMtNjYzMi5qcGVn.jpeg" alt="Cover for Vũ Điệu Cồng Chiêng" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/332fbb6541eba35e1172c30fb3566d44.png" alt="Cover for Vũ Điệu Cồng Chiêng" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Tóc Tiên</td>
@@ -1045,7 +1045,7 @@ Vietnamese music encompasses the diverse musical traditions and contemporary sou
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 53</li>
+            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1129,7 +1129,7 @@ Vietnamese music encompasses the diverse musical traditions and contemporary sou
     <tr>
       <td>43</td>
       <td>
-          <img src="https://i.discogs.com/APzmwX3PeVGiVz26sYfPK5n3qGFAX8STpK7ORiKraSE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTA2/NDEyLTE2NTQ2ODYz/MzItOTEyNS5qcGVn.jpeg" alt="Cover for Còn Nơi Đó Chờ Em" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/85ad172f7f20774e9ff158610347bbec.png" alt="Cover for Còn Nơi Đó Chờ Em" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>Đông Nhi</td>
@@ -1191,7 +1191,7 @@ Vietnamese music encompasses the diverse musical traditions and contemporary sou
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/g30G_29P5WlsjP28tCsRh_VjluCKIotfoHFACM9IgFQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDUz/MTkyLTE1MjczNTYy/OTQtMzIyOS5qcGVn.jpeg" alt="Cover for Lạc Trôi" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ffc497414d767cb89617f90481985b38.png" alt="Cover for Lạc Trôi" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-12-31</td>
       <td>Son Tung M-TP</td>
@@ -1213,7 +1213,7 @@ Vietnamese music encompasses the diverse musical traditions and contemporary sou
     <tr>
       <td>64</td>
       <td>
-          <img src="https://i.discogs.com/l9Zkf0O3wnzeEZsw-LAXT9SKx14R9jKa_QCWro89nSg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDUz/MzA5LTE1MjczNTc0/NDQtMjAwNy5qcGVn.jpeg" alt="Cover for Nơi Này Có Anh" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7db48f1d0f16a23b64e799f51a9f8740.png" alt="Cover for Nơi Này Có Anh" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-04-01</td>
       <td>Son Tung M-TP</td>
@@ -1235,7 +1235,7 @@ Vietnamese music encompasses the diverse musical traditions and contemporary sou
     <tr>
       <td>67</td>
       <td>
-          <img src="https://i.discogs.com/l9Zkf0O3wnzeEZsw-LAXT9SKx14R9jKa_QCWro89nSg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDUz/MzA5LTE1MjczNTc0/NDQtMjAwNy5qcGVn.jpeg" alt="Cover for CHẠY NGAY ĐI" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e0c80127216c30e9bb9b43580cd617c1.png" alt="Cover for CHẠY NGAY ĐI" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-04-01</td>
       <td>Son Tung M-TP</td>
@@ -1256,7 +1256,7 @@ Vietnamese music encompasses the diverse musical traditions and contemporary sou
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/l9Zkf0O3wnzeEZsw-LAXT9SKx14R9jKa_QCWro89nSg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDUz/MzA5LTE1MjczNTc0/NDQtMjAwNy5qcGVn.jpeg" alt="Cover for CHẠY NGAY ĐI" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dc6ce6c0674fa32cee5294e521e70eb4.png" alt="Cover for CHẠY NGAY ĐI" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-04-01</td>
       <td>Sơn Tùng M-TP</td>
@@ -1332,7 +1332,7 @@ Vietnamese music encompasses the diverse musical traditions and contemporary sou
     <tr>
       <td>80</td>
       <td>
-          <img src="https://i.discogs.com/bzJussXSml82bbaPz8rHu_ncacVDnQepBzYtzlV4VAo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTQx/Mjg4LTE1ODQ0NjA3/NDAtNjkzMC5qcGVn.jpeg" alt="Cover for Những Kẻ Mộng Mơ" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4d5a1ecebb3b09107a29ab99a743b579.png" alt="Cover for Những Kẻ Mộng Mơ" style="max-width:120px; height:auto;" />
       </td>
       <td>2020</td>
       <td>Lê Cát Trọng Lý</td>
@@ -1518,13 +1518,14 @@ Vietnamese music encompasses the diverse musical traditions and contemporary sou
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 7</li>
+            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>74</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/25bcecbefa06b561e11a4a62c5cc9bc6.png" alt="Cover for Songs and Dances of Vietnam" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Vietnamese National Song and Dance Ensemble</td>
@@ -1540,7 +1541,7 @@ Vietnamese music encompasses the diverse musical traditions and contemporary sou
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 28</li>
+            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1919,15 +1920,13 @@ Vietnamese music encompasses the diverse musical traditions and contemporary sou
     <tr>
       <td>96</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bb2c2c7064f0abe6fdb7689d49c35b80.png" alt="Cover for Got You" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>My Anh</td>
       <td>Got You</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vietnamese" | relative_url }}">vietnamese</a></li>
         </ul>
       </td>
       <td>
@@ -1947,6 +1946,6 @@ Vietnamese music encompasses the diverse musical traditions and contemporary sou
 - [asia]({{ "/tags/asia" | relative_url }})
 - [female vocalists]({{ "/tags/female-vocalists" | relative_url }})
 - [world]({{ "/tags/world" | relative_url }})
-- [rnb]({{ "/tags/rnb" | relative_url }})
 - [instrumental]({{ "/tags/instrumental" | relative_url }})
+- [rnb]({{ "/tags/rnb" | relative_url }})
 - [male vocalists]({{ "/tags/male-vocalists" | relative_url }})

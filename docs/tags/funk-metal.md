@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T01:31:13.891Z
+date: 2025-12-05T04:41:33.857Z
 permalink: tags/funk-metal
 title: funk metal
 ---
 
 ## funk metal
 
-Last updated: <time datetime="2025-11-23T01:31:13.891Z">Sun Nov 23 2025 03:31:13 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T04:41:33.857Z">Fri Dec 05 2025 06:41:33 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -60,7 +60,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 87</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -85,7 +85,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-prog" | relative_url }}">neo-prog</a> # 91</li>
+            <li> <a href="{{ "/tags/neo-prog" | relative_url }}">neo-prog</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -164,7 +164,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 85</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -202,7 +202,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 99</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -243,8 +243,8 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 79</li>
-            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 93</li>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 8</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -284,8 +284,8 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 88</li>
-            <li> <a href="{{ "/tags/netherlands" | relative_url }}">netherlands</a> # 92</li>
+            <li> <a href="{{ "/tags/netherlands" | relative_url }}">netherlands</a> # 9</li>
+            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -321,7 +321,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 57</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -395,8 +395,8 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 6</li>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 49</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 51</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -417,8 +417,8 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 72</li>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 97</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 3</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -490,7 +490,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 31</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -508,7 +508,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 36</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -559,18 +559,12 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       <td>Rage Against the Machine</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 86 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
-            <li style="font-size: calc(1rem * 53 / 100)"> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 60</li>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 71</li>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 75</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 76</li>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 100</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 6</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -733,9 +727,9 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-hard-rock" | relative_url }}">melodic hard rock</a> # 68</li>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 76</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 77</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 23</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 24</li>
+            <li> <a href="{{ "/tags/melodic-hard-rock" | relative_url }}">melodic hard rock</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -762,6 +756,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
     <tr>
       <td>46</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d0e5be2e574c423dc2ad1933040365a6.png" alt="Cover for The Blood Splat Rating System" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Powerman 5000</td>
@@ -816,7 +811,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 80</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -853,7 +848,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 97</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -889,8 +884,8 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 35</li>
-            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 48</li>
+            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 52</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -938,7 +933,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 41</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -957,8 +952,8 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 81</li>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 83</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 15</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -996,8 +991,8 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 24</li>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 60</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 28</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1129,8 +1124,8 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 65</li>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 77</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 20</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1224,7 +1219,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 75</li>
+            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1246,7 +1241,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 43</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1300,9 +1295,9 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 18</li>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 31</li>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 85</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 13</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 62</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1348,9 +1343,9 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/motown" | relative_url }}">motown</a> # 29</li>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 53</li>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 70</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 25</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 47</li>
+            <li> <a href="{{ "/tags/motown" | relative_url }}">motown</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1364,18 +1359,11 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       <td>Renegades</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 91 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
-            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 21</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 27</li>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 58</li>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 69</li>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 90</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1501,7 +1489,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 77</li>
+            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1549,7 +1537,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 30</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1661,8 +1649,8 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 20</li>
-            <li> <a href="{{ "/tags/alternativo" | relative_url }}">alternativo</a> # 71</li>
+            <li> <a href="{{ "/tags/alternativo" | relative_url }}">alternativo</a> # 29</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1702,8 +1690,8 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 7</li>
-            <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 71</li>
+            <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 28</li>
+            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1723,7 +1711,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 72</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1811,11 +1799,11 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 2</li>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 28</li>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 48</li>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 80</li>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 99</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 1</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 11</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 52</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 69</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1880,7 +1868,7 @@ Funk metal is a subgenre of rock music that combines elements of funk and heavy 
       <td>
         <ul>
             <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 21</li>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 76</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 24</li>
         </ul>
       </td>
     </tr>

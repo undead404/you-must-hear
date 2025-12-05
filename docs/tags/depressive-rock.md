@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-27T08:44:58.486Z
+date: 2025-12-05T04:33:15.261Z
 permalink: tags/depressive-rock
 title: depressive rock
 ---
 
 ## depressive rock
 
-Last updated: <time datetime="2025-11-27T08:44:58.486Z">Thu Nov 27 2025 10:44:58 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T04:33:15.261Z">Fri Dec 05 2025 06:33:15 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -99,7 +99,7 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 70</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -158,9 +158,9 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-metal" | relative_url }}">dark metal</a> # 10</li>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 68</li>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 90</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 11</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 33</li>
+            <li> <a href="{{ "/tags/dark-metal" | relative_url }}">dark metal</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -301,8 +301,8 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-metal" | relative_url }}">dark metal</a> # 7</li>
-            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 86</li>
+            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 15</li>
+            <li> <a href="{{ "/tags/dark-metal" | relative_url }}">dark metal</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -322,7 +322,7 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 93</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -359,7 +359,7 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 45</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -399,8 +399,8 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 38</li>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 46</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 54</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -418,7 +418,7 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 63</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -436,8 +436,8 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 77</li>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 96</li>
+            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 24</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -523,12 +523,12 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 34</li>
-            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 42</li>
-            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 43</li>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 49</li>
-            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 62</li>
-            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 68</li>
+            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 33</li>
+            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 38</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 52</li>
+            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 59</li>
+            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 59</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -558,9 +558,9 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 25</li>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 36</li>
-            <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 82</li>
+            <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 18</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 26</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -578,8 +578,8 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 24</li>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 98</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 23</li>
+            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -630,12 +630,12 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 31</li>
-            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 35</li>
-            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 38</li>
-            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 60</li>
-            <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 61</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 71</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 30</li>
+            <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 40</li>
+            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 40</li>
+            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 64</li>
+            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 66</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -667,14 +667,14 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 8</li>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 38</li>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 38</li>
-            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 45</li>
-            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 46</li>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 61</li>
-            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 63</li>
-            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 74</li>
+            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 26</li>
+            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 37</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 40</li>
+            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 56</li>
+            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 56</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 62</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 63</li>
+            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -760,9 +760,9 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 20</li>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 35</li>
-            <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 80</li>
+            <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 20</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 21</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -804,9 +804,9 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 94</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 95</li>
-            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 95</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 5</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 6</li>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -890,8 +890,8 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 10</li>
-            <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 55</li>
+            <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 45</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -911,7 +911,7 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 78</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -949,9 +949,9 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 35</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 65</li>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 99</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 2</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 36</li>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -970,9 +970,9 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 54</li>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 69</li>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 71</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 29</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 32</li>
+            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1084,9 +1084,9 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 27</li>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 38</li>
-            <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 84</li>
+            <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 16</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 28</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1113,8 +1113,8 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-metal" | relative_url }}">dark metal</a> # 88</li>
-            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 100</li>
+            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 1</li>
+            <li> <a href="{{ "/tags/dark-metal" | relative_url }}">dark metal</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1133,8 +1133,8 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 11</li>
             <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 60</li>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1225,8 +1225,8 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 27</li>
-            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 68</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 74</li>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1245,8 +1245,8 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/doomgaze" | relative_url }}">doomgaze</a> # 58</li>
-            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 66</li>
+            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 34</li>
+            <li> <a href="{{ "/tags/doomgaze" | relative_url }}">doomgaze</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1265,7 +1265,6 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1334,8 +1333,8 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 18</li>
-            <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 70</li>
+            <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 30</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1460,7 +1459,7 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-rock" | relative_url }}">ambient rock</a> # 81</li>
+            <li> <a href="{{ "/tags/ambient-rock" | relative_url }}">ambient rock</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1719,9 +1718,9 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 31</li>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 39</li>
-            <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 85</li>
+            <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 15</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 32</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1839,10 +1838,10 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 28</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 81</li>
-            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 84</li>
-            <li> <a href="{{ "/tags/swedish-black-metal" | relative_url }}">swedish black metal</a> # 98</li>
+            <li> <a href="{{ "/tags/swedish-black-metal" | relative_url }}">swedish black metal</a> # 3</li>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 17</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 20</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1951,7 +1950,7 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 36</li>
+            <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -2012,7 +2011,7 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 59</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -2060,7 +2059,7 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 9</li>
+            <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -2112,6 +2111,7 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/love-metal" | relative_url }}">love metal</a></li>
         </ul>
       </td>
       <td>
@@ -2152,6 +2152,7 @@ Depressive rock encompasses emotionally raw music that channels feelings of mela
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/love-metal" | relative_url }}">love metal</a></li>
         </ul>
       </td>
       <td>

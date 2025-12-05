@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-27T08:48:07.589Z
+date: 2025-12-05T04:38:44.573Z
 permalink: tags/russian-rock
 title: russian rock
 ---
 
 ## russian rock
 
-Last updated: <time datetime="2025-11-27T08:48:07.589Z">Thu Nov 27 2025 10:48:07 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T04:38:44.573Z">Fri Dec 05 2025 06:38:44 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -117,7 +117,7 @@ Russian rock is a guitar-driven genre that emerged in the Soviet underground, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 13</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -358,7 +358,7 @@ Russian rock is a guitar-driven genre that emerged in the Soviet underground, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 87</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -484,7 +484,7 @@ Russian rock is a guitar-driven genre that emerged in the Soviet underground, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 83</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -597,7 +597,7 @@ Russian rock is a guitar-driven genre that emerged in the Soviet underground, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 29</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -965,7 +965,7 @@ Russian rock is a guitar-driven genre that emerged in the Soviet underground, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 3</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1037,7 +1037,7 @@ Russian rock is a guitar-driven genre that emerged in the Soviet underground, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a> # 61</li>
+            <li> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1059,7 +1059,7 @@ Russian rock is a guitar-driven genre that emerged in the Soviet underground, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 79</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1095,7 +1095,7 @@ Russian rock is a guitar-driven genre that emerged in the Soviet underground, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 91</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1261,7 +1261,7 @@ Russian rock is a guitar-driven genre that emerged in the Soviet underground, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 4</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1318,8 +1318,8 @@ Russian rock is a guitar-driven genre that emerged in the Soviet underground, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 2</li>
-            <li> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a> # 95</li>
+            <li> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a> # 6</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1379,7 +1379,7 @@ Russian rock is a guitar-driven genre that emerged in the Soviet underground, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 97</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1457,7 +1457,7 @@ Russian rock is a guitar-driven genre that emerged in the Soviet underground, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a> # 100</li>
+            <li> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -1496,7 +1496,7 @@ Russian rock is a guitar-driven genre that emerged in the Soviet underground, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a> # 91</li>
+            <li> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1754,7 +1754,7 @@ Russian rock is a guitar-driven genre that emerged in the Soviet underground, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a> # 90</li>
+            <li> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1775,7 +1775,7 @@ Russian rock is a guitar-driven genre that emerged in the Soviet underground, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 52</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1796,7 +1796,7 @@ Russian rock is a guitar-driven genre that emerged in the Soviet underground, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a> # 93</li>
+            <li> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a> # 8</li>
         </ul>
       </td>
     </tr>

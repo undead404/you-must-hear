@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-18T12:08:30.382Z
+date: 2025-12-05T04:42:20.375Z
 permalink: tags/rave
 title: rave
 ---
 
 ## rave
 
-Last updated: <time datetime="2025-11-18T12:08:30.382Z">Tue Nov 18 2025 14:08:30 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T04:42:20.375Z">Fri Dec 05 2025 06:42:20 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -72,8 +72,8 @@ Rave is an electronic dance music genre characterized by fast, repetitive beats,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 25</li>
-            <li> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a> # 74</li>
+            <li> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a> # 27</li>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -113,8 +113,8 @@ Rave is an electronic dance music genre characterized by fast, repetitive beats,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 95</li>
-            <li> <a href="{{ "/tags/old-school-hardcore" | relative_url }}">old school hardcore</a> # 100</li>
+            <li> <a href="{{ "/tags/old-school-hardcore" | relative_url }}">old school hardcore</a> # 1</li>
+            <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -175,7 +175,7 @@ Rave is an electronic dance music genre characterized by fast, repetitive beats,
     <tr>
       <td>38</td>
       <td>
-          <img src="https://i.discogs.com/209yOhOqKAvy-47eZcItz2UIfaJ-jrlhb5b5VHo0E8A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzgy/LTEzNzM4NzY5MTgt/MjczNC5qcGVn.jpeg" alt="Cover for Full On .. Mask Hysteria" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/91ec14e8588c4dc589be5b8b11cdcb31.png" alt="Cover for Full On .. Mask Hysteria" style="max-width:120px; height:auto;" />
       </td>
       <td>1992-07-13</td>
       <td>Altern 8</td>
@@ -205,7 +205,7 @@ Rave is an electronic dance music genre characterized by fast, repetitive beats,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 37</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -227,9 +227,9 @@ Rave is an electronic dance music genre characterized by fast, repetitive beats,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 9</li>
-            <li> <a href="{{ "/tags/old-school-hardcore" | relative_url }}">old school hardcore</a> # 90</li>
-            <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 91</li>
+            <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 9</li>
+            <li> <a href="{{ "/tags/old-school-hardcore" | relative_url }}">old school hardcore</a> # 11</li>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -247,8 +247,8 @@ Rave is an electronic dance music genre characterized by fast, repetitive beats,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 67</li>
-            <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 88</li>
+            <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 12</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -269,7 +269,7 @@ Rave is an electronic dance music genre characterized by fast, repetitive beats,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 85</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -295,6 +295,7 @@ Rave is an electronic dance music genre characterized by fast, repetitive beats,
     <tr>
       <td>58</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b3da46f3bb9a9cdb12f67256f61e0385.png" alt="Cover for Raveland" style="max-width:120px; height:auto;" />
       </td>
       <td>1994</td>
       <td>Marusha</td>
@@ -326,7 +327,7 @@ Rave is an electronic dance music genre characterized by fast, repetitive beats,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 62</li>
+            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -345,7 +346,7 @@ Rave is an electronic dance music genre characterized by fast, repetitive beats,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 50</li>
+            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -364,7 +365,7 @@ Rave is an electronic dance music genre characterized by fast, repetitive beats,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 57</li>
+            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -409,8 +410,8 @@ Rave is an electronic dance music genre characterized by fast, repetitive beats,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 72</li>
-            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 83</li>
+            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 18</li>
+            <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -453,9 +454,9 @@ Rave is an electronic dance music genre characterized by fast, repetitive beats,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 53</li>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 81</li>
-            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 88</li>
+            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 13</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 17</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -479,10 +480,10 @@ Rave is an electronic dance music genre characterized by fast, repetitive beats,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 84</li>
-            <li> <a href="{{ "/tags/old-school-hardcore" | relative_url }}">old school hardcore</a> # 96</li>
-            <li> <a href="{{ "/tags/hardcore-techno" | relative_url }}">hardcore techno</a> # 99</li>
-            <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 99</li>
+            <li> <a href="{{ "/tags/hardcore-techno" | relative_url }}">hardcore techno</a> # 2</li>
+            <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 2</li>
+            <li> <a href="{{ "/tags/old-school-hardcore" | relative_url }}">old school hardcore</a> # 5</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -534,14 +535,15 @@ Rave is an electronic dance music genre characterized by fast, repetitive beats,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 25</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 57</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 64</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 75</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 75</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 78</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 88</li>
-            <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 91</li>
+            <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 10</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 13</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 21</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 25</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 26</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 36</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 40</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 75</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -570,16 +572,16 @@ Rave is an electronic dance music genre characterized by fast, repetitive beats,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 39</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 52</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 57</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 78</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 86</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 88</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 89</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 93</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 97</li>
-            <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 98</li>
+            <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 3</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 4</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 7</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 12</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 12</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 15</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 17</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 39</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 49</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -607,9 +609,10 @@ Rave is an electronic dance music genre characterized by fast, repetitive beats,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 14</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 32</li>
-            <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 82</li>
+            <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 19</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 68</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 87</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -637,11 +640,11 @@ Rave is an electronic dance music genre characterized by fast, repetitive beats,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 5</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 14</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 28</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 46</li>
-            <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 83</li>
+            <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 18</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 54</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 73</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 85</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -669,11 +672,11 @@ Rave is an electronic dance music genre characterized by fast, repetitive beats,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 12</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 16</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 30</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 47</li>
-            <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 84</li>
+            <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 17</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 53</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 71</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 83</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -702,16 +705,16 @@ Rave is an electronic dance music genre characterized by fast, repetitive beats,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 19</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 30</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 41</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 69</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 78</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 81</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 84</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 87</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 93</li>
-            <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 95</li>
+            <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 6</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 8</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 13</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 17</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 19</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 22</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 26</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 60</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 62</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -752,26 +755,45 @@ Rave is an electronic dance music genre characterized by fast, repetitive beats,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 18</li>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 43</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 52</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 57</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 72</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 72</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 75</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 75</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 85</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 85</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 86</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 86</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 86</li>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 88</li>
-            <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 89</li>
-            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 93</li>
-            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 96</li>
-            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 97</li>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 100</li>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 100</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 1</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 1</li>
+            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 3</li>
+            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 4</li>
+            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 8</li>
+            <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 12</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 13</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 15</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 15</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 15</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 16</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 16</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 24</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 24</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 28</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 29</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 42</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 43</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 46</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 82</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0d6c1c90d31e7ed33b216ab0ccea6327.png" alt="Cover for Awakening" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>Aurora</td>
+      <td>Awakening</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -806,20 +828,20 @@ Rave is an electronic dance music genre characterized by fast, repetitive beats,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 15</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 50</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 55</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 70</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 70</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 73</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 73</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 83</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 83</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 84</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 84</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 84</li>
-            <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 87</li>
-            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 91</li>
+            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 10</li>
+            <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 14</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 17</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 17</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 17</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 18</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 18</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 26</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 26</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 30</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 31</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 44</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 45</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -854,20 +876,21 @@ Rave is an electronic dance music genre characterized by fast, repetitive beats,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 22</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 56</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 63</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 73</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 74</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 76</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 78</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 86</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 87</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 87</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 87</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 87</li>
-            <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 90</li>
-            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 94</li>
+            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 7</li>
+            <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 11</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 14</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 14</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 14</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 14</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 15</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 21</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 23</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 27</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 27</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 37</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 41</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 78</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -902,22 +925,22 @@ Rave is an electronic dance music genre characterized by fast, repetitive beats,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 8</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 25</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 36</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 66</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 72</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 78</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 81</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 83</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 84</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 90</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 90</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 90</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 90</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 90</li>
-            <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 92</li>
-            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 96</li>
+            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 6</li>
+            <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 9</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 11</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 11</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 11</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 12</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 12</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 16</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 17</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 20</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 22</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 27</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 29</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 65</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 67</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -946,16 +969,16 @@ Rave is an electronic dance music genre characterized by fast, repetitive beats,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 14</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 28</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 38</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 68</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 75</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 80</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 83</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 85</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 92</li>
-            <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 94</li>
+            <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 7</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 9</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 15</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 18</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 20</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 24</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 27</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 63</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 64</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -984,34 +1007,16 @@ Rave is an electronic dance music genre characterized by fast, repetitive beats,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 36</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 49</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 49</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 73</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 85</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 86</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 87</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 91</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 96</li>
-            <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 97</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>40</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0d6c1c90d31e7ed33b216ab0ccea6327.png" alt="Cover for Awakening" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2002</td>
-      <td>Aurora</td>
-      <td>Awakening</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
+            <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 4</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 5</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 9</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 14</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 14</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 16</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 21</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 46</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 52</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1039,15 +1044,15 @@ Rave is an electronic dance music genre characterized by fast, repetitive beats,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 88</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 89</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 89</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 93</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 93</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 93</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 94</li>
-            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 99</li>
-            <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 99</li>
+            <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 2</li>
+            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 2</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 7</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 8</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 8</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 8</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 11</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 11</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1071,7 +1076,7 @@ Rave is an electronic dance music genre characterized by fast, repetitive beats,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 39</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1118,14 +1123,14 @@ Rave is an electronic dance music genre characterized by fast, repetitive beats,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 2</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 44</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 48</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 65</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 66</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 66</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 80</li>
-            <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 86</li>
+            <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 15</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 20</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 34</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 34</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 35</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 50</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 52</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1146,7 +1151,7 @@ Rave is an electronic dance music genre characterized by fast, repetitive beats,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 21</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1164,7 +1169,7 @@ Rave is an electronic dance music genre characterized by fast, repetitive beats,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a> # 99</li>
+            <li> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -1189,7 +1194,7 @@ Rave is an electronic dance music genre characterized by fast, repetitive beats,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a> # 97</li>
+            <li> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1211,7 +1216,7 @@ Rave is an electronic dance music genre characterized by fast, repetitive beats,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 90</li>
+            <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1235,7 +1240,7 @@ Rave is an electronic dance music genre characterized by fast, repetitive beats,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 70</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1255,8 +1260,8 @@ Rave is an electronic dance music genre characterized by fast, repetitive beats,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 70</li>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 78</li>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 21</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1277,8 +1282,8 @@ Rave is an electronic dance music genre characterized by fast, repetitive beats,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 80</li>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 82</li>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 17</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1315,9 +1320,9 @@ Rave is an electronic dance music genre characterized by fast, repetitive beats,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 55</li>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 97</li>
-            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 97</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 4</li>
+            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 4</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1335,8 +1340,8 @@ Rave is an electronic dance music genre characterized by fast, repetitive beats,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 45</li>
-            <li> <a href="{{ "/tags/old-school-hardcore" | relative_url }}">old school hardcore</a> # 73</li>
+            <li> <a href="{{ "/tags/old-school-hardcore" | relative_url }}">old school hardcore</a> # 28</li>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1364,14 +1369,14 @@ Rave is an electronic dance music genre characterized by fast, repetitive beats,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 51</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>52</td>
       <td>
-          <img src="https://i.discogs.com/HBuzKPH9j0PpikV5tBGtW9_mGq-cbDvTfXR6VdZUwOQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzQ4/MjUtMTMyNzMyNjYx/Ny5qcGVn.jpeg" alt="Cover for Little Kandi Raver &#x2F; Dealer &#x2F; Le Rock" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/74c95890c9c7f4c497242d281a0d965f.png" alt="Cover for Little Kandi Raver &#x2F; Dealer &#x2F; Le Rock" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-09-30</td>
       <td>S3RL</td>
@@ -1388,8 +1393,8 @@ Rave is an electronic dance music genre characterized by fast, repetitive beats,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 81</li>
-            <li> <a href="{{ "/tags/uk-hardcore" | relative_url }}">uk hardcore</a> # 96</li>
+            <li> <a href="{{ "/tags/uk-hardcore" | relative_url }}">uk hardcore</a> # 6</li>
+            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1408,8 +1413,8 @@ Rave is an electronic dance music genre characterized by fast, repetitive beats,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 76</li>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 78</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 20</li>
+            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1481,7 +1486,7 @@ Rave is an electronic dance music genre characterized by fast, repetitive beats,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 9</li>
+            <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1499,8 +1504,8 @@ Rave is an electronic dance music genre characterized by fast, repetitive beats,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 54</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 82</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 17</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1525,10 +1530,10 @@ Rave is an electronic dance music genre characterized by fast, repetitive beats,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 58</li>
-            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 83</li>
-            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 99</li>
-            <li> <a href="{{ "/tags/uk-hardcore" | relative_url }}">uk hardcore</a> # 100</li>
+            <li> <a href="{{ "/tags/uk-hardcore" | relative_url }}">uk hardcore</a> # 1</li>
+            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 2</li>
+            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 17</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1548,7 +1553,7 @@ Rave is an electronic dance music genre characterized by fast, repetitive beats,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 74</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1570,7 +1575,7 @@ Rave is an electronic dance music genre characterized by fast, repetitive beats,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 94</li>
+            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1592,7 +1597,7 @@ Rave is an electronic dance music genre characterized by fast, repetitive beats,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 76</li>
+            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1688,7 +1693,7 @@ Rave is an electronic dance music genre characterized by fast, repetitive beats,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 48</li>
+            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1706,19 +1711,19 @@ Rave is an electronic dance music genre characterized by fast, repetitive beats,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 34</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 44</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 60</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 61</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 62</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 63</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 74</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 76</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 76</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 77</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 78</li>
-            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 85</li>
-            <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 85</li>
+            <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 16</li>
+            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 16</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 23</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 24</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 25</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 25</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 26</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 37</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 38</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 39</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 40</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 56</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1741,8 +1746,8 @@ Rave is an electronic dance music genre characterized by fast, repetitive beats,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 90</li>
-            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 99</li>
+            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 2</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1777,22 +1782,22 @@ Rave is an electronic dance music genre characterized by fast, repetitive beats,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 21</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 31</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 42</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 70</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 79</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 82</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 85</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 86</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 88</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 92</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 92</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 92</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 92</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 94</li>
-            <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 96</li>
-            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 98</li>
+            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 4</li>
+            <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 5</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 7</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 9</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 9</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 10</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 10</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 12</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 14</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 16</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 18</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 21</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 25</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 59</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 61</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1854,7 +1859,7 @@ Rave is an electronic dance music genre characterized by fast, repetitive beats,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 94</li>
+            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1889,22 +1894,22 @@ Rave is an electronic dance music genre characterized by fast, repetitive beats,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 49</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 60</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 64</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 80</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 89</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 90</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 90</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 94</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 94</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 94</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 94</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 94</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 96</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 98</li>
-            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 100</li>
-            <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 100</li>
+            <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 1</li>
+            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 1</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 3</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 5</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 6</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 7</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 7</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 7</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 7</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 10</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 10</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 12</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 15</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 36</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 37</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1944,8 +1949,8 @@ Rave is an electronic dance music genre characterized by fast, repetitive beats,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 94</li>
-            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 100</li>
+            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 1</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -1969,9 +1974,9 @@ Rave is an electronic dance music genre characterized by fast, repetitive beats,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 41</li>
-            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 93</li>
-            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 96</li>
+            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 5</li>
+            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 8</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -2006,20 +2011,20 @@ Rave is an electronic dance music genre characterized by fast, repetitive beats,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 16</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 51</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 56</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 71</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 71</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 74</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 74</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 84</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 84</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 85</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 85</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 85</li>
-            <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 88</li>
-            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 92</li>
+            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 9</li>
+            <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 13</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 16</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 16</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 16</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 17</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 17</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 25</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 25</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 29</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 30</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 43</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 44</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -2067,16 +2072,16 @@ Rave is an electronic dance music genre characterized by fast, repetitive beats,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 10</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 26</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 37</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 67</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 73</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 79</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 82</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 84</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 91</li>
-            <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 93</li>
+            <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 8</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 10</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 16</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 19</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 21</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 26</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 28</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 64</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 66</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -2098,15 +2103,15 @@ Rave is an electronic dance music genre characterized by fast, repetitive beats,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 53</li>
-            <li> <a href="{{ "/tags/uk-hardcore" | relative_url }}">uk hardcore</a> # 88</li>
+            <li> <a href="{{ "/tags/uk-hardcore" | relative_url }}">uk hardcore</a> # 13</li>
+            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>20</td>
       <td>
-          <img src="https://i.discogs.com/5NO23AU2j2lCSjUIwhzyD4NNG67Xdc2W0sLmBsNDfjQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDIz/NzMzLTE1ODU2NTE3/MTItODY5Ny5qcGVn.jpeg" alt="Cover for Body Changes Are Natural" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a25115c252b3aabef03a1c0af70b94dc.png" alt="Cover for Body Changes Are Natural" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-05-15</td>
       <td>Niki Istrefi</td>
@@ -2146,7 +2151,7 @@ Rave is an electronic dance music genre characterized by fast, repetitive beats,
     <tr>
       <td>56</td>
       <td>
-          <img src="https://i.discogs.com/qvYsHwgXJRAi8ZRqauxsW4vRxDtVALKD1Qb4w7FRp5o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDg3/NTI2LTE1OTI3MzU5/MDUtMjI2MS5qcGVn.jpeg" alt="Cover for RVE002" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f3f7aa5c660df296271ddbe0f72938c2.png" alt="Cover for RVE002" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-06-19</td>
       <td>Tommy Holohan</td>
@@ -2162,7 +2167,7 @@ Rave is an electronic dance music genre characterized by fast, repetitive beats,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 60</li>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -2220,14 +2225,14 @@ Rave is an electronic dance music genre characterized by fast, repetitive beats,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 61</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 36</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>10</td>
       <td>
-          <img src="https://i.discogs.com/aibfmN_sQlCwLhVLJEPAmDn7Tkzrm-K0A3-JJwTiBFw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDY5/MzEwLTE2MzMzNjEy/MjEtMjk1Mi5qcGVn.jpeg" alt="Cover for Forced Isolation" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/44042f440ce02497e0b34037644b2909.png" alt="Cover for Forced Isolation" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-05-17</td>
       <td>UNCONSCIOUS</td>
@@ -2300,8 +2305,8 @@ Rave is an electronic dance music genre characterized by fast, repetitive beats,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 90</li>
-            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 100</li>
+            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 1</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -2320,7 +2325,7 @@ Rave is an electronic dance music genre characterized by fast, repetitive beats,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 53</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -2341,7 +2346,7 @@ Rave is an electronic dance music genre characterized by fast, repetitive beats,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 49</li>
+            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -2367,11 +2372,11 @@ Rave is an electronic dance music genre characterized by fast, repetitive beats,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 25</li>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 68</li>
-            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 82</li>
-            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 84</li>
-            <li> <a href="{{ "/tags/sextrance" | relative_url }}">sextrance</a> # 100</li>
+            <li> <a href="{{ "/tags/sextrance" | relative_url }}">sextrance</a> # 1</li>
+            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 16</li>
+            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 19</li>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 32</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -2413,8 +2418,8 @@ Rave is an electronic dance music genre characterized by fast, repetitive beats,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 52</li>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 80</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 20</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -2435,8 +2440,8 @@ Rave is an electronic dance music genre characterized by fast, repetitive beats,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 17</li>
-            <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 66</li>
+            <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 35</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -2499,7 +2504,7 @@ Rave is an electronic dance music genre characterized by fast, repetitive beats,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 35</li>
+            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -2526,9 +2531,9 @@ Rave is an electronic dance music genre characterized by fast, repetitive beats,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 43</li>
-            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 54</li>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 89</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 12</li>
+            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 45</li>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 57</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T01:30:27.223Z
+date: 2025-12-05T04:40:15.703Z
 permalink: tags/post-black-metal
 title: post-black metal
 ---
 
 ## post-black metal
 
-Last updated: <time datetime="2025-11-23T01:30:27.223Z">Sun Nov 23 2025 03:30:27 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T04:40:15.703Z">Fri Dec 05 2025 06:40:15 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
   </thead>
   <tbody>
     <tr>
-      <td>65</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/G5xLp2oN5O_NbWtirAu6lWVepBzWsqApUMRZaoJ2ro8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MTU2/MDgtMTQxOTUxMTM5/OS0yNzc4LmpwZWc.jpeg" alt="Cover for Sen Trope" style="max-width:120px; height:auto;" />
       </td>
@@ -48,16 +48,16 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 22</li>
-            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 50</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 77</li>
-            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 82</li>
-            <li> <a href="{{ "/tags/rabm" | relative_url }}">rabm</a> # 90</li>
+            <li> <a href="{{ "/tags/rabm" | relative_url }}">rabm</a> # 11</li>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 19</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 24</li>
+            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 51</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e74b21ae68584e65938b9f596fbf57ba.png" alt="Cover for Masterpiece of Bitterness" style="max-width:120px; height:auto;" />
       </td>
@@ -76,7 +76,7 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>59</td>
       <td>
       </td>
       <td>2007-12-22</td>
@@ -96,8 +96,9 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>49</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d3ec049586b04d3ca2245a15e7972ee6.png" alt="Cover for Wo Die Ewigkeit Die Zeit Berührt" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-09-15</td>
       <td>Wedard</td>
@@ -112,12 +113,12 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 2</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>81</td>
       <td>
       </td>
       <td>2008-11</td>
@@ -136,7 +137,7 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e3a82db965e54725ad74bbe3fc37bf10.png" alt="Cover for Köld" style="max-width:120px; height:auto;" />
       </td>
@@ -152,13 +153,34 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 5</li>
-            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 61</li>
+            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 36</li>
+            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>100</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4f1a966228fc4fd39218f4f523e64c2d.png" alt="Cover for White Tomb" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-04-13</td>
+      <td>Altar of Plagues</td>
+      <td>White Tomb</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a></li>
+            <li style="font-size: calc(1rem * 81 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 26</li>
+            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 95</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
       <td>
       </td>
       <td>2009-09-01</td>
@@ -177,37 +199,36 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 2</li>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 16</li>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 19</li>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 24</li>
-            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 44</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 9</li>
+            <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 10</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 11</li>
+            <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 15</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 15</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 16</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 19</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 25</li>
+            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 27</li>
+            <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 32</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 32</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 33</li>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 36</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 37</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 46</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 46</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 47</li>
+            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 53</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 53</li>
-            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 54</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 55</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 61</li>
-            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 64</li>
-            <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 68</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 68</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 69</li>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 69</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 69</li>
-            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 74</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 76</li>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 79</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 85</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 77</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 83</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 85</li>
             <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 86</li>
-            <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 86</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 86</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 90</li>
-            <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 91</li>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 92</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>26</td>
       <td>
       </td>
       <td>2009-09-09</td>
@@ -225,13 +246,13 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 30</li>
-            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 54</li>
+            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 47</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/IcFM-7d5KkKq0V0HuZNlYMVn6dTf608jshYK-UwBYaI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDM4/MzEtMTQ0MDc3OTA2/Ny01OTk2LmpwZWc.jpeg" alt="Cover for So Alone" style="max-width:120px; height:auto;" />
       </td>
@@ -301,7 +322,6 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a></li>
@@ -324,42 +344,42 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       <td>
         <ul>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 3</li>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 8</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 9</li>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 16</li>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 22</li>
-            <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 29</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 10</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 12</li>
+            <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 14</li>
+            <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 14</li>
+            <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 16</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 16</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 27</li>
+            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 29</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 30</li>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 38</li>
+            <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 32</li>
+            <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 33</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 35</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 35</li>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 37</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 38</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 40</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 42</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 44</li>
-            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 48</li>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 48</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 53</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 54</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 58</li>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 62</li>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 62</li>
-            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 63</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 66</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 66</li>
-            <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 67</li>
-            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 72</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 74</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 46</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 47</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 53</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 53</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 54</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 55</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 79</li>
             <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 81</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 83</li>
             <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 83</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 85</li>
-            <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 85</li>
-            <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 87</li>
-            <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 87</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 89</li>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 91</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 86</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 92</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/zmFBq1faQ0XG4wqgbr3sxy36fTAya8roJuIEdvzEnuY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTUw/NDAtMTI3OTEwNjEx/NC5qcGVn.jpeg" alt="Cover for Sweet Poison" style="max-width:120px; height:auto;" />
       </td>
@@ -377,7 +397,7 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b579947cbb744cfa89436515f2f000d.png" alt="Cover for My Worlds" style="max-width:120px; height:auto;" />
       </td>
@@ -391,34 +411,33 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 5</li>
-            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 23</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 38</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 15</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 18</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 19</li>
+            <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 22</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 22</li>
+            <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 25</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 26</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 28</li>
+            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 35</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 37</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 39</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 46</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 42</li>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 43</li>
+            <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 48</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 49</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 51</li>
-            <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 52</li>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 54</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 56</li>
-            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 57</li>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 62</li>
-            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 66</li>
-            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 73</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 50</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 53</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 63</li>
             <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 75</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 75</li>
-            <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 76</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 79</li>
-            <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 79</li>
+            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 76</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 81</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 82</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 83</li>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 86</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/76cc159853ad4799b393086226869a8b.png" alt="Cover for Drifting Through The Void" style="max-width:120px; height:auto;" />
       </td>
@@ -439,7 +458,7 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/44f1bfe14a9e4bdd9032f53456263e9f.png" alt="Cover for Morgondagen inställd i brist på intresse" style="max-width:120px; height:auto;" />
       </td>
@@ -453,13 +472,13 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 86</li>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 88</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 11</li>
+            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 13</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/41a535592c7d4128bede8408c183f17c.png" alt="Cover for Demo" style="max-width:120px; height:auto;" />
       </td>
@@ -474,13 +493,13 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 29</li>
             <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 49</li>
+            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/393a94f88be143f294d2a7bc9458e40d.png" alt="Cover for Norrøn Livskunst" style="max-width:120px; height:auto;" />
       </td>
@@ -497,12 +516,12 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 16</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/64b1c55cf96a26bd851e053a745e76bc.png" alt="Cover for Marrow of the Spirit" style="max-width:120px; height:auto;" />
       </td>
@@ -517,14 +536,14 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a> # 29</li>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 66</li>
-            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 96</li>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 4</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 33</li>
+            <li> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a1f451e315ed42c88eeee4365c3cd4a0.png" alt="Cover for Good Memories Are The Hardest To Keep" style="max-width:120px; height:auto;" />
       </td>
@@ -545,7 +564,7 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>51</td>
       <td>
       </td>
       <td>2011-02-03</td>
@@ -560,12 +579,12 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 96</li>
+            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 5</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>24</td>
       <td>
       </td>
       <td>2011-04-22</td>
@@ -584,8 +603,9 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>53</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e0e6e08dade74caf8e46acbc90d2eb9f.png" alt="Cover for Mammal" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-04-25</td>
       <td>Altar of Plagues</td>
@@ -597,12 +617,12 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 65</li>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 31</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/788ca03685f44878949f119c1c2e5d0e.png" alt="Cover for Roads to Judah" style="max-width:120px; height:auto;" />
       </td>
@@ -617,14 +637,14 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 7</li>
-            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 41</li>
-            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 97</li>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 3</li>
+            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 59</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/55c0b630f209388a964ae8dd07fe75a4.png" alt="Cover for L&#39;Ordure à l&#39;état Pur" style="max-width:120px; height:auto;" />
       </td>
@@ -639,13 +659,13 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-black-metal" | relative_url }}">french black metal</a> # 53</li>
-            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 1</li>
+            <li> <a href="{{ "/tags/french-black-metal" | relative_url }}">french black metal</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>46</td>
       <td>
       </td>
       <td>2011-06-04</td>
@@ -660,12 +680,30 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 75</li>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 26</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>99</td>
+      <td>
+      </td>
+      <td>2011-06</td>
+      <td>Seagulls Insane and Swans Deceased Mining Out the Void</td>
+      <td>Seagulls Insane and Swans Deceased Mining Out the Void</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9523728e121fac0ef3bd9768b698f9ea.png" alt="Cover for Agape" style="max-width:120px; height:auto;" />
       </td>
@@ -684,7 +722,7 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b9f2fc6b29c04f00b6933bfc9d7cc512.png" alt="Cover for Les voyages de l&#39;Âme" style="max-width:120px; height:auto;" />
       </td>
@@ -698,13 +736,13 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 64</li>
-            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 88</li>
+            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 10</li>
+            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>84</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c40315974e6b458bb3942a3b7e8a86aa.png" alt="Cover for Рвота" style="max-width:120px; height:auto;" />
       </td>
@@ -726,7 +764,7 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>60</td>
       <td>
       </td>
       <td>2012-03-12</td>
@@ -740,11 +778,12 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/ZPM5SqMS3RvCkxj1iNJtAjqKXWJL2_1ZfX4T6gYIfnM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MDMy/NDItMTMzNzAwMzgx/My0xNTk3LmpwZWc.jpeg" alt="Cover for Al Azif" style="max-width:120px; height:auto;" />
       </td>
@@ -762,7 +801,7 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb9f5826203fb1e015ce2ca61c70ce2c.png" alt="Cover for Suffocating In The Swarm Of Cranes" style="max-width:120px; height:auto;" />
       </td>
@@ -783,7 +822,7 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>83</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8091d36dbd1743ec982dae84794f07a7.png" alt="Cover for Marzannie, Krolowej Polski" style="max-width:120px; height:auto;" />
       </td>
@@ -800,8 +839,9 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>95</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/58971c0f13784f8cbecf65621091a455.png" alt="Cover for 777 - Cosmosophy" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-09-21</td>
       <td>Blut aus Nord</td>
@@ -809,20 +849,19 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a></li>
-            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 36</li>
-            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 77</li>
-            <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 83</li>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 60</li>
+            <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>86</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c79eed3b26e945a5c5bfefa845bfcda4.png" alt="Cover for Tir n&#39;a n&#39;Og" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-09-29</td>
       <td>Celephaïs</td>
@@ -840,7 +879,7 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bf0ca6f16f8b406cc0a5ac42d2f5ea4b.png" alt="Cover for Harakiri for the Sky" style="max-width:120px; height:auto;" />
       </td>
@@ -858,7 +897,7 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e9086ab39fab19da6d7511f70d67730.png" alt="Cover for My Mind is too Weak to Forget" style="max-width:120px; height:auto;" />
       </td>
@@ -873,12 +912,12 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 47</li>
+            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/inHQP22FatL21oqnfy0xh3Gl_f7PvB7IF6eFa7zi8nc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMjg0/ODgtMTU1NjY1ODA3/OS03Nzk4LmpwZWc.jpeg" alt="Cover for Hope Drone" style="max-width:120px; height:auto;" />
       </td>
@@ -896,7 +935,7 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/00MQgdnBCX_o__JRLqR1HzNuTb_PFLOx6wOyWlDAluo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNDcy/MjUtMTM2MjQxNzQ2/Mi00MzUzLmpwZWc.jpeg" alt="Cover for Aetas Cineris" style="max-width:120px; height:auto;" />
       </td>
@@ -916,8 +955,9 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>48</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/68af319178c44144c1f70bfbdb19c6b1.png" alt="Cover for Bloodlands" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-02-17</td>
       <td>Ash Borer</td>
@@ -934,8 +974,9 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>44</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bbd356266e155345d934157e80678622.png" alt="Cover for Vesper" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-02-28</td>
       <td>Entropia</td>
@@ -952,7 +993,7 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>82</td>
       <td>
       </td>
       <td>2013-04-13</td>
@@ -966,12 +1007,12 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 17</li>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8a6a1123bb124e4890f20c956a63e734.png" alt="Cover for Sunbather" style="max-width:120px; height:auto;" />
       </td>
@@ -984,12 +1025,12 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 98</li>
+            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 2</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ce7b1a7eaa38679fe9a0b8eed2bf6e9.png" alt="Cover for Sky Swallower" style="max-width:120px; height:auto;" />
       </td>
@@ -1008,12 +1049,12 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-black-metal" | relative_url }}">ambient black metal</a> # 71</li>
+            <li> <a href="{{ "/tags/ambient-black-metal" | relative_url }}">ambient black metal</a> # 30</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>92</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/82237c2dfaed47a8b5f9941b0e1a0d86.png" alt="Cover for Satyricon" style="max-width:120px; height:auto;" />
       </td>
@@ -1031,7 +1072,7 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>75</td>
       <td>
       </td>
       <td>2013-10-15</td>
@@ -1049,7 +1090,7 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>19</td>
       <td>
       </td>
       <td>2013-11-04</td>
@@ -1064,13 +1105,13 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 43</li>
-            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 60</li>
+            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 41</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/39197493af6520e2f98fae8125d7b7e0.png" alt="Cover for Funeral" style="max-width:120px; height:auto;" />
       </td>
@@ -1088,15 +1129,15 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 45</li>
-            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 62</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 86</li>
-            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 90</li>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 11</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 15</li>
+            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 39</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>21</td>
       <td>
       </td>
       <td>2014-04-16</td>
@@ -1113,7 +1154,7 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf4eb791e6633037f1d79821ec339139.png" alt="Cover for Aokigahara" style="max-width:120px; height:auto;" />
       </td>
@@ -1128,12 +1169,12 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 34</li>
+            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7a6a8bc3ddf47ed9d42ab95ba25e3ce0.png" alt="Cover for From the Kettle Onto the Coil" style="max-width:120px; height:auto;" />
       </td>
@@ -1147,30 +1188,12 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 93</li>
+            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 6</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cedc101034af6648f61b19ed94e44a12.png" alt="Cover for Ótta" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2014-08-29</td>
-      <td>Sólstafir</td>
-      <td>Ótta</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>64</td>
+      <td>36</td>
       <td>
       </td>
       <td>2014-11-18</td>
@@ -1185,32 +1208,12 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 66</li>
+            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 31</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6f438a3582ae459cc5773ca714082755.png" alt="Cover for A Northern Meadow" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2015</td>
-      <td>Pyramids</td>
-      <td>A Northern Meadow</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>54</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5c1e9146bc48dfe42d57f15f6225dd0c.png" alt="Cover for One Day All This Will End" style="max-width:120px; height:auto;" />
       </td>
@@ -1232,7 +1235,27 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>76</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6f438a3582ae459cc5773ca714082755.png" alt="Cover for A Northern Meadow" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015</td>
+      <td>Pyramids</td>
+      <td>A Northern Meadow</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/41621241223f4d05cd07ed56fb9d31ec.png" alt="Cover for The Long Goodbye" style="max-width:120px; height:auto;" />
       </td>
@@ -1251,9 +1274,9 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
-          <img src="https://i.discogs.com/ebY9btgGgqplP2UECMnn6TgtcygxxUH4ofUzohLHa_Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4Nzg4/ODgtMTQ0NjE0OTk3/My02NzE5LnBuZw.jpeg" alt="Cover for Moonlover" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d8fa1ac6dec4183c19a033ee3ac2647.png" alt="Cover for Moonlover" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-04-10</td>
       <td>Ghost Bath</td>
@@ -1269,17 +1292,17 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 90</li>
-            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 91</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 96</li>
-            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 96</li>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 5</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 5</li>
+            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 7</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 9</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>37</td>
       <td>
-          <img src="https://i.discogs.com/Ne5iEDOPgA6YwltzxSEK9ROIhtxBIcZjLioLpJZMri4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4ODIx/MzYtMTQyODY3NDY3/MS01Mzc2LmpwZWc.jpeg" alt="Cover for All Fours" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8a098bf0132a584e23b29588c32e3715.png" alt="Cover for All Fours" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-04-14</td>
       <td>Bosse-de-Nage</td>
@@ -1295,7 +1318,7 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/22ccba9a60487b912edf670b0ba0d720.png" alt="Cover for M (Deluxe Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1311,12 +1334,12 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 38</li>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/60d9ba6c2d960a49646ccba69de73b63.png" alt="Cover for New Bermuda" style="max-width:120px; height:auto;" />
       </td>
@@ -1331,13 +1354,13 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 83</li>
-            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 94</li>
+            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 5</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 18</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/iN40IwhWLU39tHStkiiY7pfEA7AwyYisCiuEsPapnSg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMjky/MDgtMTQzNDM3MzYy/Ny01NDc3LmpwZWc.jpeg" alt="Cover for Självdestruktivitet född av monotona tankegångar III" style="max-width:120px; height:auto;" />
       </td>
@@ -1358,7 +1381,7 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/4nXLm3NIZiHClXw-dIuv4VR59dWe1K-xLSjlzcgo2OY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNzQ2/OTMtMTQ1NDY1NjE4/MC05MjAxLmpwZWc.jpeg" alt="Cover for Magic Night" style="max-width:120px; height:auto;" />
       </td>
@@ -1376,12 +1399,12 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 64</li>
+            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 36</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/LjXMq5aKUvqI_Aiv_VtCmOrRSIpZzr2ZiRbY84vbq2g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDg0/MTQwLTE0OTgzOTc1/NTItOTE2MC5qcGVn.jpeg" alt="Cover for Eternal" style="max-width:120px; height:auto;" />
       </td>
@@ -1401,7 +1424,7 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bea8fcadd3ff86a74a1f0dad660d2a08.png" alt="Cover for King Apathy" style="max-width:120px; height:auto;" />
       </td>
@@ -1416,12 +1439,12 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 37</li>
+            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/UpoPV1ytrvKH6Nr3_PZx2XiigR4Rya2a5PaLWoIfqKw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NzUw/NTYtMTQ2ODUxMDY4/Mi0xOTY4LmpwZWc.jpeg" alt="Cover for Home" style="max-width:120px; height:auto;" />
       </td>
@@ -1438,13 +1461,13 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 44</li>
-            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 78</li>
+            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 20</li>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>96</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f6e92b71c32d0bd92aa7130e4787c51.png" alt="Cover for Rheia" style="max-width:120px; height:auto;" />
       </td>
@@ -1453,18 +1476,16 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       <td>Rheia</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a></li>
-            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 92</li>
+            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4e270a3538a6129bcf74d86b01a13096.png" alt="Cover for Atrophy" style="max-width:120px; height:auto;" />
       </td>
@@ -1482,7 +1503,7 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/QVz4gMUk1kF2gm8RLSR5x8NBVQ_7FTafmr7VsCq_OwA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNDEy/MDctMTQ3ODkwNTQz/Mi00MDY1LmpwZWc.jpeg" alt="Cover for Weltenasche" style="max-width:120px; height:auto;" />
       </td>
@@ -1500,7 +1521,7 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/274afad3cd91a557fa00a957eba77ac8.png" alt="Cover for Deep Calleth Upon Deep" style="max-width:120px; height:auto;" />
       </td>
@@ -1518,7 +1539,7 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/dv2Ciu4Qd-W048-OOeF6HqtQWybbnhP5o11UPiIdYGA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1OTg5/NzItMTU1NDkwODEx/MS0xMjk4LmpwZWc.jpeg" alt="Cover for Ons Vrije Fatum" style="max-width:120px; height:auto;" />
       </td>
@@ -1538,14 +1559,15 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 32</li>
-            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 76</li>
-            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 93</li>
+            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 8</li>
+            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 25</li>
+            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 67</li>
+            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>93</td>
       <td>
           <img src="https://i.discogs.com/T9z9OdaKCsIdx1jNtI1YDFKOoJsBYcON_q-gZtz7FRc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2ODIx/NjgtMTQ4NDY4MjY4/Ny0xODkyLmpwZWc.jpeg" alt="Cover for MIASMA" style="max-width:120px; height:auto;" />
       </td>
@@ -1570,7 +1592,7 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>94</td>
       <td>
           <img src="https://i.discogs.com/bAfX_R07OZKQ-Iv2GqhN8FUo4le_-rPrRzqVFtsBP0g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4Njgx/NjItMTQ4NzY0NTI4/OS04NjU1LmpwZWc.jpeg" alt="Cover for EOD: A Tale Of Dark Legacy" style="max-width:120px; height:auto;" />
       </td>
@@ -1587,12 +1609,12 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-sludge-metal" | relative_url }}">atmospheric sludge metal</a> # 61</li>
+            <li> <a href="{{ "/tags/atmospheric-sludge-metal" | relative_url }}">atmospheric sludge metal</a> # 40</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/RF3cuj3yQZS53hWQZBdDxYtn6YuBzwTkXyjhRis8YtM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3OTg2/NzMtMTU5OTgzMTY0/OC02Mzk5LmpwZWc.jpeg" alt="Cover for Dans La Joie" style="max-width:120px; height:auto;" />
       </td>
@@ -1612,7 +1634,7 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/gmWAyay0VXAWFsiCWmjxWrDjmvu-vXpMf_ihWvOyefw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NDY5/NTEtMTU0MTI1OTky/MS0yNzYzLmpwZWc.jpeg" alt="Cover for Hope" style="max-width:120px; height:auto;" />
       </td>
@@ -1633,7 +1655,7 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/50611eaad9a81ed2bff0bb0e9b701e43.png" alt="Cover for Vigilance Perennial" style="max-width:120px; height:auto;" />
       </td>
@@ -1656,7 +1678,7 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a78ce9706eb79a432baf9d85ff211fc8.png" alt="Cover for Starmourner" style="max-width:120px; height:auto;" />
       </td>
@@ -1674,14 +1696,14 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 30</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 67</li>
-            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 71</li>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 30</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 34</li>
+            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/gFlv5sEvdCoczdzxzMAo6KZHb_dLrfWPBPJeSrkQvSw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjYx/MTM0LTE0OTQyNzcz/MjYtNzU4Ni5qcGVn.jpeg" alt="Cover for End of Chapter" style="max-width:120px; height:auto;" />
       </td>
@@ -1699,7 +1721,7 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8fe58c7ab9cd1a2022df60f5b4b7772c.png" alt="Cover for Rozpad" style="max-width:120px; height:auto;" />
       </td>
@@ -1717,7 +1739,7 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/MmPG_B_HUw8Eyu54doX6LN_vjWim5hJqLaaGYX2Jz20/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDg2/NzE1LTE1MTcxNzc1/NTktNTI2OC5qcGVn.jpeg" alt="Cover for Reckless Love" style="max-width:120px; height:auto;" />
       </td>
@@ -1738,37 +1760,18 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 15</li>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 37</li>
-            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 66</li>
+            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 3</li>
+            <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 3</li>
+            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 12</li>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 30</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 60</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 68</li>
-            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 86</li>
-            <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 98</li>
-            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 98</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e29014d7425119f423cc5f940f80fd18.png" alt="Cover for Solitude" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2018</td>
-      <td>Totalselfhatred</td>
-      <td>Solitude</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 42</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/95a59b1ebfef26fcc334103df02ff707.png" alt="Cover for Arson" style="max-width:120px; height:auto;" />
       </td>
@@ -1782,13 +1785,32 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 31</li>
-            <li> <a href="{{ "/tags/austria" | relative_url }}">austria</a> # 91</li>
+            <li> <a href="{{ "/tags/austria" | relative_url }}">austria</a> # 10</li>
+            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>73</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e29014d7425119f423cc5f940f80fd18.png" alt="Cover for Solitude" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018</td>
+      <td>Totalselfhatred</td>
+      <td>Solitude</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 59</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/99ce1d78a63043a155bd58ad59b7b4e1.png" alt="Cover for The Light Of September" style="max-width:120px; height:auto;" />
       </td>
@@ -1807,7 +1829,7 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f4fbaf8c664bbc57be1c0676508c8378.png" alt="Cover for It&#39;s Hard To Have Hope" style="max-width:120px; height:auto;" />
       </td>
@@ -1829,7 +1851,7 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7c5f9cd04919adb28abe2b0f5a530e93.png" alt="Cover for The Density Parameter" style="max-width:120px; height:auto;" />
       </td>
@@ -1848,34 +1870,13 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/ambient-black-metal" | relative_url }}">ambient black metal</a> # 33</li>
             <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 54</li>
-            <li> <a href="{{ "/tags/ambient-black-metal" | relative_url }}">ambient black metal</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/14499c4d27be2a70c9483f44faccdbfc.png" alt="Cover for Ordinary Corrupt Human Love" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2018-07-13</td>
-      <td>Deafheaven</td>
-      <td>Ordinary Corrupt Human Love</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a></li>
-            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 95</li>
-            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 97</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>43</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/gs_DhPT89Gl9tXpwKjI_f-ZAaJnvZqhC_3i32ijtmcA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzI5/MzkxLTE2MTE5MTE1/NTctOTQ2MC5qcGVn.jpeg" alt="Cover for Your Ultimate Urban Nightmare" style="max-width:120px; height:auto;" />
       </td>
@@ -1890,12 +1891,12 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 26</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/580683b9a23d468bceaabb402e49fb9e.png" alt="Cover for Harmony" style="max-width:120px; height:auto;" />
       </td>
@@ -1917,7 +1918,7 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/oHOorNV2lTsVMgPI_9fOfNTuyxnXBCIVweZIVIXGRII/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzk3/ODk4LTE1NDIxNDA1/NzEtMjgwNy5qcGVn.jpeg" alt="Cover for Dornenvögel" style="max-width:120px; height:auto;" />
       </td>
@@ -1935,7 +1936,7 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/HLHTV6ZvPwD2Axdq8I1jRTVTKRkUl4ckpsXDovEWz4A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzQw/NzEyLTE0OTU2MzE4/MzktNTI3OC5qcGVn.jpeg" alt="Cover for Två Konungabarn" style="max-width:120px; height:auto;" />
       </td>
@@ -1950,12 +1951,12 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 97</li>
+            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 3</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/zxminrRrMBjQoNyi69BduClOrad27m_zYP6TeEsIYyQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDM3/MjMyLTE1NTQxOTg5/NTAtOTgxMS5qcGVn.jpeg" alt="Cover for Pantheon MMXIX" style="max-width:120px; height:auto;" />
       </td>
@@ -1977,7 +1978,7 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8e35d99dc0b0c9a87472fbf2a0b39c7e.png" alt="Cover for Adore" style="max-width:120px; height:auto;" />
       </td>
@@ -1990,12 +1991,12 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 10</li>
+            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>98</td>
       <td>
           <img src="https://i.discogs.com/tSWYimpauDcjshMOkPwd-OBAawfSh-fhDxs7i77EXmE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTQx/NDc0LTE2MTM1MDk5/MDAtMjc4NS5qcGVn.jpeg" alt="Cover for Illuminated" style="max-width:120px; height:auto;" />
       </td>
@@ -2013,7 +2014,7 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/ZJxJTzxrqmEFXqjNsJ8GTWF-sw0VL-QnsuuXnmJknP4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDYy/NjU4LTE1NzUwMzY5/NDUtMjQ5My5qcGVn.jpeg" alt="Cover for Gryningsvisor" style="max-width:120px; height:auto;" />
       </td>
@@ -2032,7 +2033,7 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9816951db9f25bc70b913ad78877ba8d.png" alt="Cover for When I Die, Will I Get Better?" style="max-width:120px; height:auto;" />
       </td>
@@ -2049,7 +2050,7 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/SCIWf5B2pdxwoKqK8TiFVKFSfRfs02ZrCYiAPpEr0_s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODMy/MDQ1LTE2MjQzNjQ1/MzgtNTQ0Ni5qcGVn.jpeg" alt="Cover for Acedia" style="max-width:120px; height:auto;" />
       </td>
@@ -2069,7 +2070,7 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/8Zj_9YK_jv0B4yQAc4zxHIm1XEMXSCEf7ROpZUK3fWY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTE3/NTg3LTE2MzA4MDAw/MjMtMjI4MS5qcGVn.jpeg" alt="Cover for Istok" style="max-width:120px; height:auto;" />
       </td>
@@ -2087,7 +2088,7 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/eZCW0N3O-C66xT82tnj_iyqJ1VCUdy4CpDFfo-E3-1Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzc1/MzY3LTE2NTUxOTU4/MDMtNDMxMS5qcGVn.jpeg" alt="Cover for Self Loather" style="max-width:120px; height:auto;" />
       </td>
@@ -2105,15 +2106,15 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 37</li>
-            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 57</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 83</li>
-            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 87</li>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 14</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 18</li>
+            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 44</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/GhCryTVyKA8E7mbQHPTx9WagEiNlRI3rPS000DjrSuM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODMx/NTA3LTE2ODIwNzkz/NzktNjc1MS5qcGVn.jpeg" alt="Cover for Seven Keys to the Discomfort of Being" style="max-width:120px; height:auto;" />
       </td>
@@ -2131,7 +2132,7 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/I_HcH1aYIuBUpNGANIRAqutWgoUTHx3pU2FMKrXq5iU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTEw/MzkxLTE2ODU5NTAz/MDctMjkwMi5qcGVn.jpeg" alt="Cover for Wastelands" style="max-width:120px; height:auto;" />
       </td>
@@ -2148,13 +2149,13 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 4</li>
-            <li> <a href="{{ "/tags/german-black-metal" | relative_url }}">german black metal</a> # 87</li>
+            <li> <a href="{{ "/tags/german-black-metal" | relative_url }}">german black metal</a> # 14</li>
+            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/WJ4LR_UVvBj_QkouhvTvXk8TZ0SDUYnfiMyQm2J5_1Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDI4/MTUwLTE3MDQ3MjQ4/NzEtNzYzNy5qcGVn.jpeg" alt="Cover for Hollow" style="max-width:120px; height:auto;" />
       </td>
@@ -2174,7 +2175,7 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>88</td>
       <td>
       </td>
       <td>2024-04-26</td>
@@ -2193,7 +2194,7 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>90</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a13487a327811babef8c0e5724d2b67d.png" alt="Cover for Jours pâles" style="max-width:120px; height:auto;" />
       </td>
@@ -2208,12 +2209,12 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-black-metal" | relative_url }}">french black metal</a> # 74</li>
+            <li> <a href="{{ "/tags/french-black-metal" | relative_url }}">french black metal</a> # 27</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b60815523bf392fa759fe69a6bf55ed2.png" alt="Cover for Scorched Earth" style="max-width:120px; height:auto;" />
       </td>
@@ -2242,7 +2243,7 @@ Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensit
 - [depressive black metal]({{ "/tags/depressive-black-metal" | relative_url }})
 - [shoegaze]({{ "/tags/shoegaze" | relative_url }})
 - [metal]({{ "/tags/metal" | relative_url }})
-- [post-rock]({{ "/tags/post-rock" | relative_url }})
 - [post-metal]({{ "/tags/post-metal" | relative_url }})
+- [post-rock]({{ "/tags/post-rock" | relative_url }})
 - [suicidal black metal]({{ "/tags/suicidal-black-metal" | relative_url }})
 - [depressive suicidal black metal]({{ "/tags/depressive-suicidal-black-metal" | relative_url }})

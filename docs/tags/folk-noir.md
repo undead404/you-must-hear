@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-24T03:48:38.012Z
+date: 2025-12-05T04:36:54.103Z
 permalink: tags/folk-noir
 title: folk noir
 ---
 
 ## folk noir
 
-Last updated: <time datetime="2025-11-24T03:48:38.012Z">Mon Nov 24 2025 05:48:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T04:36:54.103Z">Fri Dec 05 2025 06:36:54 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -44,7 +44,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 67</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -69,7 +69,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 73</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 28</li>
             <li> <a href="{{ "/tags/ambient-folk-noir" | relative_url }}">ambient folk noir</a> # 97</li>
         </ul>
       </td>
@@ -93,8 +93,8 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 33</li>
-            <li> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a> # 91</li>
+            <li> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a> # 10</li>
+            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 67</li>
             <li> <a href="{{ "/tags/ambient-folk-noir" | relative_url }}">ambient folk noir</a> # 100</li>
         </ul>
       </td>
@@ -140,7 +140,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 8</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -162,12 +162,12 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 15</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 57</li>
-            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 61</li>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 62</li>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 68</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 97</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 4</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 33</li>
+            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 38</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 39</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 43</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -192,9 +192,9 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 12</li>
             <li> <a href="{{ "/tags/martial-neofolk" | relative_url }}">martial neofolk</a> # 21</li>
-            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 98</li>
+            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 89</li>
+            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -215,7 +215,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 21</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -240,7 +240,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 39</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -284,7 +284,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 23</li>
+            <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -334,8 +334,8 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 71</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 79</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 22</li>
+            <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -362,8 +362,8 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       <td>
         <ul>
             <li> <a href="{{ "/tags/martial-neofolk" | relative_url }}">martial neofolk</a> # 12</li>
-            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 44</li>
-            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 65</li>
+            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 56</li>
+            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -432,9 +432,9 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 13</li>
             <li> <a href="{{ "/tags/martial-neofolk" | relative_url }}">martial neofolk</a> # 20</li>
-            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 95</li>
+            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 88</li>
+            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -459,8 +459,8 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 10</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 27</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 74</li>
+            <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -523,11 +523,11 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 21</li>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 31</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 56</li>
-            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 65</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 76</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 25</li>
+            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 35</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 45</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 70</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -627,8 +627,8 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 63</li>
-            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 88</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 13</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -654,8 +654,8 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 2</li>
             <li> <a href="{{ "/tags/martial-neofolk" | relative_url }}">martial neofolk</a> # 25</li>
+            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -676,7 +676,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 9</li>
+            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -713,12 +713,12 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 10</li>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 43</li>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 56</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 64</li>
-            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 67</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 92</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 9</li>
+            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 33</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 36</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 44</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 58</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -756,11 +756,11 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 22</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 63</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 69</li>
-            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 74</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 84</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 17</li>
+            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 26</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 32</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 37</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -809,7 +809,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 25</li>
+            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -831,7 +831,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 41</li>
+            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -853,8 +853,8 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 95</li>
-            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 100</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 1</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -935,7 +935,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
     <tr>
       <td>25</td>
       <td>
-          <img src="https://i.discogs.com/rn680e5ao0Fneo8tCqt-NqwjYbR5yaOXgCXZy0C-Ix4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MTIy/NS0xMTMxNzE0MzIw/LmpwZWc.jpeg" alt="Cover for Deora" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a8aaaf86353141d2c11593a4c42f5d3a.png" alt="Cover for Deora" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-11-05</td>
       <td>Rukkanor</td>
@@ -976,8 +976,8 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 73</li>
-            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 86</li>
+            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 14</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -997,8 +997,8 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/martial" | relative_url }}">martial</a> # 6</li>
             <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 50</li>
+            <li> <a href="{{ "/tags/martial" | relative_url }}">martial</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1016,12 +1016,12 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 7</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 51</li>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 57</li>
-            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 58</li>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 63</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 96</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 5</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 37</li>
+            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 41</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 44</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 48</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1057,11 +1057,11 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 47</li>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 49</li>
-            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 55</li>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 59</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 95</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 6</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 41</li>
+            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 45</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 52</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1097,12 +1097,12 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 4</li>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 23</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 31</li>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 34</li>
-            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 36</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 82</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 19</li>
+            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 64</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 67</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 68</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 78</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1175,7 +1175,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a> # 49</li>
+            <li> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a> # 51</li>
             <li> <a href="{{ "/tags/ambient-folk-noir" | relative_url }}">ambient folk noir</a> # 95</li>
         </ul>
       </td>
@@ -1206,8 +1206,8 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 33</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 37</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 64</li>
+            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1227,13 +1227,13 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 30</li>
-            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 35</li>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 47</li>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 58</li>
-            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 75</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 81</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 94</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 7</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 19</li>
+            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 25</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 42</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 54</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 65</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1283,7 +1283,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/CFgA7Uwk2HlldoF_d_umNcMbLTLhjhWxiZbNnDezxoY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODA4/NzEtMTE5MTg3NjY2/NS5qcGVn.jpeg" alt="Cover for Turn Hegel on his Head" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/869c6664a717416497fe2841f083a331.png" alt="Cover for Turn Hegel on his Head" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-08-28</td>
       <td>Kiss the Anus of a Black Cat</td>
@@ -1302,8 +1302,8 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       <td>
         <ul>
             <li> <a href="{{ "/tags/martial-neofolk" | relative_url }}">martial neofolk</a> # 4</li>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 52</li>
-            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 71</li>
+            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 29</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1359,12 +1359,12 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 14</li>
-            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 17</li>
-            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 28</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 46</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 51</li>
-            <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 70</li>
+            <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 32</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 50</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 54</li>
+            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 73</li>
+            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 84</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1433,12 +1433,12 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 11</li>
-            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 35</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 40</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 45</li>
-            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 51</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 64</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 37</li>
+            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 50</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 54</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 60</li>
+            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 65</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1474,14 +1474,15 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 2</li>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 4</li>
-            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 38</li>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 67</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 69</li>
-            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 71</li>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 75</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 98</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 3</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 26</li>
+            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 29</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 31</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 34</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 62</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 95</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 95</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1524,7 +1525,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       <td>
         <ul>
             <li> <a href="{{ "/tags/martial-neofolk" | relative_url }}">martial neofolk</a> # 15</li>
-            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 30</li>
+            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1546,7 +1547,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 21</li>
+            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1656,7 +1657,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 39</li>
+            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1704,7 +1705,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 60</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 42</li>
             <li> <a href="{{ "/tags/ambient-folk-noir" | relative_url }}">ambient folk noir</a> # 92</li>
         </ul>
       </td>
@@ -1818,10 +1819,10 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 64</li>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 65</li>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 73</li>
-            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 97</li>
+            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 4</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 27</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 35</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1888,7 +1889,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 34</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 66</li>
             <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 89</li>
         </ul>
       </td>
@@ -1896,7 +1897,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
     <tr>
       <td>13</td>
       <td>
-          <img src="https://i.discogs.com/pcXGb06_NXiZ7Cx4ukK35ym3xrWPIQtA91oJD7ht9Cs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzAw/NzEtMTI5MTYzMzMx/MS5qcGVn.jpeg" alt="Cover for Acta Fabula Est" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/63785c41fa2e428c9db3f3f180c9dc4a.png" alt="Cover for Acta Fabula Est" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-07-26</td>
       <td>Sinweldi</td>
@@ -1941,9 +1942,9 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 55</li>
-            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 75</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 78</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 22</li>
+            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 25</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1974,10 +1975,10 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 18</li>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 33</li>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 63</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 72</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 28</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 38</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 67</li>
+            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -2002,15 +2003,16 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 5</li>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 77</li>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 82</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 19</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 24</li>
+            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>31</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/31cc06d95f6e4b868feeb6f81d3f5854.png" alt="Cover for Der Verborgene Gott" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-04</td>
       <td>Art Abscons</td>
@@ -2036,6 +2038,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
     <tr>
       <td>82</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8693e90894ff487eb77c3150862999a3.png" alt="Cover for Ultimacy" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-08-26</td>
       <td>Blood Axis</td>
@@ -2056,8 +2059,8 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
         <ul>
             <li> <a href="{{ "/tags/martial-neofolk" | relative_url }}">martial neofolk</a> # 5</li>
             <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 29</li>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 46</li>
-            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 70</li>
+            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 30</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -2103,9 +2106,9 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 53</li>
-            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 74</li>
-            <li> <a href="{{ "/tags/irish-folk" | relative_url }}">irish folk</a> # 81</li>
+            <li> <a href="{{ "/tags/irish-folk" | relative_url }}">irish folk</a> # 17</li>
+            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 26</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -2131,14 +2134,15 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 38</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 69</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 30</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>78</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ec414954fcfd4f85a5094d400054bbab.png" alt="Cover for Mon Meilleur Ennemi" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-05-24</td>
       <td>Dernière Volonté</td>
@@ -2158,9 +2162,9 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       <td>
         <ul>
             <li> <a href="{{ "/tags/martial-neofolk" | relative_url }}">martial neofolk</a> # 7</li>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 31</li>
-            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 37</li>
-            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 63</li>
+            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 37</li>
+            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 38</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -2181,8 +2185,8 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 41</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 98</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 3</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -2226,7 +2230,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 71</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -2256,7 +2260,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
     <tr>
       <td>45</td>
       <td>
-          <img src="https://i.discogs.com/qjhXJGy8tyimviEsRUrlFul2Ss9399rS_xOsgW5iAF0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwODQz/MjctMTM1NDk3OTI2/Ni02MDAyLmpwZWc.jpeg" alt="Cover for Licht!" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/67870f7386814ace4884ad8dde9247ba.png" alt="Cover for Licht!" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-12-03</td>
       <td>Leger Des Heils</td>
@@ -2298,7 +2302,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 27</li>
+            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -2340,8 +2344,8 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 72</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 80</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 21</li>
+            <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -2406,8 +2410,8 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 27</li>
-            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 59</li>
+            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 41</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -2449,8 +2453,7 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 50</li>
-            <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 78</li>
+            <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -2477,9 +2480,9 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 32</li>
-            <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 57</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 65</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 36</li>
+            <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 41</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -2502,8 +2505,8 @@ Folk noir blends traditional folk instrumentation with dark, cinematic atmospher
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 78</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 91</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 10</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 23</li>
         </ul>
       </td>
     </tr>

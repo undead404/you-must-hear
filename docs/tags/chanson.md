@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-24T03:33:38.186Z
+date: 2025-12-05T04:34:19.517Z
 permalink: tags/chanson
 title: chanson
 ---
 
 ## chanson
 
-Last updated: <time datetime="2025-11-24T03:33:38.186Z">Mon Nov 24 2025 05:33:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T04:34:19.517Z">Fri Dec 05 2025 06:34:19 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -43,7 +43,7 @@ Chanson is a French lyric-driven music genre emphasizing poetic storytelling and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 26</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -154,7 +154,7 @@ Chanson is a French lyric-driven music genre emphasizing poetic storytelling and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 79</li>
+            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -229,8 +229,8 @@ Chanson is a French lyric-driven music genre emphasizing poetic storytelling and
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 29</li>
             <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 44</li>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -287,7 +287,7 @@ Chanson is a French lyric-driven music genre emphasizing poetic storytelling and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 55</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -324,7 +324,7 @@ Chanson is a French lyric-driven music genre emphasizing poetic storytelling and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 57</li>
+            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -453,14 +453,14 @@ Chanson is a French lyric-driven music genre emphasizing poetic storytelling and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 54</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 46</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>70</td>
       <td>
-          <img src="https://i.discogs.com/pq2Z-OIVZgpjfaRGIWi-78qBSEse71kFvEgklgHJBBA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MTc0/OC0xNDY2NzUyODY3/LTg2NDEuanBlZw.jpeg" alt="Cover for Prendre un Enfant" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c09dbc8bd60877bdd48e95d723b3464.png" alt="Cover for Prendre un Enfant" style="max-width:120px; height:auto;" />
       </td>
       <td>1980</td>
       <td>Yves Duteil</td>
@@ -495,8 +495,8 @@ Chanson is a French lyric-driven music genre emphasizing poetic storytelling and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 6</li>
             <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 39</li>
+            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -515,7 +515,7 @@ Chanson is a French lyric-driven music genre emphasizing poetic storytelling and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 46</li>
+            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -568,7 +568,7 @@ Chanson is a French lyric-driven music genre emphasizing poetic storytelling and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 59</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -588,7 +588,7 @@ Chanson is a French lyric-driven music genre emphasizing poetic storytelling and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 24</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -612,7 +612,7 @@ Chanson is a French lyric-driven music genre emphasizing poetic storytelling and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/czech" | relative_url }}">czech</a> # 93</li>
+            <li> <a href="{{ "/tags/czech" | relative_url }}">czech</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -631,7 +631,7 @@ Chanson is a French lyric-driven music genre emphasizing poetic storytelling and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 52</li>
+            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -657,6 +657,7 @@ Chanson is a French lyric-driven music genre emphasizing poetic storytelling and
     <tr>
       <td>71</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bb568b0f76255fe5d02e712f71c8fdba.png" alt="Cover for Boris Vian chante Boris Vian" style="max-width:120px; height:auto;" />
       </td>
       <td>1991</td>
       <td>Boris Vian</td>
@@ -670,7 +671,7 @@ Chanson is a French lyric-driven music genre emphasizing poetic storytelling and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 43</li>
+            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -706,7 +707,7 @@ Chanson is a French lyric-driven music genre emphasizing poetic storytelling and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 26</li>
+            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -726,7 +727,7 @@ Chanson is a French lyric-driven music genre emphasizing poetic storytelling and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 65</li>
+            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -842,10 +843,10 @@ Chanson is a French lyric-driven music genre emphasizing poetic storytelling and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 60</li>
-            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 80</li>
+            <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 9</li>
+            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 21</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 41</li>
             <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 87</li>
-            <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -942,9 +943,9 @@ Chanson is a French lyric-driven music genre emphasizing poetic storytelling and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 34</li>
+            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 11</li>
             <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 56</li>
-            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 90</li>
+            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -981,9 +982,9 @@ Chanson is a French lyric-driven music genre emphasizing poetic storytelling and
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 3</li>
+            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 8</li>
             <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 87</li>
-            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 93</li>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1026,9 +1027,9 @@ Chanson is a French lyric-driven music genre emphasizing poetic storytelling and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 64</li>
-            <li> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a> # 88</li>
-            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 97</li>
+            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 4</li>
+            <li> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a> # 13</li>
+            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1145,10 +1146,10 @@ Chanson is a French lyric-driven music genre emphasizing poetic storytelling and
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 13</li>
+            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 16</li>
             <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 36</li>
             <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 51</li>
-            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 85</li>
-            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1238,7 +1239,7 @@ Chanson is a French lyric-driven music genre emphasizing poetic storytelling and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 18</li>
+            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1423,8 +1424,8 @@ Chanson is a French lyric-driven music genre emphasizing poetic storytelling and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 21</li>
-            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 87</li>
+            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 14</li>
+            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1446,7 +1447,7 @@ Chanson is a French lyric-driven music genre emphasizing poetic storytelling and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 72</li>
+            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1542,7 +1543,7 @@ Chanson is a French lyric-driven music genre emphasizing poetic storytelling and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gypsy-jazz" | relative_url }}">gypsy jazz</a> # 39</li>
+            <li> <a href="{{ "/tags/gypsy-jazz" | relative_url }}">gypsy jazz</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1600,8 +1601,8 @@ Chanson is a French lyric-driven music genre emphasizing poetic storytelling and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 33</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 42</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 58</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1630,12 +1631,12 @@ Chanson is a French lyric-driven music genre emphasizing poetic storytelling and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lounge-groove" | relative_url }}">lounge groove</a> # 14</li>
             <li> <a href="{{ "/tags/downtempo-lounge" | relative_url }}">downtempo lounge</a> # 14</li>
+            <li> <a href="{{ "/tags/lounge-groove" | relative_url }}">lounge groove</a> # 14</li>
             <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 41</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 43</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 44</li>
-            <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 46</li>
+            <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 47</li>
             <li> <a href="{{ "/tags/lounge-downtempo" | relative_url }}">lounge downtempo</a> # 49</li>
             <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 50</li>
             <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 56</li>
@@ -1681,7 +1682,7 @@ Chanson is a French lyric-driven music genre emphasizing poetic storytelling and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 66</li>
+            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1704,7 +1705,7 @@ Chanson is a French lyric-driven music genre emphasizing poetic storytelling and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 75</li>
+            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1921,8 +1922,8 @@ Chanson is a French lyric-driven music genre emphasizing poetic storytelling and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 60</li>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 77</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 24</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1942,7 +1943,7 @@ Chanson is a French lyric-driven music genre emphasizing poetic storytelling and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 23</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 76</li>
         </ul>
       </td>
     </tr>

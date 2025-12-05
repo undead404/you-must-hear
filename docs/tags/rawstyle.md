@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2024-12-30T15:42:28.413Z
+date: 2025-12-05T04:39:25.386Z
 permalink: tags/rawstyle
 title: rawstyle
 ---
 
 ## rawstyle
 
-Last updated: <time datetime="2024-12-30T15:42:28.413Z">Mon Dec 30 2024 17:42:28 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T04:39:25.386Z">Fri Dec 05 2025 06:39:25 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -63,7 +63,7 @@ Rawstyle is an aggressive, unpolished subgenre of hardstyle characterized by dis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 44</li>
+            <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -83,14 +83,14 @@ Rawstyle is an aggressive, unpolished subgenre of hardstyle characterized by dis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/frenchcore" | relative_url }}">frenchcore</a> # 66</li>
+            <li> <a href="{{ "/tags/frenchcore" | relative_url }}">frenchcore</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>83</td>
       <td>
-          <img src="https://i.discogs.com/9YMSZPJanBRNsjtK2eaEdPnzyPcvfrI1gsOhGY7kx-s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODI2/NjMxLTE1MjMwNDQ0/NDgtMTI2Mi5qcGVn.jpeg" alt="Cover for The Qontinent 2018" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0624491a081c0220610a8ca80977b785.png" alt="Cover for The Qontinent 2018" style="max-width:120px; height:auto;" />
       </td>
       <td>1987</td>
       <td>Various Artists</td>
@@ -110,7 +110,7 @@ Rawstyle is an aggressive, unpolished subgenre of hardstyle characterized by dis
     <tr>
       <td>95</td>
       <td>
-          <img src="https://i.discogs.com/R-8I9zzGTIl5OTEkpOEaqKYNSLqArTjXb2qiBnJMqX0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTgx/MTU2LTE2MDEzMTMy/NjItNDYzOC5qcGVn.jpeg" alt="Cover for DISORDER" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6856499257098efde0eb56d30671435d.png" alt="Cover for DISORDER" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-05</td>
       <td>Persona</td>
@@ -170,7 +170,7 @@ Rawstyle is an aggressive, unpolished subgenre of hardstyle characterized by dis
     <tr>
       <td>30</td>
       <td>
-          <img src="https://i.discogs.com/zZ4N0buyVJwJTNtASzJab6lsMIrkcfnrOjGRx_zrsPw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzEw/NjY2LTE0OTUxMDc2/MTUtMzg2My5qcGVn.jpeg" alt="Cover for Warfare (Official AIRFORCE 2017 anthem) [Radio Edit]" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e7598b38a417c4cfef9dd16ff218cce4.png" alt="Cover for Warfare (Official AIRFORCE 2017 anthem) [Radio Edit]" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Tha Playah</td>
@@ -189,7 +189,7 @@ Rawstyle is an aggressive, unpolished subgenre of hardstyle characterized by dis
     <tr>
       <td>97</td>
       <td>
-          <img src="https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg" alt="Cover for Defqon.1 2023 – Path Of The Warrior" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/469b98ecc86ee28691c2d9b730c984af.png" alt="Cover for Defqon.1 2023 – Path Of The Warrior" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Various Artists</td>
@@ -241,7 +241,7 @@ Rawstyle is an aggressive, unpolished subgenre of hardstyle characterized by dis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 51</li>
+            <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -317,7 +317,7 @@ Rawstyle is an aggressive, unpolished subgenre of hardstyle characterized by dis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 48</li>
+            <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -337,7 +337,7 @@ Rawstyle is an aggressive, unpolished subgenre of hardstyle characterized by dis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 53</li>
+            <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -357,7 +357,7 @@ Rawstyle is an aggressive, unpolished subgenre of hardstyle characterized by dis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 46</li>
+            <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -377,7 +377,7 @@ Rawstyle is an aggressive, unpolished subgenre of hardstyle characterized by dis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 45</li>
+            <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -418,8 +418,8 @@ Rawstyle is an aggressive, unpolished subgenre of hardstyle characterized by dis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 32</li>
-            <li> <a href="{{ "/tags/frenchcore" | relative_url }}">frenchcore</a> # 36</li>
+            <li> <a href="{{ "/tags/frenchcore" | relative_url }}">frenchcore</a> # 66</li>
+            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -627,7 +627,7 @@ Rawstyle is an aggressive, unpolished subgenre of hardstyle characterized by dis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-techno" | relative_url }}">hardcore techno</a> # 45</li>
+            <li> <a href="{{ "/tags/hardcore-techno" | relative_url }}">hardcore techno</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -652,7 +652,7 @@ Rawstyle is an aggressive, unpolished subgenre of hardstyle characterized by dis
     <tr>
       <td>66</td>
       <td>
-          <img src="https://i.discogs.com/fYC5taMB8SvrgFPk3uPmI18yZkBQdRo4PooInygYjRk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NjU5/MDUtMTQ2NDE3MTM3/Ny04MjU0LmpwZWc.jpeg" alt="Cover for Louder Than A Bomb" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0d567a6f071532a71a2da55ee3a75fdc.png" alt="Cover for Louder Than A Bomb" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-06-27</td>
       <td>N-Vitral</td>
@@ -668,7 +668,7 @@ Rawstyle is an aggressive, unpolished subgenre of hardstyle characterized by dis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 76</li>
+            <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -725,7 +725,7 @@ Rawstyle is an aggressive, unpolished subgenre of hardstyle characterized by dis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 24</li>
+            <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -819,7 +819,7 @@ Rawstyle is an aggressive, unpolished subgenre of hardstyle characterized by dis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 76</li>
+            <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1044,14 +1044,14 @@ Rawstyle is an aggressive, unpolished subgenre of hardstyle characterized by dis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 18</li>
+            <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>48</td>
       <td>
-          <img src="https://i.discogs.com/XDJg57gvCL8kmyic-UoWo3zk3rjkXGUknGvdzqZHvlw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTg0/ODY2LTE1MjYwNTAx/MTItNTc0MC5qcGVn.jpeg" alt="Cover for Nocturnolz" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ec66c47eeaf1a14545bafdcb467f5895.png" alt="Cover for Nocturnolz" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-05-11</td>
       <td>Nolz</td>
@@ -1102,14 +1102,14 @@ Rawstyle is an aggressive, unpolished subgenre of hardstyle characterized by dis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 58</li>
+            <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>25</td>
       <td>
-          <img src="https://i.discogs.com/g5sPNEzZo0lIaKKD2ZNIljW7PN_zOP52jOXx698OZtM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTYz/MTcyLTE1Mjk1NzQ1/MzQtOTU1MC5qcGVn.jpeg" alt="Cover for Invincible" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4bf469ff25e1d10d38d44b9a47030f05.png" alt="Cover for Invincible" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-06-20</td>
       <td>Endymion</td>
@@ -1332,8 +1332,8 @@ Rawstyle is an aggressive, unpolished subgenre of hardstyle characterized by dis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 85</li>
-            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 98</li>
+            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 3</li>
+            <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1408,7 +1408,7 @@ Rawstyle is an aggressive, unpolished subgenre of hardstyle characterized by dis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 17</li>
+            <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1466,7 +1466,7 @@ Rawstyle is an aggressive, unpolished subgenre of hardstyle characterized by dis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 81</li>
+            <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1505,7 +1505,7 @@ Rawstyle is an aggressive, unpolished subgenre of hardstyle characterized by dis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 54</li>
+            <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1578,7 +1578,7 @@ Rawstyle is an aggressive, unpolished subgenre of hardstyle characterized by dis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 39</li>
+            <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1616,7 +1616,7 @@ Rawstyle is an aggressive, unpolished subgenre of hardstyle characterized by dis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 91</li>
+            <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1637,8 +1637,8 @@ Rawstyle is an aggressive, unpolished subgenre of hardstyle characterized by dis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 42</li>
-            <li> <a href="{{ "/tags/frenchcore" | relative_url }}">frenchcore</a> # 95</li>
+            <li> <a href="{{ "/tags/frenchcore" | relative_url }}">frenchcore</a> # 6</li>
+            <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1658,7 +1658,7 @@ Rawstyle is an aggressive, unpolished subgenre of hardstyle characterized by dis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 8</li>
+            <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1697,7 +1697,7 @@ Rawstyle is an aggressive, unpolished subgenre of hardstyle characterized by dis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 4</li>
+            <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1736,7 +1736,7 @@ Rawstyle is an aggressive, unpolished subgenre of hardstyle characterized by dis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 16</li>
+            <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1853,7 +1853,7 @@ Rawstyle is an aggressive, unpolished subgenre of hardstyle characterized by dis
     <tr>
       <td>36</td>
       <td>
-          <img src="https://i.discogs.com/7EfZ3V2ziUKiZG-9MpHUPwK1cvvV7v9aUsT46UGWv1k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTg2/NTk3LTE1NDU5Mzky/NjgtMjg3Ni5qcGVn.jpeg" alt="Cover for Unlike Others MEGAMIX Vol. 2 (Mixed by Crypsis &amp; Chain Reaction)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b8505e5804f204f51634879982e8a7d1.png" alt="Cover for Unlike Others MEGAMIX Vol. 2 (Mixed by Crypsis &amp; Chain Reaction)" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-09-22</td>
       <td>Crypsis</td>
@@ -1888,8 +1888,8 @@ Rawstyle is an aggressive, unpolished subgenre of hardstyle characterized by dis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/frenchcore" | relative_url }}">frenchcore</a> # 28</li>
-            <li> <a href="{{ "/tags/uk-hardcore" | relative_url }}">uk hardcore</a> # 53</li>
+            <li> <a href="{{ "/tags/uk-hardcore" | relative_url }}">uk hardcore</a> # 50</li>
+            <li> <a href="{{ "/tags/frenchcore" | relative_url }}">frenchcore</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1909,14 +1909,14 @@ Rawstyle is an aggressive, unpolished subgenre of hardstyle characterized by dis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/frenchcore" | relative_url }}">frenchcore</a> # 84</li>
+            <li> <a href="{{ "/tags/frenchcore" | relative_url }}">frenchcore</a> # 14</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>90</td>
       <td>
-          <img src="https://i.discogs.com/1kjT87rb_dUlnEqt4hv5PWtihoz7CjsPN0vfJcGNlLs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjQy/NjU4LTE2OTQ1MzI3/MDQtMzM5Ny5qcGVn.jpeg" alt="Cover for DIVINE DESTRUCTION" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/01ce40fac8bea05be3aba2904b26bf7b.png" alt="Cover for DIVINE DESTRUCTION" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-09-11</td>
       <td>ANGEL CANNON</td>

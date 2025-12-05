@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-15T00:33:11.429Z
+date: 2025-12-05T04:27:24.204Z
 permalink: tags/goth-rock
 title: goth rock
 ---
 
 ## goth rock
 
-Last updated: <time datetime="2025-11-15T00:33:11.429Z">Sat Nov 15 2025 02:33:11 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T04:27:24.204Z">Fri Dec 05 2025 06:27:24 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -179,7 +179,7 @@ Goth rock emerged from post-punk in the late 1970s, blending dark, atmospheric g
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 74</li>
+            <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -197,7 +197,7 @@ Goth rock emerged from post-punk in the late 1970s, blending dark, atmospheric g
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deathrock" | relative_url }}">deathrock</a> # 82</li>
+            <li> <a href="{{ "/tags/deathrock" | relative_url }}">deathrock</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -236,7 +236,7 @@ Goth rock emerged from post-punk in the late 1970s, blending dark, atmospheric g
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 72</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -272,7 +272,7 @@ Goth rock emerged from post-punk in the late 1970s, blending dark, atmospheric g
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 76</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -389,7 +389,7 @@ Goth rock emerged from post-punk in the late 1970s, blending dark, atmospheric g
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/horror-punk" | relative_url }}">horror punk</a> # 24</li>
+            <li> <a href="{{ "/tags/horror-punk" | relative_url }}">horror punk</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -427,7 +427,7 @@ Goth rock emerged from post-punk in the late 1970s, blending dark, atmospheric g
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 64</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -532,8 +532,8 @@ Goth rock emerged from post-punk in the late 1970s, blending dark, atmospheric g
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 49</li>
-            <li> <a href="{{ "/tags/asia" | relative_url }}">asia</a> # 51</li>
+            <li> <a href="{{ "/tags/asia" | relative_url }}">asia</a> # 50</li>
+            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -552,7 +552,7 @@ Goth rock emerged from post-punk in the late 1970s, blending dark, atmospheric g
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 68</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -566,14 +566,11 @@ Goth rock emerged from post-punk in the late 1970s, blending dark, atmospheric g
       <td>狂った太陽</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
-            <li style="font-size: calc(1rem * 68 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
-            <li style="font-size: calc(1rem * 68 / 100)"> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 92</li>
+            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -592,8 +589,8 @@ Goth rock emerged from post-punk in the late 1970s, blending dark, atmospheric g
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 63</li>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 98</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 3</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -670,7 +667,7 @@ Goth rock emerged from post-punk in the late 1970s, blending dark, atmospheric g
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 89</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -728,7 +725,7 @@ Goth rock emerged from post-punk in the late 1970s, blending dark, atmospheric g
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/leeds" | relative_url }}">leeds</a> # 93</li>
+            <li> <a href="{{ "/tags/leeds" | relative_url }}">leeds</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -747,7 +744,7 @@ Goth rock emerged from post-punk in the late 1970s, blending dark, atmospheric g
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 17</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -825,8 +822,8 @@ Goth rock emerged from post-punk in the late 1970s, blending dark, atmospheric g
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 80</li>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 83</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 17</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1020,7 +1017,7 @@ Goth rock emerged from post-punk in the late 1970s, blending dark, atmospheric g
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 87</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1061,7 +1058,7 @@ Goth rock emerged from post-punk in the late 1970s, blending dark, atmospheric g
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 23</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1126,6 +1123,7 @@ Goth rock emerged from post-punk in the late 1970s, blending dark, atmospheric g
     <tr>
       <td>94</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a7bcb8f3cbbcd6419af2071274a42f2f.png" alt="Cover for FEATHER and FATE" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Mors Syphilitica</td>
@@ -1196,7 +1194,7 @@ Goth rock emerged from post-punk in the late 1970s, blending dark, atmospheric g
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 69</li>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1249,14 +1247,11 @@ Goth rock emerged from post-punk in the late 1970s, blending dark, atmospheric g
       <td>Visionary Complex</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deathrock" | relative_url }}">deathrock</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deathrock" | relative_url }}">deathrock</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1327,7 +1322,7 @@ Goth rock emerged from post-punk in the late 1970s, blending dark, atmospheric g
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deathrock" | relative_url }}">deathrock</a> # 78</li>
+            <li> <a href="{{ "/tags/deathrock" | relative_url }}">deathrock</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1348,7 +1343,7 @@ Goth rock emerged from post-punk in the late 1970s, blending dark, atmospheric g
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 81</li>
+            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1367,9 +1362,9 @@ Goth rock emerged from post-punk in the late 1970s, blending dark, atmospheric g
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 44</li>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 96</li>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 100</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 1</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 5</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1409,7 +1404,7 @@ Goth rock emerged from post-punk in the late 1970s, blending dark, atmospheric g
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deathrock" | relative_url }}">deathrock</a> # 5</li>
+            <li> <a href="{{ "/tags/deathrock" | relative_url }}">deathrock</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1487,8 +1482,8 @@ Goth rock emerged from post-punk in the late 1970s, blending dark, atmospheric g
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 84</li>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 98</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 3</li>
+            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1520,14 +1515,14 @@ Goth rock emerged from post-punk in the late 1970s, blending dark, atmospheric g
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 38</li>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 39</li>
-            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 45</li>
-            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 45</li>
-            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 46</li>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 61</li>
-            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 64</li>
-            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 74</li>
+            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 26</li>
+            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 37</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 40</li>
+            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 46</li>
+            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 56</li>
+            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 56</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 62</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1565,7 +1560,7 @@ Goth rock emerged from post-punk in the late 1970s, blending dark, atmospheric g
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 86</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1583,9 +1578,9 @@ Goth rock emerged from post-punk in the late 1970s, blending dark, atmospheric g
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 11</li>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 16</li>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 63</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 34</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 80</li>
+            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1627,8 +1622,8 @@ Goth rock emerged from post-punk in the late 1970s, blending dark, atmospheric g
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deathrock" | relative_url }}">deathrock</a> # 11</li>
-            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 85</li>
+            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 16</li>
+            <li> <a href="{{ "/tags/deathrock" | relative_url }}">deathrock</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1671,6 +1666,7 @@ Goth rock emerged from post-punk in the late 1970s, blending dark, atmospheric g
     <tr>
       <td>2</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a90d735d18ee43e2bc14b6b51864c0f7.png" alt="Cover for Goodbye Cruel World" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-10-08</td>
       <td>Tunes of Dawn</td>
@@ -1707,7 +1703,7 @@ Goth rock emerged from post-punk in the late 1970s, blending dark, atmospheric g
     <tr>
       <td>72</td>
       <td>
-          <img src="https://i.discogs.com/jsqdrJiT7gbRwmUn-tkPjWvVTVdr0r5pa-_fWqHCKVc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDQ0/MTEtMTY2MDIwNDQx/OC00NjQ3LmpwZWc.jpeg" alt="Cover for Strange Songs (In The Dark)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7f5c66bc90f081473ad4c213abc34e79.png" alt="Cover for Strange Songs (In The Dark)" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-11-01</td>
       <td>Merchandise</td>
@@ -1800,7 +1796,7 @@ Goth rock emerged from post-punk in the late 1970s, blending dark, atmospheric g
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deathrock" | relative_url }}">deathrock</a> # 51</li>
+            <li> <a href="{{ "/tags/deathrock" | relative_url }}">deathrock</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1843,8 +1839,8 @@ Goth rock emerged from post-punk in the late 1970s, blending dark, atmospheric g
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 3</li>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 73</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 28</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1867,7 +1863,7 @@ Goth rock emerged from post-punk in the late 1970s, blending dark, atmospheric g
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 75</li>
+            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1927,14 +1923,14 @@ Goth rock emerged from post-punk in the late 1970s, blending dark, atmospheric g
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deathrock" | relative_url }}">deathrock</a> # 31</li>
+            <li> <a href="{{ "/tags/deathrock" | relative_url }}">deathrock</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>77</td>
       <td>
-          <img src="https://i.discogs.com/sZm5gFv_7nrPzUjA-Vo_1dGlR2f4ZuR_WyKqiRz9d7c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjI5/MjExLTE1NTAzNDgz/OTYtNzUyMC5qcGVn.jpeg" alt="Cover for Queen of the Damned" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5be5e9da6996417dbe99082b66dddb67.png" alt="Cover for Queen of the Damned" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-01-08</td>
       <td>Chester Bennington</td>
@@ -1973,7 +1969,7 @@ Goth rock emerged from post-punk in the late 1970s, blending dark, atmospheric g
     <tr>
       <td>34</td>
       <td>
-          <img src="https://i.discogs.com/uo5UrQWS2gcTzit8Rw9dJBlJn8RtZyuZdTOROfEW0JE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mzky/NjgtMTI5NjUxMjc5/Mi5qcGVn.jpeg" alt="Cover for T.S.O.L.&#x2F;Weathered Statues" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ef76137adc544a7a0a9f873cc6a5297.png" alt="Cover for T.S.O.L.&#x2F;Weathered Statues" style="max-width:120px; height:auto;" />
       </td>
       <td>2022</td>
       <td>T.S.O.L.</td>
@@ -2008,7 +2004,7 @@ Goth rock emerged from post-punk in the late 1970s, blending dark, atmospheric g
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turkey" | relative_url }}">turkey</a> # 89</li>
+            <li> <a href="{{ "/tags/turkey" | relative_url }}">turkey</a> # 12</li>
         </ul>
       </td>
     </tr>

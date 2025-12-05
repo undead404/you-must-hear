@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-05T16:02:52.418Z
+date: 2025-12-05T04:42:26.789Z
 permalink: tags/live-show
 title: live show
 ---
 
 ## live show
 
-Last updated: <time datetime="2025-11-05T16:02:52.418Z">Wed Nov 05 2025 18:02:52 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T04:42:26.789Z">Fri Dec 05 2025 06:42:26 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -61,7 +61,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 49</li>
+            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -184,7 +184,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 36</li>
+            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -278,7 +278,6 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
     <tr>
       <td>78</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6e864ed1210475a361d36803fe2ac169.png" alt="Cover for Amsterdam" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>Phish</td>
@@ -293,8 +292,8 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 2</li>
-            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 57</li>
+            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 42</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -460,7 +459,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 63</li>
+            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -518,7 +517,6 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
     <tr>
       <td>81</td>
       <td>
-          <img src="https://i.discogs.com/f6FXzQZYPUekxAGK5H5QW6ORhiIUOKuLsGJWsuyAjE4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMjk5/MjYtMTUzOTk1Njk2/Ni02ODkzLmpwZWc.jpeg" alt="Cover for Live at The Whisky A Go Go 1968" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-05-29</td>
       <td>Frank Zappa</td>
@@ -573,7 +571,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
     <tr>
       <td>28</td>
       <td>
-          <img src="https://i.discogs.com/iblwRYq5AMZnrEkbqJH2gGBSuE_4nBnfGaiIJjvY7WI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODc1/NjgtMTQ4NDcwODEx/Mi0zMjAyLmpwZWc.jpeg" alt="Cover for TIDAL X 2016" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/306a6dfaa862a34b53a2997e19e960bf.png" alt="Cover for TIDAL X 2016" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Beyoncé</td>
@@ -887,8 +885,8 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 4</li>
-            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 59</li>
+            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 39</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1082,7 +1080,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 33</li>
+            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1102,7 +1100,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 72</li>
+            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1353,7 +1351,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
     <tr>
       <td>37</td>
       <td>
-          <img src="https://i.discogs.com/tHKm30tRKNXxZtEDV6F56Vhx2RQLnCXB9eSr1K46gJs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTUy/MjE5LTE2MjY3MjE5/MjQtNDU1MS5qcGVn.jpeg" alt="Cover for Live in Milwaukee &#39;19" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cba0069c584c97e1ca8bbfe9cbf79a23.png" alt="Cover for Live in Milwaukee &#39;19" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-03-08</td>
       <td>King Gizzard &amp; The Lizard Wizard</td>
@@ -1787,7 +1785,7 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 46</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1837,6 +1835,6 @@ The &quot;live show&quot; tag captures recordings of performances as they happen
 - [jam band]({{ "/tags/jam-band" | relative_url }})
 - [psychedelic rock]({{ "/tags/psychedelic-rock" | relative_url }})
 - [live recording]({{ "/tags/live-recording" | relative_url }})
-- [electronic]({{ "/tags/electronic" | relative_url }})
 - [funk rock]({{ "/tags/funk-rock" | relative_url }})
 - [garage rock]({{ "/tags/garage-rock" | relative_url }})
+- [electronic]({{ "/tags/electronic" | relative_url }})

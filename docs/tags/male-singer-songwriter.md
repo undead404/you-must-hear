@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-27T08:46:33.551Z
+date: 2025-12-05T04:35:26.239Z
 permalink: tags/male-singer-songwriter
 title: male singer songwriter
 ---
 
 ## male singer songwriter
 
-Last updated: <time datetime="2025-11-27T08:46:33.551Z">Thu Nov 27 2025 10:46:33 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T04:35:26.239Z">Fri Dec 05 2025 06:35:26 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -44,7 +44,7 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/svenskt" | relative_url }}">svenskt</a> # 73</li>
+            <li> <a href="{{ "/tags/svenskt" | relative_url }}">svenskt</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -100,7 +100,7 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/svenskt" | relative_url }}">svenskt</a> # 61</li>
+            <li> <a href="{{ "/tags/svenskt" | relative_url }}">svenskt</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -142,7 +142,7 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 37</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -206,8 +206,8 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 51</li>
-            <li> <a href="{{ "/tags/motown" | relative_url }}">motown</a> # 66</li>
+            <li> <a href="{{ "/tags/motown" | relative_url }}">motown</a> # 35</li>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -366,7 +366,8 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 89</li>
+            <li> <a href="{{ "/tags/lullabies" | relative_url }}">lullabies</a> # 2</li>
+            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -424,7 +425,7 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 25</li>
+            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -448,7 +449,7 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a> # 82</li>
+            <li> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -470,7 +471,7 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 53</li>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -551,7 +552,7 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a> # 92</li>
+            <li> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -624,8 +625,8 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 98</li>
-            <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 99</li>
+            <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 2</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -702,7 +703,7 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/svenskt" | relative_url }}">svenskt</a> # 50</li>
+            <li> <a href="{{ "/tags/svenskt" | relative_url }}">svenskt</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -724,9 +725,9 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 12</li>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 77</li>
-            <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 81</li>
+            <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 20</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 24</li>
+            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -765,7 +766,7 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 21</li>
+            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -824,7 +825,7 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 51</li>
+            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -844,7 +845,7 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/svenskt" | relative_url }}">svenskt</a> # 65</li>
+            <li> <a href="{{ "/tags/svenskt" | relative_url }}">svenskt</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1028,7 +1029,7 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a> # 93</li>
+            <li> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1049,7 +1050,7 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a> # 88</li>
+            <li> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1086,7 +1087,7 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 64</li>
+            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1109,9 +1110,9 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 61</li>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 96</li>
-            <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 97</li>
+            <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 4</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 5</li>
+            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1153,9 +1154,9 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 57</li>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 85</li>
-            <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 87</li>
+            <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 14</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 16</li>
+            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1254,7 +1255,7 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a> # 96</li>
+            <li> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1452,7 +1453,7 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/svenskt" | relative_url }}">svenskt</a> # 44</li>
+            <li> <a href="{{ "/tags/svenskt" | relative_url }}">svenskt</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1493,9 +1494,9 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 34</li>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 72</li>
-            <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 77</li>
+            <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 24</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 29</li>
+            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1575,9 +1576,9 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 77</li>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 94</li>
-            <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 95</li>
+            <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 6</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 7</li>
+            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1598,9 +1599,9 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 43</li>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 78</li>
-            <li> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a> # 81</li>
+            <li> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a> # 20</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 23</li>
+            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1619,7 +1620,7 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 87</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1739,7 +1740,7 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 40</li>
+            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1760,9 +1761,9 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 52</li>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 81</li>
-            <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 84</li>
+            <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 17</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 20</li>
+            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1800,8 +1801,8 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 42</li>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 76</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 25</li>
+            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1862,8 +1863,8 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 7</li>
             <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 52</li>
-            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1959,7 +1960,7 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a> # 99</li>
+            <li> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -2000,7 +2001,7 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 64</li>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 36</li>
         </ul>
       </td>
     </tr>

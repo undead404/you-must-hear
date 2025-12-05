@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-24T03:45:38.270Z
+date: 2025-12-05T04:36:07.401Z
 permalink: tags/france
 title: france
 ---
 
 ## france
 
-Last updated: <time datetime="2025-11-24T03:45:38.270Z">Mon Nov 24 2025 05:45:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T04:36:07.401Z">Fri Dec 05 2025 06:36:07 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -45,7 +45,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a> # 90</li>
+            <li> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -105,7 +105,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 77</li>
+            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -126,8 +126,8 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 6</li>
-            <li> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a> # 47</li>
+            <li> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a> # 54</li>
+            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -166,7 +166,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 64</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -229,10 +229,10 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 68</li>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 96</li>
-            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 99</li>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 99</li>
+            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 2</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 2</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 5</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -260,9 +260,9 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 28</li>
-            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 80</li>
-            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 88</li>
+            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 12</li>
+            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 21</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -302,7 +302,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 14</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -330,10 +330,10 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 32</li>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 74</li>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 83</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 86</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 15</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 18</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 27</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -355,7 +355,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 24</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -376,7 +376,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 34</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -402,7 +402,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 75</li>
+            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 26</li>
             <li> <a href="{{ "/tags/french-house" | relative_url }}">french house</a> # 81</li>
         </ul>
       </td>
@@ -421,8 +421,8 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 58</li>
-            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 68</li>
+            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 32</li>
+            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -464,7 +464,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 92</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -542,9 +542,9 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 34</li>
-            <li> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a> # 68</li>
-            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 90</li>
+            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 11</li>
+            <li> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a> # 33</li>
+            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -589,8 +589,8 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 56</li>
-            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 74</li>
+            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 26</li>
+            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -612,8 +612,8 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 83</li>
-            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 85</li>
+            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 15</li>
+            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -632,9 +632,9 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a> # 92</li>
-            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 93</li>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 98</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 3</li>
+            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 8</li>
+            <li> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -674,7 +674,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a> # 76</li>
+            <li> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -695,9 +695,9 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 18</li>
-            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 18</li>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 86</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 15</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 82</li>
+            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -717,7 +717,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 32</li>
+            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -761,10 +761,10 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a> # 45</li>
+            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 13</li>
+            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 16</li>
             <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 51</li>
-            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 85</li>
-            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 87</li>
+            <li> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -785,8 +785,8 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 70</li>
-            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 74</li>
+            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 26</li>
+            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -825,7 +825,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 76</li>
+            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -848,8 +848,8 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 78</li>
-            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 79</li>
+            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 21</li>
+            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -892,7 +892,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trip" | relative_url }}">trip</a> # 100</li>
+            <li> <a href="{{ "/tags/trip" | relative_url }}">trip</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -911,8 +911,8 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 27</li>
-            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 51</li>
+            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 49</li>
+            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -940,11 +940,11 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 46</li>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 72</li>
-            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 79</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 89</li>
-            <li> <a href="{{ "/tags/vancouver" | relative_url }}">vancouver</a> # 100</li>
+            <li> <a href="{{ "/tags/vancouver" | relative_url }}">vancouver</a> # 1</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 12</li>
+            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 21</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 29</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -968,8 +968,8 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 47</li>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 83</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 18</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -994,10 +994,10 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 89</li>
-            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 98</li>
-            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 99</li>
-            <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 99</li>
+            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 2</li>
+            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 2</li>
+            <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 2</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -1022,7 +1022,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 41</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1061,8 +1061,8 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 43</li>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 78</li>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 23</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1081,9 +1081,9 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 73</li>
-            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 76</li>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 76</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 24</li>
+            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 25</li>
+            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1102,7 +1102,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 88</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1124,7 +1124,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 2</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1189,7 +1189,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       <td>
         <ul>
             <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 13</li>
-            <li> <a href="{{ "/tags/afrobeat" | relative_url }}">afrobeat</a> # 26</li>
+            <li> <a href="{{ "/tags/afrobeat" | relative_url }}">afrobeat</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1208,7 +1208,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a> # 20</li>
+            <li> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1229,7 +1229,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 91</li>
+            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1253,7 +1253,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 98</li>
+            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1315,7 +1315,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trip" | relative_url }}">trip</a> # 98</li>
+            <li> <a href="{{ "/tags/trip" | relative_url }}">trip</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1343,9 +1343,9 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 81</li>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 94</li>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 94</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 7</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 7</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1406,9 +1406,9 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 42</li>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 88</li>
-            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 94</li>
+            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 7</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 13</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1434,9 +1434,9 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avantgarde-pop" | relative_url }}">avantgarde pop</a> # 70</li>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 84</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 90</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 11</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 17</li>
+            <li> <a href="{{ "/tags/avantgarde-pop" | relative_url }}">avantgarde pop</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1461,9 +1461,9 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 90</li>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 91</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 93</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 8</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 10</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -1489,8 +1489,8 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 54</li>
-            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 97</li>
+            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 4</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1550,7 +1550,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 74</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1577,9 +1577,9 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 73</li>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 82</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 85</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 16</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 19</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1607,10 +1607,10 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 33</li>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 76</li>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 85</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 88</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 13</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 16</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 25</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1636,8 +1636,8 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 81</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 84</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 17</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1668,10 +1668,10 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 86</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 10</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 11</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 15</li>
             <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 86</li>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 90</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1699,9 +1699,9 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 19</li>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 80</li>
-            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 93</li>
+            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 8</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 21</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1727,9 +1727,9 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 96</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 98</li>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 98</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 3</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 3</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1754,8 +1754,8 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 22</li>
-            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 96</li>
+            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 5</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1779,8 +1779,8 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 98</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 99</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 2</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1804,9 +1804,9 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 88</li>
-            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 93</li>
-            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 98</li>
+            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 3</li>
+            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 8</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1830,8 +1830,8 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 74</li>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 85</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 16</li>
+            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1861,12 +1861,12 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 78</li>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 93</li>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 93</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 95</li>
-            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 97</li>
-            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 99</li>
+            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 2</li>
+            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 4</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 6</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 8</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 8</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1916,13 +1916,13 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 65</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 71</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 72</li>
-            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 80</li>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 95</li>
+            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 3</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 6</li>
+            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 21</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 29</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 30</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 35</li>
             <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 97</li>
-            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1941,7 +1941,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 18</li>
+            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1964,7 +1964,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 76</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1990,8 +1990,8 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 12</li>
             <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 50</li>
+            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -2022,10 +2022,10 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 75</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 14</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 17</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 26</li>
             <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 78</li>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 84</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -2055,16 +2055,16 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 9</li>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 49</li>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 90</li>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 94</li>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 99</li>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 100</li>
-            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 100</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 100</li>
-            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 100</li>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 100</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 1</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 1</li>
+            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 1</li>
+            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 1</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 1</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 2</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 7</li>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 11</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 48</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -2090,12 +2090,12 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 4</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 5</li>
-            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 22</li>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 31</li>
+            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 19</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 68</li>
             <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 76</li>
-            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 82</li>
+            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 79</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 95</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -2117,7 +2117,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 82</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -2141,11 +2141,11 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 27</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 61</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 62</li>
-            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 69</li>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 91</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 10</li>
+            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 32</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 39</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 40</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -2173,11 +2173,11 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 57</li>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 89</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 92</li>
-            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 95</li>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 97</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 4</li>
+            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 6</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 9</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 13</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -2200,8 +2200,8 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 18</li>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 25</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 68</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -2226,8 +2226,8 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 51</li>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 62</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 38</li>
+            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -2248,7 +2248,7 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 100</li>
+            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -2293,10 +2293,10 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 70</li>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 91</li>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 92</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 94</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 7</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 9</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 11</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -2323,13 +2323,13 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 52</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 53</li>
-            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 62</li>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 89</li>
-            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 90</li>
+            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 1</li>
+            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 11</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 12</li>
+            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 39</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 48</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 49</li>
             <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 90</li>
-            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -2355,13 +2355,13 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 80</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 80</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 81</li>
-            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 88</li>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 98</li>
+            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 1</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 3</li>
+            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 13</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 20</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 21</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 21</li>
             <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 100</li>
-            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -2389,11 +2389,11 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 36</li>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 77</li>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 86</li>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 89</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 89</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 12</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 12</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 15</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 24</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -2421,11 +2421,11 @@ French pop blends chanson traditions with contemporary electronic and indie infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 83</li>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 95</li>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 95</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 97</li>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 99</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 2</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 4</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 6</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 6</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 18</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T21:11:00.995Z
+date: 2025-12-05T04:41:02.037Z
 permalink: tags/sextrance
 title: sextrance
 ---
 
 ## sextrance
 
-Last updated: <time datetime="2025-10-22T21:11:00.995Z">Thu Oct 23 2025 00:11:00 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-05T04:41:02.037Z">Fri Dec 05 2025 06:41:02 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -155,6 +155,7 @@ Sextrance is an experimental electronic music tag characterized by hyperpop-infl
     <tr>
       <td>50</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/375f10bb9d3642d048318ca6a2314cc2.png" alt="Cover for Y2K21" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-01-02</td>
       <td>Zaphyre</td>
@@ -197,6 +198,7 @@ Sextrance is an experimental electronic music tag characterized by hyperpop-infl
     <tr>
       <td>51</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d49944e1dd5f1bf5db51f8467c9eda10.png" alt="Cover for Y2K21" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-11-05</td>
       <td>Glidelas</td>
@@ -220,6 +222,7 @@ Sextrance is an experimental electronic music tag characterized by hyperpop-infl
     <tr>
       <td>38</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9bd222ce6ae363eef108b6a2d587e083.png" alt="Cover for Y2K21" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-01-01</td>
       <td>NANORAY</td>
@@ -243,6 +246,7 @@ Sextrance is an experimental electronic music tag characterized by hyperpop-infl
     <tr>
       <td>30</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/874e7057b0b99bd10ecc3cb511f8d85e.png" alt="Cover for Y2K21" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-02-13</td>
       <td>Anthony1</td>
@@ -286,6 +290,7 @@ Sextrance is an experimental electronic music tag characterized by hyperpop-infl
     <tr>
       <td>34</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8bf8a224d1fe21f1b2dc46a35892fed5.png" alt="Cover for Y2K21" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-03-09</td>
       <td>DJ KLAPTRAP</td>
@@ -309,6 +314,7 @@ Sextrance is an experimental electronic music tag characterized by hyperpop-infl
     <tr>
       <td>43</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7effafb7d4c069e7eb3c9570eb64ab6f.png" alt="Cover for Y2K21" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-04-02</td>
       <td>5ubaruu</td>
@@ -332,6 +338,7 @@ Sextrance is an experimental electronic music tag characterized by hyperpop-infl
     <tr>
       <td>48</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f6acb615366c65bde626b8f7717fb664.png" alt="Cover for Y2K21" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-04-19</td>
       <td>Me and My Kidney</td>
@@ -374,6 +381,7 @@ Sextrance is an experimental electronic music tag characterized by hyperpop-infl
     <tr>
       <td>52</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/67f9bf5598f93eb2195ae1638a94ee78.png" alt="Cover for Y2K21" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-11-12</td>
       <td>saves</td>
@@ -416,6 +424,7 @@ Sextrance is an experimental electronic music tag characterized by hyperpop-infl
     <tr>
       <td>11</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8e7695f071444e850bfda58b6b5a4ac2.png" alt="Cover for Y2K21" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-01-22</td>
       <td>Dj Saratonin</td>
@@ -539,7 +548,7 @@ Sextrance is an experimental electronic music tag characterized by hyperpop-infl
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/MkYiSc0nqyeb1mjT7dt22klb9ML93FH8Z5lj5sZfoK0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDk2/ODk2LTE2ODY2OTgy/NDYtNzczMi5wbmc.jpeg" alt="Cover for Immortal Spirit" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/81b41e106b66237310f59a04da521557.png" alt="Cover for Immortal Spirit" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-04-08</td>
       <td>purity filter</td>
@@ -558,11 +567,11 @@ Sextrance is an experimental electronic music tag characterized by hyperpop-infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 23</li>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 37</li>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 67</li>
-            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 82</li>
-            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 83</li>
+            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 16</li>
+            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 19</li>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 32</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 64</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -584,7 +593,7 @@ Sextrance is an experimental electronic music tag characterized by hyperpop-infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 44</li>
+            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -644,7 +653,7 @@ Sextrance is an experimental electronic music tag characterized by hyperpop-infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 38</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -693,6 +702,7 @@ Sextrance is an experimental electronic music tag characterized by hyperpop-infl
     <tr>
       <td>33</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a147eacb5b19f9c411e8d79905fb9c70.png" alt="Cover for Y2K21" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-11-04</td>
       <td>Sigmatus</td>
@@ -716,6 +726,7 @@ Sextrance is an experimental electronic music tag characterized by hyperpop-infl
     <tr>
       <td>66</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/76d59c89c648684e1dd0c8526d6adfbb.png" alt="Cover for Y2K21" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-11-21</td>
       <td>bye2</td>
@@ -828,9 +839,9 @@ Sextrance is an experimental electronic music tag characterized by hyperpop-infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 40</li>
-            <li> <a href="{{ "/tags/hardcore-techno" | relative_url }}">hardcore techno</a> # 62</li>
-            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 66</li>
+            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 32</li>
+            <li> <a href="{{ "/tags/hardcore-techno" | relative_url }}">hardcore techno</a> # 39</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -926,7 +937,7 @@ Sextrance is an experimental electronic music tag characterized by hyperpop-infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 7</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -946,7 +957,7 @@ Sextrance is an experimental electronic music tag characterized by hyperpop-infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 8</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -968,8 +979,8 @@ Sextrance is an experimental electronic music tag characterized by hyperpop-infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 10</li>
-            <li> <a href="{{ "/tags/schranz" | relative_url }}">schranz</a> # 48</li>
+            <li> <a href="{{ "/tags/schranz" | relative_url }}">schranz</a> # 53</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -990,7 +1001,7 @@ Sextrance is an experimental electronic music tag characterized by hyperpop-infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 13</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1010,7 +1021,7 @@ Sextrance is an experimental electronic music tag characterized by hyperpop-infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 18</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1027,7 +1038,7 @@ Sextrance is an experimental electronic music tag characterized by hyperpop-infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 19</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1047,7 +1058,7 @@ Sextrance is an experimental electronic music tag characterized by hyperpop-infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 20</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1069,7 +1080,7 @@ Sextrance is an experimental electronic music tag characterized by hyperpop-infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 21</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1089,7 +1100,7 @@ Sextrance is an experimental electronic music tag characterized by hyperpop-infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 31</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1109,7 +1120,7 @@ Sextrance is an experimental electronic music tag characterized by hyperpop-infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 32</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1128,7 +1139,7 @@ Sextrance is an experimental electronic music tag characterized by hyperpop-infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 35</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1148,7 +1159,7 @@ Sextrance is an experimental electronic music tag characterized by hyperpop-infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 36</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1168,7 +1179,7 @@ Sextrance is an experimental electronic music tag characterized by hyperpop-infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 40</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1188,7 +1199,7 @@ Sextrance is an experimental electronic music tag characterized by hyperpop-infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 43</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1208,7 +1219,7 @@ Sextrance is an experimental electronic music tag characterized by hyperpop-infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 45</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1228,7 +1239,7 @@ Sextrance is an experimental electronic music tag characterized by hyperpop-infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 47</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1246,14 +1257,14 @@ Sextrance is an experimental electronic music tag characterized by hyperpop-infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 48</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>81</td>
       <td>
-          <img src="https://i.discogs.com/RRxDOMs3MkxcLUz5PqCowJpVlLsLd3CJRJ9QG5KkS2I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzU1/NjI0LTE3MzIyMjA1/NDUtOTA3OC5qcGVn.jpeg" alt="Cover for wadio" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/338ccf065564702e4fb8c802b2563a80.png" alt="Cover for wadio" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-08-23</td>
       <td>beansclub</td>
@@ -1268,8 +1279,8 @@ Sextrance is an experimental electronic music tag characterized by hyperpop-infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 49</li>
-            <li> <a href="{{ "/tags/frenchcore" | relative_url }}">frenchcore</a> # 64</li>
+            <li> <a href="{{ "/tags/frenchcore" | relative_url }}">frenchcore</a> # 36</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1311,7 +1322,7 @@ Sextrance is an experimental electronic music tag characterized by hyperpop-infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 52</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1332,7 +1343,7 @@ Sextrance is an experimental electronic music tag characterized by hyperpop-infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 54</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1352,7 +1363,7 @@ Sextrance is an experimental electronic music tag characterized by hyperpop-infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 55</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1372,7 +1383,7 @@ Sextrance is an experimental electronic music tag characterized by hyperpop-infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 56</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1392,7 +1403,7 @@ Sextrance is an experimental electronic music tag characterized by hyperpop-infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 57</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1415,8 +1426,8 @@ Sextrance is an experimental electronic music tag characterized by hyperpop-infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 12</li>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 59</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 40</li>
+            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1437,8 +1448,8 @@ Sextrance is an experimental electronic music tag characterized by hyperpop-infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 73</li>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 79</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 19</li>
+            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1553,6 +1564,7 @@ Sextrance is an experimental electronic music tag characterized by hyperpop-infl
     <tr>
       <td>90</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/024478e6104337a5c74f0f6fa2e139bd.png" alt="Cover for webcore friends" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-11-01</td>
       <td>Zhnoi</td>
@@ -1569,8 +1581,8 @@ Sextrance is an experimental electronic music tag characterized by hyperpop-infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 2</li>
-            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 89</li>
+            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 12</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1590,7 +1602,7 @@ Sextrance is an experimental electronic music tag characterized by hyperpop-infl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 57</li>
+            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1675,6 +1687,7 @@ Sextrance is an experimental electronic music tag characterized by hyperpop-infl
     <tr>
       <td>14</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5a354bb17d851e853785bdfaafcfea03.png" alt="Cover for Y2K21" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>verti_dx</td>
@@ -1732,6 +1745,7 @@ Sextrance is an experimental electronic music tag characterized by hyperpop-infl
     <tr>
       <td>24</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9ec1703ec5bfcd5415d1e0dbdbcf25fb.png" alt="Cover for Y2K21" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Catastrophi</td>
@@ -1878,6 +1892,7 @@ Sextrance is an experimental electronic music tag characterized by hyperpop-infl
     <tr>
       <td>44</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d23ba6067809ac4ee930312af9969b18.png" alt="Cover for Y2K21" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Papilionidae</td>
@@ -1901,6 +1916,7 @@ Sextrance is an experimental electronic music tag characterized by hyperpop-infl
     <tr>
       <td>49</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a249090f0d7fc76831d67b26e438be5b.png" alt="Cover for Y2K21" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>mothmanlives</td>
@@ -1924,6 +1940,7 @@ Sextrance is an experimental electronic music tag characterized by hyperpop-infl
     <tr>
       <td>54</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3eb471b4ead85bb6d074c33b78f40fbe.png" alt="Cover for Y2K21" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>s0cky</td>

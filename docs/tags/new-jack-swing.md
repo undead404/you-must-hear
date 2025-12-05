@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-24T03:59:38.249Z
+date: 2025-12-05T04:39:31.544Z
 permalink: tags/new-jack-swing
 title: new jack swing
 ---
 
 ## new jack swing
 
-Last updated: <time datetime="2025-11-24T03:59:38.249Z">Mon Nov 24 2025 05:59:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T04:39:31.544Z">Fri Dec 05 2025 06:39:31 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -460,7 +460,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-gospel" | relative_url }}">contemporary gospel</a> # 59</li>
+            <li> <a href="{{ "/tags/contemporary-gospel" | relative_url }}">contemporary gospel</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1042,11 +1042,11 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-zealand" | relative_url }}">new zealand</a> # 6</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 19</li>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 23</li>
-            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 30</li>
-            <li> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a> # 76</li>
+            <li> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a> # 25</li>
+            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 71</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 78</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 81</li>
+            <li> <a href="{{ "/tags/new-zealand" | relative_url }}">new zealand</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1197,7 +1197,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 49</li>
+            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1310,7 +1310,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/slow-jams" | relative_url }}">slow jams</a> # 28</li>
+            <li> <a href="{{ "/tags/slow-jams" | relative_url }}">slow jams</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1595,8 +1595,8 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 2</li>
-            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 26</li>
+            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 74</li>
+            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1674,7 +1674,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 64</li>
+            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1693,14 +1693,14 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 43</li>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>95</td>
       <td>
-          <img src="https://i.discogs.com/HBfQdXPWpsNF8y5MNTxzNsdclzVQ7VfaV_KY_ZZWHGA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzODU0/Mi0xMjcwODk5NjQz/LmpwZWc.jpeg" alt="Cover for Girlfriend&#x2F;Boyfriend" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ea6efdce469b6ea913091a86a534ff4f.png" alt="Cover for Girlfriend&#x2F;Boyfriend" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-04-05</td>
       <td>Blackstreet</td>
@@ -1713,7 +1713,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 71</li>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1732,7 +1732,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 68</li>
+            <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1751,7 +1751,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 33</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1863,9 +1863,9 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 16</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 66</li>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 82</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 18</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 34</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1897,12 +1897,12 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 22</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 64</li>
-            <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 64</li>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 71</li>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 75</li>
-            <li> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a> # 99</li>
+            <li> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a> # 2</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 24</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 30</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 31</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 34</li>
+            <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1980,7 +1980,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 67</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 34</li>
         </ul>
       </td>
     </tr>

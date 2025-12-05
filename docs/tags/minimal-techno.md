@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-25T20:37:20.432Z
+date: 2025-12-05T04:37:12.538Z
 permalink: tags/minimal-techno
 title: minimal techno
 ---
 
 ## minimal techno
 
-Last updated: <time datetime="2025-11-25T20:37:20.432Z">Tue Nov 25 2025 22:37:20 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T04:37:12.538Z">Fri Dec 05 2025 06:37:12 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -45,7 +45,7 @@ Minimal techno is an electronic dance music style that emerged in the 1990s, emp
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 6</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -65,7 +65,7 @@ Minimal techno is an electronic dance music style that emerged in the 1990s, emp
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 23</li>
+            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -104,7 +104,7 @@ Minimal techno is an electronic dance music style that emerged in the 1990s, emp
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 88</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -215,7 +215,7 @@ Minimal techno is an electronic dance music style that emerged in the 1990s, emp
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 47</li>
+            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -241,9 +241,9 @@ Minimal techno is an electronic dance music style that emerged in the 1990s, emp
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 38</li>
+            <li> <a href="{{ "/tags/berlin-school" | relative_url }}">berlin school</a> # 4</li>
             <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 60</li>
-            <li> <a href="{{ "/tags/berlin-school" | relative_url }}">berlin school</a> # 97</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -341,7 +341,7 @@ Minimal techno is an electronic dance music style that emerged in the 1990s, emp
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 9</li>
+            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -360,8 +360,8 @@ Minimal techno is an electronic dance music style that emerged in the 1990s, emp
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 14</li>
             <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 22</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -489,7 +489,7 @@ Minimal techno is an electronic dance music style that emerged in the 1990s, emp
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 84</li>
+            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -528,7 +528,7 @@ Minimal techno is an electronic dance music style that emerged in the 1990s, emp
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 46</li>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -638,7 +638,7 @@ Minimal techno is an electronic dance music style that emerged in the 1990s, emp
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 39</li>
+            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -694,8 +694,8 @@ Minimal techno is an electronic dance music style that emerged in the 1990s, emp
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 39</li>
-            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 59</li>
+            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 38</li>
+            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -791,8 +791,8 @@ Minimal techno is an electronic dance music style that emerged in the 1990s, emp
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 29</li>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 45</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 55</li>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -811,7 +811,7 @@ Minimal techno is an electronic dance music style that emerged in the 1990s, emp
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 75</li>
+            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -940,8 +940,8 @@ Minimal techno is an electronic dance music style that emerged in the 1990s, emp
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 85</li>
-            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 95</li>
+            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 6</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -999,7 +999,7 @@ Minimal techno is an electronic dance music style that emerged in the 1990s, emp
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 48</li>
+            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1055,7 +1055,7 @@ Minimal techno is an electronic dance music style that emerged in the 1990s, emp
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 92</li>
+            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1095,8 +1095,8 @@ Minimal techno is an electronic dance music style that emerged in the 1990s, emp
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 45</li>
             <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 50</li>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1138,7 +1138,7 @@ Minimal techno is an electronic dance music style that emerged in the 1990s, emp
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 16</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1185,7 +1185,7 @@ Minimal techno is an electronic dance music style that emerged in the 1990s, emp
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 65</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1229,9 +1229,9 @@ Minimal techno is an electronic dance music style that emerged in the 1990s, emp
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 5</li>
             <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 30</li>
-            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 87</li>
-            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 96</li>
+            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1252,8 +1252,8 @@ Minimal techno is an electronic dance music style that emerged in the 1990s, emp
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 4</li>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 83</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 17</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1371,8 +1371,8 @@ Minimal techno is an electronic dance music style that emerged in the 1990s, emp
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-and-dark" | relative_url }}">deep and dark</a> # 96</li>
-            <li> <a href="{{ "/tags/detroit-techno" | relative_url }}">detroit techno</a> # 100</li>
+            <li> <a href="{{ "/tags/detroit-techno" | relative_url }}">detroit techno</a> # 1</li>
+            <li> <a href="{{ "/tags/deep-and-dark" | relative_url }}">deep and dark</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1430,7 +1430,7 @@ Minimal techno is an electronic dance music style that emerged in the 1990s, emp
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 65</li>
+            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1468,7 +1468,7 @@ Minimal techno is an electronic dance music style that emerged in the 1990s, emp
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 43</li>
+            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1530,8 +1530,8 @@ Minimal techno is an electronic dance music style that emerged in the 1990s, emp
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 7</li>
             <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 92</li>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1646,6 +1646,7 @@ Minimal techno is an electronic dance music style that emerged in the 1990s, emp
       <td>
         <ul>
             <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 87</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1670,7 +1671,7 @@ Minimal techno is an electronic dance music style that emerged in the 1990s, emp
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 79</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1710,7 +1711,7 @@ Minimal techno is an electronic dance music style that emerged in the 1990s, emp
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 68</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1732,9 +1733,9 @@ Minimal techno is an electronic dance music style that emerged in the 1990s, emp
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 10</li>
-            <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 98</li>
-            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 99</li>
+            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 2</li>
+            <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 3</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1756,8 +1757,8 @@ Minimal techno is an electronic dance music style that emerged in the 1990s, emp
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 84</li>
-            <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 88</li>
+            <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 13</li>
+            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1778,8 +1779,8 @@ Minimal techno is an electronic dance music style that emerged in the 1990s, emp
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 43</li>
-            <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 100</li>
+            <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 1</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1803,8 +1804,8 @@ Minimal techno is an electronic dance music style that emerged in the 1990s, emp
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 81</li>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 99</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 2</li>
+            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1826,15 +1827,15 @@ Minimal techno is an electronic dance music style that emerged in the 1990s, emp
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 82</li>
-            <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 84</li>
+            <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 17</li>
+            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 19</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>35</td>
       <td>
-          <img src="https://i.discogs.com/AriM8st2zgLsobKIamkrwfM_R7tyvQTrS_MshC--eSs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjM3/ODk0LTE1NTgwMjk4/NzItNjc4OS5qcGVn.jpeg" alt="Cover for Uncovered" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4fd900647242553558660ad23579c1df.png" alt="Cover for Uncovered" style="max-width:120px; height:auto;" />
       </td>
       <td>2019</td>
       <td>Zamilska</td>
@@ -1851,8 +1852,8 @@ Minimal techno is an electronic dance music style that emerged in the 1990s, emp
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 67</li>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 89</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 12</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1891,7 +1892,7 @@ Minimal techno is an electronic dance music style that emerged in the 1990s, emp
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 91</li>
+            <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1914,8 +1915,8 @@ Minimal techno is an electronic dance music style that emerged in the 1990s, emp
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 83</li>
-            <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 90</li>
+            <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 11</li>
+            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1936,7 +1937,7 @@ Minimal techno is an electronic dance music style that emerged in the 1990s, emp
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 92</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1958,8 +1959,8 @@ Minimal techno is an electronic dance music style that emerged in the 1990s, emp
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 95</li>
-            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 96</li>
+            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 4</li>
+            <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -1998,7 +1999,7 @@ Minimal techno is an electronic dance music style that emerged in the 1990s, emp
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 96</li>
+            <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -2020,10 +2021,10 @@ Minimal techno is an electronic dance music style that emerged in the 1990s, emp
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 65</li>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 93</li>
+            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 4</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 8</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 36</li>
             <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 95</li>
-            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 97</li>
         </ul>
       </td>
     </tr>

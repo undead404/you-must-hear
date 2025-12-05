@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-15T00:33:52.469Z
+date: 2025-12-05T04:34:13.465Z
 permalink: tags/musique-concrete
 title: musique concrete
 ---
 
 ## musique concrete
 
-Last updated: <time datetime="2025-11-15T00:33:52.469Z">Sat Nov 15 2025 02:33:52 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T04:34:13.465Z">Fri Dec 05 2025 06:34:13 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -44,7 +44,7 @@ Musique concrète is an experimental approach pioneered in 1940s France that tre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/serialism" | relative_url }}">serialism</a> # 84</li>
+            <li> <a href="{{ "/tags/serialism" | relative_url }}">serialism</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -98,7 +98,7 @@ Musique concrète is an experimental approach pioneered in 1940s France that tre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 57</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -194,8 +194,8 @@ Musique concrète is an experimental approach pioneered in 1940s France that tre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 57</li>
-            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 70</li>
+            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 32</li>
+            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -271,7 +271,7 @@ Musique concrète is an experimental approach pioneered in 1940s France that tre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ragtime" | relative_url }}">ragtime</a> # 54</li>
+            <li> <a href="{{ "/tags/ragtime" | relative_url }}">ragtime</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -531,7 +531,7 @@ Musique concrète is an experimental approach pioneered in 1940s France that tre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 11</li>
+            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -547,24 +547,15 @@ Musique concrète is an experimental approach pioneered in 1940s France that tre
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 49</li>
-            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 63</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -815,6 +806,7 @@ Musique concrète is an experimental approach pioneered in 1940s France that tre
     <tr>
       <td>54</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ac308c640ed045bf931aefb0f103602a.png" alt="Cover for Goodly Time" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-02-01</td>
       <td>Position Normal</td>
@@ -865,14 +857,14 @@ Musique concrète is an experimental approach pioneered in 1940s France that tre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 52</li>
+            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>14</td>
       <td>
-          <img src="https://i.discogs.com/lpWERUrntWaibazb_lDHoaALDapS8J8Dl-h9d24TXpY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODQx/NTUtMTU3NTExMjA4/OS0zNDE3LmpwZWc.jpeg" alt="Cover for Toothbrush fever" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/912d5d06473949b8a783d39f7be7051b.png" alt="Cover for Toothbrush fever" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-10-10</td>
       <td>Naing Naing</td>
@@ -886,14 +878,14 @@ Musique concrète is an experimental approach pioneered in 1940s France that tre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 79</li>
+            <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 22</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>16</td>
       <td>
-          <img src="https://i.discogs.com/KLtGcQZiWsCi2v-8WVpMrAbjHmY5UL0m6nUWDzwyCN8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4ODEz/MzYtMTM0NzkxNzA1/Ny05Njk0LmpwZWc.jpeg" alt="Cover for Toad Fever (Limited edition)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/342016942cb2dbabefee6d60b2a65562.png" alt="Cover for Toad Fever (Limited edition)" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-10-24</td>
       <td>Naing Naing</td>
@@ -905,14 +897,14 @@ Musique concrète is an experimental approach pioneered in 1940s France that tre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 48</li>
+            <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>50</td>
       <td>
-          <img src="https://i.discogs.com/8C1w70gJrcCl8KAtNv9lZ_c-6FSJHhOxh_207nbcbdY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5ODUy/OC0xNjc1MDMzNTYy/LTk3OTMuanBlZw.jpeg" alt="Cover for Storage" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8702329a10ffa888c1da8785992853ca.png" alt="Cover for Storage" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-07-00</td>
       <td>Merzbow</td>
@@ -932,7 +924,7 @@ Musique concrète is an experimental approach pioneered in 1940s France that tre
     <tr>
       <td>53</td>
       <td>
-          <img src="https://i.discogs.com/uv9TBffd4KwHmSNpBiGlCIoKaBhGGdNSndWOeA6_gbA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjIw/MDQtMTQxODgyMzc0/NS0zNjA0LmpwZWc.jpeg" alt="Cover for Quiet Life vol.1" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/89c7c31bda594fcb8fa7a5a57b493cbe.png" alt="Cover for Quiet Life vol.1" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-07-29</td>
       <td>David Schombert</td>
@@ -950,7 +942,7 @@ Musique concrète is an experimental approach pioneered in 1940s France that tre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 37</li>
+            <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -974,7 +966,7 @@ Musique concrète is an experimental approach pioneered in 1940s France that tre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 41</li>
+            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1021,7 +1013,7 @@ Musique concrète is an experimental approach pioneered in 1940s France that tre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 73</li>
+            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1046,7 +1038,7 @@ Musique concrète is an experimental approach pioneered in 1940s France that tre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 78</li>
+            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1065,7 +1057,7 @@ Musique concrète is an experimental approach pioneered in 1940s France that tre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 46</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1085,8 +1077,8 @@ Musique concrète is an experimental approach pioneered in 1940s France that tre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 20</li>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 29</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 66</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1127,8 +1119,8 @@ Musique concrète is an experimental approach pioneered in 1940s France that tre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 65</li>
-            <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 74</li>
+            <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 27</li>
+            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1170,7 +1162,7 @@ Musique concrète is an experimental approach pioneered in 1940s France that tre
     <tr>
       <td>7</td>
       <td>
-          <img src="https://i.discogs.com/cyETBVmt_4jn_b846AkWCP4txpsWaU6yCHQfN9o9unQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDc0/NzItMTIyNzUyMTk4/NS5qcGVn.jpeg" alt="Cover for Sids Appartment" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e7066e166ea944a1907decc4c6ac9703.png" alt="Cover for Sids Appartment" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-04</td>
       <td>Oskar Hallbert</td>
@@ -1242,8 +1234,8 @@ Musique concrète is an experimental approach pioneered in 1940s France that tre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 62</li>
-            <li> <a href="{{ "/tags/experimental-noise" | relative_url }}">experimental noise</a> # 91</li>
+            <li> <a href="{{ "/tags/experimental-noise" | relative_url }}">experimental noise</a> # 10</li>
+            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1274,15 +1266,15 @@ Musique concrète is an experimental approach pioneered in 1940s France that tre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 50</li>
-            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 66</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 35</li>
+            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 51</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>27</td>
       <td>
-          <img src="https://i.discogs.com/OE7GOtWPjkxDH7zY_ItixlI02Y49_ILu3WEJuV8paxs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTY0/MDUtMTMwNjE3NTc3/Ni5wbmc.jpeg" alt="Cover for Glimpses" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4b69d9d444d84591ae005d0cdcc34b45.png" alt="Cover for Glimpses" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-01-15</td>
       <td>yomby</td>
@@ -1299,8 +1291,8 @@ Musique concrète is an experimental approach pioneered in 1940s France that tre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 60</li>
-            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 68</li>
+            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 33</li>
+            <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1319,7 +1311,7 @@ Musique concrète is an experimental approach pioneered in 1940s France that tre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 30</li>
+            <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1344,10 +1336,10 @@ Musique concrète is an experimental approach pioneered in 1940s France that tre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 23</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 52</li>
-            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 73</li>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 73</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 23</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 27</li>
+            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 28</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1368,8 +1360,8 @@ Musique concrète is an experimental approach pioneered in 1940s France that tre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 39</li>
-            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 99</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 2</li>
+            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1400,9 +1392,9 @@ Musique concrète is an experimental approach pioneered in 1940s France that tre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 35</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 43</li>
-            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 75</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 26</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 55</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1432,11 +1424,11 @@ Musique concrète is an experimental approach pioneered in 1940s France that tre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 38</li>
-            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 59</li>
-            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 90</li>
-            <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 92</li>
-            <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 95</li>
+            <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 6</li>
+            <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 9</li>
+            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 11</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 42</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1477,7 +1469,7 @@ Musique concrète is an experimental approach pioneered in 1940s France that tre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 69</li>
+            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1503,6 +1495,7 @@ Musique concrète is an experimental approach pioneered in 1940s France that tre
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/innovative" | relative_url }}">innovative</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a></li>
@@ -1517,9 +1510,10 @@ Musique concrète is an experimental approach pioneered in 1940s France that tre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 6</li>
-            <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 20</li>
-            <li> <a href="{{ "/tags/trip" | relative_url }}">trip</a> # 81</li>
+            <li> <a href="{{ "/tags/innovative" | relative_url }}">innovative</a> # 14</li>
+            <li> <a href="{{ "/tags/trip" | relative_url }}">trip</a> # 20</li>
+            <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 81</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1540,7 +1534,7 @@ Musique concrète is an experimental approach pioneered in 1940s France that tre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/serialism" | relative_url }}">serialism</a> # 88</li>
+            <li> <a href="{{ "/tags/serialism" | relative_url }}">serialism</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1599,7 +1593,7 @@ Musique concrète is an experimental approach pioneered in 1940s France that tre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 26</li>
+            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1620,7 +1614,7 @@ Musique concrète is an experimental approach pioneered in 1940s France that tre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 18</li>
+            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1664,14 +1658,14 @@ Musique concrète is an experimental approach pioneered in 1940s France that tre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 33</li>
+            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/OXhYc3IYGj4HA-TP_nRYlFowEPa5-5Gm-nYGq1zsdbU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMDU2/MTAtMTQ1NTU2MDcy/Ny01NTk0LmpwZWc.jpeg" alt="Cover for Ultimate Care II" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/894d08b36705159e6f1e63acf2f24bef.png" alt="Cover for Ultimate Care II" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-02-10</td>
       <td>Matmos</td>
@@ -1685,14 +1679,14 @@ Musique concrète is an experimental approach pioneered in 1940s France that tre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 9</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/Ca3WQl3QkE30TVO14UflhB-RQbtwq4-D9tFajxOJeoM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4Nzkx/MDEtMTQ4OTc2NTky/MC0xOTI3LmpwZWc.jpeg" alt="Cover for Children of Alice" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/626e675ba8c96c4790f0a700206f7477.png" alt="Cover for Children of Alice" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-02-24</td>
       <td>Children of Alice</td>
@@ -1707,8 +1701,8 @@ Musique concrète is an experimental approach pioneered in 1940s France that tre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 59</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 62</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 35</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1735,7 +1729,7 @@ Musique concrète is an experimental approach pioneered in 1940s France that tre
     <tr>
       <td>76</td>
       <td>
-          <img src="https://i.discogs.com/UWX6QqkQkOFBS3oEb69pu6MLtAHTjF5xgdumoyoSy0k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDkx/Nzg5LTE1MDk4Nzk0/NTEtNDg1NS5qcGVn.jpeg" alt="Cover for Les Fleurs Du Mal" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0c941c0ebd98fd5810f8196cc6e009ea.png" alt="Cover for Les Fleurs Du Mal" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-11-03</td>
       <td>Rabit</td>
@@ -1752,7 +1746,7 @@ Musique concrète is an experimental approach pioneered in 1940s France that tre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 3</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1778,7 +1772,7 @@ Musique concrète is an experimental approach pioneered in 1940s France that tre
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/b-kxc9vK0WMLMdK0AlaGvKGuwg8n2dlAZqaYtIxn42o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzA3/MTg0LTE1NTk0NDM5/MzctMTg1MC5qcGVn.jpeg" alt="Cover for The Origin of My Depression" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c88e4768ee398638aa83b2dc160e366f.png" alt="Cover for The Origin of My Depression" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-02-14</td>
       <td>Uboa</td>
@@ -1792,10 +1786,11 @@ Musique concrète is an experimental approach pioneered in 1940s France that tre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 48</li>
-            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 81</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 93</li>
-            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 100</li>
+            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 1</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 7</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 8</li>
+            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 16</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1872,18 +1867,18 @@ Musique concrète is an experimental approach pioneered in 1940s France that tre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 45</li>
-            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 75</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 95</li>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 97</li>
-            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 99</li>
+            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 2</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 4</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 6</li>
+            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 19</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>64</td>
       <td>
-          <img src="https://i.discogs.com/o4SONxImVysVSlGZBM9FSit3mSLRxJOvst0WPnqOzHw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzI1/NjYyLTE1NzIyNzIz/MTQtODM0MS5qcGVn.jpeg" alt="Cover for t4t" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0cd1e76f5f66727a80ef9765c21abf9b.png" alt="Cover for t4t" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-10-22</td>
       <td>Claire Rousay</td>
@@ -1900,7 +1895,7 @@ Musique concrète is an experimental approach pioneered in 1940s France that tre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 14</li>
+            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1921,7 +1916,7 @@ Musique concrète is an experimental approach pioneered in 1940s France that tre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 21</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -2028,9 +2023,9 @@ Musique concrète is an experimental approach pioneered in 1940s France that tre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 1</li>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 28</li>
-            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 38</li>
+            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 62</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 71</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -2087,15 +2082,15 @@ Musique concrète is an experimental approach pioneered in 1940s France that tre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 11</li>
-            <li> <a href="{{ "/tags/eai" | relative_url }}">eai</a> # 84</li>
+            <li> <a href="{{ "/tags/eai" | relative_url }}">eai</a> # 17</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>97</td>
       <td>
-          <img src="https://i.discogs.com/NYf0GapxkWBKfruk6H0LCiQ8fDqumBLX9hWSVYbgjMY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTk0/NTk1LTE3MTQ5Mjky/OTMtMjIzMi5qcGVn.jpeg" alt="Cover for Broadcast and the Focus Group Investigate Witch Cults of the Radio Age" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/26093ed4709a09ea3d10fdfe87f8034b.png" alt="Cover for Broadcast and the Focus Group Investigate Witch Cults of the Radio Age" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-03-21</td>
       <td>Broadcast</td>
@@ -2112,8 +2107,8 @@ Musique concrète is an experimental approach pioneered in 1940s France that tre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 76</li>
-            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 85</li>
+            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 16</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -2145,9 +2140,9 @@ Musique concrète is an experimental approach pioneered in 1940s France that tre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 60</li>
-            <li> <a href="{{ "/tags/drag" | relative_url }}">drag</a> # 66</li>
-            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 74</li>
+            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 27</li>
+            <li> <a href="{{ "/tags/drag" | relative_url }}">drag</a> # 35</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -2176,9 +2171,9 @@ Musique concrète is an experimental approach pioneered in 1940s France that tre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 25</li>
-            <li> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a> # 37</li>
-            <li> <a href="{{ "/tags/trip" | relative_url }}">trip</a> # 84</li>
+            <li> <a href="{{ "/tags/trip" | relative_url }}">trip</a> # 17</li>
+            <li> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a> # 64</li>
+            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 76</li>
         </ul>
       </td>
     </tr>

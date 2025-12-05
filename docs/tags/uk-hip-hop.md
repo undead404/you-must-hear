@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-27T08:51:20.398Z
+date: 2025-12-05T04:42:33.548Z
 permalink: tags/uk-hip-hop
 title: uk hip hop
 ---
 
 ## uk hip hop
 
-Last updated: <time datetime="2025-11-27T08:51:20.398Z">Thu Nov 27 2025 10:51:20 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T04:42:33.548Z">Fri Dec 05 2025 06:42:33 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -61,7 +61,7 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 15</li>
+            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -173,7 +173,7 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 94</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -210,7 +210,7 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 86</li>
+            <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -423,8 +423,8 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 72</li>
-            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 77</li>
+            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 24</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -505,7 +505,7 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 90</li>
+            <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 11</li>
             <li> <a href="{{ "/tags/british-hip-hop" | relative_url }}">british hip hop</a> # 91</li>
             <li> <a href="{{ "/tags/english-hip-hop" | relative_url }}">english hip hop</a> # 93</li>
         </ul>
@@ -563,7 +563,7 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 75</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -603,8 +603,8 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 4</li>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 10</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 90</li>
+            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -625,7 +625,7 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       <td>
         <ul>
             <li> <a href="{{ "/tags/british-hip-hop" | relative_url }}">british hip hop</a> # 7</li>
-            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 53</li>
+            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -692,7 +692,7 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 33</li>
+            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -742,7 +742,7 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 17</li>
+            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -836,7 +836,7 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkcore" | relative_url }}">darkcore</a> # 42</li>
+            <li> <a href="{{ "/tags/darkcore" | relative_url }}">darkcore</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -857,7 +857,7 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a> # 8</li>
+            <li> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -958,8 +958,8 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 15</li>
             <li> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a> # 63</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -979,8 +979,8 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 46</li>
             <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 49</li>
+            <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1075,7 +1075,7 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glasgow" | relative_url }}">glasgow</a> # 28</li>
+            <li> <a href="{{ "/tags/glasgow" | relative_url }}">glasgow</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1112,7 +1112,7 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 93</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1139,10 +1139,10 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 2</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 6</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 16</li>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 76</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 24</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 85</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 95</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1182,7 +1182,7 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       <td>
         <ul>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 4</li>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 75</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1206,7 +1206,7 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 29</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1250,7 +1250,7 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 11</li>
+            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1269,8 +1269,8 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 48</li>
-            <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 100</li>
+            <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 4</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1310,7 +1310,7 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 74</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1345,8 +1345,8 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 54</li>
-            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 73</li>
+            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 28</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1414,10 +1414,10 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 43</li>
             <li> <a href="{{ "/tags/british-hip-hop" | relative_url }}">british hip hop</a> # 47</li>
             <li> <a href="{{ "/tags/english-hip-hop" | relative_url }}">english hip hop</a> # 49</li>
-            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 57</li>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 76</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1438,8 +1438,8 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 8</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 96</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 5</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1497,7 +1497,7 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 5</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1516,7 +1516,7 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 93</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1556,9 +1556,9 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 52</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 28</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 49</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 53</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1576,7 +1576,7 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 20</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1600,11 +1600,11 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 18</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 23</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 23</li>
             <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 41</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 44</li>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 78</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 78</li>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 83</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1626,9 +1626,9 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 88</li>
+            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 1</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 13</li>
             <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 93</li>
-            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1649,7 +1649,7 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 67</li>
+            <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1667,7 +1667,7 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/wales" | relative_url }}">wales</a> # 57</li>
+            <li> <a href="{{ "/tags/wales" | relative_url }}">wales</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1686,7 +1686,7 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 62</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1715,10 +1715,10 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 18</li>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 72</li>
-            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 75</li>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 81</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 20</li>
+            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 26</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 29</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1777,8 +1777,8 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 27</li>
-            <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 30</li>
+            <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 71</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1800,7 +1800,7 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a> # 53</li>
+            <li> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1823,7 +1823,7 @@ UK hip hop is a British interpretation of rap music that emerged in the 1980s, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 28</li>
+            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 73</li>
         </ul>
       </td>
     </tr>

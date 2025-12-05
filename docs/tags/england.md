@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-01T04:49:07.495Z
+date: 2025-12-05T04:35:15.377Z
 permalink: tags/england
 title: england
 ---
 
 ## england
 
-Last updated: <time datetime="2025-11-01T04:49:07.495Z">Sat Nov 01 2025 06:49:07 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T04:35:15.377Z">Fri Dec 05 2025 06:35:15 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -49,6 +49,7 @@ Last updated: <time datetime="2025-11-01T04:49:07.495Z">Sat Nov 01 2025 06:49:07
     <tr>
       <td>98</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/32107e64da77aaf0ec04487f479b461d.png" alt="Cover for You Don&#39;t Have To Say You Love Me" style="max-width:120px; height:auto;" />
       </td>
       <td>1966</td>
       <td>Dusty Springfield</td>
@@ -63,7 +64,7 @@ Last updated: <time datetime="2025-11-01T04:49:07.495Z">Sat Nov 01 2025 06:49:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 54</li>
+            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -84,7 +85,7 @@ Last updated: <time datetime="2025-11-01T04:49:07.495Z">Sat Nov 01 2025 06:49:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 79</li>
+            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -104,14 +105,14 @@ Last updated: <time datetime="2025-11-01T04:49:07.495Z">Sat Nov 01 2025 06:49:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/english-folk" | relative_url }}">english folk</a> # 83</li>
+            <li> <a href="{{ "/tags/english-folk" | relative_url }}">english folk</a> # 19</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>89</td>
       <td>
-          <img src="https://i.discogs.com/Ck-F9rbOUZJMZMxkxNmwW3vmQMItSPbgXeZsLSVG_js/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDM3/MDI1LTE2MDU2NTMz/NjUtNjE5OC5qcGVn.jpeg" alt="Cover for Sgt. Pepper&#39;s Lonely Hearts Club Band [2009 Stereo Remaster]" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c86fe839c3c306d5f75ec496225073a0.png" alt="Cover for Sgt. Pepper&#39;s Lonely Hearts Club Band [2009 Stereo Remaster]" style="max-width:120px; height:auto;" />
       </td>
       <td>1970</td>
       <td>The Beatles</td>
@@ -133,7 +134,7 @@ Last updated: <time datetime="2025-11-01T04:49:07.495Z">Sat Nov 01 2025 06:49:07
     <tr>
       <td>23</td>
       <td>
-          <img src="https://i.discogs.com/6m7bw5ww5P7voCgAuJ1a1ZoTNmxcvu-mdW9kN6jv98I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjI1/ODAtMTQ5OTE5MjQw/My00MDc0LmpwZWc.jpeg" alt="Cover for Skeleton In Armour" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a1df102635cb43e39847eab80f642028.png" alt="Cover for Skeleton In Armour" style="max-width:120px; height:auto;" />
       </td>
       <td>1973</td>
       <td>Fusion Orchestra</td>
@@ -153,15 +154,16 @@ Last updated: <time datetime="2025-11-01T04:49:07.495Z">Sat Nov 01 2025 06:49:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/flute" | relative_url }}">flute</a> # 49</li>
-            <li> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a> # 74</li>
-            <li> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a> # 87</li>
+            <li> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a> # 14</li>
+            <li> <a href="{{ "/tags/flute" | relative_url }}">flute</a> # 52</li>
+            <li> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>37</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/317b54a29caf41c6c13c37ec3a37f4a2.png" alt="Cover for Valentine" style="max-width:120px; height:auto;" />
       </td>
       <td>1974-02-14</td>
       <td>Roy Harper</td>
@@ -181,7 +183,7 @@ Last updated: <time datetime="2025-11-01T04:49:07.495Z">Sat Nov 01 2025 06:49:07
     <tr>
       <td>43</td>
       <td>
-          <img src="https://i.discogs.com/pFP5T3ly7JnXfVTte3Ys-pxx0uv_6DGkllzsLJThF-s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Nzgx/MjAtMTIzNjM0NDMw/NS5qcGVn.jpeg" alt="Cover for Silly Sisters" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/41348c4cc8e700d810694754c89a4eb8.png" alt="Cover for Silly Sisters" style="max-width:120px; height:auto;" />
       </td>
       <td>1976-03</td>
       <td>Maddy Prior &amp; June Tabor</td>
@@ -215,14 +217,14 @@ Last updated: <time datetime="2025-11-01T04:49:07.495Z">Sat Nov 01 2025 06:49:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pub-rock" | relative_url }}">pub rock</a> # 93</li>
+            <li> <a href="{{ "/tags/pub-rock" | relative_url }}">pub rock</a> # 8</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>71</td>
       <td>
-          <img src="https://i.discogs.com/eLfK4gHTqZ5TwFWZlpuN1eaCd1zB4wIN05Ao6g4ocTE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTk2/NzktMTU0Njc5Mjk3/Mi0zNzM0LmpwZWc.jpeg" alt="Cover for Ghosts of Princes in Towers" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fe4fe3b3fab443d9a1fa4c1ef1609bc4.png" alt="Cover for Ghosts of Princes in Towers" style="max-width:120px; height:auto;" />
       </td>
       <td>1978-08</td>
       <td>Rich Kids</td>
@@ -275,6 +277,7 @@ Last updated: <time datetime="2025-11-01T04:49:07.495Z">Sat Nov 01 2025 06:49:07
     <tr>
       <td>10</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef30ff575680a005c4fe60b3299a3ceb.png" alt="Cover for Hollywood Brats" style="max-width:120px; height:auto;" />
       </td>
       <td>1980</td>
       <td>Hollywood Brats</td>
@@ -290,7 +293,8 @@ Last updated: <time datetime="2025-11-01T04:49:07.495Z">Sat Nov 01 2025 06:49:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 73</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 25</li>
+            <li> <a href="{{ "/tags/proto-punk" | relative_url }}">proto-punk</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -322,7 +326,7 @@ Last updated: <time datetime="2025-11-01T04:49:07.495Z">Sat Nov 01 2025 06:49:07
     <tr>
       <td>9</td>
       <td>
-          <img src="https://i.discogs.com/OJqqzQDwEf9RQUWd2CEcTwfxiSrZ-WiXBE5WusQQyr0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1ODY3/NjEtMTQyNjMyNzI2/OS0zNzY1LmpwZWc.jpeg" alt="Cover for Aerial - A Sea Of Honey" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c4a381483b7a4d47bbe88e809224f48d.png" alt="Cover for Aerial - A Sea Of Honey" style="max-width:120px; height:auto;" />
       </td>
       <td>1986-02-17</td>
       <td>Kate Bush</td>
@@ -344,9 +348,9 @@ Last updated: <time datetime="2025-11-01T04:49:07.495Z">Sat Nov 01 2025 06:49:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 82</li>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 86</li>
-            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 87</li>
+            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 14</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 15</li>
+            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -385,14 +389,14 @@ Last updated: <time datetime="2025-11-01T04:49:07.495Z">Sat Nov 01 2025 06:49:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 68</li>
+            <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>5</td>
       <td>
-          <img src="https://i.discogs.com/RgxQYMJErRZt6ZF7Yfiw2wC_uA9CJDMOSseMNOu0b78/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NTU1/NTItMTM5Mzc5NDkw/Ny01NDA4LmpwZWc.jpeg" alt="Cover for Direction Reaction Creation (2 of 5)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ed3710d54c74884c8c78a35b976b04b.png" alt="Cover for Direction Reaction Creation (2 of 5)" style="max-width:120px; height:auto;" />
       </td>
       <td>1987</td>
       <td>The Jam</td>
@@ -408,7 +412,7 @@ Last updated: <time datetime="2025-11-01T04:49:07.495Z">Sat Nov 01 2025 06:49:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a> # 69</li>
+            <li> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -432,9 +436,9 @@ Last updated: <time datetime="2025-11-01T04:49:07.495Z">Sat Nov 01 2025 06:49:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 33</li>
-            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 48</li>
-            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 94</li>
+            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 7</li>
+            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 56</li>
+            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -459,7 +463,7 @@ Last updated: <time datetime="2025-11-01T04:49:07.495Z">Sat Nov 01 2025 06:49:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pub-rock" | relative_url }}">pub rock</a> # 89</li>
+            <li> <a href="{{ "/tags/pub-rock" | relative_url }}">pub rock</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -484,7 +488,7 @@ Last updated: <time datetime="2025-11-01T04:49:07.495Z">Sat Nov 01 2025 06:49:07
     <tr>
       <td>24</td>
       <td>
-          <img src="https://i.discogs.com/y04_jtzQHMQmhsK5OnVuoDp0opFBcRceEVq5kPYDX70/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDE4/NDYtMTIwMDM1OTc4/Mi5qcGVn.jpeg" alt="Cover for Century Flower" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bf3b937e3bda7f5eaca708074defebc7.png" alt="Cover for Century Flower" style="max-width:120px; height:auto;" />
       </td>
       <td>1989</td>
       <td>Shelleyan Orphan</td>
@@ -500,14 +504,14 @@ Last updated: <time datetime="2025-11-01T04:49:07.495Z">Sat Nov 01 2025 06:49:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 87</li>
+            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 14</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>86</td>
       <td>
-          <img src="https://i.discogs.com/66taWuucRR3e8OZ4eZeyD0wa4mwQK4TfnP-lo1wiCfQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4OTc2/Ni0xNTA0MTMyNzM0/LTEwNzguanBlZw.jpeg" alt="Cover for The Last of the Famous International Playboys" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d85e3318a4e140bdc0d607ec12f5d100.png" alt="Cover for The Last of the Famous International Playboys" style="max-width:120px; height:auto;" />
       </td>
       <td>1989-02-11</td>
       <td>Morrissey</td>
@@ -520,7 +524,7 @@ Last updated: <time datetime="2025-11-01T04:49:07.495Z">Sat Nov 01 2025 06:49:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 90</li>
+            <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -582,7 +586,7 @@ Last updated: <time datetime="2025-11-01T04:49:07.495Z">Sat Nov 01 2025 06:49:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 40</li>
+            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -605,27 +609,26 @@ Last updated: <time datetime="2025-11-01T04:49:07.495Z">Sat Nov 01 2025 06:49:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sheffield" | relative_url }}">sheffield</a> # 100</li>
+            <li> <a href="{{ "/tags/sheffield" | relative_url }}">sheffield</a> # 1</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>97</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a7d1645999984c73becc80741a15e2ed.png" alt="Cover for Tindersticks" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/88c6f0068a5416182741a1aae6bd0cf0.png" alt="Cover for Tindersticks" style="max-width:120px; height:auto;" />
       </td>
       <td>1993-10-07</td>
       <td>Tindersticks</td>
       <td>Tindersticks</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/england" | relative_url }}">england</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 39</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -667,14 +670,14 @@ Last updated: <time datetime="2025-11-01T04:49:07.495Z">Sat Nov 01 2025 06:49:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 21</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>77</td>
       <td>
-          <img src="https://i.discogs.com/UKmfHaaGQ4Ng2GkSwln_EVxqpGxJKK_x0hmTuhoR6fY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NjU3/My0xMTU1NDkwMzE2/LmpwZWc.jpeg" alt="Cover for The Very Best Of 1980 - 2000" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dd6e6518201fad3eb81379d519d3302e.png" alt="Cover for The Very Best Of 1980 - 2000" style="max-width:120px; height:auto;" />
       </td>
       <td>1995-05-31</td>
       <td>UB40</td>
@@ -778,8 +781,8 @@ Last updated: <time datetime="2025-11-01T04:49:07.495Z">Sat Nov 01 2025 06:49:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 12</li>
-            <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 66</li>
+            <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 34</li>
+            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -808,10 +811,10 @@ Last updated: <time datetime="2025-11-01T04:49:07.495Z">Sat Nov 01 2025 06:49:07
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 18</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 28</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 31</li>
             <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 50</li>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 70</li>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 71</li>
-            <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -829,15 +832,15 @@ Last updated: <time datetime="2025-11-01T04:49:07.495Z">Sat Nov 01 2025 06:49:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 56</li>
-            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 92</li>
+            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 9</li>
+            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>66</td>
       <td>
-          <img src="https://i.discogs.com/YlprgZmfCzFOyb60NorkM1RLjmrhGBEHzl75W5CapS0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTIy/MDIzLTE0OTIyODk1/NjMtODQ3Ny5qcGVn.jpeg" alt="Cover for The Best Of, Vol. 1" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0fcbdad5844f30974c8f8ae9c02b37db.png" alt="Cover for The Best Of, Vol. 1" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Depeche Mode</td>
@@ -888,7 +891,7 @@ Last updated: <time datetime="2025-11-01T04:49:07.495Z">Sat Nov 01 2025 06:49:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 91</li>
+            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -955,6 +958,7 @@ Last updated: <time datetime="2025-11-01T04:49:07.495Z">Sat Nov 01 2025 06:49:07
     <tr>
       <td>84</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d871332df0e64c7090e89433d58a91d1.png" alt="Cover for Classic Hits" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>The Rolling Stones</td>
@@ -995,7 +999,7 @@ Last updated: <time datetime="2025-11-01T04:49:07.495Z">Sat Nov 01 2025 06:49:07
     <tr>
       <td>67</td>
       <td>
-          <img src="https://i.discogs.com/ifnlrlPhWoPYnXzbFmrPqkZzhKC031zMfl8dgJPd-Co/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NDUz/MS0xNDQ0NzQ0NDE0/LTg1ODUuanBlZw.jpeg" alt="Cover for Shaking The Tree: 16 Golden Greats" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c0ce47db2649445aa862f373a0d60fc7.png" alt="Cover for Shaking The Tree: 16 Golden Greats" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Peter Gabriel</td>
@@ -1015,7 +1019,7 @@ Last updated: <time datetime="2025-11-01T04:49:07.495Z">Sat Nov 01 2025 06:49:07
     <tr>
       <td>73</td>
       <td>
-          <img src="https://i.discogs.com/J5EHztGck4hSEJMAuNV9htjmK4FTsMkhqwn7mJRKqUU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MTYx/Ni0xMjIwMDQzNDQy/LmpwZWc.jpeg" alt="Cover for Ends In Light" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f71e0e7e6f5d43d29b63528a49fc7f94.png" alt="Cover for Ends In Light" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-10-25</td>
       <td>Air Formation</td>
@@ -1080,7 +1084,7 @@ Last updated: <time datetime="2025-11-01T04:49:07.495Z">Sat Nov 01 2025 06:49:07
     <tr>
       <td>8</td>
       <td>
-          <img src="https://i.discogs.com/CV3fBxBkRW4u02el1jniVUXqkr0HtsFfaSsU6-52SPw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTg5/Mi0xMTM5NjM0MjQ5/LmpwZWc.jpeg" alt="Cover for Some Blue Notes Of Drum N Bass" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b1c31aa5fdfa415286fd3c9cc2d6d05f.png" alt="Cover for Some Blue Notes Of Drum N Bass" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>LTJ Bukem</td>
@@ -1114,7 +1118,7 @@ Last updated: <time datetime="2025-11-01T04:49:07.495Z">Sat Nov 01 2025 06:49:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 85</li>
+            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1140,7 +1144,7 @@ Last updated: <time datetime="2025-11-01T04:49:07.495Z">Sat Nov 01 2025 06:49:07
     <tr>
       <td>59</td>
       <td>
-          <img src="https://i.discogs.com/5iWlFsGOVJFMwhuN0-4tFJazdoChrljUa5MaVre6TJA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MDM3/OC0xMTQ2OTQyMTc0/LmpwZWc.jpeg" alt="Cover for To the Moon" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a36d351da5a486073fde9b65ececdc4a.png" alt="Cover for To the Moon" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-09-21</td>
       <td>Monster Movie</td>
@@ -1178,7 +1182,7 @@ Last updated: <time datetime="2025-11-01T04:49:07.495Z">Sat Nov 01 2025 06:49:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a> # 95</li>
+            <li> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1202,9 +1206,9 @@ Last updated: <time datetime="2025-11-01T04:49:07.495Z">Sat Nov 01 2025 06:49:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 7</li>
-            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 23</li>
-            <li> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a> # 88</li>
+            <li> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a> # 11</li>
+            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 81</li>
+            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1224,8 +1228,8 @@ Last updated: <time datetime="2025-11-01T04:49:07.495Z">Sat Nov 01 2025 06:49:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 27</li>
-            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 93</li>
+            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 8</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1268,9 +1272,9 @@ Last updated: <time datetime="2025-11-01T04:49:07.495Z">Sat Nov 01 2025 06:49:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 61</li>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 91</li>
-            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 92</li>
+            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 7</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 9</li>
+            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1288,16 +1292,16 @@ Last updated: <time datetime="2025-11-01T04:49:07.495Z">Sat Nov 01 2025 06:49:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 66</li>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 92</li>
-            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 94</li>
+            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 6</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 8</li>
+            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 37</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>83</td>
       <td>
-          <img src="https://i.discogs.com/P4D8RTFiGnc1kzEJy3MDzWn5g3ofgtbU3ntg7L0DRvQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTcz/MjUtMTIwOTE1Mzg0/Ny5qcGVn.jpeg" alt="Cover for Blood, Sweat And Towers" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3d849599e8dc4b339024b33c574fa3b6.png" alt="Cover for Blood, Sweat And Towers" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Towers Of London</td>
@@ -1308,9 +1312,9 @@ Last updated: <time datetime="2025-11-01T04:49:07.495Z">Sat Nov 01 2025 06:49:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 70</li>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 93</li>
-            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 98</li>
+            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 3</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 6</li>
+            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1336,6 +1340,7 @@ Last updated: <time datetime="2025-11-01T04:49:07.495Z">Sat Nov 01 2025 06:49:07
     <tr>
       <td>87</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e08a0667062b9d6a00fba0b16bb8048a.png" alt="Cover for The Hardest Way To Make An Easy Living" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-04-07</td>
       <td>The Streets</td>
@@ -1348,7 +1353,7 @@ Last updated: <time datetime="2025-11-01T04:49:07.495Z">Sat Nov 01 2025 06:49:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 33</li>
+            <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1371,9 +1376,9 @@ Last updated: <time datetime="2025-11-01T04:49:07.495Z">Sat Nov 01 2025 06:49:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 84</li>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 97</li>
-            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 100</li>
+            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 1</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 2</li>
+            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1421,7 +1426,7 @@ Last updated: <time datetime="2025-11-01T04:49:07.495Z">Sat Nov 01 2025 06:49:07
     <tr>
       <td>46</td>
       <td>
-          <img src="https://i.discogs.com/RwXJjEzvACBGLK96OohpWJYKNQg6Gi4T4maD2d1CXPA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTI5/NTktMTM4MDg4ODMz/My03OTcwLmpwZWc.jpeg" alt="Cover for 7" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/35425fc2cf0657d2b8d601481bce6111.png" alt="Cover for 7" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Apologies, I Have None</td>
@@ -1438,7 +1443,7 @@ Last updated: <time datetime="2025-11-01T04:49:07.495Z">Sat Nov 01 2025 06:49:07
     <tr>
       <td>35</td>
       <td>
-          <img src="https://i.discogs.com/mFtz6EWrv1Z-cw8dJu9pVDz1hamR8mbQGKpExo__wQE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjgz/NTctMTE4NTc1NTUw/Ny5qcGVn.jpeg" alt="Cover for Truth is Stranger" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2223a20e60ce4697a34ffc382d214009.png" alt="Cover for Truth is Stranger" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-03-13</td>
       <td>Keston and Westdal</td>
@@ -1463,14 +1468,14 @@ Last updated: <time datetime="2025-11-01T04:49:07.495Z">Sat Nov 01 2025 06:49:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 3</li>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 74</li>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 76</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 76</li>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 82</li>
-            <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 87</li>
-            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 88</li>
-            <li> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a> # 96</li>
+            <li> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a> # 4</li>
+            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 13</li>
+            <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 14</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 18</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 23</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 24</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 27</li>
+            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1512,7 +1517,7 @@ Last updated: <time datetime="2025-11-01T04:49:07.495Z">Sat Nov 01 2025 06:49:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 8</li>
+            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1541,7 +1546,7 @@ Last updated: <time datetime="2025-11-01T04:49:07.495Z">Sat Nov 01 2025 06:49:07
     <tr>
       <td>7</td>
       <td>
-          <img src="https://i.discogs.com/nH5YtRTRoszhMk3w5SyGyaecT-rbM8HZj2l-qAH97mU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5ODIy/NDUtMTQ1Mjg4NTQw/My0zNjI1LmpwZWc.jpeg" alt="Cover for One Day to Save All Life" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/edffb20f4514352a03f6d7e6a29f5ad9.png" alt="Cover for One Day to Save All Life" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Keston and Westdal</td>
@@ -1565,20 +1570,20 @@ Last updated: <time datetime="2025-11-01T04:49:07.495Z">Sat Nov 01 2025 06:49:07
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a> # 8</li>
+            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 20</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 23</li>
+            <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 27</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 40</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 41</li>
             <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 50</li>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 60</li>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 60</li>
-            <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 74</li>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 76</li>
-            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 81</li>
-            <li> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>15</td>
       <td>
-          <img src="https://i.discogs.com/802UkOKIrF687unoSlo6Vjxt0q2rdT_3UMqWKAVi-uw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NzQw/NTMtMTQ0ODQ4MzUx/Ny0yOTEwLmpwZWc.jpeg" alt="Cover for 1988" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/29ba76af70fe4b37ac3e4b15bc23609e.png" alt="Cover for 1988" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Adele</td>
@@ -1635,7 +1640,7 @@ Last updated: <time datetime="2025-11-01T04:49:07.495Z">Sat Nov 01 2025 06:49:07
     <tr>
       <td>21</td>
       <td>
-          <img src="https://i.discogs.com/O6NijaY11n8wuN4UpS0NcosUBgaTvRPzNgs1Z_vCHrk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTc4/NzctMTI2MjY4NzMx/MC5qcGVn.jpeg" alt="Cover for Sings and Wonders" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1291cbcbe61c4293b6f7cb49b35bd284.png" alt="Cover for Sings and Wonders" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Animal Kingdom</td>
@@ -1690,16 +1695,16 @@ Last updated: <time datetime="2025-11-01T04:49:07.495Z">Sat Nov 01 2025 06:49:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 7</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 10</li>
-            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 40</li>
-            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 42</li>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 47</li>
-            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 53</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 83</li>
-            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 96</li>
-            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 98</li>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 98</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 3</li>
+            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 3</li>
+            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 5</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 17</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 48</li>
+            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 50</li>
+            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 60</li>
+            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 62</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 88</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 90</li>
             <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 100</li>
         </ul>
       </td>
@@ -1707,6 +1712,7 @@ Last updated: <time datetime="2025-11-01T04:49:07.495Z">Sat Nov 01 2025 06:49:07
     <tr>
       <td>62</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c07d79067745cc3d7c13dbae4a63d19c.png" alt="Cover for Two Sticks &amp; Six Strings" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-04-01</td>
       <td>Apologies, I Have None</td>
@@ -1723,6 +1729,7 @@ Last updated: <time datetime="2025-11-01T04:49:07.495Z">Sat Nov 01 2025 06:49:07
     <tr>
       <td>85</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9793cfeabf4a4e3f8b60ad7b501409b1.png" alt="Cover for Truelove&#39;s Gutter" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-09-18</td>
       <td>Richard Hawley</td>
@@ -1756,14 +1763,14 @@ Last updated: <time datetime="2025-11-01T04:49:07.495Z">Sat Nov 01 2025 06:49:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a> # 94</li>
+            <li> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a> # 6</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>11</td>
       <td>
-          <img src="https://i.discogs.com/fv1ZbgAnnTlPYnO6ovJ02VkfDaUZKkVPxISzHGHRMvs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNTkz/ODgtMTM5MTQzNzY3/Ni0yNzg5LmpwZWc.jpeg" alt="Cover for Scavenger" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/20a4d0cea6f48a27101fdcab0124eb96.png" alt="Cover for Scavenger" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Lahannya</td>
@@ -1792,7 +1799,7 @@ Last updated: <time datetime="2025-11-01T04:49:07.495Z">Sat Nov 01 2025 06:49:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 27</li>
+            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1816,6 +1823,7 @@ Last updated: <time datetime="2025-11-01T04:49:07.495Z">Sat Nov 01 2025 06:49:07
     <tr>
       <td>45</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3f87e6aa5fc54d36cdd08932336da6b5.png" alt="Cover for Clumberkicks EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-03-26</td>
       <td>Disko-ions</td>
@@ -1840,42 +1848,35 @@ Last updated: <time datetime="2025-11-01T04:49:07.495Z">Sat Nov 01 2025 06:49:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 75</li>
-            <li> <a href="{{ "/tags/braindance" | relative_url }}">braindance</a> # 99</li>
+            <li> <a href="{{ "/tags/braindance" | relative_url }}">braindance</a> # 2</li>
+            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 26</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/vDpQl5nj3HcoW5TyXsK9cGeBwCcvYNiOVfPpXZUQEQs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzIz/OTE0LTE1OTY2MTY1/MDctNTA1Mi5qcGVn.jpeg" alt="Cover for 21 (Deluxe Edition)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dd8781e7ccc644f5ad813fdf140a1f01.png" alt="Cover for 21 (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Adele</td>
       <td>21 (Deluxe Edition)</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/england" | relative_url }}">england</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 8</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>26</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/efead6c61e3942d28ce024181a9f855f.png" alt="Cover for The Fragile" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-02-06</td>
       <td>O&#39;Hooley &amp; Tidow</td>
@@ -1908,8 +1909,8 @@ Last updated: <time datetime="2025-11-01T04:49:07.495Z">Sat Nov 01 2025 06:49:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 5</li>
-            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 99</li>
+            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 2</li>
+            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1955,9 +1956,9 @@ Last updated: <time datetime="2025-11-01T04:49:07.495Z">Sat Nov 01 2025 06:49:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 48</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 65</li>
-            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 80</li>
+            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 21</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 37</li>
+            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 52</li>
             <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 97</li>
         </ul>
       </td>
@@ -1978,7 +1979,7 @@ Last updated: <time datetime="2025-11-01T04:49:07.495Z">Sat Nov 01 2025 06:49:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 98</li>
+            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1997,7 +1998,7 @@ Last updated: <time datetime="2025-11-01T04:49:07.495Z">Sat Nov 01 2025 06:49:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 95</li>
+            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -2018,7 +2019,7 @@ Last updated: <time datetime="2025-11-01T04:49:07.495Z">Sat Nov 01 2025 06:49:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/choir" | relative_url }}">choir</a> # 66</li>
+            <li> <a href="{{ "/tags/choir" | relative_url }}">choir</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -2039,15 +2040,15 @@ Last updated: <time datetime="2025-11-01T04:49:07.495Z">Sat Nov 01 2025 06:49:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 78</li>
-            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 100</li>
+            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 1</li>
+            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 22</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/zw2Sr_Rr9-XNwqjT8lraGALDAm76OIHYgVn47YrbgKc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMDgw/MzYtMTQ2MjMxMjQ1/Ni05NDU3LmpwZWc.jpeg" alt="Cover for Good to Love" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f8ea85a96f0d208750c58f4d4dcdbab0.png" alt="Cover for Good to Love" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-02-19</td>
       <td>FKA twigs</td>
@@ -2068,20 +2069,22 @@ Last updated: <time datetime="2025-11-01T04:49:07.495Z">Sat Nov 01 2025 06:49:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 54</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 67</li>
-            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 83</li>
-            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 96</li>
-            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 98</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 100</li>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 100</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 1</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 1</li>
+            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 3</li>
+            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 4</li>
+            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 6</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 31</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 31</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 93</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>63</td>
       <td>
-          <img src="https://i.discogs.com/4QqlTdsD8HBCJogR0RH9Q5ky9DkCSw4d2S7YGCOaq8E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NTM4/OTctMTQ3MDE1MTk0/NC0zNzM1LmpwZWc.jpeg" alt="Cover for Pharmacie" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e250da2dbc0c32f85c0e56e6882314a.png" alt="Cover for Pharmacie" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-08-26</td>
       <td>Apologies, I Have None</td>
@@ -2098,7 +2101,7 @@ Last updated: <time datetime="2025-11-01T04:49:07.495Z">Sat Nov 01 2025 06:49:07
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/WBS8CXQYQ1Q1L2Ef7XSKvwt-aryMwRv7AVrGuVhsx8g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NTI0/NzUtMTQ4MDgzMTU4/Ny0xMjU0LmpwZWc.jpeg" alt="Cover for Black Mirror: San Junipero (Original Score)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/de2f72b06cefc1a4b21d89d726331de5.png" alt="Cover for Black Mirror: San Junipero (Original Score)" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-12-02</td>
       <td>Clint Mansell</td>
@@ -2118,7 +2121,7 @@ Last updated: <time datetime="2025-11-01T04:49:07.495Z">Sat Nov 01 2025 06:49:07
     <tr>
       <td>52</td>
       <td>
-          <img src="https://i.discogs.com/EduaWdAI1CKRHnXEsMyedfRiuaDTI-OwewYYGHLSY2g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mzg4/NDE1LTE2MTMxODAz/ODgtNzIyOS5qcGVn.jpeg" alt="Cover for Live at All Tomorrows Parties 2007" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/01a778403493346d4e2d53fdc63dbe23.png" alt="Cover for Live at All Tomorrows Parties 2007" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-09-17</td>
       <td>Youthmovies</td>
@@ -2136,6 +2139,7 @@ Last updated: <time datetime="2025-11-01T04:49:07.495Z">Sat Nov 01 2025 06:49:07
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -2153,19 +2157,20 @@ Last updated: <time datetime="2025-11-01T04:49:07.495Z">Sat Nov 01 2025 06:49:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 66</li>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 76</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 92</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 92</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 96</li>
-            <li> <a href="{{ "/tags/new-zealand" | relative_url }}">new zealand</a> # 97</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 2</li>
+            <li> <a href="{{ "/tags/new-zealand" | relative_url }}">new zealand</a> # 4</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 6</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 9</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 17</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 25</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>18</td>
       <td>
-          <img src="https://i.discogs.com/8vAmJWXcj5s8Uwlq6uOSfcJPcfb2RJUSDspMxNI-iFs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjY2/MTAwLTE1MzE3NTY0/NzAtNjMxOC5qcGVn.jpeg" alt="Cover for Live Fat, Die Young" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/34e3fdc823a349bcb1bcceefccc478c4.png" alt="Cover for Live Fat, Die Young" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-07-13</td>
       <td>Consumed</td>
@@ -2251,7 +2256,7 @@ Last updated: <time datetime="2025-11-01T04:49:07.495Z">Sat Nov 01 2025 06:49:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 97</li>
+            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 4</li>
         </ul>
       </td>
     </tr>

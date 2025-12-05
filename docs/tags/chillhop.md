@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-11T04:48:57.382Z
+date: 2025-12-05T04:39:36.947Z
 permalink: tags/chillhop
 title: chillhop
 ---
 
 ## chillhop
 
-Last updated: <time datetime="2025-11-11T04:48:57.382Z">Tue Nov 11 2025 06:48:57 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T04:39:36.947Z">Fri Dec 05 2025 06:39:36 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -45,7 +45,27 @@ Chillhop blends hip-hop&#39;s rhythmic beats with jazz-influenced melodies and l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 100</li>
+            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 2</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eeea7217cfdbdd270932b7676043113f.png" alt="Cover for Chillhop Essentials Spring 2019" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1974</td>
+      <td>Various Artists</td>
+      <td>Chillhop Essentials Spring 2019</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillhop" | relative_url }}">chillhop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -185,25 +205,6 @@ Chillhop blends hip-hop&#39;s rhythmic beats with jazz-influenced melodies and l
       <td>1974</td>
       <td>Various Artists</td>
       <td>Chillhop Essentials Spring 2018</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillhop" | relative_url }}">chillhop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>100</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eeea7217cfdbdd270932b7676043113f.png" alt="Cover for Chillhop Essentials Spring 2019" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1974</td>
-      <td>Various Artists</td>
-      <td>Chillhop Essentials Spring 2019</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillhop" | relative_url }}">chillhop</a></li>
@@ -437,8 +438,6 @@ Chillhop blends hip-hop&#39;s rhythmic beats with jazz-influenced melodies and l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 26</li>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -486,7 +485,7 @@ Chillhop blends hip-hop&#39;s rhythmic beats with jazz-influenced melodies and l
     <tr>
       <td>9</td>
       <td>
-          <img src="https://i.discogs.com/Ik5D2HcDRqrW_ovscQdtNOziI1C8SX1wxrxb4sdSAGE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjcy/MDY2LTE1MDIxMTk3/MzUtNDgwNC5qcGVn.jpeg" alt="Cover for S.E.G.A Tape, Vol. 5" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4d354fd0f6f308774f0f51c358db7fdb.png" alt="Cover for S.E.G.A Tape, Vol. 5" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-07-14</td>
       <td>Natsu Fuji</td>
@@ -497,7 +496,7 @@ Chillhop blends hip-hop&#39;s rhythmic beats with jazz-influenced melodies and l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bounce" | relative_url }}">bounce</a> # 46</li>
+            <li> <a href="{{ "/tags/bounce" | relative_url }}">bounce</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -650,7 +649,7 @@ Chillhop blends hip-hop&#39;s rhythmic beats with jazz-influenced melodies and l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 61</li>
+            <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -824,7 +823,7 @@ Chillhop blends hip-hop&#39;s rhythmic beats with jazz-influenced melodies and l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 34</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -923,7 +922,7 @@ Chillhop blends hip-hop&#39;s rhythmic beats with jazz-influenced melodies and l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 97</li>
+            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -943,6 +942,7 @@ Chillhop blends hip-hop&#39;s rhythmic beats with jazz-influenced melodies and l
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1040,24 +1040,6 @@ Chillhop blends hip-hop&#39;s rhythmic beats with jazz-influenced melodies and l
       </td>
     </tr>
     <tr>
-      <td>46</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c41f432c4c601ba08087c21031c9995d.png" alt="Cover for Memories We Made" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2022</td>
-      <td>No Spirit</td>
-      <td>Memories We Made</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 14</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/585639e9d91ffdb16891e44448cdee36.png" alt="Cover for Treetop Hotel" style="max-width:120px; height:auto;" />
@@ -1070,6 +1052,23 @@ Chillhop blends hip-hop&#39;s rhythmic beats with jazz-influenced melodies and l
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillhop" | relative_url }}">chillhop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c41f432c4c601ba08087c21031c9995d.png" alt="Cover for Memories We Made" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022</td>
+      <td>No Spirit</td>
+      <td>Memories We Made</td>
+      <td>
+        <ul>
         </ul>
       </td>
       <td>
@@ -1151,6 +1150,7 @@ Chillhop blends hip-hop&#39;s rhythmic beats with jazz-influenced melodies and l
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1250,7 +1250,7 @@ Chillhop blends hip-hop&#39;s rhythmic beats with jazz-influenced melodies and l
     <tr>
       <td>1</td>
       <td>
-          <img src="https://i.discogs.com/UgmQzhJh43efYaFOyJOdav_1pSvjfQxWXBWUw9zXuqg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzAx/NDU3LTE3MTIyNDI4/NzgtMjM0My5qcGVn.jpeg" alt="Cover for Swimming Pool" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e73b12eee12afb705eba24b0ae6b1897.png" alt="Cover for Swimming Pool" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-03-15</td>
       <td>Spoq</td>
@@ -1284,7 +1284,7 @@ Chillhop blends hip-hop&#39;s rhythmic beats with jazz-influenced melodies and l
     <tr>
       <td>2</td>
       <td>
-          <img src="https://i.discogs.com/UgmQzhJh43efYaFOyJOdav_1pSvjfQxWXBWUw9zXuqg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzAx/NDU3LTE3MTIyNDI4/NzgtMjM0My5qcGVn.jpeg" alt="Cover for Thought Fountain" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f0f6c0b2683b8fc05edec2c3c1efa6c2.png" alt="Cover for Thought Fountain" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-03-15</td>
       <td>Spoq</td>
@@ -1313,7 +1313,7 @@ Chillhop blends hip-hop&#39;s rhythmic beats with jazz-influenced melodies and l
     <tr>
       <td>3</td>
       <td>
-          <img src="https://i.discogs.com/UgmQzhJh43efYaFOyJOdav_1pSvjfQxWXBWUw9zXuqg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzAx/NDU3LTE3MTIyNDI4/NzgtMjM0My5qcGVn.jpeg" alt="Cover for Cell Pilot" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/feeb5315c6c11060be4fdcf6840ee1c5.png" alt="Cover for Cell Pilot" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-03-15</td>
       <td>Spoq</td>
@@ -1406,8 +1406,8 @@ Chillhop blends hip-hop&#39;s rhythmic beats with jazz-influenced melodies and l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 60</li>
-            <li> <a href="{{ "/tags/chillstep" | relative_url }}">chillstep</a> # 69</li>
+            <li> <a href="{{ "/tags/chillstep" | relative_url }}">chillstep</a> # 30</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1427,7 +1427,7 @@ Chillhop blends hip-hop&#39;s rhythmic beats with jazz-influenced melodies and l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 31</li>
+            <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1618,6 +1618,7 @@ Chillhop blends hip-hop&#39;s rhythmic beats with jazz-influenced melodies and l
     <tr>
       <td>30</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/87fff59cd475afbd6909f0b3199d12db.png" alt="Cover for Dreaming &amp; Living" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Dizartino</td>
@@ -1694,6 +1695,7 @@ Chillhop blends hip-hop&#39;s rhythmic beats with jazz-influenced melodies and l
     <tr>
       <td>43</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7c4c007c3dc6e1e5b472ab1fb3704fb6.png" alt="Cover for Only Say Not" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Dizartino</td>

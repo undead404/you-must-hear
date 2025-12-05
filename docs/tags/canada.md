@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-13T06:44:22.857Z
+date: 2025-12-05T04:34:37.764Z
 permalink: tags/canada
 title: canada
 ---
 
 ## canada
 
-Last updated: <time datetime="2025-11-13T06:44:22.857Z">Thu Nov 13 2025 08:44:22 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T04:34:37.764Z">Fri Dec 05 2025 06:34:37 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -68,6 +68,7 @@ Last updated: <time datetime="2025-11-13T06:44:22.857Z">Thu Nov 13 2025 08:44:22
     <tr>
       <td>15</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/61e70c79970c57a346e4729f29bed07e.png" alt="Cover for Turnaround" style="max-width:120px; height:auto;" />
       </td>
       <td>1978</td>
       <td>Stan Rogers</td>
@@ -100,7 +101,7 @@ Last updated: <time datetime="2025-11-13T06:44:22.857Z">Thu Nov 13 2025 08:44:22
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 60</li>
+            <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -180,7 +181,7 @@ Last updated: <time datetime="2025-11-13T06:44:22.857Z">Thu Nov 13 2025 08:44:22
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/animals" | relative_url }}">animals</a> # 93</li>
+            <li> <a href="{{ "/tags/animals" | relative_url }}">animals</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -227,7 +228,7 @@ Last updated: <time datetime="2025-11-13T06:44:22.857Z">Thu Nov 13 2025 08:44:22
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 69</li>
+            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -256,9 +257,9 @@ Last updated: <time datetime="2025-11-13T06:44:22.857Z">Thu Nov 13 2025 08:44:22
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 16</li>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 32</li>
-            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 99</li>
+            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 2</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 54</li>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -316,7 +317,7 @@ Last updated: <time datetime="2025-11-13T06:44:22.857Z">Thu Nov 13 2025 08:44:22
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 62</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -345,7 +346,7 @@ Last updated: <time datetime="2025-11-13T06:44:22.857Z">Thu Nov 13 2025 08:44:22
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 74</li>
+            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -365,8 +366,8 @@ Last updated: <time datetime="2025-11-13T06:44:22.857Z">Thu Nov 13 2025 08:44:22
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 77</li>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 87</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 14</li>
+            <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -406,8 +407,8 @@ Last updated: <time datetime="2025-11-13T06:44:22.857Z">Thu Nov 13 2025 08:44:22
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 73</li>
-            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 76</li>
+            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 24</li>
+            <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -428,7 +429,7 @@ Last updated: <time datetime="2025-11-13T06:44:22.857Z">Thu Nov 13 2025 08:44:22
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vancouver" | relative_url }}">vancouver</a> # 94</li>
+            <li> <a href="{{ "/tags/vancouver" | relative_url }}">vancouver</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -468,8 +469,8 @@ Last updated: <time datetime="2025-11-13T06:44:22.857Z">Thu Nov 13 2025 08:44:22
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 40</li>
-            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 78</li>
+            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 21</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -489,7 +490,7 @@ Last updated: <time datetime="2025-11-13T06:44:22.857Z">Thu Nov 13 2025 08:44:22
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 92</li>
+            <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -528,7 +529,8 @@ Last updated: <time datetime="2025-11-13T06:44:22.857Z">Thu Nov 13 2025 08:44:22
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 78</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 42</li>
+            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -592,17 +594,18 @@ Last updated: <time datetime="2025-11-13T06:44:22.857Z">Thu Nov 13 2025 08:44:22
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 15</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 44</li>
-            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 79</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 89</li>
-            <li> <a href="{{ "/tags/vancouver" | relative_url }}">vancouver</a> # 100</li>
+            <li> <a href="{{ "/tags/vancouver" | relative_url }}">vancouver</a> # 1</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 12</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 19</li>
+            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 21</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>95</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/155632fece604d8498999f0e3c064cca.png" alt="Cover for He Poos Clouds" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-05-09</td>
       <td>Final Fantasy</td>
@@ -614,6 +617,7 @@ Last updated: <time datetime="2025-11-13T06:44:22.857Z">Thu Nov 13 2025 08:44:22
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -701,10 +705,10 @@ Last updated: <time datetime="2025-11-13T06:44:22.857Z">Thu Nov 13 2025 08:44:22
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 76</li>
-            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 98</li>
-            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 99</li>
-            <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 99</li>
+            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 2</li>
+            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 2</li>
+            <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 2</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -744,7 +748,7 @@ Last updated: <time datetime="2025-11-13T06:44:22.857Z">Thu Nov 13 2025 08:44:22
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 65</li>
+            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -782,7 +786,7 @@ Last updated: <time datetime="2025-11-13T06:44:22.857Z">Thu Nov 13 2025 08:44:22
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 89</li>
+            <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -801,7 +805,7 @@ Last updated: <time datetime="2025-11-13T06:44:22.857Z">Thu Nov 13 2025 08:44:22
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 45</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -863,7 +867,7 @@ Last updated: <time datetime="2025-11-13T06:44:22.857Z">Thu Nov 13 2025 08:44:22
     <tr>
       <td>97</td>
       <td>
-          <img src="https://i.discogs.com/skEBQtfVpTAs3vchqAsxNfylaP0oKNTHoszas0HtLe0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDE1/NzUtMTIyOTQyNTEx/NS5qcGVn.jpeg" alt="Cover for She&#39;s The One" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/687251779d090fbc9cb89be93bcaebb2.png" alt="Cover for She&#39;s The One" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-11-26</td>
       <td>Caribou</td>
@@ -883,7 +887,7 @@ Last updated: <time datetime="2025-11-13T06:44:22.857Z">Thu Nov 13 2025 08:44:22
     <tr>
       <td>21</td>
       <td>
-          <img src="https://i.discogs.com/n2XQPlzGbStyFLpH-fvVaEEm0RT6SNz5LcJr03wg-K0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwOTkz/NzgtMTM1NTE4ODMy/NC02ODgwLmpwZWc.jpeg" alt="Cover for Remembering Universe" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e6f6632c3445c41a340baabed21b903f.png" alt="Cover for Remembering Universe" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-02-12</td>
       <td>Humanoid</td>
@@ -953,8 +957,8 @@ Last updated: <time datetime="2025-11-13T06:44:22.857Z">Thu Nov 13 2025 08:44:22
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 88</li>
-            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 93</li>
+            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 7</li>
+            <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1050,6 +1054,7 @@ Last updated: <time datetime="2025-11-13T06:44:22.857Z">Thu Nov 13 2025 08:44:22
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1079,9 +1084,9 @@ Last updated: <time datetime="2025-11-13T06:44:22.857Z">Thu Nov 13 2025 08:44:22
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 70</li>
-            <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 90</li>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 93</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 8</li>
+            <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 11</li>
+            <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1141,7 +1146,7 @@ Last updated: <time datetime="2025-11-13T06:44:22.857Z">Thu Nov 13 2025 08:44:22
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 97</li>
+            <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1170,18 +1175,19 @@ Last updated: <time datetime="2025-11-13T06:44:22.857Z">Thu Nov 13 2025 08:44:22
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 9</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 35</li>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 96</li>
-            <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 96</li>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 100</li>
-            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 100</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 1</li>
+            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 1</li>
+            <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 5</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 5</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 52</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>71</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/91d8808b1257484ba2c5655af3b7d01b.png" alt="Cover for Appetite" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-12-11</td>
       <td>Walter TV</td>
@@ -1288,8 +1294,8 @@ Last updated: <time datetime="2025-11-13T06:44:22.857Z">Thu Nov 13 2025 08:44:22
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic-punk" | relative_url }}">celtic punk</a> # 57</li>
-            <li> <a href="{{ "/tags/celtic-rock" | relative_url }}">celtic rock</a> # 81</li>
+            <li> <a href="{{ "/tags/celtic-rock" | relative_url }}">celtic rock</a> # 20</li>
+            <li> <a href="{{ "/tags/celtic-punk" | relative_url }}">celtic punk</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1329,7 +1335,7 @@ Last updated: <time datetime="2025-11-13T06:44:22.857Z">Thu Nov 13 2025 08:44:22
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 77</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1385,7 +1391,7 @@ Last updated: <time datetime="2025-11-13T06:44:22.857Z">Thu Nov 13 2025 08:44:22
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 63</li>
+            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1410,7 +1416,7 @@ Last updated: <time datetime="2025-11-13T06:44:22.857Z">Thu Nov 13 2025 08:44:22
     <tr>
       <td>27</td>
       <td>
-          <img src="https://i.discogs.com/TU6hA_2WNFz_APXE8hXDgr8RvlODA4EoCDA2qd1NT9w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODE3/NjE4LTE1MjI4OTcy/MTctODc1MS5qcGVn.jpeg" alt="Cover for EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ecf1419b8ec415b377be2a80ee3c3f4.png" alt="Cover for EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2016</td>
       <td>Lydia Képinski</td>
@@ -1425,7 +1431,7 @@ Last updated: <time datetime="2025-11-13T06:44:22.857Z">Thu Nov 13 2025 08:44:22
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 81</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1454,7 +1460,7 @@ Last updated: <time datetime="2025-11-13T06:44:22.857Z">Thu Nov 13 2025 08:44:22
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 89</li>
+            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -1480,8 +1486,8 @@ Last updated: <time datetime="2025-11-13T06:44:22.857Z">Thu Nov 13 2025 08:44:22
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 52</li>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 73</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 22</li>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1510,7 +1516,7 @@ Last updated: <time datetime="2025-11-13T06:44:22.857Z">Thu Nov 13 2025 08:44:22
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 90</li>
+            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1539,7 +1545,7 @@ Last updated: <time datetime="2025-11-13T06:44:22.857Z">Thu Nov 13 2025 08:44:22
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 81</li>
+            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1568,7 +1574,7 @@ Last updated: <time datetime="2025-11-13T06:44:22.857Z">Thu Nov 13 2025 08:44:22
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 84</li>
+            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1590,7 +1596,7 @@ Last updated: <time datetime="2025-11-13T06:44:22.857Z">Thu Nov 13 2025 08:44:22
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 64</li>
+            <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1619,7 +1625,7 @@ Last updated: <time datetime="2025-11-13T06:44:22.857Z">Thu Nov 13 2025 08:44:22
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 95</li>
+            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -1648,7 +1654,7 @@ Last updated: <time datetime="2025-11-13T06:44:22.857Z">Thu Nov 13 2025 08:44:22
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 82</li>
+            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1711,8 +1717,8 @@ Last updated: <time datetime="2025-11-13T06:44:22.857Z">Thu Nov 13 2025 08:44:22
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 66</li>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 95</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 6</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1741,14 +1747,14 @@ Last updated: <time datetime="2025-11-13T06:44:22.857Z">Thu Nov 13 2025 08:44:22
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 96</li>
+            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 5</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>48</td>
       <td>
-          <img src="https://i.discogs.com/nmNkPqA0OGSGdcC_JlDRmDYvWHOau1AuCrau7tYCDWo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MTM5/LTExMDcwNDI0MDUu/anBn.jpeg" alt="Cover for Deceiver.Diseased.Miasmic" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/065777465694fc4d3ec942375a1c1e74.png" alt="Cover for Deceiver.Diseased.Miasmic" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-12-07</td>
       <td>Revenge</td>
@@ -1764,8 +1770,8 @@ Last updated: <time datetime="2025-11-13T06:44:22.857Z">Thu Nov 13 2025 08:44:22
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 54</li>
-            <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 86</li>
+            <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 12</li>
+            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1812,7 +1818,7 @@ Last updated: <time datetime="2025-11-13T06:44:22.857Z">Thu Nov 13 2025 08:44:22
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 62</li>
+            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1841,7 +1847,7 @@ Last updated: <time datetime="2025-11-13T06:44:22.857Z">Thu Nov 13 2025 08:44:22
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 77</li>
+            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1948,7 +1954,7 @@ Last updated: <time datetime="2025-11-13T06:44:22.857Z">Thu Nov 13 2025 08:44:22
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 86</li>
+            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1977,7 +1983,7 @@ Last updated: <time datetime="2025-11-13T06:44:22.857Z">Thu Nov 13 2025 08:44:22
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 76</li>
+            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -2022,7 +2028,7 @@ Last updated: <time datetime="2025-11-13T06:44:22.857Z">Thu Nov 13 2025 08:44:22
     <tr>
       <td>39</td>
       <td>
-          <img src="https://i.discogs.com/kLdoVlXuoDx0JuH8MxsUZsiAn2efPv21Sic-vtmHy70/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDA3/ODkyLTE2NTM5MTY5/ODktMTU0My5qcGVn.jpeg" alt="Cover for Still as the Night, Cold as the Wind" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad88ddd44d2c3c9ef2294a0f57d62e8f.png" alt="Cover for Still as the Night, Cold as the Wind" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-05-06</td>
       <td>Vital Spirit</td>
@@ -2061,7 +2067,7 @@ Last updated: <time datetime="2025-11-13T06:44:22.857Z">Thu Nov 13 2025 08:44:22
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 83</li>
+            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -2090,7 +2096,8 @@ Last updated: <time datetime="2025-11-13T06:44:22.857Z">Thu Nov 13 2025 08:44:22
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 98</li>
+            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 3</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -2111,8 +2118,8 @@ Last updated: <time datetime="2025-11-13T06:44:22.857Z">Thu Nov 13 2025 08:44:22
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ukrainian" | relative_url }}">ukrainian</a> # 59</li>
-            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 59</li>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 41</li>
+            <li> <a href="{{ "/tags/ukrainian" | relative_url }}">ukrainian</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -2135,8 +2142,8 @@ Last updated: <time datetime="2025-11-13T06:44:22.857Z">Thu Nov 13 2025 08:44:22
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 71</li>
-            <li> <a href="{{ "/tags/tenor" | relative_url }}">tenor</a> # 96</li>
+            <li> <a href="{{ "/tags/tenor" | relative_url }}">tenor</a> # 5</li>
+            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -2161,9 +2168,9 @@ Last updated: <time datetime="2025-11-13T06:44:22.857Z">Thu Nov 13 2025 08:44:22
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 30</li>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 93</li>
-            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 100</li>
+            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 1</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 8</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -2182,7 +2189,7 @@ Last updated: <time datetime="2025-11-13T06:44:22.857Z">Thu Nov 13 2025 08:44:22
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 64</li>
+            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -2211,7 +2218,7 @@ Last updated: <time datetime="2025-11-13T06:44:22.857Z">Thu Nov 13 2025 08:44:22
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 67</li>
+            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -2239,7 +2246,7 @@ Last updated: <time datetime="2025-11-13T06:44:22.857Z">Thu Nov 13 2025 08:44:22
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 79</li>
+            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 22</li>
         </ul>
       </td>
     </tr>

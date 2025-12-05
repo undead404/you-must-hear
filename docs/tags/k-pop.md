@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T01:31:19.522Z
+date: 2025-12-05T04:41:39.156Z
 permalink: tags/k-pop
 title: k-pop
 ---
 
 ## k-pop
 
-Last updated: <time datetime="2025-11-23T01:31:19.522Z">Sun Nov 23 2025 03:31:19 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T04:41:39.156Z">Fri Dec 05 2025 06:41:39 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -46,8 +46,8 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 82</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 94</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 7</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -67,7 +67,7 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 94</li>
+            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -87,7 +87,7 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 99</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -176,7 +176,7 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 68</li>
+            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -214,7 +214,7 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 86</li>
+            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -235,8 +235,8 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 92</li>
-            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 99</li>
+            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 2</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -256,7 +256,7 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 84</li>
+            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -312,7 +312,7 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 95</li>
+            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -367,7 +367,7 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 38</li>
+            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -458,7 +458,7 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 55</li>
+            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -497,8 +497,8 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 86</li>
-            <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 100</li>
+            <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 1</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -519,8 +519,8 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 79</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 80</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 19</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -539,7 +539,7 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 28</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -594,7 +594,7 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 81</li>
+            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -634,9 +634,9 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 46</li>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 60</li>
-            <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 100</li>
+            <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 1</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 41</li>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -673,6 +673,7 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -693,8 +694,8 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 98</li>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 100</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 1</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -731,7 +732,7 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 7</li>
+            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -769,7 +770,7 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 77</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -789,8 +790,8 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 32</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 35</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 60</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -810,7 +811,7 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 22</li>
+            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -832,9 +833,9 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 75</li>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 76</li>
-            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 90</li>
+            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 11</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 23</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -857,10 +858,10 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 76</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 100</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 100</li>
-            <li> <a href="{{ "/tags/girlgroup" | relative_url }}">girlgroup</a> # 100</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 1</li>
+            <li> <a href="{{ "/tags/girlgroup" | relative_url }}">girlgroup</a> # 1</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 1</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -952,7 +953,7 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 39</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -972,7 +973,7 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 87</li>
+            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -991,9 +992,9 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 36</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 53</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 86</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 9</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 45</li>
+            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1048,7 +1049,7 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 9</li>
+            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1093,13 +1094,13 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 62</li>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 75</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 82</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 87</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 90</li>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 96</li>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 98</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 4</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 5</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 11</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 13</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 19</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 26</li>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1119,7 +1120,7 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 77</li>
+            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1157,7 +1158,7 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 75</li>
+            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1177,7 +1178,7 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 100</li>
+            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -1197,7 +1198,7 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 79</li>
+            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1343,7 +1344,7 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 72</li>
+            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1402,10 +1403,10 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 78</li>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 78</li>
-            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 91</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 94</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 7</li>
+            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 10</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 21</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1425,7 +1426,7 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 70</li>
+            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1445,7 +1446,7 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 82</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1501,7 +1502,7 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 97</li>
+            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1520,7 +1521,7 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 39</li>
+            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1541,8 +1542,8 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 49</li>
-            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 85</li>
+            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 16</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1561,7 +1562,7 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 27</li>
+            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1617,7 +1618,7 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 76</li>
+            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1637,7 +1638,7 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 95</li>
+            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -1657,7 +1658,7 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 98</li>
+            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1677,7 +1678,7 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 96</li>
+            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1697,7 +1698,7 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 80</li>
+            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1753,7 +1754,7 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 83</li>
+            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1773,7 +1774,7 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 71</li>
+            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1831,9 +1832,9 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 43</li>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 88</li>
-            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 99</li>
+            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 2</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 13</li>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1855,9 +1856,9 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 82</li>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 98</li>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 100</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 1</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 3</li>
+            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1895,7 +1896,7 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 88</li>
+            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1933,7 +1934,7 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 31</li>
+            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1953,7 +1954,7 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 38</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1988,4 +1989,4 @@ K-pop is a vibrant South Korean pop music genre characterized by catchy melodies
 - [rap]({{ "/tags/rap" | relative_url }})
 - [hip-hop]({{ "/tags/hip-hop" | relative_url }})
 - [ballad]({{ "/tags/ballad" | relative_url }})
-- [male vocalists]({{ "/tags/male-vocalists" | relative_url }})
+- [rnb]({{ "/tags/rnb" | relative_url }})

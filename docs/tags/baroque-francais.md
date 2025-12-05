@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T16:53:02.591Z
+date: 2025-12-05T04:33:27.689Z
 permalink: tags/baroque-francais
 title: baroque francais
 ---
 
 ## baroque francais
 
-Last updated: <time datetime="2025-10-22T16:53:02.591Z">Wed Oct 22 2025 19:53:02 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-05T04:33:27.689Z">Fri Dec 05 2025 06:33:27 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -86,8 +86,8 @@ Baroque français refers to the refined and ornate classical music composed in F
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harpsichord" | relative_url }}">harpsichord</a> # 2</li>
-            <li> <a href="{{ "/tags/clavecin" | relative_url }}">clavecin</a> # 60</li>
+            <li> <a href="{{ "/tags/clavecin" | relative_url }}">clavecin</a> # 41</li>
+            <li> <a href="{{ "/tags/harpsichord" | relative_url }}">harpsichord</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -108,7 +108,7 @@ Baroque français refers to the refined and ornate classical music composed in F
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musique-francaise" | relative_url }}">musique francaise</a> # 63</li>
+            <li> <a href="{{ "/tags/musique-francaise" | relative_url }}">musique francaise</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -148,7 +148,7 @@ Baroque français refers to the refined and ornate classical music composed in F
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ballet" | relative_url }}">ballet</a> # 2</li>
+            <li> <a href="{{ "/tags/ballet" | relative_url }}">ballet</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -183,7 +183,7 @@ Baroque français refers to the refined and ornate classical music composed in F
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musique-francaise" | relative_url }}">musique francaise</a> # 8</li>
+            <li> <a href="{{ "/tags/musique-francaise" | relative_url }}">musique francaise</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -221,8 +221,8 @@ Baroque français refers to the refined and ornate classical music composed in F
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harpsichord" | relative_url }}">harpsichord</a> # 78</li>
-            <li> <a href="{{ "/tags/clavecin" | relative_url }}">clavecin</a> # 92</li>
+            <li> <a href="{{ "/tags/clavecin" | relative_url }}">clavecin</a> # 9</li>
+            <li> <a href="{{ "/tags/harpsichord" | relative_url }}">harpsichord</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -306,7 +306,7 @@ Baroque français refers to the refined and ornate classical music composed in F
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musique-francaise" | relative_url }}">musique francaise</a> # 54</li>
+            <li> <a href="{{ "/tags/musique-francaise" | relative_url }}">musique francaise</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -341,7 +341,7 @@ Baroque français refers to the refined and ornate classical music composed in F
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ballet" | relative_url }}">ballet</a> # 6</li>
+            <li> <a href="{{ "/tags/ballet" | relative_url }}">ballet</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -359,7 +359,7 @@ Baroque français refers to the refined and ornate classical music composed in F
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musique-francaise" | relative_url }}">musique francaise</a> # 21</li>
+            <li> <a href="{{ "/tags/musique-francaise" | relative_url }}">musique francaise</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -448,7 +448,7 @@ Baroque français refers to the refined and ornate classical music composed in F
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/clavecin" | relative_url }}">clavecin</a> # 1</li>
+            <li> <a href="{{ "/tags/clavecin" | relative_url }}">clavecin</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -486,7 +486,7 @@ Baroque français refers to the refined and ornate classical music composed in F
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musique-francaise" | relative_url }}">musique francaise</a> # 53</li>
+            <li> <a href="{{ "/tags/musique-francaise" | relative_url }}">musique francaise</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -598,7 +598,7 @@ Baroque français refers to the refined and ornate classical music composed in F
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/clavecin" | relative_url }}">clavecin</a> # 8</li>
+            <li> <a href="{{ "/tags/clavecin" | relative_url }}">clavecin</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -616,7 +616,7 @@ Baroque français refers to the refined and ornate classical music composed in F
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/clavecin" | relative_url }}">clavecin</a> # 37</li>
+            <li> <a href="{{ "/tags/clavecin" | relative_url }}">clavecin</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -815,7 +815,7 @@ Baroque français refers to the refined and ornate classical music composed in F
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musique-francaise" | relative_url }}">musique francaise</a> # 4</li>
+            <li> <a href="{{ "/tags/musique-francaise" | relative_url }}">musique francaise</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -921,7 +921,7 @@ Baroque français refers to the refined and ornate classical music composed in F
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/clavecin" | relative_url }}">clavecin</a> # 32</li>
+            <li> <a href="{{ "/tags/clavecin" | relative_url }}">clavecin</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1203,7 +1203,7 @@ Baroque français refers to the refined and ornate classical music composed in F
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/clavecin" | relative_url }}">clavecin</a> # 6</li>
+            <li> <a href="{{ "/tags/clavecin" | relative_url }}">clavecin</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1221,7 +1221,7 @@ Baroque français refers to the refined and ornate classical music composed in F
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/clavecin" | relative_url }}">clavecin</a> # 52</li>
+            <li> <a href="{{ "/tags/clavecin" | relative_url }}">clavecin</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1263,7 +1263,7 @@ Baroque français refers to the refined and ornate classical music composed in F
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/clavecin" | relative_url }}">clavecin</a> # 11</li>
+            <li> <a href="{{ "/tags/clavecin" | relative_url }}">clavecin</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1283,7 +1283,7 @@ Baroque français refers to the refined and ornate classical music composed in F
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/recorder" | relative_url }}">recorder</a> # 78</li>
+            <li> <a href="{{ "/tags/recorder" | relative_url }}">recorder</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1378,7 +1378,7 @@ Baroque français refers to the refined and ornate classical music composed in F
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musique-francaise" | relative_url }}">musique francaise</a> # 74</li>
+            <li> <a href="{{ "/tags/musique-francaise" | relative_url }}">musique francaise</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1402,7 +1402,7 @@ Baroque français refers to the refined and ornate classical music composed in F
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/clavecin" | relative_url }}">clavecin</a> # 25</li>
+            <li> <a href="{{ "/tags/clavecin" | relative_url }}">clavecin</a> # 76</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T01:29:12.175Z
+date: 2025-12-05T04:37:41.381Z
 permalink: tags/funk
 title: funk
 ---
 
 ## funk
 
-Last updated: <time datetime="2025-11-23T01:29:12.175Z">Sun Nov 23 2025 03:29:12 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T04:37:41.381Z">Fri Dec 05 2025 06:37:41 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -80,7 +80,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 21</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -136,7 +136,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 56</li>
+            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -191,7 +191,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 16</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -314,7 +314,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 26</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -332,7 +332,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 1</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -387,7 +387,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 38</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -408,9 +408,9 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 7</li>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 68</li>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 88</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 10</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 32</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 79</li>
             <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 91</li>
         </ul>
       </td>
@@ -430,7 +430,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 85</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -501,7 +501,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 67</li>
+            <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -575,7 +575,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 13</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -613,7 +613,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 5</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -651,7 +651,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 96</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -673,8 +673,8 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 24</li>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 61</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 33</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -697,7 +697,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 89</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -717,7 +717,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 86</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -736,7 +736,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 97</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -756,7 +756,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 85</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -775,7 +775,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 86</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -796,7 +796,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 93</li>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -835,8 +835,8 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 57</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 79</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 22</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -873,8 +873,8 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 32</li>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 96</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 5</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -897,7 +897,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 93</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -917,7 +917,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 37</li>
+            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -936,7 +936,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 93</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -956,7 +956,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 71</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1026,8 +1026,8 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 10</li>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 90</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 60</li>
+            <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1047,9 +1047,9 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 38</li>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 42</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 48</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 53</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 58</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1069,8 +1069,8 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 61</li>
-            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 98</li>
+            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 3</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1143,7 +1143,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 46</li>
+            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1165,8 +1165,8 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 91</li>
-            <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 93</li>
+            <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 8</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1210,8 +1210,8 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 74</li>
-            <li> <a href="{{ "/tags/motown" | relative_url }}">motown</a> # 99</li>
+            <li> <a href="{{ "/tags/motown" | relative_url }}">motown</a> # 2</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1231,7 +1231,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 99</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -1250,9 +1250,9 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 57</li>
-            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 85</li>
-            <li> <a href="{{ "/tags/philly-soul" | relative_url }}">philly soul</a> # 99</li>
+            <li> <a href="{{ "/tags/philly-soul" | relative_url }}">philly soul</a> # 2</li>
+            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 14</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1270,8 +1270,8 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 33</li>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 88</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 13</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1289,10 +1289,10 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 65</li>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 84</li>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 93</li>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 95</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 6</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 9</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 17</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1383,13 +1383,15 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 37</li>
-            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 49</li>
-            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 58</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 64</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 74</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 82</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 100</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 4</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 10</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 22</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 24</li>
+            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 42</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 52</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 69</li>
+            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 70</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1443,8 +1445,8 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 22</li>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 52</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 48</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1462,8 +1464,8 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 45</li>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 72</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 28</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1501,7 +1503,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 98</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1544,7 +1546,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 95</li>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -1566,7 +1568,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 77</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1587,8 +1589,8 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 67</li>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 88</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 13</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1629,8 +1631,8 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 74</li>
-            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 94</li>
+            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 7</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1650,7 +1652,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 40</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 41</li>
             <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 67</li>
         </ul>
       </td>
@@ -1676,11 +1678,11 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 46</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 2</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 55</li>
             <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 95</li>
             <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 96</li>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 98</li>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 99</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1719,7 +1721,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 48</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1737,8 +1739,8 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 90</li>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 99</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 10</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1760,9 +1762,9 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 72</li>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 92</li>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 100</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 1</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 7</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1802,8 +1804,8 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 79</li>
-            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 96</li>
+            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 4</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1845,8 +1847,8 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 1</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 12</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 84</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1867,11 +1869,11 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 79</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 95</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 99</li>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 100</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 100</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 1</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 1</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 2</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 6</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1891,7 +1893,7 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 81</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1916,12 +1918,12 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 75</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 84</li>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 92</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 95</li>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 96</li>
-            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 100</li>
+            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 1</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 4</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 6</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 9</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 17</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1942,8 +1944,8 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 90</li>
-            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 100</li>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 1</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1966,11 +1968,11 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a> # 48</li>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 73</li>
-            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 94</li>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 94</li>
-            <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 99</li>
+            <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 2</li>
+            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 4</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 6</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 28</li>
+            <li> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1992,9 +1994,9 @@ Funk is a rhythmic, groove-oriented genre born from African American communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a> # 9</li>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 43</li>
-            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 99</li>
+            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 2</li>
+            <li> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a> # 10</li>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 57</li>
         </ul>
       </td>
     </tr>

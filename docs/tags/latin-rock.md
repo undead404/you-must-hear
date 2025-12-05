@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-13T09:44:18.370Z
+date: 2025-12-05T04:43:16.064Z
 permalink: tags/latin-rock
 title: latin rock
 ---
 
 ## latin rock
 
-Last updated: <time datetime="2025-11-13T09:44:18.370Z">Thu Nov 13 2025 11:44:18 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T04:43:16.064Z">Fri Dec 05 2025 06:43:16 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,6 +31,7 @@ Latin rock fuses rock instrumentation and energy with Latin American musical tra
     <tr>
       <td>95</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a4cf3dc3b3f723bb7f6b0ad82e9eac98.png" alt="Cover for Santana" style="max-width:120px; height:auto;" />
       </td>
       <td>1969-08-30</td>
       <td>Santana</td>
@@ -152,7 +153,7 @@ Latin rock fuses rock instrumentation and energy with Latin American musical tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 6</li>
+            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -190,14 +191,14 @@ Latin rock fuses rock instrumentation and energy with Latin American musical tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 83</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 18</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>59</td>
       <td>
-          <img src="https://i.discogs.com/Gn4ensdrS7JMUSBYlda1N1ukSrGyIG-PDj66oJ9tk9U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMDEw/Mi0xMzU4MDgwMzQ5/LTY5MzkuanBlZw.jpeg" alt="Cover for Marathon" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d408b73d8524a1bdefb6a71018257a27.png" alt="Cover for Marathon" style="max-width:120px; height:auto;" />
       </td>
       <td>1979-09-01</td>
       <td>Santana</td>
@@ -217,6 +218,7 @@ Latin rock fuses rock instrumentation and energy with Latin American musical tra
     <tr>
       <td>100</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c58d4f874e54930b23787463c19aaa3.png" alt="Cover for Music From The Motion Picture Watchmen" style="max-width:120px; height:auto;" />
       </td>
       <td>1980</td>
       <td>Jimi Hendrix</td>
@@ -232,9 +234,9 @@ Latin rock fuses rock instrumentation and energy with Latin American musical tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 86</li>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 87</li>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 95</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 7</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 9</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -253,7 +255,7 @@ Latin rock fuses rock instrumentation and energy with Latin American musical tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 85</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -292,7 +294,7 @@ Latin rock fuses rock instrumentation and energy with Latin American musical tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a> # 3</li>
+            <li> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -312,7 +314,7 @@ Latin rock fuses rock instrumentation and energy with Latin American musical tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 76</li>
+            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -334,7 +336,7 @@ Latin rock fuses rock instrumentation and energy with Latin American musical tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 70</li>
+            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -355,7 +357,7 @@ Latin rock fuses rock instrumentation and energy with Latin American musical tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 16</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -379,6 +381,7 @@ Latin rock fuses rock instrumentation and energy with Latin American musical tra
     <tr>
       <td>82</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1c2d2927ed7143398a6be625e8e5a092.png" alt="Cover for Purple Haze" style="max-width:120px; height:auto;" />
       </td>
       <td>1989</td>
       <td>Jimi Hendrix</td>
@@ -452,7 +455,7 @@ Latin rock fuses rock instrumentation and energy with Latin American musical tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 25</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -511,8 +514,8 @@ Latin rock fuses rock instrumentation and energy with Latin American musical tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 82</li>
-            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 95</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 6</li>
+            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -531,7 +534,7 @@ Latin rock fuses rock instrumentation and energy with Latin American musical tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 95</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -596,16 +599,16 @@ Latin rock fuses rock instrumentation and energy with Latin American musical tra
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/peru" | relative_url }}">peru</a> # 12</li>
             <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 16</li>
-            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 76</li>
-            <li> <a href="{{ "/tags/peru" | relative_url }}">peru</a> # 89</li>
+            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 24</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>7</td>
       <td>
-          <img src="https://i.discogs.com/IHvMpMhWQugl60SaxYcszY9wD49j0YvTBmcGzzmbP7E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDAt/MTU5MTUyMjUwMS01/NTA2LmpwZWc.jpeg" alt="Cover for Versus" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cadd46543bf2484db4b0b55a5e20fe64.png" alt="Cover for Versus" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Various Artists</td>
@@ -627,8 +630,8 @@ Latin rock fuses rock instrumentation and energy with Latin American musical tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 12</li>
-            <li> <a href="{{ "/tags/spanish-rock" | relative_url }}">spanish rock</a> # 35</li>
+            <li> <a href="{{ "/tags/spanish-rock" | relative_url }}">spanish rock</a> # 66</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -648,7 +651,7 @@ Latin rock fuses rock instrumentation and energy with Latin American musical tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 95</li>
+            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -667,7 +670,7 @@ Latin rock fuses rock instrumentation and energy with Latin American musical tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 78</li>
+            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -726,8 +729,8 @@ Latin rock fuses rock instrumentation and energy with Latin American musical tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 7</li>
-            <li> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a> # 84</li>
+            <li> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a> # 17</li>
+            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -767,9 +770,9 @@ Latin rock fuses rock instrumentation and energy with Latin American musical tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 8</li>
+            <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 6</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 12</li>
             <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 76</li>
-            <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -825,7 +828,7 @@ Latin rock fuses rock instrumentation and energy with Latin American musical tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 35</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -839,17 +842,12 @@ Latin rock fuses rock instrumentation and energy with Latin American musical tra
       <td>Bocanada</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
-            <li style="font-size: calc(1rem * 75.9493670886076 / 100)"> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 45</li>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 48</li>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 57</li>
-            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 82</li>
-            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 84</li>
+            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 19</li>
+            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -872,8 +870,8 @@ Latin rock fuses rock instrumentation and energy with Latin American musical tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 24</li>
-            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 73</li>
+            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 27</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -895,8 +893,8 @@ Latin rock fuses rock instrumentation and energy with Latin American musical tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 27</li>
-            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 76</li>
+            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 24</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -920,10 +918,10 @@ Latin rock fuses rock instrumentation and energy with Latin American musical tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 38</li>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 54</li>
-            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 88</li>
-            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 94</li>
+            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 7</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 42</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 45</li>
+            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -945,7 +943,7 @@ Latin rock fuses rock instrumentation and energy with Latin American musical tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 27</li>
+            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -966,7 +964,7 @@ Latin rock fuses rock instrumentation and energy with Latin American musical tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 52</li>
+            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1065,8 +1063,8 @@ Latin rock fuses rock instrumentation and energy with Latin American musical tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 40</li>
-            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 83</li>
+            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 17</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1092,7 +1090,7 @@ Latin rock fuses rock instrumentation and energy with Latin American musical tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 20</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1166,7 +1164,7 @@ Latin rock fuses rock instrumentation and energy with Latin American musical tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitar-rock" | relative_url }}">guitar rock</a> # 97</li>
+            <li> <a href="{{ "/tags/guitar-rock" | relative_url }}">guitar rock</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1188,7 +1186,7 @@ Latin rock fuses rock instrumentation and energy with Latin American musical tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 78</li>
+            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1225,7 +1223,7 @@ Latin rock fuses rock instrumentation and energy with Latin American musical tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 20</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1290,11 +1288,11 @@ Latin rock fuses rock instrumentation and energy with Latin American musical tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 33</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 51</li>
-            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 65</li>
-            <li> <a href="{{ "/tags/trova" | relative_url }}">trova</a> # 66</li>
-            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 77</li>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 23</li>
+            <li> <a href="{{ "/tags/trova" | relative_url }}">trova</a> # 34</li>
+            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 35</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 49</li>
+            <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 68</li>
             <li> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a> # 89</li>
         </ul>
       </td>
@@ -1323,11 +1321,11 @@ Latin rock fuses rock instrumentation and energy with Latin American musical tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 42</li>
-            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 66</li>
-            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 73</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 75</li>
-            <li> <a href="{{ "/tags/peru" | relative_url }}">peru</a> # 87</li>
+            <li> <a href="{{ "/tags/peru" | relative_url }}">peru</a> # 14</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 25</li>
+            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 27</li>
+            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 35</li>
+            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1355,9 +1353,9 @@ Latin rock fuses rock instrumentation and energy with Latin American musical tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 6</li>
-            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 45</li>
-            <li> <a href="{{ "/tags/spanish-rock" | relative_url }}">spanish rock</a> # 56</li>
+            <li> <a href="{{ "/tags/spanish-rock" | relative_url }}">spanish rock</a> # 44</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 55</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1453,7 +1451,7 @@ Latin rock fuses rock instrumentation and energy with Latin American musical tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 43</li>
+            <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1476,9 +1474,9 @@ Latin rock fuses rock instrumentation and energy with Latin American musical tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 9</li>
+            <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 5</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 13</li>
             <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 77</li>
-            <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1534,9 +1532,9 @@ Latin rock fuses rock instrumentation and energy with Latin American musical tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 1</li>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 30</li>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 51</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 34</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 52</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1599,6 +1597,7 @@ Latin rock fuses rock instrumentation and energy with Latin American musical tra
     <tr>
       <td>71</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/431c443049b14411a9505770e42074e0.png" alt="Cover for Don&#39;t Mess With The Dragon" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-03-27</td>
       <td>Ozomatli</td>
@@ -1649,7 +1648,7 @@ Latin rock fuses rock instrumentation and energy with Latin American musical tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitar-rock" | relative_url }}">guitar rock</a> # 96</li>
+            <li> <a href="{{ "/tags/guitar-rock" | relative_url }}">guitar rock</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1688,7 +1687,7 @@ Latin rock fuses rock instrumentation and energy with Latin American musical tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 56</li>
+            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 42</li>
             <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 99</li>
         </ul>
       </td>
@@ -1709,7 +1708,7 @@ Latin rock fuses rock instrumentation and energy with Latin American musical tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 5</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1753,7 +1752,7 @@ Latin rock fuses rock instrumentation and energy with Latin American musical tra
     <tr>
       <td>47</td>
       <td>
-          <img src="https://i.discogs.com/eVFP1QreZ_A_JeWOaJOorN6iElttONgHJdiTqtxsujY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMDE1/ODUtMTQ1NTE2MDMy/My01NzUzLmpwZWc.jpeg" alt="Cover for Bien Acompañado" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6790f4635fb34a63b1371ce1df019a6a.png" alt="Cover for Bien Acompañado" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Reyli Barba</td>
@@ -1775,9 +1774,9 @@ Latin rock fuses rock instrumentation and energy with Latin American musical tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 61</li>
-            <li> <a href="{{ "/tags/romantica" | relative_url }}">romantica</a> # 75</li>
-            <li> <a href="{{ "/tags/spanish-rock" | relative_url }}">spanish rock</a> # 76</li>
+            <li> <a href="{{ "/tags/spanish-rock" | relative_url }}">spanish rock</a> # 24</li>
+            <li> <a href="{{ "/tags/romantica" | relative_url }}">romantica</a> # 26</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1833,7 +1832,7 @@ Latin rock fuses rock instrumentation and energy with Latin American musical tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 67</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1900,6 +1899,7 @@ Latin rock fuses rock instrumentation and energy with Latin American musical tra
     <tr>
       <td>57</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fc4bfc53d6309e6f6dd9a2711c7bdfeb.png" alt="Cover for Vida" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-03-18</td>
       <td>Robi Draco Rosa</td>
@@ -1931,7 +1931,7 @@ Latin rock fuses rock instrumentation and energy with Latin American musical tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 27</li>
+            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1989,7 +1989,7 @@ Latin rock fuses rock instrumentation and energy with Latin American musical tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 63</li>
+            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -2047,9 +2047,9 @@ Latin rock fuses rock instrumentation and energy with Latin American musical tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 15</li>
-            <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 70</li>
-            <li> <a href="{{ "/tags/symphonic-prog" | relative_url }}">symphonic prog</a> # 92</li>
+            <li> <a href="{{ "/tags/symphonic-prog" | relative_url }}">symphonic prog</a> # 9</li>
+            <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 69</li>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -2071,7 +2071,7 @@ Latin rock fuses rock instrumentation and energy with Latin American musical tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 38</li>
+            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 61</li>
         </ul>
       </td>
     </tr>
