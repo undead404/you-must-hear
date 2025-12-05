@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T06:42:29.035Z
+date: 2025-12-05T12:45:13.989Z
 permalink: tags/chile
 title: chile
 ---
 
 ## chile
 
-Last updated: <time datetime="2025-12-03T06:42:29.035Z">Wed Dec 03 2025 08:42:29 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T12:45:13.989Z">Fri Dec 05 2025 14:45:13 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -118,7 +118,7 @@ Chilean music blends folk traditions with rock, hip-hop, and indie influences, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 76</li>
+            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -142,9 +142,9 @@ Chilean music blends folk traditions with rock, hip-hop, and indie influences, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 73</li>
-            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 85</li>
-            <li> <a href="{{ "/tags/symphonic-prog" | relative_url }}">symphonic prog</a> # 86</li>
+            <li> <a href="{{ "/tags/symphonic-prog" | relative_url }}">symphonic prog</a> # 15</li>
+            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 16</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -189,10 +189,10 @@ Chilean music blends folk traditions with rock, hip-hop, and indie influences, r
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 10</li>
             <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 13</li>
             <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 27</li>
-            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 49</li>
-            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 91</li>
+            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -211,7 +211,7 @@ Chilean music blends folk traditions with rock, hip-hop, and indie influences, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautor" | relative_url }}">cantautor</a> # 46</li>
+            <li> <a href="{{ "/tags/cantautor" | relative_url }}">cantautor</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -231,7 +231,7 @@ Chilean music blends folk traditions with rock, hip-hop, and indie influences, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 99</li>
+            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -250,7 +250,7 @@ Chilean music blends folk traditions with rock, hip-hop, and indie influences, r
       <td>
         <ul>
             <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 11</li>
-            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 82</li>
+            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -278,10 +278,10 @@ Chilean music blends folk traditions with rock, hip-hop, and indie influences, r
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 4</li>
             <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 10</li>
             <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 15</li>
-            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 69</li>
-            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 97</li>
+            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -323,9 +323,9 @@ Chilean music blends folk traditions with rock, hip-hop, and indie influences, r
       <td>
         <ul>
             <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 9</li>
+            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 12</li>
             <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 32</li>
-            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 42</li>
-            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 89</li>
+            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -364,7 +364,7 @@ Chilean music blends folk traditions with rock, hip-hop, and indie influences, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 98</li>
+            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -383,8 +383,8 @@ Chilean music blends folk traditions with rock, hip-hop, and indie influences, r
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 40</li>
             <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 43</li>
-            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -425,9 +425,9 @@ Chilean music blends folk traditions with rock, hip-hop, and indie influences, r
       <td>
         <ul>
             <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 7</li>
+            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 7</li>
             <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 21</li>
-            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 56</li>
-            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 94</li>
+            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -607,7 +607,7 @@ Chilean music blends folk traditions with rock, hip-hop, and indie influences, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 54</li>
+            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -710,9 +710,9 @@ Chilean music blends folk traditions with rock, hip-hop, and indie influences, r
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 5</li>
             <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 18</li>
-            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 64</li>
-            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 96</li>
+            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -734,9 +734,9 @@ Chilean music blends folk traditions with rock, hip-hop, and indie influences, r
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 1</li>
+            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 2</li>
             <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 10</li>
-            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 99</li>
-            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -756,7 +756,7 @@ Chilean music blends folk traditions with rock, hip-hop, and indie influences, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 93</li>
+            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -798,8 +798,8 @@ Chilean music blends folk traditions with rock, hip-hop, and indie influences, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 25</li>
             <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 38</li>
+            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -820,8 +820,8 @@ Chilean music blends folk traditions with rock, hip-hop, and indie influences, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 23</li>
-            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 86</li>
+            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 15</li>
+            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -933,7 +933,7 @@ Chilean music blends folk traditions with rock, hip-hop, and indie influences, r
       <td>
         <ul>
             <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 8</li>
-            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 90</li>
+            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -987,8 +987,8 @@ Chilean music blends folk traditions with rock, hip-hop, and indie influences, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 92</li>
-            <li> <a href="{{ "/tags/trova" | relative_url }}">trova</a> # 93</li>
+            <li> <a href="{{ "/tags/trova" | relative_url }}">trova</a> # 7</li>
+            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1067,7 +1067,7 @@ Chilean music blends folk traditions with rock, hip-hop, and indie influences, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 32</li>
+            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1245,8 +1245,8 @@ Chilean music blends folk traditions with rock, hip-hop, and indie influences, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 87</li>
-            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 95</li>
+            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 6</li>
+            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1307,7 +1307,7 @@ Chilean music blends folk traditions with rock, hip-hop, and indie influences, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 16</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1327,7 +1327,7 @@ Chilean music blends folk traditions with rock, hip-hop, and indie influences, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 79</li>
+            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1498,7 +1498,7 @@ Chilean music blends folk traditions with rock, hip-hop, and indie influences, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 84</li>
+            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1576,7 +1576,7 @@ Chilean music blends folk traditions with rock, hip-hop, and indie influences, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 37</li>
+            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1677,7 +1677,7 @@ Chilean music blends folk traditions with rock, hip-hop, and indie influences, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mariachi" | relative_url }}">mariachi</a> # 99</li>
+            <li> <a href="{{ "/tags/mariachi" | relative_url }}">mariachi</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -1698,7 +1698,7 @@ Chilean music blends folk traditions with rock, hip-hop, and indie influences, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 88</li>
+            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1826,7 +1826,7 @@ Chilean music blends folk traditions with rock, hip-hop, and indie influences, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 9</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -2001,7 +2001,7 @@ Chilean music blends folk traditions with rock, hip-hop, and indie influences, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 41</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -2028,10 +2028,10 @@ Chilean music blends folk traditions with rock, hip-hop, and indie influences, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 3</li>
+            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 34</li>
             <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 65</li>
-            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 67</li>
             <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 71</li>
+            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 98</li>
         </ul>
       </td>
     </tr>

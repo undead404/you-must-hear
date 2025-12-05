@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T06:50:38.380Z
+date: 2025-12-05T12:48:37.483Z
 permalink: tags/german-metal
 title: german metal
 ---
 
 ## german metal
 
-Last updated: <time datetime="2025-12-03T06:50:38.380Z">Wed Dec 03 2025 08:50:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T12:48:37.483Z">Fri Dec 05 2025 14:48:37 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -61,7 +61,7 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 51</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -102,7 +102,7 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/old-school-thrash-metal" | relative_url }}">old school thrash metal</a> # 92</li>
+            <li> <a href="{{ "/tags/old-school-thrash-metal" | relative_url }}">old school thrash metal</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -140,7 +140,7 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 25</li>
+            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -218,7 +218,7 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german-thrash-metal" | relative_url }}">german thrash metal</a> # 7</li>
+            <li> <a href="{{ "/tags/german-thrash-metal" | relative_url }}">german thrash metal</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -281,7 +281,7 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/old-school-thrash-metal" | relative_url }}">old school thrash metal</a> # 70</li>
+            <li> <a href="{{ "/tags/old-school-thrash-metal" | relative_url }}">old school thrash metal</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -318,7 +318,7 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a> # 31</li>
+            <li> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -582,7 +582,7 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german-thrash-metal" | relative_url }}">german thrash metal</a> # 20</li>
+            <li> <a href="{{ "/tags/german-thrash-metal" | relative_url }}">german thrash metal</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -602,7 +602,7 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a> # 9</li>
+            <li> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -681,7 +681,7 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 36</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -700,8 +700,8 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 2</li>
-            <li> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a> # 16</li>
+            <li> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a> # 85</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -759,7 +759,7 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 28</li>
+            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -777,8 +777,8 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 12</li>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 44</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 57</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -912,7 +912,7 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-metal" | relative_url }}">dark metal</a> # 39</li>
+            <li> <a href="{{ "/tags/dark-metal" | relative_url }}">dark metal</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1068,7 +1068,7 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a> # 39</li>
+            <li> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1093,7 +1093,7 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german-black-metal" | relative_url }}">german black metal</a> # 2</li>
+            <li> <a href="{{ "/tags/german-black-metal" | relative_url }}">german black metal</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1196,8 +1196,8 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german-thrash-metal" | relative_url }}">german thrash metal</a> # 46</li>
-            <li> <a href="{{ "/tags/old-school-thrash-metal" | relative_url }}">old school thrash metal</a> # 60</li>
+            <li> <a href="{{ "/tags/old-school-thrash-metal" | relative_url }}">old school thrash metal</a> # 41</li>
+            <li> <a href="{{ "/tags/german-thrash-metal" | relative_url }}">german thrash metal</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1220,7 +1220,7 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nwothm" | relative_url }}">nwothm</a> # 33</li>
+            <li> <a href="{{ "/tags/nwothm" | relative_url }}">nwothm</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1283,7 +1283,7 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a> # 64</li>
+            <li> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1328,7 +1328,7 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       <td>
         <ul>
             <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 41</li>
-            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 51</li>
+            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1352,7 +1352,7 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 38</li>
+            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 62</li>
             <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 66</li>
         </ul>
       </td>
@@ -1378,8 +1378,8 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a> # 2</li>
-            <li> <a href="{{ "/tags/national-socialist" | relative_url }}">national socialist</a> # 54</li>
+            <li> <a href="{{ "/tags/national-socialist" | relative_url }}">national socialist</a> # 47</li>
+            <li> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1404,7 +1404,7 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/national-socialist" | relative_url }}">national socialist</a> # 41</li>
+            <li> <a href="{{ "/tags/national-socialist" | relative_url }}">national socialist</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1504,8 +1504,8 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 5</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 67</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 34</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1543,7 +1543,7 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/old-school-thrash-metal" | relative_url }}">old school thrash metal</a> # 100</li>
+            <li> <a href="{{ "/tags/old-school-thrash-metal" | relative_url }}">old school thrash metal</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -1591,8 +1591,8 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german-black-metal" | relative_url }}">german black metal</a> # 1</li>
             <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 70</li>
+            <li> <a href="{{ "/tags/german-black-metal" | relative_url }}">german black metal</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1676,7 +1676,7 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blackened-speed-metal" | relative_url }}">blackened speed metal</a> # 69</li>
+            <li> <a href="{{ "/tags/blackened-speed-metal" | relative_url }}">blackened speed metal</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1747,7 +1747,7 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 21</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1909,9 +1909,9 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 24</li>
-            <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 77</li>
-            <li> <a href="{{ "/tags/noisegrind" | relative_url }}">noisegrind</a> # 91</li>
+            <li> <a href="{{ "/tags/noisegrind" | relative_url }}">noisegrind</a> # 10</li>
+            <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 24</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -2047,7 +2047,7 @@ German metal music is a genre characterized by its heavy and aggressive sound. I
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nwothm" | relative_url }}">nwothm</a> # 65</li>
+            <li> <a href="{{ "/tags/nwothm" | relative_url }}">nwothm</a> # 36</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T06:34:48.224Z
+date: 2025-12-05T12:42:29.092Z
 permalink: tags/britain
 title: britain
 ---
 
 ## britain
 
-Last updated: <time datetime="2025-12-03T06:34:48.224Z">Wed Dec 03 2025 08:34:48 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T12:42:29.092Z">Fri Dec 05 2025 14:42:29 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
   </thead>
   <tbody>
     <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/Zz0hHJvdXnuhZdWZCLpDgt_WnS-xWuavHjz0wqzYk3E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MjQx/NTgtMTQwNjQ2NTMw/Ny01NjU0LmpwZWc.jpeg" alt="Cover for BRITTEN: The Young Person&#39;s Guide to the Orchestra &#x2F; Variations on a Theme of Frank Bridge" style="max-width:120px; height:auto;" />
       </td>
@@ -45,12 +45,12 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 1</li>
+            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>89</td>
       <td>
           <img src="https://i.discogs.com/fNKk3lRpRU0MlspV5dbwAFtqnu12tW4tjgBrtpSVVA8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTM5/MjgtMTI5MzI5Njc4/NC5qcGVn.jpeg" alt="Cover for The Very Best of Kathleen Ferrier Centenary Collection" style="max-width:120px; height:auto;" />
       </td>
@@ -70,7 +70,7 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/MbWVsSLnwj-G-tffY6M_XR_Lns6zQ8fsnky6iCInRMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODMy/NzMtMTQzOTAzOTEz/MS04MDExLmpwZWc.jpeg" alt="Cover for Earth, Volume 3" style="max-width:120px; height:auto;" />
       </td>
@@ -87,26 +87,7 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
     </tr>
     <tr>
-      <td>73</td>
-      <td>
-          <img src="https://i.discogs.com/3V7qkQfoex3ol_3bjiepdWB-H7FNc5wVwWhhNDkiMw4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNjc1/NTktMTQ2MDIyOTYx/MS0yNjAxLmpwZWc.jpeg" alt="Cover for WALTON: Belshazzar&#39;s Feast &#x2F; Crown Imperial" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1977</td>
-      <td>William Walton</td>
-      <td>WALTON: Belshazzar&#39;s Feast &#x2F; Crown Imperial</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/britain" | relative_url }}">britain</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/england" | relative_url }}">england</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/IHvMpMhWQugl60SaxYcszY9wD49j0YvTBmcGzzmbP7E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDAt/MTU5MTUyMjUwMS01/NTA2LmpwZWc.jpeg" alt="Cover for Soulfood" style="max-width:120px; height:auto;" />
       </td>
@@ -128,7 +109,26 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>28</td>
+      <td>
+          <img src="https://i.discogs.com/3V7qkQfoex3ol_3bjiepdWB-H7FNc5wVwWhhNDkiMw4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNjc1/NTktMTQ2MDIyOTYx/MS0yNjAxLmpwZWc.jpeg" alt="Cover for WALTON: Belshazzar&#39;s Feast &#x2F; Crown Imperial" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1977</td>
+      <td>William Walton</td>
+      <td>WALTON: Belshazzar&#39;s Feast &#x2F; Crown Imperial</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/britain" | relative_url }}">britain</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/england" | relative_url }}">england</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c4a381483b7a4d47bbe88e809224f48d.png" alt="Cover for Aerial - A Sea Of Honey" style="max-width:120px; height:auto;" />
       </td>
@@ -152,14 +152,14 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 9</li>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 86</li>
-            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 87</li>
+            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 14</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 15</li>
+            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/gnAjh7G0iLZMhzMQGvC93T7nha8M1lSEbzAJOR_kUGE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTc2/LTAwMS5qcGc.jpeg" alt="Cover for Earth Vol. 7" style="max-width:120px; height:auto;" />
       </td>
@@ -178,14 +178,14 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 32</li>
+            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 41</li>
             <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 56</li>
-            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 60</li>
+            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/MbWVsSLnwj-G-tffY6M_XR_Lns6zQ8fsnky6iCInRMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODMy/NzMtMTQzOTAzOTEz/MS04MDExLmpwZWc.jpeg" alt="Cover for Earth, Volume 4" style="max-width:120px; height:auto;" />
       </td>
@@ -202,7 +202,7 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1076cf3be37bc894e8d6a8c1f679745d.png" alt="Cover for The Poison Boyfriend" style="max-width:120px; height:auto;" />
       </td>
@@ -237,19 +237,19 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 2</li>
+            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 5</li>
+            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 6</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 6</li>
             <li> <a href="{{ "/tags/scotland" | relative_url }}">scotland</a> # 20</li>
-            <li> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a> # 23</li>
             <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 24</li>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 59</li>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 95</li>
-            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 95</li>
-            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 96</li>
-            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 99</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 42</li>
+            <li> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/262a1d7557d5f84a88c37555dc8b6a06.png" alt="Cover for Love in the Afternoon" style="max-width:120px; height:auto;" />
       </td>
@@ -270,7 +270,7 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bf3b937e3bda7f5eaca708074defebc7.png" alt="Cover for Century Flower" style="max-width:120px; height:auto;" />
       </td>
@@ -288,12 +288,12 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 24</li>
+            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/kWXL5__N93UBgrtpHW928jjwjLogpXVbwLYlrWoVmu8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODY5/NzEtMTU4MjcyMjc4/OS01NjI0LmpwZWc.jpeg" alt="Cover for The New Stormtroopers" style="max-width:120px; height:auto;" />
       </td>
@@ -316,7 +316,7 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>88</td>
       <td>
       </td>
       <td>1989-01</td>
@@ -347,7 +347,7 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/70801e1651314a25bdef0c2b8682e7c1.png" alt="Cover for Falling Down" style="max-width:120px; height:auto;" />
       </td>
@@ -375,12 +375,12 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 49</li>
+            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
       </td>
       <td>1991</td>
@@ -402,7 +402,7 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/yiegedrF5uCmJYyzBZV125gZjTyzhb6oWk1LJXOcTVg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTg5/NTM1LTE1NDk2NDEz/NjAtNDkyMi5qcGVn.jpeg" alt="Cover for DELIUS: Paris &#x2F; Brigg Fair &#x2F; Eventyr &#x2F; Irmelin &#x2F; La Calinda" style="max-width:120px; height:auto;" />
       </td>
@@ -420,7 +420,7 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>71</td>
       <td>
       </td>
       <td>1994-04-18</td>
@@ -442,7 +442,7 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7e9b775b6127d8b46c7643c61d205774.png" alt="Cover for Made Available (Peel Sessions)" style="max-width:120px; height:auto;" />
       </td>
@@ -470,12 +470,12 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 65</li>
+            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 36</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/lHgf7Ib5JNnLPdqJPCs1TI-HJwQNLd6-vHp53KGAknI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzQx/MTItMTM5NTk1MTA3/MC04NjE5LmpwZWc.jpeg" alt="Cover for Christmas At King&#39;s" style="max-width:120px; height:auto;" />
       </td>
@@ -489,12 +489,12 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       <td>
         <ul>
             <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 43</li>
-            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 54</li>
+            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 47</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/znAzZLClfV1lHqMIQy_GcatDGD_FrTKFLLMfxSXdano/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTc1/MDQtMTY1NDkzODc0/NC02MjQwLmpwZWc.jpeg" alt="Cover for GOING THRU CHANGES" style="max-width:120px; height:auto;" />
       </td>
@@ -514,7 +514,7 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/CIaHBSdZdxnLmNVHp806I1THN8TECavgy55vWJ0LPDQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTM0/NjUtMTI1NDcyNTEy/My5qcGVn.jpeg" alt="Cover for Babylon" style="max-width:120px; height:auto;" />
       </td>
@@ -532,12 +532,12 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 47</li>
+            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
       </td>
       <td>1999</td>
@@ -558,7 +558,7 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/H9-xw-ldNcuCIhaH9L_4ZpryTxy76xFyFet3hSV0ZbI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDk1/ODIwLTE2NDAxMDY4/MTMtOTM2My5qcGVn.jpeg" alt="Cover for Taking Money From Kids" style="max-width:120px; height:auto;" />
       </td>
@@ -578,12 +578,12 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sheffield" | relative_url }}">sheffield</a> # 58</li>
+            <li> <a href="{{ "/tags/sheffield" | relative_url }}">sheffield</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/3RjG5aumcZcJWKA_v5-EDYkRHLnnrsqGUMLae1cxVYc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNzQ3/NDYtMTM2ODU3NTQx/NC01MjcwLmpwZWc.jpeg" alt="Cover for Reds Better Run When We&#39;re on the Attack" style="max-width:120px; height:auto;" />
       </td>
@@ -605,12 +605,12 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/national-socialist" | relative_url }}">national socialist</a> # 67</li>
+            <li> <a href="{{ "/tags/national-socialist" | relative_url }}">national socialist</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/dSKHXUbZJs-1iZDxAz8RvvHTFI7IKScDR9jPB4tYCoY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjU4/MDQtMTIwNDkwMTk3/Ni5qcGVn.jpeg" alt="Cover for We Sing For The Future!" style="max-width:120px; height:auto;" />
       </td>
@@ -629,7 +629,36 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>57</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cd38a477e236596772bcc1be10cdeb06.png" alt="Cover for Best of The Hemingways" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>The Hemingways</td>
+      <td>Best of The Hemingways</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/britain" | relative_url }}">britain</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/scotland" | relative_url }}">scotland</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 19</li>
+            <li> <a href="{{ "/tags/scotland" | relative_url }}">scotland</a> # 85</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/VAs5sHdlVNNCU2JTdtQY4utIMVdQn5pDnzMaUFDJf6M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODQ2/Mjc4LTE2MzYwMTc1/MDEtMzExNy5qcGVn.jpeg" alt="Cover for Death Studies" style="max-width:120px; height:auto;" />
       </td>
@@ -660,45 +689,16 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 50</li>
-            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 68</li>
-            <li> <a href="{{ "/tags/wales" | relative_url }}">wales</a> # 70</li>
+            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 23</li>
+            <li> <a href="{{ "/tags/wales" | relative_url }}">wales</a> # 29</li>
+            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 33</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 51</li>
             <li> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a> # 76</li>
-            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cd38a477e236596772bcc1be10cdeb06.png" alt="Cover for Best of The Hemingways" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2002</td>
-      <td>The Hemingways</td>
-      <td>Best of The Hemingways</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/britain" | relative_url }}">britain</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/scotland" | relative_url }}">scotland</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 82</li>
-            <li> <a href="{{ "/tags/scotland" | relative_url }}">scotland</a> # 85</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>52</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/IidtB477HaBytLc8tmOmP7CcbeicXHgPc6SLTho-L7U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NjUw/My0xNTUwMTQ4Nzgy/LTQyMTEuanBlZw.jpeg" alt="Cover for No, Not Ah!" style="max-width:120px; height:auto;" />
       </td>
@@ -715,7 +715,7 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/6bw0-Q8uFie1HfhTmxCw9o6bOhueniZ8XlaOhDpuk5A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTEx/My0xMDgwOTM5NzY1/LmdpZg.jpeg" alt="Cover for Pickled Think ep" style="max-width:120px; height:auto;" />
       </td>
@@ -737,7 +737,26 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>24</td>
+      <td>
+          <img src="https://i.discogs.com/5eNb1r3NK4aGNDPvcGp_DGjIKNjNbA_CkNJYtHMA0zk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDc2/MTMzLTE1Mjc4MDI3/MzktNTY3MS5wbmc.jpeg" alt="Cover for 11000 Clicks" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Moloko</td>
+      <td>11000 Clicks</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/britain" | relative_url }}">britain</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/england" | relative_url }}">england</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
       <td>
           <img src="https://i.discogs.com/EMrLCxqzmOjcBNIkgNvnd_DuCniMGFzmtwXcVGlqTYA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MzQ2/ODYtMTQ2NzYzNDc2/OS05NDc1LmpwZWc.jpeg" alt="Cover for Brian Ferneyhough: Music for Flute and Piano" style="max-width:120px; height:auto;" />
       </td>
@@ -759,26 +778,7 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
     </tr>
     <tr>
-      <td>77</td>
-      <td>
-          <img src="https://i.discogs.com/5eNb1r3NK4aGNDPvcGp_DGjIKNjNbA_CkNJYtHMA0zk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDc2/MTMzLTE1Mjc4MDI3/MzktNTY3MS5wbmc.jpeg" alt="Cover for 11000 Clicks" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2004</td>
-      <td>Moloko</td>
-      <td>11000 Clicks</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/britain" | relative_url }}">britain</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/england" | relative_url }}">england</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
       </td>
       <td>2004-04</td>
@@ -794,12 +794,12 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 19</li>
+            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
       </td>
       <td>2004-09-28</td>
@@ -815,7 +815,7 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>98</td>
       <td>
       </td>
       <td>2005</td>
@@ -835,12 +835,12 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/national-socialist" | relative_url }}">national socialist</a> # 46</li>
+            <li> <a href="{{ "/tags/national-socialist" | relative_url }}">national socialist</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a823891621a3c9aff5bbc056be155009.png" alt="Cover for From The Dawn Of Time We Came...." style="max-width:120px; height:auto;" />
       </td>
@@ -861,13 +861,13 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 12</li>
             <li> <a href="{{ "/tags/scotland" | relative_url }}">scotland</a> # 71</li>
-            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>93</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f3d9f09d76836481ef4e0e333aba7a11.png" alt="Cover for Compilation no. 3" style="max-width:120px; height:auto;" />
       </td>
@@ -887,12 +887,12 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 63</li>
+            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 38</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/JJfo-CLYtWRigRTospzOKt9vqAEAhVmABVCvh1yjGnM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTM5/NzgtMTI5NDUyMTEz/OS5qcGVn.jpeg" alt="Cover for Out of the Darkness" style="max-width:120px; height:auto;" />
       </td>
@@ -911,12 +911,12 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/national-socialist" | relative_url }}">national socialist</a> # 80</li>
+            <li> <a href="{{ "/tags/national-socialist" | relative_url }}">national socialist</a> # 21</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
       </td>
       <td>2005-07-25</td>
@@ -931,13 +931,13 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 56</li>
+            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 45</li>
             <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/c7CsL11gQXO72iO8SHEKKVG0TQ13BZsG6FKQXPDtPJo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTcx/NjY1LTE1MDc0NTQ5/MTMtMTAyNC5qcGVn.jpeg" alt="Cover for Ferneyhough: Shadowtime" style="max-width:120px; height:auto;" />
       </td>
@@ -957,7 +957,7 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/G7a-ubYYUhtgN63DBKxxbbd7y6Z01q6NDN9WMCM3ax0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwODkz/OS0xMTQ1MTA3Nzcw/LmpwZWc.jpeg" alt="Cover for Mellifluous" style="max-width:120px; height:auto;" />
       </td>
@@ -979,7 +979,7 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/062065ff3e034a3e8e1ec6da0e93ceb0.png" alt="Cover for The world keeps spinning" style="max-width:120px; height:auto;" />
       </td>
@@ -1001,14 +1001,14 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 5</li>
+            <li> <a href="{{ "/tags/wales" | relative_url }}">wales</a> # 13</li>
             <li> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a> # 36</li>
-            <li> <a href="{{ "/tags/wales" | relative_url }}">wales</a> # 88</li>
-            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/w0MjsY_aIeuHd6tFv49bt-gMq1hRypdO-Zs9eMpcCbA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MDM0/ODgtMTQyNjk1OTQx/MS0xOTE1LmpwZWc.jpeg" alt="Cover for Spaceships Are Cool" style="max-width:120px; height:auto;" />
       </td>
@@ -1027,7 +1027,7 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>84</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5323a8bb1a9ade2e955bb111d5169eff.png" alt="Cover for Records for small children" style="max-width:120px; height:auto;" />
       </td>
@@ -1049,13 +1049,13 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 53</li>
-            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 70</li>
+            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 31</li>
+            <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2223a20e60ce4697a34ffc382d214009.png" alt="Cover for Truth is Stranger" style="max-width:120px; height:auto;" />
       </td>
@@ -1082,19 +1082,19 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 3</li>
+            <li> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a> # 4</li>
+            <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 14</li>
             <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 18</li>
             <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 23</li>
             <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 24</li>
             <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 27</li>
-            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 35</li>
-            <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 87</li>
-            <li> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a> # 96</li>
+            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 66</li>
+            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f530fcd8295f4c6da1917b718495b94a.png" alt="Cover for Astronomy For Dogs" style="max-width:120px; height:auto;" />
       </td>
@@ -1112,7 +1112,7 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/SWr7fbngPlCjtCnkv1GjWFct_nLH2dHiQNwPol4Zt-g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNzY2/NjAtMTM4Mzg1MDE4/OC02NzkwLmpwZWc.jpeg" alt="Cover for Don&#39;t Cry Help Until You&#39;re Dead" style="max-width:120px; height:auto;" />
       </td>
@@ -1129,12 +1129,12 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 92</li>
+            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 9</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/YAp6S-IEfCfycnAMcamM9sHGHsKrTd0FCSW_6a-buJQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzEx/NDgtMTE5NDU1NzIx/MS5qcGVn.jpeg" alt="Cover for Live Versions (Official Release)" style="max-width:120px; height:auto;" />
       </td>
@@ -1156,31 +1156,7 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
     </tr>
     <tr>
-      <td>39</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ba907a6f04adced64e10691083cd998.png" alt="Cover for Electrical Unity EP" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2008</td>
-      <td>Keyboard Choir</td>
-      <td>Electrical Unity EP</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/britain" | relative_url }}">britain</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 79</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 93</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/edffb20f4514352a03f6d7e6a29f5ad9.png" alt="Cover for One Day to Save All Life" style="max-width:120px; height:auto;" />
       </td>
@@ -1206,18 +1182,42 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 7</li>
+            <li> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a> # 8</li>
             <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 23</li>
+            <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 27</li>
             <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 40</li>
             <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 41</li>
             <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 50</li>
-            <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 74</li>
-            <li> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a> # 92</li>
+            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>62</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ba907a6f04adced64e10691083cd998.png" alt="Cover for Electrical Unity EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>Keyboard Choir</td>
+      <td>Electrical Unity EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/britain" | relative_url }}">britain</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 22</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 93</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/bcw3Sz2_bpgPMDh4ocyUKj7AzUFjmreR9Wqmgg4Y4E8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTcy/Njg1LTE2ODAwMTA5/NjUtNDQzNS5qcGVn.jpeg" alt="Cover for BRITTEN: String Quartets No. 3 &#x2F; Simple Symphony" style="max-width:120px; height:auto;" />
       </td>
@@ -1236,7 +1236,7 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/672a4f927734b23643ce3c4d0c447286.png" alt="Cover for Karma 08&#x2F;01" style="max-width:120px; height:auto;" />
       </td>
@@ -1255,12 +1255,12 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 77</li>
+            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 24</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb301ba6e325b847735633b2f95a9e98.png" alt="Cover for English Breakfast EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1277,12 +1277,12 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 76</li>
+            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 25</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/70b331a8e15449869b9c82457dddae2b.png" alt="Cover for 344 Metres Per Second" style="max-width:120px; height:auto;" />
       </td>
@@ -1305,7 +1305,7 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/36732ad9842645ff8870dc0ae5e73c3f.png" alt="Cover for The Heavens" style="max-width:120px; height:auto;" />
       </td>
@@ -1324,15 +1324,15 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/northern-soul" | relative_url }}">northern soul</a> # 61</li>
-            <li> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a> # 63</li>
-            <li> <a href="{{ "/tags/leeds" | relative_url }}">leeds</a> # 85</li>
-            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 93</li>
+            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 8</li>
+            <li> <a href="{{ "/tags/leeds" | relative_url }}">leeds</a> # 16</li>
+            <li> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a> # 38</li>
+            <li> <a href="{{ "/tags/northern-soul" | relative_url }}">northern soul</a> # 40</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/dZyF7kNdIodJEGYfBBFCn50HmT8ENWQXpwZk3_KLlgU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NDc1/OTQtMTQwNzA4NzU1/OS0yMTExLmpwZWc.jpeg" alt="Cover for Crane, L.: 20th Century Music (Solo Piano Pieces, 1985-1999)" style="max-width:120px; height:auto;" />
       </td>
@@ -1349,7 +1349,7 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/f0AkWM2z7D8tmPauuBbB4MJNOufxPTLCRWcJemMBHoU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTA0/OTgtMTI3MjM0ODg0/Mi5qcGVn.jpeg" alt="Cover for When Your Garden&#39;s Overgrown" style="max-width:120px; height:auto;" />
       </td>
@@ -1369,7 +1369,7 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/ytnDya2g9MolopX-YKLajUhg0xwwLbmCR40kcBZNzA4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njcy/NjMtMTI0ODg2Njk1/NC5qcGVn.jpeg" alt="Cover for In The Early Months" style="max-width:120px; height:auto;" />
       </td>
@@ -1395,15 +1395,15 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sheffield" | relative_url }}">sheffield</a> # 67</li>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 68</li>
-            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 77</li>
-            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 84</li>
+            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 17</li>
+            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 24</li>
+            <li> <a href="{{ "/tags/sheffield" | relative_url }}">sheffield</a> # 33</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for Points in Time 001" style="max-width:120px; height:auto;" />
       </td>
@@ -1428,7 +1428,7 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/gnAjh7G0iLZMhzMQGvC93T7nha8M1lSEbzAJOR_kUGE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTc2/LTAwMS5qcGc.jpeg" alt="Cover for Points in Time 005" style="max-width:120px; height:auto;" />
       </td>
@@ -1452,7 +1452,7 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/oL2gWK7uweLRXgMzngvu83MNI_atdIPFzSkdo02oCmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTgx/MjctMTMzMzE4Njg5/Mi5qcGVn.jpeg" alt="Cover for Deltitnu EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1488,22 +1488,22 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 11</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 12</li>
+            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 1</li>
+            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 3</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 3</li>
             <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 17</li>
-            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 41</li>
+            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 33</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 48</li>
             <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 50</li>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 53</li>
+            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 60</li>
             <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 62</li>
-            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 68</li>
-            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 98</li>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 98</li>
-            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 100</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 88</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/9Zk6t2QR8H0i2o6jU_KGUhlGhaYTuZEs_pZz95S-hgw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzg2/MDUtMTE4NjkzOTQw/MS5naWY.jpeg" alt="Cover for The Walled City" style="max-width:120px; height:auto;" />
       </td>
@@ -1524,7 +1524,7 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/vqBmU9c_9lyw_OxKaFEXQ8Cw4ZjNjXj0i3cm4nBZcWI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTEy/NDczLTE2MDM2Mzk4/NzYtNzI2My5qcGVn.jpeg" alt="Cover for Sawl Ffordd Allan" style="max-width:120px; height:auto;" />
       </td>
@@ -1542,7 +1542,7 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/10668609b9b320b3a778f0057e901001.png" alt="Cover for Eight (Pieces)" style="max-width:120px; height:auto;" />
       </td>
@@ -1563,12 +1563,12 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 83</li>
+            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 18</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/M2X3i1cioIfz8mmAnLhOv7Z9OWWbgPzygI7kjUo1t38/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDYw/ODgtMTI1NDIzMDcx/My5qcGVn.jpeg" alt="Cover for The Anton Phase Electro Clockwork Menagerie" style="max-width:120px; height:auto;" />
       </td>
@@ -1584,12 +1584,12 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 72</li>
+            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>90</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa92cbaaffbbd72d0f39498e49313315.png" alt="Cover for Like A Photograph" style="max-width:120px; height:auto;" />
       </td>
@@ -1611,12 +1611,12 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 66</li>
+            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 35</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d0a34d6edeb6563e1ac54d56f1845b3a.png" alt="Cover for A Minor Shunt With Common Sense" style="max-width:120px; height:auto;" />
       </td>
@@ -1641,15 +1641,15 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 11</li>
             <li> <a href="{{ "/tags/glasgow" | relative_url }}">glasgow</a> # 23</li>
-            <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 67</li>
+            <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 34</li>
             <li> <a href="{{ "/tags/scotland" | relative_url }}">scotland</a> # 69</li>
-            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6d13a44f2096b4aa223bd2bec9f79e22.png" alt="Cover for Hugs EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1672,14 +1672,14 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 87</li>
-            <li> <a href="{{ "/tags/quartet" | relative_url }}">quartet</a> # 96</li>
-            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 98</li>
+            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 3</li>
+            <li> <a href="{{ "/tags/quartet" | relative_url }}">quartet</a> # 5</li>
+            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 14</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/xp91MZGh5LhV9VLNh3xGh6V8LrFLbpAKlcWDOTbI6Jc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDI3/MTcwLTE1NjYzNjg4/NDktNjg1Mi5qcGVn.jpeg" alt="Cover for Tyrol" style="max-width:120px; height:auto;" />
       </td>
@@ -1702,12 +1702,12 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 73</li>
+            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 28</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>59</td>
       <td>
       </td>
       <td>2010-10-16</td>
@@ -1725,13 +1725,13 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 51</li>
-            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 81</li>
+            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 20</li>
+            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/owySTiGYcoHlTKt5Ecpeip5mDCA2TFgXZ9t98_V8DPk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI0/ODUtMTM0NjY3OTkz/NC0zMTA0LmpwZWc.jpeg" alt="Cover for Piano Formations" style="max-width:120px; height:auto;" />
       </td>
@@ -1753,7 +1753,7 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ebdd6ab3de844b95ab255387a339d7b8.png" alt="Cover for [iD.063] Tracing Arcs - Eye See You (LP)" style="max-width:120px; height:auto;" />
       </td>
@@ -1774,12 +1774,12 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 69</li>
+            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/BXGH_SN7UkekDcZnzdw6T-46usCg0AlnMwaRrLgKuvI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjM5/OTEtMTUxOTM2MjMy/Ni0yOTQzLmpwZWc.jpeg" alt="Cover for 5 o&#39;clock recordings" style="max-width:120px; height:auto;" />
       </td>
@@ -1799,13 +1799,13 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/leeds" | relative_url }}">leeds</a> # 65</li>
-            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 85</li>
+            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 16</li>
+            <li> <a href="{{ "/tags/leeds" | relative_url }}">leeds</a> # 36</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/0j_fcOhoJzJ6s7M-c6HXN1kDZimxXbuubzUnos1ByHY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODkz/NDEtMTMxNTIxODU2/Ny5qcGVn.jpeg" alt="Cover for Inca Gold" style="max-width:120px; height:auto;" />
       </td>
@@ -1827,12 +1827,12 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 68</li>
+            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/dBqOATPzPK-3Bk_kbMsyuZDdVMXRgtQfgm2FGvIMIEo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NzAw/ODctMTMwMTE0NTAz/OC5qcGVn.jpeg" alt="Cover for TEXT010" style="max-width:120px; height:auto;" />
       </td>
@@ -1857,7 +1857,7 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/MTCjjXVcQgpR6RLKXk5O9LAuTaEnUpLlG9ZZSYw-qHk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDIz/MDYtMTMxMTE5MDQy/Mi5qcGVn.jpeg" alt="Cover for Quasi Horror" style="max-width:120px; height:auto;" />
       </td>
@@ -1876,12 +1876,12 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 74</li>
+            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 27</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d0a5c0c126f94fbe8db68ed681ed9c64.png" alt="Cover for [BadPanda096] Bad Panda EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1903,38 +1903,14 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 14</li>
             <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 66</li>
             <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 80</li>
-            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
-      <td>
-          <img src="https://i.discogs.com/NIDI6jkw4Uer1r1ziEwOcRQbFll0-czVesyXyYFJ6e0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMTE0/NDctMTU0ODc0Mzk2/NS00MjQ5LmpwZWc.jpeg" alt="Cover for Forward Space" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2012</td>
-      <td>Andre Canniere Group</td>
-      <td>Forward Space</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/britain" | relative_url }}">britain</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-trumpet" | relative_url }}">jazz trumpet</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/london" | relative_url }}">london</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/jazz-trumpet" | relative_url }}">jazz trumpet</a> # 21</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>27</td>
+      <td>74</td>
       <td>
       </td>
       <td>2012</td>
@@ -1954,12 +1930,36 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 75</li>
+            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 26</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>76</td>
+      <td>
+          <img src="https://i.discogs.com/NIDI6jkw4Uer1r1ziEwOcRQbFll0-czVesyXyYFJ6e0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMTE0/NDctMTU0ODc0Mzk2/NS00MjQ5LmpwZWc.jpeg" alt="Cover for Forward Space" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012</td>
+      <td>Andre Canniere Group</td>
+      <td>Forward Space</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/britain" | relative_url }}">britain</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-trumpet" | relative_url }}">jazz trumpet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/london" | relative_url }}">london</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jazz-trumpet" | relative_url }}">jazz trumpet</a> # 80</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/0yea0Mxf-TK11clebpH6BN6S66Mg-0Roiv5Qwl7EYEs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MDA2/OTAtMTYxMTA0OTY4/MC00OTg1LmpwZWc.jpeg" alt="Cover for Wild Foxes" style="max-width:120px; height:auto;" />
       </td>
@@ -1986,15 +1986,15 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 6</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 41</li>
             <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 42</li>
             <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 59</li>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 60</li>
-            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
       </td>
       <td>2012-03-19</td>
@@ -2010,13 +2010,13 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 10</li>
-            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 90</li>
+            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 11</li>
+            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>87</td>
       <td>
       </td>
       <td>2012-04-03</td>
@@ -2037,12 +2037,12 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 67</li>
+            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/izonXMoo7XNtumU8F8Knu-yQ1zrz5jN_KWupMHdSRbI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMTk4/MTItMTM5MDQ1ODE5/My0yNzkxLmpwZWc.jpeg" alt="Cover for Eyes On You EP" style="max-width:120px; height:auto;" />
       </td>
@@ -2066,15 +2066,15 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 3</li>
+            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 4</li>
             <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 37</li>
             <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 52</li>
-            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 97</li>
+            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>100</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ca5f8d22f47241c88fbf7385dee68ffc.png" alt="Cover for When Worlds Collide" style="max-width:120px; height:auto;" />
       </td>
@@ -2098,13 +2098,13 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 60</li>
-            <li> <a href="{{ "/tags/quartet" | relative_url }}">quartet</a> # 76</li>
+            <li> <a href="{{ "/tags/quartet" | relative_url }}">quartet</a> # 25</li>
+            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/db5f8bab6d4b4aa3af265099c1dc3042.png" alt="Cover for TEXT010" style="max-width:120px; height:auto;" />
       </td>
@@ -2127,7 +2127,7 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bd94f9fd32ac4e69bca1f0d34557a8b3.png" alt="Cover for Crow44" style="max-width:120px; height:auto;" />
       </td>
@@ -2159,15 +2159,15 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 15</li>
+            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 22</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 30</li>
             <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 68</li>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 71</li>
-            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 79</li>
-            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
       </td>
       <td>2013-04-28</td>
@@ -2182,12 +2182,12 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 88</li>
+            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 14</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a4883d96777d4a5cca36a4644f3f2f75.png" alt="Cover for The Man Upstairs" style="max-width:120px; height:auto;" />
       </td>
@@ -2208,7 +2208,7 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
       </td>
       <td>2013-11-15</td>
@@ -2222,12 +2222,12 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 65</li>
+            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 36</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/01F-60YpLz4oF1ieW_492xVhoxdeKXCXsXRavzWjjKA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNzMx/MzItMTY4NjUwMDk0/Ni00OTM4LmpwZWc.jpeg" alt="Cover for THE 15th DAY" style="max-width:120px; height:auto;" />
       </td>
@@ -2243,13 +2243,13 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 9</li>
             <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 22</li>
-            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>95</td>
       <td>
           <img src="https://i.discogs.com/E8TCu428SQ9ZDFGw6MulYHcorztROfScDNPOUiz_1g8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTUz/MjItMTMwNjI1MDIx/NS5qcGVn.jpeg" alt="Cover for Sweet iron feet" style="max-width:120px; height:auto;" />
       </td>
@@ -2276,15 +2276,15 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 8</li>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 21</li>
-            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 51</li>
-            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 62</li>
+            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 39</li>
+            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 50</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 80</li>
+            <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/yL2WML1oZrui8zc18XMjxweXzKhR0N7oQJjtyK6DCNc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTc2/OTUxLTE3MjQ2NjAy/NTAtMzcwNC5qcGVn.jpeg" alt="Cover for On The Bone - Compilation One" style="max-width:120px; height:auto;" />
       </td>
@@ -2301,12 +2301,12 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 82</li>
+            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 19</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>65</td>
       <td>
       </td>
       <td>2023</td>
@@ -2323,117 +2323,7 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
     </tr>
     <tr>
-      <td>2</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/82ad2404125628a0179f79adfd1e4be1.png" alt="Cover for Eunoia" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Fragile Battleship</td>
-      <td>Eunoia</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/britain" | relative_url }}">britain</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 61</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>9</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fdb0beee24714895814dd0cbab3a2816.png" alt="Cover for The Dune Buggy Attack Battalion L.P." style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>the hirundu</td>
-      <td>The Dune Buggy Attack Battalion L.P.</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/britain" | relative_url }}">britain</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 64</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>41</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d5937ade5593f18f008b2dff9284d537.png" alt="Cover for The Lady Sails" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>The Lady Sails</td>
-      <td>The Lady Sails</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/britain" | relative_url }}">britain</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/london" | relative_url }}">london</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a> # 8</li>
-            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 80</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>61</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cfa764cfbc65417b88496002632e4a35.png" alt="Cover for Tandoori Hotrodz" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>the hirundu</td>
-      <td>Tandoori Hotrodz</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/britain" | relative_url }}">britain</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 3</li>
-            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 88</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
       </td>
       <td></td>
@@ -2458,22 +2348,131 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 91</li>
+            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 10</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>40</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cfa764cfbc65417b88496002632e4a35.png" alt="Cover for Tandoori Hotrodz" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>группа Приправа</td>
-      <td>Аватар Priprava</td>
+      <td>the hirundu</td>
+      <td>Tandoori Hotrodz</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/britain" | relative_url }}">britain</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 13</li>
+            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d5937ade5593f18f008b2dff9284d537.png" alt="Cover for The Lady Sails" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>The Lady Sails</td>
+      <td>The Lady Sails</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/britain" | relative_url }}">britain</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/canada" | relative_url }}">canada</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russia" | relative_url }}">russia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/london" | relative_url }}">london</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 21</li>
+            <li> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a> # 93</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fdb0beee24714895814dd0cbab3a2816.png" alt="Cover for The Dune Buggy Attack Battalion L.P." style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>the hirundu</td>
+      <td>The Dune Buggy Attack Battalion L.P.</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/britain" | relative_url }}">britain</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 37</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/82ad2404125628a0179f79adfd1e4be1.png" alt="Cover for Eunoia" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Fragile Battleship</td>
+      <td>Eunoia</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/britain" | relative_url }}">britain</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 40</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Cornelius Cardew</td>
+      <td>We Sing For The Future</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/britain" | relative_url }}">britain</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/england" | relative_url }}">england</a></li>
         </ul>
       </td>
       <td>
@@ -2482,7 +2481,7 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>80</td>
       <td>
       </td>
       <td></td>
@@ -2502,16 +2501,17 @@ The &quot;britain&quot; tag encompasses music created by British artists across 
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>96</td>
       <td>
       </td>
       <td></td>
-      <td>Cornelius Cardew</td>
-      <td>We Sing For The Future</td>
+      <td>группа Приправа</td>
+      <td>Аватар Priprava</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/britain" | relative_url }}">britain</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/england" | relative_url }}">england</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/canada" | relative_url }}">canada</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russia" | relative_url }}">russia</a></li>
         </ul>
       </td>
       <td>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T06:32:11.860Z
+date: 2025-12-05T12:38:36.402Z
 permalink: tags/cyberpunk
 title: cyberpunk
 ---
 
 ## cyberpunk
 
-Last updated: <time datetime="2025-12-03T06:32:11.860Z">Wed Dec 03 2025 08:32:11 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T12:38:36.402Z">Fri Dec 05 2025 14:38:36 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -60,7 +60,7 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 56</li>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -231,7 +231,7 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 22</li>
+            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -269,8 +269,8 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 36</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 41</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 60</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -293,7 +293,7 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 35</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -330,7 +330,7 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 79</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -351,7 +351,7 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 33</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -432,8 +432,8 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 23</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 47</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 52</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -473,8 +473,8 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 16</li>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 82</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 19</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -544,12 +544,12 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 22</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 33</li>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 49</li>
-            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 54</li>
+            <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 15</li>
+            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 47</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 52</li>
             <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 62</li>
-            <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 86</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 67</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -616,12 +616,12 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 53</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 71</li>
+            <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 6</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 7</li>
+            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 12</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 28</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 48</li>
             <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 84</li>
-            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 89</li>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 94</li>
-            <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -694,7 +694,7 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 87</li>
+            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -736,8 +736,8 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       <td>
         <ul>
             <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 19</li>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 29</li>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 73</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 28</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -755,6 +755,7 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -792,8 +793,8 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 11</li>
             <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 28</li>
-            <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -813,7 +814,7 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 86</li>
+            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -887,7 +888,7 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 59</li>
+            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 42</li>
             <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 73</li>
         </ul>
       </td>
@@ -935,12 +936,12 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 17</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 46</li>
+            <li> <a href="{{ "/tags/nigeria" | relative_url }}">nigeria</a> # 13</li>
+            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 36</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 55</li>
             <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 61</li>
-            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 65</li>
             <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 77</li>
-            <li> <a href="{{ "/tags/nigeria" | relative_url }}">nigeria</a> # 88</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -959,7 +960,7 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cyber-metal" | relative_url }}">cyber metal</a> # 87</li>
+            <li> <a href="{{ "/tags/cyber-metal" | relative_url }}">cyber metal</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -998,8 +999,8 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a> # 21</li>
             <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 73</li>
+            <li> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a> # 80</li>
             <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 99</li>
         </ul>
       </td>
@@ -1039,8 +1040,8 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 52</li>
-            <li> <a href="{{ "/tags/puerto-rico" | relative_url }}">puerto rico</a> # 98</li>
+            <li> <a href="{{ "/tags/puerto-rico" | relative_url }}">puerto rico</a> # 2</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1079,9 +1080,9 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 4</li>
             <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 13</li>
-            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 83</li>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 97</li>
+            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1099,7 +1100,7 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cyber-metal" | relative_url }}">cyber metal</a> # 97</li>
+            <li> <a href="{{ "/tags/cyber-metal" | relative_url }}">cyber metal</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1199,7 +1200,7 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techstep" | relative_url }}">techstep</a> # 81</li>
+            <li> <a href="{{ "/tags/techstep" | relative_url }}">techstep</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1243,7 +1244,7 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
         <ul>
             <li> <a href="{{ "/tags/broken-beat" | relative_url }}">broken beat</a> # 28</li>
             <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 42</li>
-            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 47</li>
+            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1260,11 +1261,13 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/london" | relative_url }}">london</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vaportrap" | relative_url }}">vaportrap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/vaportrap" | relative_url }}">vaportrap</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1287,7 +1290,7 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darksynth" | relative_url }}">darksynth</a> # 74</li>
+            <li> <a href="{{ "/tags/darksynth" | relative_url }}">darksynth</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1329,7 +1332,7 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darksynth" | relative_url }}">darksynth</a> # 79</li>
+            <li> <a href="{{ "/tags/darksynth" | relative_url }}">darksynth</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1354,9 +1357,9 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 15</li>
+            <li> <a href="{{ "/tags/french-house" | relative_url }}">french house</a> # 23</li>
             <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 74</li>
-            <li> <a href="{{ "/tags/french-house" | relative_url }}">french house</a> # 78</li>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1649,9 +1652,9 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 8</li>
-            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 53</li>
+            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 48</li>
             <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 72</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1679,7 +1682,7 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       <td>
         <ul>
             <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 46</li>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 51</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1700,7 +1703,7 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 18</li>
+            <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1726,8 +1729,8 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 16</li>
             <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 63</li>
-            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1835,7 +1838,7 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 91</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1909,12 +1912,12 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a> # 2</li>
             <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 30</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 31</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 34</li>
             <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 37</li>
-            <li> <a href="{{ "/tags/new-jack-swing" | relative_url }}">new jack swing</a> # 61</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 64</li>
-            <li> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a> # 99</li>
+            <li> <a href="{{ "/tags/new-jack-swing" | relative_url }}">new jack swing</a> # 40</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1958,9 +1961,9 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 66</li>
-            <li> <a href="{{ "/tags/darksynth" | relative_url }}">darksynth</a> # 69</li>
-            <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 93</li>
+            <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 8</li>
+            <li> <a href="{{ "/tags/darksynth" | relative_url }}">darksynth</a> # 31</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1982,8 +1985,8 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 11</li>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 81</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 20</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -2010,8 +2013,8 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 1</li>
             <li> <a href="{{ "/tags/deathrock" | relative_url }}">deathrock</a> # 96</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -2032,8 +2035,8 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neurofunk" | relative_url }}">neurofunk</a> # 22</li>
-            <li> <a href="{{ "/tags/techstep" | relative_url }}">techstep</a> # 90</li>
+            <li> <a href="{{ "/tags/techstep" | relative_url }}">techstep</a> # 11</li>
+            <li> <a href="{{ "/tags/neurofunk" | relative_url }}">neurofunk</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -2061,11 +2064,11 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 3</li>
             <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 19</li>
             <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 21</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 60</li>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 70</li>
-            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 98</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 31</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -2089,8 +2092,8 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darksynth" | relative_url }}">darksynth</a> # 28</li>
-            <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 70</li>
+            <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 31</li>
+            <li> <a href="{{ "/tags/darksynth" | relative_url }}">darksynth</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -2177,12 +2180,12 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       <td>
         <ul>
             <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 17</li>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 39</li>
-            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 55</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 18</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 19</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 19</li>
+            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 46</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 61</li>
             <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 66</li>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 82</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 82</li>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 83</li>
         </ul>
       </td>
     </tr>

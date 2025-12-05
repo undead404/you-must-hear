@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T06:33:27.735Z
+date: 2025-12-05T12:41:27.373Z
 permalink: tags/acid-folk
 title: acid folk
 ---
 
 ## acid folk
 
-Last updated: <time datetime="2025-12-03T06:33:27.735Z">Wed Dec 03 2025 08:33:27 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T12:41:27.373Z">Fri Dec 05 2025 14:41:27 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,25 +29,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
   </thead>
   <tbody>
     <tr>
-      <td>64</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cfb70b7ee7d449abc97b76cb45e2e36c.png" alt="Cover for The 5000 Spirits or the Layers of the Onion" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1967</td>
-      <td>The Incredible String Band</td>
-      <td>The 5000 Spirits or the Layers of the Onion</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/36a26c07418001f26bb4bf7770f7f851.png" alt="Cover for Indian War Whoop" style="max-width:120px; height:auto;" />
       </td>
@@ -66,7 +48,25 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>37</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cfb70b7ee7d449abc97b76cb45e2e36c.png" alt="Cover for The 5000 Spirits or the Layers of the Onion" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1967</td>
+      <td>The Incredible String Band</td>
+      <td>The 5000 Spirits or the Layers of the Onion</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b9c3e4dd63a48199ab1207f6df19996.png" alt="Cover for The Hangman&#39;s Beautiful Daughter" style="max-width:120px; height:auto;" />
       </td>
@@ -84,7 +84,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f82895794b148de9e9c4fb435f67a8b.png" alt="Cover for The Big Huge" style="max-width:120px; height:auto;" />
       </td>
@@ -100,12 +100,50 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a> # 49</li>
+            <li> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>3</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/25e9aa0209c343b9b55a6a2ca9a87d11.png" alt="Cover for Sound of Sunforest" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1969</td>
+      <td>Sunforest</td>
+      <td>Sound of Sunforest</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>
+      </td>
+      <td>1969</td>
+      <td>The Charlatans</td>
+      <td>San Francisco 1969</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/AHcvGSJDf7hU2zG-2iHk_QbKDAvUtBwynFqQDG4TyRc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDI4/ODktMTM4ODQzMzIw/NC0yOTc3LmpwZWc.jpeg" alt="Cover for Alice Through The Looking Glass" style="max-width:120px; height:auto;" />
       </td>
@@ -125,45 +163,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>49</td>
-      <td>
-      </td>
-      <td>1969</td>
-      <td>The Charlatans</td>
-      <td>San Francisco 1969</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>98</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/25e9aa0209c343b9b55a6a2ca9a87d11.png" alt="Cover for Sound of Sunforest" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1969</td>
-      <td>Sunforest</td>
-      <td>Sound of Sunforest</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b53b4a9eefe0d0294695bad0e97f7e2b.png" alt="Cover for Parallelograms" style="max-width:120px; height:auto;" />
       </td>
@@ -179,14 +179,14 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 6</li>
             <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 9</li>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 60</li>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 95</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 40</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3eb88f043d09051467e0472491c8679e.png" alt="Cover for First Utterance" style="max-width:120px; height:auto;" />
       </td>
@@ -199,14 +199,50 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 27</li>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 60</li>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 93</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 8</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 41</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>11</td>
+      <td>
+          <img src="https://i.discogs.com/JYM_9lsEnaqHbFKEKicgJB39EkX-Y1_5P-WNCmr76QA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTE4/NzMtMTI3MTY4MDQ1/OC5qcGVn.jpeg" alt="Cover for Fresh Maggots" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1971</td>
+      <td>Fresh Maggots</td>
+      <td>Fresh Maggots</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f635851026e749b8907b17d9c50d12a0.png" alt="Cover for BröselMaschine" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1971</td>
+      <td>BröselMaschine</td>
+      <td>BröselMaschine</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b9061b3c7dfe52e070d3f19185c80ee1.png" alt="Cover for Orgia" style="max-width:120px; height:auto;" />
       </td>
@@ -225,43 +261,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>81</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f635851026e749b8907b17d9c50d12a0.png" alt="Cover for BröselMaschine" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1971</td>
-      <td>BröselMaschine</td>
-      <td>BröselMaschine</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>90</td>
-      <td>
-          <img src="https://i.discogs.com/JYM_9lsEnaqHbFKEKicgJB39EkX-Y1_5P-WNCmr76QA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTE4/NzMtMTI3MTY4MDQ1/OC5qcGVn.jpeg" alt="Cover for Fresh Maggots" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1971</td>
-      <td>Fresh Maggots</td>
-      <td>Fresh Maggots</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>24</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/20664dc047fc359350a148b6335b92c4.png" alt="Cover for Long Orme" style="max-width:120px; height:auto;" />
       </td>
@@ -284,7 +284,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>23</td>
       <td>
       </td>
       <td>1977</td>
@@ -303,7 +303,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/bdo62NEoSSAH6Y5H4cl9WHqCgRIPZYEAdnZ0VE9DNec/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDEx/NDAtMTUxMDMxNzQ5/NS05NDg0LmpwZWc.jpeg" alt="Cover for 無残の美" style="max-width:120px; height:auto;" />
       </td>
@@ -321,7 +321,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
       </td>
       <td>1994</td>
@@ -339,7 +339,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/VxJXDRBvw1leIgTk2oY-7v0k9QZFb-b986xJEa0jo2I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTU4/NzctMTUyNDE0OTM4/Mi0yNzU4LmpwZWc.jpeg" alt="Cover for Steve Warner" style="max-width:120px; height:auto;" />
       </td>
@@ -358,7 +358,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/MpqLfHVGj6CcoYnQXPyFKW0pmnrLLO_C2p5-7QEGEy8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTg2/ODItMTI3OTM2MjU2/NC5qcGVn.jpeg" alt="Cover for Brainwashing and Heartists Blue Life Stripes" style="max-width:120px; height:auto;" />
       </td>
@@ -379,7 +379,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
       </td>
       <td>1998</td>
@@ -400,7 +400,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/20ee633c3c334b34822304a915885b8d.png" alt="Cover for Daytrotter Session - 8&#x2F;10&#x2F;2009" style="max-width:120px; height:auto;" />
       </td>
@@ -421,7 +421,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
       </td>
       <td>1999</td>
@@ -437,12 +437,12 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 36</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/176b35ee6b254448a009adbee13c1826.png" alt="Cover for Peter Bursch und die Bröselmaschine" style="max-width:120px; height:auto;" />
       </td>
@@ -462,7 +462,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/BFnoNTsz8DdBHHnEUHVY4d5kXsWmoBJruJ_v6u3rRJo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTg4/NDUtMTI3OTM2MTcw/NS5qcGVn.jpeg" alt="Cover for Don&#39;t Just Sit There...Fly" style="max-width:120px; height:auto;" />
       </td>
@@ -482,7 +482,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/XG0WHJpwvadYFJ6swsjsutV4GfZHQfg43BvwXl_CYV8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDEx/Ni0wMDEuanBn.jpeg" alt="Cover for Hypno (Live @ Zokol feat Aliska Bereg) 2006" style="max-width:120px; height:auto;" />
       </td>
@@ -511,14 +511,14 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-electronic" | relative_url }}">alternative electronic</a> # 66</li>
+            <li> <a href="{{ "/tags/trip" | relative_url }}">trip</a> # 15</li>
+            <li> <a href="{{ "/tags/alternative-electronic" | relative_url }}">alternative electronic</a> # 33</li>
             <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 68</li>
-            <li> <a href="{{ "/tags/trip" | relative_url }}">trip</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/ttSygjSr43Ax0CLENsBPpYJGWspMIJFGyNEA_bCt37Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDIy/OTU2LTE1NzQyMzA5/OTgtNjU2MS5qcGVn.jpeg" alt="Cover for pope john paul the third" style="max-width:120px; height:auto;" />
       </td>
@@ -545,17 +545,17 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 22</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 33</li>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 49</li>
-            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 54</li>
+            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 47</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 52</li>
             <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 62</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 67</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 79</li>
             <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/42a00e7f7594f00afa6a0c9d4e1f46df.png" alt="Cover for Лет Ит Би" style="max-width:120px; height:auto;" />
       </td>
@@ -575,7 +575,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>85</td>
       <td>
       </td>
       <td>2002-05</td>
@@ -595,7 +595,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e8b670ca2fefe8360d888b7be97f8fe4.png" alt="Cover for Glastonbury Carol" style="max-width:120px; height:auto;" />
       </td>
@@ -612,12 +612,12 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a> # 17</li>
+            <li> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/vIH_KxgYUhR8XWZ8jG18Cfm-YjyEpPlmEHk7ihYTb0E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzc3/MTE1LTE2NDI0NDA0/MjgtMzMxNy5qcGVn.jpeg" alt="Cover for Origins And Primitives Vol. 2" style="max-width:120px; height:auto;" />
       </td>
@@ -636,7 +636,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
       </td>
       <td>2004</td>
@@ -654,7 +654,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/s30J-2BA6VvW4JuJGARcte-mU51OxBFPLl0EOwCGqRw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NDc2/OTYtMTMzODc2Mjkx/My0xOTE1LmpwZWc.jpeg" alt="Cover for Music From Living On The Earth" style="max-width:120px; height:auto;" />
       </td>
@@ -673,7 +673,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0109ad7d92534f14798281f676be202e.png" alt="Cover for The Weed Tree" style="max-width:120px; height:auto;" />
       </td>
@@ -691,7 +691,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/bRnZDKRA-24-EEcz8-cD1T0d-uOJtfQHx3srlLCl0mQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODk5/MjItMTQxOTE4MjY2/My0xNTI4LmpwZWc.jpeg" alt="Cover for Fresh Maggots....Hatched" style="max-width:120px; height:auto;" />
       </td>
@@ -709,7 +709,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/JLKAw-D69raC1UzfJ6PjJLZKo9G7qkV2CMdda7RxXO0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDU3/NzAtMTIzODE4MDA3/MC5qcGVn.jpeg" alt="Cover for The Transit Rider" style="max-width:120px; height:auto;" />
       </td>
@@ -727,7 +727,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/ZKpHXNFYqD93kILe0-Us1e-prAKNoC-Y_gc61WBHz7I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDgw/ODItMTI3NTkwMDkw/NS5qcGVn.jpeg" alt="Cover for Incógnita Alquimia" style="max-width:120px; height:auto;" />
       </td>
@@ -749,16 +749,16 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 6</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 20</li>
+            <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 23</li>
+            <li> <a href="{{ "/tags/portuguese" | relative_url }}">portuguese</a> # 30</li>
             <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 54</li>
-            <li> <a href="{{ "/tags/portuguese" | relative_url }}">portuguese</a> # 71</li>
-            <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 78</li>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 81</li>
-            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/992e316750ff9ba0619d37e16b2e1c96.png" alt="Cover for 東京では少女歌手なんて" style="max-width:120px; height:auto;" />
       </td>
@@ -774,12 +774,12 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 20</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ea375c574ba04e09bbe3d19cc562d392.png" alt="Cover for いちにちのながさを、はなうたできめる。" style="max-width:120px; height:auto;" />
       </td>
@@ -805,12 +805,12 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 76</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 25</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>82</td>
       <td>
       </td>
       <td>2008-09-23</td>
@@ -838,7 +838,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/FPyEB632KCYyTANxvI6M5ERz5wZwmb-VmBDJ5W6TBeQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTk1/MTktMTMwNjMzMDI4/Ni5qcGVn.jpeg" alt="Cover for Caves Of Holy Light" style="max-width:120px; height:auto;" />
       </td>
@@ -858,7 +858,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>94</td>
       <td>
           <img src="https://i.discogs.com/HW14VQKmpAkIKawWtRM55k_ZzF0WM39MetWNrtj0sMg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMTQ5/MzUtMTM5MTkyMjM4/Ny01NTM5LmpwZWc.jpeg" alt="Cover for Pagan Folk und Apocalyptic Psychedelia, Kapitel II" style="max-width:120px; height:auto;" />
       </td>
@@ -875,7 +875,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1e203f684e2524d08df7818536bc0c33.png" alt="Cover for Gold Miner&#39;s Daughters" style="max-width:120px; height:auto;" />
       </td>
@@ -899,7 +899,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/925d23f899034e83b87817b09c1c1aa5.png" alt="Cover for Harmonium" style="max-width:120px; height:auto;" />
       </td>
@@ -917,7 +917,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/_28qNBq80jXaCB9be07Iwd0aoLxBcQq9oVYWQJeMKWA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTI4/OTQtMTI3ODk3MDEz/MS5wbmc.jpeg" alt="Cover for Floppy Disk" style="max-width:120px; height:auto;" />
       </td>
@@ -932,11 +932,12 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/chamber-rock" | relative_url }}">chamber rock</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>97</td>
       <td>
       </td>
       <td>2009-07</td>
@@ -955,7 +956,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/Jl31DwruXbnZmveW3NfY94U1zG9vdbr_vQz0kIpLUJY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTA4/MTUyLTE2MDA3NjMx/MjgtODIxNC5qcGVn.jpeg" alt="Cover for Almost all Real Songs!" style="max-width:120px; height:auto;" />
       </td>
@@ -978,7 +979,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/mVU2FMhwWTR-WHu4gQ23Gx2JpNdhQmNFfXm_YdPL_SQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NDE0/MzItMTUyNzAzMDU4/Mi00NDk1LmpwZWc.jpeg" alt="Cover for Hand of Doom EP" style="max-width:120px; height:auto;" />
       </td>
@@ -996,7 +997,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/615ec636dffb49bfc90b22088e90fa43.png" alt="Cover for Tidings" style="max-width:120px; height:auto;" />
       </td>
@@ -1014,7 +1015,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/yibIl6q3VttcKMcI5mzACxyQZDW5TJGz9lBS90lUmlw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzQy/NjMxLTE1NzI2MTE2/MjItNDQ1Ni5qcGVn.jpeg" alt="Cover for [LBN007] - Happy song is a happy song" style="max-width:120px; height:auto;" />
       </td>
@@ -1036,12 +1037,12 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 25</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b26ee9667d2e605409e28f67fe82f469.png" alt="Cover for Witchazel" style="max-width:120px; height:auto;" />
       </td>
@@ -1057,12 +1058,12 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 80</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 21</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>98</td>
       <td>
           <img src="https://i.discogs.com/9GqAVfxypToqJFB0yL1b-ovumepsxWgB72qtmdHsvng/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyODAx/MzYtMTM2MDU0MjA4/Ny0yODU2LmpwZWc.jpeg" alt="Cover for The Lecture Hall Recordings" style="max-width:120px; height:auto;" />
       </td>
@@ -1087,7 +1088,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/YcWhyF-fr_gss5HuvX0RkZWV9lqoxihnzBgjOSiCwcc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Njgw/MDAtMTY0MTU3NDI5/NS0zODA0LmpwZWc.jpeg" alt="Cover for Muzan No Bi" style="max-width:120px; height:auto;" />
       </td>
@@ -1105,7 +1106,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
       </td>
       <td>2012-04-03</td>
@@ -1124,7 +1125,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/10_zk7wbkgz5AbccXbh1NLUFAdlbdL4q960qfP97JbE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTI0/MTE0LTE1NDg0ODUw/ODgtMzY5Mi5qcGVn.jpeg" alt="Cover for Songs Of Protest And Anti-Protest (Digitally Remastered)" style="max-width:120px; height:auto;" />
       </td>
@@ -1142,7 +1143,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/TUILjsz2V2ZaKS1SBt02blVqtR-VZe2lcKU18MBlSV4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MDc1/NDAtMTQ4NTA5ODYw/Ny00MjA5LmpwZWc.jpeg" alt="Cover for Sister" style="max-width:120px; height:auto;" />
       </td>
@@ -1161,13 +1162,13 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 9</li>
-            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 23</li>
+            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 78</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/mDf7aS6Nm4GZDZH3Z0_UXU7wpMJLoiXYs_v0KFvk17w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMzA1/NzAtMTQ1NzU3MjY4/Mi03MjU0LmpwZWc.jpeg" alt="Cover for Anthology of rainbow fountains" style="max-width:120px; height:auto;" />
       </td>
@@ -1192,7 +1193,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>95</td>
       <td>
           <img src="https://i.discogs.com/SgdekpXauYc5uRdcJ5tKqqEhUSzdq8DQmiTj2seSt6E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MTM5/MTAtMTQwNjE3MjQ1/OC03NTE2LmpwZWc.jpeg" alt="Cover for Oktober Sound Lab" style="max-width:120px; height:auto;" />
       </td>
@@ -1240,7 +1241,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>92</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7dad532b31ef4aa79d8f67ac6b448abb.png" alt="Cover for Cosmic Shimmy Blues" style="max-width:120px; height:auto;" />
       </td>
@@ -1263,12 +1264,12 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 1</li>
+            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>89</td>
       <td>
           <img src="https://i.discogs.com/csWh_LJSULq1qOLfuMlsUhuVO3ErxIxoPJXysejX6Q0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNTY0/NDItMTM4ODg2ODQ3/MS01NDM0LmpwZWc.jpeg" alt="Cover for imitacija života" style="max-width:120px; height:auto;" />
       </td>
@@ -1290,7 +1291,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
       </td>
       <td>2014-01-23</td>
@@ -1306,7 +1307,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7337f09752e666ae32746978d5593597.png" alt="Cover for make tracks" style="max-width:120px; height:auto;" />
       </td>
@@ -1328,7 +1329,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/NjkibRqeJgphmStCS05eZ4-ZB9138nVhGLnwjok8IoU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNjQ5/NjUtMTQzNzE0OTMw/OC0yODUyLmpwZWc.jpeg" alt="Cover for Silence &amp; Tears" style="max-width:120px; height:auto;" />
       </td>
@@ -1346,7 +1347,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/lhX-W1l_V-vsmT28Pan0PZnka9LrooUJDUf7GKuQegw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNTI0/ODAtMTQ3OTIyNzc1/NS02MjU3LnBuZw.jpeg" alt="Cover for Within the Country of Falling Cherry Blossoms (Sakura No Kuni No Chiru Naka O&#39;)" style="max-width:120px; height:auto;" />
       </td>
@@ -1364,7 +1365,24 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>14</td>
+      <td>
+      </td>
+      <td>2019</td>
+      <td>Kikagaku Moyo</td>
+      <td>Masana Temples</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
       <td>
           <img src="https://i.discogs.com/3bVs0IVw6W0uWpGhIJGRpxPZcvNGt08rSh2Q_OcVdko/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDMz/MjcwLTE1NTQxMTgy/MDAtOTE4Ni5tcG8.jpeg" alt="Cover for Book Of Am Parts I~IV" style="max-width:120px; height:auto;" />
       </td>
@@ -1384,24 +1402,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>87</td>
-      <td>
-      </td>
-      <td>2019</td>
-      <td>Kikagaku Moyo</td>
-      <td>Masana Temples</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>52</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cde753f55cfa7024a6099540a8d88376.png" alt="Cover for Silent Spring" style="max-width:120px; height:auto;" />
       </td>
@@ -1420,7 +1421,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/aaaa1176ab5416172838db8188f43578.png" alt="Cover for In Memory Of A Summer Day" style="max-width:120px; height:auto;" />
       </td>
@@ -1438,7 +1439,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
       </td>
       <td>2020-01-13</td>
@@ -1455,12 +1456,12 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 28</li>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5819bb5d95d6306d0f79729e4eff9b1e.png" alt="Cover for Сон да не сон" style="max-width:120px; height:auto;" />
       </td>
@@ -1480,7 +1481,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b1711eb3449ca6aac770493e00f0ec5f.png" alt="Cover for My People Were Fair And Had Sky In Their Hair...But Now They&#39;re Content To Wear Stars On Their Brows (2014 Remaster &#x2F; Mono Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1502,7 +1503,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/835416b0e05caf1b488c62df8a44df98.png" alt="Cover for Prophets, Seers and Sages: The Angels of the Ages" style="max-width:120px; height:auto;" />
       </td>
@@ -1519,7 +1520,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6400f968f906ff1b48a4d502129c7a46.png" alt="Cover for Scary Aquarius Daughter" style="max-width:120px; height:auto;" />
       </td>
@@ -1541,120 +1542,41 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>22</td>
       <td>
       </td>
       <td></td>
-      <td>1800s Sea Monster</td>
-      <td>The 12 Ways To Grace The Stars</td>
+      <td>the Traveling Misanthrope Circus of Lunacy</td>
+      <td>this is bad for the children. (better dead than red)</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/diy" | relative_url }}">diy</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage" | relative_url }}">garage</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 4</li>
-            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 97</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>68</td>
-      <td>
-      </td>
-      <td></td>
-      <td>1800s Sea Monster</td>
-      <td>Day is Dying in the West (Unfinished EP)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/diy" | relative_url }}">diy</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage" | relative_url }}">garage</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 16</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>72</td>
-      <td>
-      </td>
-      <td></td>
-      <td>1800s Sea Monster</td>
-      <td>P.S. Do You Ever Wish You Could Breathe Underwater?</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/diy" | relative_url }}">diy</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage" | relative_url }}">garage</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 29</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>74</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Mike Garlington</td>
-      <td>Pope Culture!</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/humour" | relative_url }}">humour</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/parody" | relative_url }}">parody</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 5</li>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 72</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 84</li>
+            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 84</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 88</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/09fc4e66cc7b479c99f8c8b3ef45dda3.png" alt="Cover for PENTAGONIC" style="max-width:120px; height:auto;" />
       </td>
@@ -1685,253 +1607,12 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 7</li>
-            <li> <a href="{{ "/tags/doomgaze" | relative_url }}">doomgaze</a> # 28</li>
-            <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 52</li>
+            <li> <a href="{{ "/tags/dada" | relative_url }}">dada</a> # 12</li>
+            <li> <a href="{{ "/tags/noise-punk" | relative_url }}">noise punk</a> # 34</li>
+            <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 48</li>
             <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 54</li>
-            <li> <a href="{{ "/tags/noise-punk" | relative_url }}">noise punk</a> # 67</li>
-            <li> <a href="{{ "/tags/dada" | relative_url }}">dada</a> # 89</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>79</td>
-      <td>
-      </td>
-      <td></td>
-      <td>the Traveling Misanthrope Circus of Lunacy</td>
-      <td>this is bad for the children. (better dead than red)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/humour" | relative_url }}">humour</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/parody" | relative_url }}">parody</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 13</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 16</li>
-            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 17</li>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 88</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/558cc5c166e8c35040fc0f5a68fc1de5.png" alt="Cover for Nova In The Belly" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Plum Flower Embroidery</td>
-      <td>Nova In The Belly</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/db850553fda10357d011f1a0fc8c3372.png" alt="Cover for Curved Walls" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Curved Walls</td>
-      <td>Curved Walls</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d0297488f7f74c54b82c73d5ced07921.png" alt="Cover for Romeo Soy Atom" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Plum Flower Embroidery</td>
-      <td>Romeo Soy Atom</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>10</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/af6eeb59f4cf4209968c61670e082929.png" alt="Cover for Odd Socks &amp; A Nest" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Plum Flower Embroidery</td>
-      <td>Odd Socks &amp; A Nest</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>11</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Plum Flower Embroidery</td>
-      <td>Little Bird</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>13</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4e1b866118c78a6e19e1de130c9751da.png" alt="Cover for Transmissions From The Green Orchestra" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>electric mystical soul vibration</td>
-      <td>Transmissions From The Green Orchestra</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>15</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8baa0c5462384b3091658e829f63a07b.png" alt="Cover for Cleopatra" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Plum Flower Embroidery</td>
-      <td>Cleopatra</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>17</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/71db5bc2dde742debe60ed8887e02e0d.png" alt="Cover for 41" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Plum Flower Embroidery</td>
-      <td>41</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>18</td>
-      <td>
-      </td>
-      <td></td>
-      <td>友川かずき</td>
-      <td>Muzan no Bi</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>20</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Arkart</td>
-      <td>Arkart</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>22</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fbc989b332544b38b786992972f62f53.png" alt="Cover for Travelian Pets" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Plum Flower Embroidery</td>
-      <td>Travelian Pets</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
+            <li> <a href="{{ "/tags/doomgaze" | relative_url }}">doomgaze</a> # 71</li>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1940,16 +1621,25 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       <td>
       </td>
       <td></td>
-      <td>electric mystical soul vibration</td>
-      <td>Transmission From The Green Orchestra</td>
+      <td>Mike Garlington</td>
+      <td>Pope Culture!</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/humour" | relative_url }}">humour</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 72</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1958,53 +1648,122 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       <td>
       </td>
       <td></td>
-      <td>White Plum</td>
-      <td>Juice</td>
+      <td>1800s Sea Monster</td>
+      <td>P.S. Do You Ever Wish You Could Breathe Underwater?</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/diy" | relative_url }}">diy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage" | relative_url }}">garage</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c72592e364764994b0367173758f7f2a.png" alt="Cover for Island Nation" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>Plum Flower Embroidery</td>
-      <td>Island Nation</td>
+      <td>1800s Sea Monster</td>
+      <td>Day is Dying in the West (Unfinished EP)</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/diy" | relative_url }}">diy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage" | relative_url }}">garage</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>38</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c0b7e029f714819b8f0488bdcba083e.png" alt="Cover for 夢は日々元気に死んでゆく" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>1800s Sea Monster</td>
+      <td>The 12 Ways To Grace The Stars</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/diy" | relative_url }}">diy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage" | relative_url }}">garage</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 97</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Adam Beebe &#x2F; the Mundanes</td>
+      <td>I can&#39;t take care of myself.</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>
       </td>
       <td></td>
       <td>友川かずき</td>
-      <td>夢は日々元気に死んでゆく</td>
+      <td>海静か、魂は病み</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
         </ul>
       </td>
       <td>
@@ -2013,26 +1772,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>39</td>
-      <td>
-      </td>
-      <td></td>
-      <td>灰野敬二</td>
-      <td>まずは　色を無くそうか！！</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
       </td>
       <td></td>
@@ -2059,12 +1799,73 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>62</td>
       <td>
       </td>
       <td></td>
+      <td>灰野敬二</td>
+      <td>まずは　色を無くそうか！！</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c0b7e029f714819b8f0488bdcba083e.png" alt="Cover for 夢は日々元気に死んでゆく" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
       <td>友川かずき</td>
-      <td>海静か、魂は病み</td>
+      <td>夢は日々元気に死んでゆく</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c72592e364764994b0367173758f7f2a.png" alt="Cover for Island Nation" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Plum Flower Embroidery</td>
+      <td>Island Nation</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>
+      </td>
+      <td></td>
+      <td>White Plum</td>
+      <td>Juice</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a></li>
@@ -2076,23 +1877,223 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>74</td>
       <td>
       </td>
       <td></td>
-      <td>Adam Beebe &#x2F; the Mundanes</td>
-      <td>I can&#39;t take care of myself.</td>
+      <td>electric mystical soul vibration</td>
+      <td>Transmission From The Green Orchestra</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fbc989b332544b38b786992972f62f53.png" alt="Cover for Travelian Pets" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Plum Flower Embroidery</td>
+      <td>Travelian Pets</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Arkart</td>
+      <td>Arkart</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>
+      </td>
+      <td></td>
+      <td>友川かずき</td>
+      <td>Muzan no Bi</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/71db5bc2dde742debe60ed8887e02e0d.png" alt="Cover for 41" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Plum Flower Embroidery</td>
+      <td>41</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8baa0c5462384b3091658e829f63a07b.png" alt="Cover for Cleopatra" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Plum Flower Embroidery</td>
+      <td>Cleopatra</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4e1b866118c78a6e19e1de130c9751da.png" alt="Cover for Transmissions From The Green Orchestra" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>electric mystical soul vibration</td>
+      <td>Transmissions From The Green Orchestra</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Plum Flower Embroidery</td>
+      <td>Little Bird</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/af6eeb59f4cf4209968c61670e082929.png" alt="Cover for Odd Socks &amp; A Nest" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Plum Flower Embroidery</td>
+      <td>Odd Socks &amp; A Nest</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d0297488f7f74c54b82c73d5ced07921.png" alt="Cover for Romeo Soy Atom" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Plum Flower Embroidery</td>
+      <td>Romeo Soy Atom</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/db850553fda10357d011f1a0fc8c3372.png" alt="Cover for Curved Walls" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Curved Walls</td>
+      <td>Curved Walls</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/558cc5c166e8c35040fc0f5a68fc1de5.png" alt="Cover for Nova In The Belly" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Plum Flower Embroidery</td>
+      <td>Nova In The Belly</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
         </ul>
       </td>
       <td>
@@ -2119,13 +2120,12 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>53</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4dc82a2fd1004803ac6df1cc0438eb54.png" alt="Cover for The Boy, The Puppets &amp; The Tiger" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>Plum Flower Embroidery</td>
-      <td>The Boy, The Puppets &amp; The Tiger</td>
+      <td>灰野敬二</td>
+      <td>Next, Let&#39;s Try Changing the Shape</td>
       <td>
         <ul>
         </ul>
@@ -2136,23 +2136,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>25</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Bill Holt&#39;s Dreamies</td>
-      <td>Dreamies® 2006 Special Edition</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>37</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/180b06a4dfc8b29eb9e5a5debb2cdc58.png" alt="Cover for singles, unreleased and rarities" style="max-width:120px; height:auto;" />
       </td>
@@ -2169,12 +2153,29 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>76</td>
       <td>
       </td>
       <td></td>
-      <td>灰野敬二</td>
-      <td>Next, Let&#39;s Try Changing the Shape</td>
+      <td>Bill Holt&#39;s Dreamies</td>
+      <td>Dreamies® 2006 Special Edition</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4dc82a2fd1004803ac6df1cc0438eb54.png" alt="Cover for The Boy, The Puppets &amp; The Tiger" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Plum Flower Embroidery</td>
+      <td>The Boy, The Puppets &amp; The Tiger</td>
       <td>
         <ul>
         </ul>

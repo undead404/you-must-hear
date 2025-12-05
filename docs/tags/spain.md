@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T06:35:41.587Z
+date: 2025-12-05T12:43:13.762Z
 permalink: tags/spain
 title: spain
 ---
 
 ## spain
 
-Last updated: <time datetime="2025-12-03T06:35:41.587Z">Wed Dec 03 2025 08:35:41 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T12:43:13.762Z">Fri Dec 05 2025 14:43:13 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -42,10 +42,10 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 19</li>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 38</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 60</li>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 83</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 18</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 41</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 62</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -158,7 +158,7 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 76</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -181,8 +181,8 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautor" | relative_url }}">cantautor</a> # 53</li>
-            <li> <a href="{{ "/tags/trova" | relative_url }}">trova</a> # 63</li>
+            <li> <a href="{{ "/tags/trova" | relative_url }}">trova</a> # 37</li>
+            <li> <a href="{{ "/tags/cantautor" | relative_url }}">cantautor</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -239,7 +239,7 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mediterranean" | relative_url }}">mediterranean</a> # 95</li>
+            <li> <a href="{{ "/tags/mediterranean" | relative_url }}">mediterranean</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -265,7 +265,7 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a> # 42</li>
+            <li> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -304,7 +304,7 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 16</li>
+            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -378,7 +378,7 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spanish-guitar" | relative_url }}">spanish guitar</a> # 94</li>
+            <li> <a href="{{ "/tags/spanish-guitar" | relative_url }}">spanish guitar</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -477,7 +477,7 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 48</li>
+            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -500,7 +500,7 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a> # 39</li>
+            <li> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -541,7 +541,7 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/eurovision" | relative_url }}">eurovision</a> # 32</li>
+            <li> <a href="{{ "/tags/eurovision" | relative_url }}">eurovision</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -563,7 +563,7 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/eurovision" | relative_url }}">eurovision</a> # 24</li>
+            <li> <a href="{{ "/tags/eurovision" | relative_url }}">eurovision</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -622,8 +622,8 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/barcelona" | relative_url }}">barcelona</a> # 88</li>
-            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 89</li>
+            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 12</li>
+            <li> <a href="{{ "/tags/barcelona" | relative_url }}">barcelona</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -669,11 +669,11 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/peru" | relative_url }}">peru</a> # 14</li>
             <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 25</li>
-            <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 28</li>
-            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 43</li>
-            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 73</li>
-            <li> <a href="{{ "/tags/peru" | relative_url }}">peru</a> # 87</li>
+            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 27</li>
+            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 58</li>
+            <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -694,7 +694,7 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spanish-rock" | relative_url }}">spanish rock</a> # 51</li>
+            <li> <a href="{{ "/tags/spanish-rock" | relative_url }}">spanish rock</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -715,7 +715,7 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 77</li>
+            <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -752,7 +752,7 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 70</li>
+            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -810,7 +810,7 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 34</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -914,8 +914,8 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/barcelona" | relative_url }}">barcelona</a> # 6</li>
             <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 34</li>
-            <li> <a href="{{ "/tags/barcelona" | relative_url }}">barcelona</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -957,8 +957,8 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 5</li>
-            <li> <a href="{{ "/tags/buenos-aires" | relative_url }}">buenos aires</a> # 96</li>
+            <li> <a href="{{ "/tags/buenos-aires" | relative_url }}">buenos aires</a> # 4</li>
+            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 96</li>
             <li> <a href="{{ "/tags/broken-beat" | relative_url }}">broken beat</a> # 100</li>
         </ul>
       </td>
@@ -1080,7 +1080,7 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a> # 74</li>
+            <li> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1128,8 +1128,8 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 45</li>
-            <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 71</li>
+            <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 30</li>
+            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1248,8 +1248,8 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 59</li>
-            <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 81</li>
+            <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 20</li>
+            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1316,8 +1316,8 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 50</li>
-            <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 74</li>
+            <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 27</li>
+            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1396,9 +1396,9 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 8</li>
             <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 26</li>
             <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 64</li>
+            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 94</li>
             <li> <a href="{{ "/tags/svenskt" | relative_url }}">svenskt</a> # 97</li>
         </ul>
       </td>
@@ -1418,7 +1418,7 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/eurovision" | relative_url }}">eurovision</a> # 15</li>
+            <li> <a href="{{ "/tags/eurovision" | relative_url }}">eurovision</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1436,6 +1436,7 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-rock" | relative_url }}">ambient rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/barcelona" | relative_url }}">barcelona</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/catalan" | relative_url }}">catalan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber-rock" | relative_url }}">chamber rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/europe" | relative_url }}">europe</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/european" | relative_url }}">european</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a></li>
@@ -1446,9 +1447,10 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/catalan" | relative_url }}">catalan</a> # 48</li>
-            <li> <a href="{{ "/tags/ambient-rock" | relative_url }}">ambient rock</a> # 80</li>
-            <li> <a href="{{ "/tags/barcelona" | relative_url }}">barcelona</a> # 81</li>
+            <li> <a href="{{ "/tags/barcelona" | relative_url }}">barcelona</a> # 20</li>
+            <li> <a href="{{ "/tags/ambient-rock" | relative_url }}">ambient rock</a> # 21</li>
+            <li> <a href="{{ "/tags/chamber-rock" | relative_url }}">chamber rock</a> # 37</li>
+            <li> <a href="{{ "/tags/catalan" | relative_url }}">catalan</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1492,8 +1494,8 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 41</li>
-            <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 63</li>
+            <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 38</li>
+            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1520,7 +1522,7 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/galiza" | relative_url }}">galiza</a> # 91</li>
+            <li> <a href="{{ "/tags/galiza" | relative_url }}">galiza</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1560,7 +1562,7 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 37</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1700,8 +1702,8 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 8</li>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 11</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 90</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1815,7 +1817,7 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 85</li>
+            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1836,7 +1838,7 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 94</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -2033,11 +2035,11 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 36</li>
-            <li> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a> # 40</li>
-            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 48</li>
-            <li> <a href="{{ "/tags/ibiza" | relative_url }}">ibiza</a> # 68</li>
-            <li> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a> # 69</li>
+            <li> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a> # 32</li>
+            <li> <a href="{{ "/tags/ibiza" | relative_url }}">ibiza</a> # 33</li>
+            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 53</li>
+            <li> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a> # 61</li>
+            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 65</li>
             <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 80</li>
         </ul>
       </td>
@@ -2074,10 +2076,10 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/merengue" | relative_url }}">merengue</a> # 21</li>
-            <li> <a href="{{ "/tags/venezuela" | relative_url }}">venezuela</a> # 54</li>
-            <li> <a href="{{ "/tags/puerto-rico" | relative_url }}">puerto rico</a> # 67</li>
+            <li> <a href="{{ "/tags/puerto-rico" | relative_url }}">puerto rico</a> # 34</li>
+            <li> <a href="{{ "/tags/venezuela" | relative_url }}">venezuela</a> # 47</li>
             <li> <a href="{{ "/tags/bachata" | relative_url }}">bachata</a> # 74</li>
+            <li> <a href="{{ "/tags/merengue" | relative_url }}">merengue</a> # 80</li>
             <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 97</li>
         </ul>
       </td>
@@ -2095,9 +2097,10 @@ Music tagged as &quot;spain&quot; encompasses diverse sounds rooted in Spanish c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 25</li>
+            <li> <a href="{{ "/tags/arcade-fire" | relative_url }}">arcade fire</a> # 21</li>
+            <li> <a href="{{ "/tags/requiem" | relative_url }}">requiem</a> # 39</li>
             <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 53</li>
-            <li> <a href="{{ "/tags/requiem" | relative_url }}">requiem</a> # 62</li>
+            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 77</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 94</li>
         </ul>
       </td>

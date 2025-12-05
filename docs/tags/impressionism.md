@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T06:43:30.951Z
+date: 2025-12-05T12:47:21.136Z
 permalink: tags/impressionism
 title: impressionism
 ---
 
 ## impressionism
 
-Last updated: <time datetime="2025-12-03T06:43:30.951Z">Wed Dec 03 2025 08:43:30 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T12:47:21.136Z">Fri Dec 05 2025 14:47:21 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
   </thead>
   <tbody>
     <tr>
-      <td>13</td>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/ztF-D8S_SiIWYY3jMdWydkIA7llRDkJ6MAC5n1MJqLM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNzgx/NDgtMTQ5MDQ3MTcz/Ni0yMzIyLmpwZWc.jpeg" alt="Cover for Français Moderne Premieres 2 - Francis Poulenc, André Jolivet, Henri Sauguet, Charles Koechlin, Marcel Grandjany &amp; Ernest Guiraud" style="max-width:120px; height:auto;" />
       </td>
@@ -46,7 +46,7 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/Lt4mcoXKaRnxkFjeO6H24YDkhm79S5v5fDD4rsyhMv4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODM3/NzQzLTE2MTU3MjU4/MzgtMjU1OS5qcGVn.jpeg" alt="Cover for Mozart: Symphonies Nos. 36 &amp; 40 - Roussel: Symphony No. 3" style="max-width:120px; height:auto;" />
       </td>
@@ -66,7 +66,7 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/I7cLj50b3mtr88BdbTBC6Tz38zKEfQsS0CUlnsc1bE4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTIw/NjAyLTE1MjQ3Njg3/NDEtNDA2NC5qcGVn.jpeg" alt="Cover for Debussy: La Mer, Le Martyre de saint Sébastien" style="max-width:120px; height:auto;" />
       </td>
@@ -83,7 +83,7 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/VFl7A8F76sOmZfnJz8JtiuMKvOs3epLWj_5V7CLlpcc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyOTc5/OTctMTY3NDMzMTEy/MC02NDcwLmpwZWc.jpeg" alt="Cover for Walter Gieseking plays Debussy" style="max-width:120px; height:auto;" />
       </td>
@@ -101,7 +101,7 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/RolaCvPqL-QxlWeCeyD-CzKECJXqYNhgORbeFpuWdiM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzQy/NTE5LTE2MjUxNTY2/MTMtNDU1OC5qcGVn.jpeg" alt="Cover for Ravel: Complete Orchestral Works" style="max-width:120px; height:auto;" />
       </td>
@@ -120,43 +120,7 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
       </td>
     </tr>
     <tr>
-      <td>25</td>
-      <td>
-          <img src="https://i.discogs.com/Gd4zoSaZ3JHa76q8C5cvQu0RdzDIFxHAaZHvQKrWmk0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzc5/MjcwLTE2Nzc5Mzk4/OTEtOTkxNi5qcGVn.jpeg" alt="Cover for The Complete Works for Piano Vol. 1 (Gieseking)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1976</td>
-      <td>Claude Debussy</td>
-      <td>The Complete Works for Piano Vol. 1 (Gieseking)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>60</td>
-      <td>
-          <img src="https://i.discogs.com/19yvBNhPUQ2G9YN_NEhubGDcYGAIfGbES5cQPnned78/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTI4/MjUtMTMwNDY4NTY5/MS5qcGVn.jpeg" alt="Cover for Gnossiennes; Gymnopédies; Ogives; Trois Sarabandes; Petite ouverture à danser" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1976</td>
-      <td>Reinbert de Leeuw</td>
-      <td>Gnossiennes; Gymnopédies; Ogives; Trois Sarabandes; Petite ouverture à danser</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/19yvBNhPUQ2G9YN_NEhubGDcYGAIfGbES5cQPnned78/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTI4/MjUtMTMwNDY4NTY5/MS5qcGVn.jpeg" alt="Cover for Satie: Gnossiennes; Gymnopédies; Ogives; Trois Sarabandes; Petite ouverture à danser." style="max-width:120px; height:auto;" />
       </td>
@@ -174,7 +138,43 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>41</td>
+      <td>
+          <img src="https://i.discogs.com/19yvBNhPUQ2G9YN_NEhubGDcYGAIfGbES5cQPnned78/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTI4/MjUtMTMwNDY4NTY5/MS5qcGVn.jpeg" alt="Cover for Gnossiennes; Gymnopédies; Ogives; Trois Sarabandes; Petite ouverture à danser" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1976</td>
+      <td>Reinbert de Leeuw</td>
+      <td>Gnossiennes; Gymnopédies; Ogives; Trois Sarabandes; Petite ouverture à danser</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>
+          <img src="https://i.discogs.com/Gd4zoSaZ3JHa76q8C5cvQu0RdzDIFxHAaZHvQKrWmk0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzc5/MjcwLTE2Nzc5Mzk4/OTEtOTkxNi5qcGVn.jpeg" alt="Cover for The Complete Works for Piano Vol. 1 (Gieseking)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1976</td>
+      <td>Claude Debussy</td>
+      <td>The Complete Works for Piano Vol. 1 (Gieseking)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/DQVJmTg9BvbpF1VruTjmyJTQtt1Rs-BO0OR9hwnYeHo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjEw/MTEzLTE2MjcxNDcw/MjMtODI0Ny5qcGVn.jpeg" alt="Cover for Delius: Orchestral Works" style="max-width:120px; height:auto;" />
       </td>
@@ -195,7 +195,7 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/8qpqKUqwg5FUbe90dGz9vnx-Gg7BdnNRXxfHt5hIGqA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0ODM4/MTMtMTQ4NDAzODkx/Ni01NDU1LmpwZWc.jpeg" alt="Cover for Satie: The Complete Solo Piano Music" style="max-width:120px; height:auto;" />
       </td>
@@ -217,7 +217,7 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/gEaFvfHILh-Ul-m-tzbtcoaRIDqxknGzHZ2P5_dBpyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MzE4/MjUtMTQ0NzYyMTEz/NC0yNjY5LmpwZWc.jpeg" alt="Cover for Bax - Delius - Ireland" style="max-width:120px; height:auto;" />
       </td>
@@ -237,50 +237,7 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
       </td>
     </tr>
     <tr>
-      <td>30</td>
-      <td>
-          <img src="https://i.discogs.com/WkrkmFren-cmKA64Mw9dGNv-eqNE5f2kbW1kzmnV7ZY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Mjcz/NDQtMTUxMzE2NjQ3/NS01MDM0LmpwZWc.jpeg" alt="Cover for Erik Satie: 3 Gymnopédies &amp; Other Piano Works" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1984</td>
-      <td>Pascal Rogé</td>
-      <td>Erik Satie: 3 Gymnopédies &amp; Other Piano Works</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>42</td>
-      <td>
-          <img src="https://i.discogs.com/qarvfb3oBognJbLyPe9LaH4cEouxMJM_NdoCVyqb1e0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzYw/NDQtMTQ3MTQ3NjEx/My03NDA0LmpwZWc.jpeg" alt="Cover for Erik Satie: 3 Gymnopedies &amp; other piano works" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1984</td>
-      <td>Pascal Rogé</td>
-      <td>Erik Satie: 3 Gymnopedies &amp; other piano works</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/qarvfb3oBognJbLyPe9LaH4cEouxMJM_NdoCVyqb1e0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzYw/NDQtMTQ3MTQ3NjEx/My03NDA0LmpwZWc.jpeg" alt="Cover for Satie: 3 Gymnopédies &amp; other piano works" style="max-width:120px; height:auto;" />
       </td>
@@ -302,7 +259,50 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>59</td>
+      <td>
+          <img src="https://i.discogs.com/qarvfb3oBognJbLyPe9LaH4cEouxMJM_NdoCVyqb1e0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzYw/NDQtMTQ3MTQ3NjEx/My03NDA0LmpwZWc.jpeg" alt="Cover for Erik Satie: 3 Gymnopedies &amp; other piano works" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1984</td>
+      <td>Pascal Rogé</td>
+      <td>Erik Satie: 3 Gymnopedies &amp; other piano works</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>
+          <img src="https://i.discogs.com/WkrkmFren-cmKA64Mw9dGNv-eqNE5f2kbW1kzmnV7ZY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Mjcz/NDQtMTUxMzE2NjQ3/NS01MDM0LmpwZWc.jpeg" alt="Cover for Erik Satie: 3 Gymnopédies &amp; Other Piano Works" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1984</td>
+      <td>Pascal Rogé</td>
+      <td>Erik Satie: 3 Gymnopédies &amp; Other Piano Works</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/28db9f3fb04b92a6982eedb7f0df7733.png" alt="Cover for REALITY IN LOVE" style="max-width:120px; height:auto;" />
       </td>
@@ -321,7 +321,7 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/IWlOYzgHcsbxFd9MmiIx7Z3wtTjDkv0MsFwg2hagJNI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3ODQ4/Ni0xNjAxMTI3ODEw/LTMwMjcuanBlZw.jpeg" alt="Cover for Tenku" style="max-width:120px; height:auto;" />
       </td>
@@ -340,7 +340,7 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/wY72w7Un4G3Ir35pAHaiuicHOLfEvjhoYJULDgD2teU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODA1/MzQtMTI5MDI5MDEz/My5qcGVn.jpeg" alt="Cover for Satie Sonneries" style="max-width:120px; height:auto;" />
       </td>
@@ -359,26 +359,7 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
       </td>
     </tr>
     <tr>
-      <td>59</td>
-      <td>
-          <img src="https://i.discogs.com/QR7Q2E6GqEgzKu3KJK3T_VlsglchqV1910699Toepw0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDEw/NDA0LTE2Mzk5MzEy/MzYtMzQxNi5qcGVn.jpeg" alt="Cover for The Complete Solo Piano Music (Angela Hewitt)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1989</td>
-      <td>Maurice Ravel</td>
-      <td>The Complete Solo Piano Music (Angela Hewitt)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>62</td>
+      <td>39</td>
       <td>
       </td>
       <td>1989</td>
@@ -398,7 +379,26 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>42</td>
+      <td>
+          <img src="https://i.discogs.com/QR7Q2E6GqEgzKu3KJK3T_VlsglchqV1910699Toepw0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDEw/NDA0LTE2Mzk5MzEy/MzYtMzQxNi5qcGVn.jpeg" alt="Cover for The Complete Solo Piano Music (Angela Hewitt)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1989</td>
+      <td>Maurice Ravel</td>
+      <td>The Complete Solo Piano Music (Angela Hewitt)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/H7fd5reHQvAixGxYWNNsqWOnMrKn1EcYK9PKEPfC3F0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTUz/MTgxLTE1NTYzODg3/NTYtNTgwNi5qcGVn.jpeg" alt="Cover for Œuvres pour piano (Séléction)" style="max-width:120px; height:auto;" />
       </td>
@@ -418,7 +418,7 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3204a354417a6b862c40881f7c07cce1.png" alt="Cover for BAX: Symphonic Poems" style="max-width:120px; height:auto;" />
       </td>
@@ -437,7 +437,7 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
       </td>
       <td>1992-11-17</td>
@@ -453,25 +453,7 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
       </td>
     </tr>
     <tr>
-      <td>12</td>
-      <td>
-          <img src="https://i.discogs.com/HdHzRiwX7Qg-JL19YNP5NE6gI5CgEfElf_E4DdSzlyQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNjcz/MjYtMTQzNTIzMTc5/MC03OTcwLmpwZWc.jpeg" alt="Cover for Debussy: Piano Works Vol. 4" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1995</td>
-      <td>Claude Debussy</td>
-      <td>Debussy: Piano Works Vol. 4</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/fQ6KgTucD-ZrAp90fyQ9q8v9TW7r1NSBxjH4OtsOSTU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMjMx/NzYtMTQzNDIyOTgy/OC03Njc5LmpwZWc.jpeg" alt="Cover for Aprés la pluie" style="max-width:120px; height:auto;" />
       </td>
@@ -491,6 +473,24 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
     <tr>
       <td>89</td>
       <td>
+          <img src="https://i.discogs.com/HdHzRiwX7Qg-JL19YNP5NE6gI5CgEfElf_E4DdSzlyQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNjcz/MjYtMTQzNTIzMTc5/MC03OTcwLmpwZWc.jpeg" alt="Cover for Debussy: Piano Works Vol. 4" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995</td>
+      <td>Claude Debussy</td>
+      <td>Debussy: Piano Works Vol. 4</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>
           <img src="https://i.discogs.com/IZ07-D620ET__LepF0soKIuLFW2hW7wE5GtV3c9WNiY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5OTQ3/Mi0xNTkxMzc3MTE2/LTQ0OTguanBlZw.jpeg" alt="Cover for Satie: Gnossiennes, Gymnopédies, Etc." style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
@@ -506,7 +506,7 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
       </td>
       <td>1997</td>
@@ -523,26 +523,7 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
       </td>
     </tr>
     <tr>
-      <td>33</td>
-      <td>
-          <img src="https://i.discogs.com/yptgNWUMyg99pTKw4rzm131uNhvjrVL3xCdcKV5HWqI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NzYz/MDctMTQ4NjE4MTkw/NC02Nzk2LmpwZWc.jpeg" alt="Cover for Ravel: Piano Concertos; Valses nobles et sentimentales" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1998</td>
-      <td>Krystian Zimerman &#x2F; Pierre Boulez</td>
-      <td>Ravel: Piano Concertos; Valses nobles et sentimentales</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/dknX5eznXigP53Fs4LDNzylPTQ2piXyWtdP47UHag94/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MzAz/NzItMTMzNDc0NTIw/My5qcGVn.jpeg" alt="Cover for Sonatine" style="max-width:120px; height:auto;" />
       </td>
@@ -561,7 +542,26 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>68</td>
+      <td>
+          <img src="https://i.discogs.com/yptgNWUMyg99pTKw4rzm131uNhvjrVL3xCdcKV5HWqI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NzYz/MDctMTQ4NjE4MTkw/NC02Nzk2LmpwZWc.jpeg" alt="Cover for Ravel: Piano Concertos; Valses nobles et sentimentales" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>Krystian Zimerman &#x2F; Pierre Boulez</td>
+      <td>Ravel: Piano Concertos; Valses nobles et sentimentales</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/YI5jldOrAIr7YVRsn5CrrLkDWfPPtVqWoocTzVigQ7M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTIy/ODYwLTE1MTA4NzA0/NjUtNjU5MC5qcGVn.jpeg" alt="Cover for Gnossiennes; Gymnopédies; Ogives; Trois Sarabandes; Petite ouverture à danser" style="max-width:120px; height:auto;" />
       </td>
@@ -579,7 +579,7 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/s0Wk-FXoT2m7N0pYQsZipttQh9n0VwtfuohjcPr0rik/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTQ0/MDUwLTE2MzA5OTk0/NDktODE5Ni5qcGVn.jpeg" alt="Cover for Preludes - Volume 1" style="max-width:120px; height:auto;" />
       </td>
@@ -594,12 +594,12 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical-piano" | relative_url }}">classical piano</a> # 27</li>
+            <li> <a href="{{ "/tags/classical-piano" | relative_url }}">classical piano</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/wBs6WYgRBF_OVUVjLyiEmZkapsyo7Hm2d1QN0VwbVpI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTEy/Njc5LTE2Nzk1NTQ0/OTUtMzIyNi5qcGVn.jpeg" alt="Cover for The World Of Claude Debussy" style="max-width:120px; height:auto;" />
       </td>
@@ -617,7 +617,7 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/0yUFp5viinAL24-n1Ktbd4k4BSAn8-z50TZIiD-qXCU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODgw/NjctMTQ2ODc3Nzcw/OS04MTUxLmpwZWc.jpeg" alt="Cover for Debussy: The Composer as Pianist (1904, 1913)" style="max-width:120px; height:auto;" />
       </td>
@@ -634,7 +634,7 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
       </td>
       <td>1999-07-07</td>
@@ -653,7 +653,7 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/5pT9KjEvOknEzUzmm-7CFGarRbXk3JuLgIATU325Qyk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTQz/NDIwLTE1NDUwMjgz/MTktODAwMi5qcGVn.jpeg" alt="Cover for Música Callada (Henck)" style="max-width:120px; height:auto;" />
       </td>
@@ -671,7 +671,7 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/Q0bRNLdb-nPRcjP1G0_9PxBaBYHbg7ToBxRVBzGodIc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjI3/LTEyMzY5NDY4MDMu/anBlZw.jpeg" alt="Cover for Debussy: Preludes for Piano, Books I &amp; II" style="max-width:120px; height:auto;" />
       </td>
@@ -688,7 +688,7 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/47cc962d9f424a96b79212005d099c44.png" alt="Cover for Piano Collections: Final Fantasy VIII" style="max-width:120px; height:auto;" />
       </td>
@@ -711,26 +711,7 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
       </td>
     </tr>
     <tr>
-      <td>22</td>
-      <td>
-          <img src="https://i.discogs.com/nLpw88oMxEBxU6lqpra9wjvppdfPwwLmwmMkzaKqGzg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTY3/NjQ5LTE1NDU1MTE5/NTQtNzY3Ny5qcGVn.jpeg" alt="Cover for Ravel: Gaspard de la nuit" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2001</td>
-      <td>Joaquín Achúcarro</td>
-      <td>Ravel: Gaspard de la nuit</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spain" | relative_url }}">spain</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/JbJe6EU9tJjf4K7pheEO_pcts-Zbx_rOkeRjzRbbceQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDYw/MDQ0LTE2NTQzMTIx/OTctODY0MC5qcGVn.jpeg" alt="Cover for The Complete Piano Works" style="max-width:120px; height:auto;" />
       </td>
@@ -749,7 +730,26 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>79</td>
+      <td>
+          <img src="https://i.discogs.com/nLpw88oMxEBxU6lqpra9wjvppdfPwwLmwmMkzaKqGzg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTY3/NjQ5LTE1NDU1MTE5/NTQtNzY3Ny5qcGVn.jpeg" alt="Cover for Ravel: Gaspard de la nuit" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Joaquín Achúcarro</td>
+      <td>Ravel: Gaspard de la nuit</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spain" | relative_url }}">spain</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
       <td>
           <img src="https://i.discogs.com/Hgn-29rMih4UeyqnfNookbLyc6VnrY1DHqtbieXbmT4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTY3/ODA2LTE1MDAwNzA0/MzQtMzE1Mi5qcGVn.jpeg" alt="Cover for Poulenc: La Bal Masqué, Suite Française, Rapsodie Nègre, Le Bestiaire, Cocardes &amp; Aubade" style="max-width:120px; height:auto;" />
       </td>
@@ -762,12 +762,12 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 6</li>
+            <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/m-NzsoDSivSHlWL7zA1nOLIiJkJioso9KtZuvHoccbs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4ODg2/NDUtMTM3NzYyODc4/OC02NDcxLmpwZWc.jpeg" alt="Cover for Koechlin: Orchestral Works" style="max-width:120px; height:auto;" />
       </td>
@@ -786,7 +786,7 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/ZKVCQTv1fOGJVdPSMRdjsumNQZhpkCF33JfLlE-bmBY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDAw/Mjc5LTE2MTkwNDI3/NTctMzI5Mi5qcGVn.jpeg" alt="Cover for Debussy: The Solo Piano Works" style="max-width:120px; height:auto;" />
       </td>
@@ -803,31 +803,12 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musique-francaise" | relative_url }}">musique francaise</a> # 71</li>
+            <li> <a href="{{ "/tags/musique-francaise" | relative_url }}">musique francaise</a> # 30</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
-      <td>
-          <img src="https://i.discogs.com/hDu8D8XMhiYsOGyRQHzHSQXD8cfxj9i_Be22LD2XgtY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTA2/MTQ1LTE1NDQyNjM0/ODAtNjUyOS5qcGVn.jpeg" alt="Cover for Ravel: Boléro - Pavane pour une infante défunte - Daphnis et Chloë (2e Suite)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2005</td>
-      <td>Maurice Ravel</td>
-      <td>Ravel: Boléro - Pavane pour une infante défunte - Daphnis et Chloë (2e Suite)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/QJPRbtvT24IYpOaBnhT5H7KDhILjVm_y-N9ENv_Tm3c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1OTMz/ODQtMTQ4MzM0NzM5/OS02Mzg4LmpwZWc.jpeg" alt="Cover for Until Tomorrow Comes" style="max-width:120px; height:auto;" />
       </td>
@@ -856,6 +837,25 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
     <tr>
       <td>78</td>
       <td>
+          <img src="https://i.discogs.com/hDu8D8XMhiYsOGyRQHzHSQXD8cfxj9i_Be22LD2XgtY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTA2/MTQ1LTE1NDQyNjM0/ODAtNjUyOS5qcGVn.jpeg" alt="Cover for Ravel: Boléro - Pavane pour une infante défunte - Daphnis et Chloë (2e Suite)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>Maurice Ravel</td>
+      <td>Ravel: Boléro - Pavane pour une infante défunte - Daphnis et Chloë (2e Suite)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>
       </td>
       <td>2007</td>
       <td>Yo-Yo Ma</td>
@@ -871,7 +871,7 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
       </td>
       <td>2007-01-15</td>
@@ -889,12 +889,12 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 81</li>
+            <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 20</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/57gVEec7BaflvuVigXOACzp_23rH4t9RCm_X7u0hOF4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTQw/NjctMTIwNzE1OTUz/NC5qcGVn.jpeg" alt="Cover for Blue" style="max-width:120px; height:auto;" />
       </td>
@@ -912,7 +912,7 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
       </td>
       <td>2008</td>
@@ -934,13 +934,13 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 21</li>
-            <li> <a href="{{ "/tags/piano-solo" | relative_url }}">piano solo</a> # 32</li>
+            <li> <a href="{{ "/tags/piano-solo" | relative_url }}">piano solo</a> # 69</li>
+            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/yuor-SUJ6Kiq4Wvju1TLLAjWMzpgF8nQWQSqRULwIo0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzEx/MzQtMTI4MDEzNDY0/OS5qcGVn.jpeg" alt="Cover for Sky" style="max-width:120px; height:auto;" />
       </td>
@@ -971,17 +971,17 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/piano-solo" | relative_url }}">piano solo</a> # 15</li>
+            <li> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a> # 16</li>
             <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 21</li>
             <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 42</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 53</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 48</li>
             <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 81</li>
-            <li> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a> # 85</li>
-            <li> <a href="{{ "/tags/piano-solo" | relative_url }}">piano solo</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1268c86a0c32407b884340be30a51160.png" alt="Cover for Impressions" style="max-width:120px; height:auto;" />
       </td>
@@ -1005,33 +1005,13 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 9</li>
             <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 10</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
-      <td>
-          <img src="https://i.discogs.com/d6_SnzDZI-WlTUmxUkARklPPiu-e7vch5KCK17ICf_c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTEw/OTk2LTE2NTk3MjAw/MjctNTI3NS5qcGVn.jpeg" alt="Cover for Koechlin: Chamber Music" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2009</td>
-      <td>Florian Henschel</td>
-      <td>Koechlin: Chamber Music</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/clarinet" | relative_url }}">clarinet</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
       </td>
       <td>2009</td>
@@ -1052,7 +1032,27 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>80</td>
+      <td>
+          <img src="https://i.discogs.com/d6_SnzDZI-WlTUmxUkARklPPiu-e7vch5KCK17ICf_c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTEw/OTk2LTE2NTk3MjAw/MjctNTI3NS5qcGVn.jpeg" alt="Cover for Koechlin: Chamber Music" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Florian Henschel</td>
+      <td>Koechlin: Chamber Music</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/clarinet" | relative_url }}">clarinet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/g2R7oDmOZfsqZrBt3_2xzPrh0ilYgs1CPSlQZ3EWTAM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTg3/OTQtMTMwNjI4NzU5/MC5qcGVn.jpeg" alt="Cover for Mkuytdsfgh&#39;s Day" style="max-width:120px; height:auto;" />
       </td>
@@ -1071,35 +1071,7 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
       </td>
     </tr>
     <tr>
-      <td>46</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/63c0d75c59f0913fa459f850affb4158.png" alt="Cover for Стаккато" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2010-11-19</td>
-      <td>Herr Twiggs</td>
-      <td>Стаккато</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/composer" | relative_url }}">composer</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/949716c2aa2446b7b063d1ba94e090b8.png" alt="Cover for Lost (Demo)" style="max-width:120px; height:auto;" />
       </td>
@@ -1134,6 +1106,34 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
     <tr>
       <td>55</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/63c0d75c59f0913fa459f850affb4158.png" alt="Cover for Стаккато" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-11-19</td>
+      <td>Herr Twiggs</td>
+      <td>Стаккато</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/composer" | relative_url }}">composer</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3d1331a3e17ce948502daab84b37f05b.png" alt="Cover for Marzipan und Mutterfleisch" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-12-24</td>
@@ -1153,12 +1153,12 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a> # 28</li>
+            <li> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b9f87564f51e402c843e109a7021dc83.png" alt="Cover for Minecraft - Volume Alpha" style="max-width:120px; height:auto;" />
       </td>
@@ -1172,13 +1172,13 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 8</li>
             <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 12</li>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/F0X4g8EagXHaBl0wrrIUu1UPkZ5RnYzkpoVyz2j_JtM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNzMy/MTUtMTQ3Nzc0ODc4/Ni0xNzk1LmpwZWc.jpeg" alt="Cover for Untide" style="max-width:120px; height:auto;" />
       </td>
@@ -1197,7 +1197,7 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>2</td>
       <td>
       </td>
       <td>2014</td>
@@ -1214,7 +1214,7 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/gYlQoFdvvVv1EyRF8eZEVPt5dMlmlk4b-TJ8nYUoMuQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODM5/NzQwLTE1MjMyNjUz/NTYtNTIzNi5qcGVn.jpeg" alt="Cover for Boulanger: Hymne au soleil" style="max-width:120px; height:auto;" />
       </td>
@@ -1235,7 +1235,7 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/NV9jIssmMi7gisUfF_FGJnjweOFS25dRx2DN0GWWuh0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1MzYw/NDAtMTQ4MjI3ODUy/OC05NzQ4LmpwZWc.jpeg" alt="Cover for The Complete Ballets of Erik Satie (Maurice Abravanel, Utah Symphony Orchestra)" style="max-width:120px; height:auto;" />
       </td>
@@ -1252,7 +1252,7 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/te1cMW_3WyVYVwPoPZ2BMPA2ffKbCwAVrlmI7PH-1Dg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMzE0/MzctMTQzMjA4ODQ3/MC0zMjQzLmpwZWc.jpeg" alt="Cover for In Memoriam Lili Boulanger" style="max-width:120px; height:auto;" />
       </td>
@@ -1270,7 +1270,7 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/SpDOxQPy7TdsNnBYY5uWYkMBrZrA0_1LexbQSVJ9-hY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTc0/ODU0LTE1OTM4ODA1/MDUtNTQzNS5qcGVn.jpeg" alt="Cover for Koechlin: Chamber Music" style="max-width:120px; height:auto;" />
       </td>
@@ -1290,7 +1290,7 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/6-VJI8B_fZTf8t-txFRdTQngMMEQFnQ3FcO-c1wH9MQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODMy/NTYzLTE1NDcxNTY0/MDEtNzExNC5qcGVn.jpeg" alt="Cover for Koechlin: Chamber Music" style="max-width:120px; height:auto;" />
       </td>
@@ -1310,7 +1310,7 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>99</td>
       <td>
           <img src="https://i.discogs.com/hVrdYUih9S4xBJcadGDR0CjOROdKnyZBjVJ72hbJaTk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTg5/MjIyLTE2NDEyMjc3/OTAtNjk5NC5wbmc.jpeg" alt="Cover for La belle excentrique, en habit de cheval, morceau en forme de poire (1866-1925)" style="max-width:120px; height:auto;" />
       </td>
@@ -1327,7 +1327,7 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/C3Ge52RgNDSNCBCAR4JGWr2aQmjsy4BonhzLOHo3wek/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTMw/ODM5LTE1ODcwNzUx/OTMtNTE2Ni5qcGVn.jpeg" alt="Cover for Fauré: Requiem - Poulenc: Figure Humaine - Debussy: 3 Chansons" style="max-width:120px; height:auto;" />
       </td>
@@ -1346,13 +1346,13 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/requiem" | relative_url }}">requiem</a> # 1</li>
-            <li> <a href="{{ "/tags/mass" | relative_url }}">mass</a> # 65</li>
+            <li> <a href="{{ "/tags/mass" | relative_url }}">mass</a> # 36</li>
+            <li> <a href="{{ "/tags/requiem" | relative_url }}">requiem</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>94</td>
       <td>
           <img src="https://i.discogs.com/vODuaE9VPj8VMMuYJoNVLrhNwhhPzOnkFjc5cCEKmaY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjUy/MTU4LTE2MDYwMDg5/MTgtODg2OS5qcGVn.jpeg" alt="Cover for NO PLAYERS ONLINE" style="max-width:120px; height:auto;" />
       </td>
@@ -1371,7 +1371,7 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/WNR0KoJxn8dcOxyRLXE8-94xsbbmQonRypCFV_6IJas/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Mjg3/Nzg5LTE3MDMzNDk1/MzItOTg2OC5qcGVn.jpeg" alt="Cover for The Complete Works for Solo Guitar by Toru Takemitsu vol. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1392,7 +1392,7 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/dMtknRGaZr3qATDDgF-urteEC4Qrb1ioD22E094NpEg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDA3/NDU0LTE1OTEwMzE2/NzAtMjg4Ny5qcGVn.jpeg" alt="Cover for Debussy for Daydreaming: Music To Caress Your Innermost Thoughts" style="max-width:120px; height:auto;" />
       </td>
@@ -1410,7 +1410,79 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>22</td>
+      <td>
+          <img src="https://i.discogs.com/HdHzRiwX7Qg-JL19YNP5NE6gI5CgEfElf_E4DdSzlyQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNjcz/MjYtMTQzNTIzMTc5/MC03OTcwLmpwZWc.jpeg" alt="Cover for Debussy: Complete Works for Piano" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2024-02-23</td>
+      <td>Claude Debussy</td>
+      <td>Debussy: Complete Works for Piano</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>
+          <img src="https://i.discogs.com/HdHzRiwX7Qg-JL19YNP5NE6gI5CgEfElf_E4DdSzlyQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNjcz/MjYtMTQzNTIzMTc5/MC03OTcwLmpwZWc.jpeg" alt="Cover for Debussy: Piano Works Vol. 1" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2024-02-23</td>
+      <td>Claude Debussy</td>
+      <td>Debussy: Piano Works Vol. 1</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>
+          <img src="https://i.discogs.com/ibsVSPUmlFn0qvyvft7m19GdaeBNMv25sh0pKeZ3rSk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjM4/MzE4LTE1MzkxMDQx/MTQtMjI0Mi5qcGVn.jpeg" alt="Cover for Debussy: Clair De Lune &amp; Other Piano Works" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2024-02-23</td>
+      <td>Claude Debussy</td>
+      <td>Debussy: Clair De Lune &amp; Other Piano Works</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>
+          <img src="https://i.discogs.com/HdHzRiwX7Qg-JL19YNP5NE6gI5CgEfElf_E4DdSzlyQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNjcz/MjYtMTQzNTIzMTc5/MC03OTcwLmpwZWc.jpeg" alt="Cover for Debussy: Piano Works Vol. 2" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2024-02-23</td>
+      <td>Claude Debussy</td>
+      <td>Debussy: Piano Works Vol. 2</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/HdHzRiwX7Qg-JL19YNP5NE6gI5CgEfElf_E4DdSzlyQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNjcz/MjYtMTQzNTIzMTc5/MC03OTcwLmpwZWc.jpeg" alt="Cover for Debussy: Piano Works Vol. 3" style="max-width:120px; height:auto;" />
       </td>
@@ -1430,78 +1502,6 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
     <tr>
       <td>29</td>
       <td>
-          <img src="https://i.discogs.com/HdHzRiwX7Qg-JL19YNP5NE6gI5CgEfElf_E4DdSzlyQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNjcz/MjYtMTQzNTIzMTc5/MC03OTcwLmpwZWc.jpeg" alt="Cover for Debussy: Piano Works Vol. 2" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2024-02-23</td>
-      <td>Claude Debussy</td>
-      <td>Debussy: Piano Works Vol. 2</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>68</td>
-      <td>
-          <img src="https://i.discogs.com/ibsVSPUmlFn0qvyvft7m19GdaeBNMv25sh0pKeZ3rSk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjM4/MzE4LTE1MzkxMDQx/MTQtMjI0Mi5qcGVn.jpeg" alt="Cover for Debussy: Clair De Lune &amp; Other Piano Works" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2024-02-23</td>
-      <td>Claude Debussy</td>
-      <td>Debussy: Clair De Lune &amp; Other Piano Works</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>75</td>
-      <td>
-          <img src="https://i.discogs.com/HdHzRiwX7Qg-JL19YNP5NE6gI5CgEfElf_E4DdSzlyQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNjcz/MjYtMTQzNTIzMTc5/MC03OTcwLmpwZWc.jpeg" alt="Cover for Debussy: Piano Works Vol. 1" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2024-02-23</td>
-      <td>Claude Debussy</td>
-      <td>Debussy: Piano Works Vol. 1</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>79</td>
-      <td>
-          <img src="https://i.discogs.com/HdHzRiwX7Qg-JL19YNP5NE6gI5CgEfElf_E4DdSzlyQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNjcz/MjYtMTQzNTIzMTc5/MC03OTcwLmpwZWc.jpeg" alt="Cover for Debussy: Complete Works for Piano" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2024-02-23</td>
-      <td>Claude Debussy</td>
-      <td>Debussy: Complete Works for Piano</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>72</td>
-      <td>
       </td>
       <td>2024-02-23</td>
       <td>Claude Debussy</td>
@@ -1516,7 +1516,7 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>62</td>
       <td>
       </td>
       <td></td>
@@ -1534,103 +1534,7 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 37</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>
-      </td>
-      <td></td>
-      <td>菅野よう子</td>
-      <td>ゲーム音楽コンサート －ザ・ベスト・セレクション－</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>
-      </td>
-      <td></td>
-      <td>John Williams</td>
-      <td>The River (Music From The Motion Picture)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>
-      </td>
-      <td></td>
-      <td>平野義久</td>
-      <td>劇場版「遙かなる時空の中で 舞一夜」オリジナルサウンド・トラック</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>8</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Royal Concertgebouw Orchestra &amp; Bernard Haitink</td>
-      <td>Ravel: Orchestral Music - Boléro - Ma Mère l&#39;Oye</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballet" | relative_url }}">ballet</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>11</td>
-      <td>
-      </td>
-      <td></td>
-      <td>天野正道</td>
-      <td>Ruin Explorer Fam &amp; Ihrlie: Suite Symphonique 2</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
+            <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1639,13 +1543,11 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
       <td>
       </td>
       <td></td>
-      <td>Christine Simonin</td>
-      <td>Koechlin: Orchestral Works</td>
+      <td>Arturo Benedetti Michelangeli</td>
+      <td>Claude Debussy - Preludes Volume 2</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
         </ul>
       </td>
       <td>
@@ -1654,92 +1556,16 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>30</td>
       <td>
       </td>
       <td></td>
-      <td>天野正道</td>
-      <td>Ruin Explorer Fam &amp; Ihrlie: Suite Symphonique 1</td>
+      <td>岩田恭明</td>
+      <td>ゼルダの伝説 ブレス オブ ザ ワイルド オリジナルサウンドトラック</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>24</td>
-      <td>
-      </td>
-      <td></td>
-      <td>菅野よう子</td>
-      <td>劇場版 ∀ガンダム ― オリジナル・サウンドトラック</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>27</td>
-      <td>
-      </td>
-      <td></td>
-      <td>橋本一子</td>
-      <td>Rahxephon OST2</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>28</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Davidsan</td>
-      <td>幻想音風景</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>31</td>
-      <td>
-      </td>
-      <td></td>
-      <td>2 3 0 6</td>
-      <td>2306 - Music Inspired by C418&#39;s &#39;Minecraft - Volume Alpha&#39;</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a></li>
         </ul>
@@ -1754,8 +1580,8 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
       <td>
       </td>
       <td></td>
-      <td>菅野 よう子</td>
-      <td>NHK大河ドラマ「おんな城主 直虎」 音楽虎の巻 イチトラ</td>
+      <td>片岡真央</td>
+      <td>ゼルダの伝説 ブレス オブ ザ ワイルド オリジナルサウンドトラック</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
@@ -1769,65 +1595,29 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>45</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Wiener Philharmoniker</td>
+      <td>Debussy: Pelléas et Mélisande</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
       <td>
       </td>
       <td></td>
       <td>氷結幻想</td>
-      <td>幻想音風景</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>36</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Martino Tirimo</td>
-      <td>Debussy - 12 Etudes</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>37</td>
-      <td>
-      </td>
-      <td></td>
-      <td>浜渦正志</td>
-      <td>Pianoschlacht Live: Masashi Hamauzu Music Works</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>38</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Davidsan</td>
       <td>小さな夢へのアンダンテ</td>
       <td>
         <ul>
@@ -1841,15 +1631,16 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>53</td>
       <td>
       </td>
       <td></td>
-      <td>山下康介</td>
-      <td>ちはやふる オリジナル・サウンドトラック&amp;キャラクターソング集 第2首</td>
+      <td>浜渦正志</td>
+      <td>LIGHTNING RETURNS:FINAL FANTASY XIII オリジナル･サウンドトラック</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a></li>
         </ul>
@@ -1860,7 +1651,7 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad9410c64356efc108cea0e1a92f4a61.png" alt="Cover for Afterlight" style="max-width:120px; height:auto;" />
       </td>
@@ -1883,16 +1674,15 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>61</td>
       <td>
       </td>
       <td></td>
-      <td>浜渦正志</td>
-      <td>LIGHTNING RETURNS:FINAL FANTASY XIII オリジナル･サウンドトラック</td>
+      <td>山下康介</td>
+      <td>ちはやふる オリジナル・サウンドトラック&amp;キャラクターソング集 第2首</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a></li>
         </ul>
@@ -1903,11 +1693,11 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>63</td>
       <td>
       </td>
       <td></td>
-      <td>氷結幻想</td>
+      <td>Davidsan</td>
       <td>小さな夢へのアンダンテ</td>
       <td>
         <ul>
@@ -1921,30 +1711,12 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>64</td>
       <td>
       </td>
       <td></td>
-      <td>Wiener Philharmoniker</td>
-      <td>Debussy: Pelléas et Mélisande</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>69</td>
-      <td>
-      </td>
-      <td></td>
-      <td>片岡真央</td>
-      <td>ゼルダの伝説 ブレス オブ ザ ワイルド オリジナルサウンドトラック</td>
+      <td>浜渦正志</td>
+      <td>Pianoschlacht Live: Masashi Hamauzu Music Works</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
@@ -1958,18 +1730,148 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>65</td>
       <td>
       </td>
       <td></td>
-      <td>岩田恭明</td>
-      <td>ゼルダの伝説 ブレス オブ ザ ワイルド オリジナルサウンドトラック</td>
+      <td>Martino Tirimo</td>
+      <td>Debussy - 12 Etudes</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+      </td>
+      <td></td>
+      <td>氷結幻想</td>
+      <td>幻想音風景</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>
+      </td>
+      <td></td>
+      <td>菅野 よう子</td>
+      <td>NHK大河ドラマ「おんな城主 直虎」 音楽虎の巻 イチトラ</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>
+      </td>
+      <td></td>
+      <td>2 3 0 6</td>
+      <td>2306 - Music Inspired by C418&#39;s &#39;Minecraft - Volume Alpha&#39;</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Davidsan</td>
+      <td>幻想音風景</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>
+      </td>
+      <td></td>
+      <td>橋本一子</td>
+      <td>Rahxephon OST2</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>
+      </td>
+      <td></td>
+      <td>菅野よう子</td>
+      <td>劇場版 ∀ガンダム ― オリジナル・サウンドトラック</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+      </td>
+      <td></td>
+      <td>天野正道</td>
+      <td>Ruin Explorer Fam &amp; Ihrlie: Suite Symphonique 1</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a></li>
         </ul>
       </td>
       <td>
@@ -1982,11 +1884,13 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
       <td>
       </td>
       <td></td>
-      <td>Arturo Benedetti Michelangeli</td>
-      <td>Claude Debussy - Preludes Volume 2</td>
+      <td>Christine Simonin</td>
+      <td>Koechlin: Orchestral Works</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a></li>
         </ul>
       </td>
       <td>
@@ -1995,7 +1899,103 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>90</td>
+      <td>
+      </td>
+      <td></td>
+      <td>天野正道</td>
+      <td>Ruin Explorer Fam &amp; Ihrlie: Suite Symphonique 2</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Royal Concertgebouw Orchestra &amp; Bernard Haitink</td>
+      <td>Ravel: Orchestral Music - Boléro - Ma Mère l&#39;Oye</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballet" | relative_url }}">ballet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+      </td>
+      <td></td>
+      <td>平野義久</td>
+      <td>劇場版「遙かなる時空の中で 舞一夜」オリジナルサウンド・トラック</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>
+      </td>
+      <td></td>
+      <td>John Williams</td>
+      <td>The River (Music From The Motion Picture)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>
+      </td>
+      <td></td>
+      <td>菅野よう子</td>
+      <td>ゲーム音楽コンサート －ザ・ベスト・セレクション－</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
       <td>
       </td>
       <td></td>

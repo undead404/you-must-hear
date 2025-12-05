@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T06:50:27.456Z
+date: 2025-12-05T12:48:02.443Z
 permalink: tags/mambo
 title: mambo
 ---
 
 ## mambo
 
-Last updated: <time datetime="2025-12-03T06:50:27.456Z">Wed Dec 03 2025 08:50:27 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T12:48:02.443Z">Fri Dec 05 2025 14:48:02 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -46,7 +46,7 @@ Mambo is an energetic Cuban dance music genre that emerged in the 1940s, blendin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 77</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -106,7 +106,7 @@ Mambo is an energetic Cuban dance music genre that emerged in the 1940s, blendin
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/-Hi4CSgmNyu0z93ZnJ00bMeQ8NWV5_d11SIYfiY57zw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxOTE1/MDItMTQ3NjM4NDc2/NC0xNjQyLmpwZWc.jpeg" alt="Cover for Cuban Originals" style="max-width:120px; height:auto;" />
       </td>
@@ -161,9 +161,9 @@ Mambo is an energetic Cuban dance music genre that emerged in the 1940s, blendin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cuban" | relative_url }}">cuban</a> # 36</li>
+            <li> <a href="{{ "/tags/afro-cuban" | relative_url }}">afro-cuban</a> # 14</li>
             <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 64</li>
-            <li> <a href="{{ "/tags/afro-cuban" | relative_url }}">afro-cuban</a> # 87</li>
+            <li> <a href="{{ "/tags/cuban" | relative_url }}">cuban</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -227,9 +227,9 @@ Mambo is an energetic Cuban dance music genre that emerged in the 1940s, blendin
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/vibraphone" | relative_url }}">vibraphone</a> # 6</li>
+            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 10</li>
             <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 51</li>
-            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 91</li>
-            <li> <a href="{{ "/tags/vibraphone" | relative_url }}">vibraphone</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -270,7 +270,7 @@ Mambo is an energetic Cuban dance music genre that emerged in the 1940s, blendin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cuban" | relative_url }}">cuban</a> # 20</li>
+            <li> <a href="{{ "/tags/cuban" | relative_url }}">cuban</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -437,7 +437,7 @@ Mambo is an energetic Cuban dance music genre that emerged in the 1940s, blendin
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/atp3fG2tQWj1d46IpALDZjfVdD8M_76SXdodgkEm6Xc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MDc1/MDctMTQ4ODMyMTkw/MC0xMzc5LmpwZWc.jpeg" alt="Cover for The Most From Beny More" style="max-width:120px; height:auto;" />
       </td>
@@ -451,7 +451,7 @@ Mambo is an energetic Cuban dance music genre that emerged in the 1940s, blendin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 57</li>
+            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -471,7 +471,7 @@ Mambo is an energetic Cuban dance music genre that emerged in the 1940s, blendin
       <td>
         <ul>
             <li> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a> # 12</li>
-            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 83</li>
+            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -552,7 +552,7 @@ Mambo is an energetic Cuban dance music genre that emerged in the 1940s, blendin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/afro-cuban" | relative_url }}">afro-cuban</a> # 86</li>
+            <li> <a href="{{ "/tags/afro-cuban" | relative_url }}">afro-cuban</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -571,7 +571,7 @@ Mambo is an energetic Cuban dance music genre that emerged in the 1940s, blendin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/afro-cuban" | relative_url }}">afro-cuban</a> # 68</li>
+            <li> <a href="{{ "/tags/afro-cuban" | relative_url }}">afro-cuban</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -692,7 +692,7 @@ Mambo is an energetic Cuban dance music genre that emerged in the 1940s, blendin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a> # 56</li>
+            <li> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -748,7 +748,7 @@ Mambo is an energetic Cuban dance music genre that emerged in the 1940s, blendin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-jazz" | relative_url }}">piano jazz</a> # 86</li>
+            <li> <a href="{{ "/tags/piano-jazz" | relative_url }}">piano jazz</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -806,8 +806,8 @@ Mambo is an energetic Cuban dance music genre that emerged in the 1940s, blendin
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/cuban" | relative_url }}">cuban</a> # 23</li>
             <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 34</li>
-            <li> <a href="{{ "/tags/cuban" | relative_url }}">cuban</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -885,8 +885,8 @@ Mambo is an energetic Cuban dance music genre that emerged in the 1940s, blendin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 38</li>
-            <li> <a href="{{ "/tags/vibraphone" | relative_url }}">vibraphone</a> # 60</li>
+            <li> <a href="{{ "/tags/vibraphone" | relative_url }}">vibraphone</a> # 41</li>
+            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -904,7 +904,7 @@ Mambo is an energetic Cuban dance music genre that emerged in the 1940s, blendin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/afro-cuban" | relative_url }}">afro-cuban</a> # 73</li>
+            <li> <a href="{{ "/tags/afro-cuban" | relative_url }}">afro-cuban</a> # 28</li>
             <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 100</li>
         </ul>
       </td>
@@ -1066,10 +1066,10 @@ Mambo is an energetic Cuban dance music genre that emerged in the 1940s, blendin
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a> # 2</li>
+            <li> <a href="{{ "/tags/puerto-rico" | relative_url }}">puerto rico</a> # 14</li>
             <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 21</li>
             <li> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a> # 68</li>
-            <li> <a href="{{ "/tags/puerto-rico" | relative_url }}">puerto rico</a> # 87</li>
-            <li> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1176,7 +1176,7 @@ Mambo is an energetic Cuban dance music genre that emerged in the 1940s, blendin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vibraphone" | relative_url }}">vibraphone</a> # 14</li>
+            <li> <a href="{{ "/tags/vibraphone" | relative_url }}">vibraphone</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1198,8 +1198,8 @@ Mambo is an energetic Cuban dance music genre that emerged in the 1940s, blendin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cuban" | relative_url }}">cuban</a> # 42</li>
-            <li> <a href="{{ "/tags/afro-cuban" | relative_url }}">afro-cuban</a> # 89</li>
+            <li> <a href="{{ "/tags/afro-cuban" | relative_url }}">afro-cuban</a> # 12</li>
+            <li> <a href="{{ "/tags/cuban" | relative_url }}">cuban</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1218,7 +1218,7 @@ Mambo is an energetic Cuban dance music genre that emerged in the 1940s, blendin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 13</li>
+            <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1242,7 +1242,7 @@ Mambo is an energetic Cuban dance music genre that emerged in the 1940s, blendin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/afro-cuban" | relative_url }}">afro-cuban</a> # 61</li>
+            <li> <a href="{{ "/tags/afro-cuban" | relative_url }}">afro-cuban</a> # 40</li>
             <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 70</li>
         </ul>
       </td>
@@ -1464,7 +1464,7 @@ Mambo is an energetic Cuban dance music genre that emerged in the 1940s, blendin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 10</li>
+            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1486,7 +1486,7 @@ Mambo is an energetic Cuban dance music genre that emerged in the 1940s, blendin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/afro-cuban" | relative_url }}">afro-cuban</a> # 81</li>
+            <li> <a href="{{ "/tags/afro-cuban" | relative_url }}">afro-cuban</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1507,7 +1507,7 @@ Mambo is an energetic Cuban dance music genre that emerged in the 1940s, blendin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 59</li>
+            <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1767,7 +1767,7 @@ Mambo is an energetic Cuban dance music genre that emerged in the 1940s, blendin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/afro-cuban" | relative_url }}">afro-cuban</a> # 91</li>
+            <li> <a href="{{ "/tags/afro-cuban" | relative_url }}">afro-cuban</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1806,8 +1806,8 @@ Mambo is an energetic Cuban dance music genre that emerged in the 1940s, blendin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/merengue" | relative_url }}">merengue</a> # 79</li>
-            <li> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a> # 93</li>
+            <li> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a> # 8</li>
+            <li> <a href="{{ "/tags/merengue" | relative_url }}">merengue</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1862,7 +1862,7 @@ Mambo is an energetic Cuban dance music genre that emerged in the 1940s, blendin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/afro-cuban" | relative_url }}">afro-cuban</a> # 79</li>
+            <li> <a href="{{ "/tags/afro-cuban" | relative_url }}">afro-cuban</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1943,7 +1943,7 @@ Mambo is an energetic Cuban dance music genre that emerged in the 1940s, blendin
       <td>
         <ul>
             <li> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a> # 11</li>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 13</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1981,7 +1981,7 @@ Mambo is an energetic Cuban dance music genre that emerged in the 1940s, blendin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 80</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -2040,7 +2040,7 @@ Mambo is an energetic Cuban dance music genre that emerged in the 1940s, blendin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/horn" | relative_url }}">horn</a> # 73</li>
+            <li> <a href="{{ "/tags/horn" | relative_url }}">horn</a> # 28</li>
         </ul>
       </td>
     </tr>

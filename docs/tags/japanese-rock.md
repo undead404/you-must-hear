@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T06:42:49.772Z
+date: 2025-12-05T12:45:55.387Z
 permalink: tags/japanese-rock
 title: japanese rock
 ---
 
 ## japanese rock
 
-Last updated: <time datetime="2025-12-03T06:42:49.772Z">Wed Dec 03 2025 08:42:49 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T12:45:55.387Z">Fri Dec 05 2025 14:45:55 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -73,8 +73,8 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 48</li>
-            <li> <a href="{{ "/tags/asia" | relative_url }}">asia</a> # 51</li>
+            <li> <a href="{{ "/tags/asia" | relative_url }}">asia</a> # 50</li>
+            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -92,7 +92,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 89</li>
+            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -181,7 +181,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 27</li>
+            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -427,8 +427,8 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 20</li>
-            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 77</li>
+            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 24</li>
+            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -478,7 +478,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/punk-pop" | relative_url }}">punk pop</a> # 62</li>
+            <li> <a href="{{ "/tags/punk-pop" | relative_url }}">punk pop</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -792,7 +792,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 73</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -883,16 +883,16 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       <td>
         <ul>
             <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 9</li>
-            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 15</li>
+            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 13</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 20</li>
             <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 21</li>
-            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 37</li>
-            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 58</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 24</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 30</li>
+            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 30</li>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 43</li>
             <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 63</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 71</li>
-            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 71</li>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 77</li>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 81</li>
-            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 88</li>
+            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 64</li>
+            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 86</li>
             <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 96</li>
         </ul>
       </td>
@@ -954,7 +954,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       <td>
         <ul>
             <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 19</li>
-            <li> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a> # 56</li>
+            <li> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -976,7 +976,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 9</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1108,7 +1108,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 33</li>
+            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1136,10 +1136,10 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 12</li>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 15</li>
-            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 84</li>
-            <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 99</li>
+            <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 2</li>
+            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 17</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 86</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1160,7 +1160,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 13</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1239,7 +1239,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 60</li>
+            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1281,7 +1281,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 41</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1319,7 +1319,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 31</li>
+            <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1387,10 +1387,10 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 57</li>
-            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 74</li>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 94</li>
-            <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 95</li>
+            <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 6</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 7</li>
+            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 27</li>
+            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1413,7 +1413,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 63</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1434,7 +1434,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 87</li>
+            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1518,7 +1518,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 75</li>
+            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1560,7 +1560,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitar-rock" | relative_url }}">guitar rock</a> # 89</li>
+            <li> <a href="{{ "/tags/guitar-rock" | relative_url }}">guitar rock</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -1587,7 +1587,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 92</li>
+            <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1749,8 +1749,8 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 56</li>
-            <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 69</li>
+            <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 32</li>
+            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1810,8 +1810,8 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 56</li>
-            <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 84</li>
+            <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 17</li>
+            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1896,8 +1896,8 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 73</li>
-            <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 85</li>
+            <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 16</li>
+            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1924,7 +1924,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 58</li>
+            <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1996,7 +1996,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 22</li>
+            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -2017,9 +2017,9 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 49</li>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 52</li>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 57</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 44</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 49</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -2043,7 +2043,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 73</li>
+            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -2065,9 +2065,9 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 65</li>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 69</li>
-            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 74</li>
+            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 27</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 31</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -2088,7 +2088,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 75</li>
+            <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -2134,11 +2134,11 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       <td>
         <ul>
             <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 25</li>
-            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 26</li>
-            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 27</li>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 31</li>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 46</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 55</li>
             <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 63</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 70</li>
+            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 73</li>
+            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 74</li>
         </ul>
       </td>
     </tr>

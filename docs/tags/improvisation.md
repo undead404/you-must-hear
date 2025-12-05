@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T06:33:20.243Z
+date: 2025-12-05T12:40:55.848Z
 permalink: tags/improvisation
 title: improvisation
 ---
 
 ## improvisation
 
-Last updated: <time datetime="2025-12-03T06:33:20.243Z">Wed Dec 03 2025 08:33:20 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T12:40:55.848Z">Fri Dec 05 2025 14:40:55 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Improvisation refers to music created spontaneously in the moment rather than fr
   </thead>
   <tbody>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c5679b83f6f6762fe9b13e64299acfda.png" alt="Cover for Happy Moods" style="max-width:120px; height:auto;" />
       </td>
@@ -47,12 +47,12 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       <td>
         <ul>
             <li> <a href="{{ "/tags/cool-jazz" | relative_url }}">cool jazz</a> # 4</li>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 9</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/91de1d4487ba301d24bd00e4b419aa38.png" alt="Cover for Symphony for Improvisers (The Rudy Van Gelder Edition) [Remastered)" style="max-width:120px; height:auto;" />
       </td>
@@ -72,7 +72,7 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5c085d07e1dbe5bbf202e0bc8e91684a.png" alt="Cover for Bamboo" style="max-width:120px; height:auto;" />
       </td>
@@ -90,13 +90,13 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 34</li>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 49</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 52</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/nhSOqQAGxyLKtgqeZpEEvwu6cKlSd4-hxOMqH56Qfag/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDg2/MDctMTI0NDY5MTE4/MS5qcGVn.jpeg" alt="Cover for Transmigration Macabre" style="max-width:120px; height:auto;" />
       </td>
@@ -113,13 +113,13 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian-classical" | relative_url }}">indian classical</a> # 25</li>
-            <li> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a> # 61</li>
+            <li> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a> # 40</li>
+            <li> <a href="{{ "/tags/indian-classical" | relative_url }}">indian classical</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>53</td>
       <td>
       </td>
       <td>1974</td>
@@ -131,13 +131,13 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 31</li>
-            <li> <a href="{{ "/tags/jazz-trumpet" | relative_url }}">jazz trumpet</a> # 59</li>
+            <li> <a href="{{ "/tags/jazz-trumpet" | relative_url }}">jazz trumpet</a> # 42</li>
+            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b6fbfd1e3104d4882089401f089f314.png" alt="Cover for The Köln Concert" style="max-width:120px; height:auto;" />
       </td>
@@ -155,7 +155,7 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/n2Ek_WSDoVLpeS_tsDn04IWkwfHvvWmNx8vxchuD_oU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyOTU2/Ny0xNDQ5MDEwNTA3/LTU5OTAuanBlZw.jpeg" alt="Cover for Lower Lurum" style="max-width:120px; height:auto;" />
       </td>
@@ -173,7 +173,7 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/Hg7fylPpPP-WPyZur135QnonnjfMb-VoJ_069XvJR7U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjY2/NTEtMTMwNjAwMzgz/My5qcGVn.jpeg" alt="Cover for Mauro Pagani" style="max-width:120px; height:auto;" />
       </td>
@@ -192,7 +192,7 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/iN5kgpdqpYOp10FvATDGT-vCZTA1kRkLM5Y3f7vNs1w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2Njkz/My0xMjk1NDYyODE3/LmpwZWc.jpeg" alt="Cover for Joe&#39;s XMasage" style="max-width:120px; height:auto;" />
       </td>
@@ -222,7 +222,7 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
       </td>
       <td>1980</td>
@@ -236,12 +236,12 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electric-guitar" | relative_url }}">electric guitar</a> # 86</li>
+            <li> <a href="{{ "/tags/electric-guitar" | relative_url }}">electric guitar</a> # 15</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>81</td>
       <td>
       </td>
       <td>1980</td>
@@ -260,7 +260,7 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/6n9l4tB7nZu5Z8oc9mxMD7iktaYmesFzgtRFSkjWm4A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzUx/NDAtMTQ2NjE1MTM0/NC00NjU4LmpwZWc.jpeg" alt="Cover for Concerts" style="max-width:120px; height:auto;" />
       </td>
@@ -280,34 +280,13 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a> # 69</li>
-            <li> <a href="{{ "/tags/piano-solo" | relative_url }}">piano solo</a> # 73</li>
+            <li> <a href="{{ "/tags/piano-solo" | relative_url }}">piano solo</a> # 28</li>
+            <li> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
-      <td>
-      </td>
-      <td>1984</td>
-      <td>John Bayless</td>
-      <td>Bach Meets the Beatles</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano-solo" | relative_url }}">piano solo</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/piano-solo" | relative_url }}">piano solo</a> # 23</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>78</td>
+      <td>23</td>
       <td>
       </td>
       <td>1984</td>
@@ -328,7 +307,28 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>99</td>
+      <td>
+      </td>
+      <td>1984</td>
+      <td>John Bayless</td>
+      <td>Bach Meets the Beatles</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano-solo" | relative_url }}">piano solo</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/piano-solo" | relative_url }}">piano solo</a> # 78</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e6712256b8d04479892b0c34afdac160.png" alt="Cover for Zenhouse" style="max-width:120px; height:auto;" />
       </td>
@@ -354,13 +354,13 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 57</li>
+            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 44</li>
             <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/Vl3LJlTFVm87YvAvMmhiXmVKxVuqn6QbraC8UieL0PM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTMx/ODQ0LTE1OTMxMjA5/ODktMjc0Ny5qcGVn.jpeg" alt="Cover for Trance Archeology" style="max-width:120px; height:auto;" />
       </td>
@@ -376,13 +376,13 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 28</li>
             <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 47</li>
+            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/HiBKHe8f3wg_f9YpMYjP2WDiEMDrqDXpRp3Kq9uTqMo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNzMx/Ni0xNjQyMTczMjQ3/LTU3MTAuanBlZw.jpeg" alt="Cover for Bass" style="max-width:120px; height:auto;" />
       </td>
@@ -400,7 +400,7 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/VcOaJEQEbAPMidVfNALw06fsusOH6-igJcSyKHQYzjw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNzY5/OTEtMTM2MzI2NTUw/NS00OTk5LmpwZWc.jpeg" alt="Cover for Tokyo Invasion Volume 1" style="max-width:120px; height:auto;" />
       </td>
@@ -418,7 +418,7 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad2fdb5eb421522a2707236cac172ae3.png" alt="Cover for Nighthawks At The Diner (Remastered)" style="max-width:120px; height:auto;" />
       </td>
@@ -438,7 +438,7 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a55af845c89a4fcdb4e15c85e59d8b2f.png" alt="Cover for &#39;Round About Midnight (Legacy Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -460,7 +460,7 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/VatPIvuCIp9l_8YCaO0BOMYrHZqi8najqith3_cUJro/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTc0/NTQtMTI1ODgwNzkw/OC5qcGVn.jpeg" alt="Cover for The Moth and the Flame" style="max-width:120px; height:auto;" />
       </td>
@@ -478,7 +478,7 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/84eec79932bfdde9894583b3f3a97fbd.png" alt="Cover for Expression (Expanded Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -497,13 +497,13 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 4</li>
-            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 12</li>
+            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 89</li>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ce30dd590a983d196590eb430d27ace2.png" alt="Cover for Phenomena 256" style="max-width:120px; height:auto;" />
       </td>
@@ -527,7 +527,7 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>33</td>
       <td>
       </td>
       <td>1997</td>
@@ -541,12 +541,12 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 55</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 46</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
       </td>
       <td>1997</td>
@@ -563,7 +563,7 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/418a99fb31ad45ba8615d94ae2cb6bc7.png" alt="Cover for そらの庭" style="max-width:120px; height:auto;" />
       </td>
@@ -604,20 +604,20 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 12</li>
-            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 35</li>
-            <li> <a href="{{ "/tags/czech" | relative_url }}">czech</a> # 40</li>
-            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 56</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 58</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 25</li>
+            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 32</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 32</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 43</li>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 45</li>
+            <li> <a href="{{ "/tags/czech" | relative_url }}">czech</a> # 60</li>
+            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 66</li>
             <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 68</li>
-            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 69</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 69</li>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 76</li>
+            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7b189f7eef8b408f99362c89e32bbf05.png" alt="Cover for Metanoia" style="max-width:120px; height:auto;" />
       </td>
@@ -636,7 +636,7 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5256a5f064fc414eac93e1da1e4a5f9c.png" alt="Cover for Good Dog, Happy Man" style="max-width:120px; height:auto;" />
       </td>
@@ -649,13 +649,13 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/electric-guitar" | relative_url }}">electric guitar</a> # 2</li>
             <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 19</li>
-            <li> <a href="{{ "/tags/electric-guitar" | relative_url }}">electric guitar</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/ZISm5-PBJQr-jwtcPZDkvfCcTLfL32ZggJJ6XeR8KY0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODg5/Ni0xNDM3OTU5NzUz/LTI5NzMuanBlZw.jpeg" alt="Cover for Oah" style="max-width:120px; height:auto;" />
       </td>
@@ -674,7 +674,7 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
       </td>
       <td>1999-08-04</td>
@@ -691,7 +691,25 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>47</td>
+      <td>
+          <img src="https://i.discogs.com/u7Xw-EowNMTWEPYgM6f82GdR-YtdBhMGv39IRIntQ8o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NDA4/MC0xMTg4NDgwNjk5/LmpwZWc.jpeg" alt="Cover for In Bern" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999-11</td>
+      <td>Loren MazzaCane Connors &amp; Jim O&#39;Rourke</td>
+      <td>In Bern</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
       <td>
           <img src="https://i.discogs.com/EiouTZbqjZuCjiQ-5kLk9oqm0TFMNoDBUpegHWzGQic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDUz/NTAtMTI0OTkyMDc2/MS5qcGVn.jpeg" alt="Cover for Plays Standards" style="max-width:120px; height:auto;" />
       </td>
@@ -715,25 +733,7 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
     </tr>
     <tr>
-      <td>54</td>
-      <td>
-          <img src="https://i.discogs.com/u7Xw-EowNMTWEPYgM6f82GdR-YtdBhMGv39IRIntQ8o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NDA4/MC0xMTg4NDgwNjk5/LmpwZWc.jpeg" alt="Cover for In Bern" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1999-11</td>
-      <td>Loren MazzaCane Connors &amp; Jim O&#39;Rourke</td>
-      <td>In Bern</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>61</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/343b9a3ade1d622bfebc133be7421f70.png" alt="Cover for From a Summer to Another Summer" style="max-width:120px; height:auto;" />
       </td>
@@ -757,7 +757,7 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
       </td>
       <td>2000-05-24</td>
@@ -797,22 +797,22 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       <td>
         <ul>
             <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 6</li>
-            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 27</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 19</li>
+            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 22</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 24</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 28</li>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 38</li>
+            <li> <a href="{{ "/tags/czech" | relative_url }}">czech</a> # 42</li>
             <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 43</li>
-            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 50</li>
-            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 57</li>
-            <li> <a href="{{ "/tags/czech" | relative_url }}">czech</a> # 57</li>
-            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 62</li>
+            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 44</li>
+            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 51</li>
             <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 69</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 73</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 77</li>
-            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 79</li>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 82</li>
+            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/XG0WHJpwvadYFJ6swsjsutV4GfZHQfg43BvwXl_CYV8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDEx/Ni0wMDEuanBn.jpeg" alt="Cover for Hypno (Live @ Zokol feat Aliska Bereg) 2006" style="max-width:120px; height:auto;" />
       </td>
@@ -841,14 +841,14 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-electronic" | relative_url }}">alternative electronic</a> # 66</li>
-            <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 71</li>
-            <li> <a href="{{ "/tags/trip" | relative_url }}">trip</a> # 86</li>
+            <li> <a href="{{ "/tags/trip" | relative_url }}">trip</a> # 15</li>
+            <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 30</li>
+            <li> <a href="{{ "/tags/alternative-electronic" | relative_url }}">alternative electronic</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>78</td>
       <td>
       </td>
       <td>2001</td>
@@ -867,7 +867,7 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/98f07f53e4f98943a91ac9dc16d8296f.png" alt="Cover for Giant Steps (60th Anniversary Super Deluxe Edition) [2020 Remaster]" style="max-width:120px; height:auto;" />
       </td>
@@ -885,13 +885,13 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 80</li>
-            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 92</li>
+            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 9</li>
+            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 21</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/uO6QZFgVYjH9nb4fvC6mu0EsVQZ9JKxqEtHbiZnaK8Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDA1/NjQtMTM0NjQ5NzEw/NS0yMTQyLmpwZWc.jpeg" alt="Cover for All&#39; Improvviso: Ciaccone, Bergamasche, &amp; un po&#39; di Follie..." style="max-width:120px; height:auto;" />
       </td>
@@ -908,7 +908,7 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/oeyK7A_bADZwHPWTqfBc6Lw3b7FpBbRUkR49kfiB3bs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NDAy/MS0xMTI0OTYxMjI2/LmpwZw.jpeg" alt="Cover for 50th Birthday Celebration, Volume 3" style="max-width:120px; height:auto;" />
       </td>
@@ -925,7 +925,7 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
       </td>
       <td>2005-05-07</td>
@@ -948,7 +948,7 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>41</td>
       <td>
       </td>
       <td>2005-10-15</td>
@@ -966,7 +966,7 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b63c88b86320d98b2692b8a5d8f46514.png" alt="Cover for Sora No Uta" style="max-width:120px; height:auto;" />
       </td>
@@ -1012,28 +1012,27 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       <td>
         <ul>
             <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 9</li>
-            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 15</li>
-            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 37</li>
-            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 55</li>
-            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 58</li>
+            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 13</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 20</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 24</li>
+            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 30</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 30</li>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 43</li>
+            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 46</li>
             <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 63</li>
-            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 71</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 71</li>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 77</li>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 81</li>
-            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 88</li>
+            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 64</li>
+            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 86</li>
             <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>35</td>
       <td>
-          <img src="https://i.discogs.com/rVrJJOm1qHYaxohNJWO4K4hh_7TLz8kPjXeiIbNvBLc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MTA4/NTAtMTQ4NjY3OTIz/My01NTg3LmpwZWc.jpeg" alt="Cover for Na&#39;ama" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
-      <td>Amos Hoffman</td>
-      <td>Na&#39;ama</td>
+      <td>Rahim AlHaj</td>
+      <td>When the Soul Is Settled: Music of Iraq</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a></li>
@@ -1044,12 +1043,12 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oud" | relative_url }}">oud</a> # 44</li>
+            <li> <a href="{{ "/tags/oud" | relative_url }}">oud</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/aNFrtT1BC6KD7ZzXJHxZczJvkqag0OuzeeNV2bjSyRY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MTE2/My0xMTY1MzI5NTE2/LmdpZg.jpeg" alt="Cover for Orphan Tunes from the Mono Times" style="max-width:120px; height:auto;" />
       </td>
@@ -1076,18 +1075,19 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/concert" | relative_url }}">concert</a> # 51</li>
-            <li> <a href="{{ "/tags/barcelona" | relative_url }}">barcelona</a> # 73</li>
+            <li> <a href="{{ "/tags/barcelona" | relative_url }}">barcelona</a> # 28</li>
+            <li> <a href="{{ "/tags/concert" | relative_url }}">concert</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>87</td>
       <td>
+          <img src="https://i.discogs.com/rVrJJOm1qHYaxohNJWO4K4hh_7TLz8kPjXeiIbNvBLc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MTA4/NTAtMTQ4NjY3OTIz/My01NTg3LmpwZWc.jpeg" alt="Cover for Na&#39;ama" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
-      <td>Rahim AlHaj</td>
-      <td>When the Soul Is Settled: Music of Iraq</td>
+      <td>Amos Hoffman</td>
+      <td>Na&#39;ama</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a></li>
@@ -1098,31 +1098,12 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oud" | relative_url }}">oud</a> # 71</li>
+            <li> <a href="{{ "/tags/oud" | relative_url }}">oud</a> # 57</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
-      <td>
-          <img src="https://i.discogs.com/-NokyKxpI4XQg695DVFk0UdJeh1ZnE2ACghMuxdaYPM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjQz/ODg3LTE0OTQwMTcx/NDItOTg1NS5qcGVn.jpeg" alt="Cover for New Life" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2006</td>
-      <td>Julie Sassoon</td>
-      <td>New Life</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>71</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/0-Jxgpg3qI-3W33WPJvmg5E1QvDUozHFpBDoF4jiw7M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MTk2/ODEtMTQ4NjkzMDMw/NC01NDExLmpwZWc.jpeg" alt="Cover for Live 1971-1977" style="max-width:120px; height:auto;" />
       </td>
@@ -1141,7 +1122,26 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>94</td>
+      <td>
+          <img src="https://i.discogs.com/-NokyKxpI4XQg695DVFk0UdJeh1ZnE2ACghMuxdaYPM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjQz/ODg3LTE0OTQwMTcx/NDItOTg1NS5qcGVn.jpeg" alt="Cover for New Life" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Julie Sassoon</td>
+      <td>New Life</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f52a33fd6b48a3c08a9d0f29ce3b0fe7.png" alt="Cover for Imaginary Diseases" style="max-width:120px; height:auto;" />
       </td>
@@ -1161,7 +1161,25 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>70</td>
+      <td>
+          <img src="https://i.discogs.com/kNyNSO3vi41_LH1DAtpEEk24yIG-7m3nj5l-AqOlZuY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjkw/MTYtMTMyNjk4NzEx/OS5qcGVn.jpeg" alt="Cover for The Sugar Factory" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Fred Frith &amp; Evelyn Glennie</td>
+      <td>The Sugar Factory</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/UquauLFohL4yY9Hm2goAu0uQq4zDSY1aGXzsKx5f6po/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NjEw/NDItMTM0MzMxNzc3/Ni02NTkxLmpwZWc.jpeg" alt="Cover for Warehouse of Distant Dreams 2" style="max-width:120px; height:auto;" />
       </td>
@@ -1181,25 +1199,7 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
     </tr>
     <tr>
-      <td>31</td>
-      <td>
-          <img src="https://i.discogs.com/kNyNSO3vi41_LH1DAtpEEk24yIG-7m3nj5l-AqOlZuY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjkw/MTYtMTMyNjk4NzEx/OS5qcGVn.jpeg" alt="Cover for The Sugar Factory" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2007</td>
-      <td>Fred Frith &amp; Evelyn Glennie</td>
-      <td>The Sugar Factory</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>41</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/mLg2wcFb700tLch7wDjXEVmi742G4KLCq-Ck2D09vEQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA5/Nzk0LTE2NDk0Mzcw/NjMtNjM5NC5qcGVn.jpeg" alt="Cover for Namouche" style="max-width:120px; height:auto;" />
       </td>
@@ -1216,12 +1216,12 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 15</li>
+            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>34</td>
       <td>
       </td>
       <td>2008-01-23</td>
@@ -1262,20 +1262,20 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/czech" | relative_url }}">czech</a> # 5</li>
-            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 6</li>
-            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 10</li>
             <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 14</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 29</li>
-            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 36</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 52</li>
-            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 55</li>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 61</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 40</li>
+            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 45</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 49</li>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 64</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 72</li>
+            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 91</li>
+            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 95</li>
+            <li> <a href="{{ "/tags/czech" | relative_url }}">czech</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/c7wVSWlGT0aW6QKArXn3mcYNNdrWvjBpM6z5Lv4qDlw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDU4/ODQtMTUwNTMxMjA0/My0xMzI4LmpwZWc.jpeg" alt="Cover for LAB@RES - resamplervolumedue" style="max-width:120px; height:auto;" />
       </td>
@@ -1297,7 +1297,7 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>71</td>
       <td>
       </td>
       <td>2008-08-29</td>
@@ -1336,17 +1336,16 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 1</li>
-            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 13</li>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 17</li>
-            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 18</li>
             <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 30</li>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 39</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 62</li>
+            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 81</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 84</li>
+            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>98</td>
       <td>
           <img src="https://i.discogs.com/IlCxcRbQ4YaiasUN7SkGj9-GVJcqQw-bQFzfMBualcs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTc5/NDgtMTIzNzY2Mzk4/Ni5qcGVn.jpeg" alt="Cover for sonicbrat: Quiet Windows" style="max-width:120px; height:auto;" />
       </td>
@@ -1368,7 +1367,7 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9770694b0d0040379f550022da940448.png" alt="Cover for Alhambra Love Songs" style="max-width:120px; height:auto;" />
       </td>
@@ -1387,7 +1386,7 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>77</td>
       <td>
       </td>
       <td>2009-12-30</td>
@@ -1420,16 +1419,16 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 17</li>
+            <li> <a href="{{ "/tags/darkcore" | relative_url }}">darkcore</a> # 12</li>
+            <li> <a href="{{ "/tags/eai" | relative_url }}">eai</a> # 14</li>
             <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 32</li>
-            <li> <a href="{{ "/tags/louisiana" | relative_url }}">louisiana</a> # 40</li>
-            <li> <a href="{{ "/tags/eai" | relative_url }}">eai</a> # 87</li>
-            <li> <a href="{{ "/tags/darkcore" | relative_url }}">darkcore</a> # 89</li>
+            <li> <a href="{{ "/tags/louisiana" | relative_url }}">louisiana</a> # 61</li>
+            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>96</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b6d536241e64d7eb776bc6ad0ccb94b.png" alt="Cover for Verona" style="max-width:120px; height:auto;" />
       </td>
@@ -1448,7 +1447,7 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/1FaweVmt37T5l5zgC-N6iEbASSsaEyscs8AkFv68Eno/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NTgy/MzItMTM0NzEyNjg0/MS05NTAxLmpwZWc.jpeg" alt="Cover for Straight Ahead" style="max-width:120px; height:auto;" />
       </td>
@@ -1464,12 +1463,12 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 1</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/YAijZRE5k_3ifHgisrwxaC3ShhFwvO7HRJw8TMcWtrE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjA0/NjYtMTMwNDM4NDMx/NC5qcGVn.jpeg" alt="Cover for unreleased new recordings 2008" style="max-width:120px; height:auto;" />
       </td>
@@ -1489,7 +1488,7 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/R0t6Bha84gTtUH-t1qdwZ7Y4khm9uo7Zas_CpHn4OWI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDE5/NDYtMTMxMzAwNTc5/OS5qcGVn.jpeg" alt="Cover for Smarton trio + 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1508,7 +1507,7 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>75</td>
       <td>
       </td>
       <td>2011-08-13</td>
@@ -1543,13 +1542,13 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 5</li>
-            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 18</li>
+            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 83</li>
+            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/RZBOLZfe1J3APsD-qrBC2MMFo8Sa44cRNiAFUBD15xY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1NjIz/MjEtMTQ4Mjg2ODQ3/OS04NzIzLmpwZWc.jpeg" alt="Cover for Le chien déguisé en vache" style="max-width:120px; height:auto;" />
       </td>
@@ -1568,7 +1567,7 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>93</td>
       <td>
           <img src="https://i.discogs.com/sUddGZQO1Ufpz_rB5rojqvxnPEPDY9jh-J3qg_LBGVA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Njkw/NzctMTMzNTY0MzI2/Ni5qcGVn.jpeg" alt="Cover for Les Briktechniciens de l&#39;Infernal" style="max-width:120px; height:auto;" />
       </td>
@@ -1587,7 +1586,7 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/-hFgL3T0rUc7PkTVMJTwU3o-eCasfFJdJVeqXZaO_8c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MzA0/NTktMTQyMTM0OTI0/Ny00NzYxLmpwZWc.jpeg" alt="Cover for Discovery" style="max-width:120px; height:auto;" />
       </td>
@@ -1643,15 +1642,15 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 8</li>
-            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 13</li>
             <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 26</li>
+            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 87</li>
+            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 94</li>
             <li> <a href="{{ "/tags/svenskt" | relative_url }}">svenskt</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5aeb10a0eb303ca2ed2b980dc50442db.png" alt="Cover for Metanoia (Remastered)" style="max-width:120px; height:auto;" />
       </td>
@@ -1673,7 +1672,7 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>62</td>
       <td>
       </td>
       <td>2013-02-27</td>
@@ -1685,6 +1684,7 @@ Improvisation refers to music created spontaneously in the moment rather than fr
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/canada" | relative_url }}">canada</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber-rock" | relative_url }}">chamber rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duo" | relative_url }}">duo</a></li>
@@ -1699,15 +1699,16 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 41</li>
-            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 51</li>
-            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 86</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 15</li>
+            <li> <a href="{{ "/tags/chamber-rock" | relative_url }}">chamber rock</a> # 33</li>
+            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 50</li>
+            <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 59</li>
             <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>55</td>
       <td>
       </td>
       <td>2013-03-07</td>
@@ -1724,7 +1725,7 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/VztxH2QZOoyMAqKs2Gtk6hIa10FwwtGPcVVdoa18uZI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODc2/MTMtMTU1ODg0NjQx/Ni04MzM4LmpwZWc.jpeg" alt="Cover for Hacia aquellos bosques de inmensidad" style="max-width:120px; height:auto;" />
       </td>
@@ -1742,14 +1743,14 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/peru" | relative_url }}">peru</a> # 25</li>
-            <li> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a> # 56</li>
-            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 67</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 34</li>
+            <li> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a> # 45</li>
+            <li> <a href="{{ "/tags/peru" | relative_url }}">peru</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
       </td>
       <td>2013-08-24</td>
@@ -1767,7 +1768,7 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ff3e08d4c37c444cc4b197b85fa93c0f.png" alt="Cover for Follow The Path" style="max-width:120px; height:auto;" />
       </td>
@@ -1784,12 +1785,12 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 63</li>
+            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 38</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/dnN5eahuUjXsyNugiM_D-J8BOU4sMLwhpQiBSFhixJc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDAz/MTMtMTM2MTMxNTk1/Mi03Mzk1LmpwZWc.jpeg" alt="Cover for Sleeping Beauty (Expanded Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1807,14 +1808,14 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 87</li>
-            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 88</li>
-            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 95</li>
+            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 6</li>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 13</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 14</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e656794fb19eee16d7d3d0395916f039.png" alt="Cover for Savage Mode" style="max-width:120px; height:auto;" />
       </td>
@@ -1831,12 +1832,12 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 37</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/DsBYqZNkoYNs8--YVKcuGyz2cC3pMg0xX2nkZGsO7i4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODEz/NzItMTQzMjQ5NTEz/Ni04MjUxLmpwZWc.jpeg" alt="Cover for Chet Baker Sings: It Could Happen To You" style="max-width:120px; height:auto;" />
       </td>
@@ -1856,7 +1857,7 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d9919258d99f29f724809259f6badc2f.png" alt="Cover for Speak No Evil (Rudy Van Gelder Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1874,12 +1875,12 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 13</li>
+            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/ec0pkGo3daDPn8on8jcGzgeoH2dr__OZwstGb3Jvlkc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTQ3/MzIxLTE0OTk2NjQy/MDEtNjc5My5qcGVn.jpeg" alt="Cover for Rome" style="max-width:120px; height:auto;" />
       </td>
@@ -1898,7 +1899,7 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/bJMni9kN066pluM3qfif5QKuYDGmIIhSDLnZfrpXP9o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjg1/OTQyLTE1MTM0NDQy/NDUtNDIzMS5qcGVn.jpeg" alt="Cover for Exposure" style="max-width:120px; height:auto;" />
       </td>
@@ -1918,7 +1919,7 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c178ab4973f3af839c727d5f9a3deda.png" alt="Cover for Line Standing" style="max-width:120px; height:auto;" />
       </td>
@@ -1941,7 +1942,7 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/584703ec62147fcd1ea8ea5fba440c3a.png" alt="Cover for Stadium" style="max-width:120px; height:auto;" />
       </td>
@@ -1959,14 +1960,14 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 76</li>
-            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 79</li>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 87</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 14</li>
+            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 22</li>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 25</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/THy1yboCWaCQJwyWDbbil8bNQ-_RDg8hV_X8jqhkBlo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODU0/ODY2LTE1NjI2MzEx/NDAtMjc1Ny5qcGVn.jpeg" alt="Cover for More Arriving" style="max-width:120px; height:auto;" />
       </td>
@@ -1986,7 +1987,7 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/21303c752b66e68cb0cf95fd8d76be59.png" alt="Cover for Silver Ladders" style="max-width:120px; height:auto;" />
       </td>
@@ -2005,13 +2006,13 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       <td>
         <ul>
             <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 3</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 59</li>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 80</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 21</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ce2d6dd01b3da42dde99ffc71caad20d.png" alt="Cover for Where the Spirits Are" style="max-width:120px; height:auto;" />
       </td>
@@ -2035,13 +2036,13 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       <td>
         <ul>
             <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 9</li>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 18</li>
-            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 62</li>
+            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 39</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/91d0f003ed3bee5b4ca5f84c0bfbcb13.png" alt="Cover for The OZ Tapes" style="max-width:120px; height:auto;" />
       </td>
@@ -2059,14 +2060,14 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 13</li>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 30</li>
-            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 98</li>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 3</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 70</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a5f4ce467edc6d7a917e72a74c45b2ce.png" alt="Cover for Tense Surfaces" style="max-width:120px; height:auto;" />
       </td>
@@ -2090,14 +2091,14 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 19</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 26</li>
             <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 64</li>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 75</li>
-            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dae16d035635912b40d64eab43650c56.png" alt="Cover for Goodbye, Hotel Arkada" style="max-width:120px; height:auto;" />
       </td>
@@ -2115,7 +2116,7 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/7eqH-5WXoB7sdZiSsty0UAWvqW00H2fw_VLTsiT2jNc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODg0/MzY3LTE2NTc4MTYw/ODQtOTEwOC5qcGVn.jpeg" alt="Cover for Void Patrol" style="max-width:120px; height:auto;" />
       </td>
@@ -2139,7 +2140,7 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/CdIRT-TuyhqHljuQzUspG5UdKBY7AT47NPPbPrb9_Ns/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMTky/NS0xMTc2MTM5MjE1/LmpwZWc.jpeg" alt="Cover for Relic Once Lost" style="max-width:120px; height:auto;" />
       </td>
@@ -2172,13 +2173,13 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 13</li>
-            <li> <a href="{{ "/tags/eai" | relative_url }}">eai</a> # 84</li>
+            <li> <a href="{{ "/tags/eai" | relative_url }}">eai</a> # 17</li>
+            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>88</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/19ac73ec9c3b4be31b431b41935afb94.png" alt="Cover for The Key (Became the Important Thing [and Then Just Faded Away])" style="max-width:120px; height:auto;" />
       </td>
@@ -2195,139 +2196,94 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>42</td>
       <td>
       </td>
       <td></td>
-      <td>ZAILM Atoyanh</td>
-      <td>MOTHMAN</td>
+      <td>Michael Garlington</td>
+      <td>Baloney Pony!!!!!!</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dixieland" | relative_url }}">dixieland</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage" | relative_url }}">garage</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/norway" | relative_url }}">norway</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a> # 55</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>15</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Alchemorph Soundtracks</td>
-      <td>Improvisations</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ibiza" | relative_url }}">ibiza</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oboe" | relative_url }}">oboe</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/ibiza" | relative_url }}">ibiza</a> # 57</li>
-            <li> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a> # 62</li>
-            <li> <a href="{{ "/tags/oboe" | relative_url }}">oboe</a> # 85</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>18</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Zailm Atoyanh Group</td>
-      <td>Inside A Way Of Fuzyon</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-jazz" | relative_url }}">dark jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jam" | relative_url }}">jam</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/norway" | relative_url }}">norway</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-orleans" | relative_url }}">new orleans</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychobilly" | relative_url }}">psychobilly</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roots" | relative_url }}">roots</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a> # 58</li>
+            <li> <a href="{{ "/tags/dixieland" | relative_url }}">dixieland</a> # 22</li>
+            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 38</li>
+            <li> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a> # 52</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 53</li>
+            <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 77</li>
+            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 85</li>
+            <li> <a href="{{ "/tags/new-orleans" | relative_url }}">new orleans</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>54</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/09fc4e66cc7b479c99f8c8b3ef45dda3.png" alt="Cover for PENTAGONIC" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>Abdolvahab Shahidi</td>
-      <td>The Masters of Persian Traditional Music, Oud (Instrumental)</td>
+      <td>PENTAGONIC</td>
+      <td>PENTAGONIC</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a></li>
+            <li style="font-size: calc(1rem * 81.70731707317073 / 100)"> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a></li>
+            <li style="font-size: calc(1rem * 81.70731707317073 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
+            <li style="font-size: calc(1rem * 81.70731707317073 / 100)"> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a></li>
+            <li style="font-size: calc(1rem * 81.70731707317073 / 100)"> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a></li>
+            <li style="font-size: calc(1rem * 81.70731707317073 / 100)"> <a href="{{ "/tags/no-wave" | relative_url }}">no wave</a></li>
+            <li style="font-size: calc(1rem * 81.70731707317073 / 100)"> <a href="{{ "/tags/noise-punk" | relative_url }}">noise punk</a></li>
+            <li style="font-size: calc(1rem * 81.70731707317073 / 100)"> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a></li>
+            <li style="font-size: calc(1rem * 81.70731707317073 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+            <li style="font-size: calc(1rem * 81.70731707317073 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
+            <li style="font-size: calc(1rem * 81.70731707317073 / 100)"> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a></li>
+            <li style="font-size: calc(1rem * 81.70731707317073 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
+            <li style="font-size: calc(1rem * 81.70731707317073 / 100)"> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a></li>
+            <li style="font-size: calc(1rem * 64.63414634146342 / 100)"> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a></li>
+            <li style="font-size: calc(1rem * 64.63414634146342 / 100)"> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a></li>
+            <li style="font-size: calc(1rem * 64.63414634146342 / 100)"> <a href="{{ "/tags/dada" | relative_url }}">dada</a></li>
+            <li style="font-size: calc(1rem * 64.63414634146342 / 100)"> <a href="{{ "/tags/deathrock" | relative_url }}">deathrock</a></li>
+            <li style="font-size: calc(1rem * 64.63414634146342 / 100)"> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oud" | relative_url }}">oud</a> # 57</li>
+            <li> <a href="{{ "/tags/dada" | relative_url }}">dada</a> # 12</li>
+            <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 25</li>
+            <li> <a href="{{ "/tags/noise-punk" | relative_url }}">noise punk</a> # 34</li>
+            <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 48</li>
+            <li> <a href="{{ "/tags/doomgaze" | relative_url }}">doomgaze</a> # 71</li>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>35</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Khamis El Fino Ali</td>
-      <td>Music for the Classical Oud</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oud" | relative_url }}">oud</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/oud" | relative_url }}">oud</a> # 58</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>38</td>
+      <td>63</td>
       <td>
       </td>
       <td></td>
@@ -2367,117 +2323,161 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 9</li>
             <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 25</li>
-            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 26</li>
-            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 27</li>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 31</li>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 46</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 55</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 70</li>
+            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 73</li>
+            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 74</li>
+            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/09fc4e66cc7b479c99f8c8b3ef45dda3.png" alt="Cover for PENTAGONIC" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>PENTAGONIC</td>
-      <td>PENTAGONIC</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a></li>
-            <li style="font-size: calc(1rem * 81.70731707317073 / 100)"> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a></li>
-            <li style="font-size: calc(1rem * 81.70731707317073 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
-            <li style="font-size: calc(1rem * 81.70731707317073 / 100)"> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a></li>
-            <li style="font-size: calc(1rem * 81.70731707317073 / 100)"> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a></li>
-            <li style="font-size: calc(1rem * 81.70731707317073 / 100)"> <a href="{{ "/tags/no-wave" | relative_url }}">no wave</a></li>
-            <li style="font-size: calc(1rem * 81.70731707317073 / 100)"> <a href="{{ "/tags/noise-punk" | relative_url }}">noise punk</a></li>
-            <li style="font-size: calc(1rem * 81.70731707317073 / 100)"> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a></li>
-            <li style="font-size: calc(1rem * 81.70731707317073 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
-            <li style="font-size: calc(1rem * 81.70731707317073 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
-            <li style="font-size: calc(1rem * 81.70731707317073 / 100)"> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a></li>
-            <li style="font-size: calc(1rem * 81.70731707317073 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
-            <li style="font-size: calc(1rem * 81.70731707317073 / 100)"> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a></li>
-            <li style="font-size: calc(1rem * 64.63414634146342 / 100)"> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a></li>
-            <li style="font-size: calc(1rem * 64.63414634146342 / 100)"> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a></li>
-            <li style="font-size: calc(1rem * 64.63414634146342 / 100)"> <a href="{{ "/tags/dada" | relative_url }}">dada</a></li>
-            <li style="font-size: calc(1rem * 64.63414634146342 / 100)"> <a href="{{ "/tags/deathrock" | relative_url }}">deathrock</a></li>
-            <li style="font-size: calc(1rem * 64.63414634146342 / 100)"> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 7</li>
-            <li> <a href="{{ "/tags/doomgaze" | relative_url }}">doomgaze</a> # 28</li>
-            <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 52</li>
-            <li> <a href="{{ "/tags/noise-punk" | relative_url }}">noise punk</a> # 67</li>
-            <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 76</li>
-            <li> <a href="{{ "/tags/dada" | relative_url }}">dada</a> # 89</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>59</td>
+      <td>66</td>
       <td>
       </td>
       <td></td>
-      <td>Michael Garlington</td>
-      <td>Baloney Pony!!!!!!</td>
+      <td>Khamis El Fino Ali</td>
+      <td>Music for the Classical Oud</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dixieland" | relative_url }}">dixieland</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage" | relative_url }}">garage</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jam" | relative_url }}">jam</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oud" | relative_url }}">oud</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/oud" | relative_url }}">oud</a> # 43</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Abdolvahab Shahidi</td>
+      <td>The Masters of Persian Traditional Music, Oud (Instrumental)</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/oud" | relative_url }}">oud</a> # 44</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Zailm Atoyanh Group</td>
+      <td>Inside A Way Of Fuzyon</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-jazz" | relative_url }}">dark jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-orleans" | relative_url }}">new orleans</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychobilly" | relative_url }}">psychobilly</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roots" | relative_url }}">roots</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/norway" | relative_url }}">norway</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a> # 49</li>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 53</li>
-            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 63</li>
-            <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 77</li>
-            <li> <a href="{{ "/tags/dixieland" | relative_url }}">dixieland</a> # 79</li>
-            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 85</li>
-            <li> <a href="{{ "/tags/new-orleans" | relative_url }}">new orleans</a> # 89</li>
+            <li> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>86</td>
       <td>
       </td>
       <td></td>
-      <td>Jonathan H. Pollack</td>
-      <td>2007</td>
+      <td>Alchemorph Soundtracks</td>
+      <td>Improvisations</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ibiza" | relative_url }}">ibiza</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oboe" | relative_url }}">oboe</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/oboe" | relative_url }}">oboe</a> # 16</li>
+            <li> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a> # 39</li>
+            <li> <a href="{{ "/tags/ibiza" | relative_url }}">ibiza</a> # 44</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+      </td>
+      <td></td>
+      <td>ZAILM Atoyanh</td>
+      <td>MOTHMAN</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/norway" | relative_url }}">norway</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a> # 46</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3e16a1b10dc94cdbcc03cee836ee7359.png" alt="Cover for Moa Anbessa" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Getatchew Mekuria &amp; The Ex &amp; Guests</td>
+      <td>Moa Anbessa</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
         </ul>
       </td>
       <td>
@@ -2486,7 +2486,7 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>56</td>
       <td>
       </td>
       <td></td>
@@ -2509,19 +2509,20 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>100</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3e16a1b10dc94cdbcc03cee836ee7359.png" alt="Cover for Moa Anbessa" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>Getatchew Mekuria &amp; The Ex &amp; Guests</td>
-      <td>Moa Anbessa</td>
+      <td>Jonathan H. Pollack</td>
+      <td>2007</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
         </ul>
       </td>
       <td>
@@ -2530,7 +2531,7 @@ Improvisation refers to music created spontaneously in the moment rather than fr
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>82</td>
       <td>
       </td>
       <td></td>
