@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-25T22:16:11.288Z
+date: 2025-12-05T05:08:46.142Z
 permalink: tags/new-york-city
 title: new york city
 ---
 
 ## new york city
 
-Last updated: <time datetime="2025-11-25T22:16:11.288Z">Wed Nov 26 2025 00:16:11 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T05:08:46.142Z">Fri Dec 05 2025 07:08:46 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -217,9 +217,8 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 54</li>
-            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 83</li>
-            <li> <a href="{{ "/tags/straight-edge" | relative_url }}">straight edge</a> # 93</li>
+            <li> <a href="{{ "/tags/straight-edge" | relative_url }}">straight edge</a> # 41</li>
+            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -298,7 +297,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 25</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -337,7 +336,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nyhc" | relative_url }}">nyhc</a> # 67</li>
+            <li> <a href="{{ "/tags/nyhc" | relative_url }}">nyhc</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -357,7 +356,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 13</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -377,7 +376,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 51</li>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -405,7 +404,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-trio" | relative_url }}">piano trio</a> # 62</li>
+            <li> <a href="{{ "/tags/piano-trio" | relative_url }}">piano trio</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -461,7 +460,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 11</li>
+            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -632,7 +631,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 54</li>
+            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -674,7 +673,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 88</li>
+            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -735,10 +734,10 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 22</li>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 38</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 43</li>
-            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 78</li>
+            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 23</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 57</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 63</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -760,7 +759,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a> # 7</li>
+            <li> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -861,7 +860,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 78</li>
+            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -880,7 +879,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 11</li>
+            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -902,7 +901,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 91</li>
+            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -924,7 +923,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 89</li>
+            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -946,8 +945,8 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 16</li>
-            <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 40</li>
+            <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 61</li>
+            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -968,7 +967,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 93</li>
+            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1136,7 +1135,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 28</li>
+            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1175,7 +1174,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 87</li>
+            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1215,8 +1214,8 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 34</li>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 90</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 11</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1235,7 +1234,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 98</li>
+            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1256,7 +1255,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 96</li>
+            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1281,9 +1280,9 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 33</li>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 38</li>
-            <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 53</li>
+            <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 48</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 63</li>
+            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1303,7 +1302,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 24</li>
+            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1323,7 +1322,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 38</li>
+            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1345,7 +1344,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 29</li>
+            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1364,7 +1363,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 41</li>
+            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1442,7 +1441,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 55</li>
+            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1479,7 +1478,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 17</li>
+            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1511,7 +1510,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-and-female" | relative_url }}">male and female</a> # 86</li>
+            <li> <a href="{{ "/tags/male-and-female" | relative_url }}">male and female</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1548,7 +1547,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 27</li>
+            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1585,7 +1584,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 37</li>
+            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1641,7 +1640,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a> # 97</li>
+            <li> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1664,7 +1663,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 84</li>
+            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1711,9 +1710,9 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 41</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 60</li>
-            <li> <a href="{{ "/tags/boston" | relative_url }}">boston</a> # 90</li>
+            <li> <a href="{{ "/tags/boston" | relative_url }}">boston</a> # 10</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 41</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1748,7 +1747,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 77</li>
+            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1769,7 +1768,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 26</li>
+            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1831,7 +1830,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 57</li>
+            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1888,7 +1887,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a> # 46</li>
+            <li> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1909,7 +1908,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 38</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1927,11 +1926,11 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a> # 22</li>
-            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 23</li>
-            <li> <a href="{{ "/tags/oregon" | relative_url }}">oregon</a> # 70</li>
-            <li> <a href="{{ "/tags/keyboard" | relative_url }}">keyboard</a> # 80</li>
-            <li> <a href="{{ "/tags/trip" | relative_url }}">trip</a> # 80</li>
+            <li> <a href="{{ "/tags/keyboard" | relative_url }}">keyboard</a> # 21</li>
+            <li> <a href="{{ "/tags/trip" | relative_url }}">trip</a> # 21</li>
+            <li> <a href="{{ "/tags/oregon" | relative_url }}">oregon</a> # 31</li>
+            <li> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a> # 78</li>
+            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -2019,8 +2018,8 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 7</li>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 45</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 57</li>
+            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 94</li>
         </ul>
       </td>
     </tr>

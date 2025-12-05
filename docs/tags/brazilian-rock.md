@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-18T14:51:47.074Z
+date: 2025-12-05T05:03:12.759Z
 permalink: tags/brazilian-rock
 title: brazilian rock
 ---
 
 ## brazilian rock
 
-Last updated: <time datetime="2025-11-18T14:51:47.074Z">Tue Nov 18 2025 16:51:47 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T05:03:12.759Z">Fri Dec 05 2025 07:03:12 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -77,7 +77,7 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a> # 49</li>
+            <li> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -98,7 +98,7 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a> # 69</li>
+            <li> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -119,7 +119,7 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 39</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -137,7 +137,7 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 72</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -183,7 +183,7 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 87</li>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -209,7 +209,7 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 35</li>
+            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -227,7 +227,7 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 2</li>
+            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -252,7 +252,7 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 51</li>
+            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -290,7 +290,7 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 53</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -347,7 +347,7 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 72</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -440,7 +440,7 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 42</li>
+            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -521,12 +521,13 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 31</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 34</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 34</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 35</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 63</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 70</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 30</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 31</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 66</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 67</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 67</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 70</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -565,7 +566,7 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 42</li>
+            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -661,6 +662,7 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -728,8 +730,8 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 40</li>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 41</li>
+            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 58</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -748,6 +750,7 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -768,8 +771,8 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 42</li>
-            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 45</li>
+            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 56</li>
+            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -940,6 +943,7 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
     <tr>
       <td>72</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/680de4ef67f24d6c8eae429dac4bd74c.png" alt="Cover for Oxigênio" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-04-07</td>
       <td>Jota Quest</td>
@@ -997,7 +1001,7 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brasileira" | relative_url }}">brasileira</a> # 62</li>
+            <li> <a href="{{ "/tags/brasileira" | relative_url }}">brasileira</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1019,7 +1023,7 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 88</li>
+            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -1137,7 +1141,7 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a> # 73</li>
+            <li> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1212,7 +1216,7 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a> # 97</li>
+            <li> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1230,7 +1234,7 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 6</li>
+            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1271,7 +1275,7 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 52</li>
+            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1333,7 +1337,7 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 91</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1392,8 +1396,8 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 47</li>
-            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 98</li>
+            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 3</li>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1491,7 +1495,7 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 60</li>
+            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1533,7 +1537,7 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 31</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1554,8 +1558,8 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 17</li>
-            <li> <a href="{{ "/tags/brasileira" | relative_url }}">brasileira</a> # 51</li>
+            <li> <a href="{{ "/tags/brasileira" | relative_url }}">brasileira</a> # 45</li>
+            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1575,7 +1579,7 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 50</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1678,7 +1682,7 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 46</li>
+            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1699,10 +1703,10 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 19</li>
-            <li> <a href="{{ "/tags/unplugged" | relative_url }}">unplugged</a> # 20</li>
-            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 27</li>
-            <li> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a> # 98</li>
+            <li> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a> # 3</li>
+            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 70</li>
+            <li> <a href="{{ "/tags/unplugged" | relative_url }}">unplugged</a> # 80</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1743,9 +1747,9 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 39</li>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 49</li>
-            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 95</li>
+            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 6</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 52</li>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1862,7 +1866,7 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 56</li>
+            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1884,8 +1888,8 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 7</li>
-            <li> <a href="{{ "/tags/new-prog" | relative_url }}">new prog</a> # 60</li>
+            <li> <a href="{{ "/tags/new-prog" | relative_url }}">new prog</a> # 41</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1945,7 +1949,7 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brasileira" | relative_url }}">brasileira</a> # 41</li>
+            <li> <a href="{{ "/tags/brasileira" | relative_url }}">brasileira</a> # 56</li>
         </ul>
       </td>
     </tr>

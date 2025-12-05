@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T23:46:26.143Z
+date: 2025-12-05T05:00:58.570Z
 permalink: tags/punjabi-folk
 title: punjabi folk
 ---
 
 ## punjabi folk
 
-Last updated: <time datetime="2025-10-22T23:46:26.143Z">Thu Oct 23 2025 02:46:26 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-05T05:00:58.570Z">Fri Dec 05 2025 07:00:58 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -1171,7 +1171,7 @@ Punjabi folk encompasses the traditional music of Punjab, characterized by energ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 13</li>
+            <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 88</li>
         </ul>
       </td>
     </tr>

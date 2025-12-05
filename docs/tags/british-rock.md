@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-25T23:54:27.546Z
+date: 2025-12-05T05:19:45.941Z
 permalink: tags/british-rock
 title: british rock
 ---
 
 ## british rock
 
-Last updated: <time datetime="2025-11-25T23:54:27.546Z">Wed Nov 26 2025 01:54:27 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T05:19:45.941Z">Fri Dec 05 2025 07:19:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -43,7 +43,6 @@ British rock encompasses the diverse guitar-driven sounds emerging from the Unit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -103,7 +102,7 @@ British rock encompasses the diverse guitar-driven sounds emerging from the Unit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 30</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 71</li>
             <li> <a href="{{ "/tags/british-invasion" | relative_url }}">british invasion</a> # 100</li>
         </ul>
       </td>
@@ -162,7 +161,7 @@ British rock encompasses the diverse guitar-driven sounds emerging from the Unit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 92</li>
+            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -231,7 +230,7 @@ British rock encompasses the diverse guitar-driven sounds emerging from the Unit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-prog" | relative_url }}">symphonic prog</a> # 40</li>
+            <li> <a href="{{ "/tags/symphonic-prog" | relative_url }}">symphonic prog</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -257,7 +256,7 @@ British rock encompasses the diverse guitar-driven sounds emerging from the Unit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/canterbury-scene" | relative_url }}">canterbury scene</a> # 40</li>
+            <li> <a href="{{ "/tags/canterbury-scene" | relative_url }}">canterbury scene</a> # 61</li>
             <li> <a href="{{ "/tags/canterbury" | relative_url }}">canterbury</a> # 81</li>
         </ul>
       </td>
@@ -321,9 +320,9 @@ British rock encompasses the diverse guitar-driven sounds emerging from the Unit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 23</li>
-            <li> <a href="{{ "/tags/flute" | relative_url }}">flute</a> # 49</li>
-            <li> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a> # 87</li>
+            <li> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a> # 14</li>
+            <li> <a href="{{ "/tags/flute" | relative_url }}">flute</a> # 52</li>
+            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -449,7 +448,7 @@ British rock encompasses the diverse guitar-driven sounds emerging from the Unit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 64</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -531,7 +530,7 @@ British rock encompasses the diverse guitar-driven sounds emerging from the Unit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-prog" | relative_url }}">neo-prog</a> # 70</li>
+            <li> <a href="{{ "/tags/neo-prog" | relative_url }}">neo-prog</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -554,7 +553,7 @@ British rock encompasses the diverse guitar-driven sounds emerging from the Unit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 5</li>
+            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -598,7 +597,7 @@ British rock encompasses the diverse guitar-driven sounds emerging from the Unit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 75</li>
+            <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -623,7 +622,7 @@ British rock encompasses the diverse guitar-driven sounds emerging from the Unit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 79</li>
+            <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -865,8 +864,8 @@ British rock encompasses the diverse guitar-driven sounds emerging from the Unit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 31</li>
-            <li> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a> # 95</li>
+            <li> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a> # 4</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -891,7 +890,7 @@ British rock encompasses the diverse guitar-driven sounds emerging from the Unit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitar-rock" | relative_url }}">guitar rock</a> # 49</li>
+            <li> <a href="{{ "/tags/guitar-rock" | relative_url }}">guitar rock</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -962,7 +961,7 @@ British rock encompasses the diverse guitar-driven sounds emerging from the Unit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitar-rock" | relative_url }}">guitar rock</a> # 45</li>
+            <li> <a href="{{ "/tags/guitar-rock" | relative_url }}">guitar rock</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -984,7 +983,7 @@ British rock encompasses the diverse guitar-driven sounds emerging from the Unit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 89</li>
+            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -1118,8 +1117,8 @@ British rock encompasses the diverse guitar-driven sounds emerging from the Unit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 31</li>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 87</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 14</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 70</li>
             <li> <a href="{{ "/tags/british-invasion" | relative_url }}">british invasion</a> # 99</li>
         </ul>
       </td>
@@ -1233,7 +1232,7 @@ British rock encompasses the diverse guitar-driven sounds emerging from the Unit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 44</li>
+            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1298,8 +1297,8 @@ British rock encompasses the diverse guitar-driven sounds emerging from the Unit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 48</li>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 61</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 34</li>
+            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1424,7 +1423,7 @@ British rock encompasses the diverse guitar-driven sounds emerging from the Unit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 6</li>
+            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1458,9 +1457,9 @@ British rock encompasses the diverse guitar-driven sounds emerging from the Unit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 2</li>
-            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 9</li>
-            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 11</li>
+            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 90</li>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 91</li>
+            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1682,10 +1681,10 @@ British rock encompasses the diverse guitar-driven sounds emerging from the Unit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/northern-soul" | relative_url }}">northern soul</a> # 61</li>
-            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 72</li>
-            <li> <a href="{{ "/tags/leeds" | relative_url }}">leeds</a> # 85</li>
-            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 93</li>
+            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 8</li>
+            <li> <a href="{{ "/tags/leeds" | relative_url }}">leeds</a> # 16</li>
+            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 29</li>
+            <li> <a href="{{ "/tags/northern-soul" | relative_url }}">northern soul</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1823,8 +1822,8 @@ British rock encompasses the diverse guitar-driven sounds emerging from the Unit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 8</li>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 100</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 1</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1844,7 +1843,7 @@ British rock encompasses the diverse guitar-driven sounds emerging from the Unit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/northern-soul" | relative_url }}">northern soul</a> # 2</li>
+            <li> <a href="{{ "/tags/northern-soul" | relative_url }}">northern soul</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -2029,7 +2028,7 @@ British rock encompasses the diverse guitar-driven sounds emerging from the Unit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/northern-soul" | relative_url }}">northern soul</a> # 20</li>
+            <li> <a href="{{ "/tags/northern-soul" | relative_url }}">northern soul</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -2048,7 +2047,7 @@ British rock encompasses the diverse guitar-driven sounds emerging from the Unit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-heavy-metal" | relative_url }}">traditional heavy metal</a> # 23</li>
+            <li> <a href="{{ "/tags/traditional-heavy-metal" | relative_url }}">traditional heavy metal</a> # 78</li>
         </ul>
       </td>
     </tr>

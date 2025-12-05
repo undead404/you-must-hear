@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-13T11:06:45.007Z
+date: 2025-12-05T05:00:02.956Z
 permalink: tags/arena-rock
 title: arena rock
 ---
 
 ## arena rock
 
-Last updated: <time datetime="2025-11-13T11:06:45.007Z">Thu Nov 13 2025 13:06:45 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T05:00:02.956Z">Fri Dec 05 2025 07:00:02 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -43,8 +43,8 @@ Arena rock is a bombastic style of rock music designed for large stadium perform
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 11</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 48</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 44</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -70,7 +70,7 @@ Arena rock is a bombastic style of rock music designed for large stadium perform
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 31</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -89,7 +89,7 @@ Arena rock is a bombastic style of rock music designed for large stadium perform
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 43</li>
+            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -107,7 +107,8 @@ Arena rock is a bombastic style of rock music designed for large stadium perform
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 1</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 83</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -125,7 +126,7 @@ Arena rock is a bombastic style of rock music designed for large stadium perform
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 7</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 79</li>
             <li> <a href="{{ "/tags/boston" | relative_url }}">boston</a> # 100</li>
         </ul>
       </td>
@@ -146,7 +147,7 @@ Arena rock is a bombastic style of rock music designed for large stadium perform
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 68</li>
+            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -170,7 +171,7 @@ Arena rock is a bombastic style of rock music designed for large stadium perform
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 12</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -206,6 +207,7 @@ Arena rock is a bombastic style of rock music designed for large stadium perform
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -225,7 +227,7 @@ Arena rock is a bombastic style of rock music designed for large stadium perform
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 74</li>
+            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -311,28 +313,8 @@ Arena rock is a bombastic style of rock music designed for large stadium perform
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 22</li>
-            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 95</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>35</td>
-      <td>
-          <img src="https://i.discogs.com/T1epD-aHM3IgWyv_RUWC20efXoizOvKBwvpi_9TBc6M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MDAx/My0xNTIzNjM2OTYz/LTgzMzYuanBlZw.jpeg" alt="Cover for Armageddon" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1979</td>
-      <td>Journey</td>
-      <td>Armageddon</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
+            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 6</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -346,6 +328,27 @@ Arena rock is a bombastic style of rock music designed for large stadium perform
       <td>Dream Police</td>
       <td>
         <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 83</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ffdc234159d4ceeafcb6b62ef85ffca.png" alt="Cover for Armageddon" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1979</td>
+      <td>Journey</td>
+      <td>Armageddon</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a></li>
         </ul>
       </td>
       <td>
@@ -387,10 +390,10 @@ Arena rock is a bombastic style of rock music designed for large stadium perform
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 2</li>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 68</li>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 86</li>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 87</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 10</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 12</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 32</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -600,7 +603,7 @@ Arena rock is a bombastic style of rock music designed for large stadium perform
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 69</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -661,7 +664,7 @@ Arena rock is a bombastic style of rock music designed for large stadium perform
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 82</li>
+            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -680,8 +683,7 @@ Arena rock is a bombastic style of rock music designed for large stadium perform
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 46</li>
-            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 54</li>
+            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -720,7 +722,7 @@ Arena rock is a bombastic style of rock music designed for large stadium perform
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-hard-rock" | relative_url }}">melodic hard rock</a> # 82</li>
+            <li> <a href="{{ "/tags/melodic-hard-rock" | relative_url }}">melodic hard rock</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -779,9 +781,9 @@ Arena rock is a bombastic style of rock music designed for large stadium perform
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 77</li>
-            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 80</li>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 98</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 3</li>
+            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 21</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -876,7 +878,7 @@ Arena rock is a bombastic style of rock music designed for large stadium perform
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 69</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -929,7 +931,7 @@ Arena rock is a bombastic style of rock music designed for large stadium perform
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 27</li>
+            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1057,6 +1059,7 @@ Arena rock is a bombastic style of rock music designed for large stadium perform
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1078,8 +1081,8 @@ Arena rock is a bombastic style of rock music designed for large stadium perform
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 47</li>
-            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 99</li>
+            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 2</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1119,7 +1122,7 @@ Arena rock is a bombastic style of rock music designed for large stadium perform
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 95</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1194,7 +1197,7 @@ Arena rock is a bombastic style of rock music designed for large stadium perform
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 61</li>
+            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1258,7 +1261,7 @@ Arena rock is a bombastic style of rock music designed for large stadium perform
     <tr>
       <td>80</td>
       <td>
-          <img src="https://i.discogs.com/JLdBkPtWDlie8_F5KStw9iD2K-RynSFa8VrI9594USo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzIy/NTktMTMwNzgxNTg3/My5qcGVn.jpeg" alt="Cover for Causa y Efecto" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/415e8146324fec80b553ebe44155d194.png" alt="Cover for Causa y Efecto" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Paulina Rubio</td>
@@ -1323,7 +1326,7 @@ Arena rock is a bombastic style of rock music designed for large stadium perform
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 60</li>
+            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1400,7 +1403,7 @@ Arena rock is a bombastic style of rock music designed for large stadium perform
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 59</li>
+            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1459,6 +1462,7 @@ Arena rock is a bombastic style of rock music designed for large stadium perform
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1501,7 +1505,7 @@ Arena rock is a bombastic style of rock music designed for large stadium perform
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 51</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1539,7 +1543,7 @@ Arena rock is a bombastic style of rock music designed for large stadium perform
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 3</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1595,8 +1599,8 @@ Arena rock is a bombastic style of rock music designed for large stadium perform
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 3</li>
-            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 34</li>
+            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 67</li>
+            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1657,6 +1661,7 @@ Arena rock is a bombastic style of rock music designed for large stadium perform
     <tr>
       <td>77</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/19f338a1cb4f4be3884bf7aa8019bf66.png" alt="Cover for Exit Calm" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-05-17</td>
       <td>Exit Calm</td>
@@ -1745,7 +1750,7 @@ Arena rock is a bombastic style of rock music designed for large stadium perform
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 35</li>
+            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1854,7 +1859,7 @@ Arena rock is a bombastic style of rock music designed for large stadium perform
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a> # 37</li>
+            <li> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1891,9 +1896,9 @@ Arena rock is a bombastic style of rock music designed for large stadium perform
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 57</li>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 68</li>
-            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 82</li>
+            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 19</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 28</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1913,8 +1918,8 @@ Arena rock is a bombastic style of rock music designed for large stadium perform
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 32</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 98</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 2</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 59</li>
         </ul>
       </td>
     </tr>

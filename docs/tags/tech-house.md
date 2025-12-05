@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-25T20:45:53.651Z
+date: 2025-12-05T05:01:56.583Z
 permalink: tags/tech-house
 title: tech house
 ---
 
 ## tech house
 
-Last updated: <time datetime="2025-11-25T20:45:53.651Z">Tue Nov 25 2025 22:45:53 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T05:01:56.583Z">Fri Dec 05 2025 07:01:56 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -70,10 +70,10 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 23</li>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 63</li>
-            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 92</li>
-            <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 98</li>
+            <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 3</li>
+            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 9</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 38</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -219,8 +219,8 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 9</li>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 14</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 85</li>
+            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -333,7 +333,7 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 27</li>
+            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -374,7 +374,7 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 79</li>
+            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -469,7 +469,7 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 68</li>
+            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -501,13 +501,13 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       <td>
         <ul>
             <li> <a href="{{ "/tags/darkpsy" | relative_url }}">darkpsy</a> # 1</li>
-            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 17</li>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 20</li>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 33</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 29</li>
+            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 29</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 30</li>
             <li> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a> # 45</li>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 70</li>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 71</li>
-            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 72</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 68</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 79</li>
+            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -526,7 +526,7 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 85</li>
+            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -545,7 +545,7 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 100</li>
+            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -639,7 +639,7 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 59</li>
+            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -734,7 +734,7 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 38</li>
+            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -856,7 +856,7 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 54</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -917,7 +917,7 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 10</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -936,7 +936,7 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 2</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -971,9 +971,9 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 21</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 73</li>
-            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 76</li>
+            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 25</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 28</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -993,7 +993,7 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 60</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1031,7 +1031,7 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 91</li>
+            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1069,7 +1069,7 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 4</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1090,7 +1090,7 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 8</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1113,7 +1113,7 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 95</li>
+            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -1140,9 +1140,9 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 20</li>
-            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 87</li>
-            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 96</li>
+            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 5</li>
+            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 81</li>
+            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1202,7 +1202,7 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/detroit-techno" | relative_url }}">detroit techno</a> # 87</li>
+            <li> <a href="{{ "/tags/detroit-techno" | relative_url }}">detroit techno</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1241,7 +1241,7 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 56</li>
+            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1283,7 +1283,7 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 71</li>
+            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1307,7 +1307,7 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-house" | relative_url }}">vocal house</a> # 86</li>
+            <li> <a href="{{ "/tags/vocal-house" | relative_url }}">vocal house</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1386,10 +1386,10 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 27</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 69</li>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 89</li>
-            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 97</li>
+            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 4</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 11</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 32</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1463,8 +1463,8 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 59</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 80</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 21</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1484,10 +1484,10 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 2</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 81</li>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 94</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 98</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 3</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 6</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 20</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1544,8 +1544,8 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 93</li>
-            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 94</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 8</li>
+            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1565,7 +1565,7 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 31</li>
+            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1663,11 +1663,11 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 90</li>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 94</li>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 94</li>
+            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 2</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 7</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 7</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 11</li>
             <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 98</li>
-            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1689,7 +1689,8 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 84</li>
+            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 17</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1727,7 +1728,7 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 91</li>
+            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1765,7 +1766,7 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 94</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1865,7 +1866,7 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 82</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1959,8 +1960,8 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 24</li>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 78</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 74</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1985,7 +1986,8 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 88</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 13</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 90</li>
         </ul>
       </td>
     </tr>

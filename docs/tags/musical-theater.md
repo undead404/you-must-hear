@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-01T06:28:50.961Z
+date: 2025-12-05T05:00:46.986Z
 permalink: tags/musical-theater
 title: musical theater
 ---
 
 ## musical theater
 
-Last updated: <time datetime="2025-11-01T06:28:50.961Z">Sat Nov 01 2025 08:28:50 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T05:00:46.986Z">Fri Dec 05 2025 07:00:46 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -105,6 +105,26 @@ Musical theater encompasses songs written for stage productions, combining narra
       </td>
     </tr>
     <tr>
+      <td>83</td>
+      <td>
+          <img src="https://i.discogs.com/eR_XvcFWbGmr4dhQkpPF9HsrueTQFJQC7a_nhiJNj-4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzODMy/NjAtMTQ5MDEyODY4/My0zMzMxLmpwZWc.jpeg" alt="Cover for Hairspray" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1965</td>
+      <td>Original Broadway Cast</td>
+      <td>Hairspray</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/broadway" | relative_url }}">broadway</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/musical-theater" | relative_url }}">musical theater</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/broadway" | relative_url }}">broadway</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>4</td>
       <td>
           <img src="https://i.discogs.com/m8FZfZA6FYv8-hs-_wrlolYj6VzYc48lJ2Dh-VALu78/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NDUw/MDAtMTYzNTM3MDE2/OS02MjI2LmpwZWc.jpeg" alt="Cover for House Of Flowers - Broadway Cast Recording" style="max-width:120px; height:auto;" />
@@ -136,25 +156,6 @@ Musical theater encompasses songs written for stage productions, combining narra
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/broadway" | relative_url }}">broadway</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/musical-theater" | relative_url }}">musical theater</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>83</td>
-      <td>
-          <img src="https://i.discogs.com/eR_XvcFWbGmr4dhQkpPF9HsrueTQFJQC7a_nhiJNj-4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzODMy/NjAtMTQ5MDEyODY4/My0zMzMxLmpwZWc.jpeg" alt="Cover for Hairspray" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1965</td>
-      <td>Original Broadway Cast</td>
-      <td>Hairspray</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/broadway" | relative_url }}">broadway</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/musical-theater" | relative_url }}">musical theater</a></li>
         </ul>
       </td>
       <td>
@@ -216,7 +217,7 @@ Musical theater encompasses songs written for stage productions, combining narra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/broadway" | relative_url }}">broadway</a> # 43</li>
+            <li> <a href="{{ "/tags/broadway" | relative_url }}">broadway</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -350,7 +351,7 @@ Musical theater encompasses songs written for stage productions, combining narra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/showtune" | relative_url }}">showtune</a> # 72</li>
+            <li> <a href="{{ "/tags/showtune" | relative_url }}">showtune</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -372,8 +373,8 @@ Musical theater encompasses songs written for stage productions, combining narra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 54</li>
-            <li> <a href="{{ "/tags/showtune" | relative_url }}">showtune</a> # 98</li>
+            <li> <a href="{{ "/tags/showtune" | relative_url }}">showtune</a> # 3</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -632,7 +633,7 @@ Musical theater encompasses songs written for stage productions, combining narra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/broadway" | relative_url }}">broadway</a> # 23</li>
+            <li> <a href="{{ "/tags/broadway" | relative_url }}">broadway</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -726,7 +727,7 @@ Musical theater encompasses songs written for stage productions, combining narra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/broadway" | relative_url }}">broadway</a> # 78</li>
+            <li> <a href="{{ "/tags/broadway" | relative_url }}">broadway</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -746,7 +747,7 @@ Musical theater encompasses songs written for stage productions, combining narra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/broadway" | relative_url }}">broadway</a> # 25</li>
+            <li> <a href="{{ "/tags/broadway" | relative_url }}">broadway</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -822,7 +823,7 @@ Musical theater encompasses songs written for stage productions, combining narra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/broadway" | relative_url }}">broadway</a> # 35</li>
+            <li> <a href="{{ "/tags/broadway" | relative_url }}">broadway</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -883,7 +884,7 @@ Musical theater encompasses songs written for stage productions, combining narra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/broadway" | relative_url }}">broadway</a> # 70</li>
+            <li> <a href="{{ "/tags/broadway" | relative_url }}">broadway</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -929,8 +930,8 @@ Musical theater encompasses songs written for stage productions, combining narra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 36</li>
-            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 40</li>
+            <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 38</li>
+            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1064,7 +1065,7 @@ Musical theater encompasses songs written for stage productions, combining narra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/showtune" | relative_url }}">showtune</a> # 92</li>
+            <li> <a href="{{ "/tags/showtune" | relative_url }}">showtune</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1084,7 +1085,7 @@ Musical theater encompasses songs written for stage productions, combining narra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 78</li>
+            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1107,7 +1108,7 @@ Musical theater encompasses songs written for stage productions, combining narra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/showtune" | relative_url }}">showtune</a> # 74</li>
+            <li> <a href="{{ "/tags/showtune" | relative_url }}">showtune</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1145,7 +1146,7 @@ Musical theater encompasses songs written for stage productions, combining narra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/showtune" | relative_url }}">showtune</a> # 71</li>
+            <li> <a href="{{ "/tags/showtune" | relative_url }}">showtune</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1166,7 +1167,7 @@ Musical theater encompasses songs written for stage productions, combining narra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/showtune" | relative_url }}">showtune</a> # 81</li>
+            <li> <a href="{{ "/tags/showtune" | relative_url }}">showtune</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1191,6 +1192,7 @@ Musical theater encompasses songs written for stage productions, combining narra
     <tr>
       <td>91</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/64254ba6b94d7724c8972925b6d7ea1b.png" alt="Cover for This Is Who I Am" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Heather Headley</td>
@@ -1242,7 +1244,7 @@ Musical theater encompasses songs written for stage productions, combining narra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/showtune" | relative_url }}">showtune</a> # 87</li>
+            <li> <a href="{{ "/tags/showtune" | relative_url }}">showtune</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1281,7 +1283,7 @@ Musical theater encompasses songs written for stage productions, combining narra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/broadway" | relative_url }}">broadway</a> # 18</li>
+            <li> <a href="{{ "/tags/broadway" | relative_url }}">broadway</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1305,7 +1307,7 @@ Musical theater encompasses songs written for stage productions, combining narra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 28</li>
+            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1344,7 +1346,7 @@ Musical theater encompasses songs written for stage productions, combining narra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/showtune" | relative_url }}">showtune</a> # 82</li>
+            <li> <a href="{{ "/tags/showtune" | relative_url }}">showtune</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1380,7 +1382,7 @@ Musical theater encompasses songs written for stage productions, combining narra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/broadway" | relative_url }}">broadway</a> # 32</li>
+            <li> <a href="{{ "/tags/broadway" | relative_url }}">broadway</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1477,7 +1479,7 @@ Musical theater encompasses songs written for stage productions, combining narra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/broadway" | relative_url }}">broadway</a> # 59</li>
+            <li> <a href="{{ "/tags/broadway" | relative_url }}">broadway</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1507,13 +1509,13 @@ Musical theater encompasses songs written for stage productions, combining narra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 24</li>
+            <li> <a href="{{ "/tags/showtune" | relative_url }}">showtune</a> # 1</li>
+            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 12</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 15</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 27</li>
+            <li> <a href="{{ "/tags/broadway" | relative_url }}">broadway</a> # 40</li>
             <li> <a href="{{ "/tags/stand-up" | relative_url }}">stand-up</a> # 45</li>
-            <li> <a href="{{ "/tags/broadway" | relative_url }}">broadway</a> # 61</li>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 74</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 86</li>
-            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 89</li>
-            <li> <a href="{{ "/tags/showtune" | relative_url }}">showtune</a> # 100</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1591,15 +1593,15 @@ Musical theater encompasses songs written for stage productions, combining narra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/opera" | relative_url }}">opera</a> # 33</li>
-            <li> <a href="{{ "/tags/rock-opera" | relative_url }}">rock opera</a> # 58</li>
+            <li> <a href="{{ "/tags/rock-opera" | relative_url }}">rock opera</a> # 42</li>
+            <li> <a href="{{ "/tags/opera" | relative_url }}">opera</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>67</td>
       <td>
-          <img src="https://i.discogs.com/7mep6qccDFbfQOwA0kaIr2KN6SZNhO70z457ms7lWp0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzE5/ODQxLTE1OTY1NDIz/NTItMjM0MC5qcGVn.jpeg" alt="Cover for Sweeney Todd" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d2b2f12834464857b7aab1752790802b.png" alt="Cover for Sweeney Todd" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-04-02</td>
       <td>Stephen Sondheim</td>
@@ -1607,12 +1609,10 @@ Musical theater encompasses songs written for stage productions, combining narra
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
-            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/broadway" | relative_url }}">broadway</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/broadway" | relative_url }}">broadway</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1630,7 +1630,7 @@ Musical theater encompasses songs written for stage productions, combining narra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/broadway" | relative_url }}">broadway</a> # 42</li>
+            <li> <a href="{{ "/tags/broadway" | relative_url }}">broadway</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1651,7 +1651,7 @@ Musical theater encompasses songs written for stage productions, combining narra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 45</li>
+            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1669,7 +1669,7 @@ Musical theater encompasses songs written for stage productions, combining narra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/broadway" | relative_url }}">broadway</a> # 44</li>
+            <li> <a href="{{ "/tags/broadway" | relative_url }}">broadway</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1744,15 +1744,14 @@ Musical theater encompasses songs written for stage productions, combining narra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 29</li>
-            <li> <a href="{{ "/tags/broadway" | relative_url }}">broadway</a> # 86</li>
+            <li> <a href="{{ "/tags/broadway" | relative_url }}">broadway</a> # 15</li>
+            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>12</td>
       <td>
-          <img src="https://i.discogs.com/qlpDXub3L2pmMm_5Ko6xvpB3KEWhYcHIbTbGkJ9B1qc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODk3/MTM3LTE1MjQ0MTgw/MzQtNzc4OS5qcGVn.jpeg" alt="Cover for Rent - The Musical" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-04-21</td>
       <td>The New Musical Cast</td>
@@ -1768,7 +1767,7 @@ Musical theater encompasses songs written for stage productions, combining narra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/showtune" | relative_url }}">showtune</a> # 70</li>
+            <li> <a href="{{ "/tags/showtune" | relative_url }}">showtune</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1848,7 +1847,7 @@ Musical theater encompasses songs written for stage productions, combining narra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/showtune" | relative_url }}">showtune</a> # 73</li>
+            <li> <a href="{{ "/tags/showtune" | relative_url }}">showtune</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1959,7 +1958,7 @@ Musical theater encompasses songs written for stage productions, combining narra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/showtune" | relative_url }}">showtune</a> # 79</li>
+            <li> <a href="{{ "/tags/showtune" | relative_url }}">showtune</a> # 22</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-24T04:57:38.011Z
+date: 2025-12-05T05:02:29.448Z
 permalink: tags/indie-dance
 title: indie dance
 ---
 
 ## indie dance
 
-Last updated: <time datetime="2025-11-24T04:57:38.011Z">Mon Nov 24 2025 06:57:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T05:02:29.448Z">Fri Dec 05 2025 07:02:29 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -57,7 +57,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 35</li>
+            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -163,7 +163,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 2</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -231,9 +231,9 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 11</li>
-            <li> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a> # 34</li>
-            <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 45</li>
+            <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 56</li>
+            <li> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a> # 67</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -276,11 +276,11 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 34</li>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 38</li>
-            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 55</li>
-            <li> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a> # 60</li>
-            <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 76</li>
+            <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 25</li>
+            <li> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a> # 41</li>
+            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 46</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 62</li>
+            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -323,10 +323,10 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 2</li>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 17</li>
-            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 36</li>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 41</li>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 60</li>
+            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 65</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 84</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -392,12 +392,12 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 2</li>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 63</li>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 67</li>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 85</li>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 86</li>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 90</li>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 11</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 15</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 16</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 34</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 38</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -422,7 +422,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 6</li>
+            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -533,9 +533,9 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 21</li>
-            <li> <a href="{{ "/tags/venezuela" | relative_url }}">venezuela</a> # 22</li>
-            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 29</li>
+            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 72</li>
+            <li> <a href="{{ "/tags/venezuela" | relative_url }}">venezuela</a> # 79</li>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -635,9 +635,9 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 18</li>
-            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 45</li>
-            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 57</li>
+            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 44</li>
+            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 55</li>
+            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -691,15 +691,16 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 76</li>
-            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 83</li>
-            <li> <a href="{{ "/tags/ambient-rock" | relative_url }}">ambient rock</a> # 84</li>
+            <li> <a href="{{ "/tags/ambient-rock" | relative_url }}">ambient rock</a> # 17</li>
+            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 18</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 25</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>38</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/79128288050204ad0df696a6d2756a4b.png" alt="Cover for People In Grass Houses" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Sekotis</td>
@@ -722,7 +723,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 30</li>
+            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -826,8 +827,8 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 2</li>
             <li> <a href="{{ "/tags/punk-pop" | relative_url }}">punk pop</a> # 14</li>
+            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -865,8 +866,8 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 49</li>
-            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 63</li>
+            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 38</li>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -896,8 +897,8 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 52</li>
-            <li> <a href="{{ "/tags/ambient-rock" | relative_url }}">ambient rock</a> # 66</li>
+            <li> <a href="{{ "/tags/ambient-rock" | relative_url }}">ambient rock</a> # 35</li>
+            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1009,7 +1010,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 34</li>
+            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1037,8 +1038,8 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 28</li>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 28</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 72</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1056,7 +1057,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 1</li>
+            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1093,7 +1094,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 75</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1180,7 +1181,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 70</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1346,7 +1347,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 7</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1387,17 +1388,17 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 4</li>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 14</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 22</li>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 63</li>
-            <li> <a href="{{ "/tags/chill-house" | relative_url }}">chill house</a> # 84</li>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 88</li>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 97</li>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 97</li>
-            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 98</li>
-            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 98</li>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 99</li>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 2</li>
+            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 3</li>
+            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 3</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 4</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 4</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 13</li>
+            <li> <a href="{{ "/tags/chill-house" | relative_url }}">chill house</a> # 17</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 38</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 79</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 87</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1452,7 +1453,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 84</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1491,12 +1492,12 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 4</li>
-            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 15</li>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 22</li>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 30</li>
-            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 43</li>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 50</li>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 51</li>
+            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 58</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 71</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 79</li>
+            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 86</li>
+            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1533,10 +1534,10 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 43</li>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 73</li>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 83</li>
-            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 86</li>
+            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 15</li>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 18</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 28</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1579,7 +1580,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 39</li>
+            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1642,7 +1643,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 81</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1665,7 +1666,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 23</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1706,7 +1707,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 40</li>
+            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1786,7 +1787,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 5</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1809,7 +1810,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 4</li>
+            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1916,7 +1917,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 62</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1967,7 +1968,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 4</li>
+            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1985,8 +1986,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 62</li>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 83</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -2106,7 +2106,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 26</li>
+            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -2153,7 +2153,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/afrobeat" | relative_url }}">afrobeat</a> # 32</li>
+            <li> <a href="{{ "/tags/afrobeat" | relative_url }}">afrobeat</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -2198,7 +2198,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 4</li>
+            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -2234,7 +2234,7 @@ Indie dance blends the DIY ethos and melodic sensibilities of indie rock with el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 32</li>
+            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 69</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T01:37:08.002Z
+date: 2025-12-05T05:03:07.108Z
 permalink: tags/poetry
 title: poetry
 ---
 
 ## poetry
 
-Last updated: <time datetime="2025-11-23T01:37:08.002Z">Sun Nov 23 2025 03:37:08 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T05:03:07.108Z">Fri Dec 05 2025 07:03:07 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -125,7 +125,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 68</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -144,7 +144,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 8</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -164,16 +164,16 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 3</li>
-            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 54</li>
-            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 99</li>
+            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 2</li>
+            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 45</li>
+            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>48</td>
       <td>
-          <img src="https://i.discogs.com/Q8RfHFoKyGHVOgz521od-cLnQV5LMR67MMcSVR1ZTI0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MTkz/NC0xMzQwNjgzNjcw/LTc3MTUuanBlZw.jpeg" alt="Cover for An American Prayer (1978)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bffa994bfa03424fa70cd915c1a73aa5.png" alt="Cover for An American Prayer (1978)" style="max-width:120px; height:auto;" />
       </td>
       <td>1971</td>
       <td>The Doors</td>
@@ -336,7 +336,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 48</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -398,7 +398,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 24</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -423,7 +423,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
     <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/UZitja6AKzlWiVaAqjOKmvihexszKL1ZFvi8V3efgas/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDA0/MzMtMTI1Nzc4MzYx/Ni5qcGVn.jpeg" alt="Cover for To Tu To Tam" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e572b374cb70b62b1845625502be1e34.png" alt="Cover for To Tu To Tam" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Grzegorz Turnau</td>
@@ -455,7 +455,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/eurovision" | relative_url }}">eurovision</a> # 19</li>
+            <li> <a href="{{ "/tags/eurovision" | relative_url }}">eurovision</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -495,7 +495,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polskie" | relative_url }}">polskie</a> # 71</li>
+            <li> <a href="{{ "/tags/polskie" | relative_url }}">polskie</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -533,7 +533,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 16</li>
+            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -617,7 +617,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polskie" | relative_url }}">polskie</a> # 74</li>
+            <li> <a href="{{ "/tags/polskie" | relative_url }}">polskie</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -663,10 +663,10 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       <td>
         <ul>
             <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 1</li>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 24</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 59</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 63</li>
-            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 72</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 25</li>
+            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 29</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 36</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -687,11 +687,11 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 62</li>
-            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 71</li>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 74</li>
-            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 77</li>
-            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 88</li>
+            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 13</li>
+            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 24</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 27</li>
+            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 28</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -808,8 +808,8 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 6</li>
-            <li> <a href="{{ "/tags/ireland" | relative_url }}">ireland</a> # 95</li>
+            <li> <a href="{{ "/tags/ireland" | relative_url }}">ireland</a> # 6</li>
+            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -830,13 +830,14 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 60</li>
+            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>33</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/573800bf9fb3136a84e3ec25aacb121e.png" alt="Cover for Poetry" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-04-07</td>
       <td>清春</td>
@@ -865,10 +866,10 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 77</li>
-            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 77</li>
-            <li> <a href="{{ "/tags/brass" | relative_url }}">brass</a> # 87</li>
-            <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 92</li>
+            <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 9</li>
+            <li> <a href="{{ "/tags/brass" | relative_url }}">brass</a> # 13</li>
+            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 23</li>
+            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -889,6 +890,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -909,10 +911,10 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 69</li>
-            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 71</li>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 94</li>
-            <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 100</li>
+            <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 1</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 7</li>
+            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 29</li>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -998,14 +1000,14 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 16</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 14</li>
+            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 18</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 29</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 40</li>
             <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 42</li>
-            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 44</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 57</li>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 61</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 69</li>
-            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 83</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 85</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 43</li>
+            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 56</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1099,10 +1101,10 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 22</li>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 37</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 43</li>
             <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 49</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 57</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 63</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1132,13 +1134,13 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 72</li>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 80</li>
-            <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 85</li>
-            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 86</li>
-            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 89</li>
-            <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 89</li>
-            <li> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a> # 91</li>
+            <li> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a> # 10</li>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 12</li>
+            <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 12</li>
+            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 15</li>
+            <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 16</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 21</li>
+            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1194,9 +1196,9 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 5</li>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 11</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 30</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 70</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 89</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1290,7 +1292,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 2</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1308,7 +1310,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 84</li>
+            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1350,6 +1352,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
     <tr>
       <td>66</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fac970ddb6900fdf88864a9f9a582b38.png" alt="Cover for Kari-gurashi" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-04-07</td>
       <td>Cécile Corbel</td>
@@ -1376,9 +1379,9 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 66</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 12</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 35</li>
             <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 67</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1415,12 +1418,12 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 40</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 65</li>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 82</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 88</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 91</li>
-            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 93</li>
+            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 6</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 8</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 11</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 19</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 32</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1440,7 +1443,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ukraine" | relative_url }}">ukraine</a> # 44</li>
+            <li> <a href="{{ "/tags/ukraine" | relative_url }}">ukraine</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1619,18 +1622,18 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 37</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 44</li>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 50</li>
-            <li> <a href="{{ "/tags/new-prog" | relative_url }}">new prog</a> # 58</li>
-            <li> <a href="{{ "/tags/dark-metal" | relative_url }}">dark metal</a> # 60</li>
-            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 75</li>
-            <li> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a> # 84</li>
-            <li> <a href="{{ "/tags/greek" | relative_url }}">greek</a> # 85</li>
+            <li> <a href="{{ "/tags/neo-prog" | relative_url }}">neo-prog</a> # 4</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 9</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 11</li>
+            <li> <a href="{{ "/tags/greek" | relative_url }}">greek</a> # 14</li>
+            <li> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a> # 15</li>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 25</li>
+            <li> <a href="{{ "/tags/dark-metal" | relative_url }}">dark metal</a> # 41</li>
+            <li> <a href="{{ "/tags/new-prog" | relative_url }}">new prog</a> # 43</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 51</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 51</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 63</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 87</li>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 90</li>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 92</li>
-            <li> <a href="{{ "/tags/neo-prog" | relative_url }}">neo-prog</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1695,11 +1698,11 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 10</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 68</li>
-            <li> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a> # 68</li>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 79</li>
-            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 83</li>
+            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 18</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 22</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 31</li>
+            <li> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a> # 33</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1723,11 +1726,11 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/medieval-ambient" | relative_url }}">medieval ambient</a> # 14</li>
             <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 14</li>
-            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 53</li>
-            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 55</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 59</li>
-            <li> <a href="{{ "/tags/medieval-ambient" | relative_url }}">medieval ambient</a> # 87</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 40</li>
+            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 44</li>
+            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1745,7 +1748,6 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1763,13 +1765,15 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 37</li>
-            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 49</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 64</li>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 69</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 74</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 82</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 100</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 4</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 10</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 22</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 24</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 32</li>
+            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 42</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 52</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 69</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1792,8 +1796,8 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 7</li>
-            <li> <a href="{{ "/tags/tribal-ambient" | relative_url }}">tribal ambient</a> # 71</li>
+            <li> <a href="{{ "/tags/tribal-ambient" | relative_url }}">tribal ambient</a> # 30</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1815,7 +1819,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 68</li>
+            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1839,9 +1843,9 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a> # 63</li>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 85</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 87</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 14</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 16</li>
+            <li> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1882,7 +1886,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-rock" | relative_url }}">ambient rock</a> # 97</li>
+            <li> <a href="{{ "/tags/ambient-rock" | relative_url }}">ambient rock</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1903,22 +1907,22 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 2</li>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 19</li>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 63</li>
-            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 76</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 78</li>
-            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 85</li>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 85</li>
-            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 88</li>
-            <li> <a href="{{ "/tags/eurobeat" | relative_url }}">eurobeat</a> # 93</li>
-            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 94</li>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 95</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 96</li>
-            <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 98</li>
-            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 99</li>
-            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 99</li>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 100</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 1</li>
+            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 2</li>
+            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 2</li>
+            <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 3</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 4</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 6</li>
+            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 7</li>
+            <li> <a href="{{ "/tags/eurobeat" | relative_url }}">eurobeat</a> # 8</li>
+            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 12</li>
+            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 14</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 16</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 23</li>
+            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 25</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 37</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 77</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1957,7 +1961,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 3</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1979,8 +1983,8 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 72</li>
-            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 93</li>
+            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 8</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -2039,7 +2043,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indonesian" | relative_url }}">indonesian</a> # 60</li>
+            <li> <a href="{{ "/tags/indonesian" | relative_url }}">indonesian</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -2057,7 +2061,7 @@ Poetry as a music genre blends spoken or sung verse with musical accompaniment, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polskie" | relative_url }}">polskie</a> # 53</li>
+            <li> <a href="{{ "/tags/polskie" | relative_url }}">polskie</a> # 47</li>
         </ul>
       </td>
     </tr>

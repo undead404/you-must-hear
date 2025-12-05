@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-24T04:56:38.060Z
+date: 2025-12-05T05:02:23.619Z
 permalink: tags/cabaret
 title: cabaret
 ---
 
 ## cabaret
 
-Last updated: <time datetime="2025-11-24T04:56:38.060Z">Mon Nov 24 2025 06:56:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T05:02:23.619Z">Fri Dec 05 2025 07:02:23 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -42,7 +42,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a> # 88</li>
+            <li> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -64,8 +64,8 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a> # 30</li>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 72</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 29</li>
+            <li> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -87,7 +87,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avantgarde-pop" | relative_url }}">avantgarde pop</a> # 24</li>
+            <li> <a href="{{ "/tags/avantgarde-pop" | relative_url }}">avantgarde pop</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -127,7 +127,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 61</li>
+            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -175,9 +175,9 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 61</li>
-            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 72</li>
-            <li> <a href="{{ "/tags/showtune" | relative_url }}">showtune</a> # 99</li>
+            <li> <a href="{{ "/tags/showtune" | relative_url }}">showtune</a> # 2</li>
+            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 29</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -194,7 +194,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 59</li>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -214,7 +214,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 36</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -234,7 +234,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 63</li>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -359,7 +359,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 35</li>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -377,7 +377,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 60</li>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -416,8 +416,8 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a> # 35</li>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 44</li>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 56</li>
+            <li> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -454,7 +454,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deathrock" | relative_url }}">deathrock</a> # 92</li>
+            <li> <a href="{{ "/tags/deathrock" | relative_url }}">deathrock</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -493,7 +493,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 15</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -531,7 +531,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 53</li>
+            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -578,8 +578,8 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 73</li>
-            <li> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a> # 88</li>
+            <li> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a> # 13</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -596,7 +596,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 89</li>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -638,7 +638,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 27</li>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -694,7 +694,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gypsy" | relative_url }}">gypsy</a> # 100</li>
+            <li> <a href="{{ "/tags/gypsy" | relative_url }}">gypsy</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -718,8 +718,8 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 37</li>
-            <li> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a> # 94</li>
+            <li> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a> # 8</li>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -738,7 +738,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-jazz" | relative_url }}">dark jazz</a> # 62</li>
+            <li> <a href="{{ "/tags/dark-jazz" | relative_url }}">dark jazz</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -758,8 +758,8 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 43</li>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 77</li>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 23</li>
+            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -783,8 +783,8 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 36</li>
-            <li> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a> # 93</li>
+            <li> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a> # 7</li>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -805,7 +805,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 26</li>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -824,7 +824,9 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 7</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 30</li>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 92</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1187,8 +1189,8 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 3</li>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 17</li>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 83</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1208,8 +1210,8 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 2</li>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 29</li>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 71</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1227,7 +1229,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/western" | relative_url }}">western</a> # 74</li>
+            <li> <a href="{{ "/tags/western" | relative_url }}">western</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1327,7 +1329,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 47</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1348,7 +1350,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 42</li>
+            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1386,7 +1388,6 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1405,7 +1406,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 98</li>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1462,7 +1463,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-jazz" | relative_url }}">dark jazz</a> # 84</li>
+            <li> <a href="{{ "/tags/dark-jazz" | relative_url }}">dark jazz</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1483,7 +1484,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 36</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1506,8 +1507,8 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 25</li>
-            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 48</li>
+            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 52</li>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1526,7 +1527,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 28</li>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1544,7 +1545,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 91</li>
+            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1566,7 +1567,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 85</li>
+            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1602,7 +1603,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 99</li>
+            <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1641,7 +1642,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 60</li>
+            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1664,9 +1665,9 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 56</li>
-            <li> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a> # 86</li>
-            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 86</li>
+            <li> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a> # 14</li>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 15</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1684,7 +1685,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 80</li>
+            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1723,7 +1724,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 51</li>
+            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1743,7 +1744,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ukraine" | relative_url }}">ukraine</a> # 40</li>
+            <li> <a href="{{ "/tags/ukraine" | relative_url }}">ukraine</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1782,9 +1783,9 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 18</li>
-            <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 23</li>
-            <li> <a href="{{ "/tags/symphonic-prog" | relative_url }}">symphonic prog</a> # 92</li>
+            <li> <a href="{{ "/tags/symphonic-prog" | relative_url }}">symphonic prog</a> # 9</li>
+            <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 78</li>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1821,6 +1822,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1844,7 +1846,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 56</li>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1869,8 +1871,8 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 78</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 85</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 16</li>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1910,7 +1912,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a> # 21</li>
+            <li> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1930,7 +1932,7 @@ Cabaret is a theatrical music genre combining dramatic vocals, piano-driven melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/broadway" | relative_url }}">broadway</a> # 48</li>
+            <li> <a href="{{ "/tags/broadway" | relative_url }}">broadway</a> # 53</li>
         </ul>
       </td>
     </tr>

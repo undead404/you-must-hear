@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-11T04:55:46.449Z
+date: 2025-12-05T04:59:17.500Z
 permalink: tags/poptron
 title: poptron
 ---
 
 ## poptron
 
-Last updated: <time datetime="2025-11-11T04:55:46.449Z">Tue Nov 11 2025 06:55:46 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T04:59:17.500Z">Fri Dec 05 2025 06:59:17 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -48,7 +48,7 @@ Poptron blends electronic production with pop songcraft, characterized by shimme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 44</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -77,6 +77,7 @@ Poptron blends electronic production with pop songcraft, characterized by shimme
     <tr>
       <td>88</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5ff967f0f6a69b1f00d437c57920a353.png" alt="Cover for The Divine Punishment" style="max-width:120px; height:auto;" />
       </td>
       <td>1986-06-30</td>
       <td>Diamanda Galás</td>
@@ -94,7 +95,7 @@ Poptron blends electronic production with pop songcraft, characterized by shimme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 12</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -119,14 +120,14 @@ Poptron blends electronic production with pop songcraft, characterized by shimme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 81</li>
+            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 20</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>75</td>
       <td>
-          <img src="https://i.discogs.com/TzTde-tJlteE8MpaVvZlEZ96CrgqgXUq7LaCbAg7AI0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDA1/ODAtMTE4MjYwOTcx/Mi5qcGVn.jpeg" alt="Cover for Dirty Love Songs" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b1e558a433190e141d877b28665a4fec.png" alt="Cover for Dirty Love Songs" style="max-width:120px; height:auto;" />
       </td>
       <td>1987</td>
       <td>GG Allin</td>
@@ -143,7 +144,7 @@ Poptron blends electronic production with pop songcraft, characterized by shimme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 90</li>
+            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -170,13 +171,14 @@ Poptron blends electronic production with pop songcraft, characterized by shimme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 32</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>80</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/761aa419ec61ec1ec30566930f118d8b.png" alt="Cover for You Must Be Certain of the Devil" style="max-width:120px; height:auto;" />
       </td>
       <td>1988</td>
       <td>Diamanda Galás</td>
@@ -193,8 +195,8 @@ Poptron blends electronic production with pop songcraft, characterized by shimme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 39</li>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 58</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 40</li>
+            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -211,8 +213,8 @@ Poptron blends electronic production with pop songcraft, characterized by shimme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 4</li>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 81</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 20</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -272,13 +274,14 @@ Poptron blends electronic production with pop songcraft, characterized by shimme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 76</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 25</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>68</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/87522a9f1727402fc08c867dc3693020.png" alt="Cover for The Singer" style="max-width:120px; height:auto;" />
       </td>
       <td>1992-04-07</td>
       <td>Diamanda Galás</td>
@@ -293,13 +296,14 @@ Poptron blends electronic production with pop songcraft, characterized by shimme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 15</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>60</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d949f66e98a3fd050015fd1b6ef16c78.png" alt="Cover for Vena Cava" style="max-width:120px; height:auto;" />
       </td>
       <td>1993-09-07</td>
       <td>Diamanda Galás</td>
@@ -348,8 +352,8 @@ Poptron blends electronic production with pop songcraft, characterized by shimme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 50</li>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 88</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 13</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -378,14 +382,14 @@ Poptron blends electronic production with pop songcraft, characterized by shimme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 38</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>91</td>
       <td>
-          <img src="https://i.discogs.com/CV1XgIOK6KFvFdnpK9qqLIJEV1pcWy4sVjlynzwuUi4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDE3/NzYtMTI5NzQ5MzQ0/OC5qcGVn.jpeg" alt="Cover for freaks, faggots, drunks and junkies" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/44276cfd072eba2c3132cadd58bae741.png" alt="Cover for freaks, faggots, drunks and junkies" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>GG Allin</td>
@@ -396,8 +400,8 @@ Poptron blends electronic production with pop songcraft, characterized by shimme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 45</li>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 90</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 11</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -416,9 +420,9 @@ Poptron blends electronic production with pop songcraft, characterized by shimme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 9</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 14</li>
-            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 98</li>
+            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 1</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 79</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -443,8 +447,8 @@ Poptron blends electronic production with pop songcraft, characterized by shimme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 13</li>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 28</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 70</li>
+            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -477,13 +481,14 @@ Poptron blends electronic production with pop songcraft, characterized by shimme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 10</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>34</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e16ae11bfedf4acddff88e2370f24a81.png" alt="Cover for Chasing the Ghost" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-10-31</td>
       <td>Collide</td>
@@ -496,9 +501,10 @@ Poptron blends electronic production with pop songcraft, characterized by shimme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 36</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 48</li>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 68</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 24</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 49</li>
+            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 64</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -517,6 +523,7 @@ Poptron blends electronic production with pop songcraft, characterized by shimme
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -530,19 +537,18 @@ Poptron blends electronic production with pop songcraft, characterized by shimme
       <td>Ariel</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
-            <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
-            <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 72.72727272727273 / 100)"> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a></li>
+            <li style="font-size: calc(1rem * 72.72727272727273 / 100)"> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a></li>
+            <li style="font-size: calc(1rem * 72.72727272727273 / 100)"> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a></li>
+            <li style="font-size: calc(1rem * 72.72727272727273 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 41</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 55</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -559,7 +565,7 @@ Poptron blends electronic production with pop songcraft, characterized by shimme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 71</li>
+            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -584,7 +590,7 @@ Poptron blends electronic production with pop songcraft, characterized by shimme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 79</li>
+            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -629,12 +635,14 @@ Poptron blends electronic production with pop songcraft, characterized by shimme
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>44</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6df0a419239ec0247be760f6d0f7e522.png" alt="Cover for Navigatoria" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-07-20</td>
       <td>志方あきこ</td>
@@ -656,14 +664,14 @@ Poptron blends electronic production with pop songcraft, characterized by shimme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 15</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 14</li>
+            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 18</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 29</li>
             <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 34</li>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 40</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 55</li>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 61</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 69</li>
-            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 83</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 85</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 40</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 42</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 43</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -692,7 +700,7 @@ Poptron blends electronic production with pop songcraft, characterized by shimme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 20</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -718,6 +726,7 @@ Poptron blends electronic production with pop songcraft, characterized by shimme
     <tr>
       <td>67</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7354041d9659dd885b45ec157d641fc5.png" alt="Cover for The Garden of the Hesperides" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-09-28</td>
       <td>Hexperos</td>
@@ -731,7 +740,7 @@ Poptron blends electronic production with pop songcraft, characterized by shimme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 87</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -752,8 +761,9 @@ Poptron blends electronic production with pop songcraft, characterized by shimme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 16</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 90</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 10</li>
+            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 84</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -787,18 +797,10 @@ Poptron blends electronic production with pop songcraft, characterized by shimme
       <td>Bag Raiders (Deluxe)</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/australian" | relative_url }}">australian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 31</li>
-            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -823,8 +825,8 @@ Poptron blends electronic production with pop songcraft, characterized by shimme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 42</li>
-            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 85</li>
+            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 16</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -854,7 +856,7 @@ Poptron blends electronic production with pop songcraft, characterized by shimme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 13</li>
+            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -875,11 +877,11 @@ Poptron blends electronic production with pop songcraft, characterized by shimme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 53</li>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 77</li>
-            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 78</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 84</li>
-            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 97</li>
+            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 4</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 15</li>
+            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 23</li>
+            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 48</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -961,18 +963,19 @@ Poptron blends electronic production with pop songcraft, characterized by shimme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 39</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 65</li>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 82</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 87</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 8</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 11</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 19</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 32</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 59</li>
             <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 91</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>40</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f38deeee1e442ffb629d2bbcd08fdbc.png" alt="Cover for 白夢の繭～Ricordando il passato～" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-06-08</td>
       <td>志方あきこ</td>
@@ -1000,12 +1003,12 @@ Poptron blends electronic production with pop songcraft, characterized by shimme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 13</li>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 17</li>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 23</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 50</li>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 60</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 72</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 21</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 25</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 27</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 35</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 47</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1033,8 +1036,8 @@ Poptron blends electronic production with pop songcraft, characterized by shimme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 62</li>
-            <li> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a> # 89</li>
+            <li> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a> # 12</li>
+            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1066,19 +1069,11 @@ Poptron blends electronic production with pop songcraft, characterized by shimme
       <td>Finale</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 25</li>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 94</li>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 99</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1102,8 +1097,8 @@ Poptron blends electronic production with pop songcraft, characterized by shimme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 20</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 40</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 57</li>
+            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1156,8 +1151,8 @@ Poptron blends electronic production with pop songcraft, characterized by shimme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 25</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 37</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 64</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1188,9 +1183,9 @@ Poptron blends electronic production with pop songcraft, characterized by shimme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 13</li>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 39</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 47</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 54</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 62</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1310,8 +1305,8 @@ Poptron blends electronic production with pop songcraft, characterized by shimme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 1</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 23</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 78</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1342,9 +1337,9 @@ Poptron blends electronic production with pop songcraft, characterized by shimme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 54</li>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 70</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 71</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 30</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 31</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1462,13 +1457,13 @@ Poptron blends electronic production with pop songcraft, characterized by shimme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 25</li>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 40</li>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 47</li>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 57</li>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 75</li>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 79</li>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 93</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 7</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 21</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 22</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 38</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 52</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 56</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1533,11 +1528,11 @@ Poptron blends electronic production with pop songcraft, characterized by shimme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 12</li>
+            <li> <a href="{{ "/tags/medieval-ambient" | relative_url }}">medieval ambient</a> # 14</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 14</li>
             <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 28</li>
-            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 53</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 58</li>
-            <li> <a href="{{ "/tags/medieval-ambient" | relative_url }}">medieval ambient</a> # 87</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 40</li>
+            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1560,25 +1555,25 @@ Poptron blends electronic production with pop songcraft, characterized by shimme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 39</li>
+            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>79</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f6b0a5c79f144cdacc901d1f804f5193.png" alt="Cover for E s t a r a" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-03-29</td>
       <td>Teebs</td>
       <td>E s t a r a</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 91</li>
+            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1602,10 +1597,10 @@ Poptron blends electronic production with pop songcraft, characterized by shimme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 36</li>
-            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 66</li>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 75</li>
-            <li> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a> # 86</li>
+            <li> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a> # 14</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 26</li>
+            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 33</li>
+            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1670,14 +1665,14 @@ Poptron blends electronic production with pop songcraft, characterized by shimme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 42</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/9n5-7lNeCTjFLchSLnZnVysfH8eIknMAkQ3FLXFppSQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMTM2/MTctMTQzMTcwMTE3/NS04MTk3LmpwZWc.jpeg" alt="Cover for Platform" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb59a3615ce93f6fc3388e18fe0b2563.png" alt="Cover for Platform" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-05-18</td>
       <td>Holly Herndon</td>
@@ -1685,13 +1680,13 @@ Poptron blends electronic production with pop songcraft, characterized by shimme
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
-            <li style="font-size: calc(1rem * 72 / 100)"> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a></li>
-            <li style="font-size: calc(1rem * 72 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+            <li style="font-size: calc(1rem * 90 / 100)"> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a></li>
+            <li style="font-size: calc(1rem * 90 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 40</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1725,7 +1720,7 @@ Poptron blends electronic production with pop songcraft, characterized by shimme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 24</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1743,7 +1738,6 @@ Poptron blends electronic production with pop songcraft, characterized by shimme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1767,7 +1761,7 @@ Poptron blends electronic production with pop songcraft, characterized by shimme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 38</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1884,7 +1878,7 @@ Poptron blends electronic production with pop songcraft, characterized by shimme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 49</li>
+            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1915,7 +1909,7 @@ Poptron blends electronic production with pop songcraft, characterized by shimme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 8</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1946,9 +1940,9 @@ Poptron blends electronic production with pop songcraft, characterized by shimme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 5</li>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 32</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 40</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 61</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 69</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1979,9 +1973,9 @@ Poptron blends electronic production with pop songcraft, characterized by shimme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 26</li>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 50</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 54</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 47</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 51</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -2012,10 +2006,10 @@ Poptron blends electronic production with pop songcraft, characterized by shimme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 40</li>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 86</li>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 90</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 91</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 10</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 11</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 15</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -2096,21 +2090,22 @@ Poptron blends electronic production with pop songcraft, characterized by shimme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 13</li>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 57</li>
-            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 76</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 1</li>
+            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 2</li>
+            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 2</li>
+            <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 3</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 4</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 6</li>
+            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 7</li>
+            <li> <a href="{{ "/tags/eurobeat" | relative_url }}">eurobeat</a> # 8</li>
+            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 12</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 16</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 23</li>
+            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 25</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 37</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 77</li>
             <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 77</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 77</li>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 85</li>
-            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 88</li>
-            <li> <a href="{{ "/tags/eurobeat" | relative_url }}">eurobeat</a> # 93</li>
-            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 94</li>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 94</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 96</li>
-            <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 98</li>
-            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 99</li>
-            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 99</li>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 100</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -2258,8 +2253,8 @@ Poptron blends electronic production with pop songcraft, characterized by shimme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 21</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 35</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 66</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -2290,10 +2285,10 @@ Poptron blends electronic production with pop songcraft, characterized by shimme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 21</li>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 75</li>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 84</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 87</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 14</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 17</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 26</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -2362,7 +2357,7 @@ Poptron blends electronic production with pop songcraft, characterized by shimme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a> # 62</li>
+            <li> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -2393,9 +2388,9 @@ Poptron blends electronic production with pop songcraft, characterized by shimme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 23</li>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 48</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 53</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 48</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 53</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -2426,9 +2421,9 @@ Poptron blends electronic production with pop songcraft, characterized by shimme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 52</li>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 69</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 70</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 31</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 32</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -2456,7 +2451,7 @@ Poptron blends electronic production with pop songcraft, characterized by shimme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 5</li>
+            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -2470,21 +2465,19 @@ Poptron blends electronic production with pop songcraft, characterized by shimme
       <td>Promised Land</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
-            <li style="font-size: calc(1rem * 90 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
-            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
-            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 8</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>16</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0128d00bf9225afbbc99433245efe19b.png" alt="Cover for caTra" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>志方あきこ</td>
@@ -2500,8 +2493,8 @@ Poptron blends electronic production with pop songcraft, characterized by shimme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 14</li>
-            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 30</li>
+            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 70</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -2526,7 +2519,7 @@ Poptron blends electronic production with pop songcraft, characterized by shimme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 31</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -2561,8 +2554,8 @@ Poptron blends electronic production with pop songcraft, characterized by shimme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 29</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 36</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 60</li>
+            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -2584,14 +2577,16 @@ Poptron blends electronic production with pop songcraft, characterized by shimme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 14</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 45</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 52</li>
+            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 86</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>37</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/50d05605087940db8c731d2f94b20b76.png" alt="Cover for LAYLANIA" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>志方あきこ</td>
@@ -2612,8 +2607,8 @@ Poptron blends electronic production with pop songcraft, characterized by shimme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 4</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 7</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 92</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -2663,8 +2658,8 @@ Poptron blends electronic production with pop songcraft, characterized by shimme
 - [pop]({{ "/tags/pop" | relative_url }})
 - [indie pop]({{ "/tags/indie-pop" | relative_url }})
 - [alternative]({{ "/tags/alternative" | relative_url }})
-- [electronic]({{ "/tags/electronic" | relative_url }})
 - [female vocalists]({{ "/tags/female-vocalists" | relative_url }})
+- [electronic]({{ "/tags/electronic" | relative_url }})
 - [art pop]({{ "/tags/art-pop" | relative_url }})
 - [j-pop]({{ "/tags/j-pop" | relative_url }})
 - [japanese]({{ "/tags/japanese" | relative_url }})

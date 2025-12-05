@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T02:34:41.720Z
+date: 2025-12-05T05:23:45.896Z
 permalink: tags/nwothm
 title: nwothm
 ---
 
 ## nwothm
 
-Last updated: <time datetime="2025-11-23T02:34:41.720Z">Sun Nov 23 2025 04:34:41 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T05:23:45.896Z">Fri Dec 05 2025 07:23:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -49,7 +49,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
     <tr>
       <td>15</td>
       <td>
-          <img src="https://i.discogs.com/KoIF_mDt6bFcB0iQ-i0M4ejimXLp2-BpjfgoihlEaMM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTYx/MTIyLTE1MDcyNjA0/NzctNTEzOC5qcGVn.jpeg" alt="Cover for Demo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e3c052aa77dd66a03a6f2de409b2a082.png" alt="Cover for Demo" style="max-width:120px; height:auto;" />
       </td>
       <td>1978</td>
       <td>Striker</td>
@@ -102,7 +102,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-heavy-metal" | relative_url }}">traditional heavy metal</a> # 75</li>
+            <li> <a href="{{ "/tags/traditional-heavy-metal" | relative_url }}">traditional heavy metal</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -126,7 +126,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-heavy-metal" | relative_url }}">traditional heavy metal</a> # 86</li>
+            <li> <a href="{{ "/tags/traditional-heavy-metal" | relative_url }}">traditional heavy metal</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -337,7 +337,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german-metal" | relative_url }}">german metal</a> # 48</li>
+            <li> <a href="{{ "/tags/german-metal" | relative_url }}">german metal</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -393,7 +393,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 45</li>
+            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -803,7 +803,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/portuguese" | relative_url }}">portuguese</a> # 1</li>
+            <li> <a href="{{ "/tags/portuguese" | relative_url }}">portuguese</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1011,7 +1011,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 20</li>
+            <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1038,8 +1038,8 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 93</li>
-            <li> <a href="{{ "/tags/traditional-heavy-metal" | relative_url }}">traditional heavy metal</a> # 96</li>
+            <li> <a href="{{ "/tags/traditional-heavy-metal" | relative_url }}">traditional heavy metal</a> # 5</li>
+            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1079,7 +1079,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-heavy-metal" | relative_url }}">traditional heavy metal</a> # 51</li>
+            <li> <a href="{{ "/tags/traditional-heavy-metal" | relative_url }}">traditional heavy metal</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1175,7 +1175,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-heavy-metal" | relative_url }}">traditional heavy metal</a> # 37</li>
+            <li> <a href="{{ "/tags/traditional-heavy-metal" | relative_url }}">traditional heavy metal</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1240,7 +1240,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-heavy-metal" | relative_url }}">traditional heavy metal</a> # 84</li>
+            <li> <a href="{{ "/tags/traditional-heavy-metal" | relative_url }}">traditional heavy metal</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1302,8 +1302,8 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 54</li>
-            <li> <a href="{{ "/tags/traditional-heavy-metal" | relative_url }}">traditional heavy metal</a> # 76</li>
+            <li> <a href="{{ "/tags/traditional-heavy-metal" | relative_url }}">traditional heavy metal</a> # 25</li>
+            <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1368,7 +1368,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 79</li>
+            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1387,7 +1387,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-heavy-metal" | relative_url }}">traditional heavy metal</a> # 60</li>
+            <li> <a href="{{ "/tags/traditional-heavy-metal" | relative_url }}">traditional heavy metal</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1470,7 +1470,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-heavy-metal" | relative_url }}">traditional heavy metal</a> # 64</li>
+            <li> <a href="{{ "/tags/traditional-heavy-metal" | relative_url }}">traditional heavy metal</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1490,7 +1490,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 66</li>
+            <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1534,7 +1534,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish-metal" | relative_url }}">polish metal</a> # 27</li>
+            <li> <a href="{{ "/tags/polish-metal" | relative_url }}">polish metal</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1616,7 +1616,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 35</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1734,8 +1734,8 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 36</li>
-            <li> <a href="{{ "/tags/traditional-heavy-metal" | relative_url }}">traditional heavy metal</a> # 78</li>
+            <li> <a href="{{ "/tags/traditional-heavy-metal" | relative_url }}">traditional heavy metal</a> # 23</li>
+            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1756,7 +1756,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish-metal" | relative_url }}">polish metal</a> # 51</li>
+            <li> <a href="{{ "/tags/polish-metal" | relative_url }}">polish metal</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1778,7 +1778,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-heavy-metal" | relative_url }}">traditional heavy metal</a> # 55</li>
+            <li> <a href="{{ "/tags/traditional-heavy-metal" | relative_url }}">traditional heavy metal</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1948,7 +1948,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish-metal" | relative_url }}">polish metal</a> # 28</li>
+            <li> <a href="{{ "/tags/polish-metal" | relative_url }}">polish metal</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1991,7 +1991,7 @@ NWoTHM stands for New Wave of Traditional Heavy Metal, a subgenre of heavy metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german-metal" | relative_url }}">german metal</a> # 73</li>
+            <li> <a href="{{ "/tags/german-metal" | relative_url }}">german metal</a> # 28</li>
         </ul>
       </td>
     </tr>

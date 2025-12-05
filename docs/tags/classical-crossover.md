@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-18T15:09:33.363Z
+date: 2025-12-05T05:15:45.922Z
 permalink: tags/classical-crossover
 title: classical crossover
 ---
 
 ## classical crossover
 
-Last updated: <time datetime="2025-11-18T15:09:33.363Z">Tue Nov 18 2025 17:09:33 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T05:15:45.922Z">Fri Dec 05 2025 07:15:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -49,11 +49,11 @@ Classical crossover blends orchestral instruments and classical music techniques
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 47</li>
+            <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 1</li>
+            <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 1</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 17</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 45</li>
             <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 82</li>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 84</li>
-            <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 100</li>
-            <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -116,7 +116,7 @@ Classical crossover blends orchestral instruments and classical music techniques
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lieder" | relative_url }}">lieder</a> # 92</li>
+            <li> <a href="{{ "/tags/lieder" | relative_url }}">lieder</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -135,7 +135,7 @@ Classical crossover blends orchestral instruments and classical music techniques
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/opera" | relative_url }}">opera</a> # 11</li>
+            <li> <a href="{{ "/tags/opera" | relative_url }}">opera</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -156,7 +156,7 @@ Classical crossover blends orchestral instruments and classical music techniques
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 25</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -175,9 +175,9 @@ Classical crossover blends orchestral instruments and classical music techniques
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 17</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 56</li>
-            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 76</li>
+            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 25</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 41</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -268,7 +268,7 @@ Classical crossover blends orchestral instruments and classical music techniques
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/opera" | relative_url }}">opera</a> # 51</li>
+            <li> <a href="{{ "/tags/opera" | relative_url }}">opera</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -331,11 +331,11 @@ Classical crossover blends orchestral instruments and classical music techniques
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 24</li>
-            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 26</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 59</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 63</li>
-            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 72</li>
+            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 29</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 36</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 41</li>
+            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 75</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -374,6 +374,7 @@ Classical crossover blends orchestral instruments and classical music techniques
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -470,16 +471,16 @@ Classical crossover blends orchestral instruments and classical music techniques
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 1</li>
-            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 9</li>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 23</li>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 46</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 48</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 58</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 71</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 71</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 82</li>
-            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 95</li>
+            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 6</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 17</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 28</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 30</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 42</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 46</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 55</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 78</li>
+            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 92</li>
+            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -524,7 +525,7 @@ Classical crossover blends orchestral instruments and classical music techniques
     <tr>
       <td>48</td>
       <td>
-          <img src="https://i.discogs.com/mLxsCFR7V-FVtDNcOIZu_VGP9QWQGBHXZyi9ODPUp_8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0OTQ1/Ny0xNDY3MTE5NDky/LTgxOTQuanBlZw.jpeg" alt="Cover for Closer Limited ed" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b8a8c76edf767653089320e8a4d7dede.png" alt="Cover for Closer Limited ed" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-11-11</td>
       <td>Josh Groban</td>
@@ -672,8 +673,9 @@ Classical crossover blends orchestral instruments and classical music techniques
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 65</li>
-            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 98</li>
+            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 3</li>
+            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 35</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -720,14 +722,14 @@ Classical crossover blends orchestral instruments and classical music techniques
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 16</li>
-            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 34</li>
-            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 44</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 57</li>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 61</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 69</li>
-            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 83</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 85</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 14</li>
+            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 18</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 29</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 40</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 43</li>
+            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 56</li>
+            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 67</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -824,12 +826,12 @@ Classical crossover blends orchestral instruments and classical music techniques
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 42</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 49</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 53</li>
-            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 59</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 66</li>
-            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 94</li>
+            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 7</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 33</li>
+            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 42</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 44</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 52</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -956,8 +958,8 @@ Classical crossover blends orchestral instruments and classical music techniques
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/opera" | relative_url }}">opera</a> # 90</li>
-            <li> <a href="{{ "/tags/tenor" | relative_url }}">tenor</a> # 98</li>
+            <li> <a href="{{ "/tags/tenor" | relative_url }}">tenor</a> # 3</li>
+            <li> <a href="{{ "/tags/opera" | relative_url }}">opera</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -991,9 +993,9 @@ Classical crossover blends orchestral instruments and classical music techniques
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 7</li>
-            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 46</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 73</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 26</li>
+            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 55</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1014,8 +1016,8 @@ Classical crossover blends orchestral instruments and classical music techniques
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 11</li>
-            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 69</li>
+            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 32</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1098,11 +1100,11 @@ Classical crossover blends orchestral instruments and classical music techniques
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 42</li>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 43</li>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 52</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 52</li>
-            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 62</li>
+            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 39</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 49</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 49</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 58</li>
+            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1140,11 +1142,11 @@ Classical crossover blends orchestral instruments and classical music techniques
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 49</li>
-            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 54</li>
-            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 78</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 85</li>
-            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 97</li>
+            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 4</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 15</li>
+            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 23</li>
+            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 48</li>
+            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1260,6 +1262,7 @@ Classical crossover blends orchestral instruments and classical music techniques
     <tr>
       <td>67</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fac970ddb6900fdf88864a9f9a582b38.png" alt="Cover for Kari-gurashi" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-04-07</td>
       <td>Cécile Corbel</td>
@@ -1286,9 +1289,9 @@ Classical crossover blends orchestral instruments and classical music techniques
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 66</li>
-            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 67</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 87</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 12</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 35</li>
+            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1331,11 +1334,11 @@ Classical crossover blends orchestral instruments and classical music techniques
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 32</li>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 34</li>
-            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 44</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 60</li>
-            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 68</li>
+            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 33</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 39</li>
+            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 57</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 66</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1355,8 +1358,8 @@ Classical crossover blends orchestral instruments and classical music techniques
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 56</li>
-            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 90</li>
+            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 11</li>
+            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1381,7 +1384,7 @@ Classical crossover blends orchestral instruments and classical music techniques
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 72</li>
+            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1416,12 +1419,12 @@ Classical crossover blends orchestral instruments and classical music techniques
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 15</li>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 20</li>
-            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 40</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 50</li>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 66</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 72</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 27</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 35</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 47</li>
+            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 60</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 80</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1473,7 +1476,7 @@ Classical crossover blends orchestral instruments and classical music techniques
     <tr>
       <td>47</td>
       <td>
-          <img src="https://i.discogs.com/4dltzSfFrqtINqR_oyZ4UDwsY_hDL2QAzT6ZwyLObgg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MjA3/NTAtMTM5NTUxMjg5/OC0xMzExLmpwZWc.jpeg" alt="Cover for Odysseus" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3641ee02a2a6423a8cb3397ac2d3f2cd.png" alt="Cover for Odysseus" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-01-01</td>
       <td>Luc Arbogast</td>
@@ -1494,13 +1497,13 @@ Classical crossover blends orchestral instruments and classical music techniques
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 9</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 18</li>
-            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 22</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 25</li>
-            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 33</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 46</li>
-            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 52</li>
+            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 49</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 55</li>
+            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 68</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 75</li>
+            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 79</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 80</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1520,8 +1523,8 @@ Classical crossover blends orchestral instruments and classical music techniques
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 65</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 74</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 23</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1556,11 +1559,11 @@ Classical crossover blends orchestral instruments and classical music techniques
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ukrainian" | relative_url }}">ukrainian</a> # 11</li>
-            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 22</li>
-            <li> <a href="{{ "/tags/ukraine" | relative_url }}">ukraine</a> # 62</li>
-            <li> <a href="{{ "/tags/classical-piano" | relative_url }}">classical piano</a> # 76</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 93</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 13</li>
+            <li> <a href="{{ "/tags/classical-piano" | relative_url }}">classical piano</a> # 25</li>
+            <li> <a href="{{ "/tags/ukraine" | relative_url }}">ukraine</a> # 39</li>
+            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 79</li>
+            <li> <a href="{{ "/tags/ukrainian" | relative_url }}">ukrainian</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1623,11 +1626,11 @@ Classical crossover blends orchestral instruments and classical music techniques
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 28</li>
-            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 53</li>
-            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 55</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 59</li>
-            <li> <a href="{{ "/tags/medieval-ambient" | relative_url }}">medieval ambient</a> # 87</li>
+            <li> <a href="{{ "/tags/medieval-ambient" | relative_url }}">medieval ambient</a> # 14</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 40</li>
+            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 44</li>
+            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 48</li>
+            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1647,9 +1650,9 @@ Classical crossover blends orchestral instruments and classical music techniques
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 42</li>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 66</li>
-            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 71</li>
+            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 29</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 34</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1669,8 +1672,8 @@ Classical crossover blends orchestral instruments and classical music techniques
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 51</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 66</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 35</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1695,7 +1698,7 @@ Classical crossover blends orchestral instruments and classical music techniques
     <tr>
       <td>12</td>
       <td>
-          <img src="https://i.discogs.com/h1xF_JoJdmhDEMSh8q7zCjqcoDACeHCkrcZLFWkWlGY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NzQ5/ODQtMTQyODUxMDgy/Ny01NzA3LmpwZWc.jpeg" alt="Cover for Oreflam" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3767ec2dab0ad025ea9f3426896b9fbb.png" alt="Cover for Oreflam" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-08-25</td>
       <td>Luc Arbogast</td>
@@ -1712,10 +1715,10 @@ Classical crossover blends orchestral instruments and classical music techniques
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 36</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 37</li>
-            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 51</li>
-            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 56</li>
+            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 45</li>
+            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 50</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 64</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1811,8 +1814,8 @@ Classical crossover blends orchestral instruments and classical music techniques
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 67</li>
-            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 100</li>
+            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 1</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1848,10 +1851,10 @@ Classical crossover blends orchestral instruments and classical music techniques
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 12</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 31</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 65</li>
-            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 84</li>
+            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 17</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 33</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 70</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1894,9 +1897,9 @@ Classical crossover blends orchestral instruments and classical music techniques
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 34</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 35</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 73</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 25</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 59</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1958,7 +1961,7 @@ Classical crossover blends orchestral instruments and classical music techniques
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 7</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -2004,7 +2007,7 @@ Classical crossover blends orchestral instruments and classical music techniques
     <tr>
       <td>49</td>
       <td>
-          <img src="https://i.discogs.com/38ec6BlSTTCjlvL3MLKK3Xi4pBPLDhHfz3N8_qt7t08/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDYy/MTEwLTE2MTcwMjAx/NjktNTc3My5qcGVn.jpeg" alt="Cover for Binary" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9abd0167cd2ba2dd8c7f8931ac0b93a9.png" alt="Cover for Binary" style="max-width:120px; height:auto;" />
       </td>
       <td>2020</td>
       <td>Mark Petrie</td>
@@ -2100,7 +2103,7 @@ Classical crossover blends orchestral instruments and classical music techniques
     <tr>
       <td>6</td>
       <td>
-          <img src="https://i.discogs.com/XskhH99M4S2Bbj6w8cJyFmFKPLAdBRAQJB94cLgGpK4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDg0/Njc5LTE3MDUzMTA1/MjEtOTc4Mi5qcGVn.jpeg" alt="Cover for Heavy Is The Crown" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/55dff907fbdedaf431efa9ed8801f379.png" alt="Cover for Heavy Is The Crown" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-11-15</td>
       <td>Hungry Lights</td>
@@ -2117,7 +2120,7 @@ Classical crossover blends orchestral instruments and classical music techniques
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 82</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -2139,7 +2142,7 @@ Classical crossover blends orchestral instruments and classical music techniques
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 36</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 60</li>
         </ul>
       </td>
     </tr>

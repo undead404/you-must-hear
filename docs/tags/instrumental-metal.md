@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T23:31:04.745Z
+date: 2025-12-05T04:59:51.958Z
 permalink: tags/instrumental-metal
 title: instrumental metal
 ---
 
 ## instrumental metal
 
-Last updated: <time datetime="2025-10-28T23:31:04.745Z">Wed Oct 29 2025 01:31:04 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T04:59:51.958Z">Fri Dec 05 2025 06:59:51 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -47,8 +47,8 @@ Instrumental metal removes vocals from heavy metal&#39;s aggressive sonic framew
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 8</li>
-            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 27</li>
+            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 71</li>
+            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -68,9 +68,9 @@ Instrumental metal removes vocals from heavy metal&#39;s aggressive sonic framew
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 23</li>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 68</li>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 95</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 5</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 30</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -115,27 +115,26 @@ Instrumental metal removes vocals from heavy metal&#39;s aggressive sonic framew
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/6V9d8PaHPwax3QVCESfxO3f1r6shHrQ3Sg_cNQj8mwg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MDEx/Ni0xMzU5MzA1MzY0/LTk4MjYuanBlZw.jpeg" alt="Cover for Inquisition Symphony" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/66e7744db7d98d7e218f0269f7f90b94.png" alt="Cover for Inquisition Symphony" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-09-22</td>
       <td>Apocalyptica</td>
       <td>Inquisition Symphony</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
-            <li style="font-size: calc(1rem * 59 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 68</li>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 84</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 68</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>46</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e2fd3f9720858882d1071a0cc9ac8c8b.png" alt="Cover for The Raspberry Jams" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-10-19</td>
       <td>Jason Becker</td>
@@ -153,6 +152,7 @@ Instrumental metal removes vocals from heavy metal&#39;s aggressive sonic framew
     <tr>
       <td>38</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8473cdb9c4dcece1eaf2bc13c62708ca.png" alt="Cover for Cult" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-08-24</td>
       <td>Apocalyptica</td>
@@ -164,8 +164,8 @@ Instrumental metal removes vocals from heavy metal&#39;s aggressive sonic framew
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 50</li>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 82</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 13</li>
+            <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -202,7 +202,7 @@ Instrumental metal removes vocals from heavy metal&#39;s aggressive sonic framew
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 10</li>
+            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -304,7 +304,7 @@ Instrumental metal removes vocals from heavy metal&#39;s aggressive sonic framew
     <tr>
       <td>51</td>
       <td>
-          <img src="https://i.discogs.com/qo3Y7lRrS1eZ3qBdCebafhcgpUqT13w3A1VBgd32L9U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODc4/NTM1LTE1ODMzMjk3/ODEtNDY4NS5qcGVn.jpeg" alt="Cover for Heavy Man X" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e32f32f13d7c2ecf2e9618cf497c3ca6.png" alt="Cover for Heavy Man X" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Megadriver</td>
@@ -320,14 +320,14 @@ Instrumental metal removes vocals from heavy metal&#39;s aggressive sonic framew
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 4</li>
+            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>30</td>
       <td>
-          <img src="https://i.discogs.com/H_Xd_o5jipYqjn2K8mROCV4ALrH98I3DD6FOFUih78Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDgz/MDItMTU0MTg2ODM2/My04MjM2LmpwZWc.jpeg" alt="Cover for Impulse" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3ebcbce1a3842461e65e4c660af581c5.png" alt="Cover for Impulse" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Corpora</td>
@@ -364,7 +364,7 @@ Instrumental metal removes vocals from heavy metal&#39;s aggressive sonic framew
     <tr>
       <td>32</td>
       <td>
-          <img src="https://i.discogs.com/lI3H8_FaiGDv7e88nmbavNhRYYDPjHw6oEu5yYVXQkQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDgy/MjgtMTMxMTQ3OTc5/MC5qcGVn.jpeg" alt="Cover for MASTER SYNTH" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/67eb8d52f80f43b8b8369c818a98ecb8.png" alt="Cover for MASTER SYNTH" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-08-02</td>
       <td>Red Ankh</td>
@@ -387,14 +387,14 @@ Instrumental metal removes vocals from heavy metal&#39;s aggressive sonic framew
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 36</li>
+            <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>13</td>
       <td>
-          <img src="https://i.discogs.com/nqKTH5vOkLKOFKywsIj843Dohq1sHk_6ok7IDm7qdag/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDgy/MzUtMTMxMTQ4MDE2/OC5qcGVn.jpeg" alt="Cover for 13:17:30" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/21bfd175875b43e8a6cbe1438f2bf2b3.png" alt="Cover for 13:17:30" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-08-11</td>
       <td>Red Ankh</td>
@@ -481,14 +481,14 @@ Instrumental metal removes vocals from heavy metal&#39;s aggressive sonic framew
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shred" | relative_url }}">shred</a> # 59</li>
+            <li> <a href="{{ "/tags/shred" | relative_url }}">shred</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>90</td>
       <td>
-          <img src="https://i.discogs.com/kH3P-t-XKxIttfZkjNUSHnrOpRH3NNgs4oqmxTHr5E0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3ODM2/NTgtMTQ4NjI3NTA1/Ni01NzQ5LmpwZWc.jpeg" alt="Cover for Varia Suite" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef3a19b0e8a24f4d9342f6ebe47724e1.png" alt="Cover for Varia Suite" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Stemage</td>
@@ -504,8 +504,8 @@ Instrumental metal removes vocals from heavy metal&#39;s aggressive sonic framew
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 12</li>
-            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 55</li>
+            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 46</li>
+            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -528,15 +528,15 @@ Instrumental metal removes vocals from heavy metal&#39;s aggressive sonic framew
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 16</li>
-            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 58</li>
+            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 43</li>
+            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>60</td>
       <td>
-          <img src="https://i.discogs.com/7sLcLLboL1Uv6sBWYe4n1v1vcyMECN-HouSSK6-jcX8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjY3/Mjc0LTE1OTU1NTIw/MzYtOTYzOC5qcGVn.jpeg" alt="Cover for Metathesis" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b625fa2fe8bac621a18080b18bd166d7.png" alt="Cover for Metathesis" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Axiom</td>
@@ -571,7 +571,7 @@ Instrumental metal removes vocals from heavy metal&#39;s aggressive sonic framew
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 42</li>
+            <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -592,28 +592,7 @@ Instrumental metal removes vocals from heavy metal&#39;s aggressive sonic framew
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shred" | relative_url }}">shred</a> # 21</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>85</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f7c90ecad3b817ac276a2c550374ae68.png" alt="Cover for Jelonek" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2007</td>
-      <td>Jelonek</td>
-      <td>Jelonek</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/polish" | relative_url }}">polish</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 41</li>
-            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 57</li>
+            <li> <a href="{{ "/tags/shred" | relative_url }}">shred</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -664,7 +643,7 @@ Instrumental metal removes vocals from heavy metal&#39;s aggressive sonic framew
     <tr>
       <td>86</td>
       <td>
-          <img src="https://i.discogs.com/KiqZqXtIv9pKVAWwrk_UuYOhwlccTzMcbXw_Vmb-bwI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4ODIy/NDUtMTQwNTMxNzUw/OC02ODk3LmpwZWc.jpeg" alt="Cover for Trial Period" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a5e9ff15f2ad00a6b4be558bf56a1aa.png" alt="Cover for Trial Period" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Deathmøle</td>
@@ -674,6 +653,23 @@ Instrumental metal removes vocals from heavy metal&#39;s aggressive sonic framew
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-metal" | relative_url }}">instrumental metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f7c90ecad3b817ac276a2c550374ae68.png" alt="Cover for Jelonek" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Jelonek</td>
+      <td>Jelonek</td>
+      <td>
+        <ul>
         </ul>
       </td>
       <td>
@@ -696,7 +692,7 @@ Instrumental metal removes vocals from heavy metal&#39;s aggressive sonic framew
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 77</li>
+            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -710,36 +706,36 @@ Instrumental metal removes vocals from heavy metal&#39;s aggressive sonic framew
       <td>Worlds Collide</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 90</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>57</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d582b0d4f3a74e99b626d7abf6e8a5bb.png" alt="Cover for The Machinations Of Dementia" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-09-18</td>
       <td>Blotted Science</td>
       <td>The Machinations Of Dementia</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>43</td>
       <td>
-          <img src="https://i.discogs.com/DaYd0Me22VnLbx-vwsZHovrwI8EH-0mx_0wNE9bSAFc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjU1/ODAtMTIzNjU4MTg4/Ni5qcGVn.jpeg" alt="Cover for Integers" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d922d81b2060f62d34ead468ee050cb9.png" alt="Cover for Integers" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-11-20</td>
       <td>Collapsar</td>
@@ -757,6 +753,7 @@ Instrumental metal removes vocals from heavy metal&#39;s aggressive sonic framew
     <tr>
       <td>7</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8cc9b84e2014977961a0325fa957efb7.png" alt="Cover for Phantasmagoria" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Cranium</td>
@@ -775,7 +772,7 @@ Instrumental metal removes vocals from heavy metal&#39;s aggressive sonic framew
     <tr>
       <td>79</td>
       <td>
-          <img src="https://i.discogs.com/Or-yjkq0c84_aYT5xWuWLhg3b348SLpKoKXKg_I7QSc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4ODIy/NjYtMTQwNTMxODM3/NS0zMjM0LmpwZWc.jpeg" alt="Cover for ???" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6e8d4d52b7790dc9537aa7f7125c2fe9.png" alt="Cover for ???" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Deathmøle</td>
@@ -831,14 +828,15 @@ Instrumental metal removes vocals from heavy metal&#39;s aggressive sonic framew
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 39</li>
-            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 53</li>
+            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 47</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>68</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7a5f1c5f6521f7a2b7c3f9e448bc5626.png" alt="Cover for Carving Desert Canyons" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-02-17</td>
       <td>Scale the Summit</td>
@@ -856,7 +854,7 @@ Instrumental metal removes vocals from heavy metal&#39;s aggressive sonic framew
     <tr>
       <td>61</td>
       <td>
-          <img src="https://i.discogs.com/GKYpg26joOQ4IUqQF38H8lpnD5CiKU9AVki6nq-T-dU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNTY1/NjAtMTU5MzYzMDE2/NC02ODAxLmpwZWc.jpeg" alt="Cover for Parametric Milk" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e505a7c0e81f4a18b0b8c03a19582bfa.png" alt="Cover for Parametric Milk" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-05-21</td>
       <td>Achokarlos</td>
@@ -876,7 +874,7 @@ Instrumental metal removes vocals from heavy metal&#39;s aggressive sonic framew
     <tr>
       <td>53</td>
       <td>
-          <img src="https://i.discogs.com/xBjXn1GTLco8MHCQUaUmDTUOSNleFbQ8MWmp4C8KnAQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDU5/MzUtMTYxODUwMDQ3/Mi02MDMyLmpwZWc.jpeg" alt="Cover for Phhhp! Plus" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f148223412de4d58a58b3190a008374c.png" alt="Cover for Phhhp! Plus" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-09-15</td>
       <td>Ron Jarzombek</td>
@@ -895,9 +893,9 @@ Instrumental metal removes vocals from heavy metal&#39;s aggressive sonic framew
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 10</li>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 41</li>
-            <li> <a href="{{ "/tags/shred" | relative_url }}">shred</a> # 53</li>
+            <li> <a href="{{ "/tags/shred" | relative_url }}">shred</a> # 48</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 58</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -924,6 +922,7 @@ Instrumental metal removes vocals from heavy metal&#39;s aggressive sonic framew
     <tr>
       <td>67</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e60105d9b9cc434d933bcb27ea3a745a.png" alt="Cover for At the Dream&#39;s Edge" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-12-07</td>
       <td>Chimp Spanner</td>
@@ -941,6 +940,7 @@ Instrumental metal removes vocals from heavy metal&#39;s aggressive sonic framew
     <tr>
       <td>97</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/21c26861c16b4a8ab83b4c7bcdde1a2f.png" alt="Cover for 曼衍珠汝華 ～ Nada Upasana Pundarika" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-12-30</td>
       <td>Demetori</td>
@@ -982,6 +982,7 @@ Instrumental metal removes vocals from heavy metal&#39;s aggressive sonic framew
     <tr>
       <td>78</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b1c25db271aa48898afafa4651fb5b80.png" alt="Cover for At the End of All Things" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-12-18</td>
       <td>Shadow Venger</td>
@@ -995,13 +996,13 @@ Instrumental metal removes vocals from heavy metal&#39;s aggressive sonic framew
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 2</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>42</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c711867715a747f683bc80b8c307d5ab.png" alt="Cover for Life Long Novel" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-06-15</td>
       <td>City of the Lost</td>
@@ -1066,6 +1067,7 @@ Instrumental metal removes vocals from heavy metal&#39;s aggressive sonic framew
     <tr>
       <td>44</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/50175ca20bd9437689e5c91722b1bb44.png" alt="Cover for An Abstract Existence" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-08-17</td>
       <td>Odyssey</td>
@@ -1084,6 +1086,7 @@ Instrumental metal removes vocals from heavy metal&#39;s aggressive sonic framew
     <tr>
       <td>20</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/38f4863af7924c7b8ea49317e60c621c.png" alt="Cover for Weightless" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-11-04</td>
       <td>Animals as Leaders</td>
@@ -1095,9 +1098,7 @@ Instrumental metal removes vocals from heavy metal&#39;s aggressive sonic framew
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 11</li>
-            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 22</li>
-            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 36</li>
+            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1124,6 +1125,7 @@ Instrumental metal removes vocals from heavy metal&#39;s aggressive sonic framew
     <tr>
       <td>81</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d62906cc1efb477aab21b0a8db696b37.png" alt="Cover for Drown" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-01-30</td>
       <td>Kasan</td>
@@ -1142,7 +1144,7 @@ Instrumental metal removes vocals from heavy metal&#39;s aggressive sonic framew
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 62</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1198,14 +1200,14 @@ Instrumental metal removes vocals from heavy metal&#39;s aggressive sonic framew
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a> # 21</li>
+            <li> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>74</td>
       <td>
-          <img src="https://i.discogs.com/_sSp-UiHG-7MKRLFen4xko-3ytZgls2Qxf7-WyQzw80/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjY1/MTIwLTE1MjAyODEz/NTMtODQ4MS5qcGVn.jpeg" alt="Cover for The Mystic Quest for Metal (A Tribute to the Music of Final Fantasy: Mystic Quest)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/27952210309472d19f81bb7b283f3975.png" alt="Cover for The Mystic Quest for Metal (A Tribute to the Music of Final Fantasy: Mystic Quest)" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-07-25</td>
       <td>Daniel Tidwell</td>
@@ -1259,7 +1261,7 @@ Instrumental metal removes vocals from heavy metal&#39;s aggressive sonic framew
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 18</li>
+            <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1287,6 +1289,7 @@ Instrumental metal removes vocals from heavy metal&#39;s aggressive sonic framew
     <tr>
       <td>54</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/07473ac34f4a4e00a3da48d225aa765c.png" alt="Cover for Chase the Flow" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-09-19</td>
       <td>City of the Lost</td>
@@ -1302,13 +1305,14 @@ Instrumental metal removes vocals from heavy metal&#39;s aggressive sonic framew
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a> # 7</li>
+            <li> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>56</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c6e6ea3c21c14b15a4bef15a1681be11.png" alt="Cover for Based On A True Story" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-09-25</td>
       <td>Second To Sun</td>
@@ -1330,6 +1334,7 @@ Instrumental metal removes vocals from heavy metal&#39;s aggressive sonic framew
     <tr>
       <td>89</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5b2d66fd613c4f5ccf9046817f2a2306.png" alt="Cover for The Elysian Symphony" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-12-25</td>
       <td>Neurotech</td>
@@ -1343,7 +1348,7 @@ Instrumental metal removes vocals from heavy metal&#39;s aggressive sonic framew
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cyber-metal" | relative_url }}">cyber metal</a> # 79</li>
+            <li> <a href="{{ "/tags/cyber-metal" | relative_url }}">cyber metal</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1399,16 +1404,16 @@ Instrumental metal removes vocals from heavy metal&#39;s aggressive sonic framew
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 35</li>
-            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 60</li>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 64</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 34</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 34</li>
+            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>72</td>
       <td>
-          <img src="https://i.discogs.com/V3ab-4Zln6cQ4uG2AsotIEgrYN_JiXVUYIPhtEbUNVs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMDI0/NzctMTQwODUzMzIz/OS04MDQ1LmpwZWc.jpeg" alt="Cover for Disemballerina" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5c6c4d27030c5a95e0abc023e999dd45.png" alt="Cover for Disemballerina" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-06-28</td>
       <td>Disemballerina</td>
@@ -1461,7 +1466,7 @@ Instrumental metal removes vocals from heavy metal&#39;s aggressive sonic framew
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a> # 2</li>
+            <li> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1506,7 +1511,7 @@ Instrumental metal removes vocals from heavy metal&#39;s aggressive sonic framew
     <tr>
       <td>82</td>
       <td>
-          <img src="https://i.discogs.com/6k9GAwTpi8ZS6v5mfhjmLh3im7d9Pe9ZJCNyVOAMNEY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjY1/MTYwLTE1MjAyODE4/MjYtNTA2NS5qcGVn.jpeg" alt="Cover for Versus Hollywood" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f477d472112a2678cdb011dc6b60b11f.png" alt="Cover for Versus Hollywood" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-07-14</td>
       <td>Daniel Tidwell</td>
@@ -1525,7 +1530,7 @@ Instrumental metal removes vocals from heavy metal&#39;s aggressive sonic framew
     <tr>
       <td>40</td>
       <td>
-          <img src="https://i.discogs.com/e_XQuVC2n5oq6j8pC-JnELwh6rreegYetebuIRsIO7E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTA4/ODc0LTE2OTk5MzQx/NjAtMzM1MS5qcGVn.jpeg" alt="Cover for Vary Us, Artist" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/17eca8e72ce34b5d9480bb710d178c50.png" alt="Cover for Vary Us, Artist" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-11-15</td>
       <td>Brent A Petrie</td>
@@ -1563,7 +1568,7 @@ Instrumental metal removes vocals from heavy metal&#39;s aggressive sonic framew
     <tr>
       <td>65</td>
       <td>
-          <img src="https://i.discogs.com/KgQFeCg75LSgdzvTHS7rfDOKlQyCfPIv-ocr09WYfUM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MDA2/ODUtMTQ3OTkwNDA0/My02NjM5LmpwZWc.jpeg" alt="Cover for Blackbound" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6da28df1fa5b54a7914fcc7aeeb3866e.png" alt="Cover for Blackbound" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-11-16</td>
       <td>Second To Sun</td>
@@ -1585,7 +1590,7 @@ Instrumental metal removes vocals from heavy metal&#39;s aggressive sonic framew
     <tr>
       <td>16</td>
       <td>
-          <img src="https://i.discogs.com/69ocftq46ozkRg3Hc6oKefPw_cCisB98s9nKbUCyasQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDA2/MzUwLTE0OTAwMjU3/OTAtODMxMy5qcGVn.jpeg" alt="Cover for Random Rants of Repressed Relevance" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/197c4ab899b2751c2eb847344532e852.png" alt="Cover for Random Rants of Repressed Relevance" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-03-17</td>
       <td>Roast Dog</td>
@@ -1607,7 +1612,7 @@ Instrumental metal removes vocals from heavy metal&#39;s aggressive sonic framew
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 11</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1633,7 +1638,7 @@ Instrumental metal removes vocals from heavy metal&#39;s aggressive sonic framew
     <tr>
       <td>95</td>
       <td>
-          <img src="https://i.discogs.com/z1eNmd63Y23nPvpeix12AWGtWJr56skmpgQSQ1R1Jc4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTAx/MzEyLTE1MjgzMTYy/ODAtNTI1OC5qcGVn.jpeg" alt="Cover for Copper Wasp" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c62b8c2297af829b0b3be9818e9789b4.png" alt="Cover for Copper Wasp" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-01-18</td>
       <td>Night Verses</td>
@@ -1648,14 +1653,14 @@ Instrumental metal removes vocals from heavy metal&#39;s aggressive sonic framew
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 32</li>
+            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>4</td>
       <td>
-          <img src="https://i.discogs.com/V5k7Nkm9pdkea87mtUtRkNxam9g2WenW3a207AOeNXc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDgy/OTQ1LTE2MTE1MDE4/OTAtMzQwOS5qcGVn.jpeg" alt="Cover for Ephemeral I: Letters and Longings" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a93e9f4519edb9747654813eb50c8710.png" alt="Cover for Ephemeral I: Letters and Longings" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-05-01</td>
       <td>SDreamExplorerS</td>
@@ -1676,7 +1681,7 @@ Instrumental metal removes vocals from heavy metal&#39;s aggressive sonic framew
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/TZiasEZiZlwVkJB8qeJP9VxGiNkyWk6yJPSSNvsglmI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDA4/MTA0LTE1NjU5NzU5/NDQtMTE1OS5qcGVn.jpeg" alt="Cover for Grinding Gears, Vol. 2" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/604a31e2becccf65e3e071c304fbd417.png" alt="Cover for Grinding Gears, Vol. 2" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-06-21</td>
       <td>Rabea Massaad</td>
@@ -1687,7 +1692,7 @@ Instrumental metal removes vocals from heavy metal&#39;s aggressive sonic framew
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 90</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1712,7 +1717,7 @@ Instrumental metal removes vocals from heavy metal&#39;s aggressive sonic framew
     <tr>
       <td>70</td>
       <td>
-          <img src="https://i.discogs.com/W4uSk_deK1K7QWO2AfuHcDFlJ7hQDvf_NtsJo6eOYkE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjMx/OTM2LTE1ODg0MzUx/NDUtMTczNy5qcGVn.jpeg" alt="Cover for MYTH OF I" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5006c539a50e905fee567f8aded3296c.png" alt="Cover for MYTH OF I" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-04-10</td>
       <td>Myth of I</td>
@@ -1735,7 +1740,7 @@ Instrumental metal removes vocals from heavy metal&#39;s aggressive sonic framew
     <tr>
       <td>34</td>
       <td>
-          <img src="https://i.discogs.com/uTU2oFT07OjRya5WpOOdCEQnELWi-PFyvVkwR-IsJug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTc4/OTMyLTE2Njg1NjY1/NjYtMzI3Mi5wbmc.jpeg" alt="Cover for Awakening" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f056a40a85ccb20bb619ac175c4d357.png" alt="Cover for Awakening" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-05-13</td>
       <td>Epochal</td>
@@ -1756,6 +1761,7 @@ Instrumental metal removes vocals from heavy metal&#39;s aggressive sonic framew
     <tr>
       <td>49</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a6cf2809e304f865e3916365fecd4b99.png" alt="Cover for K.K. Slider Covers" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-07-25</td>
       <td>Starcutter</td>
@@ -1774,7 +1780,7 @@ Instrumental metal removes vocals from heavy metal&#39;s aggressive sonic framew
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 1</li>
+            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1794,14 +1800,14 @@ Instrumental metal removes vocals from heavy metal&#39;s aggressive sonic framew
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-doom-metal" | relative_url }}">atmospheric doom metal</a> # 45</li>
+            <li> <a href="{{ "/tags/atmospheric-doom-metal" | relative_url }}">atmospheric doom metal</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>2</td>
       <td>
-          <img src="https://i.discogs.com/4NRKtaHC9w1AG_wMdSHQeXczlRUXevbFgIslu5yhthI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTkx/OTk3LTE2NDEyMzYz/NzMtODUxMi5qcGVn.jpeg" alt="Cover for Sick Shark" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cc191640b5a2e2ee24ab52385cce1b17.png" alt="Cover for Sick Shark" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-12-17</td>
       <td>sick shark</td>
@@ -1828,7 +1834,7 @@ Instrumental metal removes vocals from heavy metal&#39;s aggressive sonic framew
     <tr>
       <td>11</td>
       <td>
-          <img src="https://i.discogs.com/wyiZDlFDX25f7ce7B6U4AkNpsnJB8FiWRlyfJP3iBvw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDYz/NjA2LTE2Njc2NjM1/MTctNzkxMC5qcGVn.jpeg" alt="Cover for Faerie&#39;s Aire and Death Waltz" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/56de675345fb1b33a6e04a1395ed7dea.png" alt="Cover for Faerie&#39;s Aire and Death Waltz" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-11-04</td>
       <td>Mindless Paradise</td>
@@ -1847,14 +1853,14 @@ Instrumental metal removes vocals from heavy metal&#39;s aggressive sonic framew
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/doomgaze" | relative_url }}">doomgaze</a> # 15</li>
+            <li> <a href="{{ "/tags/doomgaze" | relative_url }}">doomgaze</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>24</td>
       <td>
-          <img src="https://i.discogs.com/RodJmL543jrMCsNiUUcBmHPaHZQ5Nrgxp2DXbWYFoJw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDUz/ODUzLTE2ODM4ODkw/ODctOTI2NC5qcGVn.jpeg" alt="Cover for Lame Genie Presents: Dr Mario" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8aff5dd7a8eab17ebd19decef2457d18.png" alt="Cover for Lame Genie Presents: Dr Mario" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-05</td>
       <td>Lame Genie</td>
@@ -1902,7 +1908,7 @@ Instrumental metal removes vocals from heavy metal&#39;s aggressive sonic framew
     <tr>
       <td>28</td>
       <td>
-          <img src="https://i.discogs.com/RodJmL543jrMCsNiUUcBmHPaHZQ5Nrgxp2DXbWYFoJw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDUz/ODUzLTE2ODM4ODkw/ODctOTI2NC5qcGVn.jpeg" alt="Cover for Play Games, Eat Tacos" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9629ab771ee568364a96e62a593def3e.png" alt="Cover for Play Games, Eat Tacos" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-05</td>
       <td>Lame Genie</td>
@@ -1919,7 +1925,7 @@ Instrumental metal removes vocals from heavy metal&#39;s aggressive sonic framew
     <tr>
       <td>35</td>
       <td>
-          <img src="https://i.discogs.com/sIr0pDq6-bWG7PP3L1824DYOOqrfy1taPP_8D9hXZJU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTUz/MDE4LTE3MDkxNTU3/MzAtMjcxOC5qcGVn.jpeg" alt="Cover for The Endless" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/19586643be29de5cdbe8231c4ac5956c.png" alt="Cover for The Endless" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-01-24</td>
       <td>The Endless</td>
@@ -1940,6 +1946,7 @@ Instrumental metal removes vocals from heavy metal&#39;s aggressive sonic framew
     <tr>
       <td>63</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/57dc868bf9562c7ea4455c424a9b7dc4.png" alt="Cover for Devolution" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>A3-5</td>
@@ -1953,13 +1960,14 @@ Instrumental metal removes vocals from heavy metal&#39;s aggressive sonic framew
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a> # 69</li>
+            <li> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>3</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3dd1ed9488276991ce1dcd949ca9ab35.png" alt="Cover for Imaginarium" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Halfdream</td>
@@ -1981,6 +1989,7 @@ Instrumental metal removes vocals from heavy metal&#39;s aggressive sonic framew
     <tr>
       <td>8</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9bffad71d87c141c255782f385f56dfb.png" alt="Cover for New Game. New Life" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Anti-PizzaBoy</td>
@@ -2049,6 +2058,7 @@ Instrumental metal removes vocals from heavy metal&#39;s aggressive sonic framew
     <tr>
       <td>18</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bb5c7018b7fed1a6d6a8c287af9cc709.png" alt="Cover for Apsis" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Orbital Extrema</td>
@@ -2070,6 +2080,7 @@ Instrumental metal removes vocals from heavy metal&#39;s aggressive sonic framew
     <tr>
       <td>26</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9b66a89b23481b4c8de660a2aed5ee5e.png" alt="Cover for Nyan Cat" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Megaraptor</td>
@@ -2093,6 +2104,7 @@ Instrumental metal removes vocals from heavy metal&#39;s aggressive sonic framew
     <tr>
       <td>69</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fc58e359422a68c4ac6628b646fc4edf.png" alt="Cover for Reincarnate" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>SebastiSide</td>
@@ -2133,6 +2145,7 @@ Instrumental metal removes vocals from heavy metal&#39;s aggressive sonic framew
     <tr>
       <td>6</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb4b865ca646cb9389c9cf233b4fa304.png" alt="Cover for Welcome to the Next Level (Videogames #2, Sega Mega Drive Mini Metal)" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>DavidKBD</td>

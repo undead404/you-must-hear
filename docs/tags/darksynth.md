@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-23T00:04:15.880Z
+date: 2025-12-05T05:10:46.188Z
 permalink: tags/darksynth
 title: darksynth
 ---
 
 ## darksynth
 
-Last updated: <time datetime="2025-10-23T00:04:15.880Z">Thu Oct 23 2025 03:04:15 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-05T05:10:46.188Z">Fri Dec 05 2025 07:10:46 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -46,7 +46,7 @@ Darksynth is a menacing evolution of synthwave that trades nostalgia for horror,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 31</li>
+            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -67,13 +67,14 @@ Darksynth is a menacing evolution of synthwave that trades nostalgia for horror,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 18</li>
+            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 13</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>80</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/224fbf77ea4c483da9b7030329ea3709.png" alt="Cover for When I&#39;m Dead" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-11-23</td>
       <td>Dismantled</td>
@@ -88,13 +89,14 @@ Darksynth is a menacing evolution of synthwave that trades nostalgia for horror,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 98</li>
+            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 3</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>38</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7c9d85d89b1c866c0d194f92d08b7728.png" alt="Cover for Revolt" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-05-09</td>
       <td>Endanger</td>
@@ -114,7 +116,7 @@ Darksynth is a menacing evolution of synthwave that trades nostalgia for horror,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a> # 78</li>
+            <li> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -210,7 +212,7 @@ Darksynth is a menacing evolution of synthwave that trades nostalgia for horror,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 43</li>
+            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -235,6 +237,7 @@ Darksynth is a menacing evolution of synthwave that trades nostalgia for horror,
     <tr>
       <td>74</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b84a7d22c0f54d4ecddeb114ea20a386.png" alt="Cover for Stratospheric Cannon Symphony" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-05-26</td>
       <td>Dan Terminus</td>
@@ -250,13 +253,14 @@ Darksynth is a menacing evolution of synthwave that trades nostalgia for horror,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 69</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 28</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>88</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d3be6b7c69614382c35b3661f6acee8a.png" alt="Cover for Dangerous Days" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-06-16</td>
       <td>Perturbator</td>
@@ -268,8 +272,8 @@ Darksynth is a menacing evolution of synthwave that trades nostalgia for horror,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 46</li>
-            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 90</li>
+            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 9</li>
+            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -291,7 +295,7 @@ Darksynth is a menacing evolution of synthwave that trades nostalgia for horror,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 75</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -315,20 +319,19 @@ Darksynth is a menacing evolution of synthwave that trades nostalgia for horror,
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/VatcnP9V5kzH5j0TQq34drXMAF2ycIbE9GWEDtXXokM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MTAw/NDAtMTQyMzAzOTI4/Ny03NjMxLmpwZWc.jpeg" alt="Cover for Trilogy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d0c1914b6840db8f0bdeb105944e7933.png" alt="Cover for Trilogy" style="max-width:120px; height:auto;" />
       </td>
       <td>2015</td>
       <td>Carpenter Brut</td>
       <td>Trilogy</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 79</li>
-            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 92</li>
+            <li> <a href="{{ "/tags/french-house" | relative_url }}">french house</a> # 61</li>
+            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -353,7 +356,7 @@ Darksynth is a menacing evolution of synthwave that trades nostalgia for horror,
     <tr>
       <td>32</td>
       <td>
-          <img src="https://i.discogs.com/6jwkyOrpsLvCKD0mnNkw_E_AK8o6GjPJ08xFHvgasKw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjQ0/MjczLTE0OTQwMjIw/MTMtNjcyNi5qcGVn.jpeg" alt="Cover for EP I" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e8380e2071655cccb15c426fa89b90d7.png" alt="Cover for EP I" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-05-01</td>
       <td>Turboslash</td>
@@ -383,7 +386,7 @@ Darksynth is a menacing evolution of synthwave that trades nostalgia for horror,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 47</li>
+            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -458,7 +461,7 @@ Darksynth is a menacing evolution of synthwave that trades nostalgia for horror,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 45</li>
+            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -500,37 +503,32 @@ Darksynth is a menacing evolution of synthwave that trades nostalgia for horror,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spacesynth" | relative_url }}">spacesynth</a> # 83</li>
+            <li> <a href="{{ "/tags/spacesynth" | relative_url }}">spacesynth</a> # 19</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>95</td>
       <td>
-          <img src="https://i.discogs.com/JXD5yF47QEZrrGrlLTiFXjPNxm2G-Hu3a4RPN2a-F8o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2OTE2/MjAtMTQ2NjcwNTAw/NS04NzA0LmpwZWc.jpeg" alt="Cover for Hyperion" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b842adc148bf1617efec1285d7aa3cd.png" alt="Cover for Hyperion" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-04-22</td>
       <td>ZOMBIE HYPERDRIVE</td>
       <td>Hyperion</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darksynth" | relative_url }}">darksynth</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 1</li>
-            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>8</td>
       <td>
-          <img src="https://i.discogs.com/ajGg08bsqgPzRefoLL1p1WoWZwrwb8NflVvapUSqd84/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzOTE2/NjMtMTQ2MDcyMzU0/Ni05Nzg2LmpwZWc.jpeg" alt="Cover for The Uncanny Valley" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b2c4f9f641a83895389105f21019e66e.png" alt="Cover for The Uncanny Valley" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-05-05</td>
       <td>Perturbator</td>
@@ -542,7 +540,7 @@ Darksynth is a menacing evolution of synthwave that trades nostalgia for horror,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 83</li>
+            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -586,7 +584,7 @@ Darksynth is a menacing evolution of synthwave that trades nostalgia for horror,
     <tr>
       <td>58</td>
       <td>
-          <img src="https://i.discogs.com/kDQRMcSXMdnknjCGYxxY05gyN53NL2tDfvnFdsU-CHw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5Mzc0/NTktMTQ4ODg1NTA3/Ni00NzIwLmpwZWc.jpeg" alt="Cover for The Key" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5fa473c36c806e159d460197f0dc16a8.png" alt="Cover for The Key" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-10-15</td>
       <td>Johnny Jewel</td>
@@ -602,7 +600,7 @@ Darksynth is a menacing evolution of synthwave that trades nostalgia for horror,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 2</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -622,7 +620,7 @@ Darksynth is a menacing evolution of synthwave that trades nostalgia for horror,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 23</li>
+            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -684,7 +682,7 @@ Darksynth is a menacing evolution of synthwave that trades nostalgia for horror,
     <tr>
       <td>45</td>
       <td>
-          <img src="https://i.discogs.com/WOYqLM7KX4z0UyECzcdNCu_HvzjtpK1p-B88MA7xkYc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTQ5/NDMxLTE1MjkyOTc4/NzQtNDI1NC5qcGVn.jpeg" alt="Cover for Headhunter" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0b1d281da96ef183395a799c90e3c246.png" alt="Cover for Headhunter" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-03-27</td>
       <td>Fixions</td>
@@ -703,7 +701,7 @@ Darksynth is a menacing evolution of synthwave that trades nostalgia for horror,
     <tr>
       <td>47</td>
       <td>
-          <img src="https://i.discogs.com/WOYqLM7KX4z0UyECzcdNCu_HvzjtpK1p-B88MA7xkYc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTQ5/NDMxLTE1MjkyOTc4/NzQtNDI1NC5qcGVn.jpeg" alt="Cover for Genocity" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2274a9c08a0ab208a09dce035f2759d0.png" alt="Cover for Genocity" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-03-27</td>
       <td>Fixions</td>
@@ -753,7 +751,7 @@ Darksynth is a menacing evolution of synthwave that trades nostalgia for horror,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 2</li>
+            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -816,7 +814,7 @@ Darksynth is a menacing evolution of synthwave that trades nostalgia for horror,
     <tr>
       <td>25</td>
       <td>
-          <img src="https://i.discogs.com/94ytFdUfHHtREtWxdsum-F42OUd8ucsZPzN-GsEpwxk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTYx/MzA0LTE1MjU1NDA2/NjEtODY2MS5qcGVn.jpeg" alt="Cover for THE DARKSYNTH" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5169080f11cbdcece65a8c731c48e624.png" alt="Cover for THE DARKSYNTH" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-09-22</td>
       <td>Hubrid</td>
@@ -854,7 +852,7 @@ Darksynth is a menacing evolution of synthwave that trades nostalgia for horror,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 14</li>
+            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -879,7 +877,7 @@ Darksynth is a menacing evolution of synthwave that trades nostalgia for horror,
     <tr>
       <td>76</td>
       <td>
-          <img src="https://i.discogs.com/FNW0lTNGCPLYGaLr0UssRnYedqUttHQWI39x_ShNkFA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTg4/NzA3LTE1MTE1Mjc3/ODUtMjA4MC5wbmc.jpeg" alt="Cover for Deeper" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/010ff2637245252480e6f4e321af2e5a.png" alt="Cover for Deeper" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-11-24</td>
       <td>Orax</td>
@@ -902,7 +900,7 @@ Darksynth is a menacing evolution of synthwave that trades nostalgia for horror,
     <tr>
       <td>92</td>
       <td>
-          <img src="https://i.discogs.com/R38jSxcVUP9YtMSSHnBNbWu4M6Zb9N9ftS3bAMmA79Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODU0/MzA1LTE1MjQ3MDAx/MjMtNTA5Mi5qcGVn.jpeg" alt="Cover for Invaders" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/24da2c9f8ee3291cd8e0f840988af472.png" alt="Cover for Invaders" style="max-width:120px; height:auto;" />
       </td>
       <td>2018</td>
       <td>Hollywood Burns</td>
@@ -921,7 +919,7 @@ Darksynth is a menacing evolution of synthwave that trades nostalgia for horror,
     <tr>
       <td>14</td>
       <td>
-          <img src="https://i.discogs.com/fz_AFN1rbSuqVeS1NPpe7TsRrYxAHOKmi-7Iu3GMk8A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTg4/MzkwLTE1MTg5ODU5/MzItNDE0Ny5qcGVn.jpeg" alt="Cover for Atomic Eyes" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c55a569f5ce5f3781c7cd74b2a81cfe4.png" alt="Cover for Atomic Eyes" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-02-14</td>
       <td>The Rain Within</td>
@@ -943,7 +941,7 @@ Darksynth is a menacing evolution of synthwave that trades nostalgia for horror,
     <tr>
       <td>77</td>
       <td>
-          <img src="https://i.discogs.com/9KPmkjN2WULLF8_KuOGwGpH1ZZ-iAgytzKS2cWrrL40/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjA4/NjEyLTE2NDkzNDA5/NTctNjg3MS5qcGVn.jpeg" alt="Cover for Leather Teeth" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bd77dff7970224970e075a97daa4e562.png" alt="Cover for Leather Teeth" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-02-23</td>
       <td>Carpenter Brut</td>
@@ -956,8 +954,8 @@ Darksynth is a menacing evolution of synthwave that trades nostalgia for horror,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 82</li>
-            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 89</li>
+            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 11</li>
+            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -998,7 +996,7 @@ Darksynth is a menacing evolution of synthwave that trades nostalgia for horror,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 52</li>
+            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1024,6 +1022,7 @@ Darksynth is a menacing evolution of synthwave that trades nostalgia for horror,
     <tr>
       <td>2</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d77d42680add76b78a5632fda72c852b.png" alt="Cover for Hex&#39;n Equinox" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-04-13</td>
       <td>S Y Z Y G Y X</td>
@@ -1042,7 +1041,7 @@ Darksynth is a menacing evolution of synthwave that trades nostalgia for horror,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spacesynth" | relative_url }}">spacesynth</a> # 77</li>
+            <li> <a href="{{ "/tags/spacesynth" | relative_url }}">spacesynth</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1063,14 +1062,15 @@ Darksynth is a menacing evolution of synthwave that trades nostalgia for horror,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 75</li>
-            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 97</li>
+            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 4</li>
+            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 24</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>10</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/332fd9da9696c786951b4de89be26e45.png" alt="Cover for Broken Mirrors" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-05-18</td>
       <td>S Y Z Y G Y X</td>
@@ -1112,7 +1112,7 @@ Darksynth is a menacing evolution of synthwave that trades nostalgia for horror,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 62</li>
+            <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1155,7 +1155,7 @@ Darksynth is a menacing evolution of synthwave that trades nostalgia for horror,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 23</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1178,7 +1178,7 @@ Darksynth is a menacing evolution of synthwave that trades nostalgia for horror,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 3</li>
+            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1223,7 +1223,7 @@ Darksynth is a menacing evolution of synthwave that trades nostalgia for horror,
     <tr>
       <td>46</td>
       <td>
-          <img src="https://i.discogs.com/JgzzzEZ-Qvbrtd4nznioQqnW5mvmyy7fsZW0K3yDQMQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTM2/Mzk2LTE1NDQ4ODkz/MDMtNzY1Mi5qcGVn.jpeg" alt="Cover for Tearwave" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/43779bf86d3418384ec800f501582108.png" alt="Cover for Tearwave" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-12-14</td>
       <td>Orax</td>
@@ -1247,6 +1247,7 @@ Darksynth is a menacing evolution of synthwave that trades nostalgia for horror,
     <tr>
       <td>26</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/02ac6c9b5e7bb274bf3129760740fc3f.png" alt="Cover for Encounters" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-12-28</td>
       <td>S Y Z Y G Y X</td>
@@ -1271,6 +1272,7 @@ Darksynth is a menacing evolution of synthwave that trades nostalgia for horror,
     <tr>
       <td>71</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3f667dfb99f980b7bc667f7ff600e3e9.png" alt="Cover for Is That All There Is" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-01-26</td>
       <td>S Y Z Y G Y X</td>
@@ -1290,9 +1292,9 @@ Darksynth is a menacing evolution of synthwave that trades nostalgia for horror,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 24</li>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 45</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 56</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 40</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 53</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1337,7 +1339,7 @@ Darksynth is a menacing evolution of synthwave that trades nostalgia for horror,
     <tr>
       <td>48</td>
       <td>
-          <img src="https://i.discogs.com/9alkqmGYDBfzdTZNNRu7RohWDgfEr53KuQ1CG14_aPM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTY3/ODczLTE3MDIyNDc3/NDItOTE1MC5qcGVn.jpeg" alt="Cover for Transhumanism" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/645646b0e10fcbcc2fb5ce3596dac48d.png" alt="Cover for Transhumanism" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-04-30</td>
       <td>Tommy &#39;86</td>
@@ -1410,13 +1412,14 @@ Darksynth is a menacing evolution of synthwave that trades nostalgia for horror,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 47</li>
+            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 51</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>41</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/12d7e65582cacb8d910a05e083211064.png" alt="Cover for Fading Bodies" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-10-11</td>
       <td>S Y Z Y G Y X</td>
@@ -1436,8 +1439,8 @@ Darksynth is a menacing evolution of synthwave that trades nostalgia for horror,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 2</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 22</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 76</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1465,8 +1468,8 @@ Darksynth is a menacing evolution of synthwave that trades nostalgia for horror,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 65</li>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 72</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 28</li>
+            <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1709,7 +1712,7 @@ Darksynth is a menacing evolution of synthwave that trades nostalgia for horror,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 35</li>
+            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1734,9 +1737,9 @@ Darksynth is a menacing evolution of synthwave that trades nostalgia for horror,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 66</li>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 68</li>
-            <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 93</li>
+            <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 8</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 29</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1796,8 +1799,8 @@ Darksynth is a menacing evolution of synthwave that trades nostalgia for horror,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 6</li>
-            <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 70</li>
+            <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 31</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1822,7 +1825,7 @@ Darksynth is a menacing evolution of synthwave that trades nostalgia for horror,
     <tr>
       <td>61</td>
       <td>
-          <img src="https://i.discogs.com/twO4H85ZtAzqbpxIjNVa0Cctkf3bvZuwrE8H5DPDhno/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTM4/OTg0LTE2Mzk0MjM1/ODYtNzM0OC5qcGVn.jpeg" alt="Cover for Lustful Sacraments" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4505325361858edcffb2508ddf2211ca.png" alt="Cover for Lustful Sacraments" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-05-28</td>
       <td>Perturbator</td>
@@ -1836,6 +1839,7 @@ Darksynth is a menacing evolution of synthwave that trades nostalgia for horror,
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1858,7 +1862,7 @@ Darksynth is a menacing evolution of synthwave that trades nostalgia for horror,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 9</li>
+            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1901,7 +1905,7 @@ Darksynth is a menacing evolution of synthwave that trades nostalgia for horror,
     <tr>
       <td>75</td>
       <td>
-          <img src="https://i.discogs.com/DmDXyKphO-1_lxL26M6eg07l4vKkdcTPzAA_Wj_3IiQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzk2/MDcyLTE2NDI1NTg2/NzAtNzU0Ni5qcGVn.jpeg" alt="Cover for Blood Moon" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dedd09e98e3a5811326e1ac361962e16.png" alt="Cover for Blood Moon" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-12-07</td>
       <td>Project Silence</td>
@@ -1945,7 +1949,7 @@ Darksynth is a menacing evolution of synthwave that trades nostalgia for horror,
     <tr>
       <td>87</td>
       <td>
-          <img src="https://i.discogs.com/IK4FvtIkJFVoK96QOFb_-dOqEBdKQVvgi-bhgtLt0Ns/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDc0/NDEyLTE2NjQ5NzI3/ODUtMTUyMS5wbmc.jpeg" alt="Cover for Leather Terror" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/81c89a3bfac3fa2b098fb6fd62b11c1d.png" alt="Cover for Leather Terror" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-04-01</td>
       <td>Carpenter Brut</td>
@@ -1957,14 +1961,14 @@ Darksynth is a menacing evolution of synthwave that trades nostalgia for horror,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cyber-metal" | relative_url }}">cyber metal</a> # 96</li>
+            <li> <a href="{{ "/tags/cyber-metal" | relative_url }}">cyber metal</a> # 4</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>24</td>
       <td>
-          <img src="https://i.discogs.com/Z1HJlTycLtBrgSwLmFwPenOsJ90q5lYNP-L__v0yNpE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDY2/NzE4LTE2NjI3NjY2/MzUtODQ3OC5qcGVn.jpeg" alt="Cover for Disease" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5a6dfff7a4bba3e162287c406a7ae97b.png" alt="Cover for Disease" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-09-09</td>
       <td>Project Silence</td>

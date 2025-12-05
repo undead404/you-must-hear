@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-18T12:11:27.466Z
+date: 2025-12-05T04:58:45.218Z
 permalink: tags/roraima
 title: roraima
 ---
 
 ## roraima
 
-Last updated: <time datetime="2025-11-18T12:11:27.466Z">Tue Nov 18 2025 14:11:27 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T04:58:45.218Z">Fri Dec 05 2025 06:58:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -47,11 +47,9 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 49</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 71</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 74</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 74</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 83</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 27</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 27</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -74,9 +72,9 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 3</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 6</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 7</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 94</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 95</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -99,10 +97,10 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 45</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 69</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 72</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 72</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 29</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 29</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 32</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -133,12 +131,12 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 21</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 53</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 56</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 56</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 72</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 81</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 20</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 22</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 45</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 45</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 48</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 72</li>
             <li> <a href="{{ "/tags/british-invasion" | relative_url }}">british invasion</a> # 89</li>
         </ul>
       </td>
@@ -162,10 +160,10 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 39</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 64</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 67</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 67</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 34</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 34</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 37</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -195,12 +193,13 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 76</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 89</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 90</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 90</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 94</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 96</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 5</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 7</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 11</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 11</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 12</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 24</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -222,10 +221,10 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 30</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 59</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 62</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 62</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 39</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 39</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 42</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -248,10 +247,10 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 18</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 51</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 54</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 54</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 47</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 47</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 50</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -273,9 +272,9 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 8</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 11</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 12</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 89</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 90</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -300,10 +299,10 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 50</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 72</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 75</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 75</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 26</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 26</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 29</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -330,12 +329,12 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 10</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 43</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 46</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 46</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 67</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 75</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 26</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 27</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 55</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 55</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 58</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -358,10 +357,10 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 7</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 97</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 97</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 97</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 4</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 4</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 4</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -389,14 +388,14 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 32</li>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 91</li>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 98</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 100</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 100</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 100</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 100</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 100</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 1</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 1</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 1</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 1</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 1</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 3</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 4</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -419,9 +418,9 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 21</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 24</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 24</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 77</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 77</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -443,10 +442,10 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 86</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 93</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 94</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 94</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 7</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 7</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 8</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -469,11 +468,9 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 4</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 38</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 41</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 41</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 66</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 60</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 60</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -500,12 +497,12 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 66</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 84</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 85</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 85</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 92</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 92</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 8</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 9</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 16</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 16</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 17</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -527,9 +524,9 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 14</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 17</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 18</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 83</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 84</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -551,11 +548,9 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 32</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 61</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 64</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 64</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 77</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 37</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 37</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -578,10 +573,10 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 7</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 41</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 44</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 44</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 57</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 57</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 60</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -608,11 +603,11 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 29</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 32</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 32</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 61</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 69</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 32</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 32</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 69</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 69</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -637,10 +632,10 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 6</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 40</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 43</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 43</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 58</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 58</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 61</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -667,12 +662,12 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 12</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 45</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 48</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 48</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 69</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 77</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 24</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 25</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 53</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 53</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 56</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -696,10 +691,11 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 33</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 36</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 36</li>
-            <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 49</li>
+            <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 52</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 65</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 65</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 68</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -724,9 +720,9 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 24</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 27</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 27</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 74</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 74</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -749,9 +745,9 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 22</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 25</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 25</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 76</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 76</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -776,11 +772,11 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 54</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 77</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 78</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 78</li>
-            <li> <a href="{{ "/tags/proto-vaporwave" | relative_url }}">proto-vaporwave</a> # 94</li>
+            <li> <a href="{{ "/tags/proto-vaporwave" | relative_url }}">proto-vaporwave</a> # 7</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 23</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 23</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 24</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -809,11 +805,11 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 25</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 28</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 28</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 60</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 64</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 33</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 37</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 73</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 73</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -835,10 +831,10 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 88</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 94</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 95</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 95</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 6</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 6</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 7</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -865,11 +861,11 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 9</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 12</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 13</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 56</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 59</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 37</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 42</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 88</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 89</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -892,11 +888,11 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 22</li>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 37</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 63</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 66</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 66</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 36</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 36</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 39</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 58</li>
+            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -923,11 +919,11 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 5</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 8</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 9</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 53</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 54</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 39</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 48</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 92</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 93</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -949,9 +945,9 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 4</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 7</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 8</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 93</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 94</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -975,9 +971,9 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 28</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 31</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 31</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 70</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 70</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1000,10 +996,10 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 13</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 46</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 49</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 49</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 52</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 52</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 55</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1031,13 +1027,13 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 44</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 68</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 71</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 71</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 80</li>
-            <li> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a> # 81</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 86</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 15</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 16</li>
+            <li> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a> # 19</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 30</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 30</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 33</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1060,10 +1056,10 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 62</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 83</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 84</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 84</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 17</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 17</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 18</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1088,11 +1084,11 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 74</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 88</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 89</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 89</li>
-            <li> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a> # 89</li>
+            <li> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a> # 11</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 12</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 12</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 13</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1115,10 +1111,10 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 91</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 98</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 98</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 98</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 3</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 3</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 3</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1141,10 +1137,10 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 57</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 79</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 80</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 80</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 21</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 21</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 22</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1171,10 +1167,10 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 16</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 19</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 20</li>
-            <li> <a href="{{ "/tags/hi-nrg" | relative_url }}">hi-nrg</a> # 78</li>
+            <li> <a href="{{ "/tags/hi-nrg" | relative_url }}">hi-nrg</a> # 16</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 81</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 82</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1197,9 +1193,9 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 12</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 15</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 16</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 85</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 86</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1221,9 +1217,8 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 2</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 3</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 50</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 98</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1251,10 +1246,10 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 9</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 42</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 45</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 45</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 56</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 56</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 59</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1281,12 +1276,12 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 15</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 48</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 51</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 51</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 71</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 80</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 21</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 23</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 50</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 50</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 53</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1310,9 +1305,10 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 34</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 37</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 37</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 64</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 64</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 67</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1338,12 +1334,12 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 8</li>
-            <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 38</li>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 60</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 81</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 82</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 82</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 19</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 19</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 20</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 39</li>
+            <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 62</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1369,11 +1365,11 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 3</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 37</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 40</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 40</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 65</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 28</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 61</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 61</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 64</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1395,9 +1391,9 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 1</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 4</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 5</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 96</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 97</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1423,11 +1419,11 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 2</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 5</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 6</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 52</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 53</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 40</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 49</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 95</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 96</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1452,11 +1448,11 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 1</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 35</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 38</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 38</li>
-            <li> <a href="{{ "/tags/pagode" | relative_url }}">pagode</a> # 66</li>
+            <li> <a href="{{ "/tags/pagode" | relative_url }}">pagode</a> # 34</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 63</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 63</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 66</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1478,11 +1474,10 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 55</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 78</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 79</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 79</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 88</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 22</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 22</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 23</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1512,13 +1507,13 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 35</li>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 85</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 92</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 93</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 93</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 98</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 98</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 3</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 3</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 8</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 8</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 9</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 15</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1543,17 +1538,18 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 90</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 95</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 96</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 96</li>
-            <li> <a href="{{ "/tags/old-school-heavy-metal" | relative_url }}">old-school heavy metal</a> # 100</li>
+            <li> <a href="{{ "/tags/old-school-heavy-metal" | relative_url }}">old-school heavy metal</a> # 1</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 5</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 5</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 6</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 10</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>54</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ff3510eea05bb8c94bd9ffa560b6cd59.png" alt="Cover for Ghost" style="max-width:120px; height:auto;" />
       </td>
       <td>1990-07-02</td>
       <td>Maurice Jarre</td>
@@ -1570,10 +1566,10 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 17</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 50</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 53</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 53</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 48</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 48</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 51</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1595,9 +1591,10 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 30</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 33</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 33</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 68</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 68</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 71</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1624,12 +1621,12 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 11</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 44</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 47</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 47</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 68</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 76</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 25</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 26</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 54</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 54</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 57</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1654,10 +1651,10 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 38</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 62</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 65</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 65</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 35</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 35</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 38</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1684,10 +1681,10 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 1</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 2</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 49</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 51</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 42</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 50</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 99</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1705,11 +1702,11 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 10</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 13</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 14</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 57</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 61</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 36</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 40</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 87</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 88</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1737,12 +1734,13 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 31</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 34</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 34</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 30</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 31</li>
             <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 61</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 63</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 70</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 67</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 67</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 70</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1768,12 +1766,12 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 93</li>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 97</li>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 97</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 99</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 99</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 99</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 2</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 2</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 2</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 4</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 4</li>
+            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -1797,9 +1795,9 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 26</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 29</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 29</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 72</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 72</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1822,9 +1820,9 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 27</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 30</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 30</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 71</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 71</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1846,10 +1844,10 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 41</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 65</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 68</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 68</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 33</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 33</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 36</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1874,10 +1872,10 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 61</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 82</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 83</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 83</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 18</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 18</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 19</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1900,10 +1898,10 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 81</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 90</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 91</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 91</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 10</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 10</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 11</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1929,9 +1927,9 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 15</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 18</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 19</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 82</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 83</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1953,10 +1951,10 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 29</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 58</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 61</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 61</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 40</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 40</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 43</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1980,11 +1978,11 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 58</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 80</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 81</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 81</li>
-            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 96</li>
+            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 5</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 20</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 20</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 21</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -2010,11 +2008,11 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 31</li>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 58</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 60</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 63</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 63</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 38</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 38</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 41</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 43</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -2036,8 +2034,8 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 18</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 21</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 80</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -2059,9 +2057,9 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 17</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 20</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 21</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 80</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 81</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -2085,11 +2083,11 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 19</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 52</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 55</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 55</li>
-            <li> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a> # 82</li>
+            <li> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a> # 18</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 46</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 46</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 49</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -2111,10 +2109,10 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 24</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 55</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 58</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 58</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 43</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 43</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 46</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -2137,10 +2135,10 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 5</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 39</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 42</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 42</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 59</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 59</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 62</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -2162,9 +2160,9 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 19</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 22</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 22</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 79</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 79</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -2187,10 +2185,10 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 16</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 49</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 52</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 52</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 49</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 49</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 52</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -2213,11 +2211,9 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 51</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 73</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 76</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 76</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 85</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 25</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 25</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -2239,9 +2235,9 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 20</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 23</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 23</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 78</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 78</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -2265,9 +2261,10 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 32</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 35</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 35</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 66</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 66</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 69</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -2290,10 +2287,10 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 46</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 70</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 73</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 73</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 28</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 28</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 31</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -2320,13 +2317,13 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 19</li>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 82</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 91</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 92</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 92</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 97</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 97</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 4</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 4</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 9</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 9</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 10</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 18</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -2349,10 +2346,10 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 25</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 56</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 59</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 59</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 42</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 42</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 45</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -2376,12 +2373,10 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 14</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 14</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 15</li>
             <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 50</li>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 68</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 86</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 87</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 87</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -2405,9 +2400,9 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 11</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 14</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 15</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 86</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 87</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -2430,10 +2425,10 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 27</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 57</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 60</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 60</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 41</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 41</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 44</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -2455,9 +2450,9 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 23</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 26</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 26</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 75</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 75</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -2484,9 +2479,9 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 6</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 9</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 10</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 91</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 92</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -2510,10 +2505,10 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 67</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 85</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 86</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 86</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 15</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 15</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 16</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -2535,10 +2530,10 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 42</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 66</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 69</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 69</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 32</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 32</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 35</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -2561,9 +2556,8 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 3</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 4</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 52</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 97</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -2590,12 +2584,12 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 43</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 67</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 70</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 70</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 79</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 85</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 16</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 17</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 31</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 31</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 34</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -2619,9 +2613,9 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 7</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 10</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 11</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 90</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 91</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -2647,10 +2641,10 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 71</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 87</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 88</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 88</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 13</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 13</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 14</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -2672,11 +2666,10 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 53</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 75</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 77</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 77</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 87</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 24</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 24</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 26</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -2693,7 +2686,7 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 1</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -2720,12 +2713,12 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 14</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 47</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 50</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 50</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 70</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 79</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 22</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 24</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 51</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 51</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 54</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -2752,11 +2745,11 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 13</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 16</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 17</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 58</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 62</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 35</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 39</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 84</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 85</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -2781,11 +2774,11 @@ Roraima is a diverse Brazilian rock and soul fusion genre that emerged from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 2</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 36</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 39</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 39</li>
-            <li> <a href="{{ "/tags/pagode" | relative_url }}">pagode</a> # 67</li>
+            <li> <a href="{{ "/tags/pagode" | relative_url }}">pagode</a> # 33</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 62</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 62</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 65</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 90</li>
         </ul>
       </td>
     </tr>

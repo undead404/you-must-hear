@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-25T20:46:57.170Z
+date: 2025-12-05T05:03:01.291Z
 permalink: tags/polish-rock
 title: polish rock
 ---
 
 ## polish rock
 
-Last updated: <time datetime="2025-11-25T20:46:57.170Z">Tue Nov 25 2025 22:46:57 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T05:03:01.291Z">Fri Dec 05 2025 07:03:01 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -64,7 +64,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 90</li>
+            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -106,7 +106,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polskie" | relative_url }}">polskie</a> # 89</li>
+            <li> <a href="{{ "/tags/polskie" | relative_url }}">polskie</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -201,7 +201,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 54</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -278,7 +278,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 94</li>
+            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -524,7 +524,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 91</li>
+            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -639,7 +639,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 6</li>
+            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -660,7 +660,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 13</li>
+            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -736,8 +736,8 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polskie" | relative_url }}">polskie</a> # 39</li>
-            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 90</li>
+            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 11</li>
+            <li> <a href="{{ "/tags/polskie" | relative_url }}">polskie</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -758,7 +758,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 45</li>
+            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -894,8 +894,8 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polskie" | relative_url }}">polskie</a> # 79</li>
-            <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 90</li>
+            <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 11</li>
+            <li> <a href="{{ "/tags/polskie" | relative_url }}">polskie</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1023,7 +1023,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 96</li>
+            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1044,8 +1044,8 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 75</li>
-            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 77</li>
+            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 24</li>
+            <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1084,7 +1084,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polskie" | relative_url }}">polskie</a> # 92</li>
+            <li> <a href="{{ "/tags/polskie" | relative_url }}">polskie</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1139,7 +1139,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 7</li>
+            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1160,7 +1160,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 55</li>
+            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1178,7 +1178,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 70</li>
+            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1198,8 +1198,8 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polskie" | relative_url }}">polskie</a> # 44</li>
-            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 100</li>
+            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 1</li>
+            <li> <a href="{{ "/tags/polskie" | relative_url }}">polskie</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1273,7 +1273,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 92</li>
+            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1329,7 +1329,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 48</li>
+            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1403,8 +1403,8 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polskie" | relative_url }}">polskie</a> # 87</li>
-            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 96</li>
+            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 5</li>
+            <li> <a href="{{ "/tags/polskie" | relative_url }}">polskie</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1468,7 +1468,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polskie" | relative_url }}">polskie</a> # 46</li>
+            <li> <a href="{{ "/tags/polskie" | relative_url }}">polskie</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1507,7 +1507,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 35</li>
+            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1838,7 +1838,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 80</li>
+            <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1858,8 +1858,8 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 76</li>
-            <li> <a href="{{ "/tags/polskie" | relative_url }}">polskie</a> # 85</li>
+            <li> <a href="{{ "/tags/polskie" | relative_url }}">polskie</a> # 16</li>
+            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 25</li>
         </ul>
       </td>
     </tr>

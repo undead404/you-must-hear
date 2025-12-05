@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T23:53:31.244Z
+date: 2025-12-05T05:06:45.981Z
 permalink: tags/lobit
 title: lobit
 ---
 
 ## lobit
 
-Last updated: <time datetime="2025-10-22T23:53:31.244Z">Thu Oct 23 2025 02:53:31 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-05T05:06:45.981Z">Fri Dec 05 2025 07:06:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -91,15 +91,15 @@ Lobit refers to music characterized by deliberately degraded audio quality, feat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 6</li>
-            <li> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a> # 57</li>
+            <li> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a> # 43</li>
+            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>34</td>
       <td>
-          <img src="https://i.discogs.com/VcercFCXHt9v8ZBSvVkstd56emHz8yfYlgu1u-prtRQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDQw/OC0xNTg0MDkwOTE4/LTgxODYucG5n.jpeg" alt="Cover for thriller" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c43d4f49b15d4f1aafa1b5ec6c505746.png" alt="Cover for thriller" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-01-07</td>
       <td>C4</td>
@@ -208,7 +208,7 @@ Lobit refers to music characterized by deliberately degraded audio quality, feat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/schranz" | relative_url }}">schranz</a> # 65</li>
+            <li> <a href="{{ "/tags/schranz" | relative_url }}">schranz</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -233,8 +233,8 @@ Lobit refers to music characterized by deliberately degraded audio quality, feat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 10</li>
-            <li> <a href="{{ "/tags/schranz" | relative_url }}">schranz</a> # 72</li>
+            <li> <a href="{{ "/tags/schranz" | relative_url }}">schranz</a> # 29</li>
+            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -257,7 +257,7 @@ Lobit refers to music characterized by deliberately degraded audio quality, feat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/schranz" | relative_url }}">schranz</a> # 82</li>
+            <li> <a href="{{ "/tags/schranz" | relative_url }}">schranz</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -281,7 +281,7 @@ Lobit refers to music characterized by deliberately degraded audio quality, feat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 10</li>
+            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -397,7 +397,7 @@ Lobit refers to music characterized by deliberately degraded audio quality, feat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 53</li>
+            <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -468,9 +468,9 @@ Lobit refers to music characterized by deliberately degraded audio quality, feat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 26</li>
-            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 28</li>
-            <li> <a href="{{ "/tags/experimental-noise" | relative_url }}">experimental noise</a> # 74</li>
+            <li> <a href="{{ "/tags/experimental-noise" | relative_url }}">experimental noise</a> # 27</li>
+            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 73</li>
+            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -504,9 +504,9 @@ Lobit refers to music characterized by deliberately degraded audio quality, feat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 31</li>
-            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 36</li>
-            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 46</li>
+            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 55</li>
+            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 65</li>
+            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -531,7 +531,7 @@ Lobit refers to music characterized by deliberately degraded audio quality, feat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 47</li>
+            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -561,7 +561,7 @@ Lobit refers to music characterized by deliberately degraded audio quality, feat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/terrorcore" | relative_url }}">terrorcore</a> # 89</li>
+            <li> <a href="{{ "/tags/terrorcore" | relative_url }}">terrorcore</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -633,7 +633,7 @@ Lobit refers to music characterized by deliberately degraded audio quality, feat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 51</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -659,7 +659,7 @@ Lobit refers to music characterized by deliberately degraded audio quality, feat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 63</li>
+            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -760,8 +760,8 @@ Lobit refers to music characterized by deliberately degraded audio quality, feat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 61</li>
-            <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 69</li>
+            <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 32</li>
+            <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -859,7 +859,7 @@ Lobit refers to music characterized by deliberately degraded audio quality, feat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 9</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1006,8 +1006,8 @@ Lobit refers to music characterized by deliberately degraded audio quality, feat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 54</li>
-            <li> <a href="{{ "/tags/trip" | relative_url }}">trip</a> # 77</li>
+            <li> <a href="{{ "/tags/trip" | relative_url }}">trip</a> # 24</li>
+            <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1055,7 +1055,7 @@ Lobit refers to music characterized by deliberately degraded audio quality, feat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 76</li>
+            <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1106,7 +1106,7 @@ Lobit refers to music characterized by deliberately degraded audio quality, feat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 39</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1153,7 +1153,7 @@ Lobit refers to music characterized by deliberately degraded audio quality, feat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trip" | relative_url }}">trip</a> # 59</li>
+            <li> <a href="{{ "/tags/trip" | relative_url }}">trip</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1203,7 +1203,7 @@ Lobit refers to music characterized by deliberately degraded audio quality, feat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 62</li>
+            <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1232,7 +1232,7 @@ Lobit refers to music characterized by deliberately degraded audio quality, feat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/terrorcore" | relative_url }}">terrorcore</a> # 84</li>
+            <li> <a href="{{ "/tags/terrorcore" | relative_url }}">terrorcore</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1304,7 +1304,7 @@ Lobit refers to music characterized by deliberately degraded audio quality, feat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/demoscene" | relative_url }}">demoscene</a> # 67</li>
+            <li> <a href="{{ "/tags/demoscene" | relative_url }}">demoscene</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1373,14 +1373,14 @@ Lobit refers to music characterized by deliberately degraded audio quality, feat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 35</li>
+            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>24</td>
       <td>
-          <img src="https://i.discogs.com/pZh4aIfvCSeNIjJhVftaBypa3J8gdjW9BMTDpSxmCRw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3Njg2/Ny0xMTU3NjU3ODUy/LmpwZWc.jpeg" alt="Cover for alkhol hufnimya" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a44661d5d0bd4cbecc8a2607233e0fdb.png" alt="Cover for alkhol hufnimya" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Alcholic Cindy</td>
@@ -1489,8 +1489,8 @@ Lobit refers to music characterized by deliberately degraded audio quality, feat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a> # 7</li>
-            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 42</li>
+            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 57</li>
+            <li> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1559,7 +1559,7 @@ Lobit refers to music characterized by deliberately degraded audio quality, feat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 35</li>
+            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1608,7 +1608,7 @@ Lobit refers to music characterized by deliberately degraded audio quality, feat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 41</li>
+            <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1631,7 +1631,7 @@ Lobit refers to music characterized by deliberately degraded audio quality, feat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-noise" | relative_url }}">experimental noise</a> # 81</li>
+            <li> <a href="{{ "/tags/experimental-noise" | relative_url }}">experimental noise</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1659,7 +1659,7 @@ Lobit refers to music characterized by deliberately degraded audio quality, feat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 9</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1724,7 +1724,7 @@ Lobit refers to music characterized by deliberately degraded audio quality, feat
     <tr>
       <td>5</td>
       <td>
-          <img src="https://i.discogs.com/htSWo831LAXAjh2X8LmxG12UYqMMl4hRtvi6YOqxD80/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjE2/MzYtMTIwMTcyMTA5/Ny5qcGVn.jpeg" alt="Cover for Erutan Circa Scenes EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/81405cc3b9d94c888dc7d8a74b133dca.png" alt="Cover for Erutan Circa Scenes EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-12-24</td>
       <td>Ceptual</td>
@@ -1810,8 +1810,8 @@ Lobit refers to music characterized by deliberately degraded audio quality, feat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 26</li>
             <li> <a href="{{ "/tags/drone-ambient" | relative_url }}">drone ambient</a> # 37</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1855,7 +1855,7 @@ Lobit refers to music characterized by deliberately degraded audio quality, feat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 65</li>
+            <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1886,7 +1886,7 @@ Lobit refers to music characterized by deliberately degraded audio quality, feat
     <tr>
       <td>16</td>
       <td>
-          <img src="https://i.discogs.com/zC9QV5EdfUnZaZI2X63eFr46ANsk672RZnCVYAalyug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mzkz/MTUtMTI1Mzc4NTQ4/NC5qcGVn.jpeg" alt="Cover for Youpi c&#39;est la fête" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b65396d401e84bd7b41790c91c100226.png" alt="Cover for Youpi c&#39;est la fête" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>JKP</td>
@@ -1929,7 +1929,7 @@ Lobit refers to music characterized by deliberately degraded audio quality, feat
     <tr>
       <td>47</td>
       <td>
-          <img src="https://i.discogs.com/CWzcHEzTVWLOfZ6cM1h5-fkP0V7ralMIQ2k1Jn_AgiE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mzkz/NjMtMTI1Mzc4NzQx/Mi5qcGVn.jpeg" alt="Cover for Apple EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/31994ec0499d4997b1d833f0879cbc42.png" alt="Cover for Apple EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Emmoti ON</td>
@@ -1949,7 +1949,7 @@ Lobit refers to music characterized by deliberately degraded audio quality, feat
     <tr>
       <td>76</td>
       <td>
-          <img src="https://i.discogs.com/vbMNMljDDyyBgd5aGP6agvs_GfXzg64La4M2gF8q4jI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzE3/ODItMTIzOTc1NDEx/OC5qcGVn.jpeg" alt="Cover for wave ta bixe" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f2d84d34b1084747ba4f1113da5df721.png" alt="Cover for wave ta bixe" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-02-07</td>
       <td>weetalife</td>
@@ -1993,7 +1993,7 @@ Lobit refers to music characterized by deliberately degraded audio quality, feat
     <tr>
       <td>31</td>
       <td>
-          <img src="https://i.discogs.com/jwdeehILGQMxpZpjRM_5F2tGRTtn8MoPSyotnXP1AY4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDA5/MTAtMTMxMjk2ODAz/NC5qcGVn.jpeg" alt="Cover for fjk150-343" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5742431a586443a4b011895275e7e3c1.png" alt="Cover for fjk150-343" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-01-11</td>
       <td>dn76e</td>
@@ -2059,7 +2059,7 @@ Lobit refers to music characterized by deliberately degraded audio quality, feat
     <tr>
       <td>6</td>
       <td>
-          <img src="https://i.discogs.com/uZyt4XM-nT_8Ttsq5bwWiojLN9jRI8cjFEZ2u24wMPQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjQw/ODU4LTE1MDE0OTIy/NDEtNzAzOC5wbmc.jpeg" alt="Cover for Momma Beat" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c8125b998a0d4849957571dd9fdc7a7f.png" alt="Cover for Momma Beat" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-12-13</td>
       <td>Overthruster</td>
@@ -2080,7 +2080,7 @@ Lobit refers to music characterized by deliberately degraded audio quality, feat
     <tr>
       <td>37</td>
       <td>
-          <img src="https://i.discogs.com/bu_bjEDWlQliXW3Fpq15up5ipN76Bg2lcTSRhgClFF4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mzkz/NDAtMTI1Mzc4NjM2/Ny5qcGVn.jpeg" alt="Cover for Low Bit! Bit! Bit!" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dc94c5e12bcd4c3ab1969e4eaa239f0c.png" alt="Cover for Low Bit! Bit! Bit!" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-12-01</td>
       <td>EugeneKha</td>
@@ -2103,7 +2103,7 @@ Lobit refers to music characterized by deliberately degraded audio quality, feat
     <tr>
       <td>12</td>
       <td>
-          <img src="https://i.discogs.com/RK2A0xWtIn_mzchSH4ZFvsNGtARnf1TCIbnzhFmsgsY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNzA4/NzktMTMyMzI3OTAz/Mi5qcGVn.jpeg" alt="Cover for Cautionary Adhesive" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4b06558eb0494aeba9b583bbf7323377.png" alt="Cover for Cautionary Adhesive" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-12-06</td>
       <td>The Hairy Giant</td>
@@ -2122,8 +2122,8 @@ Lobit refers to music characterized by deliberately degraded audio quality, feat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 34</li>
-            <li> <a href="{{ "/tags/trip" | relative_url }}">trip</a> # 65</li>
+            <li> <a href="{{ "/tags/trip" | relative_url }}">trip</a> # 36</li>
+            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -2157,7 +2157,7 @@ Lobit refers to music characterized by deliberately degraded audio quality, feat
     <tr>
       <td>49</td>
       <td>
-          <img src="https://i.discogs.com/wuHKo3Anj6T0cQPfi-k_UC3JPu9exhnlgFex9MFG6UY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjk0/Nzk0LTE2MDY3NDcw/MzItODA5OC5qcGVn.jpeg" alt="Cover for Music From Saharan Cellphones, Vol. 1" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/625450a5f21437476f753b53adfcc71a.png" alt="Cover for Music From Saharan Cellphones, Vol. 1" style="max-width:120px; height:auto;" />
       </td>
       <td>2020</td>
       <td>Mdou Moctar</td>
@@ -2174,7 +2174,7 @@ Lobit refers to music characterized by deliberately degraded audio quality, feat
     <tr>
       <td>91</td>
       <td>
-          <img src="https://i.discogs.com/WbwubKTJg9dFY2SgCVGt8ag4XMUdS_Ox0BctpQ4QTi0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzIz/MTUxLTE2MjA5OTgw/MjktMjcyMC5qcGVn.jpeg" alt="Cover for Surgeon Dogma - Single" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ae130f20599208ffe3b386ac9c5214f8.png" alt="Cover for Surgeon Dogma - Single" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-04-30</td>
       <td>YABUJIN</td>
@@ -2199,7 +2199,7 @@ Lobit refers to music characterized by deliberately degraded audio quality, feat
     <tr>
       <td>92</td>
       <td>
-          <img src="https://i.discogs.com/JyYmhMDLWn0XrwEmF0_IDvNDlkuyqqP353p83KfCqAQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTM4/ODE3LTE2NTgyNzcy/MzEtMzAwNi5qcGVn.jpeg" alt="Cover for All Eyez on Me - Single" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/78391dc17e94493d96e20ff644ef7940.png" alt="Cover for All Eyez on Me - Single" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-05-01</td>
       <td>Luci4</td>
@@ -2216,14 +2216,14 @@ Lobit refers to music characterized by deliberately degraded audio quality, feat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 62</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 37</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/JyYmhMDLWn0XrwEmF0_IDvNDlkuyqqP353p83KfCqAQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTM4/ODE3LTE2NTgyNzcy/MzEtMzAwNi5qcGVn.jpeg" alt="Cover for All Eyez on Me" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/079bc8014f25610d5cd77b88abe01b61.png" alt="Cover for All Eyez on Me" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-05-01</td>
       <td>Luci4</td>
@@ -2231,27 +2231,20 @@ Lobit refers to music characterized by deliberately degraded audio quality, feat
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lobit" | relative_url }}">lobit</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 17</li>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 62</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 73</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 84</li>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 97</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 13</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 28</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 37</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/WbwubKTJg9dFY2SgCVGt8ag4XMUdS_Ox0BctpQ4QTi0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzIz/MTUxLTE2MjA5OTgw/MjktMjcyMC5qcGVn.jpeg" alt="Cover for SURGEON DOGMA" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/78aae9625a067b3a567df65f98974347.png" alt="Cover for SURGEON DOGMA" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-11-15</td>
       <td>YABUJIN</td>
@@ -2270,8 +2263,11 @@ Lobit refers to music characterized by deliberately degraded audio quality, feat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 35</li>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 94</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 5</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 64</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 78</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 79</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -2290,8 +2286,8 @@ Lobit refers to music characterized by deliberately degraded audio quality, feat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 38</li>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 76</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 53</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -2343,6 +2339,7 @@ Lobit refers to music characterized by deliberately degraded audio quality, feat
     <tr>
       <td>9</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b5ea46441593ee5282fec0f1c3b3a5c5.png" alt="Cover for Music from Saharan Cellphones, Vol. 1" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Joskar et Flamzy</td>
@@ -2375,6 +2372,7 @@ Lobit refers to music characterized by deliberately degraded audio quality, feat
     <tr>
       <td>68</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/224d8e55bf77d426a271820993a83bef.png" alt="Cover for Music From Saharan Cellphones, Vol. 1" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Kaba Blon</td>
@@ -2391,6 +2389,7 @@ Lobit refers to music characterized by deliberately degraded audio quality, feat
     <tr>
       <td>78</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0d84849425cba3e9cb22f994821270a8.png" alt="Cover for Music from Saharan Cellphones, Vol. 1" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Yeli Fuzzo</td>

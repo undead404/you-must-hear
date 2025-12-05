@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-16T12:49:37.497Z
+date: 2025-12-05T05:01:40.162Z
 permalink: tags/flamenco
 title: flamenco
 ---
 
 ## flamenco
 
-Last updated: <time datetime="2025-11-16T12:49:37.497Z">Sun Nov 16 2025 14:49:37 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T05:01:40.162Z">Fri Dec 05 2025 07:01:40 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -43,7 +43,7 @@ Flamenco is a passionate Spanish art form combining guitar, vocals, and dance th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/flamenco-guitar" | relative_url }}">flamenco guitar</a> # 72</li>
+            <li> <a href="{{ "/tags/flamenco-guitar" | relative_url }}">flamenco guitar</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -80,7 +80,7 @@ Flamenco is a passionate Spanish art form combining guitar, vocals, and dance th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spanish-guitar" | relative_url }}">spanish guitar</a> # 75</li>
+            <li> <a href="{{ "/tags/spanish-guitar" | relative_url }}">spanish guitar</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -169,7 +169,7 @@ Flamenco is a passionate Spanish art form combining guitar, vocals, and dance th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/flamenco-guitar" | relative_url }}">flamenco guitar</a> # 37</li>
+            <li> <a href="{{ "/tags/flamenco-guitar" | relative_url }}">flamenco guitar</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -277,7 +277,7 @@ Flamenco is a passionate Spanish art form combining guitar, vocals, and dance th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spanish-guitar" | relative_url }}">spanish guitar</a> # 96</li>
+            <li> <a href="{{ "/tags/spanish-guitar" | relative_url }}">spanish guitar</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -333,7 +333,7 @@ Flamenco is a passionate Spanish art form combining guitar, vocals, and dance th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spanish-guitar" | relative_url }}">spanish guitar</a> # 97</li>
+            <li> <a href="{{ "/tags/spanish-guitar" | relative_url }}">spanish guitar</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -394,11 +394,11 @@ Flamenco is a passionate Spanish art form combining guitar, vocals, and dance th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 40</li>
+            <li> <a href="{{ "/tags/flamenco-guitar" | relative_url }}">flamenco guitar</a> # 1</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 8</li>
+            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 11</li>
             <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 49</li>
-            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 90</li>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 93</li>
-            <li> <a href="{{ "/tags/flamenco-guitar" | relative_url }}">flamenco guitar</a> # 100</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -473,9 +473,9 @@ Flamenco is a passionate Spanish art form combining guitar, vocals, and dance th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 37</li>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 92</li>
-            <li> <a href="{{ "/tags/flamenco-guitar" | relative_url }}">flamenco guitar</a> # 99</li>
+            <li> <a href="{{ "/tags/flamenco-guitar" | relative_url }}">flamenco guitar</a> # 2</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 9</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -493,7 +493,7 @@ Flamenco is a passionate Spanish art form combining guitar, vocals, and dance th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spanish-guitar" | relative_url }}">spanish guitar</a> # 74</li>
+            <li> <a href="{{ "/tags/spanish-guitar" | relative_url }}">spanish guitar</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -566,7 +566,7 @@ Flamenco is a passionate Spanish art form combining guitar, vocals, and dance th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 20</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -586,7 +586,7 @@ Flamenco is a passionate Spanish art form combining guitar, vocals, and dance th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 78</li>
+            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -604,7 +604,7 @@ Flamenco is a passionate Spanish art form combining guitar, vocals, and dance th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spanish-guitar" | relative_url }}">spanish guitar</a> # 21</li>
+            <li> <a href="{{ "/tags/spanish-guitar" | relative_url }}">spanish guitar</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -657,7 +657,7 @@ Flamenco is a passionate Spanish art form combining guitar, vocals, and dance th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gypsy" | relative_url }}">gypsy</a> # 4</li>
+            <li> <a href="{{ "/tags/gypsy" | relative_url }}">gypsy</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -782,7 +782,7 @@ Flamenco is a passionate Spanish art form combining guitar, vocals, and dance th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 90</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -800,7 +800,7 @@ Flamenco is a passionate Spanish art form combining guitar, vocals, and dance th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spanish-guitar" | relative_url }}">spanish guitar</a> # 92</li>
+            <li> <a href="{{ "/tags/spanish-guitar" | relative_url }}">spanish guitar</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -821,7 +821,7 @@ Flamenco is a passionate Spanish art form combining guitar, vocals, and dance th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 44</li>
+            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -842,7 +842,7 @@ Flamenco is a passionate Spanish art form combining guitar, vocals, and dance th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/flamenco-guitar" | relative_url }}">flamenco guitar</a> # 98</li>
+            <li> <a href="{{ "/tags/flamenco-guitar" | relative_url }}">flamenco guitar</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -913,7 +913,7 @@ Flamenco is a passionate Spanish art form combining guitar, vocals, and dance th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spanish-guitar" | relative_url }}">spanish guitar</a> # 87</li>
+            <li> <a href="{{ "/tags/spanish-guitar" | relative_url }}">spanish guitar</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -932,8 +932,8 @@ Flamenco is a passionate Spanish art form combining guitar, vocals, and dance th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spanish-guitar" | relative_url }}">spanish guitar</a> # 58</li>
-            <li> <a href="{{ "/tags/flamenco-guitar" | relative_url }}">flamenco guitar</a> # 64</li>
+            <li> <a href="{{ "/tags/flamenco-guitar" | relative_url }}">flamenco guitar</a> # 37</li>
+            <li> <a href="{{ "/tags/spanish-guitar" | relative_url }}">spanish guitar</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -970,7 +970,7 @@ Flamenco is a passionate Spanish art form combining guitar, vocals, and dance th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/flamenco-guitar" | relative_url }}">flamenco guitar</a> # 92</li>
+            <li> <a href="{{ "/tags/flamenco-guitar" | relative_url }}">flamenco guitar</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -990,7 +990,7 @@ Flamenco is a passionate Spanish art form combining guitar, vocals, and dance th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautor" | relative_url }}">cantautor</a> # 72</li>
+            <li> <a href="{{ "/tags/cantautor" | relative_url }}">cantautor</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1009,7 +1009,7 @@ Flamenco is a passionate Spanish art form combining guitar, vocals, and dance th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a> # 96</li>
+            <li> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1100,7 +1100,7 @@ Flamenco is a passionate Spanish art form combining guitar, vocals, and dance th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 62</li>
+            <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1192,7 +1192,7 @@ Flamenco is a passionate Spanish art form combining guitar, vocals, and dance th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spanish-guitar" | relative_url }}">spanish guitar</a> # 49</li>
+            <li> <a href="{{ "/tags/spanish-guitar" | relative_url }}">spanish guitar</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1285,7 +1285,7 @@ Flamenco is a passionate Spanish art form combining guitar, vocals, and dance th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spanish-guitar" | relative_url }}">spanish guitar</a> # 89</li>
+            <li> <a href="{{ "/tags/spanish-guitar" | relative_url }}">spanish guitar</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -1305,8 +1305,8 @@ Flamenco is a passionate Spanish art form combining guitar, vocals, and dance th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/barcelona" | relative_url }}">barcelona</a> # 88</li>
-            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 93</li>
+            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 8</li>
+            <li> <a href="{{ "/tags/barcelona" | relative_url }}">barcelona</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1360,7 +1360,7 @@ Flamenco is a passionate Spanish art form combining guitar, vocals, and dance th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/flamenco-guitar" | relative_url }}">flamenco guitar</a> # 94</li>
+            <li> <a href="{{ "/tags/flamenco-guitar" | relative_url }}">flamenco guitar</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1382,7 +1382,7 @@ Flamenco is a passionate Spanish art form combining guitar, vocals, and dance th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 4</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1462,7 +1462,7 @@ Flamenco is a passionate Spanish art form combining guitar, vocals, and dance th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 25</li>
+            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1567,7 +1567,7 @@ Flamenco is a passionate Spanish art form combining guitar, vocals, and dance th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 58</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1604,7 +1604,7 @@ Flamenco is a passionate Spanish art form combining guitar, vocals, and dance th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/flamenco-guitar" | relative_url }}">flamenco guitar</a> # 93</li>
+            <li> <a href="{{ "/tags/flamenco-guitar" | relative_url }}">flamenco guitar</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1622,7 +1622,7 @@ Flamenco is a passionate Spanish art form combining guitar, vocals, and dance th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternativo" | relative_url }}">alternativo</a> # 70</li>
+            <li> <a href="{{ "/tags/alternativo" | relative_url }}">alternativo</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1678,6 +1678,7 @@ Flamenco is a passionate Spanish art form combining guitar, vocals, and dance th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1716,7 +1717,7 @@ Flamenco is a passionate Spanish art form combining guitar, vocals, and dance th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 67</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1827,7 +1828,7 @@ Flamenco is a passionate Spanish art form combining guitar, vocals, and dance th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 82</li>
+            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1847,7 +1848,7 @@ Flamenco is a passionate Spanish art form combining guitar, vocals, and dance th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/fado" | relative_url }}">fado</a> # 83</li>
+            <li> <a href="{{ "/tags/fado" | relative_url }}">fado</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1866,13 +1867,14 @@ Flamenco is a passionate Spanish art form combining guitar, vocals, and dance th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spanish-guitar" | relative_url }}">spanish guitar</a> # 83</li>
+            <li> <a href="{{ "/tags/spanish-guitar" | relative_url }}">spanish guitar</a> # 18</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>67</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a366a983e837444196cb84dd815c37cb.png" alt="Cover for Cultura" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Breed77</td>

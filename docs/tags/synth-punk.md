@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-27T09:30:22.042Z
+date: 2025-12-05T05:01:45.672Z
 permalink: tags/synth-punk
 title: synth punk
 ---
 
 ## synth punk
 
-Last updated: <time datetime="2025-11-27T09:30:22.042Z">Thu Nov 27 2025 11:30:22 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T05:01:45.672Z">Fri Dec 05 2025 07:01:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -45,9 +45,9 @@ Synth punk fuses punk rock&#39;s aggressive energy and DIY ethos with electronic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 62</li>
-            <li> <a href="{{ "/tags/no-wave" | relative_url }}">no wave</a> # 95</li>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 98</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 3</li>
+            <li> <a href="{{ "/tags/no-wave" | relative_url }}">no wave</a> # 6</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -221,9 +221,9 @@ Synth punk fuses punk rock&#39;s aggressive energy and DIY ethos with electronic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 14</li>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 19</li>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 57</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 44</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 81</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -242,7 +242,7 @@ Synth punk fuses punk rock&#39;s aggressive energy and DIY ethos with electronic
       <td>
         <ul>
             <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 26</li>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 54</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -302,7 +302,7 @@ Synth punk fuses punk rock&#39;s aggressive energy and DIY ethos with electronic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 44</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -364,11 +364,11 @@ Synth punk fuses punk rock&#39;s aggressive energy and DIY ethos with electronic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 4</li>
-            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 49</li>
-            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 51</li>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 80</li>
-            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 98</li>
+            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 2</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 21</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 48</li>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 52</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -391,7 +391,7 @@ Synth punk fuses punk rock&#39;s aggressive energy and DIY ethos with electronic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 14</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -448,7 +448,7 @@ Synth punk fuses punk rock&#39;s aggressive energy and DIY ethos with electronic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 94</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -491,7 +491,7 @@ Synth punk fuses punk rock&#39;s aggressive energy and DIY ethos with electronic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 69</li>
+            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -555,7 +555,7 @@ Synth punk fuses punk rock&#39;s aggressive energy and DIY ethos with electronic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 60</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -671,9 +671,9 @@ Synth punk fuses punk rock&#39;s aggressive energy and DIY ethos with electronic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 24</li>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 24</li>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 68</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 33</li>
+            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 77</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -693,7 +693,7 @@ Synth punk fuses punk rock&#39;s aggressive energy and DIY ethos with electronic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 89</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -714,7 +714,7 @@ Synth punk fuses punk rock&#39;s aggressive energy and DIY ethos with electronic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 79</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -735,7 +735,7 @@ Synth punk fuses punk rock&#39;s aggressive energy and DIY ethos with electronic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 96</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -754,7 +754,7 @@ Synth punk fuses punk rock&#39;s aggressive energy and DIY ethos with electronic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 1</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -775,7 +775,7 @@ Synth punk fuses punk rock&#39;s aggressive energy and DIY ethos with electronic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deathrock" | relative_url }}">deathrock</a> # 57</li>
+            <li> <a href="{{ "/tags/deathrock" | relative_url }}">deathrock</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -796,8 +796,8 @@ Synth punk fuses punk rock&#39;s aggressive energy and DIY ethos with electronic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 88</li>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 95</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 6</li>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -818,7 +818,7 @@ Synth punk fuses punk rock&#39;s aggressive energy and DIY ethos with electronic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 56</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 45</li>
             <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 58</li>
         </ul>
       </td>
@@ -899,7 +899,7 @@ Synth punk fuses punk rock&#39;s aggressive energy and DIY ethos with electronic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 2</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -917,8 +917,8 @@ Synth punk fuses punk rock&#39;s aggressive energy and DIY ethos with electronic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 8</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 60</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 41</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -939,7 +939,7 @@ Synth punk fuses punk rock&#39;s aggressive energy and DIY ethos with electronic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 86</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -957,7 +957,7 @@ Synth punk fuses punk rock&#39;s aggressive energy and DIY ethos with electronic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 22</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -977,8 +977,8 @@ Synth punk fuses punk rock&#39;s aggressive energy and DIY ethos with electronic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 13</li>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 47</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 53</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -996,7 +996,7 @@ Synth punk fuses punk rock&#39;s aggressive energy and DIY ethos with electronic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 2</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1036,10 +1036,10 @@ Synth punk fuses punk rock&#39;s aggressive energy and DIY ethos with electronic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 56</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 64</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 13</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 37</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 45</li>
             <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 80</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1057,7 +1057,7 @@ Synth punk fuses punk rock&#39;s aggressive energy and DIY ethos with electronic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 23</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1078,7 +1078,7 @@ Synth punk fuses punk rock&#39;s aggressive energy and DIY ethos with electronic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 33</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1097,7 +1097,7 @@ Synth punk fuses punk rock&#39;s aggressive energy and DIY ethos with electronic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 29</li>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1118,8 +1118,8 @@ Synth punk fuses punk rock&#39;s aggressive energy and DIY ethos with electronic
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 12</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 14</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1138,8 +1138,8 @@ Synth punk fuses punk rock&#39;s aggressive energy and DIY ethos with electronic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 87</li>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 91</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 10</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 14</li>
             <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 100</li>
         </ul>
       </td>
@@ -1194,10 +1194,10 @@ Synth punk fuses punk rock&#39;s aggressive energy and DIY ethos with electronic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 17</li>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 17</li>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 35</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 54</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 47</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 66</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 79</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1222,8 +1222,8 @@ Synth punk fuses punk rock&#39;s aggressive energy and DIY ethos with electronic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 40</li>
-            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 50</li>
+            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 51</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1241,12 +1241,12 @@ Synth punk fuses punk rock&#39;s aggressive energy and DIY ethos with electronic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 44</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 46</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 47</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 13</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 31</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 54</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 55</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 56</li>
             <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 59</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 70</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1285,8 +1285,8 @@ Synth punk fuses punk rock&#39;s aggressive energy and DIY ethos with electronic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 67</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 80</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 21</li>
+            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1323,8 +1323,7 @@ Synth punk fuses punk rock&#39;s aggressive energy and DIY ethos with electronic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 8</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 14</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1385,7 +1384,7 @@ Synth punk fuses punk rock&#39;s aggressive energy and DIY ethos with electronic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 66</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1481,8 +1480,8 @@ Synth punk fuses punk rock&#39;s aggressive energy and DIY ethos with electronic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 9</li>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 27</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 74</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1522,7 +1521,7 @@ Synth punk fuses punk rock&#39;s aggressive energy and DIY ethos with electronic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/no-wave" | relative_url }}">no wave</a> # 81</li>
+            <li> <a href="{{ "/tags/no-wave" | relative_url }}">no wave</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1544,7 +1543,7 @@ Synth punk fuses punk rock&#39;s aggressive energy and DIY ethos with electronic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 79</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1564,7 +1563,7 @@ Synth punk fuses punk rock&#39;s aggressive energy and DIY ethos with electronic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 16</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1588,10 +1587,10 @@ Synth punk fuses punk rock&#39;s aggressive energy and DIY ethos with electronic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-hip-hop" | relative_url }}">british hip hop</a> # 47</li>
-            <li> <a href="{{ "/tags/english-hip-hop" | relative_url }}">english hip hop</a> # 49</li>
-            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 57</li>
-            <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 85</li>
+            <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 16</li>
+            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 43</li>
+            <li> <a href="{{ "/tags/english-hip-hop" | relative_url }}">english hip hop</a> # 52</li>
+            <li> <a href="{{ "/tags/british-hip-hop" | relative_url }}">british hip hop</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1610,7 +1609,7 @@ Synth punk fuses punk rock&#39;s aggressive energy and DIY ethos with electronic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 35</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1648,8 +1647,8 @@ Synth punk fuses punk rock&#39;s aggressive energy and DIY ethos with electronic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 70</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 93</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 8</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1709,8 +1708,8 @@ Synth punk fuses punk rock&#39;s aggressive energy and DIY ethos with electronic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 3</li>
             <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 27</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1813,11 +1812,11 @@ Synth punk fuses punk rock&#39;s aggressive energy and DIY ethos with electronic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 15</li>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 34</li>
-            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 53</li>
-            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 79</li>
-            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 89</li>
+            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 12</li>
+            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 20</li>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 35</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 66</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1915,7 +1914,7 @@ Synth punk fuses punk rock&#39;s aggressive energy and DIY ethos with electronic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 82</li>
+            <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1939,11 +1938,11 @@ Synth punk fuses punk rock&#39;s aggressive energy and DIY ethos with electronic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 92</li>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 96</li>
+            <li> <a href="{{ "/tags/noise-punk" | relative_url }}">noise punk</a> # 1</li>
+            <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 1</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 5</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 9</li>
             <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 99</li>
-            <li> <a href="{{ "/tags/noise-punk" | relative_url }}">noise punk</a> # 100</li>
-            <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1961,7 +1960,7 @@ Synth punk fuses punk rock&#39;s aggressive energy and DIY ethos with electronic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 7</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1986,9 +1985,9 @@ Synth punk fuses punk rock&#39;s aggressive energy and DIY ethos with electronic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 26</li>
-            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 62</li>
-            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 65</li>
+            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 36</li>
+            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 38</li>
+            <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -2015,10 +2014,10 @@ Synth punk fuses punk rock&#39;s aggressive energy and DIY ethos with electronic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 53</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 87</li>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 95</li>
-            <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 100</li>
+            <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 1</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 6</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 14</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -2059,9 +2058,9 @@ Synth punk fuses punk rock&#39;s aggressive energy and DIY ethos with electronic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 2</li>
-            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 38</li>
-            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 74</li>
+            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 27</li>
+            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 63</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 99</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T04:12:08.422Z
+date: 2025-12-05T05:11:45.936Z
 permalink: tags/takamba
 title: takamba
 ---
 
 ## takamba
 
-Last updated: <time datetime="2025-10-28T04:12:08.422Z">Tue Oct 28 2025 06:12:08 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T05:11:45.936Z">Fri Dec 05 2025 07:11:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -43,7 +43,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 69</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 32</li>
             <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 80</li>
         </ul>
       </td>
@@ -64,7 +64,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 64</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -84,7 +84,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 46</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -104,7 +104,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 51</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -124,7 +124,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 29</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -147,10 +147,10 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 28</li>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 71</li>
-            <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 98</li>
-            <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 100</li>
+            <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 1</li>
+            <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 3</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 30</li>
+            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -170,7 +170,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 26</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -190,7 +190,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 39</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -210,7 +210,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 55</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -229,7 +229,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 9</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -250,7 +250,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 36</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -270,7 +270,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 19</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -290,7 +290,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 62</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -310,7 +310,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 17</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -329,7 +329,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 78</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -349,7 +349,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 20</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -369,7 +369,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 33</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -389,7 +389,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 40</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -409,7 +409,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 44</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -429,7 +429,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 45</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -449,7 +449,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 47</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -469,7 +469,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 65</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -489,7 +489,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 31</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -509,7 +509,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 91</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -528,7 +528,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 80</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -547,7 +547,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 82</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -567,7 +567,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 93</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -605,7 +605,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 70</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -624,7 +624,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 10</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -644,7 +644,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 27</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -664,7 +664,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 28</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -683,14 +683,14 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 97</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 4</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/kg1gMI0_QqyHtuWBU5aUzYApR0P_iDAgFNdy0dCHmYY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NjU3/NjktMTM2OTkwNjI3/MS01NzQ0LmpwZWc.jpeg" alt="Cover for Nomad" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cdf3aebdd3b74e8881a78cb9777f5d82.png" alt="Cover for Nomad" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-04-02</td>
       <td>Bombino</td>
@@ -709,18 +709,17 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 87</li>
+            <li> <a href="{{ "/tags/nashville" | relative_url }}">nashville</a> # 2</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 2</li>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 2</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 12</li>
             <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 98</li>
-            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 99</li>
-            <li> <a href="{{ "/tags/nashville" | relative_url }}">nashville</a> # 99</li>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>79</td>
       <td>
-          <img src="https://i.discogs.com/cK_HEJpF_4CzPmJnU8OcE5bpFufR7ZDcHLl-m6KnV-c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MzMx/NjYtMTM4MDQwODgy/Ni02Mzc3LmpwZWc.jpeg" alt="Cover for Afelan" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-07-17</td>
       <td>Mdou Moctar</td>
@@ -733,7 +732,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 73</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -807,7 +806,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 8</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -827,7 +826,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 14</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -847,7 +846,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 48</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -872,7 +871,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
     <tr>
       <td>53</td>
       <td>
-          <img src="https://i.discogs.com/3pKRETrMBn--S59MqSWuSQz3EJHEeXJF8ESIvIqb-FY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyOTcy/MTEtMTQxNTg1NTE1/Mi04ODY4LmpwZWc.jpeg" alt="Cover for Anar" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/07327d3aeff04870c897451a2f6f369e.png" alt="Cover for Anar" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>Mdou Moctar</td>
@@ -905,7 +904,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 18</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -925,7 +924,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 79</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -945,7 +944,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 50</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -965,7 +964,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 53</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -985,7 +984,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 43</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1005,7 +1004,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 13</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1025,7 +1024,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 52</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1045,7 +1044,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 11</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1065,7 +1064,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 25</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1085,7 +1084,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 49</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1105,7 +1104,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 74</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1125,7 +1124,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 37</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1145,7 +1144,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 61</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1165,7 +1164,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 68</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1185,7 +1184,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 21</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1204,7 +1203,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 94</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1226,9 +1225,9 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 41</li>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 88</li>
-            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 96</li>
+            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 5</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 13</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1248,7 +1247,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 77</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1268,7 +1267,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 15</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1288,7 +1287,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 30</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1308,7 +1307,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 41</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1328,7 +1327,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 81</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1348,7 +1347,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 85</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1368,7 +1367,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 92</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1406,7 +1405,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 84</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1426,7 +1425,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 86</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1446,7 +1445,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 54</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1467,7 +1466,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 72</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1487,7 +1486,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 87</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1511,9 +1510,9 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/mali" | relative_url }}">mali</a> # 10</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 12</li>
             <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 68</li>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 89</li>
-            <li> <a href="{{ "/tags/mali" | relative_url }}">mali</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1533,7 +1532,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 58</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1555,7 +1554,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       <td>
         <ul>
             <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 5</li>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 59</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1575,7 +1574,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 35</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1649,7 +1648,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 60</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1669,7 +1668,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 24</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1688,8 +1687,8 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 7</li>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 100</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 1</li>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1709,7 +1708,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 57</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1747,7 +1746,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 75</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1767,7 +1766,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 16</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1792,11 +1791,11 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 34</li>
-            <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 82</li>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 83</li>
-            <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 88</li>
-            <li> <a href="{{ "/tags/tunisia" | relative_url }}">tunisia</a> # 89</li>
+            <li> <a href="{{ "/tags/tunisia" | relative_url }}">tunisia</a> # 12</li>
+            <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 13</li>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 18</li>
+            <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 19</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1816,7 +1815,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 42</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1836,7 +1835,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 56</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1856,7 +1855,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 67</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1875,7 +1874,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 76</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1895,7 +1894,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 90</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1915,7 +1914,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 7</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1935,7 +1934,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 12</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1955,7 +1954,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 66</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1993,7 +1992,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 63</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -2013,7 +2012,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 22</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -2033,7 +2032,7 @@ Takamba is a hypnotic desert blues style originating from Tuareg communities of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 38</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 63</li>
         </ul>
       </td>
     </tr>

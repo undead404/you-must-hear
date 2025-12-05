@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-18T14:53:45.461Z
+date: 2025-12-05T05:12:45.953Z
 permalink: tags/black-ambient
 title: black ambient
 ---
 
 ## black ambient
 
-Last updated: <time datetime="2025-11-18T14:53:45.461Z">Tue Nov 18 2025 16:53:45 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T05:12:45.953Z">Fri Dec 05 2025 07:12:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -214,7 +214,7 @@ Black ambient music is a subgenre of ambient music that incorporates elements of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hungarian" | relative_url }}">hungarian</a> # 73</li>
+            <li> <a href="{{ "/tags/hungarian" | relative_url }}">hungarian</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -371,8 +371,8 @@ Black ambient music is a subgenre of ambient music that incorporates elements of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 13</li>
-            <li> <a href="{{ "/tags/ambient-black-metal" | relative_url }}">ambient black metal</a> # 65</li>
+            <li> <a href="{{ "/tags/ambient-black-metal" | relative_url }}">ambient black metal</a> # 36</li>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -393,7 +393,7 @@ Black ambient music is a subgenre of ambient music that incorporates elements of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 80</li>
+            <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -438,8 +438,8 @@ Black ambient music is a subgenre of ambient music that incorporates elements of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 2</li>
-            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 67</li>
+            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 33</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -535,7 +535,7 @@ Black ambient music is a subgenre of ambient music that incorporates elements of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 74</li>
+            <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -555,7 +555,7 @@ Black ambient music is a subgenre of ambient music that incorporates elements of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-black-metal" | relative_url }}">ambient black metal</a> # 6</li>
+            <li> <a href="{{ "/tags/ambient-black-metal" | relative_url }}">ambient black metal</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -661,7 +661,7 @@ Black ambient music is a subgenre of ambient music that incorporates elements of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 84</li>
+            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -683,7 +683,7 @@ Black ambient music is a subgenre of ambient music that incorporates elements of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 52</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -940,7 +940,7 @@ Black ambient music is a subgenre of ambient music that incorporates elements of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belarus" | relative_url }}">belarus</a> # 4</li>
+            <li> <a href="{{ "/tags/belarus" | relative_url }}">belarus</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -989,8 +989,8 @@ Black ambient music is a subgenre of ambient music that incorporates elements of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a> # 5</li>
-            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 6</li>
+            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 95</li>
+            <li> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1126,9 +1126,8 @@ Black ambient music is a subgenre of ambient music that incorporates elements of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 10</li>
-            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 48</li>
-            <li> <a href="{{ "/tags/dungeon-synth" | relative_url }}">dungeon synth</a> # 90</li>
+            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 47</li>
+            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1244,7 +1243,7 @@ Black ambient music is a subgenre of ambient music that incorporates elements of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 67</li>
+            <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1502,7 +1501,7 @@ Black ambient music is a subgenre of ambient music that incorporates elements of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/netherlands" | relative_url }}">netherlands</a> # 35</li>
+            <li> <a href="{{ "/tags/netherlands" | relative_url }}">netherlands</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1520,8 +1519,9 @@ Black ambient music is a subgenre of ambient music that incorporates elements of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 33</li>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 76</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 18</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 59</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1730,12 +1730,12 @@ Black ambient music is a subgenre of ambient music that incorporates elements of
       <td>
         <ul>
             <li> <a href="{{ "/tags/ritual-industrial" | relative_url }}">ritual industrial</a> # 3</li>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 33</li>
-            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 77</li>
-            <li> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a> # 77</li>
-            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 82</li>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 82</li>
-            <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 92</li>
+            <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 8</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 17</li>
+            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 18</li>
+            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 24</li>
+            <li> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a> # 24</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1757,7 +1757,7 @@ Black ambient music is a subgenre of ambient music that incorporates elements of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 87</li>
+            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1820,7 +1820,7 @@ Black ambient music is a subgenre of ambient music that incorporates elements of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 18</li>
+            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1981,8 +1981,8 @@ Black ambient music is a subgenre of ambient music that incorporates elements of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 18</li>
-            <li> <a href="{{ "/tags/dungeon-synth" | relative_url }}">dungeon synth</a> # 65</li>
+            <li> <a href="{{ "/tags/dungeon-synth" | relative_url }}">dungeon synth</a> # 34</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -2003,14 +2003,14 @@ Black ambient music is a subgenre of ambient music that incorporates elements of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 2</li>
+            <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>90</td>
       <td>
-          <img src="https://i.discogs.com/FLrtNqd0sqdJ1kVCmVjjdDKpjkHar-ixsgZ8iIQeOxY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzUw/NDY0LTE3MDgzNDAz/NjItODMwMy5qcGVn.jpeg" alt="Cover for Dark Space - II" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6da2a048303d55ec7290c5d421bdc162.png" alt="Cover for Dark Space - II" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-02-16</td>
       <td>Darkspace</td>
@@ -2024,7 +2024,7 @@ Black ambient music is a subgenre of ambient music that incorporates elements of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 61</li>
+            <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 36</li>
         </ul>
       </td>
     </tr>

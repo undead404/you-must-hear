@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T02:16:29.389Z
+date: 2025-12-05T05:13:45.976Z
 permalink: tags/progressive-folk
 title: progressive folk
 ---
 
 ## progressive folk
 
-Last updated: <time datetime="2025-11-23T02:16:29.389Z">Sun Nov 23 2025 04:16:29 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T05:13:45.976Z">Fri Dec 05 2025 07:13:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -64,7 +64,7 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a> # 4</li>
+            <li> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -85,9 +85,9 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 73</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 90</li>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 95</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 6</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 9</li>
+            <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -108,7 +108,7 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a> # 80</li>
+            <li> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -147,9 +147,9 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 27</li>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 59</li>
-            <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 89</li>
+            <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 12</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 41</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -323,7 +323,7 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 75</li>
+            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -346,8 +346,8 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/symphonic-prog" | relative_url }}">symphonic prog</a> # 8</li>
             <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 50</li>
-            <li> <a href="{{ "/tags/symphonic-prog" | relative_url }}">symphonic prog</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -445,8 +445,8 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 58</li>
-            <li> <a href="{{ "/tags/symphonic-prog" | relative_url }}">symphonic prog</a> # 95</li>
+            <li> <a href="{{ "/tags/symphonic-prog" | relative_url }}">symphonic prog</a> # 6</li>
+            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -545,7 +545,7 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-prog" | relative_url }}">symphonic prog</a> # 81</li>
+            <li> <a href="{{ "/tags/symphonic-prog" | relative_url }}">symphonic prog</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -564,7 +564,7 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 35</li>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -581,7 +581,7 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 20</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -722,9 +722,9 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 31</li>
-            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 85</li>
-            <li> <a href="{{ "/tags/symphonic-prog" | relative_url }}">symphonic prog</a> # 86</li>
+            <li> <a href="{{ "/tags/symphonic-prog" | relative_url }}">symphonic prog</a> # 15</li>
+            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 16</li>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -784,8 +784,8 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 2</li>
-            <li> <a href="{{ "/tags/fado" | relative_url }}">fado</a> # 24</li>
+            <li> <a href="{{ "/tags/fado" | relative_url }}">fado</a> # 77</li>
+            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -807,7 +807,7 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 42</li>
+            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -828,7 +828,7 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 60</li>
+            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -850,8 +850,8 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/y2k-prog" | relative_url }}">y2k prog</a> # 44</li>
-            <li> <a href="{{ "/tags/celtic-rock" | relative_url }}">celtic rock</a> # 69</li>
+            <li> <a href="{{ "/tags/celtic-rock" | relative_url }}">celtic rock</a> # 32</li>
+            <li> <a href="{{ "/tags/y2k-prog" | relative_url }}">y2k prog</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -872,7 +872,7 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a> # 7</li>
+            <li> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -895,7 +895,7 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a> # 65</li>
+            <li> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -958,6 +958,7 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -995,7 +996,7 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/y2k-prog" | relative_url }}">y2k prog</a> # 14</li>
+            <li> <a href="{{ "/tags/y2k-prog" | relative_url }}">y2k prog</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1019,8 +1020,8 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 4</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 12</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 86</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1062,8 +1063,8 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 42</li>
-            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 84</li>
+            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 17</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1084,7 +1085,7 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 84</li>
+            <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1104,7 +1105,7 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/y2k-prog" | relative_url }}">y2k prog</a> # 22</li>
+            <li> <a href="{{ "/tags/y2k-prog" | relative_url }}">y2k prog</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1152,10 +1153,10 @@ Progressive folk blends traditional folk music with experimental structures, com
       <td>
         <ul>
             <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 1</li>
-            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 26</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 59</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 63</li>
-            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 72</li>
+            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 29</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 36</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 41</li>
+            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1193,9 +1194,8 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 1</li>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 5</li>
-            <li> <a href="{{ "/tags/greek" | relative_url }}">greek</a> # 99</li>
+            <li> <a href="{{ "/tags/greek" | relative_url }}">greek</a> # 86</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1214,7 +1214,7 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 55</li>
+            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1233,7 +1233,7 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 56</li>
+            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1272,7 +1272,7 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/y2k-prog" | relative_url }}">y2k prog</a> # 21</li>
+            <li> <a href="{{ "/tags/y2k-prog" | relative_url }}">y2k prog</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1317,7 +1317,7 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/y2k-prog" | relative_url }}">y2k prog</a> # 67</li>
+            <li> <a href="{{ "/tags/y2k-prog" | relative_url }}">y2k prog</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1376,18 +1376,18 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 20</li>
-            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 34</li>
-            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 40</li>
-            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 50</li>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 52</li>
-            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 53</li>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 61</li>
-            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 63</li>
-            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 64</li>
-            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 76</li>
-            <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 79</li>
-            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 90</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 11</li>
+            <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 22</li>
+            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 25</li>
+            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 37</li>
+            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 38</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 40</li>
+            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 48</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 50</li>
+            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 51</li>
+            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 61</li>
+            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 66</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1405,8 +1405,8 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 81</li>
-            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 88</li>
+            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 12</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1446,7 +1446,7 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/y2k-prog" | relative_url }}">y2k prog</a> # 51</li>
+            <li> <a href="{{ "/tags/y2k-prog" | relative_url }}">y2k prog</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1471,6 +1471,7 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/chamber-rock" | relative_url }}">chamber rock</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1509,7 +1510,7 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 61</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1529,7 +1530,7 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 98</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1553,10 +1554,10 @@ Progressive folk blends traditional folk music with experimental structures, com
       <td>
         <ul>
             <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 18</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 32</li>
-            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 44</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 60</li>
-            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 68</li>
+            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 33</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 39</li>
+            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 57</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1582,7 +1583,7 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a> # 96</li>
+            <li> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1618,10 +1619,9 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 43</li>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 79</li>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 84</li>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 90</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 23</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 51</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1656,12 +1656,12 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 15</li>
             <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 25</li>
-            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 40</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 50</li>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 66</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 72</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 27</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 35</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 47</li>
+            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 60</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1701,7 +1701,7 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 18</li>
+            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1799,9 +1799,9 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 56</li>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 65</li>
-            <li> <a href="{{ "/tags/protest" | relative_url }}">protest</a> # 98</li>
+            <li> <a href="{{ "/tags/protest" | relative_url }}">protest</a> # 3</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 36</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1822,7 +1822,7 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 82</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1845,7 +1845,7 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 2</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1883,8 +1883,8 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 85</li>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 96</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 5</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1959,7 +1959,6 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -2022,9 +2021,9 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 80</li>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 82</li>
-            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 92</li>
+            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 9</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 18</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -2060,7 +2059,7 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 54</li>
+            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -2079,7 +2078,7 @@ Progressive folk blends traditional folk music with experimental structures, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 5</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 97</li>
         </ul>
       </td>
     </tr>
