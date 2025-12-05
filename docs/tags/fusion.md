@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-24T00:35:38.027Z
+date: 2025-12-04T21:56:51.995Z
 permalink: tags/fusion
 title: fusion
 ---
 
 ## fusion
 
-Last updated: <time datetime="2025-11-24T00:35:38.027Z">Mon Nov 24 2025 02:35:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T21:56:51.995Z">Thu Dec 04 2025 23:56:51 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -81,8 +81,8 @@ Fusion blends jazz improvisation with elements from rock, funk, world music, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 74</li>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 95</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 5</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -102,7 +102,7 @@ Fusion blends jazz improvisation with elements from rock, funk, world music, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 11</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -143,7 +143,7 @@ Fusion blends jazz improvisation with elements from rock, funk, world music, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 10</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -162,8 +162,8 @@ Fusion blends jazz improvisation with elements from rock, funk, world music, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 49</li>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 86</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 14</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -203,7 +203,7 @@ Fusion blends jazz improvisation with elements from rock, funk, world music, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 87</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 13</li>
             <li> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a> # 90</li>
         </ul>
       </td>
@@ -225,8 +225,8 @@ Fusion blends jazz improvisation with elements from rock, funk, world music, and
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 15</li>
             <li> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a> # 83</li>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -247,7 +247,7 @@ Fusion blends jazz improvisation with elements from rock, funk, world music, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 77</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 23</li>
             <li> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a> # 88</li>
         </ul>
       </td>
@@ -303,7 +303,7 @@ Fusion blends jazz improvisation with elements from rock, funk, world music, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 18</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -363,7 +363,7 @@ Fusion blends jazz improvisation with elements from rock, funk, world music, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 59</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -382,7 +382,7 @@ Fusion blends jazz improvisation with elements from rock, funk, world music, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 33</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -400,7 +400,7 @@ Fusion blends jazz improvisation with elements from rock, funk, world music, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 36</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -420,7 +420,7 @@ Fusion blends jazz improvisation with elements from rock, funk, world music, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 58</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -440,7 +440,7 @@ Fusion blends jazz improvisation with elements from rock, funk, world music, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 6</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -496,8 +496,8 @@ Fusion blends jazz improvisation with elements from rock, funk, world music, and
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 32</li>
             <li> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a> # 48</li>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -535,7 +535,7 @@ Fusion blends jazz improvisation with elements from rock, funk, world music, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 6</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -555,7 +555,7 @@ Fusion blends jazz improvisation with elements from rock, funk, world music, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 60</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 40</li>
             <li> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a> # 77</li>
         </ul>
       </td>
@@ -638,7 +638,7 @@ Fusion blends jazz improvisation with elements from rock, funk, world music, and
       <td>
         <ul>
             <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 22</li>
-            <li> <a href="{{ "/tags/fusion-jazz" | relative_url }}">fusion jazz</a> # 51</li>
+            <li> <a href="{{ "/tags/fusion-jazz" | relative_url }}">fusion jazz</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -723,9 +723,9 @@ Fusion blends jazz improvisation with elements from rock, funk, world music, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 59</li>
-            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 94</li>
-            <li> <a href="{{ "/tags/napoli" | relative_url }}">napoli</a> # 100</li>
+            <li> <a href="{{ "/tags/napoli" | relative_url }}">napoli</a> # 1</li>
+            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 6</li>
+            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -767,7 +767,7 @@ Fusion blends jazz improvisation with elements from rock, funk, world music, and
     <tr>
       <td>56</td>
       <td>
-          <img src="https://i.discogs.com/1uMVc8w5Pz4z7TpJPl14dTpTQFbCxZrd1wIqnJks9BA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDI5/NjUtMTU5MDA4OTc2/NS05MjUzLmpwZWc.jpeg" alt="Cover for Metal Fatigue" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c2b30534ebf6476bae0a3a15373828da.png" alt="Cover for Metal Fatigue" style="max-width:120px; height:auto;" />
       </td>
       <td>1985-03-25</td>
       <td>Allan Holdsworth</td>
@@ -797,8 +797,8 @@ Fusion blends jazz improvisation with elements from rock, funk, world music, and
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 6</li>
             <li> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a> # 91</li>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -816,7 +816,7 @@ Fusion blends jazz improvisation with elements from rock, funk, world music, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/motown" | relative_url }}">motown</a> # 2</li>
+            <li> <a href="{{ "/tags/motown" | relative_url }}">motown</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -875,8 +875,8 @@ Fusion blends jazz improvisation with elements from rock, funk, world music, and
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 22</li>
             <li> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a> # 62</li>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -968,15 +968,13 @@ Fusion blends jazz improvisation with elements from rock, funk, world music, and
       <td>Born Dead</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a></li>
+            <li style="font-size: calc(1rem * 72 / 100)"> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 35</li>
-            <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 91</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1015,8 +1013,8 @@ Fusion blends jazz improvisation with elements from rock, funk, world music, and
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 7</li>
             <li> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a> # 92</li>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1056,7 +1054,7 @@ Fusion blends jazz improvisation with elements from rock, funk, world music, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a> # 54</li>
+            <li> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1095,7 +1093,7 @@ Fusion blends jazz improvisation with elements from rock, funk, world music, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 74</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1116,7 +1114,7 @@ Fusion blends jazz improvisation with elements from rock, funk, world music, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 97</li>
+            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1213,7 +1211,7 @@ Fusion blends jazz improvisation with elements from rock, funk, world music, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 48</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1271,7 +1269,7 @@ Fusion blends jazz improvisation with elements from rock, funk, world music, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 61</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1317,8 +1315,8 @@ Fusion blends jazz improvisation with elements from rock, funk, world music, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 99</li>
-            <li> <a href="{{ "/tags/electric-guitar" | relative_url }}">electric guitar</a> # 100</li>
+            <li> <a href="{{ "/tags/electric-guitar" | relative_url }}">electric guitar</a> # 1</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -1403,10 +1401,10 @@ Fusion blends jazz improvisation with elements from rock, funk, world music, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 6</li>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 22</li>
+            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 18</li>
             <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 47</li>
-            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 83</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 72</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1476,13 +1474,13 @@ Fusion blends jazz improvisation with elements from rock, funk, world music, and
       <td>
         <ul>
             <li> <a href="{{ "/tags/darkpsy" | relative_url }}">darkpsy</a> # 1</li>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 20</li>
             <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 28</li>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 33</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 29</li>
+            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 29</li>
             <li> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a> # 45</li>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 70</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 68</li>
             <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 71</li>
-            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 72</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1562,9 +1560,9 @@ Fusion blends jazz improvisation with elements from rock, funk, world music, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 18</li>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 85</li>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 90</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 10</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 16</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1585,7 +1583,7 @@ Fusion blends jazz improvisation with elements from rock, funk, world music, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a> # 70</li>
+            <li> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a> # 31</li>
             <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 88</li>
         </ul>
       </td>
@@ -1667,8 +1665,8 @@ Fusion blends jazz improvisation with elements from rock, funk, world music, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 56</li>
-            <li> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a> # 86</li>
+            <li> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a> # 15</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 45</li>
             <li> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a> # 87</li>
         </ul>
       </td>
@@ -1695,7 +1693,7 @@ Fusion blends jazz improvisation with elements from rock, funk, world music, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 62</li>
+            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1733,7 +1731,7 @@ Fusion blends jazz improvisation with elements from rock, funk, world music, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 91</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1776,7 +1774,7 @@ Fusion blends jazz improvisation with elements from rock, funk, world music, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 86</li>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1822,8 +1820,8 @@ Fusion blends jazz improvisation with elements from rock, funk, world music, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 23</li>
             <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 37</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 78</li>
             <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 79</li>
         </ul>
       </td>
@@ -1884,7 +1882,7 @@ Fusion blends jazz improvisation with elements from rock, funk, world music, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bachata" | relative_url }}">bachata</a> # 80</li>
+            <li> <a href="{{ "/tags/bachata" | relative_url }}">bachata</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1929,8 +1927,8 @@ Fusion blends jazz improvisation with elements from rock, funk, world music, and
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 25</li>
             <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 50</li>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 75</li>
             <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 97</li>
         </ul>
       </td>
@@ -1993,7 +1991,7 @@ Fusion blends jazz improvisation with elements from rock, funk, world music, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a> # 62</li>
+            <li> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -2058,14 +2056,14 @@ Fusion blends jazz improvisation with elements from rock, funk, world music, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 76</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 24</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/CpIsudSLFWZ7BywsjkwiQCIRqWvyPVsTAMjMFr_t6kY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzA1/NDQ4LTE2ODYwNjU5/OTAtMzU0OS5qcGVn.jpeg" alt="Cover for Colpo Rovente - Red Hot Shot (Original Motion Picture Soundtrack)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c21a25b9a0335b4554798cc6a216ab2.png" alt="Cover for Colpo Rovente - Red Hot Shot (Original Motion Picture Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-04-17</td>
       <td>Piero Piccioni</td>
@@ -2080,8 +2078,8 @@ Fusion blends jazz improvisation with elements from rock, funk, world music, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 71</li>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 72</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 29</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 29</li>
         </ul>
       </td>
     </tr>

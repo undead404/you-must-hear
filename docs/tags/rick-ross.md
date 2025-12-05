@@ -9,6 +9,10 @@ title: rick ross
 
 Last updated: <time datetime="2025-12-04T21:06:39.227Z">Thu Dec 04 2025 23:06:39 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Rick Ross represents opulent, bass-heavy hip-hop characterized by luxurious imagery, booming production, and authoritative vocal delivery. The sound embodies street-informed entrepreneurial success with layered orchestral samples, deep 808s, and confident storytelling about wealth and power. This tag captures the essence of mid-2000s to 2010s Southern-influenced rap that celebrates triumphant ascension from struggle to success.
+
 ### 100 chronological releases
 
 <table>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-24T00:34:38.223Z
+date: 2025-12-04T21:56:48.433Z
 permalink: tags/romania
 title: romania
 ---
 
 ## romania
 
-Last updated: <time datetime="2025-11-24T00:34:38.223Z">Mon Nov 24 2025 02:34:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T21:56:48.433Z">Thu Dec 04 2025 23:56:48 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -45,7 +45,7 @@ Romania has a rich and diverse musical heritage that draws from various cultural
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romanian" | relative_url }}">romanian</a> # 74</li>
+            <li> <a href="{{ "/tags/romanian" | relative_url }}">romanian</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -66,7 +66,7 @@ Romania has a rich and diverse musical heritage that draws from various cultural
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romanian" | relative_url }}">romanian</a> # 22</li>
+            <li> <a href="{{ "/tags/romanian" | relative_url }}">romanian</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -250,7 +250,7 @@ Romania has a rich and diverse musical heritage that draws from various cultural
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romanian" | relative_url }}">romanian</a> # 67</li>
+            <li> <a href="{{ "/tags/romanian" | relative_url }}">romanian</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -327,7 +327,7 @@ Romania has a rich and diverse musical heritage that draws from various cultural
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romanian" | relative_url }}">romanian</a> # 83</li>
+            <li> <a href="{{ "/tags/romanian" | relative_url }}">romanian</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -351,7 +351,7 @@ Romania has a rich and diverse musical heritage that draws from various cultural
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 18</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -428,7 +428,7 @@ Romania has a rich and diverse musical heritage that draws from various cultural
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romanian" | relative_url }}">romanian</a> # 36</li>
+            <li> <a href="{{ "/tags/romanian" | relative_url }}">romanian</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -455,6 +455,7 @@ Romania has a rich and diverse musical heritage that draws from various cultural
     <tr>
       <td>93</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c639702f279ac005ce698f77714fca91.png" alt="Cover for Music From The Movies" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Gheorghe Zamfir</td>
@@ -530,7 +531,7 @@ Romania has a rich and diverse musical heritage that draws from various cultural
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romanian" | relative_url }}">romanian</a> # 40</li>
+            <li> <a href="{{ "/tags/romanian" | relative_url }}">romanian</a> # 61</li>
             <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 69</li>
         </ul>
       </td>
@@ -551,7 +552,7 @@ Romania has a rich and diverse musical heritage that draws from various cultural
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ibiza" | relative_url }}">ibiza</a> # 95</li>
+            <li> <a href="{{ "/tags/ibiza" | relative_url }}">ibiza</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -613,7 +614,7 @@ Romania has a rich and diverse musical heritage that draws from various cultural
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-breaks" | relative_url }}">progressive breaks</a> # 6</li>
+            <li> <a href="{{ "/tags/progressive-breaks" | relative_url }}">progressive breaks</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -656,8 +657,8 @@ Romania has a rich and diverse musical heritage that draws from various cultural
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 77</li>
-            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 89</li>
+            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 12</li>
+            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -719,7 +720,7 @@ Romania has a rich and diverse musical heritage that draws from various cultural
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 78</li>
+            <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -739,8 +740,8 @@ Romania has a rich and diverse musical heritage that draws from various cultural
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 60</li>
-            <li> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a> # 87</li>
+            <li> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a> # 14</li>
+            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -881,7 +882,7 @@ Romania has a rich and diverse musical heritage that draws from various cultural
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romanian" | relative_url }}">romanian</a> # 24</li>
+            <li> <a href="{{ "/tags/romanian" | relative_url }}">romanian</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -901,7 +902,7 @@ Romania has a rich and diverse musical heritage that draws from various cultural
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 32</li>
+            <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -935,9 +936,9 @@ Romania has a rich and diverse musical heritage that draws from various cultural
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romanian" | relative_url }}">romanian</a> # 45</li>
+            <li> <a href="{{ "/tags/nederlands" | relative_url }}">nederlands</a> # 44</li>
             <li> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a> # 49</li>
-            <li> <a href="{{ "/tags/nederlands" | relative_url }}">nederlands</a> # 57</li>
+            <li> <a href="{{ "/tags/romanian" | relative_url }}">romanian</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -999,7 +1000,7 @@ Romania has a rich and diverse musical heritage that draws from various cultural
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a> # 47</li>
+            <li> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1042,7 +1043,7 @@ Romania has a rich and diverse musical heritage that draws from various cultural
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romanian" | relative_url }}">romanian</a> # 26</li>
+            <li> <a href="{{ "/tags/romanian" | relative_url }}">romanian</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1085,7 +1086,7 @@ Romania has a rich and diverse musical heritage that draws from various cultural
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romanian" | relative_url }}">romanian</a> # 12</li>
+            <li> <a href="{{ "/tags/romanian" | relative_url }}">romanian</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1288,7 +1289,7 @@ Romania has a rich and diverse musical heritage that draws from various cultural
     <tr>
       <td>34</td>
       <td>
-          <img src="https://i.discogs.com/CrDl_oOLA0mo7IOuzbQXbFQZ1FkdupIe2mxuqPZMWXg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4Nzg3/NDgtMTM0NzgyNTk0/OS0yNDg3LnBuZw.jpeg" alt="Cover for Let Me Tell You This" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2102704371e645f9a92540537a102582.png" alt="Cover for Let Me Tell You This" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-09-16</td>
       <td>Relative</td>
@@ -1434,8 +1435,8 @@ Romania has a rich and diverse musical heritage that draws from various cultural
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norge" | relative_url }}">norge</a> # 42</li>
-            <li> <a href="{{ "/tags/romanian" | relative_url }}">romanian</a> # 66</li>
+            <li> <a href="{{ "/tags/romanian" | relative_url }}">romanian</a> # 35</li>
+            <li> <a href="{{ "/tags/norge" | relative_url }}">norge</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1663,7 +1664,7 @@ Romania has a rich and diverse musical heritage that draws from various cultural
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romanian" | relative_url }}">romanian</a> # 1</li>
+            <li> <a href="{{ "/tags/romanian" | relative_url }}">romanian</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1686,7 +1687,7 @@ Romania has a rich and diverse musical heritage that draws from various cultural
       <td>
         <ul>
             <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 8</li>
-            <li> <a href="{{ "/tags/romanian" | relative_url }}">romanian</a> # 58</li>
+            <li> <a href="{{ "/tags/romanian" | relative_url }}">romanian</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1880,7 +1881,7 @@ Romania has a rich and diverse musical heritage that draws from various cultural
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trip" | relative_url }}">trip</a> # 60</li>
+            <li> <a href="{{ "/tags/trip" | relative_url }}">trip</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1901,7 +1902,7 @@ Romania has a rich and diverse musical heritage that draws from various cultural
       <td>
         <ul>
             <li> <a href="{{ "/tags/gypsy" | relative_url }}">gypsy</a> # 2</li>
-            <li> <a href="{{ "/tags/romanian" | relative_url }}">romanian</a> # 70</li>
+            <li> <a href="{{ "/tags/romanian" | relative_url }}">romanian</a> # 31</li>
         </ul>
       </td>
     </tr>

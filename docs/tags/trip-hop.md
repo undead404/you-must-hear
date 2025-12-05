@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-22T18:21:24.179Z
+date: 2025-12-04T22:29:29.212Z
 permalink: tags/trip-hop
 title: trip-hop
 ---
 
 ## trip-hop
 
-Last updated: <time datetime="2025-11-22T18:21:24.179Z">Sat Nov 22 2025 20:21:24 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T22:29:29.212Z">Fri Dec 05 2025 00:29:29 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -170,8 +170,8 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 35</li>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 75</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 25</li>
+            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -192,8 +192,8 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 28</li>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 68</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 32</li>
+            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -249,6 +249,7 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -268,10 +269,10 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 34</li>
-            <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 46</li>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 89</li>
-            <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 94</li>
+            <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 7</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 11</li>
+            <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 54</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -290,7 +291,7 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a> # 33</li>
+            <li> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -313,8 +314,8 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 20</li>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 82</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 17</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -402,7 +403,7 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 51</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -529,7 +530,7 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 100</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -612,13 +613,13 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       <td>
         <ul>
             <li> <a href="{{ "/tags/lounge-downtempo" | relative_url }}">lounge downtempo</a> # 8</li>
-            <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 11</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 11</li>
+            <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 11</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 11</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 15</li>
+            <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 22</li>
             <li> <a href="{{ "/tags/downtempo-lounge" | relative_url }}">downtempo lounge</a> # 45</li>
             <li> <a href="{{ "/tags/lounge-groove" | relative_url }}">lounge groove</a> # 73</li>
-            <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 79</li>
             <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 89</li>
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 90</li>
             <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 91</li>
@@ -641,7 +642,7 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 73</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -661,7 +662,7 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 36</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -700,8 +701,8 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a> # 5</li>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 50</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 49</li>
+            <li> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -719,7 +720,7 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 71</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -737,7 +738,7 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 36</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -812,8 +813,8 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 81</li>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 83</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 18</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -833,8 +834,8 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 88</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 90</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 10</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -853,7 +854,7 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a> # 91</li>
+            <li> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -982,7 +983,7 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 46</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1002,8 +1003,8 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 14</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 31</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 33</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1041,8 +1042,8 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 70</li>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 79</li>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 22</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1061,8 +1062,8 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 33</li>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 98</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 3</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1114,7 +1115,7 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 39</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1169,9 +1170,9 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 39</li>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 56</li>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 90</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 11</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 43</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1191,7 +1192,7 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 79</li>
+            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1230,7 +1231,7 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 58</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1249,7 +1250,7 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 64</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1285,7 +1286,7 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 24</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1341,7 +1342,7 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 74</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1525,7 +1526,7 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 22</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1543,7 +1544,7 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 20</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1562,7 +1563,7 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 27</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1599,7 +1600,7 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 35</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1617,8 +1618,8 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 86</li>
-            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 86</li>
+            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 15</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1704,11 +1705,11 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 60</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 78</li>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 83</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 92</li>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 99</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 2</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 9</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 13</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 23</li>
+            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1729,8 +1730,8 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 77</li>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 100</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 1</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1824,7 +1825,7 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 34</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1845,10 +1846,10 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 3</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 17</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 59</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 80</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 61</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 81</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 83</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1870,9 +1871,9 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 74</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 93</li>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 93</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 6</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 8</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1900,13 +1901,14 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 7</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 68</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 69</li>
-            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 96</li>
-            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 98</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 100</li>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 100</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 1</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 1</li>
+            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 3</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 31</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 70</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 93</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 93</li>
+            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 97</li>
             <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 100</li>
         </ul>
       </td>
@@ -1929,9 +1931,9 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 41</li>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 57</li>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 79</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 20</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 38</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1953,9 +1955,9 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 83</li>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 84</li>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 95</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 5</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 7</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1976,7 +1978,7 @@ Trip-hop is a moody, atmospheric genre that emerged from British club culture in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 31</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 66</li>
         </ul>
       </td>
     </tr>

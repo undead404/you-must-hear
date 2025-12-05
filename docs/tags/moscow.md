@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T10:30:35.738Z
+date: 2025-12-04T22:13:17.533Z
 permalink: tags/moscow
 title: moscow
 ---
 
 ## moscow
 
-Last updated: <time datetime="2025-10-22T10:30:35.738Z">Wed Oct 22 2025 13:30:35 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-04T22:13:17.533Z">Fri Dec 05 2025 00:13:17 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,6 +31,7 @@ The &quot;moscow&quot; tag captures the diverse and experimental electronic musi
     <tr>
       <td>93</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/37836bc6253f7fa15ca08a6bc4a4d0f3.png" alt="Cover for Disco Alliance" style="max-width:120px; height:auto;" />
       </td>
       <td>1980</td>
       <td>Zodiac</td>
@@ -53,16 +54,17 @@ The &quot;moscow&quot; tag captures the diverse and experimental electronic musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 84</li>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 88</li>
-            <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 89</li>
-            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 97</li>
+            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 4</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 6</li>
+            <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 11</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 16</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>74</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/371f81b118f153cea26deadb0af51a0b.png" alt="Cover for Music in the Universe" style="max-width:120px; height:auto;" />
       </td>
       <td>1982</td>
       <td>Zodiac</td>
@@ -85,15 +87,15 @@ The &quot;moscow&quot; tag captures the diverse and experimental electronic musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 34</li>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 60</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 32</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/Fq92qtav7ZX8NNreIRIrcTKVpB3XW-_LrOHFNCaj1dw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MDI5/NDItMTUxOTI0MzQ5/Ny01ODk3LmpwZWc.jpeg" alt="Cover for aLIVE And Hostile E.P." style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9d5fe59ce3f445b4938a5d7fd14a8038.png" alt="Cover for aLIVE And Hostile E.P." style="max-width:120px; height:auto;" />
       </td>
       <td>1994</td>
       <td>Pantera</td>
@@ -149,7 +151,7 @@ The &quot;moscow&quot; tag captures the diverse and experimental electronic musi
     <tr>
       <td>21</td>
       <td>
-          <img src="https://i.discogs.com/H90Q7uF3LxCWklH4kzuFnlK-KIZvSem7DCcwxX8Dqqo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTA2/NTUxLTE1ODM4NDMw/OTYtNzkwOC5qcGVn.jpeg" alt="Cover for Demo 2005" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4d27604b0b3440b09d9352d15b30a0b4.png" alt="Cover for Demo 2005" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-02-26</td>
       <td>Ray</td>
@@ -200,7 +202,7 @@ The &quot;moscow&quot; tag captures the diverse and experimental electronic musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 70</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -223,14 +225,14 @@ The &quot;moscow&quot; tag captures the diverse and experimental electronic musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 5</li>
+            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>61</td>
       <td>
-          <img src="https://i.discogs.com/8HRs2aa_-d1g0LyKBK1lOXf88fyUwgZcgT4h7bGeYT0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTE4/Ny0xNDI4Njc3Mzc5/LTQ1MDAuanBlZw.jpeg" alt="Cover for Post-pop Workshop" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/273499441dd84671ad19e49f16796198.png" alt="Cover for Post-pop Workshop" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Ambidextrous</td>
@@ -245,7 +247,7 @@ The &quot;moscow&quot; tag captures the diverse and experimental electronic musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 6</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -279,9 +281,9 @@ The &quot;moscow&quot; tag captures the diverse and experimental electronic musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 31</li>
             <li> <a href="{{ "/tags/lobit" | relative_url }}">lobit</a> # 42</li>
-            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 46</li>
+            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 55</li>
+            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -345,7 +347,7 @@ The &quot;moscow&quot; tag captures the diverse and experimental electronic musi
     <tr>
       <td>49</td>
       <td>
-          <img src="https://i.discogs.com/PmZ-gT5h9wiyHJrdqHlfwDmciwZ6YTsJXmzaYM3j0OA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzk4/Njg5LTE2Mzk4NTA1/MTItODk4My5qcGVn.jpeg" alt="Cover for Current Bluesic" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/71e4557af04550f643f50dede6f64ceb.png" alt="Cover for Current Bluesic" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Станция Мир</td>
@@ -409,7 +411,7 @@ The &quot;moscow&quot; tag captures the diverse and experimental electronic musi
     <tr>
       <td>88</td>
       <td>
-          <img src="https://i.discogs.com/7NQ-qhT3nccRtbuSMf_9i1Fy86XbFPFa9WcO45d-C4c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjYw/MTctMTY0NDIxMDM2/NS02MTY3LmpwZWc.jpeg" alt="Cover for vfsecret" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e69f204a045e4746c762597963f1abe2.png" alt="Cover for vfsecret" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>VFSix</td>
@@ -434,15 +436,14 @@ The &quot;moscow&quot; tag captures the diverse and experimental electronic musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 32</li>
-            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 80</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 20</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>40</td>
       <td>
-          <img src="https://i.discogs.com/dba8k68fk5EGSGxqa8pGS3U1drWVwsvIPRGKtJb_VOQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTc2/MzgxLTE1NTY4MTcy/NTktNDIxNC5qcGVn.jpeg" alt="Cover for Can&#39;t Be In Vain" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Alexandre de Guise</td>
@@ -484,7 +485,7 @@ The &quot;moscow&quot; tag captures the diverse and experimental electronic musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 9</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -617,7 +618,7 @@ The &quot;moscow&quot; tag captures the diverse and experimental electronic musi
     <tr>
       <td>87</td>
       <td>
-          <img src="https://i.discogs.com/0Aj3fTGB14Ap_ZswaMRXqS77DtnUZEu4UMnLhto003E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNzg3/OC0xMzUxODA0MjIw/LTUzMzYuanBlZw.jpeg" alt="Cover for Have a Nice Trip" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ebb62f89002190b1a1eaece1d74e1ed.png" alt="Cover for Have a Nice Trip" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-05</td>
       <td>Jermook</td>
@@ -632,14 +633,14 @@ The &quot;moscow&quot; tag captures the diverse and experimental electronic musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 73</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 27</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>41</td>
       <td>
-          <img src="https://i.discogs.com/-PcDrHClMQB1uUubhKBhe6Ps8eUtjxCrP-dh3eoDva8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODA3/NjYzLTE2ODE4ODg4/OTUtOTg5Ny5qcGVn.jpeg" alt="Cover for Фронт_2008 &quot;За и против&quot; (Pro et Contra)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/772f07bb976844678b9c35eec392b9fa.png" alt="Cover for Фронт_2008 &quot;За и против&quot; (Pro et Contra)" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Фронт</td>
@@ -658,8 +659,8 @@ The &quot;moscow&quot; tag captures the diverse and experimental electronic musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a> # 5</li>
-            <li> <a href="{{ "/tags/protest" | relative_url }}">protest</a> # 58</li>
+            <li> <a href="{{ "/tags/protest" | relative_url }}">protest</a> # 57</li>
+            <li> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -694,15 +695,15 @@ The &quot;moscow&quot; tag captures the diverse and experimental electronic musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 3</li>
-            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 25</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 74</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>72</td>
       <td>
-          <img src="https://i.discogs.com/TZeaWxDteKK2dEtQBaj3qqFlaHH5tAG6wu7z02c2zaE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjY4/MDctMTMyNjQ2MDAz/My5qcGVn.jpeg" alt="Cover for VF&#39;s Paradise" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e188fd6574b344c88fc06053677dfe32.png" alt="Cover for VF&#39;s Paradise" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>VFSix</td>
@@ -730,14 +731,14 @@ The &quot;moscow&quot; tag captures the diverse and experimental electronic musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 29</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>75</td>
       <td>
-          <img src="https://i.discogs.com/TZeaWxDteKK2dEtQBaj3qqFlaHH5tAG6wu7z02c2zaE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjY4/MDctMTMyNjQ2MDAz/My5qcGVn.jpeg" alt="Cover for VF&#39;s World" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/27132987be6c4aa183a5c685161586ee.png" alt="Cover for VF&#39;s World" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>VFSix</td>
@@ -756,8 +757,8 @@ The &quot;moscow&quot; tag captures the diverse and experimental electronic musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 17</li>
-            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 64</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 38</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -777,14 +778,14 @@ The &quot;moscow&quot; tag captures the diverse and experimental electronic musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 5</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>76</td>
       <td>
-          <img src="https://i.discogs.com/EeC07xVVBqnEvWI1Ku_h0VFEkEYBxdrLG5-b8TcWvXU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MjE4/NTEtMTQyOTU1ODI2/OC02NzgyLmpwZWc.jpeg" alt="Cover for Demo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/61a9a7c6cb5044428f60b7f646396206.png" alt="Cover for Demo" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Rearranged</td>
@@ -804,17 +805,17 @@ The &quot;moscow&quot; tag captures the diverse and experimental electronic musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 40</li>
-            <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 50</li>
-            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 57</li>
-            <li> <a href="{{ "/tags/old-school-hardcore" | relative_url }}">old school hardcore</a> # 75</li>
+            <li> <a href="{{ "/tags/old-school-hardcore" | relative_url }}">old school hardcore</a> # 16</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 33</li>
+            <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 34</li>
+            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>9</td>
       <td>
-          <img src="https://i.discogs.com/mlM3chI_42KhBJd3DQQ1I95UydCZmsnPxxiV0nCcSOg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzk4/MDI2LTE2Mzk4NTEw/ODQtNjMzMS5qcGVn.jpeg" alt="Cover for Вопреки гравитации (Диск 2)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8dc5957de08fb368d52c5a84c06ca27b.png" alt="Cover for Вопреки гравитации (Диск 2)" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Станция Мир</td>
@@ -839,7 +840,7 @@ The &quot;moscow&quot; tag captures the diverse and experimental electronic musi
     <tr>
       <td>13</td>
       <td>
-          <img src="https://i.discogs.com/mlM3chI_42KhBJd3DQQ1I95UydCZmsnPxxiV0nCcSOg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzk4/MDI2LTE2Mzk4NTEw/ODQtNjMzMS5qcGVn.jpeg" alt="Cover for Вопреки гравитации (Диск 1)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2689f9ed383dbae47ffac39a8f68989e.png" alt="Cover for Вопреки гравитации (Диск 1)" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Станция Мир</td>
@@ -884,7 +885,7 @@ The &quot;moscow&quot; tag captures the diverse and experimental electronic musi
     <tr>
       <td>14</td>
       <td>
-          <img src="https://i.discogs.com/rswmjmjXEGEULqhLiM_qxu18cWabvGrLgghkcp-fTgU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTAz/MDItMTIzMTk5NTg3/Ny5qcGVn.jpeg" alt="Cover for Unreleased tracks" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/168912f63cc1cb8da0a12f68f10ac300.png" alt="Cover for Unreleased tracks" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-11-21</td>
       <td>Fellirium</td>
@@ -926,14 +927,14 @@ The &quot;moscow&quot; tag captures the diverse and experimental electronic musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 43</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 57</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>4</td>
       <td>
-          <img src="https://i.discogs.com/Ktsf6-Ch-POUV1EgQwhhYIISFVpGAHz3OzEsV64FPcE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjQ2/OTUtMTI2NjE0MjMz/Mi5qcGVn.jpeg" alt="Cover for RAVEnous" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/031341beeb656caccfc396af5d66af3e.png" alt="Cover for RAVEnous" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-04-10</td>
       <td>Microbit Project</td>
@@ -1003,7 +1004,7 @@ The &quot;moscow&quot; tag captures the diverse and experimental electronic musi
     <tr>
       <td>19</td>
       <td>
-          <img src="https://i.discogs.com/05rf67T_pw81C6-iV8gBjVDJ4jjBb5JoSpnyKjo9Coo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzQ5/NzMtMTI1NjEyMTcw/OS5qcGVn.jpeg" alt="Cover for ca295 - Yoko Absorbing - Vinyl" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/495aecab8afc95eee2c6660f94f69e91.png" alt="Cover for ca295 - Yoko Absorbing - Vinyl" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-08-07</td>
       <td>Yoko Absorbing</td>
@@ -1027,14 +1028,13 @@ The &quot;moscow&quot; tag captures the diverse and experimental electronic musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 4</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>39</td>
       <td>
-          <img src="https://i.discogs.com/oVr5F3S9aOeMyaNKIF03juKgDmyNfXuHAJeJ_bpHM00/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzUz/OTAtMTI1NjEzNzI5/MC5qcGVn.jpeg" alt="Cover for ca119 - Magical Unicellular Music - Monospring" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3f1be5e461f83d6b207fa9c03680ca66.png" alt="Cover for ca119 - Magical Unicellular Music - Monospring" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-10-07</td>
       <td>Magical Unicellular Music</td>
@@ -1053,7 +1053,7 @@ The &quot;moscow&quot; tag captures the diverse and experimental electronic musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 4</li>
+            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1080,7 +1080,7 @@ The &quot;moscow&quot; tag captures the diverse and experimental electronic musi
     <tr>
       <td>64</td>
       <td>
-          <img src="https://i.discogs.com/3ZziujpK29DdDWy_mEXMueIVLtcTTveDZ5AKVFVXXac/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4Mjcy/NDktMTQ2OTYxMzMx/MS03MzkwLmpwZWc.jpeg" alt="Cover for Целься в меня [single 2010]" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0e21c711ca8445ee839f86a1594ac6c8.png" alt="Cover for Целься в меня [single 2010]" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Nasty Taste</td>
@@ -1107,7 +1107,6 @@ The &quot;moscow&quot; tag captures the diverse and experimental electronic musi
             <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a></li>
             <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
             <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a></li>
-            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a></li>
             <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
             <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a></li>
             <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a></li>
@@ -1116,10 +1115,9 @@ The &quot;moscow&quot; tag captures the diverse and experimental electronic musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 14</li>
-            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 23</li>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 28</li>
-            <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 77</li>
+            <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 24</li>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 71</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1181,18 +1179,18 @@ The &quot;moscow&quot; tag captures the diverse and experimental electronic musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 1</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 16</li>
-            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 20</li>
-            <li> <a href="{{ "/tags/eurobeat" | relative_url }}">eurobeat</a> # 56</li>
-            <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 66</li>
+            <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 35</li>
+            <li> <a href="{{ "/tags/eurobeat" | relative_url }}">eurobeat</a> # 45</li>
+            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 81</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 82</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>43</td>
       <td>
-          <img src="https://i.discogs.com/D04uq67f97JLvJxn4nM0Ku6BR6nmM2aDyCSobAW0jAE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDIw/ODYtMTM2NDk5MTcx/NC01MzM2LmpwZWc.jpeg" alt="Cover for Creatures" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/76e253ef81877b78f5638934d0c4a8da.png" alt="Cover for Creatures" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Casamatta</td>
@@ -1287,10 +1285,10 @@ The &quot;moscow&quot; tag captures the diverse and experimental electronic musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 14</li>
-            <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 34</li>
-            <li> <a href="{{ "/tags/spacesynth" | relative_url }}">spacesynth</a> # 46</li>
-            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 57</li>
+            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 45</li>
+            <li> <a href="{{ "/tags/spacesynth" | relative_url }}">spacesynth</a> # 57</li>
+            <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 67</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1326,8 +1324,8 @@ The &quot;moscow&quot; tag captures the diverse and experimental electronic musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 15</li>
-            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 56</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 45</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1369,7 +1367,7 @@ The &quot;moscow&quot; tag captures the diverse and experimental electronic musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 18</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1416,9 +1414,10 @@ The &quot;moscow&quot; tag captures the diverse and experimental electronic musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 14</li>
-            <li> <a href="{{ "/tags/drag" | relative_url }}">drag</a> # 75</li>
-            <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 87</li>
+            <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 14</li>
+            <li> <a href="{{ "/tags/drag" | relative_url }}">drag</a> # 25</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 86</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1439,7 +1438,7 @@ The &quot;moscow&quot; tag captures the diverse and experimental electronic musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 15</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1504,7 +1503,7 @@ The &quot;moscow&quot; tag captures the diverse and experimental electronic musi
     <tr>
       <td>38</td>
       <td>
-          <img src="https://i.discogs.com/Vju8ANJnSRPNpUGQe1u9jQRu3J0lri-oXPqKPE4PKV4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzODY2/MjEtMTM2MzUyNDc3/My03NTk1LmpwZWc.jpeg" alt="Cover for Oak Tree EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/172553573f694d09b2f20f3da33ac801.png" alt="Cover for Oak Tree EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-02-22</td>
       <td>Stoneberry</td>
@@ -1553,8 +1552,8 @@ The &quot;moscow&quot; tag captures the diverse and experimental electronic musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 25</li>
-            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 66</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 36</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1595,15 +1594,15 @@ The &quot;moscow&quot; tag captures the diverse and experimental electronic musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 11</li>
-            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 46</li>
+            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 17</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>54</td>
       <td>
-          <img src="https://i.discogs.com/YcWXNnbvhEazA2eLSXTXXtsEDAdpC2D6DH8UJXoiKyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDk3/NjY3LTE2Nzk0MjI2/NDAtMjg5NC5qcGVn.jpeg" alt="Cover for Sharks Don&#39;t Sleep" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/59a60dcd2b293cd215d44f0dc6b033c7.png" alt="Cover for Sharks Don&#39;t Sleep" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-09-14</td>
       <td>Rise On Everest</td>
@@ -1661,6 +1660,7 @@ The &quot;moscow&quot; tag captures the diverse and experimental electronic musi
     <tr>
       <td>23</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e01a894f8dde4aacca5a2d5e49c0abeb.png" alt="Cover for Grace" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-01-10</td>
       <td>Goodbye Summertime</td>
@@ -1686,7 +1686,7 @@ The &quot;moscow&quot; tag captures the diverse and experimental electronic musi
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/GtkcqCN62quzNFdABJH0N7-vJ5u6JaTU70JbsrRIbR4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjQ3/NDI4LTE1ODg2MzI4/OTUtNDk0OC5qcGVn.jpeg" alt="Cover for SUBSTANCES EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a6ad9214a8ec4f45cf121a018bcef979.png" alt="Cover for SUBSTANCES EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-02-26</td>
       <td>IC3PEAK</td>
@@ -1703,17 +1703,17 @@ The &quot;moscow&quot; tag captures the diverse and experimental electronic musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 45</li>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 73</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 95</li>
-            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 95</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 5</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 5</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 24</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 44</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/ZTA8tAeh9WqctcYLzo5iUoWuWNhKprtHCTRihkcEiVw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MDQ3/NjEtMTQyMjkyMTky/Ni0yMDUwLmpwZWc.jpeg" alt="Cover for Ellipse" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/48031fd7714a4da5cd8dfbce0b9000bf.png" alt="Cover for Ellipse" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-04-15</td>
       <td>IC3PEAK</td>
@@ -1730,17 +1730,17 @@ The &quot;moscow&quot; tag captures the diverse and experimental electronic musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 1</li>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 19</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 80</li>
-            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 91</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 9</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 18</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 67</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>92</td>
       <td>
-          <img src="https://i.discogs.com/Msz7rNWg_H0mIMAhUEY4ZMsmihGeVn3RXRVwN-1AP9s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMzc5/MzYtMTQxMjAxMjkw/My02OTc4LmpwZWc.jpeg" alt="Cover for I&#39;ll Be Found Remixes EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bb36cfb45e94ee25a20050c7b1408b3e.png" alt="Cover for I&#39;ll Be Found Remixes EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-05-07</td>
       <td>IC3PEAK</td>
@@ -1757,14 +1757,15 @@ The &quot;moscow&quot; tag captures the diverse and experimental electronic musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 60</li>
-            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 81</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 19</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 36</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>99</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ba949c5854ff423fc2c12f4d26486823.png" alt="Cover for Vacuum" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-10-06</td>
       <td>IC3PEAK</td>
@@ -1781,10 +1782,10 @@ The &quot;moscow&quot; tag captures the diverse and experimental electronic musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 25</li>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 28</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 86</li>
-            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 92</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 8</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 14</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 61</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1836,7 +1837,7 @@ The &quot;moscow&quot; tag captures the diverse and experimental electronic musi
     <tr>
       <td>46</td>
       <td>
-          <img src="https://i.discogs.com/GG8krdED1JKA7Aku-oYG_WvxMUBOa9LZov3e5mixhGI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMTg4/MzYtMTQ1MzU4MjQ5/My04MTE4LmpwZWc.jpeg" alt="Cover for Сожри или Сдохни" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6139932e5c10b602ce59193b8405ef10.png" alt="Cover for Сожри или Сдохни" style="max-width:120px; height:auto;" />
       </td>
       <td>2016</td>
       <td>Food For Fish</td>
@@ -1942,28 +1943,29 @@ The &quot;moscow&quot; tag captures the diverse and experimental electronic musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 10</li>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 57</li>
-            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 76</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 1</li>
+            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 2</li>
+            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 2</li>
+            <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 3</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 4</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 6</li>
+            <li> <a href="{{ "/tags/eurobeat" | relative_url }}">eurobeat</a> # 8</li>
+            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 12</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 16</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 23</li>
+            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 25</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 37</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 77</li>
             <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 77</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 77</li>
             <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 85</li>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 85</li>
-            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 88</li>
-            <li> <a href="{{ "/tags/eurobeat" | relative_url }}">eurobeat</a> # 93</li>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 94</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 96</li>
-            <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 98</li>
-            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 99</li>
-            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 99</li>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 100</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>97</td>
       <td>
-          <img src="https://i.discogs.com/_MRUdr6-_lbT4E-ZpRuPyqgyU3sqY6LTEfTem1QmbUM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjE3/ODQ2LTE1NTAxNTA0/OTEtNDA0Ny5qcGVn.jpeg" alt="Cover for Chapter Four &#x2F; Fall" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e32e531a87760acd1f456ecb129d36ce.png" alt="Cover for Chapter Four &#x2F; Fall" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-02-02</td>
       <td>Kai Engel</td>
@@ -2024,7 +2026,7 @@ The &quot;moscow&quot; tag captures the diverse and experimental electronic musi
     <tr>
       <td>17</td>
       <td>
-          <img src="https://i.discogs.com/VI0Q3KFzqs_nuifwL0LU2D7uOVKVAQqAhEZ9rnSz5pQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODkw/NTIxLTE2MjIwMzY0/NDEtMzQyMC5qcGVn.jpeg" alt="Cover for The Gradient Of The Sky" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2be77c1ca2a49851fa4e6dad0b844825.png" alt="Cover for The Gradient Of The Sky" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-04-25</td>
       <td>DIVIDED ISLAND</td>
@@ -2065,7 +2067,7 @@ The &quot;moscow&quot; tag captures the diverse and experimental electronic musi
     <tr>
       <td>6</td>
       <td>
-          <img src="https://i.discogs.com/KqR99Hi88I3yKWCi8n6fSwDiI2miw0EcbvxLICZ2UTU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNDcy/MTgtMTQzNzA4MDU1/Mi0yNzE1LnBuZw.jpeg" alt="Cover for The world a zero" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9465020f17494351ab8eb268989e564e.png" alt="Cover for The world a zero" style="max-width:120px; height:auto;" />
       </td>
       <td>2022</td>
       <td>Besto</td>
@@ -2082,14 +2084,14 @@ The &quot;moscow&quot; tag captures the diverse and experimental electronic musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 34</li>
+            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>12</td>
       <td>
-          <img src="https://i.discogs.com/KqR99Hi88I3yKWCi8n6fSwDiI2miw0EcbvxLICZ2UTU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNDcy/MTgtMTQzNzA4MDU1/Mi0yNzE1LnBuZw.jpeg" alt="Cover for The new remix (special album)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5eaa5e329cd4415ab9dba4f077705fd5.png" alt="Cover for The new remix (special album)" style="max-width:120px; height:auto;" />
       </td>
       <td>2022</td>
       <td>Besto</td>
@@ -2112,15 +2114,15 @@ The &quot;moscow&quot; tag captures the diverse and experimental electronic musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 18</li>
-            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 38</li>
+            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 64</li>
+            <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>15</td>
       <td>
-          <img src="https://i.discogs.com/BHjI1becDl703-ar79942-KHn8Oq7q_D4jR_hWwLvxA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDgx/NTAzLTE2ODI4ODQz/OTUtODcwMy5qcGVn.jpeg" alt="Cover for Dance in Space (single)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f6fe82b87f964a778492f6de77a4c190.png" alt="Cover for Dance in Space (single)" style="max-width:120px; height:auto;" />
       </td>
       <td>2022</td>
       <td>Besto</td>
@@ -2143,15 +2145,15 @@ The &quot;moscow&quot; tag captures the diverse and experimental electronic musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spacesynth" | relative_url }}">spacesynth</a> # 37</li>
-            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 42</li>
+            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 60</li>
+            <li> <a href="{{ "/tags/spacesynth" | relative_url }}">spacesynth</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>28</td>
       <td>
-          <img src="https://i.discogs.com/KqR99Hi88I3yKWCi8n6fSwDiI2miw0EcbvxLICZ2UTU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNDcy/MTgtMTQzNzA4MDU1/Mi0yNzE1LnBuZw.jpeg" alt="Cover for Mutation" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/86ee2323c578421fa6522a74cd2abdf5.png" alt="Cover for Mutation" style="max-width:120px; height:auto;" />
       </td>
       <td>2022</td>
       <td>Besto</td>
@@ -2174,15 +2176,15 @@ The &quot;moscow&quot; tag captures the diverse and experimental electronic musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 26</li>
-            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 49</li>
+            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 53</li>
+            <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>29</td>
       <td>
-          <img src="https://i.discogs.com/KqR99Hi88I3yKWCi8n6fSwDiI2miw0EcbvxLICZ2UTU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNDcy/MTgtMTQzNzA4MDU1/Mi0yNzE1LnBuZw.jpeg" alt="Cover for Biohazard" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ce50a886a50a494ca49fa513956b669b.png" alt="Cover for Biohazard" style="max-width:120px; height:auto;" />
       </td>
       <td>2022</td>
       <td>Besto</td>
@@ -2204,15 +2206,15 @@ The &quot;moscow&quot; tag captures the diverse and experimental electronic musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 28</li>
-            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 52</li>
+            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 50</li>
+            <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>42</td>
       <td>
-          <img src="https://i.discogs.com/KqR99Hi88I3yKWCi8n6fSwDiI2miw0EcbvxLICZ2UTU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNDcy/MTgtMTQzNzA4MDU1/Mi0yNzE1LnBuZw.jpeg" alt="Cover for The Super Space" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5fd4717870ec46aa9f5d208c811c32a2.png" alt="Cover for The Super Space" style="max-width:120px; height:auto;" />
       </td>
       <td>2022</td>
       <td>Besto</td>
@@ -2230,28 +2232,22 @@ The &quot;moscow&quot; tag captures the diverse and experimental electronic musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 60</li>
+            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>7</td>
       <td>
-          <img src="https://i.discogs.com/KqR99Hi88I3yKWCi8n6fSwDiI2miw0EcbvxLICZ2UTU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNDcy/MTgtMTQzNzA4MDU1/Mi0yNzE1LnBuZw.jpeg" alt="Cover for The Hurricane" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4484b067d1004e3589764d2ca864646a.png" alt="Cover for The Hurricane" style="max-width:120px; height:auto;" />
       </td>
       <td>2022</td>
       <td>Besto</td>
       <td>The Hurricane</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russia" | relative_url }}">russia</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a></li>
         </ul>
       </td>
       <td>
@@ -2297,6 +2293,7 @@ The &quot;moscow&quot; tag captures the diverse and experimental electronic musi
     <tr>
       <td>79</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c31952aeb2db4a5b90ed001362a0fe1a.png" alt="Cover for Pat Appleton" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>VFSix feat. Pat Appleton</td>
@@ -2325,14 +2322,15 @@ The &quot;moscow&quot; tag captures the diverse and experimental electronic musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 12</li>
-            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 49</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 51</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>82</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/11c853a6f7d239193237de3dc36b6ae2.png" alt="Cover for re: mine" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>THEreminGIRL</td>
@@ -2348,8 +2346,8 @@ The &quot;moscow&quot; tag captures the diverse and experimental electronic musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 4</li>
-            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 65</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 37</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -2453,6 +2451,7 @@ The &quot;moscow&quot; tag captures the diverse and experimental electronic musi
     <tr>
       <td>80</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e812020931c7656d986587a58a863ec2.png" alt="Cover for Revolt" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Arsafes</td>
