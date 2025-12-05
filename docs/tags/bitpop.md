@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-24T06:33:37.994Z
+date: 2025-12-05T06:58:45.966Z
 permalink: tags/bitpop
 title: bitpop
 ---
 
 ## bitpop
 
-Last updated: <time datetime="2025-11-24T06:33:37.994Z">Mon Nov 24 2025 08:33:37 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T06:58:45.966Z">Fri Dec 05 2025 08:58:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -109,8 +109,8 @@ Bitpop blends chiptune&#39;s vintage video game sounds with modern pop structure
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 51</li>
-            <li> <a href="{{ "/tags/alternative-electronic" | relative_url }}">alternative electronic</a> # 79</li>
+            <li> <a href="{{ "/tags/alternative-electronic" | relative_url }}">alternative electronic</a> # 20</li>
+            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -148,7 +148,6 @@ Bitpop blends chiptune&#39;s vintage video game sounds with modern pop structure
       <td>Den svenske disco</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a></li>
         </ul>
       </td>
       <td>
@@ -193,8 +192,8 @@ Bitpop blends chiptune&#39;s vintage video game sounds with modern pop structure
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 80</li>
-            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 94</li>
+            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 6</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -218,8 +217,8 @@ Bitpop blends chiptune&#39;s vintage video game sounds with modern pop structure
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 79</li>
-            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 93</li>
+            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 7</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -240,7 +239,7 @@ Bitpop blends chiptune&#39;s vintage video game sounds with modern pop structure
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/demoscene" | relative_url }}">demoscene</a> # 94</li>
+            <li> <a href="{{ "/tags/demoscene" | relative_url }}">demoscene</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -277,7 +276,7 @@ Bitpop blends chiptune&#39;s vintage video game sounds with modern pop structure
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 68</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -300,7 +299,7 @@ Bitpop blends chiptune&#39;s vintage video game sounds with modern pop structure
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 1</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -378,7 +377,7 @@ Bitpop blends chiptune&#39;s vintage video game sounds with modern pop structure
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 40</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -456,13 +455,14 @@ Bitpop blends chiptune&#39;s vintage video game sounds with modern pop structure
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 50</li>
+            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 51</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>60</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/200ded78bce9cc7ac9d640e712f8f195.png" alt="Cover for Power Supply" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-08-26</td>
       <td>Anamanaguchi</td>
@@ -474,9 +474,9 @@ Bitpop blends chiptune&#39;s vintage video game sounds with modern pop structure
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 48</li>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 74</li>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 90</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 10</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 25</li>
+            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -496,7 +496,7 @@ Bitpop blends chiptune&#39;s vintage video game sounds with modern pop structure
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 83</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -514,7 +514,7 @@ Bitpop blends chiptune&#39;s vintage video game sounds with modern pop structure
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 58</li>
+            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -542,7 +542,7 @@ Bitpop blends chiptune&#39;s vintage video game sounds with modern pop structure
     <tr>
       <td>23</td>
       <td>
-          <img src="https://i.discogs.com/l5k4o6Msa6QL5OXDATHc60fVVTv6yJ4KC1YIkFqlw1E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNjc5/NS0xMTczNjQ3Mjg5/LmpwZWc.jpeg" alt="Cover for the hopelessly sad story of the hideous end of the world" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d5143c768bcdb86b1270d17508876879.png" alt="Cover for the hopelessly sad story of the hideous end of the world" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-03-01</td>
       <td>Gangpol und Mit</td>
@@ -785,8 +785,8 @@ Bitpop blends chiptune&#39;s vintage video game sounds with modern pop structure
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 86</li>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 93</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 8</li>
+            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -809,9 +809,9 @@ Bitpop blends chiptune&#39;s vintage video game sounds with modern pop structure
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 12</li>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 66</li>
-            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 94</li>
+            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 6</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 33</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -833,9 +833,9 @@ Bitpop blends chiptune&#39;s vintage video game sounds with modern pop structure
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 65</li>
-            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 93</li>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 98</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 3</li>
+            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 8</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -855,7 +855,7 @@ Bitpop blends chiptune&#39;s vintage video game sounds with modern pop structure
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 14</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -909,7 +909,7 @@ Bitpop blends chiptune&#39;s vintage video game sounds with modern pop structure
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 9</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -930,7 +930,7 @@ Bitpop blends chiptune&#39;s vintage video game sounds with modern pop structure
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 27</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1011,8 +1011,8 @@ Bitpop blends chiptune&#39;s vintage video game sounds with modern pop structure
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 68</li>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 94</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 6</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1088,10 +1088,10 @@ Bitpop blends chiptune&#39;s vintage video game sounds with modern pop structure
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 28</li>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 57</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 84</li>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 100</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 1</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 16</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 41</li>
+            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1187,7 +1187,7 @@ Bitpop blends chiptune&#39;s vintage video game sounds with modern pop structure
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 36</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1205,9 +1205,9 @@ Bitpop blends chiptune&#39;s vintage video game sounds with modern pop structure
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 19</li>
-            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 45</li>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 56</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 45</li>
+            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 56</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1245,8 +1245,7 @@ Bitpop blends chiptune&#39;s vintage video game sounds with modern pop structure
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 21</li>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 76</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1272,7 +1271,7 @@ Bitpop blends chiptune&#39;s vintage video game sounds with modern pop structure
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 18</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1293,9 +1292,9 @@ Bitpop blends chiptune&#39;s vintage video game sounds with modern pop structure
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 27</li>
-            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 57</li>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 87</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 13</li>
+            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 44</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1318,8 +1317,8 @@ Bitpop blends chiptune&#39;s vintage video game sounds with modern pop structure
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 18</li>
-            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 81</li>
+            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 19</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1341,9 +1340,9 @@ Bitpop blends chiptune&#39;s vintage video game sounds with modern pop structure
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 66</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 90</li>
-            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 97</li>
+            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 4</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 11</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1392,7 +1391,7 @@ Bitpop blends chiptune&#39;s vintage video game sounds with modern pop structure
     <tr>
       <td>63</td>
       <td>
-          <img src="https://i.discogs.com/2KXlgv8JBHy5-C_Dm-SqjzIR8L-wxKHfZcqOiQzkD_E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NzU1/MzYtMTQ0MjIzODAw/Ny00NDc0LmpwZWc.jpeg" alt="Cover for Rymdkraft" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4d270c69841fb5f7043f267c1ffcce63.png" alt="Cover for Rymdkraft" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>Rymdkraft</td>
@@ -1449,7 +1448,7 @@ Bitpop blends chiptune&#39;s vintage video game sounds with modern pop structure
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 28</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1497,9 +1496,9 @@ Bitpop blends chiptune&#39;s vintage video game sounds with modern pop structure
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 50</li>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 69</li>
-            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 89</li>
+            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 11</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 32</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1517,7 +1516,7 @@ Bitpop blends chiptune&#39;s vintage video game sounds with modern pop structure
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 61</li>
+            <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1582,7 +1581,7 @@ Bitpop blends chiptune&#39;s vintage video game sounds with modern pop structure
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 45</li>
+            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1605,9 +1604,9 @@ Bitpop blends chiptune&#39;s vintage video game sounds with modern pop structure
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 1</li>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 58</li>
-            <li> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a> # 73</li>
+            <li> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a> # 28</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 41</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1632,8 +1631,8 @@ Bitpop blends chiptune&#39;s vintage video game sounds with modern pop structure
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 52</li>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 85</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 15</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1700,7 +1699,7 @@ Bitpop blends chiptune&#39;s vintage video game sounds with modern pop structure
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 72</li>
+            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1723,7 +1722,7 @@ Bitpop blends chiptune&#39;s vintage video game sounds with modern pop structure
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 49</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1764,9 +1763,9 @@ Bitpop blends chiptune&#39;s vintage video game sounds with modern pop structure
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 59</li>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 74</li>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 92</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 9</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 24</li>
+            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1805,7 +1804,7 @@ Bitpop blends chiptune&#39;s vintage video game sounds with modern pop structure
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 81</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1865,7 +1864,7 @@ Bitpop blends chiptune&#39;s vintage video game sounds with modern pop structure
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 28</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1885,9 +1884,8 @@ Bitpop blends chiptune&#39;s vintage video game sounds with modern pop structure
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 19</li>
-            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 99</li>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 100</li>
+            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 2</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1947,10 +1945,10 @@ Bitpop blends chiptune&#39;s vintage video game sounds with modern pop structure
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 40</li>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 75</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 77</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 90</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 10</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 24</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 25</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1991,8 +1989,8 @@ Bitpop blends chiptune&#39;s vintage video game sounds with modern pop structure
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 50</li>
-            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 75</li>
+            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 27</li>
+            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -2015,7 +2013,7 @@ Bitpop blends chiptune&#39;s vintage video game sounds with modern pop structure
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 32</li>
+            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -2039,11 +2037,11 @@ Bitpop blends chiptune&#39;s vintage video game sounds with modern pop structure
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 88</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 88</li>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 96</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 97</li>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 99</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 2</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 4</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 5</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 11</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -2061,7 +2059,7 @@ Bitpop blends chiptune&#39;s vintage video game sounds with modern pop structure
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 3</li>
+            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -2079,7 +2077,7 @@ Bitpop blends chiptune&#39;s vintage video game sounds with modern pop structure
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 12</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -2102,7 +2100,7 @@ Bitpop blends chiptune&#39;s vintage video game sounds with modern pop structure
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 40</li>
+            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -2127,7 +2125,7 @@ Bitpop blends chiptune&#39;s vintage video game sounds with modern pop structure
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 31</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 68</li>
         </ul>
       </td>
     </tr>

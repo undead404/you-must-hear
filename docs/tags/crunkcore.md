@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-13T15:38:05.278Z
+date: 2025-12-05T08:06:39.886Z
 permalink: tags/crunkcore
 title: crunkcore
 ---
 
 ## crunkcore
 
-Last updated: <time datetime="2025-11-13T15:38:05.278Z">Thu Nov 13 2025 17:38:05 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T08:06:39.886Z">Fri Dec 05 2025 10:06:39 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -67,16 +67,16 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 36</li>
-            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 44</li>
-            <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 46</li>
+            <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 55</li>
+            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 58</li>
+            <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>67</td>
       <td>
-          <img src="https://i.discogs.com/1L2wVBldWZDO4UWmrA_lVhYAvwskV2OwfwsYyxtd-b0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTA5/OS0xNDYzNDk5OTU5/LTk1MTguanBlZw.jpeg" alt="Cover for Let&#39;s Get It Crackin&#39;" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bbdbcbd8262b541d651a30c41d70e1d9.png" alt="Cover for Let&#39;s Get It Crackin&#39;" style="max-width:120px; height:auto;" />
       </td>
       <td>1994</td>
       <td>Deuce</td>
@@ -131,7 +131,7 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 58</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -186,7 +186,7 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 37</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -262,7 +262,6 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a></li>
@@ -303,8 +302,8 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 14</li>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 86</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 2</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -334,7 +333,7 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
     <tr>
       <td>35</td>
       <td>
-          <img src="https://i.discogs.com/SZKZCb5n_xjQnMbrcvgKjsNbabvhCT3ksR8LV-CdTTk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzY1/MDEtMTM3MDU0MDc2/NC04OTY5LmpwZWc.jpeg" alt="Cover for AU" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/89b7b2b16ad4a7cbd9edaf501bad2022.png" alt="Cover for AU" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-09-11</td>
       <td>Bicycle Sighs</td>
@@ -368,14 +367,15 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 35</li>
-            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 61</li>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 52</li>
+            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>58</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c278691ff128d27a0bb9ecc0507bdfeb.png" alt="Cover for You Can&#39;t Spell Slaughter Without Laughter" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-10-07</td>
       <td>I Set My Friends on Fire</td>
@@ -387,8 +387,10 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 13</li>
-            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 73</li>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 28</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 80</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 83</li>
+            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -449,7 +451,7 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 12</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -467,7 +469,7 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 2</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -488,7 +490,7 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 9</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -517,8 +519,8 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 12</li>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 19</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 80</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -662,7 +664,7 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 10</li>
+            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -680,10 +682,10 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 4</li>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 11</li>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 87</li>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 88</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 13</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 13</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 87</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -719,10 +721,10 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 13</li>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 17</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 19</li>
-            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 35</li>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 56</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 79</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 80</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -771,18 +773,19 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 19</li>
-            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 65</li>
-            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 71</li>
-            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 80</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 86</li>
-            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 89</li>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 89</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 91</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 93</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 94</li>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 94</li>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 97</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 4</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 6</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 6</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 7</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 10</li>
+            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 11</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 12</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 15</li>
+            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 21</li>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 31</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 36</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 81</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -857,7 +860,6 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a></li>
@@ -879,37 +881,38 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 3</li>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 8</li>
-            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 9</li>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 16</li>
-            <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 28</li>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 30</li>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 30</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 42</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 44</li>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 47</li>
-            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 48</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 51</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 53</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 58</li>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 62</li>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 62</li>
-            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 63</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 65</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 66</li>
-            <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 67</li>
-            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 72</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 75</li>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 81</li>
-            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 83</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 10</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 12</li>
+            <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 14</li>
+            <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 14</li>
+            <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 16</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 16</li>
+            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 18</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 27</li>
+            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 29</li>
+            <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 33</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 35</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 35</li>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 37</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 38</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 40</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 46</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 47</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 53</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 53</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 54</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 55</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 58</li>
+            <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 69</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 71</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 79</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 83</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 85</li>
-            <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 85</li>
-            <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 87</li>
-            <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 87</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 89</li>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 91</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 86</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 92</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 92</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 93</li>
+            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 97</li>
+            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -979,14 +982,14 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 42</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>28</td>
       <td>
-          <img src="https://i.discogs.com/_HQHNpuw_VduX64P_wmzs1K6XHFNWIaS3VqSHrMFRzQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDY2/NzUtMTM3MDU0MTY4/Ni0xNzMzLmpwZWc.jpeg" alt="Cover for The Many Trepidations Of Maritime Tea" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7b5053cd770a4000b79eeb2fe3354cdd.png" alt="Cover for The Many Trepidations Of Maritime Tea" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-04-19</td>
       <td>Bicycle Sighs</td>
@@ -1040,7 +1043,7 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 68</li>
+            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1086,7 +1089,7 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 5</li>
+            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1149,7 +1152,6 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
             <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a></li>
             <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a></li>
             <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a></li>
             <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a></li>
             <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a></li>
             <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a></li>
@@ -1171,23 +1173,21 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
     <tr>
       <td>68</td>
       <td>
-          <img src="https://i.discogs.com/OI5Ocd0GGyua8033EEfgmD0f5eTm_6z8eOpBn-b78oU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDQ0/NjEtMTM0MjYyMDM1/Mi0xNjgyLmpwZWc.jpeg" alt="Cover for Creatures" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fbd23c95e6c3489e9ccf8b4940166deb.png" alt="Cover for Creatures" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-10-12</td>
       <td>Motionless in White</td>
       <td>Creatures</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
-            <li style="font-size: calc(1rem * 81 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 1</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 2</li>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 23</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 26</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 75</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 75</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 99</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1278,7 +1278,6 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a></li>
@@ -1299,8 +1298,8 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 5</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 16</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1373,7 +1372,6 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a></li>
@@ -1394,8 +1392,8 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 7</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 17</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1468,7 +1466,6 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a></li>
@@ -1489,9 +1486,9 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 3</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 10</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 19</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 91</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1564,7 +1561,6 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a></li>
@@ -1585,10 +1581,10 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 1</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 6</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 13</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 22</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 88</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 94</li>
+            <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1602,17 +1598,12 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
       <td>Swan Songs (Collector’s Edition)</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 35</li>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 71</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1655,6 +1646,7 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
     <tr>
       <td>73</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cc0c8083d6df4283ab4ac8fadeb199c5.png" alt="Cover for Demo" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>I Set My Friends on Fire</td>
@@ -1698,22 +1690,22 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 8</li>
-            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 16</li>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 19</li>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 34</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 47</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 21</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 30</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 43</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 49</li>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 58</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 71</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 80</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 53</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 67</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 81</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 85</li>
+            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/PM-ldYLUNCFB3kMdyI0Y7yM0Qg23N0YSJCfEcYGPdEs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDU0/MTgtMTY3OTc4MzM3/Ni00MjQ4LmpwZWc.jpeg" alt="Cover for Bermuda Drain" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6ec6e3bb95b14c71a9461e675ea71e7f.png" alt="Cover for Bermuda Drain" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-07-19</td>
       <td>Prurient</td>
@@ -1725,8 +1717,8 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 21</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 73</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 27</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1765,17 +1757,17 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 49</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 9</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 13</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 14</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 15</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 18</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 18</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 19</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 28</li>
+            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 37</li>
             <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 50</li>
-            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 64</li>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 73</li>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 81</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 83</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 83</li>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 83</li>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 86</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 88</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 91</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1872,7 +1864,6 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a></li>
@@ -1892,12 +1883,12 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 1</li>
-            <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 5</li>
-            <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 6</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 14</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 19</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 27</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 82</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 82</li>
+            <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 95</li>
+            <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 96</li>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1953,7 +1944,7 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 38</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -2050,7 +2041,6 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a></li>
@@ -2072,30 +2062,29 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 9</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 10</li>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 13</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 26</li>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 27</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 29</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 33</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 40</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 43</li>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 43</li>
-            <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 44</li>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 47</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 48</li>
-            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 54</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 57</li>
-            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 61</li>
-            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 70</li>
-            <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 73</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 16</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 19</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 24</li>
+            <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 25</li>
+            <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 26</li>
+            <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 28</li>
+            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 30</li>
+            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 39</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 45</li>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 46</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 52</li>
+            <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 56</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 56</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 57</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 61</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 66</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 70</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 73</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 75</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 75</li>
-            <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 75</li>
-            <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 76</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 77</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 82</li>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 85</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 75</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 88</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -2114,7 +2103,7 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 36</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -2148,20 +2137,20 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 91</li>
-            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 96</li>
-            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 97</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 97</li>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 98</li>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 98</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 99</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 99</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 100</li>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 100</li>
-            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 100</li>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 100</li>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 100</li>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 100</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 1</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 1</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 1</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 1</li>
+            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 1</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 1</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 1</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 2</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 2</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 3</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 4</li>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 4</li>
+            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 5</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -2187,6 +2176,7 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
     <tr>
       <td>65</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/046fcc2040964003a5be8fde099e309b.png" alt="Cover for Infamous" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-11-12</td>
       <td>Motionless in White</td>
@@ -2198,8 +2188,8 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 14</li>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 17</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 81</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -2281,7 +2271,7 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
     <tr>
       <td>92</td>
       <td>
-          <img src="https://i.discogs.com/2FL1LX6gh_OrgU1ypplcHa2imnm7hNQ7WlXG0iLQ8YM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NDc5/NzItMTYxMDYxMDE4/MC0yODc5LmpwZWc.jpeg" alt="Cover for Fashionably Late [Deluxe Edition]" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d3e313a5d4444c7afe0f721a5b4c76c.png" alt="Cover for Fashionably Late [Deluxe Edition]" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-06-18</td>
       <td>Falling in Reverse</td>
@@ -2296,7 +2286,7 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 10</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -2340,8 +2330,9 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 7</li>
-            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 67</li>
+            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 33</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 93</li>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -2366,7 +2357,7 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
     <tr>
       <td>50</td>
       <td>
-          <img src="https://i.discogs.com/x6yYx9yFx3zpoEkH9Vtu8l9xmobhtl9xpqHQMH9LVUI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTY0/NTkxLTE1Mjk2MDA2/OTUtNTE3MC5qcGVn.jpeg" alt="Cover for A To Z 2" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/27b9acf5ef76d06d09ae4443782097e1.png" alt="Cover for A To Z 2" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-05-25</td>
       <td>Andrew Huang</td>
@@ -2399,15 +2390,15 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ragtime" | relative_url }}">ragtime</a> # 33</li>
-            <li> <a href="{{ "/tags/waltz" | relative_url }}">waltz</a> # 59</li>
+            <li> <a href="{{ "/tags/waltz" | relative_url }}">waltz</a> # 42</li>
+            <li> <a href="{{ "/tags/ragtime" | relative_url }}">ragtime</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>14</td>
       <td>
-          <img src="https://i.discogs.com/dOX51H1OEP-LXmzKRbHoaOnbzViycvP4XRWLOzgwWKU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTc3/NjM5LTE1MTEyOTI5/NDMtNDEwOS5qcGVn.jpeg" alt="Cover for BAS.METAL" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef821578f32f063d0de3374fee45135d.png" alt="Cover for BAS.METAL" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-11-21</td>
       <td>Gruz</td>
@@ -2504,20 +2495,20 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 11</li>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 42</li>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 60</li>
-            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 70</li>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 81</li>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 83</li>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 87</li>
-            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 92</li>
-            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 95</li>
-            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 96</li>
-            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 96</li>
-            <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 97</li>
-            <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 98</li>
-            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 99</li>
+            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 2</li>
+            <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 3</li>
+            <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 4</li>
+            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 5</li>
+            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 5</li>
+            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 6</li>
+            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 9</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 14</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 16</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 18</li>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 32</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 34</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 56</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -2537,8 +2528,8 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 63</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 75</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 23</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -2611,7 +2602,6 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a></li>
@@ -2631,15 +2621,15 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 12</li>
-            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 13</li>
-            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 13</li>
-            <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 14</li>
-            <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 19</li>
-            <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 19</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 30</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 30</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 37</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 65</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 71</li>
+            <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 81</li>
+            <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 82</li>
+            <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 87</li>
+            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 88</li>
+            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 88</li>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -2672,14 +2662,14 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 23</li>
+            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/z9OVq-ocd_DYzKhnOWeYxccfr6_Nal4FvPiWj-5lFRw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTE1/NTg0LTE2NjgwNjc0/MTAtOTUyNy5qcGVn.jpeg" alt="Cover for BIMBOCORE VOL. 2" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/11a26110fc117b35bb85dfde351f4374.png" alt="Cover for BIMBOCORE VOL. 2" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-11-10</td>
       <td>Scene Queen</td>
@@ -2694,7 +2684,7 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 61</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -2779,6 +2769,7 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
     <tr>
       <td>9</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5390301eb1ad410b9c6e45f54f037421.png" alt="Cover for Crash" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>ILOVEATOMBOMB</td>
@@ -2872,6 +2863,7 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
     <tr>
       <td>26</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c4f0df1cde28415fb3da657ffd7f43bc.png" alt="Cover for Maxettu Mainos" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Kolme Euroo</td>
@@ -2911,7 +2903,6 @@ Crunkcore fuses aggressive hip-hop beats and crunk energy with screamed vocals a
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rac" | relative_url }}">rac</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a></li>

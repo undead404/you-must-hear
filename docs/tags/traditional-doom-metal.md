@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-04T04:01:50.984Z
+date: 2025-12-05T08:21:55.762Z
 permalink: tags/traditional-doom-metal
 title: traditional doom metal
 ---
 
 ## traditional doom metal
 
-Last updated: <time datetime="2025-11-04T04:01:50.984Z">Tue Nov 04 2025 06:01:50 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T08:21:55.762Z">Fri Dec 05 2025 10:21:55 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -61,7 +61,7 @@ Traditional doom metal is a heavy, slow-tempo style rooted in 1970s hard rock th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 78</li>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -80,13 +80,14 @@ Traditional doom metal is a heavy, slow-tempo style rooted in 1970s hard rock th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 25</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>90</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6dfddbf68bd44cb9b091fee0b90ef986.png" alt="Cover for Saint Vitus" style="max-width:120px; height:auto;" />
       </td>
       <td>1984</td>
       <td>Saint Vitus</td>
@@ -98,7 +99,7 @@ Traditional doom metal is a heavy, slow-tempo style rooted in 1970s hard rock th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 24</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -124,7 +125,6 @@ Traditional doom metal is a heavy, slow-tempo style rooted in 1970s hard rock th
     <tr>
       <td>26</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/072a450ac2ec0d199451999ce90e2bac.png" alt="Cover for Detaching From Satan" style="max-width:120px; height:auto;" />
       </td>
       <td>1984-09</td>
       <td>Paul Chain Violet Theatre</td>
@@ -187,7 +187,7 @@ Traditional doom metal is a heavy, slow-tempo style rooted in 1970s hard rock th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 73</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -206,13 +206,14 @@ Traditional doom metal is a heavy, slow-tempo style rooted in 1970s hard rock th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 63</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>59</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3d6346e548e1e13eef9f905161587d6f.png" alt="Cover for Mournful Cries" style="max-width:120px; height:auto;" />
       </td>
       <td>1988</td>
       <td>Saint Vitus</td>
@@ -302,7 +303,7 @@ Traditional doom metal is a heavy, slow-tempo style rooted in 1970s hard rock th
     <tr>
       <td>56</td>
       <td>
-          <img src="https://i.discogs.com/C14vUUUCnpYg49S51MMUQCdeqO3FOEMOVHcrqXQJA6U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0Njk2/OS0xMTYyMjkyOTkz/LmpwZWc.jpeg" alt="Cover for C.O.D." style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a6fabfd3c46a46eb36f8f6f21ed93485.png" alt="Cover for C.O.D." style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>Saint Vitus</td>
@@ -377,6 +378,7 @@ Traditional doom metal is a heavy, slow-tempo style rooted in 1970s hard rock th
     <tr>
       <td>50</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0a84a59428f24c6b985266d20f08a046.png" alt="Cover for Die Healing" style="max-width:120px; height:auto;" />
       </td>
       <td>1995-05-09</td>
       <td>Saint Vitus</td>
@@ -394,6 +396,7 @@ Traditional doom metal is a heavy, slow-tempo style rooted in 1970s hard rock th
     <tr>
       <td>42</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b5abc5e7ae28db21e6f21955034e031c.png" alt="Cover for Will of the Gods is Great Power" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Scald</td>
@@ -441,7 +444,7 @@ Traditional doom metal is a heavy, slow-tempo style rooted in 1970s hard rock th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 72</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -461,14 +464,14 @@ Traditional doom metal is a heavy, slow-tempo style rooted in 1970s hard rock th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 16</li>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>27</td>
       <td>
-          <img src="https://i.discogs.com/24ay66wBRovUDZzCYXzmtoDAOhoMeqWhkeC8svMx7iM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzU3/MjktMTQ0NjE5MjM3/Ny00MzA1LmpwZWc.jpeg" alt="Cover for Incarnate" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f6f6a5c1353fcd032ee068cf02138f9.png" alt="Cover for Incarnate" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>The Obsessed</td>
@@ -615,7 +618,7 @@ Traditional doom metal is a heavy, slow-tempo style rooted in 1970s hard rock th
     <tr>
       <td>85</td>
       <td>
-          <img src="https://i.discogs.com/aP_lTy4SQQEZOqAhhfevsZWmzpoGDlViScypuR56-U4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MzU2/My0xNTg5OTI0OTQy/LTE5NjYuanBlZw.jpeg" alt="Cover for Harbinger of Metal" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/af997863114ad0e0b064295f3989a17a.png" alt="Cover for Harbinger of Metal" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-11-24</td>
       <td>Reverend Bizarre</td>
@@ -742,7 +745,7 @@ Traditional doom metal is a heavy, slow-tempo style rooted in 1970s hard rock th
     <tr>
       <td>22</td>
       <td>
-          <img src="https://i.discogs.com/9O8reDHvj43huAtufthc6LJKAKc0UDSljt3FZBN-cWM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjQ1/MDEtMTI0NTMyMTA4/NS5qcGVn.jpeg" alt="Cover for Drawing Down The Sun" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ac909984d3284a1c8438f1d447e1f9e1.png" alt="Cover for Drawing Down The Sun" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>The River</td>
@@ -826,7 +829,7 @@ Traditional doom metal is a heavy, slow-tempo style rooted in 1970s hard rock th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 49</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -886,6 +889,7 @@ Traditional doom metal is a heavy, slow-tempo style rooted in 1970s hard rock th
     <tr>
       <td>94</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c05a216425d84d61abb9982bf0de9cdd.png" alt="Cover for III: So Long Suckers" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-08-08</td>
       <td>Reverend Bizarre</td>
@@ -991,7 +995,7 @@ Traditional doom metal is a heavy, slow-tempo style rooted in 1970s hard rock th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 35</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1107,6 +1111,7 @@ Traditional doom metal is a heavy, slow-tempo style rooted in 1970s hard rock th
     <tr>
       <td>11</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/110b6b81678a4fab921ff3657938ab65.png" alt="Cover for Blood Ceremony" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-08-11</td>
       <td>Blood Ceremony</td>
@@ -1139,7 +1144,7 @@ Traditional doom metal is a heavy, slow-tempo style rooted in 1970s hard rock th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 10</li>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1201,6 +1206,7 @@ Traditional doom metal is a heavy, slow-tempo style rooted in 1970s hard rock th
     <tr>
       <td>60</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b4f25ce5427647af8a421a7646a23e56.png" alt="Cover for I Have Returned" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-04-25</td>
       <td>Iron Man</td>
@@ -1479,6 +1485,7 @@ Traditional doom metal is a heavy, slow-tempo style rooted in 1970s hard rock th
     <tr>
       <td>24</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eb01a6d137394ec78ee635448204a790.png" alt="Cover for The Wretch" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-04-04</td>
       <td>The Gates of Slumber</td>
@@ -1543,7 +1550,7 @@ Traditional doom metal is a heavy, slow-tempo style rooted in 1970s hard rock th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 50</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1589,6 +1596,7 @@ Traditional doom metal is a heavy, slow-tempo style rooted in 1970s hard rock th
     <tr>
       <td>29</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/451318f8c6d692312127036e548c1b1d.png" alt="Cover for Lillie: F-65" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-04-27</td>
       <td>Saint Vitus</td>
@@ -1699,7 +1707,6 @@ Traditional doom metal is a heavy, slow-tempo style rooted in 1970s hard rock th
     <tr>
       <td>93</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bdb67f71dd874a3eca6953fba231cfce.png" alt="Cover for The Eldritch Dark" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-05-27</td>
       <td>Blood Ceremony</td>
@@ -1747,7 +1754,7 @@ Traditional doom metal is a heavy, slow-tempo style rooted in 1970s hard rock th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 67</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 27</li>
         </ul>
       </td>
     </tr>

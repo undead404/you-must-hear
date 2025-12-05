@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T02:08:47.566Z
+date: 2025-12-05T07:15:48.870Z
 permalink: tags/rock-en-espanol
 title: rock en espanol
 ---
 
 ## rock en espanol
 
-Last updated: <time datetime="2025-11-26T02:08:47.566Z">Wed Nov 26 2025 04:08:47 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T07:15:48.870Z">Fri Dec 05 2025 09:15:48 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -45,7 +45,7 @@ Rock en Español is Latin American rock music sung in Spanish, blending traditio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 48</li>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -82,7 +82,7 @@ Rock en Español is Latin American rock music sung in Spanish, blending traditio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 20</li>
+            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -101,7 +101,7 @@ Rock en Español is Latin American rock music sung in Spanish, blending traditio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 96</li>
+            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -128,10 +128,10 @@ Rock en Español is Latin American rock music sung in Spanish, blending traditio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 67</li>
-            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 74</li>
-            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 87</li>
-            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 91</li>
+            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 10</li>
+            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 13</li>
+            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 27</li>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -168,7 +168,7 @@ Rock en Español is Latin American rock music sung in Spanish, blending traditio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 92</li>
+            <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -196,10 +196,10 @@ Rock en Español is Latin American rock music sung in Spanish, blending traditio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 83</li>
-            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 86</li>
-            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 90</li>
-            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 97</li>
+            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 4</li>
+            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 10</li>
+            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 15</li>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -237,7 +237,7 @@ Rock en Español is Latin American rock music sung in Spanish, blending traditio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 96</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -291,7 +291,7 @@ Rock en Español is Latin American rock music sung in Spanish, blending traditio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 38</li>
+            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -313,8 +313,8 @@ Rock en Español is Latin American rock music sung in Spanish, blending traditio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 76</li>
-            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 89</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 12</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -335,8 +335,8 @@ Rock en Español is Latin American rock music sung in Spanish, blending traditio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 80</li>
-            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 95</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 6</li>
+            <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -359,10 +359,10 @@ Rock en Español is Latin American rock music sung in Spanish, blending traditio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 53</li>
-            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 69</li>
-            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 89</li>
-            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 92</li>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 9</li>
+            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 12</li>
+            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 32</li>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -381,7 +381,7 @@ Rock en Español is Latin American rock music sung in Spanish, blending traditio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 64</li>
+            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -399,7 +399,7 @@ Rock en Español is Latin American rock music sung in Spanish, blending traditio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 4</li>
+            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -425,9 +425,9 @@ Rock en Español is Latin American rock music sung in Spanish, blending traditio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 36</li>
-            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 76</li>
-            <li> <a href="{{ "/tags/peru" | relative_url }}">peru</a> # 89</li>
+            <li> <a href="{{ "/tags/peru" | relative_url }}">peru</a> # 12</li>
+            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 24</li>
+            <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -446,8 +446,8 @@ Rock en Español is Latin American rock music sung in Spanish, blending traditio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 26</li>
-            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 58</li>
+            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 43</li>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -467,7 +467,7 @@ Rock en Español is Latin American rock music sung in Spanish, blending traditio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spanish-rock" | relative_url }}">spanish rock</a> # 97</li>
+            <li> <a href="{{ "/tags/spanish-rock" | relative_url }}">spanish rock</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -488,8 +488,8 @@ Rock en Español is Latin American rock music sung in Spanish, blending traditio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 96</li>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 100</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 1</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -526,7 +526,7 @@ Rock en Español is Latin American rock music sung in Spanish, blending traditio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 46</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -547,8 +547,8 @@ Rock en Español is Latin American rock music sung in Spanish, blending traditio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 85</li>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 92</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 9</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -586,7 +586,7 @@ Rock en Español is Latin American rock music sung in Spanish, blending traditio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/unplugged" | relative_url }}">unplugged</a> # 45</li>
+            <li> <a href="{{ "/tags/unplugged" | relative_url }}">unplugged</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -605,7 +605,7 @@ Rock en Español is Latin American rock music sung in Spanish, blending traditio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 84</li>
+            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -627,10 +627,10 @@ Rock en Español is Latin American rock music sung in Spanish, blending traditio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 75</li>
-            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 80</li>
-            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 94</li>
-            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 94</li>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 7</li>
+            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 7</li>
+            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 21</li>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -650,7 +650,7 @@ Rock en Español is Latin American rock music sung in Spanish, blending traditio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 61</li>
+            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -669,7 +669,7 @@ Rock en Español is Latin American rock music sung in Spanish, blending traditio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 51</li>
+            <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -762,7 +762,7 @@ Rock en Español is Latin American rock music sung in Spanish, blending traditio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 30</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -823,9 +823,9 @@ Rock en Español is Latin American rock music sung in Spanish, blending traditio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 43</li>
-            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 61</li>
-            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 77</li>
+            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 24</li>
+            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 39</li>
+            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -846,8 +846,8 @@ Rock en Español is Latin American rock music sung in Spanish, blending traditio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 17</li>
-            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 25</li>
+            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 76</li>
+            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -867,7 +867,7 @@ Rock en Español is Latin American rock music sung in Spanish, blending traditio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 94</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -907,9 +907,9 @@ Rock en Español is Latin American rock music sung in Spanish, blending traditio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 12</li>
-            <li> <a href="{{ "/tags/spanish-rock" | relative_url }}">spanish rock</a> # 72</li>
-            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 85</li>
+            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 16</li>
+            <li> <a href="{{ "/tags/spanish-rock" | relative_url }}">spanish rock</a> # 28</li>
+            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -929,7 +929,7 @@ Rock en Español is Latin American rock music sung in Spanish, blending traditio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 62</li>
+            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -948,7 +948,7 @@ Rock en Español is Latin American rock music sung in Spanish, blending traditio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 82</li>
+            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -966,8 +966,8 @@ Rock en Español is Latin American rock music sung in Spanish, blending traditio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 16</li>
-            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 82</li>
+            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 19</li>
+            <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -988,8 +988,8 @@ Rock en Español is Latin American rock music sung in Spanish, blending traditio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 43</li>
-            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 51</li>
+            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 50</li>
+            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1044,7 +1044,7 @@ Rock en Español is Latin American rock music sung in Spanish, blending traditio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 72</li>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1066,10 +1066,10 @@ Rock en Español is Latin American rock music sung in Spanish, blending traditio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 66</li>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 66</li>
-            <li> <a href="{{ "/tags/unplugged" | relative_url }}">unplugged</a> # 69</li>
-            <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 84</li>
+            <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 17</li>
+            <li> <a href="{{ "/tags/unplugged" | relative_url }}">unplugged</a> # 31</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 34</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1106,7 +1106,7 @@ Rock en Español is Latin American rock music sung in Spanish, blending traditio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 24</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1130,10 +1130,10 @@ Rock en Español is Latin American rock music sung in Spanish, blending traditio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 42</li>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 54</li>
-            <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 84</li>
-            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 94</li>
+            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 7</li>
+            <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 17</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 45</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1175,10 +1175,10 @@ Rock en Español is Latin American rock music sung in Spanish, blending traditio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 65</li>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 65</li>
-            <li> <a href="{{ "/tags/unplugged" | relative_url }}">unplugged</a> # 68</li>
-            <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 83</li>
+            <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 18</li>
+            <li> <a href="{{ "/tags/unplugged" | relative_url }}">unplugged</a> # 32</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 35</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1287,8 +1287,8 @@ Rock en Español is Latin American rock music sung in Spanish, blending traditio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 32</li>
-            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 84</li>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 17</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1306,7 +1306,7 @@ Rock en Español is Latin American rock music sung in Spanish, blending traditio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 93</li>
+            <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1347,8 +1347,8 @@ Rock en Español is Latin American rock music sung in Spanish, blending traditio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 37</li>
-            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 64</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 36</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1386,7 +1386,7 @@ Rock en Español is Latin American rock music sung in Spanish, blending traditio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 87</li>
+            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1411,9 +1411,9 @@ Rock en Español is Latin American rock music sung in Spanish, blending traditio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 81</li>
-            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 83</li>
-            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 96</li>
+            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 5</li>
+            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 18</li>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1434,8 +1434,8 @@ Rock en Español is Latin American rock music sung in Spanish, blending traditio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 47</li>
-            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 68</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 33</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1529,14 +1529,14 @@ Rock en Español is Latin American rock music sung in Spanish, blending traditio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 73</li>
+            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 28</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/KMyc8ReHQwHUJ504Jw49epy9GzmwP5EKBd4Jxap-hlU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0ODc0/NC0xNTg2Mzk0NjQ1/LTQzMjIuanBlZw.jpeg" alt="Cover for Ahi Vamos" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ccff0fcf9b64ea1a16d9e76470201b8.png" alt="Cover for Ahi Vamos" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Gustavo Cerati</td>
@@ -1550,8 +1550,8 @@ Rock en Español is Latin American rock music sung in Spanish, blending traditio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 79</li>
-            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 80</li>
+            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 21</li>
+            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1629,7 +1629,7 @@ Rock en Español is Latin American rock music sung in Spanish, blending traditio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 69</li>
+            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1650,8 +1650,8 @@ Rock en Español is Latin American rock music sung in Spanish, blending traditio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 34</li>
-            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 63</li>
+            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 38</li>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1708,8 +1708,8 @@ Rock en Español is Latin American rock music sung in Spanish, blending traditio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 37</li>
-            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 68</li>
+            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 33</li>
+            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1748,7 +1748,7 @@ Rock en Español is Latin American rock music sung in Spanish, blending traditio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 90</li>
+            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1770,8 +1770,8 @@ Rock en Español is Latin American rock music sung in Spanish, blending traditio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 8</li>
-            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 48</li>
+            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 53</li>
+            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1794,7 +1794,7 @@ Rock en Español is Latin American rock music sung in Spanish, blending traditio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/unplugged" | relative_url }}">unplugged</a> # 46</li>
+            <li> <a href="{{ "/tags/unplugged" | relative_url }}">unplugged</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1832,8 +1832,8 @@ Rock en Español is Latin American rock music sung in Spanish, blending traditio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 59</li>
-            <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 86</li>
+            <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 15</li>
+            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1856,8 +1856,8 @@ Rock en Español is Latin American rock music sung in Spanish, blending traditio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 74</li>
-            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 87</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 14</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1879,8 +1879,8 @@ Rock en Español is Latin American rock music sung in Spanish, blending traditio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 25</li>
-            <li> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a> # 26</li>
+            <li> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a> # 75</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1900,7 +1900,7 @@ Rock en Español is Latin American rock music sung in Spanish, blending traditio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 42</li>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1993,7 +1993,7 @@ Rock en Español is Latin American rock music sung in Spanish, blending traditio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 74</li>
+            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -2033,7 +2033,7 @@ Rock en Español is Latin American rock music sung in Spanish, blending traditio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 42</li>
+            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 59</li>
         </ul>
       </td>
     </tr>

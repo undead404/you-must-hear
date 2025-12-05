@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-13T15:37:59.333Z
+date: 2025-12-05T07:51:30.372Z
 permalink: tags/easycore
 title: easycore
 ---
 
 ## easycore
 
-Last updated: <time datetime="2025-11-13T15:37:59.333Z">Thu Nov 13 2025 17:37:59 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T07:51:30.372Z">Fri Dec 05 2025 09:51:30 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -45,8 +45,8 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 17</li>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 58</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 31</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -101,13 +101,14 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>37</td>
       <td>
-          <img src="https://i.discogs.com/fSl0lkad1lkoM7mSrYmtIstPWrtoth-IV10CylpS3PA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzY4/MzItMTY3ODc0MDI3/OC03MzI1LmpwZWc.jpeg" alt="Cover for Don&#39;t Get Lost in a Movement" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a10f45036e5b4495bfe14bfd7b5ab50a.png" alt="Cover for Don&#39;t Get Lost in a Movement" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-11-22</td>
       <td>The Fully Down</td>
@@ -160,7 +161,7 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 82</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -215,7 +216,7 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 24</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -290,7 +291,7 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anthem-emo" | relative_url }}">anthem emo</a> # 84</li>
+            <li> <a href="{{ "/tags/anthem-emo" | relative_url }}">anthem emo</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -399,10 +400,10 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 58</li>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 72</li>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 94</li>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 98</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 3</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 6</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 17</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -569,7 +570,7 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 34</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -681,11 +682,11 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 7</li>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 17</li>
-            <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 44</li>
-            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 58</li>
+            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 46</li>
+            <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 56</li>
             <li> <a href="{{ "/tags/punk-pop" | relative_url }}">punk pop</a> # 72</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 83</li>
+            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -730,8 +731,8 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 63</li>
-            <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 76</li>
+            <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 22</li>
+            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -839,7 +840,7 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
     <tr>
       <td>91</td>
       <td>
-          <img src="https://i.discogs.com/cV5eu8conQlWt4oZlgf_ZdWxNjI4LGKsQn1WuXQTjaE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNDM0/ODgtMTQwOTYwNDY3/Ny0xMTE0LmpwZWc.jpeg" alt="Cover for For Those Who Have Heart (Deluxe Edition)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/36480458f5e3a90d1c7f2ccdcb0aa499.png" alt="Cover for For Those Who Have Heart (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-09-30</td>
       <td>A Day to Remember</td>
@@ -888,8 +889,8 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 78</li>
-            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 84</li>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 14</li>
+            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -985,14 +986,14 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 97</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 4</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>87</td>
       <td>
-          <img src="https://i.discogs.com/acQVdQ35ewR_QkSSIWyxGia0sipzQnwH8bJ2VK8VWWE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjYy/NDA0LTE1Mzk1NjY1/NjktMTgyNi5qcGVn.jpeg" alt="Cover for The Last Weekend of Summer" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e78d64f06dc143efc300d181a64895b0.png" alt="Cover for The Last Weekend of Summer" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-09-02</td>
       <td>Heccra</td>
@@ -1008,15 +1009,16 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 3</li>
-            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 33</li>
-            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 35</li>
+            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 46</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 58</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>9</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/832803ce0f7f49469b64b7927d774ed9.png" alt="Cover for Babylon" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-12-21</td>
       <td>Skywalker</td>
@@ -1035,7 +1037,7 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
     <tr>
       <td>59</td>
       <td>
-          <img src="https://i.discogs.com/ZMYU4K99CWcf--vMttQ5kiq8YSrAP-L0KxfRnYmgcmw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjYy/NDIxLTE1Mzk1NjY4/OTgtNzg0OC5qcGVn.jpeg" alt="Cover for Pizza Is Emo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2b70e92c6c6d21b2bbb9d7577d3983af.png" alt="Cover for Pizza Is Emo" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-04-02</td>
       <td>Heccra</td>
@@ -1123,8 +1125,8 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 46</li>
-            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 78</li>
+            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 24</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1162,7 +1164,7 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anthem-emo" | relative_url }}">anthem emo</a> # 3</li>
+            <li> <a href="{{ "/tags/anthem-emo" | relative_url }}">anthem emo</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1338,7 +1340,7 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anthem-emo" | relative_url }}">anthem emo</a> # 48</li>
+            <li> <a href="{{ "/tags/anthem-emo" | relative_url }}">anthem emo</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1447,9 +1449,9 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 14</li>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 28</li>
-            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 30</li>
+            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 71</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 72</li>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1472,9 +1474,9 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 94</li>
-            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 95</li>
-            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 100</li>
+            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 1</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 6</li>
+            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -1510,8 +1512,8 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 70</li>
-            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 96</li>
+            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 5</li>
+            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1532,7 +1534,7 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anthem-emo" | relative_url }}">anthem emo</a> # 96</li>
+            <li> <a href="{{ "/tags/anthem-emo" | relative_url }}">anthem emo</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1596,9 +1598,9 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 91</li>
-            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 92</li>
-            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 99</li>
+            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 2</li>
+            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 8</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1637,7 +1639,7 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anthem-emo" | relative_url }}">anthem emo</a> # 62</li>
+            <li> <a href="{{ "/tags/anthem-emo" | relative_url }}">anthem emo</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1701,7 +1703,7 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anthem-emo" | relative_url }}">anthem emo</a> # 91</li>
+            <li> <a href="{{ "/tags/anthem-emo" | relative_url }}">anthem emo</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1774,8 +1776,8 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 34</li>
-            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 43</li>
+            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 44</li>
+            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1801,8 +1803,8 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 23</li>
-            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 82</li>
+            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 19</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1820,11 +1822,13 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 10</li>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 21</li>
-            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 45</li>
-            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 84</li>
-            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 94</li>
+            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 5</li>
+            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 16</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 49</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 58</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 71</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 86</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1865,7 +1869,7 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 74</li>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1889,7 +1893,7 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anthem-emo" | relative_url }}">anthem emo</a> # 69</li>
+            <li> <a href="{{ "/tags/anthem-emo" | relative_url }}">anthem emo</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1907,7 +1911,7 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 99</li>
+            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1925,7 +1929,6 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1946,7 +1949,7 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skacore" | relative_url }}">skacore</a> # 54</li>
+            <li> <a href="{{ "/tags/skacore" | relative_url }}">skacore</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -2020,7 +2023,7 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anthem-emo" | relative_url }}">anthem emo</a> # 86</li>
+            <li> <a href="{{ "/tags/anthem-emo" | relative_url }}">anthem emo</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -2041,7 +2044,7 @@ Easycore blends pop punk&#39;s catchy melodies and upbeat energy with metalcore&
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anthem-emo" | relative_url }}">anthem emo</a> # 70</li>
+            <li> <a href="{{ "/tags/anthem-emo" | relative_url }}">anthem emo</a> # 29</li>
         </ul>
       </td>
     </tr>

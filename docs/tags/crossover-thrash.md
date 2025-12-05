@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T02:08:58.140Z
+date: 2025-12-05T07:46:24.124Z
 permalink: tags/crossover-thrash
 title: crossover thrash
 ---
 
 ## crossover thrash
 
-Last updated: <time datetime="2025-11-26T02:08:58.140Z">Wed Nov 26 2025 04:08:58 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T07:46:24.124Z">Fri Dec 05 2025 09:46:24 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -43,7 +43,7 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 97</li>
+            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -100,7 +100,7 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a> # 93</li>
+            <li> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -120,7 +120,7 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nyhc" | relative_url }}">nyhc</a> # 17</li>
+            <li> <a href="{{ "/tags/nyhc" | relative_url }}">nyhc</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -183,7 +183,7 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f187982a92eee30a6afe2b6654713d34.png" alt="Cover for Convicted" style="max-width:120px; height:auto;" />
       </td>
-      <td>1986-07</td>
+      <td>1986-07-26</td>
       <td>Cryptic Slaughter</td>
       <td>Convicted</td>
       <td>
@@ -193,7 +193,7 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 43</li>
+            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -220,7 +220,7 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3d40965b9ace1183c2b95e443e62b32e.png" alt="Cover for Crossover" style="max-width:120px; height:auto;" />
       </td>
-      <td>1987-03</td>
+      <td>1987-03-09</td>
       <td>D.R.I.</td>
       <td>Crossover</td>
       <td>
@@ -251,7 +251,7 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/street-punk" | relative_url }}">street punk</a> # 80</li>
+            <li> <a href="{{ "/tags/street-punk" | relative_url }}">street punk</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -273,7 +273,7 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 66</li>
+            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -295,7 +295,7 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nyhc" | relative_url }}">nyhc</a> # 92</li>
+            <li> <a href="{{ "/tags/nyhc" | relative_url }}">nyhc</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -303,7 +303,7 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       <td>66</td>
       <td>
       </td>
-      <td>1988</td>
+      <td>1988-06-22</td>
       <td>D.R.I.</td>
       <td>4 of a Kind</td>
       <td>
@@ -339,7 +339,7 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0aba4a363064657222c327484791ba00.png" alt="Cover for Thrash Zone" style="max-width:120px; height:auto;" />
       </td>
-      <td>1989</td>
+      <td>1989-10-10</td>
       <td>D.R.I.</td>
       <td>Thrash Zone</td>
       <td>
@@ -385,7 +385,7 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 9</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -462,7 +462,7 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/street-punk" | relative_url }}">street punk</a> # 34</li>
+            <li> <a href="{{ "/tags/street-punk" | relative_url }}">street punk</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -489,7 +489,7 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metallic-hardcore" | relative_url }}">metallic hardcore</a> # 35</li>
+            <li> <a href="{{ "/tags/metallic-hardcore" | relative_url }}">metallic hardcore</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -515,7 +515,7 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skate-punk" | relative_url }}">skate punk</a> # 13</li>
+            <li> <a href="{{ "/tags/skate-punk" | relative_url }}">skate punk</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -646,7 +646,7 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 17</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -762,30 +762,7 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 88</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>51</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5ea3106c1b118340bc5e73410aa69c44.png" alt="Cover for Toxic Waste" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2002</td>
-      <td>Municipal Waste</td>
-      <td>Toxic Waste</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
+            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -794,7 +771,7 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2138bc683e6a888a87db12b8dd3e58d5.png" alt="Cover for Waste &#39;em All" style="max-width:120px; height:auto;" />
       </td>
-      <td>2003</td>
+      <td>2003-01-27</td>
       <td>Municipal Waste</td>
       <td>Waste &#39;em All</td>
       <td>
@@ -804,7 +781,7 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 42</li>
+            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -826,7 +803,29 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 37</li>
+            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 64</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/78f1bd89a63818bade16735e8cfdc89a.png" alt="Cover for Dirty Rotten Hitz" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-03-09</td>
+      <td>D.R.I.</td>
+      <td>Dirty Rotten Hitz</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -853,7 +852,7 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a4f070d88e0586968806d625c17192bf.png" alt="Cover for Hazardous Mutation" style="max-width:120px; height:auto;" />
       </td>
-      <td>2005-09-20</td>
+      <td>2005-08-29</td>
       <td>Municipal Waste</td>
       <td>Hazardous Mutation</td>
       <td>
@@ -1068,7 +1067,7 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/old-school-thrash-metal" | relative_url }}">old school thrash metal</a> # 30</li>
+            <li> <a href="{{ "/tags/old-school-thrash-metal" | relative_url }}">old school thrash metal</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1143,7 +1142,6 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a></li>
@@ -1165,39 +1163,38 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 1</li>
-            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 2</li>
-            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 3</li>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 8</li>
-            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 9</li>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 16</li>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 22</li>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 30</li>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 39</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 42</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 44</li>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 48</li>
-            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 48</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 53</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 54</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 58</li>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 62</li>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 63</li>
-            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 63</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 66</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 66</li>
-            <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 67</li>
-            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 72</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 74</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 10</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 12</li>
+            <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 14</li>
+            <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 14</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 16</li>
+            <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 16</li>
+            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 18</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 27</li>
+            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 29</li>
+            <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 33</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 35</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 35</li>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 37</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 38</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 40</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 46</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 47</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 53</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 53</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 54</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 55</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 58</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 71</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 79</li>
             <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 81</li>
-            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 83</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 83</li>
-            <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 85</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 85</li>
-            <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 87</li>
-            <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 87</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 89</li>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 91</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 86</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 92</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 92</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 93</li>
+            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 97</li>
+            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1274,7 +1271,7 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 68</li>
+            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1288,6 +1285,29 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5ea3106c1b118340bc5e73410aa69c44.png" alt="Cover for Toxic Waste" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-06-12</td>
+      <td>Municipal Waste</td>
+      <td>Toxic Waste</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
         </ul>
       </td>
       <td>
@@ -1413,9 +1433,11 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 86</li>
-            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 91</li>
-            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 93</li>
+            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 1</li>
+            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 5</li>
+            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 6</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 62</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1454,7 +1476,7 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 66</li>
+            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1481,7 +1503,7 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       <td>
           <img src="https://i.discogs.com/8MQSrBFp4uKuQsbQNhMQC5_3TS80fitH6K00dEPnaVE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjkw/NTU3LTE1NTkwOTQ2/NDUtNjYwNS5qcGVn.jpeg" alt="Cover for But Wait... There&#39;s More!" style="max-width:120px; height:auto;" />
       </td>
-      <td>2016-05-05</td>
+      <td>2016-06-10</td>
       <td>D.R.I.</td>
       <td>But Wait... There&#39;s More!</td>
       <td>
@@ -1531,7 +1553,7 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 56</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1687,28 +1709,6 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>12</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/78f1bd89a63818bade16735e8cfdc89a.png" alt="Cover for Dirty Rotten Hitz" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2019</td>
-      <td>D.R.I.</td>
-      <td>Dirty Rotten Hitz</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
         </ul>
       </td>
@@ -1906,7 +1906,7 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 12</li>
+            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -2047,7 +2047,7 @@ Crossover thrash emerged in the 1980s by fusing hardcore punk&#39;s raw aggressi
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/83f05bf61a9bad265e28ff0e8f878e41.png" alt="Cover for Tango &amp; Thrash" style="max-width:120px; height:auto;" />
       </td>
-      <td>2024-05-24</td>
+      <td>2024-03-07</td>
       <td>Municipal Waste</td>
       <td>Tango &amp; Thrash</td>
       <td>

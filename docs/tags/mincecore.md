@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-23T00:16:16.546Z
+date: 2025-12-05T08:11:45.659Z
 permalink: tags/mincecore
 title: mincecore
 ---
 
 ## mincecore
 
-Last updated: <time datetime="2025-10-23T00:16:16.546Z">Thu Oct 23 2025 03:16:16 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-05T08:11:45.659Z">Fri Dec 05 2025 10:11:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -151,25 +151,6 @@ Mincecore is an extreme subgenre of grindcore characterized by ultra-short songs
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mincecore" | relative_url }}">mincecore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>73</td>
-      <td>
-          <img src="https://i.discogs.com/7--SWIItRW0cz4KnwHDG8mzyXXhHMtn9GH2lROu5czc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MTc2/LTE0ODUzMjczODQt/MTYyMi5qcGVn.jpeg" alt="Cover for Still Grind Attitude" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1996</td>
-      <td>S.O.B.</td>
-      <td>Still Grind Attitude</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mincecore" | relative_url }}">mincecore</a></li>
         </ul>
       </td>
       <td>
@@ -405,6 +386,25 @@ Mincecore is an extreme subgenre of grindcore characterized by ultra-short songs
       </td>
     </tr>
     <tr>
+      <td>73</td>
+      <td>
+          <img src="https://i.discogs.com/7--SWIItRW0cz4KnwHDG8mzyXXhHMtn9GH2lROu5czc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MTc2/LTE0ODUzMjczODQt/MTYyMi5qcGVn.jpeg" alt="Cover for Still Grind Attitude" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003-09-26</td>
+      <td>S.O.B.</td>
+      <td>Still Grind Attitude</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mincecore" | relative_url }}">mincecore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>33</td>
       <td>
           <img src="https://i.discogs.com/LBczc3q0GsigZi4GMQ3QW5zhtnxa2Aqmx4_mLuTNp-Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTQw/OTUtMTIzMjIyNjQ2/OS5qcGVn.jpeg" alt="Cover for Leng Tch&#39;e &#x2F; Warscars" style="max-width:120px; height:auto;" />
@@ -535,7 +535,7 @@ Mincecore is an extreme subgenre of grindcore characterized by ultra-short songs
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 3</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -615,7 +615,7 @@ Mincecore is an extreme subgenre of grindcore characterized by ultra-short songs
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 26</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1045,7 +1045,7 @@ Mincecore is an extreme subgenre of grindcore characterized by ultra-short songs
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 12</li>
+            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1328,7 +1328,7 @@ Mincecore is an extreme subgenre of grindcore characterized by ultra-short songs
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 25</li>
+            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1876,7 +1876,7 @@ Mincecore is an extreme subgenre of grindcore characterized by ultra-short songs
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 20</li>
+            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 81</li>
         </ul>
       </td>
     </tr>
