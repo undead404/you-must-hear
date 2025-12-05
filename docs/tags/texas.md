@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-25T20:42:13.210Z
+date: 2025-12-05T04:45:30.827Z
 permalink: tags/texas
 title: texas
 ---
 
 ## texas
 
-Last updated: <time datetime="2025-11-25T20:42:13.210Z">Tue Nov 25 2025 22:42:13 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T04:45:30.827Z">Fri Dec 05 2025 06:45:30 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -46,8 +46,8 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/honky-tonk" | relative_url }}">honky tonk</a> # 70</li>
-            <li> <a href="{{ "/tags/western-swing" | relative_url }}">western swing</a> # 89</li>
+            <li> <a href="{{ "/tags/western-swing" | relative_url }}">western swing</a> # 12</li>
+            <li> <a href="{{ "/tags/honky-tonk" | relative_url }}">honky tonk</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -69,8 +69,8 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/honky-tonk" | relative_url }}">honky tonk</a> # 57</li>
-            <li> <a href="{{ "/tags/western-swing" | relative_url }}">western swing</a> # 85</li>
+            <li> <a href="{{ "/tags/western-swing" | relative_url }}">western swing</a> # 16</li>
+            <li> <a href="{{ "/tags/honky-tonk" | relative_url }}">honky tonk</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -92,8 +92,8 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/honky-tonk" | relative_url }}">honky tonk</a> # 60</li>
-            <li> <a href="{{ "/tags/western-swing" | relative_url }}">western swing</a> # 86</li>
+            <li> <a href="{{ "/tags/western-swing" | relative_url }}">western swing</a> # 15</li>
+            <li> <a href="{{ "/tags/honky-tonk" | relative_url }}">honky tonk</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -116,8 +116,8 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/honky-tonk" | relative_url }}">honky tonk</a> # 46</li>
-            <li> <a href="{{ "/tags/western-swing" | relative_url }}">western swing</a> # 80</li>
+            <li> <a href="{{ "/tags/western-swing" | relative_url }}">western swing</a> # 21</li>
+            <li> <a href="{{ "/tags/honky-tonk" | relative_url }}">honky tonk</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -137,7 +137,7 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 41</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -157,7 +157,7 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/houston-rap" | relative_url }}">houston rap</a> # 80</li>
+            <li> <a href="{{ "/tags/houston-rap" | relative_url }}">houston rap</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -176,7 +176,7 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 69</li>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -216,7 +216,7 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/houston-rap" | relative_url }}">houston rap</a> # 90</li>
+            <li> <a href="{{ "/tags/houston-rap" | relative_url }}">houston rap</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -233,7 +233,7 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 5</li>
+            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -254,7 +254,7 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/houston-rap" | relative_url }}">houston rap</a> # 79</li>
+            <li> <a href="{{ "/tags/houston-rap" | relative_url }}">houston rap</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -315,7 +315,7 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/houston-rap" | relative_url }}">houston rap</a> # 91</li>
+            <li> <a href="{{ "/tags/houston-rap" | relative_url }}">houston rap</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -336,7 +336,7 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/houston-rap" | relative_url }}">houston rap</a> # 75</li>
+            <li> <a href="{{ "/tags/houston-rap" | relative_url }}">houston rap</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -356,7 +356,7 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/houston-rap" | relative_url }}">houston rap</a> # 85</li>
+            <li> <a href="{{ "/tags/houston-rap" | relative_url }}">houston rap</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -376,7 +376,7 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/houston-rap" | relative_url }}">houston rap</a> # 98</li>
+            <li> <a href="{{ "/tags/houston-rap" | relative_url }}">houston rap</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -419,7 +419,7 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/houston" | relative_url }}">houston</a> # 72</li>
+            <li> <a href="{{ "/tags/houston" | relative_url }}">houston</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -443,7 +443,7 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cajun" | relative_url }}">cajun</a> # 93</li>
+            <li> <a href="{{ "/tags/cajun" | relative_url }}">cajun</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -465,8 +465,8 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/honky-tonk" | relative_url }}">honky tonk</a> # 79</li>
-            <li> <a href="{{ "/tags/western-swing" | relative_url }}">western swing</a> # 93</li>
+            <li> <a href="{{ "/tags/western-swing" | relative_url }}">western swing</a> # 8</li>
+            <li> <a href="{{ "/tags/honky-tonk" | relative_url }}">honky tonk</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -503,7 +503,7 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 66</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -524,7 +524,7 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/houston-rap" | relative_url }}">houston rap</a> # 81</li>
+            <li> <a href="{{ "/tags/houston-rap" | relative_url }}">houston rap</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -565,9 +565,9 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 47</li>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 57</li>
-            <li> <a href="{{ "/tags/houston" | relative_url }}">houston</a> # 92</li>
+            <li> <a href="{{ "/tags/houston" | relative_url }}">houston</a> # 9</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 44</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -588,8 +588,8 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 3</li>
-            <li> <a href="{{ "/tags/houston-rap" | relative_url }}">houston rap</a> # 78</li>
+            <li> <a href="{{ "/tags/houston-rap" | relative_url }}">houston rap</a> # 23</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -612,7 +612,7 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/houston" | relative_url }}">houston</a> # 68</li>
+            <li> <a href="{{ "/tags/houston" | relative_url }}">houston</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -657,9 +657,9 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 18</li>
-            <li> <a href="{{ "/tags/houston" | relative_url }}">houston</a> # 77</li>
-            <li> <a href="{{ "/tags/houston-rap" | relative_url }}">houston rap</a> # 89</li>
+            <li> <a href="{{ "/tags/houston-rap" | relative_url }}">houston rap</a> # 12</li>
+            <li> <a href="{{ "/tags/houston" | relative_url }}">houston</a> # 24</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -716,7 +716,7 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/street-punk" | relative_url }}">street punk</a> # 61</li>
+            <li> <a href="{{ "/tags/street-punk" | relative_url }}">street punk</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -759,9 +759,9 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 53</li>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 64</li>
-            <li> <a href="{{ "/tags/houston" | relative_url }}">houston</a> # 95</li>
+            <li> <a href="{{ "/tags/houston" | relative_url }}">houston</a> # 6</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 37</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -780,7 +780,7 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/western-swing" | relative_url }}">western swing</a> # 78</li>
+            <li> <a href="{{ "/tags/western-swing" | relative_url }}">western swing</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -819,7 +819,7 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/houston-rap" | relative_url }}">houston rap</a> # 88</li>
+            <li> <a href="{{ "/tags/houston-rap" | relative_url }}">houston rap</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -858,7 +858,7 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/houston-rap" | relative_url }}">houston rap</a> # 94</li>
+            <li> <a href="{{ "/tags/houston-rap" | relative_url }}">houston rap</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -878,7 +878,7 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chopped-and-screwed" | relative_url }}">chopped and screwed</a> # 78</li>
+            <li> <a href="{{ "/tags/chopped-and-screwed" | relative_url }}">chopped and screwed</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -898,7 +898,7 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/houston-rap" | relative_url }}">houston rap</a> # 82</li>
+            <li> <a href="{{ "/tags/houston-rap" | relative_url }}">houston rap</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -936,7 +936,7 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 42</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -956,7 +956,7 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/houston-rap" | relative_url }}">houston rap</a> # 99</li>
+            <li> <a href="{{ "/tags/houston-rap" | relative_url }}">houston rap</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -995,7 +995,7 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/houston-rap" | relative_url }}">houston rap</a> # 87</li>
+            <li> <a href="{{ "/tags/houston-rap" | relative_url }}">houston rap</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1065,9 +1065,9 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 9</li>
-            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 11</li>
             <li> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a> # 61</li>
+            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 90</li>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1088,7 +1088,7 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/houston-rap" | relative_url }}">houston rap</a> # 100</li>
+            <li> <a href="{{ "/tags/houston-rap" | relative_url }}">houston rap</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -1127,8 +1127,8 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/houston" | relative_url }}">houston</a> # 76</li>
-            <li> <a href="{{ "/tags/austin" | relative_url }}">austin</a> # 90</li>
+            <li> <a href="{{ "/tags/austin" | relative_url }}">austin</a> # 11</li>
+            <li> <a href="{{ "/tags/houston" | relative_url }}">houston</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1149,7 +1149,7 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 16</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1228,7 +1228,7 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/houston-rap" | relative_url }}">houston rap</a> # 77</li>
+            <li> <a href="{{ "/tags/houston-rap" | relative_url }}">houston rap</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1308,7 +1308,7 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/houston-rap" | relative_url }}">houston rap</a> # 93</li>
+            <li> <a href="{{ "/tags/houston-rap" | relative_url }}">houston rap</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1373,9 +1373,9 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 58</li>
-            <li> <a href="{{ "/tags/austin" | relative_url }}">austin</a> # 94</li>
-            <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 96</li>
+            <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 5</li>
+            <li> <a href="{{ "/tags/austin" | relative_url }}">austin</a> # 7</li>
+            <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1398,9 +1398,9 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 50</li>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 53</li>
-            <li> <a href="{{ "/tags/houston-rap" | relative_url }}">houston rap</a> # 95</li>
+            <li> <a href="{{ "/tags/houston-rap" | relative_url }}">houston rap</a> # 6</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 48</li>
+            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1445,7 +1445,7 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/houston" | relative_url }}">houston</a> # 69</li>
+            <li> <a href="{{ "/tags/houston" | relative_url }}">houston</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1485,7 +1485,7 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/houston" | relative_url }}">houston</a> # 70</li>
+            <li> <a href="{{ "/tags/houston" | relative_url }}">houston</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1507,7 +1507,7 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/austin" | relative_url }}">austin</a> # 85</li>
+            <li> <a href="{{ "/tags/austin" | relative_url }}">austin</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1530,7 +1530,7 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/austin" | relative_url }}">austin</a> # 96</li>
+            <li> <a href="{{ "/tags/austin" | relative_url }}">austin</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1589,7 +1589,7 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 45</li>
+            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1637,7 +1637,7 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/austin" | relative_url }}">austin</a> # 89</li>
+            <li> <a href="{{ "/tags/austin" | relative_url }}">austin</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -1659,7 +1659,7 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/austin" | relative_url }}">austin</a> # 87</li>
+            <li> <a href="{{ "/tags/austin" | relative_url }}">austin</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1701,7 +1701,7 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/houston-rap" | relative_url }}">houston rap</a> # 96</li>
+            <li> <a href="{{ "/tags/houston-rap" | relative_url }}">houston rap</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1719,7 +1719,7 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 10</li>
+            <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1746,7 +1746,7 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 19</li>
+            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1770,7 +1770,7 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/austin" | relative_url }}">austin</a> # 99</li>
+            <li> <a href="{{ "/tags/austin" | relative_url }}">austin</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -1874,8 +1874,8 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 23</li>
-            <li> <a href="{{ "/tags/austin" | relative_url }}">austin</a> # 100</li>
+            <li> <a href="{{ "/tags/austin" | relative_url }}">austin</a> # 1</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1915,7 +1915,7 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 28</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1936,8 +1936,8 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 33</li>
-            <li> <a href="{{ "/tags/houston" | relative_url }}">houston</a> # 82</li>
+            <li> <a href="{{ "/tags/houston" | relative_url }}">houston</a> # 19</li>
+            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1960,7 +1960,7 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 34</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1983,7 +1983,7 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 68</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -2001,7 +2001,7 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 54</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -2024,7 +2024,7 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 79</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -2047,7 +2047,7 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 99</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -2088,7 +2088,7 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 71</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -2111,7 +2111,7 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 73</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 28</li>
         </ul>
       </td>
     </tr>

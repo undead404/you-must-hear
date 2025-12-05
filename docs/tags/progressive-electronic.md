@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-24T04:34:38.014Z
+date: 2025-12-05T04:58:16.032Z
 permalink: tags/progressive-electronic
 title: progressive electronic
 ---
 
 ## progressive electronic
 
-Last updated: <time datetime="2025-11-24T04:34:38.014Z">Mon Nov 24 2025 06:34:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T04:58:16.032Z">Fri Dec 05 2025 06:58:16 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -78,7 +78,7 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/berlin-school" | relative_url }}">berlin school</a> # 81</li>
+            <li> <a href="{{ "/tags/berlin-school" | relative_url }}">berlin school</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -98,8 +98,8 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 83</li>
-            <li> <a href="{{ "/tags/berlin-school" | relative_url }}">berlin school</a> # 96</li>
+            <li> <a href="{{ "/tags/berlin-school" | relative_url }}">berlin school</a> # 5</li>
+            <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -118,7 +118,7 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 100</li>
+            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -139,15 +139,15 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 80</li>
-            <li> <a href="{{ "/tags/berlin-school" | relative_url }}">berlin school</a> # 93</li>
+            <li> <a href="{{ "/tags/berlin-school" | relative_url }}">berlin school</a> # 8</li>
+            <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 21</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>57</td>
       <td>
-          <img src="https://i.discogs.com/9xr7vZYy2hVVeAi-h7gEVQE8USQw_pArlLyFLPDbA34/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNzQy/Mi0xMzQ2NDAxNzYw/LTc5NjAuanBlZw.jpeg" alt="Cover for Heaven &amp; Hell" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad58e159e3dc42e8c25daaef11d013ed.png" alt="Cover for Heaven &amp; Hell" style="max-width:120px; height:auto;" />
       </td>
       <td>1977</td>
       <td>Vangelis</td>
@@ -183,7 +183,7 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 48</li>
+            <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -223,7 +223,7 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 94</li>
+            <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -243,8 +243,8 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/proto-vaporwave" | relative_url }}">proto-vaporwave</a> # 76</li>
-            <li> <a href="{{ "/tags/berlin-school" | relative_url }}">berlin school</a> # 92</li>
+            <li> <a href="{{ "/tags/berlin-school" | relative_url }}">berlin school</a> # 9</li>
+            <li> <a href="{{ "/tags/proto-vaporwave" | relative_url }}">proto-vaporwave</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -286,8 +286,8 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 67</li>
-            <li> <a href="{{ "/tags/berlin-school" | relative_url }}">berlin school</a> # 91</li>
+            <li> <a href="{{ "/tags/berlin-school" | relative_url }}">berlin school</a> # 10</li>
+            <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -305,7 +305,7 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 95</li>
+            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -390,9 +390,9 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 37</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 60</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 63</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 38</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 41</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 63</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 63</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 63</li>
         </ul>
@@ -494,9 +494,9 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 14</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 36</li>
-            <li> <a href="{{ "/tags/berlin-school" | relative_url }}">berlin school</a> # 97</li>
+            <li> <a href="{{ "/tags/berlin-school" | relative_url }}">berlin school</a> # 4</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 63</li>
+            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -534,7 +534,7 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 75</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -596,8 +596,8 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 90</li>
-            <li> <a href="{{ "/tags/berlin-school" | relative_url }}">berlin school</a> # 98</li>
+            <li> <a href="{{ "/tags/berlin-school" | relative_url }}">berlin school</a> # 3</li>
+            <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -655,6 +655,7 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -679,10 +680,10 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 57</li>
-            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 73</li>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 78</li>
-            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 93</li>
+            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 8</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 23</li>
+            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 28</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -739,7 +740,7 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 100</li>
+            <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -820,8 +821,8 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 97</li>
-            <li> <a href="{{ "/tags/berlin-school" | relative_url }}">berlin school</a> # 100</li>
+            <li> <a href="{{ "/tags/berlin-school" | relative_url }}">berlin school</a> # 1</li>
+            <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -857,8 +858,8 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 20</li>
-            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 92</li>
+            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 9</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -880,7 +881,7 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 79</li>
+            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -941,7 +942,7 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 46</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -985,9 +986,9 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 58</li>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 59</li>
-            <li> <a href="{{ "/tags/dungeon-synth" | relative_url }}">dungeon synth</a> # 84</li>
+            <li> <a href="{{ "/tags/dungeon-synth" | relative_url }}">dungeon synth</a> # 17</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 40</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1028,7 +1029,7 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 60</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1047,9 +1048,9 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 81</li>
-            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 82</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 91</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 10</li>
+            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 19</li>
+            <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1071,7 +1072,7 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/berlin-school" | relative_url }}">berlin school</a> # 95</li>
+            <li> <a href="{{ "/tags/berlin-school" | relative_url }}">berlin school</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -1117,8 +1118,8 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 39</li>
-            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 100</li>
+            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 1</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1140,7 +1141,7 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 64</li>
+            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1161,8 +1162,8 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 32</li>
-            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 83</li>
+            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 18</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1184,8 +1185,8 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 84</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 90</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 11</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1226,8 +1227,8 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 24</li>
-            <li> <a href="{{ "/tags/berlin-school" | relative_url }}">berlin school</a> # 99</li>
+            <li> <a href="{{ "/tags/berlin-school" | relative_url }}">berlin school</a> # 2</li>
+            <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1250,9 +1251,9 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 88</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 92</li>
-            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 100</li>
+            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 1</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 9</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1309,7 +1310,7 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 17</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1329,7 +1330,7 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 53</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1355,9 +1356,9 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 25</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 64</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 67</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 34</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 35</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1397,8 +1398,8 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 89</li>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 98</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 3</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1422,8 +1423,8 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 89</li>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 93</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 8</li>
+            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -1444,7 +1445,7 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 67</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1501,7 +1502,7 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 84</li>
+            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1525,9 +1526,9 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 13</li>
-            <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 75</li>
-            <li> <a href="{{ "/tags/berlin-school" | relative_url }}">berlin school</a> # 94</li>
+            <li> <a href="{{ "/tags/berlin-school" | relative_url }}">berlin school</a> # 7</li>
+            <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 26</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1553,8 +1554,9 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 39</li>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 74</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 27</li>
+            <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 62</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1579,8 +1581,8 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 11</li>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 55</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 46</li>
+            <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1603,7 +1605,7 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 90</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1632,7 +1634,7 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
     <tr>
       <td>92</td>
       <td>
-          <img src="https://i.discogs.com/isU-gQyRls1b3_2IJmy4CGDnSi6mijvXr6qYBvaVNTQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyODM1/MzYtMTM2MDYzNzQ4/NS04ODQwLmpwZWc.jpeg" alt="Cover for The Consuming Flame: Open Exercises in Group Form" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d7fd19682504f8b1cde8edc5042a054d.png" alt="Cover for The Consuming Flame: Open Exercises in Group Form" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-08-21</td>
       <td>Matmos</td>
@@ -1651,11 +1653,12 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 67</li>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 88</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 93</li>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 96</li>
-            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 99</li>
+            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 2</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 5</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 8</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 13</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 32</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1679,9 +1682,9 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 64</li>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 83</li>
-            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 88</li>
+            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 13</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 18</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1741,9 +1744,10 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 10</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 75</li>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 89</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 12</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 24</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 83</li>
+            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1761,7 +1765,7 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 32</li>
+            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1802,7 +1806,7 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 77</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1823,8 +1827,8 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 27</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 32</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 65</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1848,8 +1852,8 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 92</li>
-            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 94</li>
+            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 7</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1867,7 +1871,7 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 99</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1892,14 +1896,14 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 48</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>6</td>
       <td>
-          <img src="https://i.discogs.com/_oZ_P2BmA__NPlvkw_SuyhWpDMoF7HVOHhFGoPFPkbA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTYw/ODE1LTE2NTIwNDk5/MjktNDk3OS5qcGVn.jpeg" alt="Cover for Opal" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7fef1d53cc95af1fa5ab27af0f8bcf31.png" alt="Cover for Opal" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-04-29</td>
       <td>Batu</td>
@@ -1914,7 +1918,7 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/broken-beat" | relative_url }}">broken beat</a> # 75</li>
+            <li> <a href="{{ "/tags/broken-beat" | relative_url }}">broken beat</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1940,11 +1944,11 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 49</li>
-            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 61</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 76</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 83</li>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 84</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 16</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 17</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 23</li>
+            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 40</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1985,7 +1989,7 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 6</li>
+            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -2011,9 +2015,9 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 69</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 81</li>
-            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 98</li>
+            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 3</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 20</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -2035,7 +2039,7 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 17</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -2057,8 +2061,8 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 55</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 91</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 10</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -2083,7 +2087,7 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 15</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -2107,10 +2111,10 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 63</li>
-            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 81</li>
-            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 87</li>
-            <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 99</li>
+            <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 2</li>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 14</li>
+            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 20</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -2136,9 +2140,9 @@ Progressive electronic is an experimental genre that pushes the boundaries of sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 28</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 87</li>
-            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 93</li>
+            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 8</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 14</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 70</li>
         </ul>
       </td>
     </tr>
