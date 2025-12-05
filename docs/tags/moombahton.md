@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-11T05:03:40.486Z
+date: 2025-12-05T09:07:39.109Z
 permalink: tags/moombahton
 title: moombahton
 ---
 
 ## moombahton
 
-Last updated: <time datetime="2025-11-11T05:03:40.486Z">Tue Nov 11 2025 07:03:40 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T09:07:39.109Z">Fri Dec 05 2025 11:07:39 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -69,7 +69,7 @@ Moombahton is a electronic dance music genre that fuses reggaeton&#39;s distinct
     <tr>
       <td>44</td>
       <td>
-          <img src="https://i.discogs.com/SMUlNUcNmO87DErJvahfAinECeJ4q41PG6j-4rqVjTI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzkx/NjU4LTE1OTA3Nzcx/OTAtMjQzMi5qcGVn.jpeg" alt="Cover for Bananas EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bde08fc566fa4d5681b890bb2da401ac.png" alt="Cover for Bananas EP" style="max-width:120px; height:auto;" />
       </td>
       <td>1974</td>
       <td>John DOGgett</td>
@@ -111,7 +111,7 @@ Moombahton is a electronic dance music genre that fuses reggaeton&#39;s distinct
     <tr>
       <td>59</td>
       <td>
-          <img src="https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg" alt="Cover for r&#x2F;electrohouse homegrown: vol. 1, mixed by CATALUXX" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c9a1aa5fa3894c44a47715b293b23a38.png" alt="Cover for r&#x2F;electrohouse homegrown: vol. 1, mixed by CATALUXX" style="max-width:120px; height:auto;" />
       </td>
       <td>1980-08</td>
       <td>Various Artists</td>
@@ -188,7 +188,7 @@ Moombahton is a electronic dance music genre that fuses reggaeton&#39;s distinct
     <tr>
       <td>76</td>
       <td>
-          <img src="https://i.discogs.com/Wxy4QmP02NfpEVn1dY7QKdr2QE3D-4wL39vt8weue08/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjM3/ODAtMTUwODE2Nzk1/OC03MTAyLmpwZWc.jpeg" alt="Cover for Moombahton Promo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/21cf0d4d975d0a2dd01b762a0fdd8d00.png" alt="Cover for Moombahton Promo" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-04-19</td>
       <td>Munchi</td>
@@ -244,7 +244,7 @@ Moombahton is a electronic dance music genre that fuses reggaeton&#39;s distinct
     <tr>
       <td>74</td>
       <td>
-          <img src="https://i.discogs.com/PE8lviB1u9b0b5P0SjdhsGUOUnPTTQg9k1NmEjYsssc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjc1/MTQtMTMxODgwNTIx/NC5qcGVn.jpeg" alt="Cover for Badam" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/74a28aa7ed4273ba604853c1edbb35f8.png" alt="Cover for Badam" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-10-10</td>
       <td>Hardwell</td>
@@ -263,7 +263,7 @@ Moombahton is a electronic dance music genre that fuses reggaeton&#39;s distinct
     <tr>
       <td>7</td>
       <td>
-          <img src="https://i.discogs.com/g3kDxK2X_w-g9J1b5eaoJn9iW3auMy-c_rxh0gRffjQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MjEy/NDctMTM3MzM5Nzcy/Ny01NzQ5LmpwZWc.jpeg" alt="Cover for I Am Sarah Young" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e96d45b3e79444f8bcb876c686e9eb75.png" alt="Cover for I Am Sarah Young" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Sarah Young</td>
@@ -303,6 +303,7 @@ Moombahton is a electronic dance music genre that fuses reggaeton&#39;s distinct
     <tr>
       <td>92</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a6b0304a1f074c6393a4bece72c47e99.png" alt="Cover for Something, Something, Awesome." style="max-width:120px; height:auto;" />
       </td>
       <td>2012-02-14</td>
       <td>Dillon Francis</td>
@@ -313,7 +314,7 @@ Moombahton is a electronic dance music genre that fuses reggaeton&#39;s distinct
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 4</li>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -338,7 +339,7 @@ Moombahton is a electronic dance music genre that fuses reggaeton&#39;s distinct
     <tr>
       <td>30</td>
       <td>
-          <img src="https://i.discogs.com/zlQWlf7ZwNegJGNAtqi30rkm_bTVIwWzNViFQ-yfzIA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjQx/OTEwLTE1MTk5MDkw/NDYtMzA0OC5qcGVn.jpeg" alt="Cover for Planckton EP #1" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0fcf1700e9834dec8a10209df4f5534d.png" alt="Cover for Planckton EP #1" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-06-22</td>
       <td>andykisaragi</td>
@@ -378,7 +379,6 @@ Moombahton is a electronic dance music genre that fuses reggaeton&#39;s distinct
     <tr>
       <td>24</td>
       <td>
-          <img src="https://i.discogs.com/jqvcrNFgNZimWKNP1WmuqysynYXuPOMpNhH2JJvEbvA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjQx/ODkzLTE1MTk5MDg4/NDAtOTg5MS5qcGVn.jpeg" alt="Cover for Planckton EP #2" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-01-07</td>
       <td>andykisaragi</td>
@@ -435,6 +435,7 @@ Moombahton is a electronic dance music genre that fuses reggaeton&#39;s distinct
     <tr>
       <td>84</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4829f4e0c43e4633a032d635b243a4ab.png" alt="Cover for There Goes Your Money" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-05-27</td>
       <td>Virtual Riot</td>
@@ -451,9 +452,9 @@ Moombahton is a electronic dance music genre that fuses reggaeton&#39;s distinct
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 30</li>
-            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 70</li>
-            <li> <a href="{{ "/tags/drumstep" | relative_url }}">drumstep</a> # 81</li>
+            <li> <a href="{{ "/tags/drumstep" | relative_url }}">drumstep</a> # 20</li>
+            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 31</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -505,6 +506,7 @@ Moombahton is a electronic dance music genre that fuses reggaeton&#39;s distinct
     <tr>
       <td>91</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa82f0d350c64d8bbe0e3bd61f949da1.png" alt="Cover for Brand New Machine" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-10-07</td>
       <td>Chase &amp; Status</td>
@@ -520,8 +522,8 @@ Moombahton is a electronic dance music genre that fuses reggaeton&#39;s distinct
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 11</li>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 80</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 20</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -543,7 +545,7 @@ Moombahton is a electronic dance music genre that fuses reggaeton&#39;s distinct
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 32</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -562,7 +564,8 @@ Moombahton is a electronic dance music genre that fuses reggaeton&#39;s distinct
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 47</li>
+            <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 57</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -586,14 +589,14 @@ Moombahton is a electronic dance music genre that fuses reggaeton&#39;s distinct
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 13</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>81</td>
       <td>
-          <img src="https://i.discogs.com/PfcmPjE9qqQHEJ0FYmk4ui04xobiXBkOnKq0oOpuRW4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMTQ4/MjktMTQxNjI1NTQz/NC03OTAxLmpwZWc.jpeg" alt="Cover for Tchum Tchah" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0b064e19376194a899423d83d0ab1968.png" alt="Cover for Tchum Tchah" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-05-16</td>
       <td>Tropkillaz</td>
@@ -663,7 +666,7 @@ Moombahton is a electronic dance music genre that fuses reggaeton&#39;s distinct
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 1</li>
+            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -721,8 +724,8 @@ Moombahton is a electronic dance music genre that fuses reggaeton&#39;s distinct
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 1</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 6</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 88</li>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -824,7 +827,7 @@ Moombahton is a electronic dance music genre that fuses reggaeton&#39;s distinct
     <tr>
       <td>88</td>
       <td>
-          <img src="https://i.discogs.com/jXRossfMpfjLvXEMxA0W1sH4PSwD_aPYPghmhNkJo1o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5OTE1/NzgtMTQ3Mjg5NTkz/Mi05OTU4LmpwZWc.jpeg" alt="Cover for Wat The Frick EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/87a19673be82b54de41d366b94353991.png" alt="Cover for Wat The Frick EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-09-02</td>
       <td>Getter</td>
@@ -840,7 +843,7 @@ Moombahton is a electronic dance music genre that fuses reggaeton&#39;s distinct
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 26</li>
+            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -865,7 +868,7 @@ Moombahton is a electronic dance music genre that fuses reggaeton&#39;s distinct
     <tr>
       <td>39</td>
       <td>
-          <img src="https://i.discogs.com/nsjHsMU6zV4ZUGedRWJf2szWCDJVBUfvsN0twKBui2E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzEz/NTk0LTE1NTk1NzU3/MzktODA0OC53ZWJw.jpeg" alt="Cover for Overrated" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2d907633ce8deaac5cd029ea80f7b1bb.png" alt="Cover for Overrated" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-12-30</td>
       <td>Meroshi</td>
@@ -899,7 +902,7 @@ Moombahton is a electronic dance music genre that fuses reggaeton&#39;s distinct
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 75</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -997,7 +1000,7 @@ Moombahton is a electronic dance music genre that fuses reggaeton&#39;s distinct
     <tr>
       <td>43</td>
       <td>
-          <img src="https://i.discogs.com/Z5_tY36w7jGvKv5MVxE6pBVKaAKbM268tCHlpzWEJ64/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDU5/Mjk5LTE1MDkxMDE3/OTktNTg4Mi5qcGVn.jpeg" alt="Cover for Do You Like Bass? (Remixes)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/77d86ff81f0408de6b3fe2528b993c0a.png" alt="Cover for Do You Like Bass? (Remixes)" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-10-10</td>
       <td>Yellow Claw &amp; Juyen Sebulba</td>
@@ -1038,7 +1041,7 @@ Moombahton is a electronic dance music genre that fuses reggaeton&#39;s distinct
     <tr>
       <td>13</td>
       <td>
-          <img src="https://i.discogs.com/TevfDUf-I5WHaFv-gSJO0lFKca4QR0m1Vlx_9ze6X3g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzk0/ODY2LTE2NDI1NDk1/OTgtNTQwMC5qcGVn.jpeg" alt="Cover for Tetriss" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4cad7c53a050aae78c9f18495e8da334.png" alt="Cover for Tetriss" style="max-width:120px; height:auto;" />
       </td>
       <td>2018</td>
       <td>AudioTrackerz</td>
@@ -1053,14 +1056,14 @@ Moombahton is a electronic dance music genre that fuses reggaeton&#39;s distinct
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 4</li>
+            <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>2</td>
       <td>
-          <img src="https://i.discogs.com/TevfDUf-I5WHaFv-gSJO0lFKca4QR0m1Vlx_9ze6X3g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzk0/ODY2LTE2NDI1NDk1/OTgtNTQwMC5qcGVn.jpeg" alt="Cover for Let&#39;s Bounce" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/70205a9e92bdf52e7b68196aa4a505e7.png" alt="Cover for Let&#39;s Bounce" style="max-width:120px; height:auto;" />
       </td>
       <td>2018</td>
       <td>AudioTrackerz</td>
@@ -1081,7 +1084,7 @@ Moombahton is a electronic dance music genre that fuses reggaeton&#39;s distinct
     <tr>
       <td>3</td>
       <td>
-          <img src="https://i.discogs.com/TevfDUf-I5WHaFv-gSJO0lFKca4QR0m1Vlx_9ze6X3g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzk0/ODY2LTE2NDI1NDk1/OTgtNTQwMC5qcGVn.jpeg" alt="Cover for Wobble Box" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/988a9de33dbb6c4ceef9c190e41477ef.png" alt="Cover for Wobble Box" style="max-width:120px; height:auto;" />
       </td>
       <td>2018</td>
       <td>AudioTrackerz</td>
@@ -1102,7 +1105,7 @@ Moombahton is a electronic dance music genre that fuses reggaeton&#39;s distinct
     <tr>
       <td>11</td>
       <td>
-          <img src="https://i.discogs.com/TevfDUf-I5WHaFv-gSJO0lFKca4QR0m1Vlx_9ze6X3g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzk0/ODY2LTE2NDI1NDk1/OTgtNTQwMC5qcGVn.jpeg" alt="Cover for Go Hard" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2090109ea4347d4afcbff6c78ed9c756.png" alt="Cover for Go Hard" style="max-width:120px; height:auto;" />
       </td>
       <td>2018</td>
       <td>AudioTrackerz</td>
@@ -1159,7 +1162,7 @@ Moombahton is a electronic dance music genre that fuses reggaeton&#39;s distinct
     <tr>
       <td>32</td>
       <td>
-          <img src="https://i.discogs.com/VaZAqOPSsIbY9U9Seysws5ESGj0xuJ3zyuATlyC9Esc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTUz/MDc2LTE1MTgzNzc4/MDMtNTI0NC5qcGVn.jpeg" alt="Cover for Death To Genres Vol. 3" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2341913ef7594e0b49feaf988749bbcf.png" alt="Cover for Death To Genres Vol. 3" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-02-09</td>
       <td>GTA</td>
@@ -1254,7 +1257,7 @@ Moombahton is a electronic dance music genre that fuses reggaeton&#39;s distinct
     <tr>
       <td>26</td>
       <td>
-          <img src="https://i.discogs.com/XpVm04Xk2k1jNJ42KcMi6yztT3S2f_wC4NZiZeafleg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTU2/Mzg0LTE1MjU0NDI2/ODgtODAyNi5qcGVn.jpeg" alt="Cover for Return of the Kings" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2fe7efe0ded76e9970ce5641f3a4bbbb.png" alt="Cover for Return of the Kings" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-05-11</td>
       <td>BAD ROYALE</td>
@@ -1273,7 +1276,7 @@ Moombahton is a electronic dance music genre that fuses reggaeton&#39;s distinct
     <tr>
       <td>53</td>
       <td>
-          <img src="https://i.discogs.com/VYtoJHyv7MkwjvBmBV8fDVE9PLOy35qD_oerBPAMdLQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTkz/NDMxLTE1MzAxODcz/MTUtNDEwNS5qcGVn.jpeg" alt="Cover for Rooftop Party" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2cd1c078f8208c5b616a0cd8478bf874.png" alt="Cover for Rooftop Party" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-06-22</td>
       <td>Swanky Tunes</td>
@@ -1310,7 +1313,7 @@ Moombahton is a electronic dance music genre that fuses reggaeton&#39;s distinct
     <tr>
       <td>68</td>
       <td>
-          <img src="https://i.discogs.com/XX4K4QnrWXCtVOxvIGrgc6Shh2ICIpihd_ZyQBeHZEo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODAy/NjI5LTE1NDIyMzM2/NjgtMTA0OS5wbmc.jpeg" alt="Cover for Nasty" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/072de23cafd4e865063de5160bb12e1c.png" alt="Cover for Nasty" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-08-24</td>
       <td>Nafthaly Ramona</td>
@@ -1329,7 +1332,7 @@ Moombahton is a electronic dance music genre that fuses reggaeton&#39;s distinct
     <tr>
       <td>57</td>
       <td>
-          <img src="https://i.discogs.com/O-ZMTYYBWV7wB2UNBSgdrcryw_YpTPuzQPyKFQ8tM7I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzg1/OTYwLTE1NjEwODI1/NTYtMTM1NS5qcGVn.jpeg" alt="Cover for Threat" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7eb26f3d6552691d35a5ef3504c9dcc2.png" alt="Cover for Threat" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-10-09</td>
       <td>Downlink</td>
@@ -1349,7 +1352,7 @@ Moombahton is a electronic dance music genre that fuses reggaeton&#39;s distinct
     <tr>
       <td>72</td>
       <td>
-          <img src="https://i.discogs.com/d5HJ9WLuOZpU5HBkySivV7uS3eYztFXK2hhbcvkwaUY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTIw/NjkzLTE2MjM1NDMx/MDAtNzczMC5qcGVn.jpeg" alt="Cover for La Nueva Clásica" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c709690a200a946de3d15cb663a85d4.png" alt="Cover for La Nueva Clásica" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-10-19</td>
       <td>GTA</td>
@@ -1404,7 +1407,7 @@ Moombahton is a electronic dance music genre that fuses reggaeton&#39;s distinct
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-rapper" | relative_url }}">female rapper</a> # 100</li>
+            <li> <a href="{{ "/tags/female-rapper" | relative_url }}">female rapper</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -1468,7 +1471,7 @@ Moombahton is a electronic dance music genre that fuses reggaeton&#39;s distinct
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 73</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1578,13 +1581,14 @@ Moombahton is a electronic dance music genre that fuses reggaeton&#39;s distinct
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bounce" | relative_url }}">bounce</a> # 21</li>
+            <li> <a href="{{ "/tags/bounce" | relative_url }}">bounce</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>50</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bae86e14cea5343726b2af9f7c697ce2.png" alt="Cover for Hold On EP (Remixes)" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Amerzone</td>
@@ -1599,7 +1603,7 @@ Moombahton is a electronic dance music genre that fuses reggaeton&#39;s distinct
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/riddim" | relative_url }}">riddim</a> # 33</li>
+            <li> <a href="{{ "/tags/riddim" | relative_url }}">riddim</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1624,7 +1628,7 @@ Moombahton is a electronic dance music genre that fuses reggaeton&#39;s distinct
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a> # 17</li>
+            <li> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1910,6 +1914,7 @@ Moombahton is a electronic dance music genre that fuses reggaeton&#39;s distinct
     <tr>
       <td>51</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/505985a5fe879365d6cd9c90b361b23c.png" alt="Cover for Clockwork" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Bro Safari &amp; UFO!</td>

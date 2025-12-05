@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-24T07:00:37.971Z
+date: 2025-12-05T09:35:19.100Z
 permalink: tags/american-idol
 title: american idol
 ---
 
 ## american idol
 
-Last updated: <time datetime="2025-11-24T07:00:37.971Z">Mon Nov 24 2025 09:00:37 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T09:35:19.100Z">Fri Dec 05 2025 11:35:19 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -434,8 +434,8 @@ American Idol represents a commercially-driven pop style that emerged from the r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 20</li>
-            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 70</li>
+            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 25</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -749,7 +749,7 @@ American Idol represents a commercially-driven pop style that emerged from the r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 56</li>
+            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -994,7 +994,7 @@ American Idol represents a commercially-driven pop style that emerged from the r
     <tr>
       <td>74</td>
       <td>
-          <img src="https://i.discogs.com/w3mC595c-g1yyhZzzXaaHsLoai8MyD6StoOnqliXZMw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODA1/Njk3LTE1OTgxMjYy/NjQtMjI3NC5wbmc.jpeg" alt="Cover for American Idol 2008" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fdf83956425044d1aa31fab433e3e334.png" alt="Cover for American Idol 2008" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-06-04</td>
       <td>David Archuleta</td>
@@ -1200,7 +1200,7 @@ American Idol represents a commercially-driven pop style that emerged from the r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 92</li>
+            <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1246,6 +1246,7 @@ American Idol represents a commercially-driven pop style that emerged from the r
     <tr>
       <td>93</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8b59f097b4d24e62b97ca298d63a7a8d.png" alt="Cover for Live It Up" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-11-16</td>
       <td>Lee DeWyze</td>
@@ -1353,13 +1354,14 @@ American Idol represents a commercially-driven pop style that emerged from the r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-country" | relative_url }}">classic country</a> # 75</li>
+            <li> <a href="{{ "/tags/classic-country" | relative_url }}">classic country</a> # 26</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>90</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d21c26438c855e7712de80ec60815a3a.png" alt="Cover for Never Close Our Eyes" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-04-16</td>
       <td>Adam Lambert</td>
@@ -1374,7 +1376,7 @@ American Idol represents a commercially-driven pop style that emerged from the r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 63</li>
+            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1581,7 +1583,7 @@ American Idol represents a commercially-driven pop style that emerged from the r
     <tr>
       <td>82</td>
       <td>
-          <img src="https://i.discogs.com/szfLfxbQKdulcanan-mKir0wbGuGsAuYRg-wbFCC0Kw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjY4/NDg0LTE1MjAzNDky/NjItNDIzNi5qcGVn.jpeg" alt="Cover for American Idol" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2fe06bdb64544e02a14f6f9e54946c7e.png" alt="Cover for American Idol" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-02-16</td>
       <td>Lee DeWyze</td>
@@ -1636,7 +1638,7 @@ American Idol represents a commercially-driven pop style that emerged from the r
     <tr>
       <td>64</td>
       <td>
-          <img src="https://i.discogs.com/cu7Ps4M0-eKtSCNyfu6jcTDlReqj9MNVKHZHGi2kWhE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODU0/ODg5LTE2Mjg5MTQ4/NDYtMzUwMC5qcGVn.jpeg" alt="Cover for Zero Gravity" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9e72c13ed83545f392d8f377ea91732b.png" alt="Cover for Zero Gravity" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-07-29</td>
       <td>David Archuleta</td>

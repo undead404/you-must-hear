@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T02:58:03.499Z
+date: 2025-12-05T09:38:03.792Z
 permalink: tags/industrial-rock
 title: industrial rock
 ---
 
 ## industrial rock
 
-Last updated: <time datetime="2025-12-03T02:58:03.499Z">Wed Dec 03 2025 04:58:03 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T09:38:03.792Z">Fri Dec 05 2025 11:38:03 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -46,7 +46,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a> # 57</li>
+            <li> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -84,7 +84,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 99</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -107,8 +107,8 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 18</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 73</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 28</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -143,7 +143,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 98</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -163,7 +163,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 31</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -217,7 +217,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 70</li>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -235,7 +235,6 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -273,7 +272,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 81</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -291,8 +290,8 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 23</li>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 96</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 3</li>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -345,7 +344,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 56</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -363,7 +362,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 78</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -381,7 +380,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 71</li>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -400,7 +399,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 95</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -474,7 +473,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 42</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -493,7 +492,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 40</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -511,10 +510,10 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 62</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 70</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 74</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 93</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 6</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 24</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 31</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -533,7 +532,6 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -571,8 +569,6 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 11</li>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -590,7 +586,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 71</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -609,7 +605,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 80</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -628,7 +624,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 32</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -649,8 +645,8 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 12</li>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 79</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 18</li>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -668,7 +664,6 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -746,7 +741,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 56</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -787,8 +782,8 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 12</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 71</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 30</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -809,9 +804,9 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 29</li>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 73</li>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 96</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 5</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 28</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -850,8 +845,8 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 85</li>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 99</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 2</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -869,7 +864,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 97</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -910,6 +905,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -998,7 +994,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 61</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1088,8 +1084,8 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 14</li>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 33</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 67</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1126,7 +1122,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 34</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1161,7 +1157,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 75</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1216,8 +1212,8 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 14</li>
-            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 99</li>
+            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 2</li>
+            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1312,8 +1308,8 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 95</li>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 99</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 2</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -1369,7 +1365,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 40</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1392,7 +1388,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 68</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1410,7 +1406,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 84</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1447,7 +1443,6 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -1465,7 +1460,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 45</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1484,7 +1479,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 90</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1505,7 +1500,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 65</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1524,7 +1519,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 98</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1561,7 +1556,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 89</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1599,8 +1594,8 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 63</li>
-            <li> <a href="{{ "/tags/dark-jazz" | relative_url }}">dark jazz</a> # 75</li>
+            <li> <a href="{{ "/tags/dark-jazz" | relative_url }}">dark jazz</a> # 26</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1618,8 +1613,8 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/no-wave" | relative_url }}">no wave</a> # 1</li>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 59</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 42</li>
+            <li> <a href="{{ "/tags/no-wave" | relative_url }}">no wave</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1655,11 +1650,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 10</li>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 70</li>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 76</li>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 96</li>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 100</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1683,9 +1674,9 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 83</li>
-            <li> <a href="{{ "/tags/dark-jazz" | relative_url }}">dark jazz</a> # 87</li>
-            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 95</li>
+            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 6</li>
+            <li> <a href="{{ "/tags/dark-jazz" | relative_url }}">dark jazz</a> # 14</li>
+            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1730,10 +1721,10 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 75</li>
-            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 84</li>
-            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 85</li>
-            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 96</li>
+            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 5</li>
+            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 16</li>
+            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 17</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1752,7 +1743,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 35</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1793,11 +1784,11 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 15</li>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 34</li>
-            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 79</li>
-            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 89</li>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 95</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 6</li>
+            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 12</li>
+            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 20</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 66</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1817,8 +1808,8 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 11</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 59</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 42</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1841,7 +1832,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 81</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1862,8 +1853,8 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 33</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 95</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 6</li>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1883,7 +1874,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 74</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1901,11 +1892,11 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 22</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 77</li>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 81</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 89</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 97</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 2</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 12</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 19</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 21</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1924,8 +1915,8 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 30</li>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 54</li>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 46</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1953,13 +1944,13 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 39</li>
-            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 55</li>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 82</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 82</li>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 83</li>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 84</li>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 95</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 6</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 17</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 18</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 19</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 19</li>
+            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 46</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1979,7 +1970,7 @@ Industrial rock is a subgenre of rock music that blends elements of industrial m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 59</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 33</li>
         </ul>
       </td>
     </tr>

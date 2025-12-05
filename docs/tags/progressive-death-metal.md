@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T02:32:43.788Z
+date: 2025-12-05T09:37:46.721Z
 permalink: tags/progressive-death-metal
 title: progressive death metal
 ---
 
 ## progressive death metal
 
-Last updated: <time datetime="2025-12-03T02:32:43.788Z">Wed Dec 03 2025 04:32:43 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T09:37:46.721Z">Fri Dec 05 2025 11:37:46 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -63,8 +63,8 @@ Progressive death metal is a subgenre of death metal that incorporates progressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a> # 27</li>
-            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 87</li>
+            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 14</li>
+            <li> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -84,8 +84,8 @@ Progressive death metal is a subgenre of death metal that incorporates progressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 92</li>
-            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 97</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 5</li>
+            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -105,7 +105,7 @@ Progressive death metal is a subgenre of death metal that incorporates progressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 11</li>
+            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -125,8 +125,8 @@ Progressive death metal is a subgenre of death metal that incorporates progressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 92</li>
-            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 94</li>
+            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 7</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -147,8 +147,8 @@ Progressive death metal is a subgenre of death metal that incorporates progressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 55</li>
-            <li> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a> # 84</li>
+            <li> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a> # 17</li>
+            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -166,7 +166,7 @@ Progressive death metal is a subgenre of death metal that incorporates progressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a> # 76</li>
+            <li> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -204,8 +204,8 @@ Progressive death metal is a subgenre of death metal that incorporates progressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 82</li>
-            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 98</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 4</li>
+            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -225,7 +225,7 @@ Progressive death metal is a subgenre of death metal that incorporates progressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 86</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -244,7 +244,7 @@ Progressive death metal is a subgenre of death metal that incorporates progressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 54</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -262,6 +262,7 @@ Progressive death metal is a subgenre of death metal that incorporates progressi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -318,8 +319,8 @@ Progressive death metal is a subgenre of death metal that incorporates progressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 81</li>
-            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 90</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 12</li>
+            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -337,7 +338,7 @@ Progressive death metal is a subgenre of death metal that incorporates progressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 36</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -376,8 +377,8 @@ Progressive death metal is a subgenre of death metal that incorporates progressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 9</li>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 96</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 5</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -414,7 +415,7 @@ Progressive death metal is a subgenre of death metal that incorporates progressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 75</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -435,7 +436,7 @@ Progressive death metal is a subgenre of death metal that incorporates progressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 21</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -453,7 +454,7 @@ Progressive death metal is a subgenre of death metal that incorporates progressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-death-metal" | relative_url }}">industrial death metal</a> # 96</li>
+            <li> <a href="{{ "/tags/industrial-death-metal" | relative_url }}">industrial death metal</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -530,7 +531,7 @@ Progressive death metal is a subgenre of death metal that incorporates progressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 95</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -551,8 +552,8 @@ Progressive death metal is a subgenre of death metal that incorporates progressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 83</li>
-            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 84</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 17</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -610,7 +611,7 @@ Progressive death metal is a subgenre of death metal that incorporates progressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 18</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -629,7 +630,7 @@ Progressive death metal is a subgenre of death metal that incorporates progressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 64</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -681,7 +682,7 @@ Progressive death metal is a subgenre of death metal that incorporates progressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 56</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -717,9 +718,9 @@ Progressive death metal is a subgenre of death metal that incorporates progressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 22</li>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 28</li>
-            <li> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a> # 48</li>
+            <li> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a> # 53</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 73</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -739,7 +740,7 @@ Progressive death metal is a subgenre of death metal that incorporates progressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 96</li>
+            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -758,7 +759,7 @@ Progressive death metal is a subgenre of death metal that incorporates progressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian-metal" | relative_url }}">christian metal</a> # 65</li>
+            <li> <a href="{{ "/tags/christian-metal" | relative_url }}">christian metal</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -795,7 +796,7 @@ Progressive death metal is a subgenre of death metal that incorporates progressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 78</li>
+            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -815,7 +816,7 @@ Progressive death metal is a subgenre of death metal that incorporates progressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 57</li>
+            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -835,7 +836,7 @@ Progressive death metal is a subgenre of death metal that incorporates progressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 34</li>
+            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -855,7 +856,7 @@ Progressive death metal is a subgenre of death metal that incorporates progressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 47</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -899,9 +900,9 @@ Progressive death metal is a subgenre of death metal that incorporates progressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 21</li>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 79</li>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 98</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 3</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 22</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -998,7 +999,7 @@ Progressive death metal is a subgenre of death metal that incorporates progressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 23</li>
+            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1018,7 +1019,7 @@ Progressive death metal is a subgenre of death metal that incorporates progressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 65</li>
+            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1037,7 +1038,7 @@ Progressive death metal is a subgenre of death metal that incorporates progressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian-metal" | relative_url }}">christian metal</a> # 6</li>
+            <li> <a href="{{ "/tags/christian-metal" | relative_url }}">christian metal</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1075,7 +1076,7 @@ Progressive death metal is a subgenre of death metal that incorporates progressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 17</li>
+            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1095,7 +1096,7 @@ Progressive death metal is a subgenre of death metal that incorporates progressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 1</li>
+            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1130,9 +1131,9 @@ Progressive death metal is a subgenre of death metal that incorporates progressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 1</li>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 51</li>
-            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 95</li>
+            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 6</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 50</li>
+            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1152,7 +1153,7 @@ Progressive death metal is a subgenre of death metal that incorporates progressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 34</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1188,7 +1189,7 @@ Progressive death metal is a subgenre of death metal that incorporates progressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 4</li>
+            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1244,7 +1245,7 @@ Progressive death metal is a subgenre of death metal that incorporates progressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 42</li>
+            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1301,7 +1302,7 @@ Progressive death metal is a subgenre of death metal that incorporates progressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 54</li>
+            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1360,7 +1361,7 @@ Progressive death metal is a subgenre of death metal that incorporates progressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-metal" | relative_url }}">dark metal</a> # 55</li>
+            <li> <a href="{{ "/tags/dark-metal" | relative_url }}">dark metal</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1380,7 +1381,7 @@ Progressive death metal is a subgenre of death metal that incorporates progressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 26</li>
+            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1400,7 +1401,7 @@ Progressive death metal is a subgenre of death metal that incorporates progressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 50</li>
+            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1419,8 +1420,8 @@ Progressive death metal is a subgenre of death metal that incorporates progressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 57</li>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 73</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 28</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1495,8 +1496,8 @@ Progressive death metal is a subgenre of death metal that incorporates progressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 51</li>
-            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 95</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 7</li>
+            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1591,7 +1592,7 @@ Progressive death metal is a subgenre of death metal that incorporates progressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 84</li>
+            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1649,7 +1650,7 @@ Progressive death metal is a subgenre of death metal that incorporates progressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 75</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1709,7 +1710,7 @@ Progressive death metal is a subgenre of death metal that incorporates progressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 76</li>
+            <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1748,8 +1749,8 @@ Progressive death metal is a subgenre of death metal that incorporates progressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 21</li>
-            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 74</li>
+            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 27</li>
+            <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1768,7 +1769,7 @@ Progressive death metal is a subgenre of death metal that incorporates progressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 81</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1810,7 +1811,7 @@ Progressive death metal is a subgenre of death metal that incorporates progressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 26</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1888,7 +1889,7 @@ Progressive death metal is a subgenre of death metal that incorporates progressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 82</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1965,8 +1966,8 @@ Progressive death metal is a subgenre of death metal that incorporates progressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 48</li>
-            <li> <a href="{{ "/tags/berlin-school" | relative_url }}">berlin school</a> # 84</li>
+            <li> <a href="{{ "/tags/berlin-school" | relative_url }}">berlin school</a> # 17</li>
+            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 52</li>
         </ul>
       </td>
     </tr>

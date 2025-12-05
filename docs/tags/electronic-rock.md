@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T03:03:07.770Z
+date: 2025-12-05T09:38:09.263Z
 permalink: tags/electronic-rock
 title: electronic rock
 ---
 
 ## electronic rock
 
-Last updated: <time datetime="2025-12-03T03:03:07.770Z">Wed Dec 03 2025 05:03:07 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T09:38:09.263Z">Fri Dec 05 2025 11:38:09 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -64,8 +64,8 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 1</li>
-            <li> <a href="{{ "/tags/hi-nrg" | relative_url }}">hi-nrg</a> # 92</li>
+            <li> <a href="{{ "/tags/hi-nrg" | relative_url }}">hi-nrg</a> # 9</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -86,7 +86,7 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 93</li>
+            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -106,7 +106,7 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 34</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -214,10 +214,10 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 70</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 74</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 6</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 24</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 31</li>
             <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 92</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -257,7 +257,7 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 62</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -282,8 +282,8 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 64</li>
-            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 66</li>
+            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 35</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -348,8 +348,8 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 32</li>
-            <li> <a href="{{ "/tags/no-wave" | relative_url }}">no wave</a> # 68</li>
+            <li> <a href="{{ "/tags/no-wave" | relative_url }}">no wave</a> # 33</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -372,7 +372,7 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 68</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -447,7 +447,7 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 90</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -469,7 +469,7 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 40</li>
+            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -527,7 +527,7 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 55</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -567,10 +567,10 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 13</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 20</li>
-            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 45</li>
-            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 74</li>
+            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 26</li>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 56</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 79</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -628,7 +628,7 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 51</li>
+            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -652,7 +652,7 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 65</li>
+            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -677,10 +677,10 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 92</li>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 97</li>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 97</li>
-            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 100</li>
+            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 1</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 4</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 4</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -721,8 +721,8 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 47</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 50</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 51</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -746,7 +746,7 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belarus" | relative_url }}">belarus</a> # 98</li>
+            <li> <a href="{{ "/tags/belarus" | relative_url }}">belarus</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -766,7 +766,7 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 34</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -784,7 +784,7 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 16</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -807,8 +807,8 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 45</li>
-            <li> <a href="{{ "/tags/alternative-electronic" | relative_url }}">alternative electronic</a> # 87</li>
+            <li> <a href="{{ "/tags/alternative-electronic" | relative_url }}">alternative electronic</a> # 6</li>
+            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -829,7 +829,7 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 78</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -850,8 +850,8 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 2</li>
             <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 10</li>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -871,11 +871,12 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 24</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 26</li>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 61</li>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 69</li>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 96</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 5</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 32</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 39</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 75</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 76</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -931,7 +932,7 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 79</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -951,7 +952,7 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 2</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -987,7 +988,7 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drumstep" | relative_url }}">drumstep</a> # 49</li>
+            <li> <a href="{{ "/tags/drumstep" | relative_url }}">drumstep</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1006,9 +1007,9 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 62</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 64</li>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 66</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 35</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 36</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1027,7 +1028,7 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 62</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1069,8 +1070,8 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 36</li>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 46</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 55</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1090,7 +1091,7 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 100</li>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -1150,8 +1151,8 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 47</li>
-            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 85</li>
+            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 16</li>
+            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1189,7 +1190,7 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 44</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1210,7 +1211,7 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 25</li>
+            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1249,8 +1250,8 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 18</li>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 44</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 55</li>
+            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1291,8 +1292,8 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 34</li>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 75</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 25</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1333,8 +1334,8 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 74</li>
-            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 92</li>
+            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 9</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1377,7 +1378,7 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 62</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1418,8 +1419,8 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 47</li>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 84</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 17</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1439,10 +1440,10 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 67</li>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 68</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 73</li>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 81</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 20</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 28</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 33</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1466,7 +1467,7 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 78</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1486,8 +1487,8 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 25</li>
-            <li> <a href="{{ "/tags/drumstep" | relative_url }}">drumstep</a> # 70</li>
+            <li> <a href="{{ "/tags/drumstep" | relative_url }}">drumstep</a> # 31</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1507,7 +1508,7 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 24</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1549,7 +1550,7 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 74</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1573,7 +1574,7 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 72</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1633,7 +1634,7 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-electronic" | relative_url }}">alternative electronic</a> # 89</li>
+            <li> <a href="{{ "/tags/alternative-electronic" | relative_url }}">alternative electronic</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1673,7 +1674,7 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 58</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1699,8 +1700,8 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 57</li>
-            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 82</li>
+            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 19</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1786,10 +1787,10 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 39</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 74</li>
-            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 86</li>
-            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 96</li>
+            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 5</li>
+            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 15</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 26</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1827,11 +1828,11 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 90</li>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 90</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 93</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 96</li>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 97</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 4</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 5</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 8</li>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 11</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1856,8 +1857,8 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 67</li>
-            <li> <a href="{{ "/tags/alternative-electronic" | relative_url }}">alternative electronic</a> # 86</li>
+            <li> <a href="{{ "/tags/alternative-electronic" | relative_url }}">alternative electronic</a> # 13</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -2057,11 +2058,11 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 22</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 2</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 12</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 21</li>
             <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 46</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 77</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 89</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 97</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -2098,9 +2099,9 @@ Electronic rock, also known as electro-rock, is a genre of rock music that incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 13</li>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 46</li>
-            <li> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a> # 76</li>
+            <li> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a> # 25</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 55</li>
+            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 88</li>
         </ul>
       </td>
     </tr>

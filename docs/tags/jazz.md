@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T03:26:12.633Z
+date: 2025-12-05T09:41:35.573Z
 permalink: tags/jazz
 title: jazz
 ---
 
 ## jazz
 
-Last updated: <time datetime="2025-12-03T03:26:12.633Z">Wed Dec 03 2025 05:26:12 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T09:41:35.573Z">Fri Dec 05 2025 11:41:35 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -42,9 +42,9 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 77</li>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 79</li>
-            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 95</li>
+            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 5</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 22</li>
+            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -64,7 +64,7 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       <td>
         <ul>
             <li> <a href="{{ "/tags/cool-jazz" | relative_url }}">cool jazz</a> # 1</li>
-            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 95</li>
+            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -84,9 +84,9 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 63</li>
-            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 84</li>
-            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 94</li>
+            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 7</li>
+            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 17</li>
+            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -143,7 +143,7 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a> # 86</li>
+            <li> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -163,9 +163,9 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a> # 5</li>
             <li> <a href="{{ "/tags/cool-jazz" | relative_url }}">cool jazz</a> # 7</li>
-            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 54</li>
-            <li> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a> # 96</li>
+            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -201,7 +201,7 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 76</li>
+            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -220,7 +220,7 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 89</li>
+            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -258,7 +258,7 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a> # 52</li>
+            <li> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -276,8 +276,8 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-jazz" | relative_url }}">piano jazz</a> # 45</li>
-            <li> <a href="{{ "/tags/jazz-piano" | relative_url }}">jazz piano</a> # 54</li>
+            <li> <a href="{{ "/tags/jazz-piano" | relative_url }}">jazz piano</a> # 46</li>
+            <li> <a href="{{ "/tags/piano-jazz" | relative_url }}">piano jazz</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -333,8 +333,8 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a> # 17</li>
-            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 87</li>
+            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 14</li>
+            <li> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -353,7 +353,7 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 78</li>
+            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -372,7 +372,7 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 12</li>
+            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -391,7 +391,7 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 65</li>
+            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -411,7 +411,7 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 100</li>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -430,8 +430,8 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 28</li>
-            <li> <a href="{{ "/tags/jazz-guitar" | relative_url }}">jazz guitar</a> # 85</li>
+            <li> <a href="{{ "/tags/jazz-guitar" | relative_url }}">jazz guitar</a> # 16</li>
+            <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -450,7 +450,7 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a> # 94</li>
+            <li> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -469,10 +469,10 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 60</li>
-            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 65</li>
-            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 83</li>
-            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 99</li>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 2</li>
+            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 18</li>
+            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 36</li>
+            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -492,7 +492,7 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       <td>
         <ul>
             <li> <a href="{{ "/tags/cool-jazz" | relative_url }}">cool jazz</a> # 19</li>
-            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 27</li>
+            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -551,10 +551,10 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 93</li>
-            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 98</li>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 98</li>
-            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 100</li>
+            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 1</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 2</li>
+            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 3</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -573,7 +573,7 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 83</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -592,8 +592,8 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 67</li>
-            <li> <a href="{{ "/tags/jazz-piano" | relative_url }}">jazz piano</a> # 96</li>
+            <li> <a href="{{ "/tags/jazz-piano" | relative_url }}">jazz piano</a> # 5</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -613,8 +613,8 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 80</li>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 95</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 5</li>
+            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -633,8 +633,8 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 70</li>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 86</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 14</li>
+            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -671,7 +671,7 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 91</li>
+            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -728,10 +728,10 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 22</li>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 69</li>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 89</li>
-            <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 91</li>
+            <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 10</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 12</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 32</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -768,7 +768,7 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 48</li>
+            <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -788,7 +788,7 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 94</li>
+            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -810,8 +810,8 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 26</li>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 75</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 26</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -831,7 +831,7 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 75</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -850,8 +850,8 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 83</li>
-            <li> <a href="{{ "/tags/jazz-guitar" | relative_url }}">jazz guitar</a> # 84</li>
+            <li> <a href="{{ "/tags/jazz-guitar" | relative_url }}">jazz guitar</a> # 17</li>
+            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -870,7 +870,7 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 96</li>
+            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -889,11 +889,11 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/cuban" | relative_url }}">cuban</a> # 1</li>
+            <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 2</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 4</li>
             <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 22</li>
-            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 70</li>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 97</li>
-            <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 99</li>
-            <li> <a href="{{ "/tags/cuban" | relative_url }}">cuban</a> # 100</li>
+            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -914,10 +914,10 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 62</li>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 94</li>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 99</li>
-            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 100</li>
+            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 1</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 2</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 7</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -956,11 +956,11 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 2</li>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 45</li>
-            <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 57</li>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 67</li>
-            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 97</li>
+            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 4</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 34</li>
+            <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 44</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 56</li>
+            <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -979,14 +979,14 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 11</li>
+            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>66</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e3263ae98d2f4289bf2e4bf1dfd9f129.png" alt="Cover for Michael Bublé" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4a4f7c12d84453720c2489fc24f55704.png" alt="Cover for Michael Bublé" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-02-11</td>
       <td>Michael Bublé</td>
@@ -998,7 +998,7 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 88</li>
+            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1017,7 +1017,7 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crooners" | relative_url }}">crooners</a> # 12</li>
+            <li> <a href="{{ "/tags/crooners" | relative_url }}">crooners</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1053,7 +1053,7 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 92</li>
+            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1071,10 +1071,10 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 78</li>
-            <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 89</li>
-            <li> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a> # 96</li>
-            <li> <a href="{{ "/tags/viola" | relative_url }}">viola</a> # 99</li>
+            <li> <a href="{{ "/tags/viola" | relative_url }}">viola</a> # 1</li>
+            <li> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a> # 4</li>
+            <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 12</li>
+            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1147,8 +1147,8 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-trumpet" | relative_url }}">jazz trumpet</a> # 76</li>
-            <li> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a> # 89</li>
+            <li> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a> # 12</li>
+            <li> <a href="{{ "/tags/jazz-trumpet" | relative_url }}">jazz trumpet</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1167,7 +1167,7 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 86</li>
+            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1205,8 +1205,8 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 83</li>
-            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 99</li>
+            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 2</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1224,8 +1224,8 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 23</li>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 75</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 26</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1243,8 +1243,8 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 10</li>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 49</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 52</li>
+            <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1263,8 +1263,8 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crooners" | relative_url }}">crooners</a> # 19</li>
-            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 97</li>
+            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 59</li>
+            <li> <a href="{{ "/tags/crooners" | relative_url }}">crooners</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1283,7 +1283,7 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 97</li>
+            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1301,7 +1301,7 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 34</li>
+            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1356,7 +1356,7 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a> # 67</li>
+            <li> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1374,9 +1374,9 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 8</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 10</li>
             <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 16</li>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 90</li>
+            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1415,12 +1415,12 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 7</li>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 52</li>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 56</li>
-            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 64</li>
-            <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 71</li>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 82</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 19</li>
+            <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 30</li>
+            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 37</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 45</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 49</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1440,7 +1440,7 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 69</li>
+            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1476,8 +1476,8 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 48</li>
-            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 90</li>
+            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 11</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1499,9 +1499,9 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 75</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 93</li>
-            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 98</li>
+            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 3</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 8</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1523,7 +1523,7 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 69</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1541,8 +1541,8 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 99</li>
-            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 99</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 2</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1561,7 +1561,7 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 92</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1585,12 +1585,12 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 1</li>
             <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 2</li>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 72</li>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 82</li>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 97</li>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 97</li>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 100</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 3</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 4</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 18</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1609,7 +1609,7 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 92</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1665,9 +1665,9 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 78</li>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 80</li>
-            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 92</li>
+            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 9</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 20</li>
+            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1726,9 +1726,9 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 73</li>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 92</li>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 100</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 1</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 9</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1750,9 +1750,9 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 53</li>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 78</li>
-            <li> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a> # 100</li>
+            <li> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a> # 1</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 23</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1779,13 +1779,13 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a> # 46</li>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 63</li>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 75</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 82</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 88</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 90</li>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 97</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 4</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 11</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 13</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 19</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 26</li>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 38</li>
+            <li> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1806,8 +1806,8 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 91</li>
-            <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 96</li>
+            <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 5</li>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1826,7 +1826,7 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 87</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1900,9 +1900,9 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 72</li>
-            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 73</li>
-            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 91</li>
+            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 9</li>
+            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 28</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1925,9 +1925,9 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 90</li>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 100</li>
-            <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 100</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 1</li>
+            <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 1</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1948,7 +1948,7 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 100</li>
+            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -1969,8 +1969,8 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 100</li>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 100</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 1</li>
+            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -1989,9 +1989,9 @@ Jazz is an improvisational music genre born in early 20th-century African Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 55</li>
-            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 81</li>
-            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 85</li>
+            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 14</li>
+            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 20</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 46</li>
         </ul>
       </td>
     </tr>

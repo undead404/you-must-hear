@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T03:26:07.980Z
+date: 2025-12-05T09:41:09.131Z
 permalink: tags/symphonic-power-metal
 title: symphonic power metal
 ---
 
 ## symphonic power metal
 
-Last updated: <time datetime="2025-12-03T03:26:07.980Z">Wed Dec 03 2025 05:26:07 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T09:41:09.131Z">Fri Dec 05 2025 11:41:09 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -43,9 +43,9 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a> # 26</li>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 61</li>
-            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 86</li>
+            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 15</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 40</li>
+            <li> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -82,9 +82,9 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 58</li>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 83</li>
-            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 94</li>
+            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 7</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 18</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -103,8 +103,8 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 16</li>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 96</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 5</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -141,9 +141,9 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 28</li>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 28</li>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 89</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 12</li>
+            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 72</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -181,8 +181,8 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 43</li>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 80</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 21</li>
+            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -202,9 +202,9 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 43</li>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 54</li>
-            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 79</li>
+            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 22</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 47</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -222,7 +222,7 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a> # 7</li>
+            <li> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -242,10 +242,10 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 32</li>
-            <li> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a> # 56</li>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 67</li>
-            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 81</li>
+            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 20</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 34</li>
+            <li> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a> # 45</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -265,7 +265,7 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 72</li>
+            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -325,7 +325,7 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 17</li>
+            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -343,7 +343,7 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 52</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -386,7 +386,7 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a> # 87</li>
+            <li> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -430,9 +430,9 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 5</li>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 73</li>
-            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 98</li>
+            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 3</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 28</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -453,9 +453,9 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 30</li>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 44</li>
-            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 99</li>
+            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 2</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 55</li>
+            <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -474,8 +474,8 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-power-metal" | relative_url }}">progressive power metal</a> # 18</li>
-            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 81</li>
+            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 20</li>
+            <li> <a href="{{ "/tags/progressive-power-metal" | relative_url }}">progressive power metal</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -513,9 +513,9 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 10</li>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 38</li>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 81</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 20</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 63</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -555,8 +555,8 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 70</li>
-            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 80</li>
+            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 21</li>
+            <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -670,7 +670,7 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 62</li>
+            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -707,9 +707,9 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 9</li>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 17</li>
-            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 32</li>
+            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 68</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 84</li>
+            <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -728,7 +728,7 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 82</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -764,8 +764,8 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 11</li>
-            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 56</li>
+            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 45</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -784,7 +784,7 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 15</li>
+            <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -859,7 +859,7 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-power-metal" | relative_url }}">progressive power metal</a> # 82</li>
+            <li> <a href="{{ "/tags/progressive-power-metal" | relative_url }}">progressive power metal</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -939,7 +939,7 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 11</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -975,7 +975,7 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-power-metal" | relative_url }}">progressive power metal</a> # 52</li>
+            <li> <a href="{{ "/tags/progressive-power-metal" | relative_url }}">progressive power metal</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1014,8 +1014,8 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 32</li>
-            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 65</li>
+            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 36</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1036,7 +1036,7 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 41</li>
+            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1078,7 +1078,7 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a> # 78</li>
+            <li> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1191,7 +1191,7 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 59</li>
+            <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1210,7 +1210,7 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a> # 95</li>
+            <li> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -1235,7 +1235,7 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 11</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1417,7 +1417,7 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-power-metal" | relative_url }}">progressive power metal</a> # 77</li>
+            <li> <a href="{{ "/tags/progressive-power-metal" | relative_url }}">progressive power metal</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1441,7 +1441,7 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 86</li>
+            <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1576,7 +1576,7 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 55</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1637,7 +1637,7 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 84</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1869,8 +1869,8 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 95</li>
-            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 95</li>
+            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 6</li>
+            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -1950,7 +1950,7 @@ Symphonic power metal combines the speed and melodic intensity of power metal wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 100</li>
+            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 1</li>
         </ul>
       </td>
     </tr>

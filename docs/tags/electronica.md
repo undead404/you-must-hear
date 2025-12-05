@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T03:25:38.354Z
+date: 2025-12-05T09:40:46.713Z
 permalink: tags/electronica
 title: electronica
 ---
 
 ## electronica
 
-Last updated: <time datetime="2025-12-03T03:25:38.354Z">Wed Dec 03 2025 05:25:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T09:40:46.713Z">Fri Dec 05 2025 11:40:46 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -47,7 +47,7 @@ Electronica is an umbrella term for electronic music designed for listening rath
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 92</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -70,10 +70,10 @@ Electronica is an umbrella term for electronic music designed for listening rath
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 35</li>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 95</li>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 97</li>
-            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 99</li>
+            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 2</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 4</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 6</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -93,7 +93,7 @@ Electronica is an umbrella term for electronic music designed for listening rath
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 70</li>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -149,7 +149,7 @@ Electronica is an umbrella term for electronic music designed for listening rath
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 84</li>
+            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -174,10 +174,10 @@ Electronica is an umbrella term for electronic music designed for listening rath
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 63</li>
-            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 92</li>
-            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 94</li>
-            <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 98</li>
+            <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 3</li>
+            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 7</li>
+            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 9</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -200,8 +200,8 @@ Electronica is an umbrella term for electronic music designed for listening rath
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 19</li>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 84</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 17</li>
+            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -219,7 +219,7 @@ Electronica is an umbrella term for electronic music designed for listening rath
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 89</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -240,8 +240,8 @@ Electronica is an umbrella term for electronic music designed for listening rath
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 98</li>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 99</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 2</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -261,7 +261,7 @@ Electronica is an umbrella term for electronic music designed for listening rath
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 18</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -280,8 +280,8 @@ Electronica is an umbrella term for electronic music designed for listening rath
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 48</li>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 80</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 21</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -303,9 +303,9 @@ Electronica is an umbrella term for electronic music designed for listening rath
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 5</li>
-            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 63</li>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 90</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 11</li>
+            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 37</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -325,10 +325,10 @@ Electronica is an umbrella term for electronic music designed for listening rath
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 53</li>
-            <li> <a href="{{ "/tags/french-house" | relative_url }}">french house</a> # 85</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 92</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 94</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 6</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 9</li>
+            <li> <a href="{{ "/tags/french-house" | relative_url }}">french house</a> # 16</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -350,8 +350,8 @@ Electronica is an umbrella term for electronic music designed for listening rath
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 31</li>
-            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 46</li>
+            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 53</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -390,7 +390,7 @@ Electronica is an umbrella term for electronic music designed for listening rath
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-house" | relative_url }}">french house</a> # 67</li>
+            <li> <a href="{{ "/tags/french-house" | relative_url }}">french house</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -408,9 +408,9 @@ Electronica is an umbrella term for electronic music designed for listening rath
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 52</li>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 64</li>
-            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 98</li>
+            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 3</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 37</li>
+            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -467,8 +467,8 @@ Electronica is an umbrella term for electronic music designed for listening rath
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 15</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 52</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 49</li>
+            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -490,9 +490,9 @@ Electronica is an umbrella term for electronic music designed for listening rath
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 28</li>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 87</li>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 90</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 11</li>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 14</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -564,7 +564,7 @@ Electronica is an umbrella term for electronic music designed for listening rath
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 27</li>
+            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -585,8 +585,8 @@ Electronica is an umbrella term for electronic music designed for listening rath
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 76</li>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 79</li>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 22</li>
+            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -661,7 +661,7 @@ Electronica is an umbrella term for electronic music designed for listening rath
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 44</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -682,7 +682,7 @@ Electronica is an umbrella term for electronic music designed for listening rath
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 66</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -701,9 +701,9 @@ Electronica is an umbrella term for electronic music designed for listening rath
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 56</li>
-            <li> <a href="{{ "/tags/french-house" | relative_url }}">french house</a> # 60</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 73</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 27</li>
+            <li> <a href="{{ "/tags/french-house" | relative_url }}">french house</a> # 41</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -727,8 +727,8 @@ Electronica is an umbrella term for electronic music designed for listening rath
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 53</li>
-            <li> <a href="{{ "/tags/avantgarde-pop" | relative_url }}">avantgarde pop</a> # 100</li>
+            <li> <a href="{{ "/tags/avantgarde-pop" | relative_url }}">avantgarde pop</a> # 1</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -747,8 +747,8 @@ Electronica is an umbrella term for electronic music designed for listening rath
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 33</li>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 77</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 24</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -766,7 +766,7 @@ Electronica is an umbrella term for electronic music designed for listening rath
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 13</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -786,9 +786,9 @@ Electronica is an umbrella term for electronic music designed for listening rath
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 66</li>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 83</li>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 98</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 3</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 18</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -845,7 +845,7 @@ Electronica is an umbrella term for electronic music designed for listening rath
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 60</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -883,8 +883,8 @@ Electronica is an umbrella term for electronic music designed for listening rath
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 63</li>
-            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 68</li>
+            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 33</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -920,7 +920,7 @@ Electronica is an umbrella term for electronic music designed for listening rath
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 51</li>
+            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -938,7 +938,7 @@ Electronica is an umbrella term for electronic music designed for listening rath
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 30</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -958,7 +958,7 @@ Electronica is an umbrella term for electronic music designed for listening rath
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 92</li>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -978,7 +978,7 @@ Electronica is an umbrella term for electronic music designed for listening rath
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 51</li>
+            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1000,9 +1000,9 @@ Electronica is an umbrella term for electronic music designed for listening rath
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 93</li>
-            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 97</li>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 98</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 3</li>
+            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 4</li>
+            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1060,7 +1060,7 @@ Electronica is an umbrella term for electronic music designed for listening rath
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 30</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1100,7 +1100,7 @@ Electronica is an umbrella term for electronic music designed for listening rath
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 64</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1137,7 +1137,7 @@ Electronica is an umbrella term for electronic music designed for listening rath
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 76</li>
+            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1155,8 +1155,8 @@ Electronica is an umbrella term for electronic music designed for listening rath
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 25</li>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 27</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 74</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1211,8 +1211,8 @@ Electronica is an umbrella term for electronic music designed for listening rath
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 15</li>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 67</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 34</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1236,8 +1236,8 @@ Electronica is an umbrella term for electronic music designed for listening rath
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 11</li>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 54</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 46</li>
+            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1297,7 +1297,7 @@ Electronica is an umbrella term for electronic music designed for listening rath
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 99</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -1356,8 +1356,8 @@ Electronica is an umbrella term for electronic music designed for listening rath
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 42</li>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 81</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 19</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1413,7 +1413,7 @@ Electronica is an umbrella term for electronic music designed for listening rath
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 27</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1432,7 +1432,7 @@ Electronica is an umbrella term for electronic music designed for listening rath
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 55</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1452,7 +1452,7 @@ Electronica is an umbrella term for electronic music designed for listening rath
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 23</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1474,7 +1474,7 @@ Electronica is an umbrella term for electronic music designed for listening rath
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 89</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -1496,8 +1496,8 @@ Electronica is an umbrella term for electronic music designed for listening rath
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 70</li>
-            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 95</li>
+            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 6</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1515,7 +1515,7 @@ Electronica is an umbrella term for electronic music designed for listening rath
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancehall-reggae" | relative_url }}">dancehall reggae</a> # 40</li>
+            <li> <a href="{{ "/tags/dancehall-reggae" | relative_url }}">dancehall reggae</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1537,8 +1537,8 @@ Electronica is an umbrella term for electronic music designed for listening rath
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 54</li>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 55</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 46</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1559,7 +1559,7 @@ Electronica is an umbrella term for electronic music designed for listening rath
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 56</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1582,9 +1582,9 @@ Electronica is an umbrella term for electronic music designed for listening rath
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 30</li>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 45</li>
-            <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 85</li>
+            <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 16</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 52</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1625,11 +1625,11 @@ Electronica is an umbrella term for electronic music designed for listening rath
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 56</li>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 98</li>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 99</li>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 99</li>
-            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 100</li>
+            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 1</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 2</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 2</li>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 3</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1653,11 +1653,11 @@ Electronica is an umbrella term for electronic music designed for listening rath
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 61</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 70</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 93</li>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 100</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 100</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 1</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 1</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 8</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 31</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1678,8 +1678,8 @@ Electronica is an umbrella term for electronic music designed for listening rath
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 93</li>
-            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 100</li>
+            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 1</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1700,8 +1700,8 @@ Electronica is an umbrella term for electronic music designed for listening rath
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 80</li>
-            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 97</li>
+            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 4</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1720,7 +1720,7 @@ Electronica is an umbrella term for electronic music designed for listening rath
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 62</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1740,7 +1740,7 @@ Electronica is an umbrella term for electronic music designed for listening rath
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 99</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -1760,7 +1760,7 @@ Electronica is an umbrella term for electronic music designed for listening rath
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 97</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1781,8 +1781,8 @@ Electronica is an umbrella term for electronic music designed for listening rath
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 79</li>
-            <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 100</li>
+            <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 1</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1825,11 +1825,11 @@ Electronica is an umbrella term for electronic music designed for listening rath
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 75</li>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 80</li>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 93</li>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 99</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 100</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 1</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 2</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 8</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 21</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1871,10 +1871,10 @@ Electronica is an umbrella term for electronic music designed for listening rath
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 75</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 93</li>
-            <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 98</li>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 100</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 1</li>
+            <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 3</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 7</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1913,7 +1913,7 @@ Electronica is an umbrella term for electronic music designed for listening rath
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 61</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1955,8 +1955,8 @@ Electronica is an umbrella term for electronic music designed for listening rath
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 74</li>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 80</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 21</li>
+            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1977,8 +1977,8 @@ Electronica is an umbrella term for electronic music designed for listening rath
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 69</li>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 97</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 4</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1998,7 +1998,7 @@ Electronica is an umbrella term for electronic music designed for listening rath
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 74</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -2022,9 +2022,9 @@ Electronica is an umbrella term for electronic music designed for listening rath
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 67</li>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 70</li>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 91</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 10</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 31</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -2067,11 +2067,11 @@ Electronica is an umbrella term for electronic music designed for listening rath
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 57</li>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 84</li>
-            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 97</li>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 97</li>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 98</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 3</li>
+            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 4</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 4</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 14</li>
+            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -2094,10 +2094,10 @@ Electronica is an umbrella term for electronic music designed for listening rath
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 67</li>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 99</li>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 100</li>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 100</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 1</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 1</li>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 2</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 34</li>
         </ul>
       </td>
     </tr>

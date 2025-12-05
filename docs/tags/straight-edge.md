@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T03:25:02.094Z
+date: 2025-12-05T09:39:59.296Z
 permalink: tags/straight-edge
 title: straight edge
 ---
 
 ## straight edge
 
-Last updated: <time datetime="2025-12-03T03:25:02.094Z">Wed Dec 03 2025 05:25:02 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T09:39:59.296Z">Fri Dec 05 2025 11:39:59 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -82,7 +82,7 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 30</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -120,7 +120,7 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 85</li>
+            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -139,7 +139,7 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 35</li>
+            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -158,8 +158,8 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 6</li>
-            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 30</li>
+            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 71</li>
+            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -255,7 +255,7 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/boston" | relative_url }}">boston</a> # 94</li>
+            <li> <a href="{{ "/tags/boston" | relative_url }}">boston</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -370,10 +370,10 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 3</li>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 17</li>
-            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 19</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 42</li>
+            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 82</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 84</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -468,10 +468,10 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 15</li>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 22</li>
-            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 27</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 32</li>
+            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 74</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 79</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -580,9 +580,9 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 3</li>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 7</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 53</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 94</li>
+            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -771,7 +771,7 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 36</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -832,7 +832,7 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 46</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -852,7 +852,7 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 69</li>
+            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 18</li>
             <li> <a href="{{ "/tags/fastcore" | relative_url }}">fastcore</a> # 79</li>
             <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 79</li>
         </ul>
@@ -951,7 +951,7 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 68</li>
+            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1165,10 +1165,10 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 1</li>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 15</li>
-            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 16</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 45</li>
+            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 85</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 86</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1579,7 +1579,7 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 57</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1893,8 +1893,8 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 6</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 60</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1970,12 +1970,12 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 2</li>
-            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 11</li>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 20</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 28</li>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 32</li>
-            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 40</li>
+            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 61</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 69</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 81</li>
+            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 90</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1998,7 +1998,7 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 54</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -2076,7 +2076,7 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 73</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -2142,7 +2142,7 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/south-africa" | relative_url }}">south africa</a> # 39</li>
+            <li> <a href="{{ "/tags/south-africa" | relative_url }}">south africa</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -2192,7 +2192,7 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       <td>
         <ul>
             <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 9</li>
-            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 20</li>
+            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -2273,7 +2273,8 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emoviolence" | relative_url }}">emoviolence</a> # 93</li>
+            <li> <a href="{{ "/tags/emoviolence" | relative_url }}">emoviolence</a> # 8</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -2366,7 +2367,7 @@ Straight edge is a hardcore punk movement defined by a commitment to abstaining 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 17</li>
+            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 84</li>
         </ul>
       </td>
     </tr>

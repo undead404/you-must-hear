@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-01T06:16:55.232Z
+date: 2025-12-05T09:35:24.923Z
 permalink: tags/fastcore
 title: fastcore
 ---
 
 ## fastcore
 
-Last updated: <time datetime="2025-12-01T06:16:55.232Z">Mon Dec 01 2025 08:16:55 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T09:35:24.923Z">Fri Dec 05 2025 11:35:24 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -44,6 +44,7 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -63,7 +64,8 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 36</li>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 15</li>
+            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -85,6 +87,7 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -106,7 +109,8 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 73</li>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 2</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -128,6 +132,7 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -150,6 +155,7 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -171,6 +177,7 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -191,6 +198,7 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -214,7 +222,8 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metallic-hardcore" | relative_url }}">metallic hardcore</a> # 52</li>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 3</li>
+            <li> <a href="{{ "/tags/metallic-hardcore" | relative_url }}">metallic hardcore</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -241,6 +250,7 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -261,7 +271,8 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 8</li>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 6</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -281,6 +292,7 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -301,7 +313,8 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 60</li>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 7</li>
+            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -322,6 +335,9 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 5</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 64</li>
+            <li> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -341,7 +357,8 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 68</li>
+            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 28</li>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -361,6 +378,7 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -381,7 +399,8 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 49</li>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 13</li>
+            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -401,27 +420,8 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 31</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>79</td>
-      <td>
-          <img src="https://i.discogs.com/tYAlhdQuzzAcKKeeXNO8O4jZszrdSAz3u9YhuRPlviI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTE5/MjctMTI0MzE3NDA4/MC5qcGVn.jpeg" alt="Cover for Bring It" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2005</td>
-      <td>R.A.M.B.O.</td>
-      <td>Bring It</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
-            <li style="font-size: calc(1rem * 86 / 100)"> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 69</li>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 36</li>
+            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -441,6 +441,29 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 46</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>
+          <img src="https://i.discogs.com/tYAlhdQuzzAcKKeeXNO8O4jZszrdSAz3u9YhuRPlviI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTE5/MjctMTI0MzE3NDA4/MC5qcGVn.jpeg" alt="Cover for Bring It" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>R.A.M.B.O.</td>
+      <td>Bring It</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+            <li style="font-size: calc(1rem * 86 / 100)"> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 18</li>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 79</li>
+            <li> <a href="{{ "/tags/straight-edge" | relative_url }}">straight edge</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -459,6 +482,7 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -482,6 +506,7 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -503,8 +528,9 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 75</li>
-            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 93</li>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 4</li>
+            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 13</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -525,6 +551,7 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -548,6 +575,7 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -569,6 +597,7 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -589,6 +618,7 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -608,6 +638,7 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -628,6 +659,7 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -648,7 +680,8 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 98</li>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 1</li>
+            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -670,7 +703,8 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 35</li>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 12</li>
+            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -688,6 +722,7 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -708,7 +743,8 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 40</li>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 17</li>
+            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -727,6 +763,7 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -748,7 +785,8 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 52</li>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 11</li>
+            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -768,7 +806,8 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 15</li>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 29</li>
+            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -792,6 +831,7 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -818,8 +858,8 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 12</li>
-            <li> <a href="{{ "/tags/neocrust" | relative_url }}">neocrust</a> # 33</li>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 45</li>
+            <li> <a href="{{ "/tags/neocrust" | relative_url }}">neocrust</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -840,7 +880,8 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 66</li>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 8</li>
+            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -867,6 +908,7 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -886,6 +928,7 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -907,6 +950,7 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -928,6 +972,7 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -948,6 +993,7 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -968,6 +1014,7 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -988,7 +1035,8 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/straight-edge" | relative_url }}">straight edge</a> # 33</li>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 16</li>
+            <li> <a href="{{ "/tags/straight-edge" | relative_url }}">straight edge</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1009,6 +1057,7 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1029,6 +1078,7 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1048,6 +1098,7 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1069,6 +1120,7 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1087,6 +1139,7 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1107,6 +1160,7 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1128,7 +1182,8 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 3</li>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 28</li>
+            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1150,6 +1205,7 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1170,6 +1226,7 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1186,6 +1243,7 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1208,7 +1266,7 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 17</li>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1228,6 +1286,7 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1248,6 +1307,7 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1267,6 +1327,7 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1284,6 +1345,7 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1303,6 +1365,7 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1325,6 +1388,7 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1344,6 +1408,7 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1364,6 +1429,7 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1383,6 +1449,7 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1405,6 +1472,7 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1422,6 +1490,7 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1441,6 +1510,7 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1462,7 +1532,8 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 54</li>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 10</li>
+            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1486,6 +1557,7 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1505,6 +1577,7 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1526,6 +1599,7 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1546,6 +1620,7 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1565,6 +1640,7 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1585,6 +1661,7 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1605,6 +1682,7 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1628,6 +1706,7 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1648,6 +1727,7 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1670,6 +1750,7 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1689,6 +1770,7 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1710,6 +1792,7 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1732,6 +1815,7 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1751,6 +1835,7 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1804,6 +1889,8 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 75</li>
+            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1824,6 +1911,7 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1843,6 +1931,7 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1860,6 +1949,7 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1881,6 +1971,7 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1901,6 +1992,7 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1922,6 +2014,7 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1942,6 +2035,7 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1959,6 +2053,7 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1979,6 +2074,7 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -2000,7 +2096,8 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 18</li>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 43</li>
+            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -2025,6 +2122,7 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -2045,6 +2143,7 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -2066,6 +2165,7 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -2086,6 +2186,7 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -2106,6 +2207,7 @@ Fastcore, also known as thrashcore, is a high-speed subgenre of hardcore punk th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/billie-holiday-billie-holiday" | relative_url }}">billie holiday-billie holiday</a> # 39</li>
         </ul>
       </td>
     </tr>

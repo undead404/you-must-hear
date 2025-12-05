@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-24T06:46:38.188Z
+date: 2025-12-05T09:02:32.784Z
 permalink: tags/italian
 title: italian
 ---
 
 ## italian
 
-Last updated: <time datetime="2025-11-24T06:46:38.188Z">Mon Nov 24 2025 08:46:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T09:02:32.784Z">Fri Dec 05 2025 11:02:32 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -61,7 +61,7 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 73</li>
+            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -98,7 +98,7 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 66</li>
+            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -229,7 +229,7 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 89</li>
+            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -267,7 +267,7 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 80</li>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -306,8 +306,8 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 34</li>
-            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 93</li>
+            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 8</li>
+            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -385,8 +385,8 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/opera" | relative_url }}">opera</a> # 50</li>
-            <li> <a href="{{ "/tags/tenor" | relative_url }}">tenor</a> # 99</li>
+            <li> <a href="{{ "/tags/tenor" | relative_url }}">tenor</a> # 2</li>
+            <li> <a href="{{ "/tags/opera" | relative_url }}">opera</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -409,7 +409,7 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 6</li>
+            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -429,8 +429,8 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 60</li>
-            <li> <a href="{{ "/tags/opera" | relative_url }}">opera</a> # 75</li>
+            <li> <a href="{{ "/tags/opera" | relative_url }}">opera</a> # 26</li>
+            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -521,7 +521,7 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 75</li>
+            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -667,7 +667,7 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 75</li>
+            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -687,7 +687,7 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 56</li>
+            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -710,7 +710,7 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 27</li>
+            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -730,7 +730,7 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/barcelona" | relative_url }}">barcelona</a> # 99</li>
+            <li> <a href="{{ "/tags/barcelona" | relative_url }}">barcelona</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -789,8 +789,8 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 70</li>
-            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 98</li>
+            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 3</li>
+            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -815,8 +815,8 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 81</li>
-            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 83</li>
+            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 18</li>
+            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -839,9 +839,9 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 57</li>
+            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 6</li>
+            <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 44</li>
             <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 71</li>
-            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -861,7 +861,7 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 77</li>
+            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -935,10 +935,10 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 29</li>
-            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 64</li>
-            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 84</li>
-            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 95</li>
+            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 5</li>
+            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 17</li>
+            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 37</li>
+            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -960,8 +960,8 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 73</li>
-            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 88</li>
+            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 12</li>
+            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -983,7 +983,7 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 47</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1007,9 +1007,9 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 77</li>
-            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 85</li>
-            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 98</li>
+            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 3</li>
+            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 16</li>
+            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1064,8 +1064,8 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 48</li>
-            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 75</li>
+            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 25</li>
+            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1102,7 +1102,7 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 99</li>
+            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -1177,7 +1177,7 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 55</li>
+            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1215,7 +1215,7 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 98</li>
+            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1251,7 +1251,7 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 83</li>
+            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1288,8 +1288,8 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 49</li>
-            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 72</li>
+            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 29</li>
+            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1316,6 +1316,7 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
     <tr>
       <td>9</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/059be2ac03404394bcc798e7d9aafbf7.png" alt="Cover for In The Hands Of Love" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-03</td>
       <td>Vittorio Grigolo</td>
@@ -1328,7 +1329,7 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tenor" | relative_url }}">tenor</a> # 100</li>
+            <li> <a href="{{ "/tags/tenor" | relative_url }}">tenor</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -1423,8 +1424,8 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 92</li>
-            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 96</li>
+            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 5</li>
+            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1496,8 +1497,8 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 62</li>
-            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 66</li>
+            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 31</li>
+            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1548,7 +1549,6 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
         </ul>
       </td>
       <td>
@@ -1575,8 +1575,8 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 24</li>
-            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 99</li>
+            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 2</li>
+            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1613,7 +1613,7 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 87</li>
+            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1655,7 +1655,7 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 72</li>
+            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1693,7 +1693,7 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 63</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1774,7 +1774,8 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 93</li>
+            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 7</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1798,7 +1799,7 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 85</li>
+            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1842,7 +1843,7 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 78</li>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1901,7 +1902,7 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 96</li>
+            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1919,8 +1920,8 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 97</li>
-            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 100</li>
+            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 1</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1960,7 +1961,7 @@ Italian music encompasses a rich tradition blending operatic vocal techniques wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 27</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 74</li>
         </ul>
       </td>
     </tr>

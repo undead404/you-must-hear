@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-01T05:56:14.026Z
+date: 2025-12-05T09:34:09.873Z
 permalink: tags/australia
 title: australia
 ---
 
 ## australia
 
-Last updated: <time datetime="2025-12-01T05:56:14.026Z">Mon Dec 01 2025 07:56:14 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T09:34:09.873Z">Fri Dec 05 2025 11:34:09 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -43,7 +43,7 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 1</li>
+            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -105,7 +105,7 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melbourne" | relative_url }}">melbourne</a> # 95</li>
+            <li> <a href="{{ "/tags/melbourne" | relative_url }}">melbourne</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -187,7 +187,7 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/aussie" | relative_url }}">aussie</a> # 60</li>
+            <li> <a href="{{ "/tags/aussie" | relative_url }}">aussie</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -210,7 +210,7 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 2</li>
+            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -273,7 +273,7 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 82</li>
+            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -296,10 +296,10 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 80</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 90</li>
-            <li> <a href="{{ "/tags/lds" | relative_url }}">lds</a> # 94</li>
-            <li> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a> # 97</li>
+            <li> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a> # 4</li>
+            <li> <a href="{{ "/tags/lds" | relative_url }}">lds</a> # 7</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 11</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -361,7 +361,7 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hi-nrg" | relative_url }}">hi-nrg</a> # 61</li>
+            <li> <a href="{{ "/tags/hi-nrg" | relative_url }}">hi-nrg</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -381,7 +381,7 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/aussie" | relative_url }}">aussie</a> # 57</li>
+            <li> <a href="{{ "/tags/aussie" | relative_url }}">aussie</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -401,7 +401,7 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/didgeridoo" | relative_url }}">didgeridoo</a> # 88</li>
+            <li> <a href="{{ "/tags/didgeridoo" | relative_url }}">didgeridoo</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -477,9 +477,9 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 25</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 59</li>
-            <li> <a href="{{ "/tags/lds" | relative_url }}">lds</a> # 88</li>
+            <li> <a href="{{ "/tags/lds" | relative_url }}">lds</a> # 13</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 42</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -502,9 +502,9 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 15</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 50</li>
-            <li> <a href="{{ "/tags/lds" | relative_url }}">lds</a> # 83</li>
+            <li> <a href="{{ "/tags/lds" | relative_url }}">lds</a> # 18</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 51</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -546,9 +546,9 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 33</li>
-            <li> <a href="{{ "/tags/lds" | relative_url }}">lds</a> # 76</li>
-            <li> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a> # 88</li>
+            <li> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a> # 13</li>
+            <li> <a href="{{ "/tags/lds" | relative_url }}">lds</a> # 25</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -569,7 +569,7 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/aussie" | relative_url }}">aussie</a> # 81</li>
+            <li> <a href="{{ "/tags/aussie" | relative_url }}">aussie</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -589,7 +589,7 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/aussie" | relative_url }}">aussie</a> # 72</li>
+            <li> <a href="{{ "/tags/aussie" | relative_url }}">aussie</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -631,8 +631,8 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 70</li>
-            <li> <a href="{{ "/tags/didgeridoo" | relative_url }}">didgeridoo</a> # 86</li>
+            <li> <a href="{{ "/tags/didgeridoo" | relative_url }}">didgeridoo</a> # 15</li>
+            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -650,7 +650,7 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 39</li>
+            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -727,7 +727,7 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 98</li>
+            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -795,8 +795,8 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 73</li>
-            <li> <a href="{{ "/tags/melbourne" | relative_url }}">melbourne</a> # 94</li>
+            <li> <a href="{{ "/tags/melbourne" | relative_url }}">melbourne</a> # 8</li>
+            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -925,15 +925,15 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 33</li>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 62</li>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 62</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 65</li>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 70</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 82</li>
-            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 84</li>
-            <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 88</li>
-            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 94</li>
+            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 7</li>
+            <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 13</li>
+            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 17</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 19</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 31</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 36</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 38</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 39</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -978,10 +978,10 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 82</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 92</li>
-            <li> <a href="{{ "/tags/lds" | relative_url }}">lds</a> # 97</li>
-            <li> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a> # 98</li>
+            <li> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a> # 3</li>
+            <li> <a href="{{ "/tags/lds" | relative_url }}">lds</a> # 4</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 9</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1093,16 +1093,16 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 21</li>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 67</li>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 75</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 76</li>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 81</li>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 87</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 91</li>
-            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 95</li>
-            <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 95</li>
-            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 97</li>
+            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 4</li>
+            <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 6</li>
+            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 6</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 10</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 14</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 20</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 25</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 25</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 34</li>
+            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1169,8 +1169,8 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melbourne" | relative_url }}">melbourne</a> # 91</li>
-            <li> <a href="{{ "/tags/vietnamese" | relative_url }}">vietnamese</a> # 94</li>
+            <li> <a href="{{ "/tags/vietnamese" | relative_url }}">vietnamese</a> # 6</li>
+            <li> <a href="{{ "/tags/melbourne" | relative_url }}">melbourne</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1270,9 +1270,9 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 99</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 99</li>
-            <li> <a href="{{ "/tags/lds" | relative_url }}">lds</a> # 100</li>
+            <li> <a href="{{ "/tags/lds" | relative_url }}">lds</a> # 1</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 2</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -1308,7 +1308,7 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/aussie" | relative_url }}">aussie</a> # 70</li>
+            <li> <a href="{{ "/tags/aussie" | relative_url }}">aussie</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1370,7 +1370,7 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/aussie" | relative_url }}">aussie</a> # 76</li>
+            <li> <a href="{{ "/tags/aussie" | relative_url }}">aussie</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1453,11 +1453,11 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 74</li>
-            <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 96</li>
-            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 97</li>
-            <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 98</li>
-            <li> <a href="{{ "/tags/aussie" | relative_url }}">aussie</a> # 98</li>
+            <li> <a href="{{ "/tags/aussie" | relative_url }}">aussie</a> # 3</li>
+            <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 3</li>
+            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 4</li>
+            <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 5</li>
+            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1501,11 +1501,11 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 63</li>
-            <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 94</li>
-            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 94</li>
-            <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 95</li>
-            <li> <a href="{{ "/tags/aussie" | relative_url }}">aussie</a> # 96</li>
+            <li> <a href="{{ "/tags/aussie" | relative_url }}">aussie</a> # 5</li>
+            <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 6</li>
+            <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 7</li>
+            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 7</li>
+            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1567,11 +1567,11 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 68</li>
-            <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 95</li>
-            <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 96</li>
-            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 96</li>
-            <li> <a href="{{ "/tags/aussie" | relative_url }}">aussie</a> # 97</li>
+            <li> <a href="{{ "/tags/aussie" | relative_url }}">aussie</a> # 4</li>
+            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 5</li>
+            <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 5</li>
+            <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 6</li>
+            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1615,7 +1615,7 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 64</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1638,9 +1638,9 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 97</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 97</li>
-            <li> <a href="{{ "/tags/lds" | relative_url }}">lds</a> # 98</li>
+            <li> <a href="{{ "/tags/lds" | relative_url }}">lds</a> # 3</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 4</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1676,8 +1676,8 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 84</li>
-            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 93</li>
+            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 8</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1719,11 +1719,11 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 96</li>
-            <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 100</li>
-            <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 100</li>
-            <li> <a href="{{ "/tags/aussie" | relative_url }}">aussie</a> # 100</li>
-            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 100</li>
+            <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 1</li>
+            <li> <a href="{{ "/tags/aussie" | relative_url }}">aussie</a> # 1</li>
+            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 1</li>
+            <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 1</li>
+            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1811,11 +1811,11 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 42</li>
-            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 81</li>
-            <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 91</li>
-            <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 93</li>
-            <li> <a href="{{ "/tags/aussie" | relative_url }}">aussie</a> # 94</li>
+            <li> <a href="{{ "/tags/aussie" | relative_url }}">aussie</a> # 7</li>
+            <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 8</li>
+            <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 10</li>
+            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 20</li>
+            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1859,8 +1859,8 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 28</li>
-            <li> <a href="{{ "/tags/ambient-black-metal" | relative_url }}">ambient black metal</a> # 68</li>
+            <li> <a href="{{ "/tags/ambient-black-metal" | relative_url }}">ambient black metal</a> # 33</li>
+            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -2015,7 +2015,7 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 57</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -2051,7 +2051,7 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 26</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -2076,8 +2076,8 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a> # 27</li>
-            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 34</li>
+            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 67</li>
+            <li> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -2146,7 +2146,7 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 40</li>
+            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 61</li>
         </ul>
       </td>
     </tr>

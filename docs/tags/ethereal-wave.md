@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-01T05:44:14.715Z
+date: 2025-12-05T08:42:15.867Z
 permalink: tags/ethereal-wave
 title: ethereal wave
 ---
 
 ## ethereal wave
 
-Last updated: <time datetime="2025-12-01T05:44:14.715Z">Mon Dec 01 2025 07:44:14 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T08:42:15.867Z">Fri Dec 05 2025 10:42:15 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -43,7 +43,7 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 62</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -62,7 +62,7 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 39</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -83,7 +83,7 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 23</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -103,9 +103,9 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 71</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 90</li>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 95</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 6</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 11</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -141,8 +141,8 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 77</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 77</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 24</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -180,8 +180,8 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 36</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 56</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 44</li>
+            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -287,8 +287,8 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 40</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 81</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 20</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -307,9 +307,9 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 24</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 55</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 80</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 21</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 47</li>
+            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -355,7 +355,7 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 60</li>
+            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -396,8 +396,8 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 8</li>
-            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 79</li>
+            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 21</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -457,7 +457,7 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 47</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -477,7 +477,7 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 21</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -498,8 +498,8 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 27</li>
-            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 74</li>
+            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 26</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -662,7 +662,7 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 64</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -702,9 +702,9 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 2</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 70</li>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 91</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 10</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 31</li>
+            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -756,9 +756,9 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 36</li>
-            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 72</li>
-            <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 82</li>
+            <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 18</li>
+            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 29</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -780,7 +780,7 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 74</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -811,9 +811,9 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 35</li>
-            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 71</li>
-            <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 80</li>
+            <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 20</li>
+            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 30</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -858,11 +858,11 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 2</li>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 37</li>
-            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 43</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 84</li>
-            <li> <a href="{{ "/tags/iceland" | relative_url }}">iceland</a> # 86</li>
+            <li> <a href="{{ "/tags/iceland" | relative_url }}">iceland</a> # 15</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 17</li>
+            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 57</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 64</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -893,9 +893,9 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 38</li>
-            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 74</li>
-            <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 84</li>
+            <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 16</li>
+            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 27</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -971,7 +971,7 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 89</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -1045,7 +1045,7 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a> # 80</li>
+            <li> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1093,9 +1093,9 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 39</li>
-            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 75</li>
-            <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 85</li>
+            <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 15</li>
+            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 26</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1120,7 +1120,7 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 69</li>
+            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1156,8 +1156,8 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 75</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 95</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 6</li>
+            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1197,7 +1197,7 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/doomgaze" | relative_url }}">doomgaze</a> # 24</li>
+            <li> <a href="{{ "/tags/doomgaze" | relative_url }}">doomgaze</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1242,9 +1242,9 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 75</li>
-            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 92</li>
-            <li> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a> # 94</li>
+            <li> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a> # 7</li>
+            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 9</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1271,13 +1271,13 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 33</li>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 72</li>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 79</li>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 87</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 92</li>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 97</li>
-            <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 99</li>
+            <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 2</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 4</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 9</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 13</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 22</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 29</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1304,8 +1304,8 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 53</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 74</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 24</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1330,7 +1330,7 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 32</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1349,8 +1349,8 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 26</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 40</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 61</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1374,8 +1374,8 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 87</li>
-            <li> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a> # 90</li>
+            <li> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a> # 11</li>
+            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1421,7 +1421,7 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 45</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1444,7 +1444,7 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 52</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1470,7 +1470,7 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 74</li>
+            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1497,8 +1497,8 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 48</li>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 53</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 48</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1541,7 +1541,7 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 47</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1574,12 +1574,12 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 20</li>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 31</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 44</li>
-            <li> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a> # 66</li>
-            <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 82</li>
-            <li> <a href="{{ "/tags/tribal-ambient" | relative_url }}">tribal ambient</a> # 84</li>
+            <li> <a href="{{ "/tags/tribal-ambient" | relative_url }}">tribal ambient</a> # 17</li>
+            <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 19</li>
+            <li> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a> # 35</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 57</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 70</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1619,10 +1619,10 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 96</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 99</li>
-            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 99</li>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 100</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 1</li>
+            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 2</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 2</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1647,7 +1647,7 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 68</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1694,7 +1694,7 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 50</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1756,7 +1756,7 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 79</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1782,8 +1782,8 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 16</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 36</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 65</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1830,8 +1830,8 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 69</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 95</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 4</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1850,7 +1850,7 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 3</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1877,10 +1877,10 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 62</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 65</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 82</li>
-            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 96</li>
+            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 5</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 16</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 36</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1907,8 +1907,8 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deathrock" | relative_url }}">deathrock</a> # 4</li>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 27</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 73</li>
+            <li> <a href="{{ "/tags/deathrock" | relative_url }}">deathrock</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1936,10 +1936,10 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 22</li>
-            <li> <a href="{{ "/tags/dark-jazz" | relative_url }}">dark jazz</a> # 51</li>
-            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 56</li>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 64</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 37</li>
+            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 44</li>
+            <li> <a href="{{ "/tags/dark-jazz" | relative_url }}">dark jazz</a> # 50</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1966,8 +1966,8 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 74</li>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 77</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 24</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1995,10 +1995,10 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 35</li>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 73</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 84</li>
-            <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 95</li>
+            <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 6</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 15</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 28</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -2036,9 +2036,9 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 91</li>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 96</li>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 96</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 5</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 5</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -2056,7 +2056,7 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 69</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -2079,8 +2079,8 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 49</li>
             <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 50</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -2101,7 +2101,7 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 31</li>
+            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -2123,7 +2123,7 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 85</li>
+            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -2186,9 +2186,9 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 7</li>
-            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 13</li>
-            <li> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a> # 76</li>
+            <li> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a> # 25</li>
+            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 88</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 94</li>
         </ul>
       </td>
     </tr>

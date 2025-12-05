@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-15T01:01:13.491Z
+date: 2025-12-05T08:52:26.555Z
 permalink: tags/futurepop
 title: futurepop
 ---
 
 ## futurepop
 
-Last updated: <time datetime="2025-11-15T01:01:13.491Z">Sat Nov 15 2025 03:01:13 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T08:52:26.555Z">Fri Dec 05 2025 10:52:26 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -51,9 +51,9 @@ Futurepop is an electronic music genre that emerged in the late 1990s, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 17</li>
-            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 40</li>
-            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 40</li>
+            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 37</li>
+            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 56</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -91,7 +91,7 @@ Futurepop is an electronic music genre that emerged in the late 1990s, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 88</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -147,6 +147,7 @@ Futurepop is an electronic music genre that emerged in the late 1990s, blending 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -272,7 +273,7 @@ Futurepop is an electronic music genre that emerged in the late 1990s, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 38</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -292,7 +293,7 @@ Futurepop is an electronic music genre that emerged in the late 1990s, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 50</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -317,6 +318,7 @@ Futurepop is an electronic music genre that emerged in the late 1990s, blending 
     <tr>
       <td>63</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bd38f06367b74e809ffb028fa8a0fa71.png" alt="Cover for Failure" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-03-30</td>
       <td>Assemblage 23</td>
@@ -329,7 +331,7 @@ Futurepop is an electronic music genre that emerged in the late 1990s, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 78</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -424,7 +426,7 @@ Futurepop is an electronic music genre that emerged in the late 1990s, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 53</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -450,6 +452,7 @@ Futurepop is an electronic music genre that emerged in the late 1990s, blending 
     <tr>
       <td>48</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1bf82b48d56444b3c4a121e6ab5df924.png" alt="Cover for Sushi" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-12-04</td>
       <td>Neuroticfish</td>
@@ -500,7 +503,7 @@ Futurepop is an electronic music genre that emerged in the late 1990s, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 52</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -519,7 +522,7 @@ Futurepop is an electronic music genre that emerged in the late 1990s, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 45</li>
+            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -573,7 +576,7 @@ Futurepop is an electronic music genre that emerged in the late 1990s, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 21</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -592,7 +595,7 @@ Futurepop is an electronic music genre that emerged in the late 1990s, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 79</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -629,7 +632,7 @@ Futurepop is an electronic music genre that emerged in the late 1990s, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 9</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -762,8 +765,8 @@ Futurepop is an electronic music genre that emerged in the late 1990s, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 15</li>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 85</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 14</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -837,7 +840,7 @@ Futurepop is an electronic music genre that emerged in the late 1990s, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 75</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -862,6 +865,7 @@ Futurepop is an electronic music genre that emerged in the late 1990s, blending 
     <tr>
       <td>51</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cdea0705c1c04fe49dfc63e75664aa1a.png" alt="Cover for Reborn" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Culture Kultür</td>
@@ -953,7 +957,7 @@ Futurepop is an electronic music genre that emerged in the late 1990s, blending 
     <tr>
       <td>2</td>
       <td>
-          <img src="https://i.discogs.com/O4iK2OISwHLIiFrfHGcGAKeoyLPm1mQLkTRIFfF_wuw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MTU4/Ni0xMTIyNTA4MDUy/LmpwZw.jpeg" alt="Cover for Welcome To Goodbye" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0e58cebb31a04347a978dab330a6213f.png" alt="Cover for Welcome To Goodbye" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-06-27</td>
       <td>Rotersand</td>
@@ -965,7 +969,7 @@ Futurepop is an electronic music genre that emerged in the late 1990s, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 48</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1080,6 +1084,7 @@ Futurepop is an electronic music genre that emerged in the late 1990s, blending 
     <tr>
       <td>79</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/36771343dd7d4f58b79781cafca50e3a.png" alt="Cover for 28 After" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-10-30</td>
       <td>Black Devil Disco Club</td>
@@ -1094,7 +1099,7 @@ Futurepop is an electronic music genre that emerged in the late 1990s, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 89</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1120,7 +1125,7 @@ Futurepop is an electronic music genre that emerged in the late 1990s, blending 
     <tr>
       <td>54</td>
       <td>
-          <img src="https://i.discogs.com/nXdHC7SA90HS72fBy123txsefVoNz9FYVy0Su0J7pkc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzY1/My0xNDI2MTA5NDY2/LTcxODEuanBlZw.jpeg" alt="Cover for Blood Spills Not Far From The Wound" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5072a5c1e2014392c35a82f4e3c293f9.png" alt="Cover for Blood Spills Not Far From The Wound" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-03-16</td>
       <td>Necessary Response</td>
@@ -1145,13 +1150,11 @@ Futurepop is an electronic music genre that emerged in the late 1990s, blending 
       <td>Judgement</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
-            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/futurepop" | relative_url }}">futurepop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 96</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1177,6 +1180,7 @@ Futurepop is an electronic music genre that emerged in the late 1990s, blending 
     <tr>
       <td>60</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/460bb63cb1d244e2a717e558661920db.png" alt="Cover for 1023" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-06-08</td>
       <td>Rotersand</td>
@@ -1300,7 +1304,7 @@ Futurepop is an electronic music genre that emerged in the late 1990s, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 39</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1327,6 +1331,7 @@ Futurepop is an electronic music genre that emerged in the late 1990s, blending 
     <tr>
       <td>64</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/84e94855aa9311cc726640c871056ec9.png" alt="Cover for Buried Again" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-02-29</td>
       <td>Colony 5</td>
@@ -1396,7 +1401,7 @@ Futurepop is an electronic music genre that emerged in the late 1990s, blending 
     <tr>
       <td>46</td>
       <td>
-          <img src="https://i.discogs.com/4gButphwchGlkmLR_ioAV3cFUZ3syRfn3m45znHve-o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MDk3/NDQtMTM5NTIyNDQz/My04OTM2LmpwZWc.jpeg" alt="Cover for Dare To Live" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0db8065d2bb9d13976cd021959fe1fc9.png" alt="Cover for Dare To Live" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-08-28</td>
       <td>Rotersand</td>
@@ -1409,7 +1414,7 @@ Futurepop is an electronic music genre that emerged in the late 1990s, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 13</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1485,7 +1490,7 @@ Futurepop is an electronic music genre that emerged in the late 1990s, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 26</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1509,7 +1514,7 @@ Futurepop is an electronic music genre that emerged in the late 1990s, blending 
     <tr>
       <td>20</td>
       <td>
-          <img src="https://i.discogs.com/tsoYdPOfV-30AKpQH6Uoh3Sd3tjFuKnvvYcxh_bbHIA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTEy/MDItMTI5NTAwNzgw/My5qcGVn.jpeg" alt="Cover for Modern Ruin" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eab9f177e8104b8a9751dfeec3ad4cc7.png" alt="Cover for Modern Ruin" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-01-14</td>
       <td>Covenant</td>
@@ -1610,7 +1615,7 @@ Futurepop is an electronic music genre that emerged in the late 1990s, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 60</li>
+            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1637,7 +1642,7 @@ Futurepop is an electronic music genre that emerged in the late 1990s, blending 
     <tr>
       <td>72</td>
       <td>
-          <img src="https://i.discogs.com/CoewKLSkS9yLWprRjNrR6YLs74hHhLJU4R7j6SSLuv0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMTI0/MjUtMTQzMzk3NTE1/My0zNjczLmpwZWc.jpeg" alt="Cover for Stigma" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e23b305d7bbe1a96d9de407a54ffbaca.png" alt="Cover for Stigma" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-06-07</td>
       <td>Neurotech</td>
@@ -1650,7 +1655,7 @@ Futurepop is an electronic music genre that emerged in the late 1990s, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cyber-metal" | relative_url }}">cyber metal</a> # 99</li>
+            <li> <a href="{{ "/tags/cyber-metal" | relative_url }}">cyber metal</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -1692,7 +1697,7 @@ Futurepop is an electronic music genre that emerged in the late 1990s, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 32</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1716,8 +1721,8 @@ Futurepop is an electronic music genre that emerged in the late 1990s, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 70</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 90</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 9</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1760,10 +1765,10 @@ Futurepop is an electronic music genre that emerged in the late 1990s, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 27</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 54</li>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 58</li>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 60</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 35</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 39</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 44</li>
+            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1788,8 +1793,8 @@ Futurepop is an electronic music genre that emerged in the late 1990s, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 27</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 67</li>
+            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 23</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1811,7 +1816,7 @@ Futurepop is an electronic music genre that emerged in the late 1990s, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 81</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1836,7 +1841,7 @@ Futurepop is an electronic music genre that emerged in the late 1990s, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 66</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 31</li>
         </ul>
       </td>
     </tr>

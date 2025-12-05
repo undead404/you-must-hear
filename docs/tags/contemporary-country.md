@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T03:27:09.389Z
+date: 2025-12-05T09:42:46.406Z
 permalink: tags/contemporary-country
 title: contemporary country
 ---
 
 ## contemporary country
 
-Last updated: <time datetime="2025-12-03T03:27:09.389Z">Wed Dec 03 2025 05:27:09 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T09:42:46.406Z">Fri Dec 05 2025 11:42:46 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -48,9 +48,9 @@ Contemporary country blends traditional country instrumentation with modern pop 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a> # 91</li>
-            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 93</li>
-            <li> <a href="{{ "/tags/late-90s-country" | relative_url }}">late 90s country</a> # 100</li>
+            <li> <a href="{{ "/tags/late-90s-country" | relative_url }}">late 90s country</a> # 1</li>
+            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 7</li>
+            <li> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -71,7 +71,7 @@ Contemporary country blends traditional country instrumentation with modern pop 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 87</li>
+            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -92,7 +92,7 @@ Contemporary country blends traditional country instrumentation with modern pop 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 74</li>
+            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -132,7 +132,7 @@ Contemporary country blends traditional country instrumentation with modern pop 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 73</li>
+            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -168,7 +168,7 @@ Contemporary country blends traditional country instrumentation with modern pop 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 77</li>
+            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -334,8 +334,8 @@ Contemporary country blends traditional country instrumentation with modern pop 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 52</li>
-            <li> <a href="{{ "/tags/honky-tonk" | relative_url }}">honky tonk</a> # 72</li>
+            <li> <a href="{{ "/tags/honky-tonk" | relative_url }}">honky tonk</a> # 29</li>
+            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -479,7 +479,7 @@ Contemporary country blends traditional country instrumentation with modern pop 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/late-90s-country" | relative_url }}">late 90s country</a> # 98</li>
+            <li> <a href="{{ "/tags/late-90s-country" | relative_url }}">late 90s country</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -626,7 +626,7 @@ Contemporary country blends traditional country instrumentation with modern pop 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 1</li>
+            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -663,7 +663,7 @@ Contemporary country blends traditional country instrumentation with modern pop 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 36</li>
+            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -684,7 +684,7 @@ Contemporary country blends traditional country instrumentation with modern pop 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 21</li>
+            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -759,7 +759,7 @@ Contemporary country blends traditional country instrumentation with modern pop 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 71</li>
+            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -814,6 +814,7 @@ Contemporary country blends traditional country instrumentation with modern pop 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -835,7 +836,7 @@ Contemporary country blends traditional country instrumentation with modern pop 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 42</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -853,9 +854,7 @@ Contemporary country blends traditional country instrumentation with modern pop 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 5</li>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 58</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 79</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -935,9 +934,9 @@ Contemporary country blends traditional country instrumentation with modern pop 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 88</li>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 92</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 97</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 4</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 6</li>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -977,8 +976,8 @@ Contemporary country blends traditional country instrumentation with modern pop 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 45</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 72</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 17</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1036,8 +1035,8 @@ Contemporary country blends traditional country instrumentation with modern pop 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 60</li>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 76</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 14</li>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1055,8 +1054,6 @@ Contemporary country blends traditional country instrumentation with modern pop 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 2</li>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 56</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 78</li>
         </ul>
       </td>
@@ -1078,25 +1075,7 @@ Contemporary country blends traditional country instrumentation with modern pop 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 17</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>20</td>
-      <td>
-          <img src="https://i.discogs.com/lClz7GN0IV9NjBhT2nV1uirNqhXhejW9SSxsAV6T4LM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDMz/MjgyLTE2MDQyMzM5/ODItNDU0MC5qcGVn.jpeg" alt="Cover for Losing Sleep" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2017</td>
-      <td>Chris Young</td>
-      <td>Losing Sleep</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1113,6 +1092,25 @@ Contemporary country blends traditional country instrumentation with modern pop 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>
+          <img src="https://i.discogs.com/lClz7GN0IV9NjBhT2nV1uirNqhXhejW9SSxsAV6T4LM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDMz/MjgyLTE2MDQyMzM5/ODItNDU0MC5qcGVn.jpeg" alt="Cover for Losing Sleep" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017</td>
+      <td>Chris Young</td>
+      <td>Losing Sleep</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a></li>
         </ul>
       </td>
       <td>
@@ -1209,7 +1207,7 @@ Contemporary country blends traditional country instrumentation with modern pop 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 47</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1227,7 +1225,7 @@ Contemporary country blends traditional country instrumentation with modern pop 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 95</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1245,7 +1243,7 @@ Contemporary country blends traditional country instrumentation with modern pop 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/honky-tonk" | relative_url }}">honky tonk</a> # 82</li>
+            <li> <a href="{{ "/tags/honky-tonk" | relative_url }}">honky tonk</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1263,9 +1261,8 @@ Contemporary country blends traditional country instrumentation with modern pop 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 68</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 93</li>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 96</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 19</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1301,8 +1298,8 @@ Contemporary country blends traditional country instrumentation with modern pop 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 67</li>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 81</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 10</li>
+            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1320,8 +1317,7 @@ Contemporary country blends traditional country instrumentation with modern pop 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 78</li>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 84</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1384,7 +1380,7 @@ Contemporary country blends traditional country instrumentation with modern pop 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 50</li>
+            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1406,8 +1402,26 @@ Contemporary country blends traditional country instrumentation with modern pop 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 30</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 68</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 21</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 52</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>
+          <img src="https://i.discogs.com/E_uz-j_qWKrH_zpEotfrWL9J2VM3GNOy8iPB5ZZHLfY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzg2/MzExLTE1OTc3Njk2/OTYtNjE5Ny5wbmc.jpeg" alt="Cover for Going, Going, Gone (Acoustic)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019</td>
+      <td>Luke Combs</td>
+      <td>Going, Going, Gone (Acoustic)</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1424,23 +1438,6 @@ Contemporary country blends traditional country instrumentation with modern pop 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>48</td>
-      <td>
-          <img src="https://i.discogs.com/E_uz-j_qWKrH_zpEotfrWL9J2VM3GNOy8iPB5ZZHLfY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzg2/MzExLTE1OTc3Njk2/OTYtNjE5Ny5wbmc.jpeg" alt="Cover for Going, Going, Gone (Acoustic)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2019</td>
-      <td>Luke Combs</td>
-      <td>Going, Going, Gone (Acoustic)</td>
-      <td>
-        <ul>
         </ul>
       </td>
       <td>
@@ -1466,7 +1463,7 @@ Contemporary country blends traditional country instrumentation with modern pop 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 25</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1507,8 +1504,8 @@ Contemporary country blends traditional country instrumentation with modern pop 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 39</li>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 69</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 20</li>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1529,7 +1526,8 @@ Contemporary country blends traditional country instrumentation with modern pop 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 47</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 39</li>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1550,7 +1548,7 @@ Contemporary country blends traditional country instrumentation with modern pop 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 8</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1571,7 +1569,7 @@ Contemporary country blends traditional country instrumentation with modern pop 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 1</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1592,8 +1590,8 @@ Contemporary country blends traditional country instrumentation with modern pop 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 61</li>
-            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 83</li>
+            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 18</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1634,7 +1632,7 @@ Contemporary country blends traditional country instrumentation with modern pop 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 14</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1674,7 +1672,7 @@ Contemporary country blends traditional country instrumentation with modern pop 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 93</li>
+            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1692,8 +1690,7 @@ Contemporary country blends traditional country instrumentation with modern pop 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 22</li>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 63</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1711,9 +1708,8 @@ Contemporary country blends traditional country instrumentation with modern pop 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 30</li>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 68</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 85</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 61</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1734,7 +1730,7 @@ Contemporary country blends traditional country instrumentation with modern pop 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 42</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1755,7 +1751,7 @@ Contemporary country blends traditional country instrumentation with modern pop 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 10</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1776,7 +1772,7 @@ Contemporary country blends traditional country instrumentation with modern pop 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 39</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1794,8 +1790,8 @@ Contemporary country blends traditional country instrumentation with modern pop 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 55</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 77</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 63</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1816,6 +1812,7 @@ Contemporary country blends traditional country instrumentation with modern pop 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1836,8 +1833,8 @@ Contemporary country blends traditional country instrumentation with modern pop 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 42</li>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 72</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 17</li>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1855,7 +1852,7 @@ Contemporary country blends traditional country instrumentation with modern pop 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 80</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1876,7 +1873,7 @@ Contemporary country blends traditional country instrumentation with modern pop 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 16</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1897,7 +1894,7 @@ Contemporary country blends traditional country instrumentation with modern pop 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 3</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1915,8 +1912,7 @@ Contemporary country blends traditional country instrumentation with modern pop 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 82</li>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 86</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 48</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T02:27:38.873Z
+date: 2025-12-05T09:37:21.127Z
 permalink: tags/experimental-black-metal
 title: experimental black metal
 ---
 
 ## experimental black metal
 
-Last updated: <time datetime="2025-12-03T02:27:38.873Z">Wed Dec 03 2025 04:27:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T09:37:21.127Z">Fri Dec 05 2025 11:37:21 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -141,7 +141,7 @@ Experimental black metal is a subgenre of black metal that emphasizes experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 1</li>
+            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -162,7 +162,7 @@ Experimental black metal is a subgenre of black metal that emphasizes experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 25</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -181,7 +181,7 @@ Experimental black metal is a subgenre of black metal that emphasizes experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-black-metal" | relative_url }}">ambient black metal</a> # 18</li>
+            <li> <a href="{{ "/tags/ambient-black-metal" | relative_url }}">ambient black metal</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -209,9 +209,9 @@ Experimental black metal is a subgenre of black metal that emphasizes experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 16</li>
-            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 45</li>
-            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 53</li>
+            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 48</li>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 55</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -270,7 +270,7 @@ Experimental black metal is a subgenre of black metal that emphasizes experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 50</li>
+            <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -404,7 +404,7 @@ Experimental black metal is a subgenre of black metal that emphasizes experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 15</li>
+            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -452,10 +452,10 @@ Experimental black metal is a subgenre of black metal that emphasizes experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a> # 47</li>
-            <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 48</li>
-            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 64</li>
-            <li> <a href="{{ "/tags/polish-metal" | relative_url }}">polish metal</a> # 87</li>
+            <li> <a href="{{ "/tags/polish-metal" | relative_url }}">polish metal</a> # 14</li>
+            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 37</li>
+            <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 53</li>
+            <li> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -534,7 +534,8 @@ Experimental black metal is a subgenre of black metal that emphasizes experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 58</li>
+            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 43</li>
+            <li> <a href="{{ "/tags/extreme-progressive-metal" | relative_url }}">extreme progressive metal</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -579,11 +580,11 @@ Experimental black metal is a subgenre of black metal that emphasizes experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 69</li>
-            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 95</li>
-            <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 97</li>
-            <li> <a href="{{ "/tags/doomgaze" | relative_url }}">doomgaze</a> # 99</li>
-            <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 100</li>
+            <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 1</li>
+            <li> <a href="{{ "/tags/doomgaze" | relative_url }}">doomgaze</a> # 2</li>
+            <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 4</li>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 6</li>
+            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -648,7 +649,7 @@ Experimental black metal is a subgenre of black metal that emphasizes experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 24</li>
+            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -686,9 +687,9 @@ Experimental black metal is a subgenre of black metal that emphasizes experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 38</li>
-            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 39</li>
-            <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 75</li>
+            <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 26</li>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 59</li>
+            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -707,7 +708,7 @@ Experimental black metal is a subgenre of black metal that emphasizes experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a> # 52</li>
+            <li> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -746,8 +747,8 @@ Experimental black metal is a subgenre of black metal that emphasizes experiment
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 2</li>
             <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 49</li>
-            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -794,9 +795,9 @@ Experimental black metal is a subgenre of black metal that emphasizes experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 28</li>
-            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 31</li>
-            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 47</li>
+            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 54</li>
+            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 70</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -894,7 +895,7 @@ Experimental black metal is a subgenre of black metal that emphasizes experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 47</li>
+            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -920,7 +921,7 @@ Experimental black metal is a subgenre of black metal that emphasizes experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-metal" | relative_url }}">atmospheric metal</a> # 32</li>
+            <li> <a href="{{ "/tags/atmospheric-metal" | relative_url }}">atmospheric metal</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -938,7 +939,7 @@ Experimental black metal is a subgenre of black metal that emphasizes experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 50</li>
+            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1002,8 +1003,8 @@ Experimental black metal is a subgenre of black metal that emphasizes experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 32</li>
-            <li> <a href="{{ "/tags/atmospheric-metal" | relative_url }}">atmospheric metal</a> # 63</li>
+            <li> <a href="{{ "/tags/atmospheric-metal" | relative_url }}">atmospheric metal</a> # 37</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1026,8 +1027,8 @@ Experimental black metal is a subgenre of black metal that emphasizes experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 41</li>
-            <li> <a href="{{ "/tags/ambient-black-metal" | relative_url }}">ambient black metal</a> # 98</li>
+            <li> <a href="{{ "/tags/ambient-black-metal" | relative_url }}">ambient black metal</a> # 4</li>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1110,8 +1111,8 @@ Experimental black metal is a subgenre of black metal that emphasizes experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 80</li>
-            <li> <a href="{{ "/tags/oakland" | relative_url }}">oakland</a> # 91</li>
+            <li> <a href="{{ "/tags/oakland" | relative_url }}">oakland</a> # 10</li>
+            <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1405,9 +1406,10 @@ Experimental black metal is a subgenre of black metal that emphasizes experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 10</li>
-            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 34</li>
-            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 76</li>
+            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 25</li>
+            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 67</li>
+            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 87</li>
+            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1498,9 +1500,9 @@ Experimental black metal is a subgenre of black metal that emphasizes experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 57</li>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 64</li>
-            <li> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a> # 84</li>
+            <li> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a> # 17</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 37</li>
+            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1551,7 +1553,7 @@ Experimental black metal is a subgenre of black metal that emphasizes experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 46</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1583,8 +1585,8 @@ Experimental black metal is a subgenre of black metal that emphasizes experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a> # 27</li>
             <li> <a href="{{ "/tags/italian-black-metal" | relative_url }}">italian black metal</a> # 71</li>
+            <li> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1606,7 +1608,7 @@ Experimental black metal is a subgenre of black metal that emphasizes experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 4</li>
+            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1814,7 +1816,7 @@ Experimental black metal is a subgenre of black metal that emphasizes experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a> # 96</li>
+            <li> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1904,9 +1906,9 @@ Experimental black metal is a subgenre of black metal that emphasizes experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-black-metal" | relative_url }}">ambient black metal</a> # 13</li>
-            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 49</li>
-            <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 96</li>
+            <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 5</li>
+            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 52</li>
+            <li> <a href="{{ "/tags/ambient-black-metal" | relative_url }}">ambient black metal</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1952,10 +1954,10 @@ Experimental black metal is a subgenre of black metal that emphasizes experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 18</li>
-            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 29</li>
-            <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 70</li>
-            <li> <a href="{{ "/tags/unblack-metal" | relative_url }}">unblack metal</a> # 75</li>
+            <li> <a href="{{ "/tags/unblack-metal" | relative_url }}">unblack metal</a> # 26</li>
+            <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 31</li>
+            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 72</li>
+            <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1975,7 +1977,7 @@ Experimental black metal is a subgenre of black metal that emphasizes experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 6</li>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -2033,8 +2035,8 @@ Experimental black metal is a subgenre of black metal that emphasizes experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 63</li>
-            <li> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a> # 95</li>
+            <li> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a> # 6</li>
+            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -2074,8 +2076,8 @@ Experimental black metal is a subgenre of black metal that emphasizes experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 16</li>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 20</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 81</li>
+            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -2094,8 +2096,8 @@ Experimental black metal is a subgenre of black metal that emphasizes experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish-metal" | relative_url }}">polish metal</a> # 6</li>
-            <li> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a> # 43</li>
+            <li> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a> # 58</li>
+            <li> <a href="{{ "/tags/polish-metal" | relative_url }}">polish metal</a> # 95</li>
         </ul>
       </td>
     </tr>

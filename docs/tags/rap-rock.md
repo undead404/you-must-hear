@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T03:18:18.991Z
+date: 2025-12-05T09:38:57.001Z
 permalink: tags/rap-rock
 title: rap rock
 ---
 
 ## rap rock
 
-Last updated: <time datetime="2025-12-03T03:18:18.991Z">Wed Dec 03 2025 05:18:18 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T09:38:57.001Z">Fri Dec 05 2025 11:38:57 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -84,7 +84,7 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 44</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -106,7 +106,7 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 40</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -142,9 +142,9 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 43</li>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 59</li>
-            <li> <a href="{{ "/tags/skate-punk" | relative_url }}">skate punk</a> # 76</li>
+            <li> <a href="{{ "/tags/skate-punk" | relative_url }}">skate punk</a> # 25</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 42</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -165,7 +165,7 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 46</li>
+            <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -186,7 +186,7 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 52</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -205,8 +205,8 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 10</li>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 93</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 8</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -225,7 +225,7 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 91</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -299,30 +299,30 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 2</li>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 11</li>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 21</li>
-            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 35</li>
-            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 36</li>
-            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 37</li>
-            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 39</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 40</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 50</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 53</li>
-            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 57</li>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 60</li>
-            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 60</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 62</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 62</li>
-            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 62</li>
+            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 8</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 12</li>
+            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 13</li>
+            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 14</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 14</li>
+            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 18</li>
+            <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 18</li>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 38</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 39</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 39</li>
+            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 41</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 41</li>
+            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 44</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 46</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 51</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 58</li>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 62</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 64</li>
+            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 65</li>
+            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 66</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 80</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 81</li>
-            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 83</li>
-            <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 83</li>
-            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 87</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 87</li>
-            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 88</li>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 89</li>
-            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 93</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 94</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -349,7 +349,7 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skate-punk" | relative_url }}">skate punk</a> # 59</li>
+            <li> <a href="{{ "/tags/skate-punk" | relative_url }}">skate punk</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -371,9 +371,9 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 2</li>
-            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 28</li>
-            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 96</li>
+            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 5</li>
+            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 73</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -435,7 +435,7 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 55</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -492,7 +492,7 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a> # 100</li>
+            <li> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -535,7 +535,7 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/motown" | relative_url }}">motown</a> # 28</li>
+            <li> <a href="{{ "/tags/motown" | relative_url }}">motown</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -553,7 +553,7 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 21</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -592,8 +592,8 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 4</li>
-            <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 72</li>
+            <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 29</li>
+            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -648,8 +648,8 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 36</li>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 67</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 34</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -675,12 +675,12 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 43</li>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 74</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 79</li>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 81</li>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 91</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 93</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 8</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 10</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 20</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 22</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 26</li>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -776,38 +776,38 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 2</li>
-            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 3</li>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 8</li>
-            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 9</li>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 18</li>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 22</li>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 30</li>
-            <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 32</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 42</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 45</li>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 46</li>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 48</li>
-            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 48</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 54</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 54</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 58</li>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 63</li>
-            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 63</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 66</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 66</li>
-            <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 67</li>
-            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 72</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 74</li>
-            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 81</li>
-            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 83</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 10</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 12</li>
+            <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 14</li>
+            <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 14</li>
+            <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 16</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 16</li>
+            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 18</li>
+            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 19</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 27</li>
+            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 29</li>
+            <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 33</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 35</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 35</li>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 37</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 38</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 40</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 46</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 47</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 53</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 53</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 54</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 55</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 58</li>
+            <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 69</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 71</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 79</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 83</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 85</li>
-            <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 85</li>
-            <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 87</li>
-            <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 87</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 89</li>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 91</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 86</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 92</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 93</li>
+            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 97</li>
+            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -973,8 +973,8 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 26</li>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 37</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 64</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1001,10 +1001,10 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 75</li>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 86</li>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 89</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 91</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 10</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 12</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 14</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1050,10 +1050,10 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 68</li>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 78</li>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 87</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 88</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 13</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 14</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 23</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1073,8 +1073,8 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       <td>
         <ul>
             <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 17</li>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 62</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 64</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 36</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1134,7 +1134,7 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 86</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1160,10 +1160,10 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 2</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 20</li>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 73</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 79</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 22</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 28</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 80</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1185,7 +1185,7 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 68</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1207,8 +1207,8 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 8</li>
-            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 88</li>
+            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 13</li>
+            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1268,9 +1268,9 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 29</li>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 93</li>
-            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 97</li>
+            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 4</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 8</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1309,7 +1309,7 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 71</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1336,12 +1336,12 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 81</li>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 84</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 89</li>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 97</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 99</li>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 99</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 2</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 2</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 4</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 12</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 16</li>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1368,11 +1368,11 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 33</li>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 86</li>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 89</li>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 90</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 92</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 9</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 11</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 12</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 15</li>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1393,8 +1393,8 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 35</li>
-            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 76</li>
+            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 25</li>
+            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1415,7 +1415,7 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 84</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1438,9 +1438,9 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 81</li>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 89</li>
-            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 96</li>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 5</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 11</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1487,7 +1487,7 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 91</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1528,8 +1528,8 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 49</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 64</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 37</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1552,11 +1552,11 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 26</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 6</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 23</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 46</li>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 49</li>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 54</li>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 78</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 95</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1620,9 +1620,9 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 67</li>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 83</li>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 94</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 7</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 18</li>
+            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1648,8 +1648,8 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 19</li>
             <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 38</li>
-            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1699,14 +1699,14 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 15</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 21</li>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 54</li>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 63</li>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 95</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 98</li>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 100</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 100</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 1</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 1</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 3</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 6</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 38</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 45</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 80</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1734,12 +1734,12 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 20</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 71</li>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 82</li>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 85</li>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 88</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 89</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 12</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 13</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 15</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 19</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 30</li>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1766,10 +1766,10 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 18</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 28</li>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 76</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 84</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 17</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 25</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 72</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1827,10 +1827,10 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 25</li>
-            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 49</li>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 54</li>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 97</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 4</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 47</li>
+            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 52</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1876,7 +1876,7 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 2</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1961,11 +1961,11 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 46</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 93</li>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 99</li>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 99</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 100</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 1</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 2</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 2</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 8</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1992,10 +1992,10 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 49</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 51</li>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 82</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 86</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 15</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 19</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 50</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -2046,10 +2046,10 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 80</li>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 91</li>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 92</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 94</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 7</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 9</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 10</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -2072,7 +2072,7 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 39</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -2113,9 +2113,9 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 22</li>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 55</li>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 56</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 45</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 46</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -2160,7 +2160,7 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 61</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -2188,8 +2188,8 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 8</li>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 31</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 70</li>
+            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -2216,7 +2216,7 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 11</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -2249,10 +2249,10 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 83</li>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 93</li>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 93</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 96</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 5</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 8</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 8</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -2279,10 +2279,10 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 73</li>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 82</li>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 86</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 87</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 14</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 15</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 18</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -2330,9 +2330,9 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 19</li>
-            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 41</li>
-            <li> <a href="{{ "/tags/detroit-rap" | relative_url }}">detroit rap</a> # 86</li>
+            <li> <a href="{{ "/tags/detroit-rap" | relative_url }}">detroit rap</a> # 15</li>
+            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 60</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -2388,8 +2388,8 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 40</li>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 93</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 8</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -2425,11 +2425,11 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 25</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 35</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 43</li>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 72</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 93</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 8</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 29</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 58</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 66</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -2449,7 +2449,7 @@ Rap rock is a music genre that combines elements of hip-hop and rock music. The 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skate-punk" | relative_url }}">skate punk</a> # 100</li>
+            <li> <a href="{{ "/tags/skate-punk" | relative_url }}">skate punk</a> # 1</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T02:11:23.568Z
+date: 2025-12-05T09:35:07.748Z
 permalink: tags/digital-hardcore
 title: digital hardcore
 ---
 
 ## digital hardcore
 
-Last updated: <time datetime="2025-11-26T02:11:23.568Z">Wed Nov 26 2025 04:11:23 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T09:35:07.748Z">Fri Dec 05 2025 11:35:07 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -43,7 +43,7 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 49</li>
+            <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -63,9 +63,9 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 5</li>
-            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 9</li>
-            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 25</li>
+            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 76</li>
+            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 93</li>
+            <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -91,7 +91,7 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-techno" | relative_url }}">hardcore techno</a> # 84</li>
+            <li> <a href="{{ "/tags/hardcore-techno" | relative_url }}">hardcore techno</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -200,7 +200,7 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 57</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -219,13 +219,13 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 49</li>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 84</li>
-            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 93</li>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 94</li>
-            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 97</li>
-            <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 99</li>
-            <li> <a href="{{ "/tags/schranz" | relative_url }}">schranz</a> # 99</li>
+            <li> <a href="{{ "/tags/schranz" | relative_url }}">schranz</a> # 2</li>
+            <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 2</li>
+            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 3</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 6</li>
+            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 8</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 17</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -285,13 +285,14 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 43</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 79</li>
-            <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 96</li>
-            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 98</li>
-            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 99</li>
-            <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 100</li>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 100</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 1</li>
+            <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 1</li>
+            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 3</li>
+            <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 5</li>
+            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 13</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 22</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 58</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -329,8 +330,8 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 27</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 47</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 52</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -348,8 +349,8 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 9</li>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 37</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 39</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -386,9 +387,9 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 31</li>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 34</li>
-            <li> <a href="{{ "/tags/noise-punk" | relative_url }}">noise punk</a> # 51</li>
+            <li> <a href="{{ "/tags/noise-punk" | relative_url }}">noise punk</a> # 50</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 64</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -427,8 +428,8 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 19</li>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 80</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 19</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -511,7 +512,7 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 68</li>
+            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -576,12 +577,12 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 11</li>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 62</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 71</li>
-            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 89</li>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 93</li>
-            <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 95</li>
+            <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 6</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 7</li>
+            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 12</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 28</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 36</li>
+            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -618,9 +619,9 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 18</li>
-            <li> <a href="{{ "/tags/noise-punk" | relative_url }}">noise punk</a> # 42</li>
-            <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 42</li>
+            <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 58</li>
+            <li> <a href="{{ "/tags/noise-punk" | relative_url }}">noise punk</a> # 59</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -638,7 +639,7 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/riot-grrrl" | relative_url }}">riot grrrl</a> # 8</li>
+            <li> <a href="{{ "/tags/riot-grrrl" | relative_url }}">riot grrrl</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -804,7 +805,7 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 51</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -921,9 +922,9 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 51</li>
-            <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 60</li>
-            <li> <a href="{{ "/tags/industrial-death-metal" | relative_url }}">industrial death metal</a> # 77</li>
+            <li> <a href="{{ "/tags/industrial-death-metal" | relative_url }}">industrial death metal</a> # 22</li>
+            <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 37</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1019,7 +1020,7 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 44</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1038,8 +1039,8 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 45</li>
-            <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 87</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 55</li>
+            <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1065,13 +1066,13 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 73</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 91</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 92</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 96</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 96</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 97</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 100</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 1</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 4</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 5</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 5</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 7</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 9</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1092,8 +1093,8 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 39</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 56</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 45</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1133,9 +1134,9 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 11</li>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 96</li>
-            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 99</li>
+            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 2</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 5</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1174,6 +1175,7 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1194,7 +1196,7 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 88</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1215,14 +1217,14 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 33</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 65</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 70</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 84</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 86</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 89</li>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 92</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 95</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 6</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 8</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 11</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 12</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 17</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 29</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 29</li>
+            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1246,11 +1248,11 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 60</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 88</li>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 92</li>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 98</li>
-            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 99</li>
+            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 2</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 3</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 9</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 10</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1268,7 +1270,7 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 64</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1294,10 +1296,10 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 32</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 48</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 52</li>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 79</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 22</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 49</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 52</li>
+            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1315,10 +1317,10 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 56</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 62</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 88</li>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 89</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 13</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 31</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 37</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1346,9 +1348,9 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 7</li>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 28</li>
-            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 50</li>
+            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 48</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 72</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1366,10 +1368,10 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 7</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 44</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 47</li>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 94</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 7</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 44</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 57</li>
+            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1388,9 +1390,9 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 87</li>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 91</li>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 95</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 5</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 10</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1427,12 +1429,12 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 45</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 46</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 47</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 68</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 84</li>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 98</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 13</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 25</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 31</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 54</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 55</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1451,7 +1453,7 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 53</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1471,7 +1473,7 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 87</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -1489,8 +1491,8 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 22</li>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 55</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 46</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1511,8 +1513,8 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 91</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 95</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 6</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1532,7 +1534,7 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 100</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -1551,9 +1553,9 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 10</li>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 39</li>
-            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 86</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 61</li>
+            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 83</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1573,7 +1575,7 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 63</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1598,8 +1600,8 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 91</li>
-            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 95</li>
+            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 6</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1617,7 +1619,7 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 17</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1639,8 +1641,8 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 15</li>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 79</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 20</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1668,11 +1670,11 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 22</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 57</li>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 81</li>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 87</li>
-            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 96</li>
+            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 3</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 11</li>
+            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 19</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 21</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1694,8 +1696,8 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 12</li>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 53</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 47</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1716,7 +1718,7 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metalcore" | relative_url }}">nu metalcore</a> # 42</li>
+            <li> <a href="{{ "/tags/nu-metalcore" | relative_url }}">nu metalcore</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1757,8 +1759,8 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 80</li>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 99</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 2</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1782,7 +1784,8 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 47</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 52</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1803,7 +1806,7 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 73</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1822,8 +1825,8 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 46</li>
-            <li> <a href="{{ "/tags/lobit" | relative_url }}">lobit</a> # 98</li>
+            <li> <a href="{{ "/tags/lobit" | relative_url }}">lobit</a> # 3</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1847,9 +1850,9 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 10</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 11</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 36</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 65</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 89</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1894,7 +1897,7 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 61</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1915,7 +1918,7 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 32</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1957,11 +1960,11 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 92</li>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 96</li>
-            <li> <a href="{{ "/tags/noise-punk" | relative_url }}">noise punk</a> # 100</li>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 100</li>
-            <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 100</li>
+            <li> <a href="{{ "/tags/noise-punk" | relative_url }}">noise punk</a> # 1</li>
+            <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 1</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 1</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 5</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1999,8 +2002,8 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 12</li>
-            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 90</li>
+            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 10</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -2020,7 +2023,7 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 73</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -2039,7 +2042,7 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 51</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -2058,7 +2061,7 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 20</li>
+            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -2076,9 +2079,9 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 17</li>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 33</li>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 40</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 60</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 60</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -2106,13 +2109,13 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 4</li>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 39</li>
-            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 54</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 77</li>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 80</li>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 85</li>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 94</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 6</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 17</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 18</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 19</li>
+            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 46</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 61</li>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 66</li>
         </ul>
       </td>
     </tr>

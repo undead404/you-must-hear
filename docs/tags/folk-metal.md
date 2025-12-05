@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T02:22:33.983Z
+date: 2025-12-05T09:37:14.942Z
 permalink: tags/folk-metal
 title: folk metal
 ---
 
 ## folk metal
 
-Last updated: <time datetime="2025-12-03T02:22:33.983Z">Wed Dec 03 2025 04:22:33 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T09:37:14.942Z">Fri Dec 05 2025 11:37:14 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -117,7 +117,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 25</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -194,8 +194,8 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 81</li>
-            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 86</li>
+            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 14</li>
+            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -231,7 +231,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 51</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -249,8 +249,8 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 5</li>
-            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 100</li>
+            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 33</li>
+            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -323,8 +323,8 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 90</li>
-            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 93</li>
+            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 5</li>
+            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -343,7 +343,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 23</li>
+            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -363,9 +363,9 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 52</li>
-            <li> <a href="{{ "/tags/atmospheric-metal" | relative_url }}">atmospheric metal</a> # 68</li>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 86</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 15</li>
+            <li> <a href="{{ "/tags/atmospheric-metal" | relative_url }}">atmospheric metal</a> # 32</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -385,7 +385,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 91</li>
+            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -422,9 +422,9 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tolkien" | relative_url }}">tolkien</a> # 5</li>
-            <li> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a> # 17</li>
-            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 80</li>
+            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 21</li>
+            <li> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a> # 84</li>
+            <li> <a href="{{ "/tags/tolkien" | relative_url }}">tolkien</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -460,7 +460,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a> # 44</li>
+            <li> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -497,7 +497,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 53</li>
+            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -516,7 +516,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 15</li>
+            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -534,7 +534,8 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 99</li>
+            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 30</li>
+            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -553,7 +554,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 43</li>
+            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -593,7 +594,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 78</li>
+            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -612,7 +613,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 39</li>
+            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -650,8 +651,8 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 9</li>
-            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 43</li>
+            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 57</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -669,8 +670,8 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 22</li>
-            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 56</li>
+            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 43</li>
+            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -692,8 +693,8 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 84</li>
-            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 93</li>
+            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 8</li>
+            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -712,7 +713,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 69</li>
+            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -749,9 +750,9 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a> # 1</li>
-            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 24</li>
-            <li> <a href="{{ "/tags/tolkien" | relative_url }}">tolkien</a> # 49</li>
+            <li> <a href="{{ "/tags/tolkien" | relative_url }}">tolkien</a> # 52</li>
+            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 77</li>
+            <li> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -789,7 +790,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 36</li>
+            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -828,7 +829,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 89</li>
+            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -864,7 +865,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 15</li>
+            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -885,10 +886,10 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 38</li>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 76</li>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 98</li>
-            <li> <a href="{{ "/tags/atmospheric-metal" | relative_url }}">atmospheric metal</a> # 99</li>
+            <li> <a href="{{ "/tags/atmospheric-metal" | relative_url }}">atmospheric metal</a> # 1</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 3</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 25</li>
+            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -927,7 +928,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 75</li>
+            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -983,8 +984,8 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a> # 15</li>
-            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 47</li>
+            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 53</li>
+            <li> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1020,7 +1021,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 96</li>
+            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1040,7 +1041,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 73</li>
+            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1077,7 +1078,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 90</li>
+            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1150,8 +1151,8 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 61</li>
-            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 91</li>
+            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 10</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1174,9 +1175,9 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 26</li>
-            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 37</li>
-            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 98</li>
+            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 3</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 65</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1229,7 +1230,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 62</li>
+            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1302,8 +1303,8 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 39</li>
-            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 75</li>
+            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 25</li>
+            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1323,7 +1324,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 76</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1361,7 +1362,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 69</li>
+            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1397,7 +1398,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 42</li>
+            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1470,7 +1471,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 57</li>
+            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1490,9 +1491,9 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 68</li>
-            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 69</li>
-            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 96</li>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 4</li>
+            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 31</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1530,7 +1531,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 50</li>
+            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1605,6 +1606,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1695,7 +1697,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 13</li>
+            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1714,7 +1716,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 47</li>
+            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1732,7 +1734,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 19</li>
+            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1807,7 +1809,7 @@ Folk metal is a subgenre of heavy metal that blends traditional folk music with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 88</li>
+            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 13</li>
         </ul>
       </td>
     </tr>

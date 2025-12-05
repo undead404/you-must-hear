@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T01:24:10.914Z
+date: 2025-12-05T09:35:53.437Z
 permalink: tags/modern-metal
 title: modern metal
 ---
 
 ## modern metal
 
-Last updated: <time datetime="2025-12-03T01:24:10.914Z">Wed Dec 03 2025 03:24:10 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T09:35:53.437Z">Fri Dec 05 2025 11:35:53 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -222,7 +222,7 @@ Modern metal blends aggressive guitar riffs and heavy rhythms with electronic el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-melodic-death-metal" | relative_url }}">modern melodic death metal</a> # 62</li>
+            <li> <a href="{{ "/tags/modern-melodic-death-metal" | relative_url }}">modern melodic death metal</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -242,8 +242,8 @@ Modern metal blends aggressive guitar riffs and heavy rhythms with electronic el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 14</li>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 25</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 77</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -264,7 +264,7 @@ Modern metal blends aggressive guitar riffs and heavy rhythms with electronic el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norsk" | relative_url }}">norsk</a> # 93</li>
+            <li> <a href="{{ "/tags/norsk" | relative_url }}">norsk</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -326,7 +326,7 @@ Modern metal blends aggressive guitar riffs and heavy rhythms with electronic el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a> # 47</li>
+            <li> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -382,9 +382,9 @@ Modern metal blends aggressive guitar riffs and heavy rhythms with electronic el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-melodic-death-metal" | relative_url }}">modern melodic death metal</a> # 25</li>
-            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 61</li>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 81</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 20</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 41</li>
+            <li> <a href="{{ "/tags/modern-melodic-death-metal" | relative_url }}">modern melodic death metal</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -461,7 +461,7 @@ Modern metal blends aggressive guitar riffs and heavy rhythms with electronic el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-death-metal" | relative_url }}">industrial death metal</a> # 76</li>
+            <li> <a href="{{ "/tags/industrial-death-metal" | relative_url }}">industrial death metal</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -538,7 +538,7 @@ Modern metal blends aggressive guitar riffs and heavy rhythms with electronic el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 95</li>
+            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -561,7 +561,7 @@ Modern metal blends aggressive guitar riffs and heavy rhythms with electronic el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-melodic-death-metal" | relative_url }}">modern melodic death metal</a> # 73</li>
+            <li> <a href="{{ "/tags/modern-melodic-death-metal" | relative_url }}">modern melodic death metal</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -626,7 +626,7 @@ Modern metal blends aggressive guitar riffs and heavy rhythms with electronic el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-melodic-death-metal" | relative_url }}">modern melodic death metal</a> # 66</li>
+            <li> <a href="{{ "/tags/modern-melodic-death-metal" | relative_url }}">modern melodic death metal</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -666,8 +666,8 @@ Modern metal blends aggressive guitar riffs and heavy rhythms with electronic el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 22</li>
-            <li> <a href="{{ "/tags/modern-melodic-death-metal" | relative_url }}">modern melodic death metal</a> # 69</li>
+            <li> <a href="{{ "/tags/modern-melodic-death-metal" | relative_url }}">modern melodic death metal</a> # 31</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -705,7 +705,7 @@ Modern metal blends aggressive guitar riffs and heavy rhythms with electronic el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 74</li>
+            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -744,7 +744,7 @@ Modern metal blends aggressive guitar riffs and heavy rhythms with electronic el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cyber-metal" | relative_url }}">cyber metal</a> # 81</li>
+            <li> <a href="{{ "/tags/cyber-metal" | relative_url }}">cyber metal</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -804,7 +804,7 @@ Modern metal blends aggressive guitar riffs and heavy rhythms with electronic el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-death-metal" | relative_url }}">industrial death metal</a> # 87</li>
+            <li> <a href="{{ "/tags/industrial-death-metal" | relative_url }}">industrial death metal</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -847,7 +847,7 @@ Modern metal blends aggressive guitar riffs and heavy rhythms with electronic el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 95</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -883,7 +883,7 @@ Modern metal blends aggressive guitar riffs and heavy rhythms with electronic el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 53</li>
+            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -902,7 +902,7 @@ Modern metal blends aggressive guitar riffs and heavy rhythms with electronic el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-melodic-death-metal" | relative_url }}">modern melodic death metal</a> # 89</li>
+            <li> <a href="{{ "/tags/modern-melodic-death-metal" | relative_url }}">modern melodic death metal</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -926,9 +926,9 @@ Modern metal blends aggressive guitar riffs and heavy rhythms with electronic el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 25</li>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 74</li>
-            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 97</li>
+            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 4</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 27</li>
+            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -947,8 +947,8 @@ Modern metal blends aggressive guitar riffs and heavy rhythms with electronic el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-melodic-death-metal" | relative_url }}">modern melodic death metal</a> # 18</li>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 33</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 68</li>
+            <li> <a href="{{ "/tags/modern-melodic-death-metal" | relative_url }}">modern melodic death metal</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -993,7 +993,7 @@ Modern metal blends aggressive guitar riffs and heavy rhythms with electronic el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-melodic-death-metal" | relative_url }}">modern melodic death metal</a> # 79</li>
+            <li> <a href="{{ "/tags/modern-melodic-death-metal" | relative_url }}">modern melodic death metal</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1070,7 +1070,7 @@ Modern metal blends aggressive guitar riffs and heavy rhythms with electronic el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-melodic-death-metal" | relative_url }}">modern melodic death metal</a> # 75</li>
+            <li> <a href="{{ "/tags/modern-melodic-death-metal" | relative_url }}">modern melodic death metal</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1148,7 +1148,7 @@ Modern metal blends aggressive guitar riffs and heavy rhythms with electronic el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 71</li>
+            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1173,8 +1173,8 @@ Modern metal blends aggressive guitar riffs and heavy rhythms with electronic el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/death-thrash-metal" | relative_url }}">death-thrash metal</a> # 10</li>
-            <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 90</li>
+            <li> <a href="{{ "/tags/death-thrash-metal" | relative_url }}">death-thrash metal</a> # 9</li>
+            <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1193,7 +1193,7 @@ Modern metal blends aggressive guitar riffs and heavy rhythms with electronic el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 71</li>
+            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1233,7 +1233,7 @@ Modern metal blends aggressive guitar riffs and heavy rhythms with electronic el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cyber-metal" | relative_url }}">cyber metal</a> # 85</li>
+            <li> <a href="{{ "/tags/cyber-metal" | relative_url }}">cyber metal</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1327,7 +1327,7 @@ Modern metal blends aggressive guitar riffs and heavy rhythms with electronic el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 7</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1383,8 +1383,8 @@ Modern metal blends aggressive guitar riffs and heavy rhythms with electronic el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 12</li>
-            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 78</li>
+            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 23</li>
+            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1403,7 +1403,7 @@ Modern metal blends aggressive guitar riffs and heavy rhythms with electronic el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 83</li>
+            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1450,7 +1450,7 @@ Modern metal blends aggressive guitar riffs and heavy rhythms with electronic el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-melodic-death-metal" | relative_url }}">modern melodic death metal</a> # 63</li>
+            <li> <a href="{{ "/tags/modern-melodic-death-metal" | relative_url }}">modern melodic death metal</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1475,7 +1475,7 @@ Modern metal blends aggressive guitar riffs and heavy rhythms with electronic el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-melodic-death-metal" | relative_url }}">modern melodic death metal</a> # 72</li>
+            <li> <a href="{{ "/tags/modern-melodic-death-metal" | relative_url }}">modern melodic death metal</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1512,7 +1512,7 @@ Modern metal blends aggressive guitar riffs and heavy rhythms with electronic el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 76</li>
+            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1646,7 +1646,7 @@ Modern metal blends aggressive guitar riffs and heavy rhythms with electronic el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-melodic-death-metal" | relative_url }}">modern melodic death metal</a> # 84</li>
+            <li> <a href="{{ "/tags/modern-melodic-death-metal" | relative_url }}">modern melodic death metal</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1786,11 +1786,11 @@ Modern metal blends aggressive guitar riffs and heavy rhythms with electronic el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 18</li>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 19</li>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 25</li>
-            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 96</li>
-            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 98</li>
+            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 3</li>
+            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 5</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 76</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 82</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1810,7 +1810,7 @@ Modern metal blends aggressive guitar riffs and heavy rhythms with electronic el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 75</li>
+            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1848,7 +1848,7 @@ Modern metal blends aggressive guitar riffs and heavy rhythms with electronic el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-melodic-death-metal" | relative_url }}">modern melodic death metal</a> # 87</li>
+            <li> <a href="{{ "/tags/modern-melodic-death-metal" | relative_url }}">modern melodic death metal</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1887,7 +1887,7 @@ Modern metal blends aggressive guitar riffs and heavy rhythms with electronic el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 61</li>
+            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1907,7 +1907,7 @@ Modern metal blends aggressive guitar riffs and heavy rhythms with electronic el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 27</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1967,7 +1967,7 @@ Modern metal blends aggressive guitar riffs and heavy rhythms with electronic el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 41</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -2007,9 +2007,9 @@ Modern metal blends aggressive guitar riffs and heavy rhythms with electronic el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 57</li>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 82</li>
-            <li> <a href="{{ "/tags/modern-rock" | relative_url }}">modern rock</a> # 99</li>
+            <li> <a href="{{ "/tags/modern-rock" | relative_url }}">modern rock</a> # 2</li>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 19</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 44</li>
         </ul>
       </td>
     </tr>

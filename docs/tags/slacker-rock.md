@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T03:26:51.267Z
+date: 2025-12-05T09:42:03.010Z
 permalink: tags/slacker-rock
 title: slacker rock
 ---
 
 ## slacker rock
 
-Last updated: <time datetime="2025-12-03T03:26:51.267Z">Wed Dec 03 2025 05:26:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T09:42:03.010Z">Fri Dec 05 2025 11:42:03 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -149,7 +149,7 @@ Slacker rock is a lo-fi indie genre characterized by deliberately unpolished pro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 75</li>
+            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -193,7 +193,7 @@ Slacker rock is a lo-fi indie genre characterized by deliberately unpolished pro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 53</li>
+            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -233,8 +233,8 @@ Slacker rock is a lo-fi indie genre characterized by deliberately unpolished pro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 61</li>
-            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 98</li>
+            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 2</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -258,7 +258,7 @@ Slacker rock is a lo-fi indie genre characterized by deliberately unpolished pro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-rock-revival" | relative_url }}">space rock revival</a> # 61</li>
+            <li> <a href="{{ "/tags/space-rock-revival" | relative_url }}">space rock revival</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -360,7 +360,7 @@ Slacker rock is a lo-fi indie genre characterized by deliberately unpolished pro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 49</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 52</li>
             <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 98</li>
         </ul>
       </td>
@@ -397,7 +397,7 @@ Slacker rock is a lo-fi indie genre characterized by deliberately unpolished pro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-rock-revival" | relative_url }}">space rock revival</a> # 81</li>
+            <li> <a href="{{ "/tags/space-rock-revival" | relative_url }}">space rock revival</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -416,7 +416,7 @@ Slacker rock is a lo-fi indie genre characterized by deliberately unpolished pro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 57</li>
+            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -437,7 +437,7 @@ Slacker rock is a lo-fi indie genre characterized by deliberately unpolished pro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 56</li>
+            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -455,7 +455,7 @@ Slacker rock is a lo-fi indie genre characterized by deliberately unpolished pro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 30</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -541,9 +541,9 @@ Slacker rock is a lo-fi indie genre characterized by deliberately unpolished pro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternativo" | relative_url }}">alternativo</a> # 69</li>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 72</li>
-            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 75</li>
+            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 25</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 29</li>
+            <li> <a href="{{ "/tags/alternativo" | relative_url }}">alternativo</a> # 31</li>
             <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 92</li>
         </ul>
       </td>
@@ -586,10 +586,10 @@ Slacker rock is a lo-fi indie genre characterized by deliberately unpolished pro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 74</li>
-            <li> <a href="{{ "/tags/space-rock-revival" | relative_url }}">space rock revival</a> # 90</li>
-            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 95</li>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 97</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 4</li>
+            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 6</li>
+            <li> <a href="{{ "/tags/space-rock-revival" | relative_url }}">space rock revival</a> # 10</li>
+            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -629,8 +629,8 @@ Slacker rock is a lo-fi indie genre characterized by deliberately unpolished pro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 92</li>
-            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 96</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 5</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -650,7 +650,7 @@ Slacker rock is a lo-fi indie genre characterized by deliberately unpolished pro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 58</li>
+            <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -672,7 +672,7 @@ Slacker rock is a lo-fi indie genre characterized by deliberately unpolished pro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 6</li>
+            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -713,8 +713,8 @@ Slacker rock is a lo-fi indie genre characterized by deliberately unpolished pro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 52</li>
-            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 71</li>
+            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 29</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -733,7 +733,7 @@ Slacker rock is a lo-fi indie genre characterized by deliberately unpolished pro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 28</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -752,9 +752,9 @@ Slacker rock is a lo-fi indie genre characterized by deliberately unpolished pro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 21</li>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 35</li>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 79</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 22</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 66</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -777,8 +777,8 @@ Slacker rock is a lo-fi indie genre characterized by deliberately unpolished pro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 18</li>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 32</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 69</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -820,8 +820,8 @@ Slacker rock is a lo-fi indie genre characterized by deliberately unpolished pro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 51</li>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 61</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 39</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -896,7 +896,7 @@ Slacker rock is a lo-fi indie genre characterized by deliberately unpolished pro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 48</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -914,7 +914,7 @@ Slacker rock is a lo-fi indie genre characterized by deliberately unpolished pro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 19</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -951,7 +951,7 @@ Slacker rock is a lo-fi indie genre characterized by deliberately unpolished pro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 47</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -969,8 +969,8 @@ Slacker rock is a lo-fi indie genre characterized by deliberately unpolished pro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 3</li>
-            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 73</li>
+            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 28</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -988,8 +988,8 @@ Slacker rock is a lo-fi indie genre characterized by deliberately unpolished pro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 60</li>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 77</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 24</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1008,7 +1008,7 @@ Slacker rock is a lo-fi indie genre characterized by deliberately unpolished pro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 28</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1026,9 +1026,9 @@ Slacker rock is a lo-fi indie genre characterized by deliberately unpolished pro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 63</li>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 93</li>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 97</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 4</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 8</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1046,8 +1046,8 @@ Slacker rock is a lo-fi indie genre characterized by deliberately unpolished pro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 15</li>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 88</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 47</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1085,8 +1085,8 @@ Slacker rock is a lo-fi indie genre characterized by deliberately unpolished pro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 87</li>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 95</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 6</li>
+            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -1108,9 +1108,9 @@ Slacker rock is a lo-fi indie genre characterized by deliberately unpolished pro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 74</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 92</li>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 94</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 7</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 9</li>
+            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1148,8 +1148,8 @@ Slacker rock is a lo-fi indie genre characterized by deliberately unpolished pro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 67</li>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 92</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 8</li>
+            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1187,7 +1187,7 @@ Slacker rock is a lo-fi indie genre characterized by deliberately unpolished pro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 74</li>
+            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1210,8 +1210,8 @@ Slacker rock is a lo-fi indie genre characterized by deliberately unpolished pro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 56</li>
-            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 74</li>
+            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 26</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1230,7 +1230,7 @@ Slacker rock is a lo-fi indie genre characterized by deliberately unpolished pro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 59</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1248,7 +1248,7 @@ Slacker rock is a lo-fi indie genre characterized by deliberately unpolished pro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 29</li>
+            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1311,8 +1311,8 @@ Slacker rock is a lo-fi indie genre characterized by deliberately unpolished pro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 12</li>
-            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 49</li>
+            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 52</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1330,10 +1330,10 @@ Slacker rock is a lo-fi indie genre characterized by deliberately unpolished pro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 34</li>
-            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 35</li>
-            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 39</li>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 62</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 38</li>
+            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 62</li>
+            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 65</li>
+            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1353,8 +1353,8 @@ Slacker rock is a lo-fi indie genre characterized by deliberately unpolished pro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 14</li>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 82</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 19</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1375,7 +1375,7 @@ Slacker rock is a lo-fi indie genre characterized by deliberately unpolished pro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 97</li>
+            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1399,9 +1399,9 @@ Slacker rock is a lo-fi indie genre characterized by deliberately unpolished pro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 57</li>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 68</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 83</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 18</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 33</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1446,10 +1446,10 @@ Slacker rock is a lo-fi indie genre characterized by deliberately unpolished pro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 96</li>
-            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 98</li>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 99</li>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 100</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 1</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 2</li>
+            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 3</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1471,8 +1471,8 @@ Slacker rock is a lo-fi indie genre characterized by deliberately unpolished pro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 18</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 36</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 65</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1495,9 +1495,9 @@ Slacker rock is a lo-fi indie genre characterized by deliberately unpolished pro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 41</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 66</li>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 76</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 25</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 35</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1519,8 +1519,8 @@ Slacker rock is a lo-fi indie genre characterized by deliberately unpolished pro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 57</li>
-            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 92</li>
+            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 9</li>
+            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1560,9 +1560,9 @@ Slacker rock is a lo-fi indie genre characterized by deliberately unpolished pro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 24</li>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 28</li>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 45</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 55</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 70</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1603,7 +1603,7 @@ Slacker rock is a lo-fi indie genre characterized by deliberately unpolished pro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 71</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1625,7 +1625,7 @@ Slacker rock is a lo-fi indie genre characterized by deliberately unpolished pro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 80</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1661,8 +1661,8 @@ Slacker rock is a lo-fi indie genre characterized by deliberately unpolished pro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 66</li>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 94</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 7</li>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1683,7 +1683,7 @@ Slacker rock is a lo-fi indie genre characterized by deliberately unpolished pro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 60</li>
+            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1757,7 +1757,7 @@ Slacker rock is a lo-fi indie genre characterized by deliberately unpolished pro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-rock-revival" | relative_url }}">space rock revival</a> # 95</li>
+            <li> <a href="{{ "/tags/space-rock-revival" | relative_url }}">space rock revival</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -1776,8 +1776,8 @@ Slacker rock is a lo-fi indie genre characterized by deliberately unpolished pro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 68</li>
-            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 77</li>
+            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 23</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1798,7 +1798,7 @@ Slacker rock is a lo-fi indie genre characterized by deliberately unpolished pro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 64</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1816,6 +1816,7 @@ Slacker rock is a lo-fi indie genre characterized by deliberately unpolished pro
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/space-rock-revival" | relative_url }}">space rock revival</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1840,8 +1841,8 @@ Slacker rock is a lo-fi indie genre characterized by deliberately unpolished pro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 17</li>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 55</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 46</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1919,9 +1920,9 @@ Slacker rock is a lo-fi indie genre characterized by deliberately unpolished pro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 78</li>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 98</li>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 99</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 2</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 3</li>
+            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1996,9 +1997,9 @@ Slacker rock is a lo-fi indie genre characterized by deliberately unpolished pro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 33</li>
-            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 39</li>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 75</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 26</li>
+            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 59</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -2021,7 +2022,7 @@ Slacker rock is a lo-fi indie genre characterized by deliberately unpolished pro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 30</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -2045,7 +2046,7 @@ Slacker rock is a lo-fi indie genre characterized by deliberately unpolished pro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/doomergaze" | relative_url }}">doomergaze</a> # 21</li>
+            <li> <a href="{{ "/tags/doomergaze" | relative_url }}">doomergaze</a> # 80</li>
         </ul>
       </td>
     </tr>
