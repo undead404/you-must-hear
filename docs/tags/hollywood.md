@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-13T03:16:56.672Z
+date: 2025-12-04T17:58:20.111Z
 permalink: tags/hollywood
 title: hollywood
 ---
 
 ## hollywood
 
-Last updated: <time datetime="2025-11-13T03:16:56.672Z">Thu Nov 13 2025 05:16:56 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T17:58:20.111Z">Thu Dec 04 2025 19:58:20 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -120,16 +120,15 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 16</li>
-            <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 38</li>
-            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 46</li>
+            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 55</li>
+            <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 63</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>29</td>
       <td>
-          <img src="https://i.discogs.com/jyB3qQumRw0Fr1-wtrtNPwKwbxgG_F_GE6w_BCo2Dp0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDIz/NDg3LTE3MTkwMDIy/NzctNjM5Ni5qcGVn.jpeg" alt="Cover for Herrmann - The Film Scores" style="max-width:120px; height:auto;" />
       </td>
       <td>1978</td>
       <td>Los Angeles Philharmonic</td>
@@ -179,8 +178,8 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 18</li>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 100</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 1</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -220,7 +219,7 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 80</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -250,6 +249,7 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
     <tr>
       <td>88</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/08094b12107d4193a12633f51314ee00.png" alt="Cover for Shotgun Messiah" style="max-width:120px; height:auto;" />
       </td>
       <td>1989</td>
       <td>Shotgun Messiah</td>
@@ -270,9 +270,9 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 3</li>
             <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 26</li>
-            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 46</li>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 54</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -315,8 +315,8 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 65</li>
-            <li> <a href="{{ "/tags/mother" | relative_url }}">mother</a> # 73</li>
+            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 35</li>
+            <li> <a href="{{ "/tags/mother" | relative_url }}">mother</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -335,7 +335,6 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skate-punk" | relative_url }}">skate punk</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -357,7 +356,7 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 36</li>
+            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -380,7 +379,7 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 7</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -403,7 +402,7 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 52</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -423,7 +422,7 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 32</li>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -486,7 +485,7 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 44</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -519,8 +518,8 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 55</li>
-            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 61</li>
+            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 40</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -543,8 +542,8 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 21</li>
-            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 37</li>
+            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 64</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -586,7 +585,7 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 78</li>
+            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -635,9 +634,9 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 2</li>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 79</li>
-            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 81</li>
+            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 20</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 22</li>
+            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -683,7 +682,7 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 35</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -704,7 +703,7 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 53</li>
+            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -749,11 +748,11 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 6</li>
-            <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 32</li>
-            <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 68</li>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 82</li>
-            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 83</li>
+            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 18</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 19</li>
+            <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 33</li>
+            <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 68</li>
+            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -797,11 +796,11 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 7</li>
-            <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 35</li>
-            <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 69</li>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 83</li>
-            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 84</li>
+            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 17</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 18</li>
+            <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 32</li>
+            <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 65</li>
+            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -820,7 +819,7 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 36</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -840,7 +839,7 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 56</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -879,7 +878,8 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 98</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 3</li>
+            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -902,8 +902,8 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 28</li>
-            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 54</li>
+            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 47</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -929,8 +929,8 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a> # 67</li>
-            <li> <a href="{{ "/tags/hamburg" | relative_url }}">hamburg</a> # 76</li>
+            <li> <a href="{{ "/tags/hamburg" | relative_url }}">hamburg</a> # 25</li>
+            <li> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -983,8 +983,8 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 38</li>
-            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 75</li>
+            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 26</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1003,7 +1003,7 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 95</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -1073,8 +1073,8 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 63</li>
-            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 71</li>
+            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 30</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1139,8 +1139,8 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 29</li>
-            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 38</li>
+            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 63</li>
+            <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1163,13 +1163,14 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 89</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 11</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>85</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a8a3dac95f28ff7d40e13640fe55b72b.png" alt="Cover for Tränen auf dem Dancefloor" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-04-21</td>
       <td>Juli Holz</td>
@@ -1218,11 +1219,11 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 40</li>
-            <li> <a href="{{ "/tags/liedermacher" | relative_url }}">liedermacher</a> # 61</li>
-            <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 64</li>
-            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 88</li>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 96</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 5</li>
+            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 13</li>
+            <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 37</li>
+            <li> <a href="{{ "/tags/liedermacher" | relative_url }}">liedermacher</a> # 40</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1246,7 +1247,7 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 23</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1267,7 +1268,7 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 55</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1303,7 +1304,7 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 91</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1330,9 +1331,9 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 59</li>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 88</li>
-            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 95</li>
+            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 6</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 13</li>
+            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1367,8 +1368,8 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 56</li>
-            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 62</li>
+            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 39</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1403,8 +1404,8 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 40</li>
-            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 74</li>
+            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 27</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1428,11 +1429,11 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 1</li>
-            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 21</li>
-            <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 25</li>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 85</li>
-            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 93</li>
+            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 8</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 16</li>
+            <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 73</li>
+            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 80</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1471,7 +1472,7 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 51</li>
+            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1517,7 +1518,7 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 24</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1544,8 +1545,8 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 64</li>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 67</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 34</li>
+            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1567,7 +1568,7 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 11</li>
+            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1634,9 +1635,9 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 51</li>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 58</li>
-            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 63</li>
+            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 38</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 43</li>
+            <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1688,8 +1689,8 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 10</li>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 54</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 47</li>
+            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1733,18 +1734,20 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 16</li>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 22</li>
-            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 39</li>
-            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 58</li>
-            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 89</li>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 92</li>
+            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 3</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 9</li>
+            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 12</li>
+            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 42</li>
+            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 64</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 79</li>
+            <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>79</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fcd928f732bb4e80b3bc438bc2ccfc44.png" alt="Cover for Pläne Für Gestern" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-05-22</td>
       <td>Minitimer Katzenposter</td>
@@ -1769,10 +1772,10 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 15</li>
-            <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 27</li>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 81</li>
-            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 82</li>
+            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 19</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 20</li>
+            <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 73</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1827,11 +1830,11 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 41</li>
-            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 43</li>
-            <li> <a href="{{ "/tags/liedermacher" | relative_url }}">liedermacher</a> # 64</li>
-            <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 66</li>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 97</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 4</li>
+            <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 35</li>
+            <li> <a href="{{ "/tags/liedermacher" | relative_url }}">liedermacher</a> # 37</li>
+            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 57</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1851,7 +1854,7 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 100</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -1886,8 +1889,8 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 36</li>
-            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 80</li>
+            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 21</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1925,9 +1928,9 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 14</li>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 76</li>
-            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 77</li>
+            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 24</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 25</li>
+            <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1970,8 +1973,8 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 1</li>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 43</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 59</li>
+            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1998,8 +2001,8 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 56</li>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 77</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 24</li>
+            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -2023,7 +2026,7 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 83</li>
+            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -2065,14 +2068,14 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 66</li>
+            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 35</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>16</td>
       <td>
-          <img src="https://i.discogs.com/op4N67_c1LFPd6BqQpsE35MqGzwgRAOiIjO2XJo_dmk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzk1/Mzc4LTE1MDQ1MDcz/MTEtMTcwMy5qcGVn.jpeg" alt="Cover for Zeitmaschine" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9ea0f60b54d64fc4ae9f251fdc03da7a.png" alt="Cover for Zeitmaschine" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>Les Bummms Boys</td>
@@ -2128,15 +2131,16 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 10</li>
-            <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 33</li>
-            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 43</li>
+            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 58</li>
+            <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 68</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>71</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/caa5ebc204f5550e441e1c201503643a.png" alt="Cover for Davey Suicide" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-03-12</td>
       <td>Davey Suicide</td>
@@ -2197,17 +2201,18 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 29</li>
-            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 61</li>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 68</li>
-            <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 79</li>
-            <li> <a href="{{ "/tags/liedermacher" | relative_url }}">liedermacher</a> # 84</li>
+            <li> <a href="{{ "/tags/liedermacher" | relative_url }}">liedermacher</a> # 17</li>
+            <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 22</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 32</li>
+            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 39</li>
+            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>46</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3e6d2a7ae7f44e7fce0016e117946632.png" alt="Cover for Worldwide Suicide" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-09-30</td>
       <td>Davey Suicide</td>
@@ -2245,7 +2250,7 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
     <tr>
       <td>72</td>
       <td>
-          <img src="https://i.discogs.com/ziEQFqBQZf7JYV6RSnKbCb2wnxK5izKEhJvompFOHkA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzE3/NzMwLTE2Mzk3Nzc5/OTQtNDU0Ny5qcGVn.jpeg" alt="Cover for Made from Fire" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c6decc056075935b25037695e9be387f.png" alt="Cover for Made from Fire" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-03-24</td>
       <td>Davey Suicide</td>
@@ -2296,7 +2301,7 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 60</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -2315,6 +2320,7 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -2335,7 +2341,7 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 27</li>
+            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -2415,8 +2421,8 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 37</li>
-            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 52</li>
+            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 49</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -2453,9 +2459,8 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 5</li>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 86</li>
-            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 87</li>
+            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 14</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -2560,9 +2565,9 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 56</li>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 66</li>
-            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 68</li>
+            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 33</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 35</li>
+            <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -2595,7 +2600,7 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 18</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -2622,8 +2627,8 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 40</li>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 42</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 59</li>
+            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -2644,7 +2649,7 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 28</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -2662,7 +2667,7 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 33</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -2691,8 +2696,8 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 34</li>
-            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 50</li>
+            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 51</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -2750,9 +2755,9 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 63</li>
-            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 73</li>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 75</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 26</li>
+            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 28</li>
+            <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -2786,7 +2791,7 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 79</li>
+            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -2856,6 +2861,7 @@ The &quot;hollywood&quot; tag encompasses music with a glamorous, cinematic qual
     <tr>
       <td>20</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f29b198aff3d4fc8a6c594443ba17852.png" alt="Cover for Backnbloom" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Backnbloom</td>

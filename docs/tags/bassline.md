@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-11T04:17:33.553Z
+date: 2025-12-04T17:57:54.664Z
 permalink: tags/bassline
 title: bassline
 ---
 
 ## bassline
 
-Last updated: <time datetime="2025-11-11T04:17:33.553Z">Tue Nov 11 2025 06:17:33 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T17:57:54.664Z">Thu Dec 04 2025 19:57:54 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -152,8 +152,8 @@ Bassline is a music genre that originated in the early 2000s in South Yorkshire 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-house" | relative_url }}">garage house</a> # 62</li>
-            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 64</li>
+            <li> <a href="{{ "/tags/garage-house" | relative_url }}">garage house</a> # 39</li>
+            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -274,14 +274,15 @@ Bassline is a music genre that originated in the early 2000s in South Yorkshire 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 10</li>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 13</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 56</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 62</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 73</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 75</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 77</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 87</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 13</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 21</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 25</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 26</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 36</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 40</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 75</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 89</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -310,16 +311,16 @@ Bassline is a music genre that originated in the early 2000s in South Yorkshire 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 4</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 31</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 42</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 55</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 77</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 86</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 86</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 87</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 91</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 96</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 4</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 7</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 12</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 12</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 15</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 17</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 39</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 49</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 61</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -347,9 +348,10 @@ Bassline is a music genre that originated in the early 2000s in South Yorkshire 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 12</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 29</li>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 35</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 66</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 68</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 87</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -377,10 +379,11 @@ Bassline is a music genre that originated in the early 2000s in South Yorkshire 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 11</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 26</li>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 32</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 43</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 54</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 69</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 73</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 85</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -408,11 +411,11 @@ Bassline is a music genre that originated in the early 2000s in South Yorkshire 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 5</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 13</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 28</li>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 31</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 44</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 53</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 70</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 71</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 83</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -441,16 +444,16 @@ Bassline is a music genre that originated in the early 2000s in South Yorkshire 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 8</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 10</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 27</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 27</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 69</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 76</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 81</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 82</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 86</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 92</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 8</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 13</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 17</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 19</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 22</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 26</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 60</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 62</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 80</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -475,8 +478,8 @@ Bassline is a music genre that originated in the early 2000s in South Yorkshire 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 43</li>
-            <li> <a href="{{ "/tags/juke" | relative_url }}">juke</a> # 46</li>
+            <li> <a href="{{ "/tags/juke" | relative_url }}">juke</a> # 55</li>
+            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -517,26 +520,26 @@ Bassline is a music genre that originated in the early 2000s in South Yorkshire 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 4</li>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 15</li>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 40</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 51</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 55</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 70</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 72</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 73</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 74</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 83</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 85</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 85</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 85</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 86</li>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 88</li>
-            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 93</li>
-            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 95</li>
-            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 96</li>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 100</li>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 100</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 1</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 1</li>
+            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 3</li>
+            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 8</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 13</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 15</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 15</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 15</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 16</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 16</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 24</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 24</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 28</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 29</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 42</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 43</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 46</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 82</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 87</li>
+            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -571,19 +574,20 @@ Bassline is a music genre that originated in the early 2000s in South Yorkshire 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 17</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 49</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 53</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 68</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 70</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 71</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 72</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 81</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 83</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 83</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 83</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 84</li>
-            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 91</li>
+            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 10</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 17</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 17</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 17</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 18</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 18</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 26</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 26</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 30</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 31</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 44</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 45</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 85</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -618,20 +622,21 @@ Bassline is a music genre that originated in the early 2000s in South Yorkshire 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 7</li>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 14</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 55</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 61</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 72</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 73</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 75</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 76</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 86</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 86</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 86</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 86</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 87</li>
-            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 94</li>
+            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 7</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 14</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 14</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 14</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 14</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 15</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 21</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 23</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 27</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 27</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 37</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 41</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 78</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 88</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -666,21 +671,22 @@ Bassline is a music genre that originated in the early 2000s in South Yorkshire 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 11</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 22</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 23</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 66</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 70</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 78</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 79</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 82</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 83</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 89</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 90</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 90</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 90</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 90</li>
-            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 96</li>
+            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 6</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 11</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 11</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 11</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 12</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 12</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 16</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 17</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 20</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 22</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 27</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 29</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 65</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 67</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 90</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -709,16 +715,16 @@ Bassline is a music genre that originated in the early 2000s in South Yorkshire 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 5</li>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 9</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 25</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 26</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 68</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 73</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 80</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 81</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 84</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 91</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 9</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 15</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 18</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 20</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 24</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 27</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 63</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 64</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 85</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -747,16 +753,16 @@ Bassline is a music genre that originated in the early 2000s in South Yorkshire 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 5</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 28</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 38</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 47</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 72</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 84</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 85</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 85</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 90</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 95</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 5</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 9</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 14</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 14</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 16</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 21</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 46</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 52</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 64</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -770,44 +776,29 @@ Bassline is a music genre that originated in the early 2000s in South Yorkshire 
       <td>Under Stars</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/europe" | relative_url }}">europe</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/european" | relative_url }}">european</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/norway" | relative_url }}">norway</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rave" | relative_url }}">rave</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 2</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 38</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 53</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 58</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 79</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 88</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 88</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 88</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 92</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 92</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 93</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 93</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 93</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 93</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 97</li>
-            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 99</li>
+            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 2</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 7</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 8</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 8</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 8</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 11</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 11</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 13</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -836,13 +827,14 @@ Bassline is a music genre that originated in the early 2000s in South Yorkshire 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 19</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 42</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 46</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 64</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 64</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 66</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 79</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 20</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 34</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 34</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 35</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 50</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 52</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 83</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -909,7 +901,7 @@ Bassline is a music genre that originated in the early 2000s in South Yorkshire 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 42</li>
+            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1063,14 +1055,14 @@ Bassline is a music genre that originated in the early 2000s in South Yorkshire 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 70</li>
+            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>47</td>
       <td>
-          <img src="https://i.discogs.com/-O408nZje_d4Fxoml5Ny9nziediqjQlVunxzXcFaFVE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjg3/NzctMTIxODk0NzAw/NS5qcGVn.jpeg" alt="Cover for Never Fully Recovered EP (PTDM012, 2008)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/40b825d58e4c4774af6ab175d206987c.png" alt="Cover for Never Fully Recovered EP (PTDM012, 2008)" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-08-16</td>
       <td>manormouse</td>
@@ -1087,7 +1079,7 @@ Bassline is a music genre that originated in the early 2000s in South Yorkshire 
     <tr>
       <td>73</td>
       <td>
-          <img src="https://i.discogs.com/LdKxNhbSdVIlXlHyfUdkIS1rR7tty0BemUabIFu2QL4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTc4/ODQtMTUyMzcwNjUx/My00OTIzLmpwZWc.jpeg" alt="Cover for The Young Lovers" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2e1fa2fbb663494a849be333cc1379b7.png" alt="Cover for The Young Lovers" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-04-20</td>
       <td>The Young Lovers</td>
@@ -1190,7 +1182,7 @@ Bassline is a music genre that originated in the early 2000s in South Yorkshire 
     <tr>
       <td>32</td>
       <td>
-          <img src="https://i.discogs.com/LC4rEIxSaixUuRWg8RWLYq_B_e3c-Fqr-cAVsZOmEBQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODk1/OTMtMTI4NjgzMjgw/MC5qcGVn.jpeg" alt="Cover for Protect The Innocent E.P." style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0dc4d32e678c457eb1a58c5b37aae823.png" alt="Cover for Protect The Innocent E.P." style="max-width:120px; height:auto;" />
       </td>
       <td>2010-11-01</td>
       <td>Carbon Parlour</td>
@@ -1212,7 +1204,7 @@ Bassline is a music genre that originated in the early 2000s in South Yorkshire 
     <tr>
       <td>20</td>
       <td>
-          <img src="https://i.discogs.com/DD1ST71bElmxuV7RvWs9oKvju4Q6e7NDbmh3doow1Jk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTIy/MzEtMTQ3Njc0NDk1/My03MjYyLmpwZWc.jpeg" alt="Cover for st album (PTDM015, 2009)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f9dff9c9398d6d752c17f842993a522.png" alt="Cover for st album (PTDM015, 2009)" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>EatMe</td>
@@ -1229,7 +1221,7 @@ Bassline is a music genre that originated in the early 2000s in South Yorkshire 
     <tr>
       <td>58</td>
       <td>
-          <img src="https://i.discogs.com/h_iDB5wCYkIXz-tUvCmf6fnhQZWrSzGQqYT1D6z23Xo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTA3/NTk1LTE1NTU1MTI1/MzUtMTg3Ny5qcGVn.jpeg" alt="Cover for Hustler EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/23acf9b743104b5084aa24f276123e1e.png" alt="Cover for Hustler EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-01-17</td>
       <td>Rubberteeth</td>
@@ -1251,7 +1243,7 @@ Bassline is a music genre that originated in the early 2000s in South Yorkshire 
     <tr>
       <td>55</td>
       <td>
-          <img src="https://i.discogs.com/9KKS8UBEmSfvPASDMkEMrch3OL2l69tLdq--yig5HyU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTIz/MTU4LTE2Nzg2NTY4/NjEtNjQ0MS5qcGVn.jpeg" alt="Cover for Flipside EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee4bbe7f15cf4c3eb62543526ec3ea75.png" alt="Cover for Flipside EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-09-19</td>
       <td>Carbon Parlour</td>
@@ -1294,8 +1286,8 @@ Bassline is a music genre that originated in the early 2000s in South Yorkshire 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/riddim" | relative_url }}">riddim</a> # 20</li>
-            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 26</li>
+            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 75</li>
+            <li> <a href="{{ "/tags/riddim" | relative_url }}">riddim</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1352,14 +1344,14 @@ Bassline is a music genre that originated in the early 2000s in South Yorkshire 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 24</li>
+            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>1</td>
       <td>
-          <img src="https://i.discogs.com/E02TBXW6DKFUPFt00NFfJ-h0MAIHe1cSdagO0RCypoI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MTk3/MTktMTQyOTUxNzg1/NC04ODcwLmpwZWc.jpeg" alt="Cover for Lower Class Chav EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/65372ce2bb93c5fff5a3b84a591b711a.png" alt="Cover for Lower Class Chav EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-03-20</td>
       <td>Sebby T</td>
@@ -1374,7 +1366,7 @@ Bassline is a music genre that originated in the early 2000s in South Yorkshire 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bounce" | relative_url }}">bounce</a> # 15</li>
+            <li> <a href="{{ "/tags/bounce" | relative_url }}">bounce</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1399,7 +1391,7 @@ Bassline is a music genre that originated in the early 2000s in South Yorkshire 
     <tr>
       <td>60</td>
       <td>
-          <img src="https://i.discogs.com/9W8AzlwQ12pw6DTH1I2VyKvidw-8tR1m1UayZUN-caU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4ODQ0/NjQtMTM3ODQyNjM0/MS00OTAzLmpwZWc.jpeg" alt="Cover for Contact EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bd96b680e42045b8ba85d945e3c4f668.png" alt="Cover for Contact EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-06-09</td>
       <td>My Nu Leng</td>
@@ -1455,14 +1447,14 @@ Bassline is a music genre that originated in the early 2000s in South Yorkshire 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 45</li>
+            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>31</td>
       <td>
-          <img src="https://i.discogs.com/Xx58M3hZwYZcIKVD1y0PNAN5HMhpKuFHCFP-y00ZTZs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxOTg3/MjYtMTU0ODQ3MDU0/Ny00MjcxLmpwZWc.jpeg" alt="Cover for Voo-Doo step" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/de7460f24e3b4a2693850d30dde0674f.png" alt="Cover for Voo-Doo step" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-10-17</td>
       <td>mi.hal</td>
@@ -1498,8 +1490,8 @@ Bassline is a music genre that originated in the early 2000s in South Yorkshire 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 47</li>
-            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 86</li>
+            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 15</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1517,19 +1509,19 @@ Bassline is a music genre that originated in the early 2000s in South Yorkshire 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 20</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 31</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 42</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 57</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 59</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 60</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 60</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 73</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 74</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 76</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 76</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 78</li>
-            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 85</li>
+            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 16</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 23</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 24</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 25</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 25</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 26</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 37</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 38</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 39</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 40</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 56</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 56</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1564,29 +1556,28 @@ Bassline is a music genre that originated in the early 2000s in South Yorkshire 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 7</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 12</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 28</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 28</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 70</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 77</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 82</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 83</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 85</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 87</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 92</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 92</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 92</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 92</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 93</li>
-            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 98</li>
+            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 4</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 7</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 9</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 9</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 10</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 10</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 12</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 14</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 16</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 18</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 21</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 25</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 59</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 61</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 78</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>35</td>
       <td>
-          <img src="https://i.discogs.com/GlF796hZVbJBH6sZ--MIHGTP3_hmo_BupQcEC_VXKzU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTky/NTg1LTE1MDA1NTYw/NjQtNTA4OC5qcGVn.jpeg" alt="Cover for Unkind" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-06-30</td>
       <td>reCap</td>
@@ -1736,29 +1727,29 @@ Bassline is a music genre that originated in the early 2000s in South Yorkshire 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 1</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 41</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 56</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 59</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 80</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 89</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 89</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 89</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 93</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 93</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 94</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 94</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 94</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 94</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 98</li>
-            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 100</li>
+            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 1</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 3</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 5</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 6</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 7</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 7</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 7</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 7</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 10</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 10</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 12</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 15</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 36</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 37</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 51</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>53</td>
       <td>
-          <img src="https://i.discogs.com/jB7qfLQEfdXgz-ziaouolA8b2nd-uoFv8FzxLsRgVPE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDIy/ODY4LTE2ODYxMDE3/MTgtNjA3MS5wbmc.jpeg" alt="Cover for Heat Mover &#x2F; Battery" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/871f500f553aa48f2c04cd586eb1ec3e.png" alt="Cover for Heat Mover &#x2F; Battery" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-09-14</td>
       <td>Lurka</td>
@@ -1775,7 +1766,7 @@ Bassline is a music genre that originated in the early 2000s in South Yorkshire 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 40</li>
+            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1851,20 +1842,20 @@ Bassline is a music genre that originated in the early 2000s in South Yorkshire 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 1</li>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 16</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 50</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 54</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 69</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 71</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 72</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 73</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 82</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 84</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 84</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 84</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 85</li>
-            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 92</li>
+            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 9</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 16</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 16</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 16</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 17</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 17</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 25</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 25</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 29</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 30</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 43</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 44</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 84</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1914,16 +1905,16 @@ Bassline is a music genre that originated in the early 2000s in South Yorkshire 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 1</li>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 10</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 23</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 24</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 67</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 71</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 79</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 80</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 83</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 90</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 10</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 16</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 19</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 21</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 26</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 28</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 64</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 66</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 89</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -2039,7 +2030,7 @@ Bassline is a music genre that originated in the early 2000s in South Yorkshire 
     <tr>
       <td>23</td>
       <td>
-          <img src="https://i.discogs.com/b4jL0UG0Y_AicqMsT5jbItVV7LFKTJv21pTaLiOzDTI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTc0/MDUyLTE2MzQxMjMz/MTctNzMzMS5qcGVn.jpeg" alt="Cover for Neuroleptik" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2c85751b341aaebe3ab8c5eaabc86ce0.png" alt="Cover for Neuroleptik" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-10-22</td>
       <td>Never Enough System</td>
@@ -2075,7 +2066,7 @@ Bassline is a music genre that originated in the early 2000s in South Yorkshire 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 12</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -2100,17 +2091,18 @@ Bassline is a music genre that originated in the early 2000s in South Yorkshire 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 46</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 55</li>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 57</li>
-            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 90</li>
+            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 11</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 38</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 43</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 52</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>76</td>
       <td>
-          <img src="https://i.discogs.com/TIXRUokLHaRfvEHXdKL294-7K8GYdG7j-yNLXxu88SQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDE1/NzAxLTE2NzU3MTQ1/OTEtMjU3OS5qcGVn.jpeg" alt="Cover for Est. 2003" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a5c5eb9f9c74dce095404b454bd9c5b5.png" alt="Cover for Est. 2003" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-09-23</td>
       <td>DJ Q</td>
@@ -2127,7 +2119,7 @@ Bassline is a music genre that originated in the early 2000s in South Yorkshire 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 8</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -2202,15 +2194,15 @@ Bassline is a music genre that originated in the early 2000s in South Yorkshire 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 1</li>
-            <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 55</li>
+            <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 43</li>
+            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>67</td>
       <td>
-          <img src="https://i.discogs.com/VjrpkCJ-4wMzKOWGNpFUj3xkkTEdpLT-5VIoQENT-jQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDk1/Mjk1LTE2NDcxNzk1/NTAtMzQ5OC5wbmc.jpeg" alt="Cover for This is Night Bass: Vol. 13" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c5dcd0c4e1cecf93843c632f9895449.png" alt="Cover for This is Night Bass: Vol. 13" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-02-09</td>
       <td>Night Bass</td>
@@ -2227,14 +2219,15 @@ Bassline is a music genre that originated in the early 2000s in South Yorkshire 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 11</li>
-            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 69</li>
+            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 32</li>
+            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>10</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/50145585bbbe01258d3e4da67bc7e66a.png" alt="Cover for Barr Tenderzz" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Vlad Pronin</td>
@@ -2261,7 +2254,7 @@ Bassline is a music genre that originated in the early 2000s in South Yorkshire 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 3</li>
+            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -2331,6 +2324,7 @@ Bassline is a music genre that originated in the early 2000s in South Yorkshire 
     <tr>
       <td>14</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9ddab66fd8d94c749d797655d2bf5bb3.png" alt="Cover for Fresh:Mesh Remixes" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Fresh:Mesh</td>
@@ -2552,7 +2546,7 @@ Bassline is a music genre that originated in the early 2000s in South Yorkshire 
 - [hyperpop]({{ "/tags/hyperpop" | relative_url }})
 - [bass]({{ "/tags/bass" | relative_url }})
 - [electro]({{ "/tags/electro" | relative_url }})
-- [drum and bass]({{ "/tags/drum-and-bass" | relative_url }})
 - [electro house]({{ "/tags/electro-house" | relative_url }})
+- [drum and bass]({{ "/tags/drum-and-bass" | relative_url }})
 - [electroclash]({{ "/tags/electroclash" | relative_url }})
 - [rave]({{ "/tags/rave" | relative_url }})

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T20:32:56.609Z
+date: 2025-12-04T18:03:04.972Z
 permalink: tags/harmolodic
 title: harmolodic
 ---
 
 ## harmolodic
 
-Last updated: <time datetime="2025-10-28T20:32:56.609Z">Tue Oct 28 2025 22:32:56 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T18:03:04.972Z">Thu Dec 04 2025 20:03:04 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -43,7 +43,7 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 24</li>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -339,7 +339,7 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-double-bass" | relative_url }}">jazz double bass</a> # 10</li>
+            <li> <a href="{{ "/tags/jazz-double-bass" | relative_url }}">jazz double bass</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -358,7 +358,7 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-double-bass" | relative_url }}">jazz double bass</a> # 32</li>
+            <li> <a href="{{ "/tags/jazz-double-bass" | relative_url }}">jazz double bass</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -378,13 +378,14 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/6M1mMXFAGp9_QTMvekuc-XUCdSPSuu22CbzlelDGDEc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MTY2/NS0xMTk2MDQyOTgy/LmpwZWc.jpeg" alt="Cover for Virgin Beauty" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/78eedf92ecaecb9838e62810f0025760.png" alt="Cover for Virgin Beauty" style="max-width:120px; height:auto;" />
       </td>
       <td>1978</td>
       <td>Ornette Coleman</td>
@@ -991,7 +992,7 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 39</li>
+            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1085,7 +1086,7 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emd" | relative_url }}">emd</a> # 39</li>
+            <li> <a href="{{ "/tags/emd" | relative_url }}">emd</a> # 62</li>
             <li> <a href="{{ "/tags/new-thing" | relative_url }}">new thing</a> # 76</li>
         </ul>
       </td>
@@ -1831,7 +1832,7 @@ Harmolodic refers to a revolutionary approach to jazz improvisation developed in
     <tr>
       <td>81</td>
       <td>
-          <img src="https://i.discogs.com/WdeC9AW4Du8CmeEvRxyC5kPDJUBnm6jcpT4Un4QSl5w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MDM3/MTktMTQxODM5NTE3/OS04MTYzLmpwZWc.jpeg" alt="Cover for The Complete Science Fiction Sessions" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f7e8654368927d89f789fcab701b0562.png" alt="Cover for The Complete Science Fiction Sessions" style="max-width:120px; height:auto;" />
       </td>
       <td>2016</td>
       <td>Ornette Coleman</td>
