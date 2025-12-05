@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T07:13:18.958Z
+date: 2025-12-05T14:37:57.443Z
 permalink: tags/hardcore-punk
 title: hardcore punk
 ---
 
 ## hardcore punk
 
-Last updated: <time datetime="2025-12-03T07:13:18.958Z">Wed Dec 03 2025 09:13:18 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T14:37:57.443Z">Fri Dec 05 2025 16:37:57 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
   </thead>
   <tbody>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f94bcdeb5204b0d447cc9f8a8a4ecf34.png" alt="Cover for Nervous Breakdown" style="max-width:120px; height:auto;" />
       </td>
@@ -47,7 +47,7 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bab2e3b0ed934433b10a159b04cde152.png" alt="Cover for Jealous Again" style="max-width:120px; height:auto;" />
       </td>
@@ -65,7 +65,7 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/89327a3809f40598d468347943da054d.png" alt="Cover for Fresh Fruit for Rotting Vegetables" style="max-width:120px; height:auto;" />
       </td>
@@ -83,7 +83,7 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4514f268974a43a7a1e7db12fe0b291e.png" alt="Cover for Group Sex" style="max-width:120px; height:auto;" />
       </td>
@@ -101,7 +101,7 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>98</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/81b91d1f22254f9d8f475b2f618358a8.png" alt="Cover for Why" style="max-width:120px; height:auto;" />
       </td>
@@ -116,12 +116,12 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/d-beat" | relative_url }}">d-beat</a> # 94</li>
+            <li> <a href="{{ "/tags/d-beat" | relative_url }}">d-beat</a> # 7</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/5u-Mj1-YnGsVOq5cGnFfv4r9B7cDjWZtCW6y-0YIALU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxOTY5/NS0xNDQwNjIxNzk4/LTU5NzIuanBlZw.jpeg" alt="Cover for The Adolescents" style="max-width:120px; height:auto;" />
       </td>
@@ -139,7 +139,7 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/69ef99cb21394d12b68d9a2a550c5af3.png" alt="Cover for Adolescents" style="max-width:120px; height:auto;" />
       </td>
@@ -157,7 +157,7 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6cd3dc6316ad46cf8404bc4d8a89f067.png" alt="Cover for Six Pack" style="max-width:120px; height:auto;" />
       </td>
@@ -175,7 +175,7 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/86e1efbe7c5c4d9ba72bed79dcf46036.png" alt="Cover for Damaged" style="max-width:120px; height:auto;" />
       </td>
@@ -193,7 +193,7 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a7b17210c962df7286cab6fa92a79e24.png" alt="Cover for City Baby Attacked by Rats" style="max-width:120px; height:auto;" />
       </td>
@@ -212,25 +212,7 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>65</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a85251affb57e82c6f5d37516e53b949.png" alt="Cover for Wild in the Streets" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1982</td>
-      <td>Circle Jerks</td>
-      <td>Wild in the Streets</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1f087dc8597e44559c2765c1b2c5eff0.png" alt="Cover for Bad Brains" style="max-width:120px; height:auto;" />
       </td>
@@ -248,7 +230,25 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>36</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a85251affb57e82c6f5d37516e53b949.png" alt="Cover for Wild in the Streets" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1982</td>
+      <td>Circle Jerks</td>
+      <td>Wild in the Streets</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/38095c5b91824a45bc77601a2e231499.png" alt="Cover for How Could Hell Be Any Worse?" style="max-width:120px; height:auto;" />
       </td>
@@ -266,7 +266,7 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8f5c299acc9af7917ef753ef9ce3d508.png" alt="Cover for Walk Among Us" style="max-width:120px; height:auto;" />
       </td>
@@ -286,7 +286,7 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>90</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/843e6bbb3af34dae962b0769737436e4.png" alt="Cover for The Record" style="max-width:120px; height:auto;" />
       </td>
@@ -304,7 +304,7 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>99</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/95f6b2be764d477194432342ab1db78a.png" alt="Cover for TV Party" style="max-width:120px; height:auto;" />
       </td>
@@ -322,7 +322,7 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bd5ae5088dab4b07cbf9efb4e8df9048.png" alt="Cover for Back From Samoa" style="max-width:120px; height:auto;" />
       </td>
@@ -341,7 +341,7 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a6d40656a42441d9d3005001ff71ce6.png" alt="Cover for Plastic Surgery Disasters" style="max-width:120px; height:auto;" />
       </td>
@@ -359,7 +359,7 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c9cc92b0e8c6458bc5b4c9a5f351b14f.png" alt="Cover for Milo Goes to College" style="max-width:120px; height:auto;" />
       </td>
@@ -377,7 +377,7 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7b5e9d4988cf4de4a9b420278daa1b05.png" alt="Cover for Out of Step" style="max-width:120px; height:auto;" />
       </td>
@@ -396,7 +396,7 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/24eda01686554894be37326a522f671f.png" alt="Cover for The First Four Years" style="max-width:120px; height:auto;" />
       </td>
@@ -414,7 +414,7 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c3be21630d704a28b8b6605883d6263a.png" alt="Cover for Rock for Light" style="max-width:120px; height:auto;" />
       </td>
@@ -433,7 +433,7 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8debd4afaa257be1533ab760854d16ca.png" alt="Cover for Suicidal Tendencies" style="max-width:120px; height:auto;" />
       </td>
@@ -447,12 +447,12 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 60</li>
+            <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/39d17fee5a9c55a052e69fad6fa5bb79.png" alt="Cover for Victim In Pain" style="max-width:120px; height:auto;" />
       </td>
@@ -466,12 +466,12 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nyhc" | relative_url }}">nyhc</a> # 67</li>
+            <li> <a href="{{ "/tags/nyhc" | relative_url }}">nyhc</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2aac1d016cb545a58024e9e160b4181e.png" alt="Cover for My War" style="max-width:120px; height:auto;" />
       </td>
@@ -484,12 +484,12 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 62</li>
+            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 36</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7e85c3c300fc15c9d4cd17e0393c93e6.png" alt="Cover for Zen Arcade" style="max-width:120px; height:auto;" />
       </td>
@@ -506,7 +506,7 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d1202e2fa577bbd9bdd38bac44b0e344.png" alt="Cover for Slip It In" style="max-width:120px; height:auto;" />
       </td>
@@ -524,7 +524,7 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4e7fe01d11734d58bf3835264d5a5116.png" alt="Cover for Frankenchrist" style="max-width:120px; height:auto;" />
       </td>
@@ -542,7 +542,7 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9bd4c8e86b22434ea08ff00609b8bc07.png" alt="Cover for Loose Nut" style="max-width:120px; height:auto;" />
       </td>
@@ -560,7 +560,7 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2d1e5a83e9704f75ae1c760196bd9f5a.png" alt="Cover for In My Head" style="max-width:120px; height:auto;" />
       </td>
@@ -578,25 +578,7 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>59</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6e0bba9d70edb3ebca033d64e0df6ef9.png" alt="Cover for I Against I" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1986</td>
-      <td>Bad Brains</td>
-      <td>I Against I</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4dea985d1d5c4c60acf8f2f2fe4ff6b2.png" alt="Cover for Bedtime for Democracy" style="max-width:120px; height:auto;" />
       </td>
@@ -614,7 +596,25 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>42</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6e0bba9d70edb3ebca033d64e0df6ef9.png" alt="Cover for I Against I" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1986</td>
+      <td>Bad Brains</td>
+      <td>I Against I</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/15f924869614a25da3417e7e6c04a41c.png" alt="Cover for Warehouse: Songs and Stories" style="max-width:120px; height:auto;" />
       </td>
@@ -631,12 +631,12 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       <td>
         <ul>
             <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 33</li>
-            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 59</li>
+            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d98474f63b13436ec31864bd30ea59b9.png" alt="Cover for Give Me Convenience or Give Me Death" style="max-width:120px; height:auto;" />
       </td>
@@ -654,7 +654,7 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/44afa2c7a05dede16ddd7b78d0b52c67.png" alt="Cover for Join The Army" style="max-width:120px; height:auto;" />
       </td>
@@ -671,12 +671,12 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 100</li>
+            <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 1</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f51d1a068b33bce8c3f30b87ae662f51.png" alt="Cover for Gorilla Biscuits" style="max-width:120px; height:auto;" />
       </td>
@@ -696,7 +696,7 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb874663b63540eb98eba41a26ee5cbd.png" alt="Cover for Liberal Animation" style="max-width:120px; height:auto;" />
       </td>
@@ -715,7 +715,7 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/031d9071a670ff56a2316ee4520070fb.png" alt="Cover for Complete Discography" style="max-width:120px; height:auto;" />
       </td>
@@ -734,7 +734,7 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/809b722b8cf64cfda65880a9e8d799ff.png" alt="Cover for Start Today" style="max-width:120px; height:auto;" />
       </td>
@@ -748,13 +748,13 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 6</li>
             <li> <a href="{{ "/tags/straight-edge" | relative_url }}">straight edge</a> # 41</li>
+            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>100</td>
       <td>
       </td>
       <td>1992</td>
@@ -771,7 +771,7 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1ad0b8a1b1134b14ac3104af70e2520f.png" alt="Cover for A Collection of Pop Classics" style="max-width:120px; height:auto;" />
       </td>
@@ -789,25 +789,7 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>20</td>
-      <td>
-          <img src="https://i.discogs.com/iyD1F-Ef3IuS3cERKCNS9aZe1GEy9ijxLHW0kmDf2TQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjMy/ODAtMTQ3MzAxMjkz/Mi0xNTQzLmpwZWc.jpeg" alt="Cover for No Policy" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1995</td>
-      <td>S.O.A.</td>
-      <td>No Policy</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>47</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/296547c34c3f46c0c6b8aeba2aea0550.png" alt="Cover for Aglio E Olio" style="max-width:120px; height:auto;" />
       </td>
@@ -825,7 +807,25 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>81</td>
+      <td>
+          <img src="https://i.discogs.com/iyD1F-Ef3IuS3cERKCNS9aZe1GEy9ijxLHW0kmDf2TQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjMy/ODAtMTQ3MzAxMjkz/Mi0xNTQzLmpwZWc.jpeg" alt="Cover for No Policy" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995</td>
+      <td>S.O.A.</td>
+      <td>No Policy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e228c8888a444c0b917f07510138366.png" alt="Cover for Answer That and Stay Fashionable" style="max-width:120px; height:auto;" />
       </td>
@@ -843,7 +843,7 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/348b9239b0ee8435aaff4d1e38cbbfe7.png" alt="Cover for Hello Bastards" style="max-width:120px; height:auto;" />
       </td>
@@ -858,12 +858,12 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 55</li>
+            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 46</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9cc84dc8af7e4b6f828e76874b5a7663.png" alt="Cover for Very Proud of Ya" style="max-width:120px; height:auto;" />
       </td>
@@ -881,7 +881,7 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>39</td>
       <td>
       </td>
       <td>1996-09-30</td>
@@ -898,7 +898,7 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>95</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8876dca5ce3149cbcdf6526421b979cb.png" alt="Cover for For the Punx" style="max-width:120px; height:auto;" />
       </td>
@@ -918,25 +918,7 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>26</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bbd56a8d2fc1f3753c54070e94662263.png" alt="Cover for Shut Your Mouth and Open Your Eyes" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1997-11-11</td>
-      <td>AFI</td>
-      <td>Shut Your Mouth and Open Your Eyes</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>36</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/aef2ada5a9c24e1fce3f78116724007b.png" alt="Cover for Omega Sessions" style="max-width:120px; height:auto;" />
       </td>
@@ -954,7 +936,25 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>75</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bbd56a8d2fc1f3753c54070e94662263.png" alt="Cover for Shut Your Mouth and Open Your Eyes" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997-11-11</td>
+      <td>AFI</td>
+      <td>Shut Your Mouth and Open Your Eyes</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9cfe69ac5d7e48cd9ccf37acd3fe38dd.png" alt="Cover for So No Forevis" style="max-width:120px; height:auto;" />
       </td>
@@ -971,14 +971,14 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 60</li>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 73</li>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 99</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 1</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 27</li>
+            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/n3Fp2VmByhHIkVNJFOuWUG0NxGSupNVqMpFLrLdydkc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NzYw/Ny0xMzA5MjEyNDU2/LmpwZWc.jpeg" alt="Cover for Preço Curto... Prazo Longo" style="max-width:120px; height:auto;" />
       </td>
@@ -993,12 +993,12 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skate-punk" | relative_url }}">skate punk</a> # 96</li>
+            <li> <a href="{{ "/tags/skate-punk" | relative_url }}">skate punk</a> # 5</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b4b29225191cb6a1d02f60ced96704d2.png" alt="Cover for No Gods &#x2F; No Managers" style="max-width:120px; height:auto;" />
       </td>
@@ -1014,13 +1014,13 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       <td>
         <ul>
             <li> <a href="{{ "/tags/anarcho-punk" | relative_url }}">anarcho-punk</a> # 7</li>
-            <li> <a href="{{ "/tags/skacore" | relative_url }}">skacore</a> # 70</li>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 91</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 10</li>
+            <li> <a href="{{ "/tags/skacore" | relative_url }}">skacore</a> # 30</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5c0b55c433effb182626a80981a551d4.png" alt="Cover for Freedumb" style="max-width:120px; height:auto;" />
       </td>
@@ -1036,12 +1036,12 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 15</li>
+            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/df4e72cf014a16eea78555f7cc872332.png" alt="Cover for Black Sails in the Sunset" style="max-width:120px; height:auto;" />
       </td>
@@ -1059,7 +1059,7 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8885f1746ffa6d9881548321abba0211.png" alt="Cover for Todo Mundo Doido" style="max-width:120px; height:auto;" />
       </td>
@@ -1078,12 +1078,12 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 8</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>80</td>
       <td>
       </td>
       <td>2000-04-25</td>
@@ -1097,12 +1097,12 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skate-punk" | relative_url }}">skate punk</a> # 83</li>
+            <li> <a href="{{ "/tags/skate-punk" | relative_url }}">skate punk</a> # 18</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3344dbcba085dc5b56f2bd87c02b1139.png" alt="Cover for Plastic Surgery Disasters&#x2F;In God We Trust, Inc." style="max-width:120px; height:auto;" />
       </td>
@@ -1119,7 +1119,7 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>84</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb96a35d726f4aa78ea83f3adf992345.png" alt="Cover for A Life Less Plagued" style="max-width:120px; height:auto;" />
       </td>
@@ -1138,7 +1138,7 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/02uAn0Bbq7oK56DGEyEA6cFY-90mYEmwuXsKu0N1LEA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTAx/NjYyLTE2MjkyNzYz/NzItMjM3MC5qcGVn.jpeg" alt="Cover for SERVICE WEAPON" style="max-width:120px; height:auto;" />
       </td>
@@ -1156,7 +1156,7 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>97</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c449c98804dc6305f4c962aa6f9153f2.png" alt="Cover for Ill Blood" style="max-width:120px; height:auto;" />
       </td>
@@ -1174,7 +1174,7 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/jVt1k1_s7vt3CCmx3glND98XEMCpu-U8jWZoyhdyoYQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Njc3/Ni0xMjQ2NTQ5Njgy/LmpwZWc.jpeg" alt="Cover for On the Front Line" style="max-width:120px; height:auto;" />
       </td>
@@ -1193,7 +1193,7 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>96</td>
       <td>
       </td>
       <td>2004-11-13</td>
@@ -1210,7 +1210,7 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/kJs3qOaHBtmeNfo3KhrjTg96utu5Pl42InY_C52yOfg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTQy/NDAtMTM2NTc4Mjgw/My0zNDA0LmpwZWc.jpeg" alt="Cover for State of Discontent" style="max-width:120px; height:auto;" />
       </td>
@@ -1230,7 +1230,7 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/84e52b19ab3f4f87bcda623f1eb54c27.png" alt="Cover for Orchestra of Wolves" style="max-width:120px; height:auto;" />
       </td>
@@ -1248,7 +1248,7 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>93</td>
       <td>
       </td>
       <td>2006-06-13</td>
@@ -1266,7 +1266,7 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/36b5a6ef4f2a2bcd5f73f2dface65932.png" alt="Cover for From Under the Cork Tree Limited Tour Edition" style="max-width:120px; height:auto;" />
       </td>
@@ -1281,12 +1281,12 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skate-punk" | relative_url }}">skate punk</a> # 94</li>
+            <li> <a href="{{ "/tags/skate-punk" | relative_url }}">skate punk</a> # 7</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>88</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/796ac8a9254b07ce14601da602a4bcb7.png" alt="Cover for Facetious Folly Feat" style="max-width:120px; height:auto;" />
       </td>
@@ -1304,7 +1304,7 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
       </td>
       <td>2009-05-04</td>
@@ -1321,7 +1321,7 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c9f9bc43d8a60fc968b1df81f603c999.png" alt="Cover for Rohnert Park" style="max-width:120px; height:auto;" />
       </td>
@@ -1339,7 +1339,7 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/20c4811b121bb3feb211891f0d7f5b09.png" alt="Cover for First Four EPs" style="max-width:120px; height:auto;" />
       </td>
@@ -1357,7 +1357,7 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8af945020117992475aa29318a0af0fd.png" alt="Cover for H2O" style="max-width:120px; height:auto;" />
       </td>
@@ -1372,12 +1372,12 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nyhc" | relative_url }}">nyhc</a> # 98</li>
+            <li> <a href="{{ "/tags/nyhc" | relative_url }}">nyhc</a> # 3</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/33a52599eb952c806cc67284efaadd57.png" alt="Cover for TURNSTILE LOVE CONNECTION" style="max-width:120px; height:auto;" />
       </td>
@@ -1400,7 +1400,7 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/510f7671e56c41be320b2d90bdbf4bd2.png" alt="Cover for First Two Seven Inches" style="max-width:120px; height:auto;" />
       </td>
@@ -1418,7 +1418,7 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/07c8d25d6c6e4093c00210a79a49c31f.png" alt="Cover for PUP" style="max-width:120px; height:auto;" />
       </td>
@@ -1435,13 +1435,13 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 12</li>
+            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 89</li>
             <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d00bc7aebdb242f7880a4391afbe4df9.png" alt="Cover for PAX AM Days" style="max-width:120px; height:auto;" />
       </td>
@@ -1460,7 +1460,7 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c4107f7cbbd4f3ccf5348acd12c821c.png" alt="Cover for Die Knowing" style="max-width:120px; height:auto;" />
       </td>
@@ -1479,7 +1479,7 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/huSUZ2u6uRuXjysGnALEMEt_7rrLKKC-j5qXhuGTxdM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNDcw/MDgtMTQzOTQ2MjA2/My00OTMwLmpwZWc.jpeg" alt="Cover for Blossom" style="max-width:120px; height:auto;" />
       </td>
@@ -1497,7 +1497,7 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7313a61255ca2c56d72f3591bdc0645c.png" alt="Cover for Modern Ruin" style="max-width:120px; height:auto;" />
       </td>
@@ -1515,7 +1515,34 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>49</td>
+      <td>
+          <img src="https://i.discogs.com/EqwmY0S0LJROvFFaw_cdhNjgUnz1v8T2AgCrQv6DEuo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MTc3/MDEtMTM3MDA5MzE1/Mi0xMDQzLmpwZWc.jpeg" alt="Cover for The House Always Wins" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-11-18</td>
+      <td>Stray from the Path</td>
+      <td>The House Always Wins</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 2</li>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 20</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 21</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 83</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e7cb49994f74ebba652efa36e5cc2ae7.png" alt="Cover for You&#39;re Not You Anymore" style="max-width:120px; height:auto;" />
       </td>
@@ -1531,12 +1558,12 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 74</li>
+            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 27</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3e0b078025ef4cf3ee9b69150a027b6b.png" alt="Cover for Beautiful Ruin" style="max-width:120px; height:auto;" />
       </td>
@@ -1553,13 +1580,13 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 57</li>
-            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 95</li>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 6</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/35b142e3a22504dacbded50c761edc11.png" alt="Cover for Disease &#x2F; Bad Listener" style="max-width:120px; height:auto;" />
       </td>
@@ -1578,13 +1605,13 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 39</li>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 63</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 37</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cc615e18e38069917f926df146c541a0.png" alt="Cover for DEPART" style="max-width:120px; height:auto;" />
       </td>
@@ -1601,12 +1628,12 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 67</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/u_yV62DrULoR1g-xrVAEfBGlLWGRzvsozyjFP7WswQ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjY5/NTkyLTE1NTg2NzU5/NzMtMjY4Mi5qcGVn.jpeg" alt="Cover for Fear Network" style="max-width:120px; height:auto;" />
       </td>
@@ -1624,14 +1651,14 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/crust" | relative_url }}">crust</a> # 2</li>
             <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 7</li>
-            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 82</li>
-            <li> <a href="{{ "/tags/crust" | relative_url }}">crust</a> # 99</li>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 19</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/jqTSkax31B1TUy5YD0cNzplDVSivb3CZcWJeLpMHxvQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTU4/NTczLTE1NTY3MDYw/NjQtNjk1My5qcGVn.jpeg" alt="Cover for Itekoma Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -1646,32 +1673,12 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 43</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 57</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
-      <td>
-          <img src="https://i.discogs.com/UtimO0Lh3gPTG2aMBJxbVwziWQUOEbvKNNApiaOB1s8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjU0/MjM2LTE1NzA4MTU1/MjgtOTUyMC5qcGVn.jpeg" alt="Cover for Some Kind of War" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2019-10-04</td>
-      <td>Armor</td>
-      <td>Some Kind of War</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/d-beat" | relative_url }}">d-beat</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/d-beat" | relative_url }}">d-beat</a> # 100</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6009c09a9e11ac154e3b77d1a1f36eb1.png" alt="Cover for Absolute" style="max-width:120px; height:auto;" />
       </td>
@@ -1690,13 +1697,33 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       <td>
         <ul>
             <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 3</li>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 75</li>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 77</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 23</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 26</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>87</td>
+      <td>
+          <img src="https://i.discogs.com/UtimO0Lh3gPTG2aMBJxbVwziWQUOEbvKNNApiaOB1s8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjU0/MjM2LTE1NzA4MTU1/MjgtOTUyMC5qcGVn.jpeg" alt="Cover for Some Kind of War" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-10-04</td>
+      <td>Armor</td>
+      <td>Some Kind of War</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/d-beat" | relative_url }}">d-beat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/d-beat" | relative_url }}">d-beat</a> # 1</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/sba2YTGX4s1LVxgNjEqILs9lTnZo1UdreZYlqpHWtwM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mjc2/MzY4LTE2MTI1NzI3/OTUtOTkxMy5qcGVn.jpeg" alt="Cover for Taqbir" style="max-width:120px; height:auto;" />
       </td>
@@ -1714,7 +1741,7 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/FgOoHRn2Uv1x2I55tEG69g2CqYu5uIxWlDrRPz77vtY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTQ2/MjY5LTE2MzAyNjkz/ODItOTQ4NS5qcGVn.jpeg" alt="Cover for Glow On" style="max-width:120px; height:auto;" />
       </td>
@@ -1730,13 +1757,13 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 20</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 81</li>
             <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/iRPu2I6QhWfDcHwaNi6faoyWd0GuYhFORnGoyWoTcXI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDcw/NzQ0LTE2Mzc1MTg1/MTctMzk1NS5qcGVn.jpeg" alt="Cover for How Flowers Grow" style="max-width:120px; height:auto;" />
       </td>
@@ -1754,7 +1781,7 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>83</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/214f7472613c2f1732043d17e84172c7.png" alt="Cover for New Lords" style="max-width:120px; height:auto;" />
       </td>
@@ -1771,12 +1798,12 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 96</li>
+            <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 5</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/01548741b9fa0cf0c0f338ff8b8ce9f0.png" alt="Cover for Diaspora Problems" style="max-width:120px; height:auto;" />
       </td>
@@ -1796,7 +1823,7 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/92e2cff34bffee24536ea16d5f909096.png" alt="Cover for A Foul Form" style="max-width:120px; height:auto;" />
       </td>
@@ -1813,13 +1840,13 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 12</li>
-            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 91</li>
+            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 10</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/taqay2QEX-0u6p5nGnYr_u-4az8E8Q00MB9Ujd_x4eM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDUw/MTM3LTE2NjI2MzQ0/NjYtMjc4My5qcGVn.jpeg" alt="Cover for Horseshit on route 66" style="max-width:120px; height:auto;" />
       </td>
@@ -1833,41 +1860,14 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 30</li>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 70</li>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 99</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 2</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 31</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
-      <td>
-          <img src="https://i.discogs.com/EqwmY0S0LJROvFFaw_cdhNjgUnz1v8T2AgCrQv6DEuo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MTc3/MDEtMTM3MDA5MzE1/Mi0xMDQzLmpwZWc.jpeg" alt="Cover for The House Always Wins" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2022-09-09</td>
-      <td>Stray from the Path</td>
-      <td>The House Always Wins</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 17</li>
-            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 79</li>
-            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 81</li>
-            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 99</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/iLYEuTNdmsEdagZNBVrFJ1RQNM0GtDFXmYDdnANtZvo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjA0/NDc5LTE2ODAyNzMx/NzQtMTA4MS5qcGVn.jpeg" alt="Cover for Only Constant" style="max-width:120px; height:auto;" />
       </td>
@@ -1885,7 +1885,7 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9b470341fa4aca6665e786fda876c8e9.png" alt="Cover for I Got Heaven" style="max-width:120px; height:auto;" />
       </td>
@@ -1904,7 +1904,26 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>8</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8cbf3e74e4014542a77728e833c4c952.png" alt="Cover for Count Up Dracula" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Jaydes</td>
+      <td>Count Up Dracula</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/pluggnb" | relative_url }}">pluggnb</a> # 9</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6e0cde5dcd10583bb5c1da8a02cce225.png" alt="Cover for Rock The Fuck On Forever" style="max-width:120px; height:auto;" />
       </td>
@@ -1920,35 +1939,17 @@ Hardcore punk is a subgenre of punk rock that originated in the late 1970s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 52</li>
+            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>94</td>
       <td>
       </td>
       <td></td>
       <td>Otoboke beaver</td>
       <td>SUPER CHAMPON</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>93</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8cbf3e74e4014542a77728e833c4c952.png" alt="Cover for Count Up Dracula" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Jaydes</td>
-      <td>Count Up Dracula</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a></li>

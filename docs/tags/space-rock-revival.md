@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T07:11:35.735Z
+date: 2025-12-05T14:00:45.996Z
 permalink: tags/space-rock-revival
 title: space rock revival
 ---
 
 ## space rock revival
 
-Last updated: <time datetime="2025-12-03T07:11:35.735Z">Wed Dec 03 2025 09:11:35 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T14:00:45.996Z">Fri Dec 05 2025 16:00:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -123,8 +123,8 @@ Space rock revival emerged in the late 1980s and 1990s, reimagining psychedelic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 30</li>
             <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 50</li>
+            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -186,8 +186,8 @@ Space rock revival emerged in the late 1980s and 1990s, reimagining psychedelic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 16</li>
-            <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 43</li>
+            <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 57</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -206,7 +206,7 @@ Space rock revival emerged in the late 1980s and 1990s, reimagining psychedelic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 5</li>
+            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -224,9 +224,8 @@ Space rock revival emerged in the late 1980s and 1990s, reimagining psychedelic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 30</li>
-            <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 42</li>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 66</li>
+            <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 58</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -310,7 +309,7 @@ Space rock revival emerged in the late 1980s and 1990s, reimagining psychedelic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 86</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -335,8 +334,8 @@ Space rock revival emerged in the late 1980s and 1990s, reimagining psychedelic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 45</li>
-            <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 98</li>
+            <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 3</li>
+            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -458,7 +457,7 @@ Space rock revival emerged in the late 1980s and 1990s, reimagining psychedelic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 85</li>
+            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -654,8 +653,8 @@ Space rock revival emerged in the late 1980s and 1990s, reimagining psychedelic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 25</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 30</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 71</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -673,8 +672,8 @@ Space rock revival emerged in the late 1980s and 1990s, reimagining psychedelic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 43</li>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 49</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 52</li>
+            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -728,8 +727,8 @@ Space rock revival emerged in the late 1980s and 1990s, reimagining psychedelic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 41</li>
-            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 98</li>
+            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 3</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -766,8 +765,8 @@ Space rock revival emerged in the late 1980s and 1990s, reimagining psychedelic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 43</li>
-            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 99</li>
+            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 2</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -902,10 +901,10 @@ Space rock revival emerged in the late 1980s and 1990s, reimagining psychedelic 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 4</li>
+            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 6</li>
             <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 25</li>
-            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 74</li>
-            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 95</li>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 97</li>
+            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1082,10 +1081,10 @@ Space rock revival emerged in the late 1980s and 1990s, reimagining psychedelic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 17</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 28</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 34</li>
-            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 88</li>
+            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 13</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 67</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 74</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1174,7 +1173,7 @@ Space rock revival emerged in the late 1980s and 1990s, reimagining psychedelic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 95</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -1307,11 +1306,11 @@ Space rock revival emerged in the late 1980s and 1990s, reimagining psychedelic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 7</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 56</li>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 74</li>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 87</li>
-            <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 92</li>
+            <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 9</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 14</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 27</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 45</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1391,7 +1390,7 @@ Space rock revival emerged in the late 1980s and 1990s, reimagining psychedelic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 52</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1429,8 +1428,8 @@ Space rock revival emerged in the late 1980s and 1990s, reimagining psychedelic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 46</li>
-            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 100</li>
+            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 1</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1556,7 +1555,7 @@ Space rock revival emerged in the late 1980s and 1990s, reimagining psychedelic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 74</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1612,7 +1611,7 @@ Space rock revival emerged in the late 1980s and 1990s, reimagining psychedelic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 73</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1830,7 +1829,7 @@ Space rock revival emerged in the late 1980s and 1990s, reimagining psychedelic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a> # 68</li>
+            <li> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a> # 33</li>
         </ul>
       </td>
     </tr>

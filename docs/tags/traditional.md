@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T07:13:05.995Z
+date: 2025-12-05T14:21:58.156Z
 permalink: tags/traditional
 title: traditional
 ---
 
 ## traditional
 
-Last updated: <time datetime="2025-12-03T07:13:05.995Z">Wed Dec 03 2025 09:13:05 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T14:21:58.156Z">Fri Dec 05 2025 16:21:58 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
   </thead>
   <tbody>
     <tr>
-      <td>52</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/633bb8422261b4be26c33ffa5a29fb1d.png" alt="Cover for Frankly Sentimental" style="max-width:120px; height:auto;" />
       </td>
@@ -53,7 +53,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7b0edb8aec5544d0b6fd4b9c98224ecd.png" alt="Cover for Songs From The Depression" style="max-width:120px; height:auto;" />
       </td>
@@ -76,7 +76,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
       </td>
       <td>1968-02</td>
@@ -103,7 +103,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/765db8b68e6400f2640ce7f7682cb09f.png" alt="Cover for Bright Phoebus" style="max-width:120px; height:auto;" />
       </td>
@@ -121,7 +121,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/q7BzBcNJW5OUjZZw-l_ubdZTvv5xvOxyt4FwldexZlU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTgx/NjQtMTI0MTQ0NDQ2/MC5qcGVn.jpeg" alt="Cover for Shankar: Symphony" style="max-width:120px; height:auto;" />
       </td>
@@ -142,15 +142,15 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian-classical" | relative_url }}">indian classical</a> # 14</li>
-            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 21</li>
-            <li> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a> # 39</li>
-            <li> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a> # 56</li>
+            <li> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a> # 45</li>
+            <li> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a> # 62</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 80</li>
+            <li> <a href="{{ "/tags/indian-classical" | relative_url }}">indian classical</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/v4GLkYvhA5W8XKNEI5rGLOQGhOdsxtQrF3zpaFPUM1Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTI0/NDYyLTE2NTgxNjAz/MzAtOTMyNC5qcGVn.jpeg" alt="Cover for Rendan e Mast" style="max-width:120px; height:auto;" />
       </td>
@@ -169,16 +169,16 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 30</li>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 53</li>
-            <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 60</li>
-            <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 61</li>
-            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 69</li>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 32</li>
+            <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 40</li>
+            <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 41</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 48</li>
+            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
       </td>
       <td>1986</td>
@@ -194,12 +194,12 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 83</li>
+            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 18</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/hFuJQb_KEy5OCKa4g5bB3hu45ggQEEaHcHBAezBz__w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2Nzkx/MTMtMTQ5NjU5Mjk3/NS01NTA5LmpwZWc.jpeg" alt="Cover for La kora du Sénégal, vol. 2 : Chant et poésie d&#39;Afrique noire" style="max-width:120px; height:auto;" />
       </td>
@@ -217,7 +217,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>56</td>
       <td>
       </td>
       <td>1992</td>
@@ -233,13 +233,55 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 79</li>
-            <li> <a href="{{ "/tags/pakistani" | relative_url }}">pakistani</a> # 94</li>
+            <li> <a href="{{ "/tags/pakistani" | relative_url }}">pakistani</a> # 7</li>
+            <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 22</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>13</td>
+      <td>
+          <img src="https://i.discogs.com/1sFd1gUFvQTG-pfIDQSj6HBPDU1qlVYOegOnkQ5vJ_U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDYx/MzM0LTE2NDY5Mzkw/MDktNDgwNi5qcGVn.jpeg" alt="Cover for Chant - Music For Paradise - Special Edition" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994</td>
+      <td>Traditional</td>
+      <td>Chant - Music For Paradise - Special Edition</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/choral" | relative_url }}">choral</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/christian" | relative_url }}">christian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 40</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>
+          <img src="https://i.discogs.com/qcm0dETKRq9X8COLBvS0HcvqUR8zwYCs7QaO4YbhKUI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDIw/ODEwLTE1MTYwMzAx/MTAtOTIyNi5qcGVn.jpeg" alt="Cover for Journey Begun" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994</td>
+      <td>Athena Tergis &amp; Laura Risk</td>
+      <td>Journey Begun</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fiddle" | relative_url }}">fiddle</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/fiddle" | relative_url }}">fiddle</a> # 28</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7bb8b012e86b486f8110f0d8c13a8bd9.png" alt="Cover for Un Fuego de Sangre Pura: Los Gaiteros de San Jacinto from Colombia" style="max-width:120px; height:auto;" />
       </td>
@@ -262,49 +304,61 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>7</td>
       <td>
-          <img src="https://i.discogs.com/qcm0dETKRq9X8COLBvS0HcvqUR8zwYCs7QaO4YbhKUI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDIw/ODEwLTE1MTYwMzAx/MTAtOTIyNi5qcGVn.jpeg" alt="Cover for Journey Begun" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/pwwes4ilNkIFxuoa4tQxDqn-4xqoQZTar0vxHiRdP4o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2ODE4/MS0xMTMyNTA4MDA4/LmpwZWc.jpeg" alt="Cover for Gipsy Kings (Greatest Hits)" style="max-width:120px; height:auto;" />
       </td>
       <td>1994</td>
-      <td>Athena Tergis &amp; Laura Risk</td>
-      <td>Journey Begun</td>
+      <td>Gipsy Kings</td>
+      <td>Gipsy Kings (Greatest Hits)</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fiddle" | relative_url }}">fiddle</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/fiddle" | relative_url }}">fiddle</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>30</td>
       <td>
-          <img src="https://i.discogs.com/1sFd1gUFvQTG-pfIDQSj6HBPDU1qlVYOegOnkQ5vJ_U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDYx/MzM0LTE2NDY5Mzkw/MDktNDgwNi5qcGVn.jpeg" alt="Cover for Chant - Music For Paradise - Special Edition" style="max-width:120px; height:auto;" />
       </td>
       <td>1994</td>
-      <td>Traditional</td>
-      <td>Chant - Music For Paradise - Special Edition</td>
+      <td>Chinese Instrumental Ensemble</td>
+      <td>Masterpieces of Chinese Traditional Music</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/choral" | relative_url }}">choral</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/christian" | relative_url }}">christian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 40</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>43</td>
+      <td>
+      </td>
+      <td>1994</td>
+      <td>Shirley Rumsey</td>
+      <td>Music of the Italian Renaissance</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/7GJiTD5JSktJxqZHB4Pju43tRjoahI64q9OZV-S9pkE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTA1/NjgtMTIzMDY2MDg0/MS5qcGVn.jpeg" alt="Cover for The Mansa of Mali...a Retrospective" style="max-width:120px; height:auto;" />
       </td>
@@ -324,61 +378,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>58</td>
-      <td>
-      </td>
-      <td>1994</td>
-      <td>Shirley Rumsey</td>
-      <td>Music of the Italian Renaissance</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>71</td>
-      <td>
-      </td>
-      <td>1994</td>
-      <td>Chinese Instrumental Ensemble</td>
-      <td>Masterpieces of Chinese Traditional Music</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>94</td>
-      <td>
-          <img src="https://i.discogs.com/pwwes4ilNkIFxuoa4tQxDqn-4xqoQZTar0vxHiRdP4o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2ODE4/MS0xMTMyNTA4MDA4/LmpwZWc.jpeg" alt="Cover for Gipsy Kings (Greatest Hits)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1994</td>
-      <td>Gipsy Kings</td>
-      <td>Gipsy Kings (Greatest Hits)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>39</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/u_vtLf_9OrBE4N-WI0uroizol4r3Ki2lINWWvgSrxvg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NzU3/NTQtMTM5NDMxODgw/OC05OTQ5LmpwZWc.jpeg" alt="Cover for Guitar A La Hindustan" style="max-width:120px; height:auto;" />
       </td>
@@ -394,12 +394,12 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian-classical" | relative_url }}">indian classical</a> # 26</li>
+            <li> <a href="{{ "/tags/indian-classical" | relative_url }}">indian classical</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a04e4a92c4d90f7b7239bf673816b650.png" alt="Cover for Chinese Bamboo Flute Music" style="max-width:120px; height:auto;" />
       </td>
@@ -417,7 +417,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/90720d8090f461c2018da4204b530470.png" alt="Cover for The Legend of Blind Joe Death (Remastered)" style="max-width:120px; height:auto;" />
       </td>
@@ -436,36 +436,12 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 77</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 24</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
-      <td>
-          <img src="https://i.discogs.com/kq3YMdtev5ayeXkJx4VcGHlHQUrwHW8C3ptzuuT06BM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTU1/MDgtMTMzMjY3NTM3/Ny5qcGVn.jpeg" alt="Cover for Dancings des bouts du monde" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1997</td>
-      <td>L&#39;Attirail</td>
-      <td>Dancings des bouts du monde</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/balkan" | relative_url }}">balkan</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gypsy" | relative_url }}">gypsy</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/romania" | relative_url }}">romania</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/romania" | relative_url }}">romania</a> # 82</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>55</td>
+      <td>46</td>
       <td>
       </td>
       <td>1997</td>
@@ -484,7 +460,31 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>83</td>
+      <td>
+          <img src="https://i.discogs.com/kq3YMdtev5ayeXkJx4VcGHlHQUrwHW8C3ptzuuT06BM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTU1/MDgtMTMzMjY3NTM3/Ny5qcGVn.jpeg" alt="Cover for Dancings des bouts du monde" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997</td>
+      <td>L&#39;Attirail</td>
+      <td>Dancings des bouts du monde</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/balkan" | relative_url }}">balkan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gypsy" | relative_url }}">gypsy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/romania" | relative_url }}">romania</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/romania" | relative_url }}">romania</a> # 19</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/feb97ca1421a0b9dbe00b2f982c60bb3.png" alt="Cover for Muleskinner Blues: The Asch Recordings, Vol. 2" style="max-width:120px; height:auto;" />
       </td>
@@ -501,37 +501,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>53</td>
-      <td>
-      </td>
-      <td>1998</td>
-      <td>Sima Bina</td>
-      <td>Nava&#39;i</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 51</li>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 65</li>
-            <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 68</li>
-            <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 73</li>
-            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 79</li>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 93</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8aca54e47730344b72b4fbb0b436eb9f.png" alt="Cover for Blue Bayou" style="max-width:120px; height:auto;" />
       </td>
@@ -559,13 +529,43 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 41</li>
-            <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 80</li>
+            <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 21</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>48</td>
+      <td>
+      </td>
+      <td>1998</td>
+      <td>Sima Bina</td>
+      <td>Nava&#39;i</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 22</li>
+            <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 28</li>
+            <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 33</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 36</li>
+            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 50</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 93</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/FLxMTAFLT4baky3VuAGeja0MRqyScmVzSkyiv3-2Zaw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1Njcz/MTUtMTQ0NDE3NDYz/NC00MTQ5LmpwZWc.jpeg" alt="Cover for Pray" style="max-width:120px; height:auto;" />
       </td>
@@ -584,14 +584,14 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a> # 26</li>
-            <li> <a href="{{ "/tags/fado" | relative_url }}">fado</a> # 62</li>
-            <li> <a href="{{ "/tags/flute" | relative_url }}">flute</a> # 74</li>
+            <li> <a href="{{ "/tags/flute" | relative_url }}">flute</a> # 27</li>
+            <li> <a href="{{ "/tags/fado" | relative_url }}">fado</a> # 39</li>
+            <li> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/v--RXc_Hdpnrb_AhtySDAqaW3bEgny2QPCEYtkKslrQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTI3/MzItMTI1ODQ5NTQ3/NC5qcGVn.jpeg" alt="Cover for Triakel" style="max-width:120px; height:auto;" />
       </td>
@@ -609,7 +609,26 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>10</td>
+      <td>
+      </td>
+      <td>1999</td>
+      <td>Mostar Sevdah Reunion</td>
+      <td>Mostar Sevdah Reunion</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/balkan" | relative_url }}">balkan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/balkan" | relative_url }}">balkan</a> # 45</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/qvwFwu3LPUnMzWk4ypxg3OXr_7XiX2rpLq4dHA_hL9o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzk4/MjMwLTE0OTY2NjQy/MDEtNjYwMS5qcGVn.jpeg" alt="Cover for Legends Of The 20th Century" style="max-width:120px; height:auto;" />
       </td>
@@ -625,67 +644,12 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sacred" | relative_url }}">sacred</a> # 88</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>91</td>
-      <td>
-      </td>
-      <td>1999</td>
-      <td>Mostar Sevdah Reunion</td>
-      <td>Mostar Sevdah Reunion</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/balkan" | relative_url }}">balkan</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/balkan" | relative_url }}">balkan</a> # 56</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>
-          <img src="https://i.discogs.com/NVCtE797eVLZE18fSvMQcF1AEWD1_WuloqwiTleTEcQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5OTM5/MzUtMTQwODMxMTYx/MC01MDQ3LmpwZWc.jpeg" alt="Cover for Music Of Kurdistan" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1999</td>
-      <td>Hakan</td>
-      <td>Music Of Kurdistan</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
+            <li> <a href="{{ "/tags/sacred" | relative_url }}">sacred</a> # 13</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>27</td>
-      <td>
-          <img src="https://i.discogs.com/8VmOmrJdP5qGn57RzlAI-xKuBLB8mVD1is34x0z7meg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0ODg3/MzUtMTQ4MTQ1NzI5/Ny0xNTcyLmpwZWc.jpeg" alt="Cover for Vietnamese Traditional Music" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1999</td>
-      <td>Pham Duc Thanh</td>
-      <td>Vietnamese Traditional Music</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ece1b84cfad74a57caca83494e9c5933.png" alt="Cover for Divine Music From a Jail" style="max-width:120px; height:auto;" />
       </td>
@@ -703,27 +667,43 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>74</td>
       <td>
+          <img src="https://i.discogs.com/8VmOmrJdP5qGn57RzlAI-xKuBLB8mVD1is34x0z7meg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0ODg3/MzUtMTQ4MTQ1NzI5/Ny0xNTcyLmpwZWc.jpeg" alt="Cover for Vietnamese Traditional Music" style="max-width:120px; height:auto;" />
       </td>
-      <td>2000</td>
-      <td>Simon Shaheen &amp; Qantara</td>
-      <td>Blue Flame</td>
+      <td>1999</td>
+      <td>Pham Duc Thanh</td>
+      <td>Vietnamese Traditional Music</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oud" | relative_url }}">oud</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oud" | relative_url }}">oud</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>96</td>
+      <td>
+          <img src="https://i.discogs.com/NVCtE797eVLZE18fSvMQcF1AEWD1_WuloqwiTleTEcQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5OTM5/MzUtMTQwODMxMTYx/MC01MDQ3LmpwZWc.jpeg" alt="Cover for Music Of Kurdistan" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>Hakan</td>
+      <td>Music Of Kurdistan</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/2EC3qJ430R9OCeveBMMiGUerIAOCa3E-pC758YFq1vY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NzMy/ODAtMTM3ODExMzE4/OC02OTUzLmpwZWc.jpeg" alt="Cover for Lewd Awakenings" style="max-width:120px; height:auto;" />
       </td>
@@ -752,7 +732,27 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>22</td>
+      <td>
+      </td>
+      <td>2000</td>
+      <td>Simon Shaheen &amp; Qantara</td>
+      <td>Blue Flame</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oud" | relative_url }}">oud</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/oud" | relative_url }}">oud</a> # 17</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a954fa78578647519446e3bb0702537c.png" alt="Cover for Skyedance" style="max-width:120px; height:auto;" />
       </td>
@@ -770,12 +770,12 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 55</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 46</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/S1aZhM942-tX7hOoEbQn40m91lNajO3Ygbi6LHYKb9w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNDkx/NjgtMTM4MzEyMTY0/OS05NDA4LmpwZWc.jpeg" alt="Cover for Outlaws &amp; Dreamers" style="max-width:120px; height:auto;" />
       </td>
@@ -794,12 +794,12 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 53</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/xgEV6M-bg3BfKUBYTYqRlWX0d3OqT8MkVRl2iN9K280/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDY2/MDUtMTI3NTgwNjUx/MS5qcGVn.jpeg" alt="Cover for Passion" style="max-width:120px; height:auto;" />
       </td>
@@ -818,13 +818,13 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oud" | relative_url }}">oud</a> # 79</li>
-            <li> <a href="{{ "/tags/turkey" | relative_url }}">turkey</a> # 91</li>
+            <li> <a href="{{ "/tags/turkey" | relative_url }}">turkey</a> # 10</li>
+            <li> <a href="{{ "/tags/oud" | relative_url }}">oud</a> # 21</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>95</td>
       <td>
       </td>
       <td>2002</td>
@@ -841,7 +841,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
       </td>
       <td>2002</td>
@@ -857,30 +857,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>29</td>
-      <td>
-          <img src="https://i.discogs.com/mt8DUjNmgdLZAdoRGleOHFDQH5YAXEy3-p2yAu1yotM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTI1/Nzc3LTE2NTEwMDIx/ODMtNDA3My5qcGVn.jpeg" alt="Cover for Too Close to the Mirror" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2003</td>
-      <td>Eddie Ruth Bradford</td>
-      <td>Too Close to the Mirror</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electric-guitar" | relative_url }}">electric guitar</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hymns" | relative_url }}">hymns</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/hymns" | relative_url }}">hymns</a> # 74</li>
-            <li> <a href="{{ "/tags/electric-guitar" | relative_url }}">electric guitar</a> # 87</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fec5b56d6c1540ca91591aaac0d13b3c.png" alt="Cover for Rakish Paddies" style="max-width:120px; height:auto;" />
       </td>
@@ -899,13 +876,53 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a> # 17</li>
-            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 91</li>
+            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 10</li>
+            <li> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>72</td>
+      <td>
+          <img src="https://i.discogs.com/mt8DUjNmgdLZAdoRGleOHFDQH5YAXEy3-p2yAu1yotM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTI1/Nzc3LTE2NTEwMDIx/ODMtNDA3My5qcGVn.jpeg" alt="Cover for Too Close to the Mirror" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Eddie Ruth Bradford</td>
+      <td>Too Close to the Mirror</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electric-guitar" | relative_url }}">electric guitar</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hymns" | relative_url }}">hymns</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/electric-guitar" | relative_url }}">electric guitar</a> # 14</li>
+            <li> <a href="{{ "/tags/hymns" | relative_url }}">hymns</a> # 26</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td>2003</td>
+      <td>Ahmed Bukhatir</td>
+      <td>Fartaqi</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/TBeEXOAgm_xyoK8QArSlBT8wQjwGjzqHO6E4PHvl5x8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODc4/Ni0xMzg1MTYyMDA0/LTgwOTMuanBlZw.jpeg" alt="Cover for The Amfortas Wound" style="max-width:120px; height:auto;" />
       </td>
@@ -924,24 +941,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>100</td>
-      <td>
-      </td>
-      <td>2003</td>
-      <td>Ahmed Bukhatir</td>
-      <td>Fartaqi</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>31</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/aDUvIpeTFGFTd4U9EVBhUS5B32bNUJpo1PeWMAZHLt4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Nzg4/ODctMTU5MzExNTA1/MS03OTU0LmpwZWc.jpeg" alt="Cover for A Secret Gate" style="max-width:120px; height:auto;" />
       </td>
@@ -958,7 +958,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>100</td>
       <td>
           <img src="https://i.discogs.com/ta_ePfmLqKBPMUFpgxdSHbu603d57d3nKz48l3iFO1g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjIx/NjA5LTE1NzAxNDY1/OTMtMTMzMC5qcGVn.jpeg" alt="Cover for Capoeira Angola 2: Brincando na Roda" style="max-width:120px; height:auto;" />
       </td>
@@ -978,7 +978,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/TvJCopbfNUJG1sri4mYdAqFlw9YJ7-Of54c4KTfQ_gM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTIw/MDU1LTE1MTc3Nzkw/ODAtOTgwMS5qcGVn.jpeg" alt="Cover for Bigger is Tough" style="max-width:120px; height:auto;" />
       </td>
@@ -996,12 +996,12 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rocksteady" | relative_url }}">rocksteady</a> # 43</li>
+            <li> <a href="{{ "/tags/rocksteady" | relative_url }}">rocksteady</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/zgY0JxzyXoKrbU4MqO67-7sFdHnWJ81ZmmQ1dWqwmGY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDI1/MjctMTYwNjA2MDI0/MC05MzIzLmpwZWc.jpeg" alt="Cover for Les 50 Plus Belles Chansons De Brigitte Bardot" style="max-width:120px; height:auto;" />
       </td>
@@ -1029,7 +1029,43 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>41</td>
+      <td>
+          <img src="https://i.discogs.com/Ru4BtwTHS-vpgzTA0jWcR2jnEuwbhBXgBSn706LX__c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjYx/MjYwLTE1NTA5MzU2/NzMtODkwNy5qcGVn.jpeg" alt="Cover for Songs from 63° N" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Triakel</td>
+      <td>Songs from 63° N</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/87ffbd25298ce68f9504ec32c39e90f2.png" alt="Cover for Sånger från 63° N" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Triakel</td>
+      <td>Sånger från 63° N</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
       <td>
           <img src="https://i.discogs.com/fVTq7K_pjRDbClqOfMAdw8oLD9La9UXijQ0e8ftzsJM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTMw/NDMyLTE2NzUwMzcy/NzUtNzgyMi5qcGVn.jpeg" alt="Cover for Fields O Storied Fame" style="max-width:120px; height:auto;" />
       </td>
@@ -1054,43 +1090,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>54</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/87ffbd25298ce68f9504ec32c39e90f2.png" alt="Cover for Sånger från 63° N" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2004</td>
-      <td>Triakel</td>
-      <td>Sånger från 63° N</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>60</td>
-      <td>
-          <img src="https://i.discogs.com/Ru4BtwTHS-vpgzTA0jWcR2jnEuwbhBXgBSn706LX__c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjYx/MjYwLTE1NTA5MzU2/NzMtODkwNy5qcGVn.jpeg" alt="Cover for Songs from 63° N" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2004</td>
-      <td>Triakel</td>
-      <td>Songs from 63° N</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>3</td>
+      <td>98</td>
       <td>
       </td>
       <td>2004-02-10</td>
@@ -1109,7 +1109,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/tOl74o3WH3Dprq0Toi_nGdt30pJgBMmfD3GjMbe__Ew/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjQ0/MTgtMTMwOTQzOTg1/NC5qcGVn.jpeg" alt="Cover for Sendzirdēju" style="max-width:120px; height:auto;" />
       </td>
@@ -1129,15 +1129,15 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/latvian" | relative_url }}">latvian</a> # 8</li>
+            <li> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a> # 10</li>
             <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 11</li>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 75</li>
-            <li> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a> # 91</li>
-            <li> <a href="{{ "/tags/latvian" | relative_url }}">latvian</a> # 93</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 26</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/88e6a5572da923aac320be5d7a7c0b84.png" alt="Cover for サクラ サクラ" style="max-width:120px; height:auto;" />
       </td>
@@ -1160,12 +1160,12 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/wood-and-string" | relative_url }}">wood and string</a> # 85</li>
+            <li> <a href="{{ "/tags/wood-and-string" | relative_url }}">wood and string</a> # 16</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/09f24de648944f679c0a21e5e8c5ab67.png" alt="Cover for Hotel Albania" style="max-width:120px; height:auto;" />
       </td>
@@ -1185,12 +1185,12 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/balkan" | relative_url }}">balkan</a> # 35</li>
+            <li> <a href="{{ "/tags/balkan" | relative_url }}">balkan</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/38acd8db5b7bc5fd91a8dc6ef2bc16cf.png" alt="Cover for Two Originals of Jack Rose" style="max-width:120px; height:auto;" />
       </td>
@@ -1212,7 +1212,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/boWQMsAiI-kHy_hNsNdqtiNtIuxY8FgLZ8gpa9Z5LTk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2OTc1/OTMtMTQ4NDk0NzA2/MC00NzA2LmpwZWc.jpeg" alt="Cover for Russian hurdy-gurdy tunes" style="max-width:120px; height:auto;" />
       </td>
@@ -1230,7 +1230,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/N62ubTroMFx_ptKXcT4O2VHTsAbRkpVOtU7qS2bkzq4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0OTA5/OC0xMTc2MjkzNjc4/LmpwZWc.jpeg" alt="Cover for Prigadi-pragadi" style="max-width:120px; height:auto;" />
       </td>
@@ -1250,13 +1250,13 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a> # 11</li>
             <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 57</li>
-            <li> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>85</td>
       <td>
       </td>
       <td>2008-07-22</td>
@@ -1271,12 +1271,12 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 58</li>
+            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
       </td>
       <td>2008-09-26</td>
@@ -1299,33 +1299,13 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a> # 48</li>
-            <li> <a href="{{ "/tags/jazz-bass" | relative_url }}">jazz bass</a> # 81</li>
+            <li> <a href="{{ "/tags/jazz-bass" | relative_url }}">jazz bass</a> # 20</li>
+            <li> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
-      <td>
-          <img src="https://i.discogs.com/-DM8u4ZgktagfB-f4gsxrL7kBdMJC6olzC14nHn8OBs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODcx/NjM5LTE2MjE5MTA5/MzctMzQ3Mi5qcGVn.jpeg" alt="Cover for Balkan Journeys Close to Home" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2009</td>
-      <td>Various Artists</td>
-      <td>Balkan Journeys Close to Home</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/balkan" | relative_url }}">balkan</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/balkan" | relative_url }}">balkan</a> # 4</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/mTDQnK7u0WJ_5NGySrGVuu-rjp5GnkXEXH37nFYXkpQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MjEy/NDEtMTQyMzI2MTcy/My0yMzYyLmpwZWc.jpeg" alt="Cover for Heartbeat of My Land" style="max-width:120px; height:auto;" />
       </td>
@@ -1343,14 +1323,34 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 9</li>
             <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 48</li>
             <li> <a href="{{ "/tags/eurovision" | relative_url }}">eurovision</a> # 54</li>
-            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>55</td>
+      <td>
+          <img src="https://i.discogs.com/-DM8u4ZgktagfB-f4gsxrL7kBdMJC6olzC14nHn8OBs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODcx/NjM5LTE2MjE5MTA5/MzctMzQ3Mi5qcGVn.jpeg" alt="Cover for Balkan Journeys Close to Home" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Various Artists</td>
+      <td>Balkan Journeys Close to Home</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/balkan" | relative_url }}">balkan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/balkan" | relative_url }}">balkan</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
       <td>
       </td>
       <td>2010-02-15</td>
@@ -1387,15 +1387,15 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       <td>
         <ul>
             <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 24</li>
-            <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 27</li>
-            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 33</li>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 67</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 69</li>
+            <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 74</li>
             <li> <a href="{{ "/tags/greek" | relative_url }}">greek</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
       </td>
       <td>2010-12-21</td>
@@ -1432,18 +1432,18 @@ Traditional music encompasses culturally rooted sounds passed down through gener
         <ul>
             <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 10</li>
             <li> <a href="{{ "/tags/greek" | relative_url }}">greek</a> # 11</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 37</li>
-            <li> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a> # 39</li>
-            <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 45</li>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 66</li>
-            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 81</li>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 19</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 35</li>
+            <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 56</li>
+            <li> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a> # 61</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 64</li>
             <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 87</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/efc6904e57c34b928babfc15459ed293.png" alt="Cover for Deadly Buzz | Aoibhinn Crónán" style="max-width:120px; height:auto;" />
       </td>
@@ -1464,7 +1464,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4008b4a78cfb4ef4ce27e4bc4e0ad951.png" alt="Cover for As Fâr" style="max-width:120px; height:auto;" />
       </td>
@@ -1482,13 +1482,13 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 9</li>
-            <li> <a href="{{ "/tags/oud" | relative_url }}">oud</a> # 95</li>
+            <li> <a href="{{ "/tags/oud" | relative_url }}">oud</a> # 6</li>
+            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
       </td>
       <td>2012-02-14</td>
@@ -1505,35 +1505,14 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 80</li>
-            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 90</li>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 95</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 6</li>
+            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 11</li>
+            <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 21</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
-      <td>
-      </td>
-      <td>2012-03-24</td>
-      <td>Kayhan Kalhor</td>
-      <td>The Wind</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/kurdistan" | relative_url }}">kurdistan</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 71</li>
-            <li> <a href="{{ "/tags/kurdistan" | relative_url }}">kurdistan</a> # 94</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
       </td>
       <td>2012-03-24</td>
@@ -1551,37 +1530,37 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 86</li>
-            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 89</li>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 94</li>
-            <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 95</li>
-            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 98</li>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 3</li>
+            <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 6</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 7</li>
+            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 12</li>
+            <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 15</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>54</td>
       <td>
-          <img src="https://i.discogs.com/H5WS4APSGfmJOoHPe7gUNB8751-36bUjes-kREYyD9I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDc5/ODM0LTE2MTcxMzk3/NDEtODI1NC5qcGVn.jpeg" alt="Cover for Love Will Go All The Way" style="max-width:120px; height:auto;" />
       </td>
-      <td>2013</td>
-      <td>Lee Williams And The Spiritual QC&#39;s</td>
-      <td>Love Will Go All The Way</td>
+      <td>2012-03-24</td>
+      <td>Kayhan Kalhor</td>
+      <td>The Wind</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/southern-gospel" | relative_url }}">southern gospel</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/kurdistan" | relative_url }}">kurdistan</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-gospel" | relative_url }}">southern gospel</a> # 86</li>
+            <li> <a href="{{ "/tags/kurdistan" | relative_url }}">kurdistan</a> # 7</li>
+            <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 30</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/771257e7b0e8d9373dda193653e6c8eb.png" alt="Cover for The Ziur Movement" style="max-width:120px; height:auto;" />
       </td>
@@ -1604,7 +1583,28 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>77</td>
+      <td>
+          <img src="https://i.discogs.com/H5WS4APSGfmJOoHPe7gUNB8751-36bUjes-kREYyD9I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDc5/ODM0LTE2MTcxMzk3/NDEtODI1NC5qcGVn.jpeg" alt="Cover for Love Will Go All The Way" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013</td>
+      <td>Lee Williams And The Spiritual QC&#39;s</td>
+      <td>Love Will Go All The Way</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/southern-gospel" | relative_url }}">southern gospel</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/southern-gospel" | relative_url }}">southern gospel</a> # 15</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/190d460792854e6aced4fbf23c197fa9.png" alt="Cover for FARAN" style="max-width:120px; height:auto;" />
       </td>
@@ -1623,13 +1623,13 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oud" | relative_url }}">oud</a> # 68</li>
-            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 72</li>
+            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 29</li>
+            <li> <a href="{{ "/tags/oud" | relative_url }}">oud</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/HkaQTm3LU9j8vFZX4y9_SdZprQvoKFz6T20v6HFO5EA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTI0/NDIxLTE1Mjg3OTU0/NzUtNzk3Mi5qcGVn.jpeg" alt="Cover for Creation of the World" style="max-width:120px; height:auto;" />
       </td>
@@ -1656,15 +1656,15 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 38</li>
+            <li> <a href="{{ "/tags/native-american" | relative_url }}">native american</a> # 39</li>
             <li> <a href="{{ "/tags/western" | relative_url }}">western</a> # 40</li>
             <li> <a href="{{ "/tags/greek" | relative_url }}">greek</a> # 54</li>
-            <li> <a href="{{ "/tags/native-american" | relative_url }}">native american</a> # 62</li>
-            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/99e6655fb7404c2595188ff646148487.png" alt="Cover for Amethyst" style="max-width:120px; height:auto;" />
       </td>
@@ -1705,23 +1705,23 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/neo-prog" | relative_url }}">neo-prog</a> # 4</li>
             <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 11</li>
             <li> <a href="{{ "/tags/greek" | relative_url }}">greek</a> # 14</li>
+            <li> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a> # 15</li>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 25</li>
+            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 39</li>
+            <li> <a href="{{ "/tags/dark-metal" | relative_url }}">dark metal</a> # 41</li>
             <li> <a href="{{ "/tags/new-prog" | relative_url }}">new prog</a> # 43</li>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 50</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 50</li>
-            <li> <a href="{{ "/tags/dark-metal" | relative_url }}">dark metal</a> # 60</li>
-            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 62</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 51</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 51</li>
             <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 63</li>
-            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 75</li>
-            <li> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a> # 84</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 87</li>
-            <li> <a href="{{ "/tags/neo-prog" | relative_url }}">neo-prog</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/j8QKKjn2QdlAV8jEqfaEFpy43WA7tci2-YCHPAjWW74/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MzUx/NDktMTQwNjczOTA5/Ni0yOTU4LmpwZWc.jpeg" alt="Cover for Cold Old Fire" style="max-width:120px; height:auto;" />
       </td>
@@ -1739,7 +1739,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/68ee5dd7bca04120c1704dd749a25f4e.png" alt="Cover for Partners" style="max-width:120px; height:auto;" />
       </td>
@@ -1757,7 +1757,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8ce7c15c73dfb6779469ccc1ba57fda1.png" alt="Cover for In Mixt" style="max-width:120px; height:auto;" />
       </td>
@@ -1779,7 +1779,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/MOzUCMSNYNwtgQLqRV3RCip7ekfad4lkwGBpT_NalDs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjI4/OTk5LTE1MTIzMTI2/NDUtNjg5Ni5qcGVn.jpeg" alt="Cover for The Soil" style="max-width:120px; height:auto;" />
       </td>
@@ -1798,7 +1798,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>99</td>
       <td>
           <img src="https://i.discogs.com/YhZSPTxCH43P5UCY2wD73xAH5isfvaoT7_hVDg-IWtE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NzY5/Mzc0LTE2OTAyMDQ1/MzctOTkwNi5qcGVn.jpeg" alt="Cover for Se Que Soy" style="max-width:120px; height:auto;" />
       </td>
@@ -1829,7 +1829,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6749ced6af3d9e2a49a08345e7026774.png" alt="Cover for Nem Kaldi" style="max-width:120px; height:auto;" />
       </td>
@@ -1853,7 +1853,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/6IpNrao3F9l-W8zpMTnxrwMdwPI4NLPpd4E11CiTXV0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjU1/NDc2LTE1MDE3ODQz/NzQtOTQzNC5qcGVn.jpeg" alt="Cover for The Image of Melancholy" style="max-width:120px; height:auto;" />
       </td>
@@ -1872,7 +1872,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/F-0YqvNlF0xEgBfog3huAL8LvsZxgslrNN0guNh0RhI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTc3/MzA2LTE1MDc1NDUy/NjYtODk2NS5qcGVn.jpeg" alt="Cover for Sweet and Lowdown Traditionals" style="max-width:120px; height:auto;" />
       </td>
@@ -1891,12 +1891,12 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a> # 43</li>
+            <li> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/W1vLiJXv3UbiphwcgRaA-SexCSm3Qz-9oxvQEDkSA9A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTEy/NzEwLTE2MzY0NzQ1/OTctODA3MC5qcGVn.jpeg" alt="Cover for First Noel" style="max-width:120px; height:auto;" />
       </td>
@@ -1915,7 +1915,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/8kowd6XBV0AmhlG8rKNxKZqs0O-MtwBrSxomq8IhWZY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjk3/MjQwLTE1NTE2MTE3/ODktODY5Mi5qcGVn.jpeg" alt="Cover for Die 30 besten Spiel- und Bewegungslieder" style="max-width:120px; height:auto;" />
       </td>
@@ -1934,7 +1934,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/797f8d2d535e421fc2aa1bd3381ff8a6.png" alt="Cover for Vari-Colored Songs" style="max-width:120px; height:auto;" />
       </td>
@@ -1953,37 +1953,112 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/haiti" | relative_url }}">haiti</a> # 97</li>
+            <li> <a href="{{ "/tags/haiti" | relative_url }}">haiti</a> # 4</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>2</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ed8097e6b6e6148cac9898bd0a5b720.png" alt="Cover for The Lamaj Movement" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Maneli Jamal</td>
+      <td>The Lamaj Movement</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fingerstyle-guitar" | relative_url }}">fingerstyle guitar</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/fingerstyle-guitar" | relative_url }}">fingerstyle guitar</a> # 3</li>
+            <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 11</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
       <td>
       </td>
       <td></td>
-      <td>Shahram Gholami</td>
-      <td>Persian Oud, Dirine Delkhah</td>
+      <td>Alireza Ghorbani</td>
+      <td>Harighe Khazan</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 2</li>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 35</li>
-            <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 46</li>
-            <li> <a href="{{ "/tags/oud" | relative_url }}">oud</a> # 63</li>
+            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 22</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>28</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Simin Ghanem</td>
+      <td>Gollake Cheshat - Persian Music</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 15</li>
+            <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 18</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 23</li>
+            <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 28</li>
+            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 32</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/75cbe7b161a8c65245751464f1d74aa1.png" alt="Cover for Koutev Bulgarian National Ensemble" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Koutev Bulgarian National Ensemble</td>
+      <td>Koutev Bulgarian National Ensemble</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bulgarian" | relative_url }}">bulgarian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/bulgarian" | relative_url }}">bulgarian</a> # 19</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
       <td>
       </td>
       <td></td>
       <td>Alireza Eftekhari</td>
-      <td>Sayyad(Hunter)-Iranian Classical Music</td>
+      <td>Navay -e Asatid (The Tunes of the Masters)</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
@@ -1996,36 +2071,70 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 4</li>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 36</li>
-            <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 48</li>
-            <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 49</li>
-            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 57</li>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 27</li>
+            <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 35</li>
+            <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 40</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 42</li>
+            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>71</td>
       <td>
       </td>
       <td></td>
-      <td>Mustafa Kandirali &amp; Ensemble</td>
-      <td>Caz Roman</td>
+      <td>Alireza Ghorbani</td>
+      <td>Rosvaye Zamaneh</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oud" | relative_url }}">oud</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oud" | relative_url }}">oud</a> # 64</li>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 34</li>
+            <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 42</li>
+            <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 43</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 50</li>
+            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>76</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Mohammad Nouri</td>
+      <td>Jaane Maryam - Persian Music</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 36</li>
+            <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 44</li>
+            <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 44</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 55</li>
+            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 83</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ce52627dff51369ad55192486a3c076.png" alt="Cover for Chant Of Drums" style="max-width:120px; height:auto;" />
       </td>
@@ -2046,76 +2155,42 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 12</li>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 41</li>
-            <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 64</li>
-            <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 82</li>
-            <li> <a href="{{ "/tags/kurdish" | relative_url }}">kurdish</a> # 86</li>
-            <li> <a href="{{ "/tags/kurdistan" | relative_url }}">kurdistan</a> # 92</li>
+            <li> <a href="{{ "/tags/kurdistan" | relative_url }}">kurdistan</a> # 9</li>
+            <li> <a href="{{ "/tags/kurdish" | relative_url }}">kurdish</a> # 15</li>
+            <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 19</li>
+            <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 37</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 60</li>
+            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>86</td>
       <td>
       </td>
       <td></td>
-      <td>Mohammad Nouri</td>
-      <td>Jaane Maryam - Persian Music</td>
+      <td>Mustafa Kandirali &amp; Ensemble</td>
+      <td>Caz Roman</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oud" | relative_url }}">oud</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 18</li>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 46</li>
-            <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 57</li>
-            <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 57</li>
-            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 65</li>
+            <li> <a href="{{ "/tags/oud" | relative_url }}">oud</a> # 37</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Alireza Ghorbani</td>
-      <td>Rosvaye Zamaneh</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 27</li>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 51</li>
-            <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 58</li>
-            <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 59</li>
-            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 67</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>41</td>
+      <td>88</td>
       <td>
       </td>
       <td></td>
       <td>Alireza Eftekhari</td>
-      <td>Navay -e Asatid (The Tunes of the Masters)</td>
+      <td>Sayyad(Hunter)-Iranian Classical Music</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
@@ -2128,97 +2203,43 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 38</li>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 59</li>
-            <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 61</li>
-            <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 66</li>
-            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 74</li>
+            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 44</li>
+            <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 52</li>
+            <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 53</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 65</li>
+            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>92</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/75cbe7b161a8c65245751464f1d74aa1.png" alt="Cover for Koutev Bulgarian National Ensemble" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>Koutev Bulgarian National Ensemble</td>
-      <td>Koutev Bulgarian National Ensemble</td>
+      <td>Shahram Gholami</td>
+      <td>Persian Oud, Dirine Delkhah</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bulgarian" | relative_url }}">bulgarian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bulgarian" | relative_url }}">bulgarian</a> # 82</li>
+            <li> <a href="{{ "/tags/oud" | relative_url }}">oud</a> # 38</li>
+            <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 55</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 66</li>
+            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>24</td>
       <td>
       </td>
       <td></td>
-      <td>Simin Ghanem</td>
-      <td>Gollake Cheshat - Persian Music</td>
+      <td>Icelandic Folk Music</td>
+      <td>Icelandic Folk Music</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 69</li>
-            <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 73</li>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 78</li>
-            <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 83</li>
-            <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 86</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>83</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Alireza Ghorbani</td>
-      <td>Harighe Khazan</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 79</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>99</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ed8097e6b6e6148cac9898bd0a5b720.png" alt="Cover for The Lamaj Movement" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Maneli Jamal</td>
-      <td>The Lamaj Movement</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fingerstyle-guitar" | relative_url }}">fingerstyle guitar</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
@@ -2226,13 +2247,64 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 11</li>
-            <li> <a href="{{ "/tags/fingerstyle-guitar" | relative_url }}">fingerstyle guitar</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>40</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Huun-Huur-Tu</td>
+      <td>60 Horses in My Herd: Old Songs and Tunes of Tuva</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Cactus In A Scarf</td>
+      <td>My Jolly Sailor Bold in Russian</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Cactus In A Scarf</td>
+      <td>Lullaby of Woe</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f2e05eedb264e605d0ff48983b6e0ea2.png" alt="Cover for Zareef" style="max-width:120px; height:auto;" />
       </td>
@@ -2254,79 +2326,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
     </tr>
     <tr>
-      <td>35</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Cactus In A Scarf</td>
-      <td>Lullaby of Woe</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>36</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Cactus In A Scarf</td>
-      <td>My Jolly Sailor Bold in Russian</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>61</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Huun-Huur-Tu</td>
-      <td>60 Horses in My Herd: Old Songs and Tunes of Tuva</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>77</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Icelandic Folk Music</td>
-      <td>Icelandic Folk Music</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>42</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3ba1f9e0c8709a0e59bcdd62777dcd39.png" alt="Cover for German Volksongs, Vol. 2 (Die schönsten deutschen Volkslieder - Teil 2)" style="max-width:120px; height:auto;" />
       </td>
