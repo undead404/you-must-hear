@@ -1,18 +1,27 @@
 ---
 category: list
-date: 2025-12-06T12:14:35.205Z
+date: 2025-12-06T13:15:31.001Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-12-06T12:14:35.205Z">Sat Dec 06 2025 14:14:35 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T13:15:31.001Z">Sat Dec 06 2025 15:15:31 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [bhangra]({{ "tags/bhangra" | relative_url }}) | <time datetime="2025-12-06T13:15:31.001Z">Sat Dec 06 2025 15:15:31 GMT+0200 (Eastern European Standard Time)</time> |
+| [hungarian]({{ "tags/hungarian" | relative_url }}) | <time datetime="2025-12-06T13:15:27.366Z">Sat Dec 06 2025 15:15:27 GMT+0200 (Eastern European Standard Time)</time> |
+| [emocore]({{ "tags/emocore" | relative_url }}) | <time datetime="2025-12-06T13:05:19.981Z">Sat Dec 06 2025 15:05:19 GMT+0200 (Eastern European Standard Time)</time> |
+| [death industrial]({{ "tags/death-industrial" | relative_url }}) | <time datetime="2025-12-06T13:05:16.191Z">Sat Dec 06 2025 15:05:16 GMT+0200 (Eastern European Standard Time)</time> |
+| [harsh noise wall]({{ "tags/harsh-noise-wall" | relative_url }}) | <time datetime="2025-12-06T12:55:09.170Z">Sat Dec 06 2025 14:55:09 GMT+0200 (Eastern European Standard Time)</time> |
+| [harpsichord]({{ "tags/harpsichord" | relative_url }}) | <time datetime="2025-12-06T12:50:04.321Z">Sat Dec 06 2025 14:50:04 GMT+0200 (Eastern European Standard Time)</time> |
+| [venezuela]({{ "tags/venezuela" | relative_url }}) | <time datetime="2025-12-06T12:39:57.457Z">Sat Dec 06 2025 14:39:57 GMT+0200 (Eastern European Standard Time)</time> |
+| [hindi]({{ "tags/hindi" | relative_url }}) | <time datetime="2025-12-06T12:39:53.592Z">Sat Dec 06 2025 14:39:53 GMT+0200 (Eastern European Standard Time)</time> |
+| [rac]({{ "tags/rac" | relative_url }}) | <time datetime="2025-12-06T12:29:44.542Z">Sat Dec 06 2025 14:29:44 GMT+0200 (Eastern European Standard Time)</time> |
 | [chiptune]({{ "tags/chiptune" | relative_url }}) | <time datetime="2025-12-06T12:14:35.205Z">Sat Dec 06 2025 14:14:35 GMT+0200 (Eastern European Standard Time)</time> |
 | [russia]({{ "tags/russia" | relative_url }}) | <time datetime="2025-12-06T12:06:01.150Z">Sat Dec 06 2025 14:06:01 GMT+0200 (Eastern European Standard Time)</time> |
 | [chamber]({{ "tags/chamber" | relative_url }}) | <time datetime="2025-12-06T12:04:28.038Z">Sat Dec 06 2025 14:04:28 GMT+0200 (Eastern European Standard Time)</time> |
@@ -1378,12 +1387,3 @@ Last updated: <time datetime="2025-12-06T12:14:35.205Z">Sat Dec 06 2025 14:14:35
 | [vibraphone]({{ "tags/vibraphone" | relative_url }}) | <time datetime="2025-12-04T07:14:08.920Z">Thu Dec 04 2025 09:14:08 GMT+0200 (Eastern European Standard Time)</time> |
 | [folktronica]({{ "tags/folktronica" | relative_url }}) | <time datetime="2025-12-04T07:14:03.261Z">Thu Dec 04 2025 09:14:03 GMT+0200 (Eastern European Standard Time)</time> |
 | [pagan black metal]({{ "tags/pagan-black-metal" | relative_url }}) | <time datetime="2025-12-04T07:13:57.045Z">Thu Dec 04 2025 09:13:57 GMT+0200 (Eastern European Standard Time)</time> |
-| [bhangra]({{ "tags/bhangra" | relative_url }}) | <time datetime="2025-12-04T07:13:50.267Z">Thu Dec 04 2025 09:13:50 GMT+0200 (Eastern European Standard Time)</time> |
-| [hungarian]({{ "tags/hungarian" | relative_url }}) | <time datetime="2025-12-04T07:13:22.508Z">Thu Dec 04 2025 09:13:22 GMT+0200 (Eastern European Standard Time)</time> |
-| [emocore]({{ "tags/emocore" | relative_url }}) | <time datetime="2025-12-04T07:13:15.978Z">Thu Dec 04 2025 09:13:15 GMT+0200 (Eastern European Standard Time)</time> |
-| [death industrial]({{ "tags/death-industrial" | relative_url }}) | <time datetime="2025-12-04T07:13:08.807Z">Thu Dec 04 2025 09:13:08 GMT+0200 (Eastern European Standard Time)</time> |
-| [harsh noise wall]({{ "tags/harsh-noise-wall" | relative_url }}) | <time datetime="2025-12-04T07:12:58.067Z">Thu Dec 04 2025 09:12:58 GMT+0200 (Eastern European Standard Time)</time> |
-| [harpsichord]({{ "tags/harpsichord" | relative_url }}) | <time datetime="2025-12-04T07:12:52.199Z">Thu Dec 04 2025 09:12:52 GMT+0200 (Eastern European Standard Time)</time> |
-| [venezuela]({{ "tags/venezuela" | relative_url }}) | <time datetime="2025-12-04T07:12:25.616Z">Thu Dec 04 2025 09:12:25 GMT+0200 (Eastern European Standard Time)</time> |
-| [hindi]({{ "tags/hindi" | relative_url }}) | <time datetime="2025-12-04T07:12:16.173Z">Thu Dec 04 2025 09:12:16 GMT+0200 (Eastern European Standard Time)</time> |
-| [rac]({{ "tags/rac" | relative_url }}) | <time datetime="2025-12-04T07:12:10.607Z">Thu Dec 04 2025 09:12:10 GMT+0200 (Eastern European Standard Time)</time> |
