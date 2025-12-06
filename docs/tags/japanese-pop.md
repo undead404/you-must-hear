@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T04:06:02.652Z
+date: 2025-12-06T06:36:03.023Z
 permalink: tags/japanese-pop
 title: japanese pop
 ---
 
 ## japanese pop
 
-Last updated: <time datetime="2025-12-04T04:06:02.652Z">Thu Dec 04 2025 06:06:02 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T06:36:03.023Z">Sat Dec 06 2025 08:36:03 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -49,7 +49,7 @@ Japanese pop encompasses the bright, melodic commercial music of Japan, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 72</li>
+            <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -74,7 +74,7 @@ Japanese pop encompasses the bright, melodic commercial music of Japan, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 81</li>
+            <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -95,7 +95,7 @@ Japanese pop encompasses the bright, melodic commercial music of Japan, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 21</li>
+            <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -204,8 +204,8 @@ Japanese pop encompasses the bright, melodic commercial music of Japan, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 81</li>
-            <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 93</li>
+            <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 8</li>
+            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -230,8 +230,8 @@ Japanese pop encompasses the bright, melodic commercial music of Japan, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 79</li>
-            <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 91</li>
+            <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 10</li>
+            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -274,8 +274,8 @@ Japanese pop encompasses the bright, melodic commercial music of Japan, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 60</li>
-            <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 74</li>
+            <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 27</li>
+            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -300,8 +300,8 @@ Japanese pop encompasses the bright, melodic commercial music of Japan, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 82</li>
-            <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 94</li>
+            <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 7</li>
+            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -326,8 +326,8 @@ Japanese pop encompasses the bright, melodic commercial music of Japan, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 68</li>
-            <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 80</li>
+            <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 21</li>
+            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -352,8 +352,8 @@ Japanese pop encompasses the bright, melodic commercial music of Japan, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 65</li>
-            <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 78</li>
+            <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 23</li>
+            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -378,8 +378,8 @@ Japanese pop encompasses the bright, melodic commercial music of Japan, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 78</li>
-            <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 90</li>
+            <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 11</li>
+            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -404,8 +404,8 @@ Japanese pop encompasses the bright, melodic commercial music of Japan, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 64</li>
-            <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 77</li>
+            <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 24</li>
+            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -494,8 +494,8 @@ Japanese pop encompasses the bright, melodic commercial music of Japan, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 83</li>
-            <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 95</li>
+            <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 6</li>
+            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -804,8 +804,8 @@ Japanese pop encompasses the bright, melodic commercial music of Japan, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 77</li>
-            <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 89</li>
+            <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 12</li>
+            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -829,8 +829,8 @@ Japanese pop encompasses the bright, melodic commercial music of Japan, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 87</li>
-            <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 97</li>
+            <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 4</li>
+            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -854,9 +854,9 @@ Japanese pop encompasses the bright, melodic commercial music of Japan, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 56</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 58</li>
-            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 100</li>
+            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 1</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 40</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -899,8 +899,8 @@ Japanese pop encompasses the bright, melodic commercial music of Japan, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 93</li>
-            <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 99</li>
+            <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 2</li>
+            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -948,8 +948,8 @@ Japanese pop encompasses the bright, melodic commercial music of Japan, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 63</li>
-            <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 76</li>
+            <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 25</li>
+            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -973,9 +973,9 @@ Japanese pop encompasses the bright, melodic commercial music of Japan, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 34</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 34</li>
-            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 96</li>
+            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 6</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 65</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1067,7 +1067,7 @@ Japanese pop encompasses the bright, melodic commercial music of Japan, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 90</li>
+            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -1091,7 +1091,7 @@ Japanese pop encompasses the bright, melodic commercial music of Japan, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 42</li>
+            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1113,7 +1113,7 @@ Japanese pop encompasses the bright, melodic commercial music of Japan, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asia" | relative_url }}">asia</a> # 38</li>
+            <li> <a href="{{ "/tags/asia" | relative_url }}">asia</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1201,9 +1201,11 @@ Japanese pop encompasses the bright, melodic commercial music of Japan, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 80</li>
-            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 86</li>
-            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 100</li>
+            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 1</li>
+            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 5</li>
+            <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 10</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 62</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1227,7 +1229,7 @@ Japanese pop encompasses the bright, melodic commercial music of Japan, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 77</li>
+            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1251,7 +1253,7 @@ Japanese pop encompasses the bright, melodic commercial music of Japan, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 76</li>
+            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1298,8 +1300,8 @@ Japanese pop encompasses the bright, melodic commercial music of Japan, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 36</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 37</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 61</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1345,7 +1347,7 @@ Japanese pop encompasses the bright, melodic commercial music of Japan, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 83</li>
+            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1417,8 +1419,8 @@ Japanese pop encompasses the bright, melodic commercial music of Japan, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 96</li>
-            <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 100</li>
+            <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 1</li>
+            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1442,7 +1444,7 @@ Japanese pop encompasses the bright, melodic commercial music of Japan, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 67</li>
+            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1508,7 +1510,7 @@ Japanese pop encompasses the bright, melodic commercial music of Japan, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 61</li>
+            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1579,8 +1581,8 @@ Japanese pop encompasses the bright, melodic commercial music of Japan, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 67</li>
-            <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 79</li>
+            <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 22</li>
+            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1605,7 +1607,7 @@ Japanese pop encompasses the bright, melodic commercial music of Japan, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 37</li>
+            <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1652,7 +1654,7 @@ Japanese pop encompasses the bright, melodic commercial music of Japan, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 79</li>
+            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1677,8 +1679,8 @@ Japanese pop encompasses the bright, melodic commercial music of Japan, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 75</li>
-            <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 87</li>
+            <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 14</li>
+            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1746,9 +1748,9 @@ Japanese pop encompasses the bright, melodic commercial music of Japan, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 43</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 53</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 55</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 43</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 47</li>
+            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1775,11 +1777,11 @@ Japanese pop encompasses the bright, melodic commercial music of Japan, blending
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 5</li>
             <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 12</li>
             <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 16</li>
-            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 79</li>
-            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 85</li>
-            <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 96</li>
+            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 16</li>
+            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1805,8 +1807,8 @@ Japanese pop encompasses the bright, melodic commercial music of Japan, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 71</li>
-            <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 84</li>
+            <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 17</li>
+            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1853,10 +1855,10 @@ Japanese pop encompasses the bright, melodic commercial music of Japan, blending
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 3</li>
             <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 6</li>
             <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 11</li>
-            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 82</li>
-            <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 98</li>
+            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1967,7 +1969,7 @@ Japanese pop encompasses the bright, melodic commercial music of Japan, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-idol" | relative_url }}">j-idol</a> # 80</li>
+            <li> <a href="{{ "/tags/j-idol" | relative_url }}">j-idol</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1991,10 +1993,10 @@ Japanese pop encompasses the bright, melodic commercial music of Japan, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 34</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 25</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 25</li>
             <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 59</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 74</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 76</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -2105,8 +2107,8 @@ Japanese pop encompasses the bright, melodic commercial music of Japan, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 52</li>
-            <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 98</li>
+            <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 3</li>
+            <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -2130,7 +2132,7 @@ Japanese pop encompasses the bright, melodic commercial music of Japan, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 44</li>
+            <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -2148,7 +2150,7 @@ Japanese pop encompasses the bright, melodic commercial music of Japan, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 32</li>
+            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -2173,8 +2175,8 @@ Japanese pop encompasses the bright, melodic commercial music of Japan, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 76</li>
-            <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 88</li>
+            <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 13</li>
+            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -2199,8 +2201,8 @@ Japanese pop encompasses the bright, melodic commercial music of Japan, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 74</li>
-            <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 86</li>
+            <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 15</li>
+            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -2225,8 +2227,8 @@ Japanese pop encompasses the bright, melodic commercial music of Japan, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 69</li>
-            <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 82</li>
+            <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 19</li>
+            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -2251,8 +2253,8 @@ Japanese pop encompasses the bright, melodic commercial music of Japan, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 59</li>
-            <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 73</li>
+            <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 28</li>
+            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -2277,8 +2279,8 @@ Japanese pop encompasses the bright, melodic commercial music of Japan, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 58</li>
-            <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 71</li>
+            <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 30</li>
+            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 43</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T02:27:07.318Z
+date: 2025-12-06T06:32:55.064Z
 permalink: tags/francophone
 title: francophone
 ---
 
 ## francophone
 
-Last updated: <time datetime="2025-12-04T02:27:07.318Z">Thu Dec 04 2025 04:27:07 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T06:32:55.064Z">Sat Dec 06 2025 08:32:55 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -324,7 +324,7 @@ Francophone refers to music performed in the French language, encompassing diver
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 80</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -402,7 +402,7 @@ Francophone refers to music performed in the French language, encompassing diver
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 35</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -440,7 +440,7 @@ Francophone refers to music performed in the French language, encompassing diver
       <td>
         <ul>
             <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 43</li>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 52</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -523,7 +523,7 @@ Francophone refers to music performed in the French language, encompassing diver
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 52</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -642,7 +642,7 @@ Francophone refers to music performed in the French language, encompassing diver
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 90</li>
+            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -868,8 +868,8 @@ Francophone refers to music performed in the French language, encompassing diver
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/breizh" | relative_url }}">breizh</a> # 9</li>
             <li> <a href="{{ "/tags/celtic-rock" | relative_url }}">celtic rock</a> # 59</li>
-            <li> <a href="{{ "/tags/breizh" | relative_url }}">breizh</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -948,7 +948,7 @@ Francophone refers to music performed in the French language, encompassing diver
       <td>
         <ul>
             <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 18</li>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 32</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1048,7 +1048,7 @@ Francophone refers to music performed in the French language, encompassing diver
       <td>
         <ul>
             <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 28</li>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 52</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1112,9 +1112,9 @@ Francophone refers to music performed in the French language, encompassing diver
       <td>
         <ul>
             <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 16</li>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 36</li>
-            <li> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a> # 45</li>
             <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 51</li>
+            <li> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a> # 56</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1136,7 +1136,7 @@ Francophone refers to music performed in the French language, encompassing diver
       <td>
         <ul>
             <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 31</li>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 65</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1258,8 +1258,8 @@ Francophone refers to music performed in the French language, encompassing diver
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 17</li>
             <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 23</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1286,7 +1286,7 @@ Francophone refers to music performed in the French language, encompassing diver
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 58</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 43</li>
             <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 66</li>
             <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 81</li>
         </ul>
@@ -1325,7 +1325,7 @@ Francophone refers to music performed in the French language, encompassing diver
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 53</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1423,7 +1423,7 @@ Francophone refers to music performed in the French language, encompassing diver
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 63</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 38</li>
             <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 74</li>
         </ul>
       </td>
@@ -1493,8 +1493,8 @@ Francophone refers to music performed in the French language, encompassing diver
         <ul>
             <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 2</li>
             <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 2</li>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 77</li>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 89</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 12</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1581,7 +1581,7 @@ Francophone refers to music performed in the French language, encompassing diver
       <td>
         <ul>
             <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 14</li>
-            <li> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a> # 69</li>
+            <li> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1663,7 +1663,7 @@ Francophone refers to music performed in the French language, encompassing diver
       <td>
         <ul>
             <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 13</li>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 73</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -2007,8 +2007,8 @@ Francophone refers to music performed in the French language, encompassing diver
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/algeria" | relative_url }}">algeria</a> # 83</li>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 86</li>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 15</li>
+            <li> <a href="{{ "/tags/algeria" | relative_url }}">algeria</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -2054,9 +2054,9 @@ Francophone refers to music performed in the French language, encompassing diver
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 3</li>
             <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 8</li>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 36</li>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 98</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -2077,8 +2077,8 @@ Francophone refers to music performed in the French language, encompassing diver
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a> # 10</li>
             <li> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a> # 51</li>
-            <li> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a> # 90</li>
         </ul>
       </td>
     </tr>

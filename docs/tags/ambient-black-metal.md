@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T04:21:55.123Z
+date: 2025-12-06T06:36:51.660Z
 permalink: tags/ambient-black-metal
 title: ambient black metal
 ---
 
 ## ambient black metal
 
-Last updated: <time datetime="2025-12-04T04:21:55.123Z">Thu Dec 04 2025 06:21:55 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T06:36:51.660Z">Sat Dec 06 2025 08:36:51 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -45,8 +45,8 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
         <ul>
             <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 8</li>
             <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 18</li>
-            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 27</li>
-            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 75</li>
+            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 26</li>
+            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -68,8 +68,8 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
         <ul>
             <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 2</li>
             <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 5</li>
-            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 64</li>
-            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 86</li>
+            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 15</li>
+            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -126,7 +126,7 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish-black-metal" | relative_url }}">swedish black metal</a> # 43</li>
+            <li> <a href="{{ "/tags/swedish-black-metal" | relative_url }}">swedish black metal</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -228,7 +228,7 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 63</li>
+            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -266,7 +266,7 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/black-ambient" | relative_url }}">black ambient</a> # 58</li>
+            <li> <a href="{{ "/tags/black-ambient" | relative_url }}">black ambient</a> # 43</li>
             <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 88</li>
         </ul>
       </td>
@@ -325,7 +325,7 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 38</li>
+            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -363,8 +363,7 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       <td>
         <ul>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 14</li>
-            <li> <a href="{{ "/tags/atmospheric-sludge-metal" | relative_url }}">atmospheric sludge metal</a> # 32</li>
-            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 44</li>
+            <li> <a href="{{ "/tags/atmospheric-sludge-metal" | relative_url }}">atmospheric sludge metal</a> # 39</li>
             <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 84</li>
         </ul>
       </td>
@@ -406,7 +405,7 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/black-ambient" | relative_url }}">black ambient</a> # 97</li>
+            <li> <a href="{{ "/tags/black-ambient" | relative_url }}">black ambient</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -447,8 +446,8 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 41</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 60</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 41</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 60</li>
             <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 86</li>
         </ul>
       </td>
@@ -487,7 +486,7 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 84</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -545,8 +544,8 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 18</li>
-            <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 59</li>
+            <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 42</li>
+            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -625,8 +624,8 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 14</li>
-            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 77</li>
+            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 24</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -648,7 +647,7 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
         <ul>
             <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 6</li>
             <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 22</li>
-            <li> <a href="{{ "/tags/rabm" | relative_url }}">rabm</a> # 26</li>
+            <li> <a href="{{ "/tags/rabm" | relative_url }}">rabm</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -944,9 +943,9 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 1</li>
-            <li> <a href="{{ "/tags/swedish-black-metal" | relative_url }}">swedish black metal</a> # 54</li>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 59</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 42</li>
+            <li> <a href="{{ "/tags/swedish-black-metal" | relative_url }}">swedish black metal</a> # 46</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1101,9 +1100,9 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 35</li>
-            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 61</li>
-            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 81</li>
+            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 20</li>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 39</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1448,7 +1447,7 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 34</li>
+            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1617,7 +1616,7 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish-black-metal" | relative_url }}">swedish black metal</a> # 46</li>
+            <li> <a href="{{ "/tags/swedish-black-metal" | relative_url }}">swedish black metal</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1658,7 +1657,7 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish-black-metal" | relative_url }}">swedish black metal</a> # 80</li>
+            <li> <a href="{{ "/tags/swedish-black-metal" | relative_url }}">swedish black metal</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1680,7 +1679,7 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 9</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1725,7 +1724,7 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 82</li>
+            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1770,9 +1769,9 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 6</li>
             <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 17</li>
             <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 77</li>
-            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1834,8 +1833,8 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 28</li>
-            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 54</li>
+            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 47</li>
+            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1875,7 +1874,7 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dungeon-synth" | relative_url }}">dungeon synth</a> # 37</li>
+            <li> <a href="{{ "/tags/dungeon-synth" | relative_url }}">dungeon synth</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1913,8 +1912,8 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-black-metal" | relative_url }}">french black metal</a> # 13</li>
-            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 50</li>
+            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 51</li>
+            <li> <a href="{{ "/tags/french-black-metal" | relative_url }}">french black metal</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1944,7 +1943,7 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
         <ul>
             <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 5</li>
             <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 25</li>
-            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 49</li>
+            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 52</li>
         </ul>
       </td>
     </tr>

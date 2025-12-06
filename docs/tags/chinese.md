@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T02:01:49.870Z
+date: 2025-12-06T06:32:38.344Z
 permalink: tags/chinese
 title: chinese
 ---
 
 ## chinese
 
-Last updated: <time datetime="2025-12-04T02:01:49.870Z">Thu Dec 04 2025 04:01:49 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T06:32:38.344Z">Sat Dec 06 2025 08:32:38 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -228,7 +228,7 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/wood-and-string" | relative_url }}">wood and string</a> # 92</li>
+            <li> <a href="{{ "/tags/wood-and-string" | relative_url }}">wood and string</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -248,7 +248,7 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/wood-and-string" | relative_url }}">wood and string</a> # 93</li>
+            <li> <a href="{{ "/tags/wood-and-string" | relative_url }}">wood and string</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -305,7 +305,7 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/wood-and-string" | relative_url }}">wood and string</a> # 96</li>
+            <li> <a href="{{ "/tags/wood-and-string" | relative_url }}">wood and string</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -360,7 +360,7 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 61</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -473,8 +473,8 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 20</li>
             <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 69</li>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -629,7 +629,7 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 93</li>
+            <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -704,8 +704,8 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/asia" | relative_url }}">asia</a> # 9</li>
             <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 14</li>
-            <li> <a href="{{ "/tags/asia" | relative_url }}">asia</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -725,7 +725,7 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/wood-and-string" | relative_url }}">wood and string</a> # 98</li>
+            <li> <a href="{{ "/tags/wood-and-string" | relative_url }}">wood and string</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -749,8 +749,8 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 1</li>
             <li> <a href="{{ "/tags/opera" | relative_url }}">opera</a> # 30</li>
-            <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -770,7 +770,7 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/wood-and-string" | relative_url }}">wood and string</a> # 91</li>
+            <li> <a href="{{ "/tags/wood-and-string" | relative_url }}">wood and string</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -828,7 +828,7 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 65</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -852,9 +852,9 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 6</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 10</li>
             <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 38</li>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 87</li>
-            <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -878,8 +878,8 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 3</li>
             <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 12</li>
-            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1055,7 +1055,7 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 94</li>
+            <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1315,8 +1315,8 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
       <td>
         <ul>
             <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 8</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 47</li>
             <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 49</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 53</li>
             <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 82</li>
         </ul>
       </td>
@@ -1480,7 +1480,7 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 90</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1521,8 +1521,8 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 4</li>
             <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 29</li>
-            <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1546,8 +1546,8 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/taiwanese" | relative_url }}">taiwanese</a> # 9</li>
             <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 35</li>
-            <li> <a href="{{ "/tags/taiwanese" | relative_url }}">taiwanese</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1700,9 +1700,9 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 73</li>
+            <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 10</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 23</li>
             <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 81</li>
-            <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1770,7 +1770,7 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 62</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 34</li>
         </ul>
       </td>
     </tr>

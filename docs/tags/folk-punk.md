@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T04:23:56.738Z
+date: 2025-12-06T06:38:23.212Z
 permalink: tags/folk-punk
 title: folk punk
 ---
 
 ## folk punk
 
-Last updated: <time datetime="2025-12-04T04:23:56.738Z">Thu Dec 04 2025 06:23:56 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T06:38:23.212Z">Sat Dec 06 2025 08:38:23 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -61,7 +61,7 @@ Folk punk is a subgenre of punk rock that combines the elements of folk music, s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 73</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -104,7 +104,7 @@ Folk punk is a subgenre of punk rock that combines the elements of folk music, s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 87</li>
+            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -255,8 +255,8 @@ Folk punk is a subgenre of punk rock that combines the elements of folk music, s
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 4</li>
             <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 56</li>
-            <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -293,9 +293,9 @@ Folk punk is a subgenre of punk rock that combines the elements of folk music, s
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 2</li>
+            <li> <a href="{{ "/tags/celtic-punk" | relative_url }}">celtic punk</a> # 4</li>
             <li> <a href="{{ "/tags/celtic-rock" | relative_url }}">celtic rock</a> # 36</li>
-            <li> <a href="{{ "/tags/celtic-punk" | relative_url }}">celtic punk</a> # 96</li>
-            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -367,7 +367,7 @@ Folk punk is a subgenre of punk rock that combines the elements of folk music, s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 25</li>
+            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -406,7 +406,7 @@ Folk punk is a subgenre of punk rock that combines the elements of folk music, s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 93</li>
+            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -426,7 +426,7 @@ Folk punk is a subgenre of punk rock that combines the elements of folk music, s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic-punk" | relative_url }}">celtic punk</a> # 77</li>
+            <li> <a href="{{ "/tags/celtic-punk" | relative_url }}">celtic punk</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -534,9 +534,9 @@ Folk punk is a subgenre of punk rock that combines the elements of folk music, s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 39</li>
-            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 73</li>
-            <li> <a href="{{ "/tags/celtic-punk" | relative_url }}">celtic punk</a> # 98</li>
+            <li> <a href="{{ "/tags/celtic-punk" | relative_url }}">celtic punk</a> # 2</li>
+            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 28</li>
+            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -698,7 +698,7 @@ Folk punk is a subgenre of punk rock that combines the elements of folk music, s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic-punk" | relative_url }}">celtic punk</a> # 89</li>
+            <li> <a href="{{ "/tags/celtic-punk" | relative_url }}">celtic punk</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -735,7 +735,7 @@ Folk punk is a subgenre of punk rock that combines the elements of folk music, s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic-punk" | relative_url }}">celtic punk</a> # 100</li>
+            <li> <a href="{{ "/tags/celtic-punk" | relative_url }}">celtic punk</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -847,8 +847,8 @@ Folk punk is a subgenre of punk rock that combines the elements of folk music, s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 44</li>
-            <li> <a href="{{ "/tags/gypsy" | relative_url }}">gypsy</a> # 55</li>
+            <li> <a href="{{ "/tags/gypsy" | relative_url }}">gypsy</a> # 45</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1166,7 +1166,7 @@ Folk punk is a subgenre of punk rock that combines the elements of folk music, s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic-punk" | relative_url }}">celtic punk</a> # 95</li>
+            <li> <a href="{{ "/tags/celtic-punk" | relative_url }}">celtic punk</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1185,7 +1185,7 @@ Folk punk is a subgenre of punk rock that combines the elements of folk music, s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic-punk" | relative_url }}">celtic punk</a> # 64</li>
+            <li> <a href="{{ "/tags/celtic-punk" | relative_url }}">celtic punk</a> # 37</li>
             <li> <a href="{{ "/tags/celtic-rock" | relative_url }}">celtic rock</a> # 77</li>
         </ul>
       </td>
@@ -1204,7 +1204,7 @@ Folk punk is a subgenre of punk rock that combines the elements of folk music, s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/protest" | relative_url }}">protest</a> # 96</li>
+            <li> <a href="{{ "/tags/protest" | relative_url }}">protest</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1414,7 +1414,7 @@ Folk punk is a subgenre of punk rock that combines the elements of folk music, s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic-punk" | relative_url }}">celtic punk</a> # 82</li>
+            <li> <a href="{{ "/tags/celtic-punk" | relative_url }}">celtic punk</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1455,7 +1455,7 @@ Folk punk is a subgenre of punk rock that combines the elements of folk music, s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic-punk" | relative_url }}">celtic punk</a> # 93</li>
+            <li> <a href="{{ "/tags/celtic-punk" | relative_url }}">celtic punk</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1539,10 +1539,10 @@ Folk punk is a subgenre of punk rock that combines the elements of folk music, s
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 1</li>
             <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 1</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 23</li>
             <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 42</li>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 78</li>
-            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1581,7 +1581,7 @@ Folk punk is a subgenre of punk rock that combines the elements of folk music, s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic-punk" | relative_url }}">celtic punk</a> # 87</li>
+            <li> <a href="{{ "/tags/celtic-punk" | relative_url }}">celtic punk</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1661,7 +1661,7 @@ Folk punk is a subgenre of punk rock that combines the elements of folk music, s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic-punk" | relative_url }}">celtic punk</a> # 83</li>
+            <li> <a href="{{ "/tags/celtic-punk" | relative_url }}">celtic punk</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1721,8 +1721,8 @@ Folk punk is a subgenre of punk rock that combines the elements of folk music, s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 11</li>
             <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 17</li>
+            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1752,10 +1752,10 @@ Folk punk is a subgenre of punk rock that combines the elements of folk music, s
       <td>
         <ul>
             <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 21</li>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 29</li>
-            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 31</li>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 35</li>
-            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 46</li>
+            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 55</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 66</li>
+            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 70</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1798,7 +1798,7 @@ Folk punk is a subgenre of punk rock that combines the elements of folk music, s
       <td>
         <ul>
             <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 10</li>
-            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 44</li>
+            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1878,8 +1878,8 @@ Folk punk is a subgenre of punk rock that combines the elements of folk music, s
       <td>
         <ul>
             <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 2</li>
+            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 12</li>
             <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 39</li>
-            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1902,7 +1902,7 @@ Folk punk is a subgenre of punk rock that combines the elements of folk music, s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 45</li>
+            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 56</li>
         </ul>
       </td>
     </tr>

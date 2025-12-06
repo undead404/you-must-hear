@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T03:50:43.551Z
+date: 2025-12-06T06:35:24.887Z
 permalink: tags/surf-rock
 title: surf rock
 ---
 
 ## surf rock
 
-Last updated: <time datetime="2025-12-04T03:50:43.551Z">Thu Dec 04 2025 05:50:43 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T06:35:24.887Z">Sat Dec 06 2025 08:35:24 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -62,7 +62,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 61</li>
+            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -83,7 +83,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 19</li>
+            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -230,8 +230,8 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 1</li>
             <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 26</li>
-            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -271,7 +271,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 7</li>
+            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -309,7 +309,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 98</li>
+            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -498,7 +498,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 66</li>
+            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -537,7 +537,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 32</li>
+            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -579,7 +579,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 23</li>
+            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -621,7 +621,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 67</li>
+            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -662,7 +662,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 48</li>
+            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -780,7 +780,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 100</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -923,8 +923,8 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 19</li>
             <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 68</li>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -943,7 +943,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychobilly" | relative_url }}">psychobilly</a> # 36</li>
+            <li> <a href="{{ "/tags/psychobilly" | relative_url }}">psychobilly</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1004,7 +1004,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 17</li>
+            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1043,7 +1043,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 58</li>
+            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1062,7 +1062,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 68</li>
+            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1190,7 +1190,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       <td>
         <ul>
             <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 16</li>
-            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 62</li>
+            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1247,7 +1247,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 77</li>
+            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1301,7 +1301,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       <td>
         <ul>
             <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 39</li>
-            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 56</li>
+            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 45</li>
             <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 57</li>
         </ul>
       </td>
@@ -1324,7 +1324,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 59</li>
+            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 42</li>
             <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 95</li>
         </ul>
       </td>
@@ -1403,7 +1403,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 5</li>
+            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1424,7 +1424,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 72</li>
+            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1446,8 +1446,8 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 17</li>
-            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 57</li>
+            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 44</li>
+            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1600,7 +1600,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 49</li>
+            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1694,7 +1694,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 95</li>
+            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -1712,8 +1712,8 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 7</li>
             <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 43</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1733,7 +1733,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychobilly" | relative_url }}">psychobilly</a> # 52</li>
+            <li> <a href="{{ "/tags/psychobilly" | relative_url }}">psychobilly</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1850,7 +1850,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 54</li>
+            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1966,7 +1966,7 @@ Surf rock is a subgenre of rock music that originated in Southern California in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 92</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 9</li>
             <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 93</li>
         </ul>
       </td>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T03:34:43.362Z
+date: 2025-12-06T06:35:08.979Z
 permalink: tags/liedermacher
 title: liedermacher
 ---
 
 ## liedermacher
 
-Last updated: <time datetime="2025-12-04T03:34:43.362Z">Thu Dec 04 2025 05:34:43 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T06:35:08.979Z">Sat Dec 06 2025 08:35:08 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
   </thead>
   <tbody>
     <tr>
-      <td>22</td>
+      <td>79</td>
       <td>
       </td>
       <td>1965</td>
@@ -46,7 +46,7 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/zniZIwJ9Mm7E04VD1FPuhogKHh7W-CYck8ZRUJ7jP0I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4Mjcw/NjYtMTQwMzgxMTM5/OS0zMjUzLmpwZWc.jpeg" alt="Cover for Nichtarische Arien" style="max-width:120px; height:auto;" />
       </td>
@@ -61,12 +61,12 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/kabarett" | relative_url }}">kabarett</a> # 71</li>
+            <li> <a href="{{ "/tags/kabarett" | relative_url }}">kabarett</a> # 30</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/CEYwrx3zStCUS-fHB_B4CShE4-Ocm6kt84Xnf2LQwdk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDEw/NzExLTE1NjYwNDAy/MzctNjY4MC5qcGVn.jpeg" alt="Cover for DKP - KPD - DDR" style="max-width:120px; height:auto;" />
       </td>
@@ -81,12 +81,12 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/kabarett" | relative_url }}">kabarett</a> # 77</li>
+            <li> <a href="{{ "/tags/kabarett" | relative_url }}">kabarett</a> # 24</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/cVvEQvwUI-PHeQOnDi3XAO8oYAD-Vqw_n3n8ZRCp5gE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxOTk2/MTItMTYzNTM2MTIx/OS0xODU0LmpwZWc.jpeg" alt="Cover for Nu En Dan - 30 Jaar Herman Van Veen" style="max-width:120px; height:auto;" />
       </td>
@@ -102,13 +102,13 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nederlandstalig" | relative_url }}">nederlandstalig</a> # 74</li>
-            <li> <a href="{{ "/tags/nederlands" | relative_url }}">nederlands</a> # 89</li>
+            <li> <a href="{{ "/tags/nederlands" | relative_url }}">nederlands</a> # 12</li>
+            <li> <a href="{{ "/tags/nederlandstalig" | relative_url }}">nederlandstalig</a> # 27</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/kAnEgz0pTZQmiKf61tcGnpohTXebIfRQgVbBTWDAygc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDkz/NzktMTI4NjI2ODI2/NC5qcGVn.jpeg" alt="Cover for Ankomme Freitag, den 13." style="max-width:120px; height:auto;" />
       </td>
@@ -125,7 +125,7 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/ci045YuMLKlZQJ5PdM4LRwGT_7DvQNB6oiaRzhX_8Yk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODQz/OTAtMTIwNjM1NjM3/Mi5qcGVn.jpeg" alt="Cover for Aus meinem Tagebuch" style="max-width:120px; height:auto;" />
       </td>
@@ -143,24 +143,7 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
     </tr>
     <tr>
-      <td>74</td>
-      <td>
-      </td>
-      <td>1972</td>
-      <td>Reinhard Mey</td>
-      <td>Mein achtel Lorbeerblatt</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liedermacher" | relative_url }}">liedermacher</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5d6a6a83be1be0a934c02afdb514392a.png" alt="Cover for 7 Lieder" style="max-width:120px; height:auto;" />
       </td>
@@ -178,15 +161,14 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>27</td>
       <td>
       </td>
-      <td>1974</td>
-      <td>Hannes Wader</td>
-      <td>Plattdeutsche Lieder</td>
+      <td>1972</td>
+      <td>Reinhard Mey</td>
+      <td>Mein achtel Lorbeerblatt</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liedermacher" | relative_url }}">liedermacher</a></li>
         </ul>
       </td>
@@ -196,7 +178,7 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/112f81da6be164010b374f5d7e9e5d21.png" alt="Cover for Wie vor Jahr und Tag" style="max-width:120px; height:auto;" />
       </td>
@@ -214,14 +196,15 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>90</td>
       <td>
       </td>
-      <td>1975</td>
-      <td>Reinhard Mey</td>
-      <td>Ikarus</td>
+      <td>1974</td>
+      <td>Hannes Wader</td>
+      <td>Plattdeutsche Lieder</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liedermacher" | relative_url }}">liedermacher</a></li>
         </ul>
       </td>
@@ -231,7 +214,7 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/96e461973fe99fde9aec9ce6260e450d.png" alt="Cover for Volkssänger" style="max-width:120px; height:auto;" />
       </td>
@@ -249,7 +232,24 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>81</td>
+      <td>
+      </td>
+      <td>1975</td>
+      <td>Reinhard Mey</td>
+      <td>Ikarus</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liedermacher" | relative_url }}">liedermacher</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9b4488e95f6258e2b4a40643a6826f95.png" alt="Cover for Hannes Wader singt Arbeiterlieder" style="max-width:120px; height:auto;" />
       </td>
@@ -266,7 +266,43 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>14</td>
+      <td>
+          <img src="https://i.discogs.com/_mtU23Z8VAAU2Q05Gt8LXPacfoHInw03ZF5PTDaKHjE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjQ1/OTYtMTYzNDI5NDIx/MC0xMjk2LmpwZWc.jpeg" alt="Cover for Liederbuch" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1979</td>
+      <td>Ludwig Hirsch</td>
+      <td>Liederbuch</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liedermacher" | relative_url }}">liedermacher</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td>
+      </td>
+      <td>1979</td>
+      <td>Reinhard Mey</td>
+      <td>Keine ruhige Minute</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liedermacher" | relative_url }}">liedermacher</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
       <td>
           <img src="https://i.discogs.com/kDYOuZA2reEn8q_mMln4IwI4Tpd3eTYeTFiFaf-3LcQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Nzcz/MzUtMTQ0OTA4OTgz/Ny04ODAwLmpwZWc.jpeg" alt="Cover for Der Anlass Jodler" style="max-width:120px; height:auto;" />
       </td>
@@ -285,43 +321,7 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
     </tr>
     <tr>
-      <td>28</td>
-      <td>
-      </td>
-      <td>1979</td>
-      <td>Reinhard Mey</td>
-      <td>Keine ruhige Minute</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liedermacher" | relative_url }}">liedermacher</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>87</td>
-      <td>
-          <img src="https://i.discogs.com/_mtU23Z8VAAU2Q05Gt8LXPacfoHInw03ZF5PTDaKHjE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjQ1/OTYtMTYzNDI5NDIx/MC0xMjk2LmpwZWc.jpeg" alt="Cover for Liederbuch" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1979</td>
-      <td>Ludwig Hirsch</td>
-      <td>Liederbuch</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liedermacher" | relative_url }}">liedermacher</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9311a795fb8a48b4b5cfa7f533d4721b.png" alt="Cover for Die großen Erfolge" style="max-width:120px; height:auto;" />
       </td>
@@ -339,7 +339,24 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>93</td>
+      <td>
+      </td>
+      <td>1986</td>
+      <td>Reinhard Mey</td>
+      <td>Alleingang</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liedermacher" | relative_url }}">liedermacher</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6cf6c69829b649ad99daf2e6328b63f9.png" alt="Cover for Frei sein" style="max-width:120px; height:auto;" />
       </td>
@@ -357,24 +374,7 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
     </tr>
     <tr>
-      <td>8</td>
-      <td>
-      </td>
-      <td>1986</td>
-      <td>Reinhard Mey</td>
-      <td>Alleingang</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liedermacher" | relative_url }}">liedermacher</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/N01enCWC7fa-IYB9mS9ODaNQHNOSgBRT_LnutSUlvvY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMTM3/My0xNDk0MTcxMDQ1/LTY0MjAuanBlZw.jpeg" alt="Cover for Wos reimt se scho auf Nicki..." style="max-width:120px; height:auto;" />
       </td>
@@ -392,7 +392,7 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/jpA7EEVkwbVNtBGmiWdIAm8fSblWb__qcJBVLJEWS7A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyOTAz/MS0xMTQxMjIyNDg3/LmpwZWc.jpeg" alt="Cover for Balladen" style="max-width:120px; height:auto;" />
       </td>
@@ -410,7 +410,7 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>35</td>
       <td>
       </td>
       <td>1989</td>
@@ -427,7 +427,7 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/709fcfec855e9ed553774a25b882a772.png" alt="Cover for Hey Staat!" style="max-width:120px; height:auto;" />
       </td>
@@ -446,7 +446,7 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>64</td>
       <td>
       </td>
       <td>1989-08-01</td>
@@ -462,7 +462,7 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/RmCDidJyESBGqccJ63tfHhCdEt8FZxMb35rfCrMuUic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMDg3/NjQtMTM2MTM1MzM5/NS02NzIwLmpwZWc.jpeg" alt="Cover for Ich will Gesang, will Spiel und Tanz" style="max-width:120px; height:auto;" />
       </td>
@@ -479,7 +479,7 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/1GdSsDXpJNXRamKdFVaqbWMHAXUso3b080-U_aJyy14/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDQ2/NDYtMTM1Nzk4NzU1/MS0xMjI2LmpwZWc.jpeg" alt="Cover for Der Volkssanger" style="max-width:120px; height:auto;" />
       </td>
@@ -497,7 +497,7 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/YxB9qoMnw3oQz7WucIcaB8qZVeuT29KkK2g1SSslexo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4ODEy/Ni0xNDM2MTAwNjI4/LTY4OTYuanBlZw.jpeg" alt="Cover for Farben" style="max-width:120px; height:auto;" />
       </td>
@@ -515,7 +515,7 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/_gB-gK4MA-_QdNmktvO2fNQCIkTCBlQmJ1fMc2Y3EbQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MzMy/OC0xMzU1Mzg1MTM4/LTE5OTAuanBlZw.jpeg" alt="Cover for Kribbeln im Bauch" style="max-width:120px; height:auto;" />
       </td>
@@ -535,7 +535,7 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>96</td>
       <td>
           <img src="https://i.discogs.com/fAuhEyp7MZRKkT5vujnWM_i1p2SIuyFsQwFMuVAHTTs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTQy/NzUtMTI2MzY2MjAz/OS5qcGVn.jpeg" alt="Cover for Zeit zu leben" style="max-width:120px; height:auto;" />
       </td>
@@ -553,7 +553,7 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/98da9847aa5d7900fe964a58e280318c.png" alt="Cover for Classics" style="max-width:120px; height:auto;" />
       </td>
@@ -572,13 +572,12 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>33</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0dcf8a49ffaf76afe48f7b5e8fde56df.png" alt="Cover for Frei Wie Der Wind" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
-      <td>Hans Hartz</td>
-      <td>Frei Wie Der Wind</td>
+      <td>Reinhard Mey</td>
+      <td>20.00 Uhr</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liedermacher" | relative_url }}">liedermacher</a></li>
@@ -590,7 +589,7 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/Us2GxgMfIOvso6_gXCvuKdWsTqpX-nOIcFhUFhP0R0w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDc2/MTItMTI0MDc2Mzcz/MS5qcGVn.jpeg" alt="Cover for Speck (1982-1992)" style="max-width:120px; height:auto;" />
       </td>
@@ -608,12 +607,13 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>60</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0dcf8a49ffaf76afe48f7b5e8fde56df.png" alt="Cover for Frei Wie Der Wind" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
-      <td>Reinhard Mey</td>
-      <td>20.00 Uhr</td>
+      <td>Hans Hartz</td>
+      <td>Frei Wie Der Wind</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liedermacher" | relative_url }}">liedermacher</a></li>
@@ -625,7 +625,7 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3df130c5c4bc41989cce00a78ca59eb9.png" alt="Cover for Alles geht!" style="max-width:120px; height:auto;" />
       </td>
@@ -644,7 +644,7 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>38</td>
       <td>
       </td>
       <td>1992-10-02</td>
@@ -663,7 +663,7 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/kAzXVUcqI0iLF50Rr_oheIpJbDtsvuenuzlQlyPjudE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODk0/MTMtMTI2MzM4MDk2/OS5qcGVn.jpeg" alt="Cover for Monstren Ufos Autonome" style="max-width:120px; height:auto;" />
       </td>
@@ -683,7 +683,24 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>34</td>
+      <td>
+      </td>
+      <td>1993</td>
+      <td>Konstantin Wecker</td>
+      <td>Uferlos</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liedermacher" | relative_url }}">liedermacher</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/sZfHLtARfknuV-1-a5rEun2CQMx--Uhz0Sq26Qe83Ho/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTE1/NTYtMTI4Njk3MzI4/OC5qcGVn.jpeg" alt="Cover for Ich liebe dich" style="max-width:120px; height:auto;" />
       </td>
@@ -701,42 +718,7 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
     </tr>
     <tr>
-      <td>67</td>
-      <td>
-      </td>
-      <td>1993</td>
-      <td>Konstantin Wecker</td>
-      <td>Uferlos</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liedermacher" | relative_url }}">liedermacher</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>
-          <img src="https://i.discogs.com/sJud_y77nnvO7o9ie4SKS4HHUeKvLoCqD1q4tBRVVdE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzQy/NjktMTI4NjExMzM5/NS5qcGVn.jpeg" alt="Cover for Immer weiter" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1994</td>
-      <td>Reinhard Mey</td>
-      <td>Immer weiter</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liedermacher" | relative_url }}">liedermacher</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
       </td>
       <td>1994</td>
@@ -754,7 +736,25 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>99</td>
+      <td>
+          <img src="https://i.discogs.com/sJud_y77nnvO7o9ie4SKS4HHUeKvLoCqD1q4tBRVVdE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzQy/NjktMTI4NjExMzM5/NS5qcGVn.jpeg" alt="Cover for Immer weiter" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994</td>
+      <td>Reinhard Mey</td>
+      <td>Immer weiter</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liedermacher" | relative_url }}">liedermacher</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
       <td>
       </td>
       <td>1995</td>
@@ -771,7 +771,7 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/053e097dce4f45f9a611625427ef5d25.png" alt="Cover for Dinger" style="max-width:120px; height:auto;" />
       </td>
@@ -785,30 +785,12 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 48</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>71</td>
-      <td>
-          <img src="https://i.discogs.com/6rySzyXU2ffFtXAxYeU0WSJazjDIaxrXEGWuJni9bJU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTY1/NTYtMTYxNjM1NzY5/MS0xMzUwLmpwZWc.jpeg" alt="Cover for Clubsongs" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1995-06-16</td>
-      <td>Funny van Dannen</td>
-      <td>Clubsongs</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liedermacher" | relative_url }}">liedermacher</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
       </td>
       <td>1995-06-16</td>
@@ -827,7 +809,25 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>30</td>
+      <td>
+          <img src="https://i.discogs.com/6rySzyXU2ffFtXAxYeU0WSJazjDIaxrXEGWuJni9bJU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTY1/NTYtMTYxNjM1NzY5/MS0xMzUwLmpwZWc.jpeg" alt="Cover for Clubsongs" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995-06-16</td>
+      <td>Funny van Dannen</td>
+      <td>Clubsongs</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liedermacher" | relative_url }}">liedermacher</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
       <td>
           <img src="https://i.discogs.com/xl3B8QJjSt9FFspbx-9Qg0osy_xrtd2BFwKZab57PZg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTYw/MDgtMTQ1NTQ5NjIw/OS0zMDEzLmpwZWc.jpeg" alt="Cover for Ich bin - im Duett mit" style="max-width:120px; height:auto;" />
       </td>
@@ -845,7 +845,7 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>57</td>
       <td>
       </td>
       <td>1997</td>
@@ -862,7 +862,7 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/HYa5LTjkVJUAuLjTwBowy8C_tI_pQ15QIv1S5aysUo4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMzM3/ODYtMTY0ODg5OTk0/MC05NzAxLmpwZWc.jpeg" alt="Cover for Klaus Hoffmann Singt Brel" style="max-width:120px; height:auto;" />
       </td>
@@ -880,7 +880,7 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/Hpx8JSuKTkaSRANULXPVI2Z66d12AWoc9zbO6HOl4gM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MjEy/Ny0xMTcyMzA4MjQx/LmpwZWc.jpeg" alt="Cover for Oiwei I" style="max-width:120px; height:auto;" />
       </td>
@@ -898,7 +898,7 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
       </td>
       <td>1998</td>
@@ -916,7 +916,7 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/AVMu-qO6S0I63Qq1jJRQ7k472PPpVDTxG-hzhPNytrA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTYz/LTEyODEwNDU1MjYu/anBlZw.jpeg" alt="Cover for Schöner Lügen" style="max-width:120px; height:auto;" />
       </td>
@@ -934,7 +934,7 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>97</td>
       <td>
       </td>
       <td>2000-03-07</td>
@@ -951,7 +951,7 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>76</td>
       <td>
       </td>
       <td>2000-05-08</td>
@@ -968,7 +968,7 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/G7ijnIaja0dXzk59m2fDZzcqNUW_GudoFyexV2OFLTc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NTI2/ODctMTM1NTQ3MDcz/OC05NTM1LmpwZWc.jpeg" alt="Cover for Melody Star" style="max-width:120px; height:auto;" />
       </td>
@@ -986,7 +986,7 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/MfKhzKQrFlKSC8COqrGFHS-aLGvxjGxO2cg_nFAH6EI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjMw/NDMtMTM2NDM5MDAw/MC0yNjkxLmpwZWc.jpeg" alt="Cover for Götz Widmann" style="max-width:120px; height:auto;" />
       </td>
@@ -1004,7 +1004,7 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/LxP1QQxgigX9tBeFj0I-2kA-3cCVOJ0ESxBPEghb99s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1Njc1/ODEtMTQyNTkyNzIx/NC02ODU0LmpwZWc.jpeg" alt="Cover for Ich denke, also sing&#39; ich - unterwegs" style="max-width:120px; height:auto;" />
       </td>
@@ -1017,12 +1017,29 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/kabarett" | relative_url }}">kabarett</a> # 98</li>
+            <li> <a href="{{ "/tags/kabarett" | relative_url }}">kabarett</a> # 3</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>9</td>
+      <td>
+      </td>
+      <td>2002</td>
+      <td>Früchte des Zorns</td>
+      <td>Zwischen Leben und Überleben</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liedermacher" | relative_url }}">liedermacher</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ebc9cf12ad11495c9b18a8d7863fe6a5.png" alt="Cover for Kleinti" style="max-width:120px; height:auto;" />
       </td>
@@ -1041,24 +1058,7 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
     </tr>
     <tr>
-      <td>92</td>
-      <td>
-      </td>
-      <td>2002</td>
-      <td>Früchte des Zorns</td>
-      <td>Zwischen Leben und Überleben</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liedermacher" | relative_url }}">liedermacher</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>32</td>
+      <td>69</td>
       <td>
       </td>
       <td>2002-05-06</td>
@@ -1075,7 +1075,7 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
       </td>
       <td>2002-09-30</td>
@@ -1093,7 +1093,7 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
       </td>
       <td>2003</td>
@@ -1110,7 +1110,7 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
       </td>
       <td>2003-04-07</td>
@@ -1127,7 +1127,7 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/9SGF5xO9lPrYKFI3BLN__Vmt_Qy3mGchRJRbomtDXEE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NzE3/MTItMTMwNzczNTI2/Ni5qcGVn.jpeg" alt="Cover for Grüße aus..." style="max-width:120px; height:auto;" />
       </td>
@@ -1145,7 +1145,7 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>71</td>
       <td>
       </td>
       <td>2004-05-03</td>
@@ -1162,7 +1162,7 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>45</td>
       <td>
       </td>
       <td>2004-06</td>
@@ -1179,7 +1179,7 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/yL-2gPBADB5RTWGBOnLzOkbfIPwMPzxPnRvWE47J6aA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDU3/MzMtMTM4NDQzNjgx/MS03NjQ1LmpwZWc.jpeg" alt="Cover for Zeit" style="max-width:120px; height:auto;" />
       </td>
@@ -1199,24 +1199,6 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
     <tr>
       <td>39</td>
       <td>
-          <img src="https://i.discogs.com/Efl_Le9gfp4hHheWptnEd9fC_hSecbEkaxToRMsAJN8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNDUy/NjQtMTQ1NDg3ODQz/Ny0yNzQyLmpwZWc.jpeg" alt="Cover for Regionalexzess" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2005</td>
-      <td>Spieltrieb</td>
-      <td>Regionalexzess</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liedermacher" | relative_url }}">liedermacher</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>62</td>
-      <td>
           <img src="https://i.discogs.com/ghSjN_LBNyAFBOgr3FJ7ZYJ_SYDqa7IDO7KsCPmYVY4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjU3/NjE0LTE2NjQzNzkz/NDctOTk4OS5qcGVn.jpeg" alt="Cover for Eine Scheibe Ton" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
@@ -1233,7 +1215,25 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>62</td>
+      <td>
+          <img src="https://i.discogs.com/Efl_Le9gfp4hHheWptnEd9fC_hSecbEkaxToRMsAJN8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNDUy/NjQtMTQ1NDg3ODQz/Ny0yNzQyLmpwZWc.jpeg" alt="Cover for Regionalexzess" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>Spieltrieb</td>
+      <td>Regionalexzess</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liedermacher" | relative_url }}">liedermacher</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
       <td>
       </td>
       <td>2005-04</td>
@@ -1250,7 +1250,7 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/k0LbUWrjOsErhVmr5a2_gkMgnb52DUyg6fkmjoSDBiI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MjIz/NzUtMTQ1Mjg3MzA0/MC0yMDMxLmpwZWc.jpeg" alt="Cover for Schall und Schatten" style="max-width:120px; height:auto;" />
       </td>
@@ -1273,25 +1273,7 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
     </tr>
     <tr>
-      <td>24</td>
-      <td>
-          <img src="https://i.discogs.com/vMNuBHFPYDwElrA6GOGiF2sGV6v6-8iu4iDrnbfmCB0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMTM1/OTQtMTM1MjMyODE4/MS04ODAyLmpwZWc.jpeg" alt="Cover for Dämmerung" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2006</td>
-      <td>Franz Josef Degenhardt</td>
-      <td>Dämmerung</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liedermacher" | relative_url }}">liedermacher</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/AJk0hOhIPwHhurW_xAcoNVE_1cFrI_PtiE02d_txXko/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNDUy/NzktMTQ1NDg3ODM1/MS00NjU2LmpwZWc.jpeg" alt="Cover for Schönes Ding" style="max-width:120px; height:auto;" />
       </td>
@@ -1310,7 +1292,25 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>77</td>
+      <td>
+          <img src="https://i.discogs.com/vMNuBHFPYDwElrA6GOGiF2sGV6v6-8iu4iDrnbfmCB0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMTM1/OTQtMTM1MjMyODE4/MS04ODAyLmpwZWc.jpeg" alt="Cover for Dämmerung" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Franz Josef Degenhardt</td>
+      <td>Dämmerung</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liedermacher" | relative_url }}">liedermacher</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/Hm0zEMhM2cAA5rpRSKxB6fw-dUh76MSN36tzPO_0k1k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjI4/MzAtMTMyMjkxNTQ2/My5qcGVn.jpeg" alt="Cover for Gossenhauer" style="max-width:120px; height:auto;" />
       </td>
@@ -1328,7 +1328,7 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/Flw_6c6vuvrLjMMpStpc_4sTSfntXwnhpoFBRP6FZKM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDY0/NjUtMTQwNjE5NzU0/MS02NjQyLmpwZWc.jpeg" alt="Cover for und wann kommst du aus deinem Versteck..." style="max-width:120px; height:auto;" />
       </td>
@@ -1346,7 +1346,7 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
       </td>
       <td>2006-09-28</td>
@@ -1363,7 +1363,7 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cdf302aa8a2d64cc9afd2df76a1ff94d.png" alt="Cover for Klare Verhältnisse" style="max-width:120px; height:auto;" />
       </td>
@@ -1381,7 +1381,7 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
       </td>
       <td>2007-08-03</td>
@@ -1398,7 +1398,7 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9fde19d6b5a8a8a0cba33c52a7c61b44.png" alt="Cover for Platz 8 der deutschen Albumcharts" style="max-width:120px; height:auto;" />
       </td>
@@ -1419,7 +1419,7 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
       </td>
       <td>2007-10-26</td>
@@ -1435,7 +1435,7 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ca8b571a00a22862fd005c4773d309ee.png" alt="Cover for Rainald Grebe &amp; die Kapelle der Versöhnung" style="max-width:120px; height:auto;" />
       </td>
@@ -1453,12 +1453,12 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/kabarett" | relative_url }}">kabarett</a> # 96</li>
+            <li> <a href="{{ "/tags/kabarett" | relative_url }}">kabarett</a> # 5</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/qMGDaH3XcsZFlvY926VyKxBw71fW_yjqC-pco3J-aU8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTY3/OTctMTUwOTExMTU0/My0xNDUxLmpwZWc.jpeg" alt="Cover for Gisbert zu Knyphausen (25.april 2008)" style="max-width:120px; height:auto;" />
       </td>
@@ -1477,7 +1477,7 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>89</td>
       <td>
       </td>
       <td>2008-03-14</td>
@@ -1489,12 +1489,12 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/kabarett" | relative_url }}">kabarett</a> # 80</li>
+            <li> <a href="{{ "/tags/kabarett" | relative_url }}">kabarett</a> # 21</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/oDF-LNDzHyQLC3GTxNqnpN61109fF4sFB6QWYcJTjp8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTYx/NjMtMTM4NDUxNDc2/Mi0zMTU2LmpwZWc.jpeg" alt="Cover for Böäöäöäöäöä" style="max-width:120px; height:auto;" />
       </td>
@@ -1512,7 +1512,7 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a8a3dac95f28ff7d40e13640fe55b72b.png" alt="Cover for Tränen auf dem Dancefloor" style="max-width:120px; height:auto;" />
       </td>
@@ -1564,15 +1564,15 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       <td>
         <ul>
             <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 5</li>
+            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 13</li>
+            <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 16</li>
             <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 37</li>
             <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 60</li>
-            <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 85</li>
-            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a449c339c85b97e8e56b2498b09fc5f.png" alt="Cover for Wo Fängt Dein Himmel An?" style="max-width:120px; height:auto;" />
       </td>
@@ -1590,7 +1590,7 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ace530d47e33402f9d6bf95a87241faf.png" alt="Cover for Bis auf den Grund" style="max-width:120px; height:auto;" />
       </td>
@@ -1616,7 +1616,7 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>68</td>
       <td>
       </td>
       <td>2010-05-06</td>
@@ -1632,7 +1632,7 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/SMg-5ApGo3B8ceW_cUe7e9UzAi5uVdJZDVDq3Ko29qM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDU1/NzktMTI3NTczMTQz/MS5qcGVn.jpeg" alt="Cover for Mairegen" style="max-width:120px; height:auto;" />
       </td>
@@ -1650,7 +1650,7 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/W7zDEFOIYkOPvkxNogdnd0m2p0Zt1r-p0WuvPhDVrwU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDY3/NjEtMTMxNzkzMTgy/Mi5qcGVn.jpeg" alt="Cover for Von Engeln und Schweinen" style="max-width:120px; height:auto;" />
       </td>
@@ -1668,7 +1668,7 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa66eae8a32e4032a3f9ac09c1ef2bd8.png" alt="Cover for Weightless" style="max-width:120px; height:auto;" />
       </td>
@@ -1719,15 +1719,15 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       <td>
         <ul>
             <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 4</li>
+            <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 15</li>
             <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 35</li>
             <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 57</li>
             <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 59</li>
-            <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/WjeslCQc2g7_KpbQVsxE7Z4qn5AjKlZGvzi6E_j_frg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NzQ4/MjYtMTM5Njk2NTg3/My0xNTkzLmpwZWc.jpeg" alt="Cover for Herr Vernünftig benimmt sich daneben" style="max-width:120px; height:auto;" />
       </td>
@@ -1745,7 +1745,7 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/751fc61d9566405f82843c647f1fea39.png" alt="Cover for Meine Soldaten" style="max-width:120px; height:auto;" />
       </td>
@@ -1798,19 +1798,19 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
         <ul>
             <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 1</li>
             <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 4</li>
+            <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 4</li>
             <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 10</li>
             <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 13</li>
             <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 23</li>
             <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 25</li>
+            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 27</li>
             <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 65</li>
-            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 74</li>
             <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 86</li>
-            <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
       </td>
       <td>2013-05-31</td>
@@ -1852,16 +1852,16 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 9</li>
             <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 22</li>
             <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 32</li>
             <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 39</li>
             <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 70</li>
-            <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/17186328c87312f5e8239c9e8950bcdb.png" alt="Cover for Abstinenz" style="max-width:120px; height:auto;" />
       </td>
@@ -1880,7 +1880,7 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/92be27cff6009e93b356ab6a73e9bb39.png" alt="Cover for Sei ein Faber im Wind" style="max-width:120px; height:auto;" />
       </td>
@@ -1900,7 +1900,7 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c060d3afc398ec238257ab1d91f47bb2.png" alt="Cover for Wie die Nocht noch jung wor" style="max-width:120px; height:auto;" />
       </td>
@@ -1924,7 +1924,7 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/zgT1L8AGOG_ChAe1XGPOeoKfcar3x_BDggODHk6Mdws/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjM0/NjUtMTMwMDUzNDE0/Mi5qcGVn.jpeg" alt="Cover for Fanny van Dannen" style="max-width:120px; height:auto;" />
       </td>
@@ -1942,7 +1942,7 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/-J4_9fqzL5aHKqK1_bg2P3nF6J-FzqsOjtZUY5-sWXM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NzQ0/OTQtMTQ0MjM4NjQ2/Ny0zMTM5LmpwZWc.jpeg" alt="Cover for ! Ich Kann" style="max-width:120px; height:auto;" />
       </td>
@@ -1960,12 +1960,12 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>41</td>
       <td>
       </td>
       <td></td>
-      <td>Unkraut Liedermacher</td>
-      <td>Momente</td>
+      <td>Hubert von Goisern und Die Alpinkatzen</td>
+      <td>Aufgeig&#39;n statt niederschiaß&#39;n</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liedermacher" | relative_url }}">liedermacher</a></li>
@@ -1977,7 +1977,7 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>78</td>
       <td>
       </td>
       <td></td>
@@ -1994,12 +1994,12 @@ Liedermacher is a German singer-songwriter tradition emphasizing poetic, sociall
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>94</td>
       <td>
       </td>
       <td></td>
-      <td>Hubert von Goisern und Die Alpinkatzen</td>
-      <td>Aufgeig&#39;n statt niederschiaß&#39;n</td>
+      <td>Unkraut Liedermacher</td>
+      <td>Momente</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liedermacher" | relative_url }}">liedermacher</a></li>

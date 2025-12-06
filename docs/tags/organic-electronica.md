@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T04:24:39.617Z
+date: 2025-12-06T06:38:49.756Z
 permalink: tags/organic-electronica
 title: organic electronica
 ---
 
 ## organic electronica
 
-Last updated: <time datetime="2025-12-04T04:24:39.617Z">Thu Dec 04 2025 06:24:39 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T06:38:49.756Z">Sat Dec 06 2025 08:38:49 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Organic electronica blends digital synthesis and processing with acoustic instru
   </thead>
   <tbody>
     <tr>
-      <td>36</td>
+      <td>65</td>
       <td>
       </td>
       <td>1974</td>
@@ -55,7 +55,7 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/ociTAqm_lHbpACr749xal1qBfJ7rIX4v7VCb5H9EF60/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjI0/NTctMTM4NjQyOTUy/OC0yMDQ3LmpwZWc.jpeg" alt="Cover for Mikrophonie I and II, Telemusik" style="max-width:120px; height:auto;" />
       </td>
@@ -72,7 +72,26 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>23</td>
+      <td>
+          <img src="https://i.discogs.com/PnIXe6zCXq-y9P5l2QPSy5isr6fqXOFE4mohFnZglk0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjMy/MS0xMzYyNjEwNDcx/LTQ5NjUuanBlZw.jpeg" alt="Cover for L&#x60;oeuvre Musicale Integrale" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>Pierre Schaeffer</td>
+      <td>L&#x60;oeuvre Musicale Integrale</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/vGvxgf1AvRlXmv6pMsxTHymb4wc4q-Z8D4kgSWRVZ94/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzUx/NTA2LTE2NTExOTg0/NzItOTA4Ny5wbmc.jpeg" alt="Cover for phototrope" style="max-width:120px; height:auto;" />
       </td>
@@ -96,26 +115,7 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
     </tr>
     <tr>
-      <td>78</td>
-      <td>
-          <img src="https://i.discogs.com/PnIXe6zCXq-y9P5l2QPSy5isr6fqXOFE4mohFnZglk0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjMy/MS0xMzYyNjEwNDcx/LTQ5NjUuanBlZw.jpeg" alt="Cover for L&#x60;oeuvre Musicale Integrale" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1998</td>
-      <td>Pierre Schaeffer</td>
-      <td>L&#x60;oeuvre Musicale Integrale</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>32</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/H9dW9cLf7lhyJMEEKmqDaiLFh2F61k-ulIU3o31owyU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTIx/ODQ5LTE1MTc4MjMz/NDctNDc2My5qcGVn.jpeg" alt="Cover for Cloud Burst" style="max-width:120px; height:auto;" />
       </td>
@@ -138,12 +138,12 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a> # 43</li>
+            <li> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/390520270be390e0f2a98db669ffa5ac.png" alt="Cover for model 3, step 2" style="max-width:120px; height:auto;" />
       </td>
@@ -156,12 +156,12 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emd" | relative_url }}">emd</a> # 55</li>
+            <li> <a href="{{ "/tags/emd" | relative_url }}">emd</a> # 46</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/r8_nuFr3HYz-gil8k3J1fc7WJiYJ2ooonhZiE8LLHV0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MzI4/NC0xMTU2MjkzMDA0/LmpwZWc.jpeg" alt="Cover for Eb" style="max-width:120px; height:auto;" />
       </td>
@@ -180,7 +180,7 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/6ryCX6dRUKTQ1rV3AcPzQYuoK_QNCPI4L7MWCzWr6dg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTUx/NjMtMTE4NDUzNTM4/OC5qcGVn.jpeg" alt="Cover for ame_to_wonder.ep" style="max-width:120px; height:auto;" />
       </td>
@@ -200,12 +200,12 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 61</li>
+            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 40</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1270ee51d23645e8a62bcdbb0eabad60.png" alt="Cover for Metamemoria" style="max-width:120px; height:auto;" />
       </td>
@@ -227,7 +227,7 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/HIDDeez55d4-jci0Zo774i2Ft7kqcUFCzQ11MbGHXhQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTg1/OS0xMTY4MjQ4MDY0/LmpwZWc.jpeg" alt="Cover for Strata" style="max-width:120px; height:auto;" />
       </td>
@@ -245,7 +245,7 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/15bb04897b47e5c556bf774e2d59c339.png" alt="Cover for The Lemon of Pink" style="max-width:120px; height:auto;" />
       </td>
@@ -265,7 +265,7 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a7725a10aa58994c6fcc6740d0d39736.png" alt="Cover for Insula in Albis [pn084]" style="max-width:120px; height:auto;" />
       </td>
@@ -298,7 +298,7 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/de04ecd294b04c57a5a1af427b75d82f.png" alt="Cover for Live From Saint Johnsbury, Vermont" style="max-width:120px; height:auto;" />
       </td>
@@ -315,7 +315,7 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>58</td>
       <td>
       </td>
       <td>2004-05-21</td>
@@ -335,7 +335,7 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/R6XFbtf6YO91UJJdt0J_a34TtUt-qM7M_e0UQbegs0M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NjU1/My0xMTYyNTgwOTIy/LmpwZWc.jpeg" alt="Cover for Bang Yo Dead [TROORG#001]" style="max-width:120px; height:auto;" />
       </td>
@@ -377,7 +377,7 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/93Pmq_ccZm-04wjNoAL-xjCPK06rnqkjOX9Vf2ZSL3w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NjQ0/NS0xMTYyNTgxMDM3/LmpwZWc.jpeg" alt="Cover for Amphibian Vibes [TROORG#002]" style="max-width:120px; height:auto;" />
       </td>
@@ -419,7 +419,7 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/912d5d06473949b8a783d39f7be7051b.png" alt="Cover for Toothbrush fever" style="max-width:120px; height:auto;" />
       </td>
@@ -435,12 +435,12 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 14</li>
+            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/342016942cb2dbabefee6d60b2a65562.png" alt="Cover for Toad Fever (Limited edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -454,12 +454,12 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 16</li>
+            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/VZFHw5uT0E3s599K9k-dcO0oEx9MaPgeB28iXcoZLTU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NjUz/Mi0xMTYyNTgxMTIx/LmpwZWc.jpeg" alt="Cover for La Onda Lúcida [TROORG#003]" style="max-width:120px; height:auto;" />
       </td>
@@ -501,7 +501,7 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4bba2772a723a66c8070e78dfbe29a64.png" alt="Cover for Herramientas Para Abrir Un Libro" style="max-width:120px; height:auto;" />
       </td>
@@ -522,7 +522,7 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/3V8-pi1gwrn_6JGQ2o6VZKDVYqEdcvnHK0ZmKinXDio/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NjQ3/OC0xMTYyNTgxMjc0/LmpwZWc.jpeg" alt="Cover for Obsession [TROORG#005]" style="max-width:120px; height:auto;" />
       </td>
@@ -564,7 +564,7 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/bFSxVIf-7PiWISqiso0Iq5bI6UGLYHtBt4lMcb4ITS4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNjY5/MC0xMTYyNTgwNjcz/LmpwZWc.jpeg" alt="Cover for Apart The Second [TROORG#006]" style="max-width:120px; height:auto;" />
       </td>
@@ -606,7 +606,7 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/66685ed98a0b4830bd7b6e80918dda3e.png" alt="Cover for valedictions ep" style="max-width:120px; height:auto;" />
       </td>
@@ -628,7 +628,7 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/zRD1qpQQcAKyVhuJlptrI3JTYPvLlKoRGMYKZyFowmI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MDEy/MS0xMTY4NTg4NTk0/LmpwZWc.jpeg" alt="Cover for Some Protest Music For Today&#39;s" style="max-width:120px; height:auto;" />
       </td>
@@ -661,13 +661,13 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-rock" | relative_url }}">ambient rock</a> # 4</li>
-            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 12</li>
+            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 89</li>
+            <li> <a href="{{ "/tags/ambient-rock" | relative_url }}">ambient rock</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/25a141dd9991454bbda57a12102a8abd.png" alt="Cover for Columpio EP" style="max-width:120px; height:auto;" />
       </td>
@@ -688,7 +688,7 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>100</td>
       <td>
       </td>
       <td>2006-01-31</td>
@@ -712,7 +712,7 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1aec43b99f4a4fc28ab2fcc7fcddcbbe.png" alt="Cover for Morning Sun - EKO001" style="max-width:120px; height:auto;" />
       </td>
@@ -731,12 +731,12 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       <td>
         <ul>
             <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 25</li>
-            <li> <a href="{{ "/tags/serbian" | relative_url }}">serbian</a> # 49</li>
+            <li> <a href="{{ "/tags/serbian" | relative_url }}">serbian</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/09d37e15d205f20f028efc73d2e1c6f2.png" alt="Cover for Linedrop Remix EP" style="max-width:120px; height:auto;" />
       </td>
@@ -760,12 +760,12 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 58</li>
+            <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/yjXFGmmRc5NjxUo8nlY9aMBLPyQfGyI81Qns0QFdj4I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNDU3/NS0xMTYyNTgyMDM5/LmpwZWc.jpeg" alt="Cover for One For Baby, And One For Mommy [TROORG#009]" style="max-width:120px; height:auto;" />
       </td>
@@ -782,7 +782,7 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5323a8bb1a9ade2e955bb111d5169eff.png" alt="Cover for Records for small children" style="max-width:120px; height:auto;" />
       </td>
@@ -804,13 +804,13 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 70</li>
+            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 31</li>
             <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5dfd68fedc235c42760f3414b19284ee.png" alt="Cover for Lalapop ep" style="max-width:120px; height:auto;" />
       </td>
@@ -830,7 +830,7 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/BTEO_eW_3J_pwcJTILZMPHnqLViG9jerWjRtn4L4Ht4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1MTQ2/MC0xMTc2NTc3MTg3/LmpwZWc.jpeg" alt="Cover for EP The Duct (Net Release)" style="max-width:120px; height:auto;" />
       </td>
@@ -851,12 +851,12 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ukraine" | relative_url }}">ukraine</a> # 34</li>
+            <li> <a href="{{ "/tags/ukraine" | relative_url }}">ukraine</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/OS6f03VbfKqYyfARQNMzHuaKxvekbSdjIuHkHb7AvNQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NjY4/Ni0xMjc1MzM1NDU3/LmpwZWc.jpeg" alt="Cover for This is Hair Care" style="max-width:120px; height:auto;" />
       </td>
@@ -880,7 +880,7 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8553139a9ddbaa06bdbb0332a377f366.png" alt="Cover for Frerk (aer009)" style="max-width:120px; height:auto;" />
       </td>
@@ -902,14 +902,14 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 8</li>
             <li> <a href="{{ "/tags/hamburg" | relative_url }}">hamburg</a> # 10</li>
             <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 26</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/32a2d029c2f248ecb4b2c08f24a236fc.png" alt="Cover for Objet Abandonné en Mer" style="max-width:120px; height:auto;" />
       </td>
@@ -932,7 +932,7 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7b93a307a68ed424a5f6eca54494eff1.png" alt="Cover for Ego-God" style="max-width:120px; height:auto;" />
       </td>
@@ -948,13 +948,13 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 33</li>
+            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 68</li>
             <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/kAFgEHkIUhshjD1iqUJ7UBthrvYD-Sw9R6K3d9vM8ug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNTkx/LTE0Mjg1ODkyMDUt/MTg0MC5qcGVn.jpeg" alt="Cover for Metal de Metal" style="max-width:120px; height:auto;" />
       </td>
@@ -971,13 +971,13 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 23</li>
-            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 65</li>
+            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 36</li>
+            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/7OSw3m2-xUYOUV6Ib5K9SVUsoFTAY8ZZJIQ7k-WgQso/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mjg2/MTEtMTIzOTU2NjI5/NS5qcGVn.jpeg" alt="Cover for Ikuinen Kaamos" style="max-width:120px; height:auto;" />
       </td>
@@ -998,7 +998,7 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>96</td>
       <td>
           <img src="https://i.discogs.com/p1SVEo1bHcp-d99PRTTivH-LZg4c9HZUfMSrnDF16r8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NTI0/OTQtMTM3MTE0MDUz/My01OTc4LmpwZWc.jpeg" alt="Cover for Órgano de Zadar" style="max-width:120px; height:auto;" />
       </td>
@@ -1018,7 +1018,7 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
       </td>
       <td>2008-05-19</td>
@@ -1038,7 +1038,7 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f170a311e49828ac5a5f05d5e2d5b487.png" alt="Cover for Missing monsters" style="max-width:120px; height:auto;" />
       </td>
@@ -1060,7 +1060,7 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/2-nrU2RW5yA1tpnuW7yKQbKJ8MPgeeHJRUd3vjlOdzc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTQw/MTUtMTIyNzUxNjk2/OS5qcGVn.jpeg" alt="Cover for Escrima" style="max-width:120px; height:auto;" />
       </td>
@@ -1081,7 +1081,7 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5101bf13bf0a40deaf514ec09994cc3d.png" alt="Cover for Toxic Feelings" style="max-width:120px; height:auto;" />
       </td>
@@ -1104,14 +1104,14 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 45</li>
-            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 65</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 36</li>
+            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 56</li>
             <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/kCFwX9efb63Vrdo0AGXRortb_URSjndwmIl0qxOkb50/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjQ4/MDYtMTI0MTg4ODk4/Ni5qcGVn.jpeg" alt="Cover for Cyborgic" style="max-width:120px; height:auto;" />
       </td>
@@ -1130,7 +1130,7 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b28e2167d67747f4a31eedf08f70df81.png" alt="Cover for beko_02" style="max-width:120px; height:auto;" />
       </td>
@@ -1154,7 +1154,7 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/t0_Ij2Dr_10ta2QSwrDvn9QMIaqOuAJqMJOQ9v-wdWs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzQx/NzMtMTI1MzQ1MDU0/My5qcGVn.jpeg" alt="Cover for Korrels" style="max-width:120px; height:auto;" />
       </td>
@@ -1176,7 +1176,7 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e3ad03bc7913451196198fc7ebbaead9.png" alt="Cover for Global EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1195,42 +1195,12 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-rock" | relative_url }}">ambient rock</a> # 54</li>
+            <li> <a href="{{ "/tags/ambient-rock" | relative_url }}">ambient rock</a> # 47</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>70</td>
-      <td>
-          <img src="https://i.discogs.com/7XF9cOpII1uLHEuHqe2RNR1pPOSh8GAlewdX8ohkLes/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjY5/OTUtMTI4ODgzMjQ3/Ni5qcGVn.jpeg" alt="Cover for pEACEFANg EP" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2010</td>
-      <td>pEACEFANg</td>
-      <td>pEACEFANg EP</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/america" | relative_url }}">america</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/portland" | relative_url }}">portland</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 54</li>
-            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 73</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 78</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b873ce3654dd44ef96f795fe26323ce4.png" alt="Cover for Cross Mountain" style="max-width:120px; height:auto;" />
       </td>
@@ -1258,7 +1228,37 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
+      <td>
+          <img src="https://i.discogs.com/7XF9cOpII1uLHEuHqe2RNR1pPOSh8GAlewdX8ohkLes/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjY5/OTUtMTI4ODgzMjQ3/Ni5qcGVn.jpeg" alt="Cover for pEACEFANg EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010</td>
+      <td>pEACEFANg</td>
+      <td>pEACEFANg EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/america" | relative_url }}">america</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/portland" | relative_url }}">portland</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 47</li>
+            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 73</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 78</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/47b35c4749a9ed38193ee9de825ed657.png" alt="Cover for automat" style="max-width:120px; height:auto;" />
       </td>
@@ -1272,12 +1272,12 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 2</li>
+            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/64e01f67dcd54427abe56bb36df7790d.png" alt="Cover for Short note from the time" style="max-width:120px; height:auto;" />
       </td>
@@ -1298,12 +1298,12 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 24</li>
+            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/GsG_fsVedjrMFFeuZpoojkzbsXASZKtpU_CGoP8xQFg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTE1/MjctMTI4NDgwNDMz/Ny5qcGVn.jpeg" alt="Cover for Spring High Spiritual Spree Spray Ray" style="max-width:120px; height:auto;" />
       </td>
@@ -1335,13 +1335,13 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 53</li>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 57</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 44</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/H3l_KKxbSMtOZrJ6UyGd-8YIlPHjw73eVbKfv8qjGq8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MTU5/MDItMTQyNzIxNjEx/NS0yMDI1LnBuZw.jpeg" alt="Cover for [LBN005]The dreams trilogy" style="max-width:120px; height:auto;" />
       </td>
@@ -1368,31 +1368,12 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 13</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
-      <td>
-          <img src="https://i.discogs.com/CEbfVFfX35x_wuhJM9aKNsxe0fbsHS-MsCmlwlb4bf0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4ODIy/MDYtMTM0ODAwNjMx/Mi05NjU3LmpwZWc.jpeg" alt="Cover for Live Session on Epsilonia radio show" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2011</td>
-      <td>Naing Naing</td>
-      <td>Live Session on Epsilonia radio show</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>25</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/KLtGcQZiWsCi2v-8WVpMrAbjHmY5UL0m6nUWDzwyCN8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4ODEz/MzYtMTM0NzkxNzA1/Ny05Njk0LmpwZWc.jpeg" alt="Cover for Reinforced concrete cracks" style="max-width:120px; height:auto;" />
       </td>
@@ -1413,7 +1394,26 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>86</td>
+      <td>
+          <img src="https://i.discogs.com/CEbfVFfX35x_wuhJM9aKNsxe0fbsHS-MsCmlwlb4bf0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4ODIy/MDYtMTM0ODAwNjMx/Mi05NjU3LmpwZWc.jpeg" alt="Cover for Live Session on Epsilonia radio show" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011</td>
+      <td>Naing Naing</td>
+      <td>Live Session on Epsilonia radio show</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
       <td>
           <img src="https://i.discogs.com/CEbfVFfX35x_wuhJM9aKNsxe0fbsHS-MsCmlwlb4bf0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4ODIy/MDYtMTM0ODAwNjMx/Mi05NjU3LmpwZWc.jpeg" alt="Cover for Live in France, January 2009" style="max-width:120px; height:auto;" />
       </td>
@@ -1430,7 +1430,7 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
       </td>
       <td>2011-02</td>
@@ -1453,15 +1453,15 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 15</li>
             <li> <a href="{{ "/tags/drag" | relative_url }}">drag</a> # 25</li>
-            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 66</li>
+            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 35</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 86</li>
             <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/24d470de69738e78040099ed0d300f71.png" alt="Cover for A Crawlspace Companion" style="max-width:120px; height:auto;" />
       </td>
@@ -1485,7 +1485,7 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>78</td>
       <td>
       </td>
       <td>2011-03-09</td>
@@ -1514,13 +1514,13 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 29</li>
+            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 72</li>
             <li> <a href="{{ "/tags/glasgow" | relative_url }}">glasgow</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/xD35qpoPVnTLoPB4v9WnJjgbJppibH32Q3VBzMnS1vY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDg0/NTQtMTMwODY2NTk1/OS5qcGVn.jpeg" alt="Cover for Compost Springtime Shed" style="max-width:120px; height:auto;" />
       </td>
@@ -1538,7 +1538,7 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
       </td>
       <td>2011-05-15</td>
@@ -1558,13 +1558,13 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       <td>
         <ul>
             <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 41</li>
-            <li> <a href="{{ "/tags/lithuanian" | relative_url }}">lithuanian</a> # 57</li>
+            <li> <a href="{{ "/tags/lithuanian" | relative_url }}">lithuanian</a> # 44</li>
             <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1046928de3b047fa98528c54181917e9.png" alt="Cover for Photo Album" style="max-width:120px; height:auto;" />
       </td>
@@ -1585,13 +1585,13 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 21</li>
             <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 35</li>
-            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/0hb5n7GGB_QDPOowCuqSf_AxxApfgAD3C6lhUws3z9c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzI5/NDktMTMwNzk2MTgz/OC5qcGVn.jpeg" alt="Cover for teplaja EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1616,16 +1616,16 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 41</li>
-            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 60</li>
-            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 79</li>
-            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 90</li>
-            <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 92</li>
+            <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 9</li>
+            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 11</li>
+            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 22</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 42</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/966d071fd45145b09087d8c36d6ce6a0.png" alt="Cover for Brick City Ghosts" style="max-width:120px; height:auto;" />
       </td>
@@ -1637,6 +1637,7 @@ Organic electronica blends digital synthesis and processing with acoustic instru
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/america" | relative_url }}">america</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber-rock" | relative_url }}">chamber rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
@@ -1650,14 +1651,15 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       <td>
         <ul>
             <li> <a href="{{ "/tags/new-jersey" | relative_url }}">new jersey</a> # 7</li>
+            <li> <a href="{{ "/tags/chamber-rock" | relative_url }}">chamber rock</a> # 9</li>
             <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 17</li>
             <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 17</li>
-            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 18</li>
+            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f470f01c977496d8fb81af256bd8425.png" alt="Cover for Clelia II [basic_sounds - bsc_011]" style="max-width:120px; height:auto;" />
       </td>
@@ -1682,7 +1684,7 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3bdc073bec7646f09a6c8b4adebc11b3.png" alt="Cover for AGORA" style="max-width:120px; height:auto;" />
       </td>
@@ -1703,12 +1705,12 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       <td>
         <ul>
             <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 43</li>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 45</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ae567432abcf4c6c8d315c0cc304b3e4.png" alt="Cover for Try For Next Stage Free" style="max-width:120px; height:auto;" />
       </td>
@@ -1738,12 +1740,12 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 52</li>
+            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/GmkCacYQbLu7xmo4_udppBKcE9f-o9nD_KRM_VcVLyc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzU1/MDMtMTMxOTE0MzQz/OS5wbmc.jpeg" alt="Cover for AGORA Regathered" style="max-width:120px; height:auto;" />
       </td>
@@ -1775,13 +1777,13 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 39</li>
             <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 45</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/uaxF8fDxCLK77JJQAESe5iB42l93Rdocd920xIuOFKU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NzIy/MzYtMTM0Mzc5NDI1/Ni04NDQxLmpwZWc.jpeg" alt="Cover for Time Immemorial" style="max-width:120px; height:auto;" />
       </td>
@@ -1799,7 +1801,7 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/2AcAI1FI6ZvrxvWfUlueGtHijXdTJ2efs8j2k08FuWk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDU1/MjktMTM0MjY0OTky/MC05NjgzLmpwZWc.jpeg" alt="Cover for If Travel is Asked of Me" style="max-width:120px; height:auto;" />
       </td>
@@ -1824,7 +1826,7 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/289d056063304bf8946325b7754e9b0d.png" alt="Cover for Circadian" style="max-width:120px; height:auto;" />
       </td>
@@ -1851,13 +1853,13 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 22</li>
-            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 52</li>
+            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 49</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/RT0caImOnM67nSsb148C4yES6oQeUQRKU-A3hSwo2Wc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMDcx/NTMtMTM1ODU0Njg1/Ny0zMjk4LmpwZWc.jpeg" alt="Cover for To Its Beginning To Its End" style="max-width:120px; height:auto;" />
       </td>
@@ -1877,7 +1879,7 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>88</td>
       <td>
       </td>
       <td>2014-02-25</td>
@@ -1907,7 +1909,7 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>55</td>
       <td>
       </td>
       <td>2014-11-17</td>
@@ -1925,7 +1927,7 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/AbAU8aVgk73HX5LlwHgCh4J5ohRlEvR21szLFZT-qKc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MDI2/MTQtMTQ0OTA4NjA0/MS0yMzMzLmpwZWc.jpeg" alt="Cover for Calle Palma [bsc_064 - basicsounds.ca]" style="max-width:120px; height:auto;" />
       </td>
@@ -1947,7 +1949,7 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/9cU-QVszeVtpBVNhgIqObc6zv6eWPBXiRaY8BNQIN9E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNjY5/OTEtMTQ1NDc2MDg2/Mi04MjgxLmpwZWc.jpeg" alt="Cover for Reviraje" style="max-width:120px; height:auto;" />
       </td>
@@ -1975,14 +1977,14 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       <td>
         <ul>
             <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 33</li>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 38</li>
-            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 62</li>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 63</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 38</li>
+            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 39</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9bc22d1423d3431f81c9e6618e42ac07.png" alt="Cover for Elsewhere" style="max-width:120px; height:auto;" />
       </td>
@@ -2002,7 +2004,7 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>94</td>
       <td>
       </td>
       <td>2017-06-06</td>
@@ -2020,7 +2022,7 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/D0XvA4p0-RCINd2ZRx8gxGYh0cfnf9zINU4vWYEp-Iw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTIx/ODcyLTE1Mjg3Mzg3/ODUtNzc0Mi5wbmc.jpeg" alt="Cover for Entangled Everything" style="max-width:120px; height:auto;" />
       </td>
@@ -2039,14 +2041,14 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 75</li>
-            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 78</li>
+            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 23</li>
+            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 26</li>
             <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>92</td>
       <td>
       </td>
       <td>2018-09-28</td>
@@ -2065,7 +2067,7 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>98</td>
       <td>
       </td>
       <td>2018-10-16</td>
@@ -2083,7 +2085,7 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/xw6iwXglYnaHlTTliGbE2Yut2yAvZvWylA1hu3DbW80/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDk3/MDA4LTE1NTUzMTA4/MTctNjQ2OS5qcGVn.jpeg" alt="Cover for Vikerkaar Leekides" style="max-width:120px; height:auto;" />
       </td>
@@ -2102,7 +2104,7 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>99</td>
       <td>
       </td>
       <td>2020-10-05</td>
@@ -2120,78 +2122,31 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>44</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c67ba706476646fb9bce4fa3507a1a92.png" alt="Cover for Nos Casamos en África EP" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>R3000</td>
-      <td>Muted Fog Delay</td>
+      <td>Bi-Log</td>
+      <td>Nos Casamos en África EP</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/europe" | relative_url }}">europe</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/european" | relative_url }}">european</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/germany" | relative_url }}">germany</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/no-wave" | relative_url }}">no wave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 28</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>38</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/900567a29fcf4cfdaf56149c46802575.png" alt="Cover for Midnight Polaroids" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Robel Synthesia</td>
-      <td>Midnight Polaroids</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/america" | relative_url }}">america</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/venezuela" | relative_url }}">venezuela</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 38</li>
+            <li> <a href="{{ "/tags/venezuela" | relative_url }}">venezuela</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/29bde5f021ff4a1a8399ee3a1680d0cd.png" alt="Cover for librecord" style="max-width:120px; height:auto;" />
       </td>
@@ -2222,31 +2177,297 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>63</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c67ba706476646fb9bce4fa3507a1a92.png" alt="Cover for Nos Casamos en África EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/900567a29fcf4cfdaf56149c46802575.png" alt="Cover for Midnight Polaroids" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>Bi-Log</td>
-      <td>Nos Casamos en África EP</td>
+      <td>Robel Synthesia</td>
+      <td>Midnight Polaroids</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/america" | relative_url }}">america</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/venezuela" | relative_url }}">venezuela</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/venezuela" | relative_url }}">venezuela</a> # 23</li>
+            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>72</td>
+      <td>
+      </td>
+      <td></td>
+      <td>R3000</td>
+      <td>Muted Fog Delay</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/europe" | relative_url }}">europe</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/european" | relative_url }}">european</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/germany" | relative_url }}">germany</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/no-wave" | relative_url }}">no wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 73</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Jan Jelinek Avec The Exposures</td>
+      <td>la nouvelle pauvrete</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Battle Flags</td>
+      <td>Color Engine</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>
+      </td>
+      <td></td>
+      <td>pepepe + cyané</td>
+      <td>Roba Orgón De Plantas Y Animales</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>
+      </td>
+      <td></td>
+      <td>farmersmanual</td>
+      <td>No Backup</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>
+      </td>
+      <td></td>
+      <td>JeanBaptist</td>
+      <td>The Landing</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russia" | relative_url }}">russia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Derseem</td>
+      <td>DERSEEM GOES PAGAN</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Derseem</td>
+      <td>Turning</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+      </td>
+      <td></td>
+      <td>LT.THROMBOSE</td>
+      <td>[autark07] Go and Get Lost</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/australian" | relative_url }}">australian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/austria" | relative_url }}">austria</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4fc79425fcf92b9ef543bbc738fa5fe1.png" alt="Cover for all my apartment songs" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Jason Sposa</td>
+      <td>all my apartment songs</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/america" | relative_url }}">america</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Derseem</td>
+      <td>Impuls</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Elektrolandmusik</td>
+      <td>konstruktion</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
       <td>
       </td>
       <td></td>
@@ -2271,226 +2492,7 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
     </tr>
     <tr>
-      <td>6</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Elektrolandmusik</td>
-      <td>konstruktion</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>8</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Derseem</td>
-      <td>Impuls</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>10</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4fc79425fcf92b9ef543bbc738fa5fe1.png" alt="Cover for all my apartment songs" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Jason Sposa</td>
-      <td>all my apartment songs</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/america" | relative_url }}">america</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>17</td>
-      <td>
-      </td>
-      <td></td>
-      <td>LT.THROMBOSE</td>
-      <td>[autark07] Go and Get Lost</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/australian" | relative_url }}">australian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/austria" | relative_url }}">austria</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>20</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Derseem</td>
-      <td>Turning</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>35</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Derseem</td>
-      <td>DERSEEM GOES PAGAN</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>56</td>
-      <td>
-      </td>
-      <td></td>
-      <td>JeanBaptist</td>
-      <td>The Landing</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russia" | relative_url }}">russia</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>63</td>
-      <td>
-      </td>
-      <td></td>
-      <td>farmersmanual</td>
-      <td>No Backup</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>68</td>
-      <td>
-      </td>
-      <td></td>
-      <td>pepepe + cyané</td>
-      <td>Roba Orgón De Plantas Y Animales</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>71</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Battle Flags</td>
-      <td>Color Engine</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>98</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Jan Jelinek Avec The Exposures</td>
-      <td>la nouvelle pauvrete</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>26</td>
+      <td>75</td>
       <td>
       </td>
       <td></td>

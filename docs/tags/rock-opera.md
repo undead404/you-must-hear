@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T03:50:07.463Z
+date: 2025-12-06T06:35:14.307Z
 permalink: tags/rock-opera
 title: rock opera
 ---
 
 ## rock opera
 
-Last updated: <time datetime="2025-12-04T03:50:07.463Z">Thu Dec 04 2025 05:50:07 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T06:35:14.307Z">Sat Dec 06 2025 08:35:14 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -863,7 +863,7 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 65</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -919,8 +919,8 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-invasion" | relative_url }}">british invasion</a> # 54</li>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 96</li>
+            <li> <a href="{{ "/tags/british-invasion" | relative_url }}">british invasion</a> # 47</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -946,9 +946,9 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 15</li>
+            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 29</li>
             <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 53</li>
-            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 72</li>
-            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -969,7 +969,7 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 4</li>
+            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1041,7 +1041,7 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 34</li>
+            <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1218,10 +1218,10 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       <td>
         <ul>
             <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 7</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 7</li>
+            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 13</li>
             <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 38</li>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 58</li>
-            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 94</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1355,9 +1355,9 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 6</li>
             <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 72</li>
             <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 79</li>
-            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1395,7 +1395,7 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 51</li>
+            <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1416,8 +1416,8 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/musical-theater" | relative_url }}">musical theater</a> # 4</li>
             <li> <a href="{{ "/tags/opera" | relative_url }}">opera</a> # 68</li>
-            <li> <a href="{{ "/tags/musical-theater" | relative_url }}">musical theater</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1513,7 +1513,7 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 43</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1769,8 +1769,8 @@ Rock opera music is a subgenre of rock music that combines elements of classical
       <td>
         <ul>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 15</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 26</li>
             <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 59</li>
-            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 75</li>
         </ul>
       </td>
     </tr>

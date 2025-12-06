@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T04:22:19.931Z
+date: 2025-12-06T06:36:57.585Z
 permalink: tags/sasscore
 title: sasscore
 ---
 
 ## sasscore
 
-Last updated: <time datetime="2025-12-04T04:22:19.931Z">Thu Dec 04 2025 06:22:19 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T06:36:57.585Z">Sat Dec 06 2025 08:36:57 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -150,7 +150,7 @@ Sasscore blends pop, rock, and alternative elements with bold, unapologetic lyri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 77</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -171,8 +171,8 @@ Sasscore blends pop, rock, and alternative elements with bold, unapologetic lyri
       <td>
         <ul>
             <li> <a href="{{ "/tags/real-post-hardcore" | relative_url }}">real post-hardcore</a> # 5</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 36</li>
             <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 57</li>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -198,9 +198,9 @@ Sasscore blends pop, rock, and alternative elements with bold, unapologetic lyri
       <td>
         <ul>
             <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 2</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 8</li>
             <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 48</li>
-            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 49</li>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 93</li>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 52</li>
             <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 95</li>
         </ul>
       </td>
@@ -257,7 +257,7 @@ Sasscore blends pop, rock, and alternative elements with bold, unapologetic lyri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 31</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -388,7 +388,7 @@ Sasscore blends pop, rock, and alternative elements with bold, unapologetic lyri
         <ul>
             <li> <a href="{{ "/tags/real-post-hardcore" | relative_url }}">real post-hardcore</a> # 12</li>
             <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 32</li>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 33</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -489,7 +489,7 @@ Sasscore blends pop, rock, and alternative elements with bold, unapologetic lyri
       <td>
         <ul>
             <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 39</li>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 84</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -537,7 +537,7 @@ Sasscore blends pop, rock, and alternative elements with bold, unapologetic lyri
       <td>
         <ul>
             <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 25</li>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 51</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 50</li>
             <li> <a href="{{ "/tags/horror-punk" | relative_url }}">horror punk</a> # 91</li>
         </ul>
       </td>
@@ -600,7 +600,7 @@ Sasscore blends pop, rock, and alternative elements with bold, unapologetic lyri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 68</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -924,7 +924,7 @@ Sasscore blends pop, rock, and alternative elements with bold, unapologetic lyri
       <td>
         <ul>
             <li> <a href="{{ "/tags/doomergaze" | relative_url }}">doomergaze</a> # 33</li>
-            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 62</li>
+            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1004,10 +1004,10 @@ Sasscore blends pop, rock, and alternative elements with bold, unapologetic lyri
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 5</li>
+            <li> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a> # 9</li>
             <li> <a href="{{ "/tags/doomergaze" | relative_url }}">doomergaze</a> # 12</li>
             <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 25</li>
-            <li> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a> # 92</li>
-            <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1133,10 +1133,10 @@ Sasscore blends pop, rock, and alternative elements with bold, unapologetic lyri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 23</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 7</li>
+            <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 14</li>
             <li> <a href="{{ "/tags/doomergaze" | relative_url }}">doomergaze</a> # 24</li>
-            <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 87</li>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 94</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1503,8 +1503,8 @@ Sasscore blends pop, rock, and alternative elements with bold, unapologetic lyri
         <ul>
             <li> <a href="{{ "/tags/doomergaze" | relative_url }}">doomergaze</a> # 6</li>
             <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 8</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 22</li>
             <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 78</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 79</li>
             <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 84</li>
         </ul>
       </td>
@@ -1687,8 +1687,8 @@ Sasscore blends pop, rock, and alternative elements with bold, unapologetic lyri
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 7</li>
             <li> <a href="{{ "/tags/doomergaze" | relative_url }}">doomergaze</a> # 13</li>
-            <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1709,8 +1709,8 @@ Sasscore blends pop, rock, and alternative elements with bold, unapologetic lyri
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 9</li>
             <li> <a href="{{ "/tags/doomergaze" | relative_url }}">doomergaze</a> # 14</li>
-            <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -2010,9 +2010,9 @@ Sasscore blends pop, rock, and alternative elements with bold, unapologetic lyri
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/rabm" | relative_url }}">rabm</a> # 9</li>
             <li> <a href="{{ "/tags/doomergaze" | relative_url }}">doomergaze</a> # 36</li>
-            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 45</li>
-            <li> <a href="{{ "/tags/rabm" | relative_url }}">rabm</a> # 92</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 57</li>
         </ul>
       </td>
     </tr>

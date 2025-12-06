@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T04:23:38.461Z
+date: 2025-12-06T06:37:45.227Z
 permalink: tags/jazz-trio
 title: jazz trio
 ---
 
 ## jazz trio
 
-Last updated: <time datetime="2025-12-04T04:23:38.461Z">Thu Dec 04 2025 06:23:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T06:37:45.227Z">Sat Dec 06 2025 08:37:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
   </thead>
   <tbody>
     <tr>
-      <td>16</td>
+      <td>84</td>
       <td>
       </td>
       <td>1956</td>
@@ -46,7 +46,7 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/-VVVU7Wg6EpxYg0lo7nTps1k6RBVEGRMbR88cE1kKGk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MjE5/MDctMTM5ODIyMDAw/OC0xODU1LmpwZWc.jpeg" alt="Cover for We Three [RVG Remaster]" style="max-width:120px; height:auto;" />
       </td>
@@ -64,7 +64,7 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/x1Pd3w63kuSmkzQ-AZwceUR9oeVX71dyMfAPzjL5Rxg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDM5/NDUtMTYzNTY4MDEy/NC00NjYyLmpwZWc.jpeg" alt="Cover for This Is Hampton Hawes, Vol. 2: The Trio" style="max-width:120px; height:auto;" />
       </td>
@@ -81,7 +81,7 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>6</td>
       <td>
       </td>
       <td>1959</td>
@@ -101,7 +101,7 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
       </td>
       <td>1959</td>
@@ -118,7 +118,7 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/QI9i-hmHNYq4DzVY34RjvE_WWMQYWJfRHYvMmPdjgRY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MjQ5/MjktMTU4ODQ2MTQw/MS05ODc3LmpwZWc.jpeg" alt="Cover for We Three" style="max-width:120px; height:auto;" />
       </td>
@@ -136,7 +136,7 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/_NhamzTACElchBkzraz-ECN2VlU2-Bbe_AD2ge1lo5w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MTYz/NDAtMTYzODYyMTE5/Ny00NzkzLmpwZWc.jpeg" alt="Cover for Portrait In Jazz" style="max-width:120px; height:auto;" />
       </td>
@@ -156,25 +156,7 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/nuazrE9G_3aHP3yCo97wAADq_eybD0ZQoGXvRYs-ZqY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDY2/NjY2LTE2NDAzMzIw/MzktOTg5Ny5qcGVn.jpeg" alt="Cover for Sunday At The Village Vanguard" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1961</td>
-      <td>Bill Evans Trio</td>
-      <td>Sunday At The Village Vanguard</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>55</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a830c0c142494f4eaa385685d40f8878.png" alt="Cover for Explorations" style="max-width:120px; height:auto;" />
       </td>
@@ -192,7 +174,25 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>100</td>
+      <td>
+          <img src="https://i.discogs.com/nuazrE9G_3aHP3yCo97wAADq_eybD0ZQoGXvRYs-ZqY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDY2/NjY2LTE2NDAzMzIw/MzktOTg5Ny5qcGVn.jpeg" alt="Cover for Sunday At The Village Vanguard" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1961</td>
+      <td>Bill Evans Trio</td>
+      <td>Sunday At The Village Vanguard</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/7Gn_RDuINHVix04tg4w-q8MQEx4_UaLLRxCFPq3T5ZY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzYx/MDktMTU1NzQxOTAy/MC02NjUwLmpwZWc.jpeg" alt="Cover for Moon Beams" style="max-width:120px; height:auto;" />
       </td>
@@ -212,24 +212,7 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
     </tr>
     <tr>
-      <td>9</td>
-      <td>
-      </td>
-      <td>1962</td>
-      <td>Bill Evans Trio</td>
-      <td>Waltz For Debby</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/kZGnxOkyJ37IQX10mgBVLPHZQs5vsZruKm_CC4AZuhg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTU1/NTIwLTE2MDQzNzk2/OTAtNjMwMy5qcGVn.jpeg" alt="Cover for How My Heart Sings!" style="max-width:120px; height:auto;" />
       </td>
@@ -247,7 +230,43 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>92</td>
+      <td>
+      </td>
+      <td>1962</td>
+      <td>Bill Evans Trio</td>
+      <td>Waltz For Debby</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/30b0db96c46a3aebe7a0a968b532c306.png" alt="Cover for Night Train" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1963</td>
+      <td>The Oscar Peterson Trio</td>
+      <td>Night Train</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jazz-piano" | relative_url }}">jazz piano</a> # 61</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3a0bd96a0fcc28890dc81035bc6d1d1b.png" alt="Cover for Poinciana" style="max-width:120px; height:auto;" />
       </td>
@@ -267,26 +286,7 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
     </tr>
     <tr>
-      <td>97</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/30b0db96c46a3aebe7a0a968b532c306.png" alt="Cover for Night Train" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1963</td>
-      <td>The Oscar Peterson Trio</td>
-      <td>Night Train</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/jazz-piano" | relative_url }}">jazz piano</a> # 61</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>47</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/3cuq7S2rkN0wrH-pTSNMCvAolRZDvBM9tICFhMggnzk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTMy/NzctMTM1NjE3MjQ4/Ni03NDgzLmpwZWc.jpeg" alt="Cover for Blue Genes" style="max-width:120px; height:auto;" />
       </td>
@@ -305,7 +305,7 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/359cabc5940d4683c6abdc2d5667583b.png" alt="Cover for A Boy Named Charlie Brown" style="max-width:120px; height:auto;" />
       </td>
@@ -319,11 +319,12 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/x-mas" | relative_url }}">x-mas</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
       </td>
       <td>1964</td>
@@ -346,7 +347,7 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/87d03298410982cd70155999e0589026.png" alt="Cover for Guitar On The Go" style="max-width:120px; height:auto;" />
       </td>
@@ -364,14 +365,14 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 1</li>
             <li> <a href="{{ "/tags/jazz-guitar" | relative_url }}">jazz guitar</a> # 2</li>
             <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 97</li>
-            <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/Cyfowe1fD_R36XKhWdNc9M7Hs8oY5Vsf1yBdoiSWeH0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTIx/MzUtMTU2MzQ3NzI3/OC01NzU5LmpwZWc.jpeg" alt="Cover for The Last Waltz - The Final Recordings At Keystone Korner September 1980" style="max-width:120px; height:auto;" />
       </td>
@@ -392,7 +393,7 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/Ks46E5u-v8_L0Ol1ULocBVLacS55J4tHoZ_fMru9Y_U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzOTg5/OC0xMTQxOTk5NjAz/LmpwZWc.jpeg" alt="Cover for I Believe To My Soul" style="max-width:120px; height:auto;" />
       </td>
@@ -411,7 +412,7 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/hhIgDoblE2hbSfbRnjUfLUj5JRkRTO082UXTS-ZFiJ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDYz/OTktMTUxODc1MDAy/Ni0xNTk4LmpwZWc.jpeg" alt="Cover for Soul Symphony" style="max-width:120px; height:auto;" />
       </td>
@@ -430,7 +431,7 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/YCYZnx8YU-yucKxnrxEtf8-VqTtX9W02u7MxO_bxinU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4OTM0/ODAtMTQ3MDk0Mzg0/NS03MTA5LmpwZWc.jpeg" alt="Cover for Live At Shanghai Jazz" style="max-width:120px; height:auto;" />
       </td>
@@ -449,7 +450,7 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/YEgLQvQYEUeW2w-VMU8R2wifYenMXYDBX7B9ZRtwblw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwOTcz/MTgtMTQxMDk4NzA4/MC03Nzg5LmpwZWc.jpeg" alt="Cover for The Trio" style="max-width:120px; height:auto;" />
       </td>
@@ -467,7 +468,7 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/tcrLTQ6ue6gjV2aogK4bpNuLAmLVxW1zh4YiFpCrwDI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMTc4/MC0xMzY1NDYxOTc0/LTEzNTMuanBlZw.jpeg" alt="Cover for Fancy Dance" style="max-width:120px; height:auto;" />
       </td>
@@ -484,12 +485,12 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-trio" | relative_url }}">piano trio</a> # 45</li>
+            <li> <a href="{{ "/tags/piano-trio" | relative_url }}">piano trio</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/KDZRz035Pe6sZG3C-_dcQIkhBUKEJKbqR5TYUaTzwxU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1NzU4/NS0xNjc0MjkwNjIw/LTI2OTYuanBlZw.jpeg" alt="Cover for Songs With Legs" style="max-width:120px; height:auto;" />
       </td>
@@ -508,7 +509,7 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/CPZmWdeRwohKYVSCgo3eCRSE4oQZKkYSBb_1ws2I5Hw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTYw/MjEtMTI5MjMyNzIz/MS5qcGVn.jpeg" alt="Cover for Memoirs" style="max-width:120px; height:auto;" />
       </td>
@@ -526,7 +527,7 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1e0a7700f23740d68ec7efc4f86690d8.png" alt="Cover for At The Village Vanguard" style="max-width:120px; height:auto;" />
       </td>
@@ -540,13 +541,13 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-trio" | relative_url }}">piano trio</a> # 34</li>
             <li> <a href="{{ "/tags/cool-jazz" | relative_url }}">cool jazz</a> # 66</li>
+            <li> <a href="{{ "/tags/piano-trio" | relative_url }}">piano trio</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/gOvXHkgTU0vBp70PuWNAnt63tf3jKO22s5z6IYHlJAw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MDE3/ODktMTUyMjAwMjkx/MC04NzI5LmpwZWc.jpeg" alt="Cover for Ray Bryant Trio" style="max-width:120px; height:auto;" />
       </td>
@@ -564,7 +565,7 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/FMQT-kS8Zktflf_Yty-NfBQInsCjAYrnOcl4mQfFktU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTUy/Ni0xNTA3OTA2MTcz/LTYzMTAubXBv.jpeg" alt="Cover for Standards Live" style="max-width:120px; height:auto;" />
       </td>
@@ -582,7 +583,7 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/M6j431Hw7XScBFBsgVCZJIZ57xzkuTovnEaGiw5gXE8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjYw/MTYtMTMxNDEzOTgx/Ni5qcGVn.jpeg" alt="Cover for Waltz For Debby" style="max-width:120px; height:auto;" />
       </td>
@@ -602,7 +603,7 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/YXaDkOIKtMBw-rgPFSO3U7GnNo1vakgtG8Aul0SQATU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNTU2/ODctMTQwOTkyNTUw/Ni0xNjk0LmpwZWc.jpeg" alt="Cover for The Complete Live At The Village Vanguard 1961" style="max-width:120px; height:auto;" />
       </td>
@@ -621,7 +622,7 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d48fadde5d81fb6682e6aa7647cdaedc.png" alt="Cover for Concert By The Sea" style="max-width:120px; height:auto;" />
       </td>
@@ -639,7 +640,7 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/479934bed419ac8daefa4c8ded182abf.png" alt="Cover for You&#39;re Gonna Hear From Me" style="max-width:120px; height:auto;" />
       </td>
@@ -657,24 +658,7 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
     </tr>
     <tr>
-      <td>59</td>
-      <td>
-      </td>
-      <td>1992</td>
-      <td>John McLaughlin Trio</td>
-      <td>Que Alegria</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
       </td>
       <td>1992</td>
@@ -692,7 +676,24 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>40</td>
+      <td>
+      </td>
+      <td>1992</td>
+      <td>John McLaughlin Trio</td>
+      <td>Que Alegria</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/U49m7U9sY5TB2aa1kSVSCIrBTsqtz-eAMMGFnkoTxf0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTYz/MTQtMTM0MzEyMzM5/Ni04MzE3LmpwZWc.jpeg" alt="Cover for Trio 1" style="max-width:120px; height:auto;" />
       </td>
@@ -707,30 +708,12 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-bass" | relative_url }}">jazz bass</a> # 48</li>
+            <li> <a href="{{ "/tags/jazz-bass" | relative_url }}">jazz bass</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
-      <td>
-          <img src="https://i.discogs.com/AXvVNh17KHB-KfkSs5UjMEqXf2AVDlig8_lEVpXsIos/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNjA2/NDgtMTQzMjc3ODQy/Ny01MjAwLmpwZWc.jpeg" alt="Cover for Why Really" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1994</td>
-      <td>Baseline</td>
-      <td>Why Really</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-trio" | relative_url }}">jazz trio</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>28</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/AE8AWdsjiFach3RG--cIkZs3U3XV_feUiBYcE10nRQ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MjIx/NzgtMTMwODY2ODYy/Ni5qcGVn.jpeg" alt="Cover for Introducing Carl Perkins" style="max-width:120px; height:auto;" />
       </td>
@@ -748,7 +731,25 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>99</td>
+      <td>
+          <img src="https://i.discogs.com/AXvVNh17KHB-KfkSs5UjMEqXf2AVDlig8_lEVpXsIos/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNjA2/NDgtMTQzMjc3ODQy/Ny01MjAwLmpwZWc.jpeg" alt="Cover for Why Really" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994</td>
+      <td>Baseline</td>
+      <td>Why Really</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-trio" | relative_url }}">jazz trio</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
       <td>
           <img src="https://i.discogs.com/IYjHb3YfECI_ycoSD3NJF3a3zMHpgFw4qp3dthJ8jbU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNDQ0/MDgtMTQ1NjM0MzE0/MC01ODE1LmpwZWc.jpeg" alt="Cover for Standards" style="max-width:120px; height:auto;" />
       </td>
@@ -767,7 +768,7 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/J5pJ31ACHdftTaH-G8w4YlLgAAcAwthog4Nio0iyZK8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNTc4/MTItMTM5MTM4Mjky/My0xMzc3LmpwZWc.jpeg" alt="Cover for Cabaret with The Tony Flannigan Trio" style="max-width:120px; height:auto;" />
       </td>
@@ -789,7 +790,25 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>2</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/36dfb5fbdad9dec118488e9b248a17e8.png" alt="Cover for The Art of the Trio, Vol. 1" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997</td>
+      <td>Brad Mehldau</td>
+      <td>The Art of the Trio, Vol. 1</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jazz-piano" | relative_url }}">jazz piano</a> # 27</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/921f1076728c5fa0671a19bd552e4211.png" alt="Cover for Night Train" style="max-width:120px; height:auto;" />
       </td>
@@ -808,25 +827,7 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
     </tr>
     <tr>
-      <td>99</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/36dfb5fbdad9dec118488e9b248a17e8.png" alt="Cover for The Art of the Trio, Vol. 1" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1997</td>
-      <td>Brad Mehldau</td>
-      <td>The Art of the Trio, Vol. 1</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/jazz-piano" | relative_url }}">jazz piano</a> # 27</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/aef73ca3c1114486925cd5a6049f7aff.png" alt="Cover for Jazz Showcase" style="max-width:120px; height:auto;" />
       </td>
@@ -846,7 +847,7 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>98</td>
       <td>
           <img src="https://i.discogs.com/6lAGWAKGAQPCEneSzJ-9cWgGkb_wJK_ha03nJ8p0Rco/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2Mzg1/MzMtMTM5ODYzNTQw/OC03ODAzLmpwZWc.jpeg" alt="Cover for Daddio Don" style="max-width:120px; height:auto;" />
       </td>
@@ -865,7 +866,7 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/wYFCuRNmPAraQxddZDoAfkad7hTUULxEzD3XIsEVtT0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDY1/NDY2LTE2MDI4MjAz/NTUtNTgyNS5qcGVn.jpeg" alt="Cover for A Time for Love: Jazz Piano Romance" style="max-width:120px; height:auto;" />
       </td>
@@ -884,7 +885,7 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/CD_QRl1mSv-rjoKa78ldnzYgiLFXsgwpzB0tlBZcSzc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4Mjc4/MTUtMTQ5NTk3MTMz/My05NDkxLmpwZWc.jpeg" alt="Cover for Celebration" style="max-width:120px; height:auto;" />
       </td>
@@ -903,7 +904,7 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/Rr5AAczMTVeyRXlSFZR6RaxYwkJGc0XcTabTEZ8Zouw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MDUx/MTQtMTM5Nzc5MjI3/Mi05MTU4LmpwZWc.jpeg" alt="Cover for Love, Elvis" style="max-width:120px; height:auto;" />
       </td>
@@ -920,7 +921,7 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/Yqhw8Lwh-3v-p5SoKdyLyyVGf-W5ILK3s-h9hGB4G4I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1Nzc1/MTktMTM5Mzc5Mzkx/NS03OTA5LmpwZWc.jpeg" alt="Cover for Live At The Lighthouse" style="max-width:120px; height:auto;" />
       </td>
@@ -938,7 +939,7 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/39287d75445046a8bccf29f48047f852.png" alt="Cover for Good Morning Susie Soho" style="max-width:120px; height:auto;" />
       </td>
@@ -956,33 +957,15 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>30</td>
       <td>
-          <img src="https://i.discogs.com/KJyyHC3ynioRjUoKcfAj29XgeF15EnkLChGFWvLfOuo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzk5/ODYzLTE0OTY2ODQ0/NzAtODk4OS5qcGVn.jpeg" alt="Cover for Jimi&#39;s Colors" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/m70kuc7gSpWQphZ-bjE_wwp4-_r1fnjIHm9Pxz5HJaw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTIz/NzQtMTUxMzY2NTIw/MC00NTk2LmpwZWc.jpeg" alt="Cover for At Shelly&#39;s Manne-Hole" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
-      <td>Francis Lockwood</td>
-      <td>Jimi&#39;s Colors</td>
+      <td>Bill Evans Trio</td>
+      <td>At Shelly&#39;s Manne-Hole</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-trio" | relative_url }}">jazz trio</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>40</td>
-      <td>
-      </td>
-      <td>2001</td>
-      <td>European Jazz Trio</td>
-      <td>Adagio</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/european" | relative_url }}">european</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-trio" | relative_url }}">jazz trio</a></li>
         </ul>
@@ -993,7 +976,7 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/ufyncsYFP9QwXQqwtuI5QDWhT6i5VpACUsOVE7Xbc8A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTUx/MjYtMTY1MzY1MzQ0/Ny0zODEzLmpwZWc.jpeg" alt="Cover for Days of Wine and Roses: Songs of Johnny Mercer" style="max-width:120px; height:auto;" />
       </td>
@@ -1013,15 +996,15 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>60</td>
       <td>
-          <img src="https://i.discogs.com/m70kuc7gSpWQphZ-bjE_wwp4-_r1fnjIHm9Pxz5HJaw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTIz/NzQtMTUxMzY2NTIw/MC00NTk2LmpwZWc.jpeg" alt="Cover for At Shelly&#39;s Manne-Hole" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
-      <td>Bill Evans Trio</td>
-      <td>At Shelly&#39;s Manne-Hole</td>
+      <td>European Jazz Trio</td>
+      <td>Adagio</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/european" | relative_url }}">european</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-trio" | relative_url }}">jazz trio</a></li>
         </ul>
@@ -1032,7 +1015,25 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>74</td>
+      <td>
+          <img src="https://i.discogs.com/KJyyHC3ynioRjUoKcfAj29XgeF15EnkLChGFWvLfOuo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzk5/ODYzLTE0OTY2ODQ0/NzAtODk4OS5qcGVn.jpeg" alt="Cover for Jimi&#39;s Colors" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Francis Lockwood</td>
+      <td>Jimi&#39;s Colors</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-trio" | relative_url }}">jazz trio</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/mWUbfGuhmSI4SaGA8iKDee8Ls6LmOsLXw3DFZXbmirg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MTI2/MTctMTM5NTI5MzM5/My02MjUzLmpwZWc.jpeg" alt="Cover for East and West" style="max-width:120px; height:auto;" />
       </td>
@@ -1052,7 +1053,26 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>70</td>
+      <td>
+          <img src="https://i.discogs.com/YCYZnx8YU-yucKxnrxEtf8-VqTtX9W02u7MxO_bxinU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4OTM0/ODAtMTQ3MDk0Mzg0/NS03MTA5LmpwZWc.jpeg" alt="Cover for Live At Shanghai Jazz" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>Marian McPartland Trio</td>
+      <td>Live At Shanghai Jazz</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-trio" | relative_url }}">jazz trio</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/5oYaH8JeN8SlMX_IvGTBnKlxkBl53zxAtWOofCqJxQw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MDQ2/NDctMTQyNDk4NDg4/Mi02ODI0LmpwZWc.jpeg" alt="Cover for Summertime" style="max-width:120px; height:auto;" />
       </td>
@@ -1072,26 +1092,7 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
     </tr>
     <tr>
-      <td>30</td>
-      <td>
-          <img src="https://i.discogs.com/YCYZnx8YU-yucKxnrxEtf8-VqTtX9W02u7MxO_bxinU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4OTM0/ODAtMTQ3MDk0Mzg0/NS03MTA5LmpwZWc.jpeg" alt="Cover for Live At Shanghai Jazz" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2002</td>
-      <td>Marian McPartland Trio</td>
-      <td>Live At Shanghai Jazz</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-trio" | relative_url }}">jazz trio</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>24</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/tSiMWjFDMw_SMg04u5BVDXUJHsKSJQ2zwLKWepjkf5o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTU4/NjctMTY2MzEwMTU0/Ni0zMTE4LmpwZWc.jpeg" alt="Cover for Consecration" style="max-width:120px; height:auto;" />
       </td>
@@ -1112,7 +1113,7 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/LhrJccmj_Tg0LcRtBkDQWq63SsN5OWDVURGG39TKzzo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5Njky/NC0xNDUzMTExNTQx/LTM1OTAuanBlZw.jpeg" alt="Cover for Always Let Me Go" style="max-width:120px; height:auto;" />
       </td>
@@ -1129,7 +1130,7 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/7DSZAB3WD0GQ3EnUMSpvjkOr2vanMX2A9rHleFgZeRU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMjkz/MS0xMjkyOTM1MjMw/LmpwZWc.jpeg" alt="Cover for High Standards" style="max-width:120px; height:auto;" />
       </td>
@@ -1154,43 +1155,6 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
     <tr>
       <td>46</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1fdb8604f3a84f9c8b1079722ddfc530.png" alt="Cover for Seven Days of Falling" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2003</td>
-      <td>Esbjörn Svensson Trio</td>
-      <td>Seven Days of Falling</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>48</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a547ac202019ef9a44e691592b82549b.png" alt="Cover for The Power Trio: Live in Chicago" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2003</td>
-      <td>Larry Coryell</td>
-      <td>The Power Trio: Live in Chicago</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>54</td>
-      <td>
           <img src="https://i.discogs.com/GaKZ7HrS9YgkuDTZcJQJmcRXf4XSbtZ1I5yWknOdtoI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwODE5/OTktMTQ3NDQ1NDUz/NC05OTQ3LmpwZWc.jpeg" alt="Cover for Nine Stories Wide" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
@@ -1209,7 +1173,44 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>52</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a547ac202019ef9a44e691592b82549b.png" alt="Cover for The Power Trio: Live in Chicago" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Larry Coryell</td>
+      <td>The Power Trio: Live in Chicago</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1fdb8604f3a84f9c8b1079722ddfc530.png" alt="Cover for Seven Days of Falling" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Esbjörn Svensson Trio</td>
+      <td>Seven Days of Falling</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/208cf420744b4dcc85865eba281a943f.png" alt="Cover for Changing Places" style="max-width:120px; height:auto;" />
       </td>
@@ -1229,7 +1230,7 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>33</td>
       <td>
       </td>
       <td>2003-09-23</td>
@@ -1247,7 +1248,7 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a3302bf5d1eb46d1bd10f8d048c2de03.png" alt="Cover for The Ground" style="max-width:120px; height:auto;" />
       </td>
@@ -1267,7 +1268,7 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>93</td>
       <td>
       </td>
       <td>2004</td>
@@ -1286,7 +1287,7 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/GVU38cYwC95i1Kj-OOiOenTnTl8y6ykaVoo5MsK4ZaU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzQ4/NzItMTY3MzQzMDU1/OS02NjM3LmpwZWc.jpeg" alt="Cover for Note Bleu: The Best Of. . ." style="max-width:120px; height:auto;" />
       </td>
@@ -1303,7 +1304,7 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
       </td>
       <td>2004-02-23</td>
@@ -1320,7 +1321,7 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2f3569d0842ff37cf2b94d5d9b58cd20.png" alt="Cover for The Out-Of-Towners" style="max-width:120px; height:auto;" />
       </td>
@@ -1338,7 +1339,7 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1992fee31c3c4cbb9cbf39092659cbc1.png" alt="Cover for Suspicious Activity?" style="max-width:120px; height:auto;" />
       </td>
@@ -1352,12 +1353,30 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-bass" | relative_url }}">jazz bass</a> # 49</li>
+            <li> <a href="{{ "/tags/jazz-bass" | relative_url }}">jazz bass</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>20</td>
+      <td>
+          <img src="https://i.discogs.com/W3RrVHMl0cElteqsxEE2VFUnCZj_S8taXDY98anwd6M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MTY5/NzYtMTQ2NTIyNjA2/OC01NjEyLmpwZWc.jpeg" alt="Cover for SplitLife" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Gilad Hekselman</td>
+      <td>SplitLife</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-trio" | relative_url }}">jazz trio</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
       <td>
       </td>
       <td>2006</td>
@@ -1377,25 +1396,7 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
     </tr>
     <tr>
-      <td>81</td>
-      <td>
-          <img src="https://i.discogs.com/W3RrVHMl0cElteqsxEE2VFUnCZj_S8taXDY98anwd6M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MTY5/NzYtMTQ2NTIyNjA2/OC01NjEyLmpwZWc.jpeg" alt="Cover for SplitLife" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2006</td>
-      <td>Gilad Hekselman</td>
-      <td>SplitLife</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-trio" | relative_url }}">jazz trio</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/cCbIy76j3k5Ph7L9ACRMBm7WnYq-nY3X2htRHaip27I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwODc2/Ni0xNDg5OTQ0Mjg4/LTc5ODEuanBlZw.jpeg" alt="Cover for Chemist" style="max-width:120px; height:auto;" />
       </td>
@@ -1412,13 +1413,13 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a> # 1</li>
             <li> <a href="{{ "/tags/piano-jazz" | relative_url }}">piano jazz</a> # 11</li>
-            <li> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/WreheeC6nnazLBrg3EJhzaVLFWRG1B_ME1KYOyrwi_4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTMz/NTQtMTQ0MTA2MDE1/MS01MDExLmpwZWc.jpeg" alt="Cover for Reloaded" style="max-width:120px; height:auto;" />
       </td>
@@ -1437,7 +1438,7 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/wMfGr6zXokcHXVrkfx41RGVlz0GRUCpPLaxZavWQkLI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NjM1/My0xMTc5ODY4MTEx/LmpwZWc.jpeg" alt="Cover for Stained Glass" style="max-width:120px; height:auto;" />
       </td>
@@ -1455,7 +1456,7 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/ZozahdTWWyd75Fg74Orofixo4pzVy-NmV0wk8O86i_w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0Njk5/MjYtMTQ4MTEzMTcw/Ny00OTA4LmpwZWc.jpeg" alt="Cover for Saudade" style="max-width:120px; height:auto;" />
       </td>
@@ -1474,7 +1475,7 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/AxLaRY5BxTSzRc-67pyoHGcDdHdq7VAdSjsRj2MyisY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDY3/NzAtMTI3MjEzNzIz/Ny5qcGVn.jpeg" alt="Cover for Radiolarians I" style="max-width:120px; height:auto;" />
       </td>
@@ -1492,7 +1493,7 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/4-m8KhUhqLN3kFadiTs67hrLAZkGBPoOp4Uqo6PeSnk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzQ0/MDYwLTE1MDM1MDky/MzktMzM3My5qcGVn.jpeg" alt="Cover for The Lazy Prince" style="max-width:120px; height:auto;" />
       </td>
@@ -1513,31 +1514,12 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-saxophone" | relative_url }}">jazz saxophone</a> # 37</li>
+            <li> <a href="{{ "/tags/jazz-saxophone" | relative_url }}">jazz saxophone</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
-      <td>
-          <img src="https://i.discogs.com/RfaXBBU_P2XzCOR3REy2X_0y-rkM2BsC9FmCnOJHIho/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MjU1/OTMtMTQ3MjA0ODMz/Ni01MTU5LmpwZWc.jpeg" alt="Cover for What Happened?" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2009</td>
-      <td>Alex Riel Trio</td>
-      <td>What Happened?</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-trio" | relative_url }}">jazz trio</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/fShbIqrc1ZyzotWgl7Oj4rHy4fUi4w5Ab4CTMSHXyrU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODM2/NDczLTE1ODI1MjYz/NTUtODgwMC5qcGVn.jpeg" alt="Cover for The Frank Sinatra Collection" style="max-width:120px; height:auto;" />
       </td>
@@ -1557,7 +1539,26 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>88</td>
+      <td>
+          <img src="https://i.discogs.com/RfaXBBU_P2XzCOR3REy2X_0y-rkM2BsC9FmCnOJHIho/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MjU1/OTMtMTQ3MjA0ODMz/Ni01MTU5LmpwZWc.jpeg" alt="Cover for What Happened?" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Alex Riel Trio</td>
+      <td>What Happened?</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-trio" | relative_url }}">jazz trio</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>36</td>
       <td>
       </td>
       <td>2009-04-15</td>
@@ -1594,45 +1595,7 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
     </tr>
     <tr>
-      <td>6</td>
-      <td>
-          <img src="https://i.discogs.com/m9yc1dzrm8KdP8VKbalp9LN4DlSqR-QZA7ML1K7ev1M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjky/MjAzLTE1ODY5NTQw/MDctMjU0My5qcGVn.jpeg" alt="Cover for Open Minds" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2011</td>
-      <td>mads vinding trio</td>
-      <td>Open Minds</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-trio" | relative_url }}">jazz trio</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>56</td>
-      <td>
-          <img src="https://i.discogs.com/-JY-iYOY5RxkNrzzh1EQPsNZuSwH_gaLyp3skYEWS2E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTMz/MDQyLTE2MDI3MjQz/MjctNDIxMC5qcGVn.jpeg" alt="Cover for I Love Being Here With You - A Jazz Piano Tribute To Peggy Lee" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2011</td>
-      <td>Beegie Adair</td>
-      <td>I Love Being Here With You - A Jazz Piano Tribute To Peggy Lee</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-piano" | relative_url }}">jazz piano</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-trio" | relative_url }}">jazz trio</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>61</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ae0b7f4ceb22446ec4ceeb746e736803.png" alt="Cover for The Good Life: A Jazz Piano Tribute To Tony Bennett" style="max-width:120px; height:auto;" />
       </td>
@@ -1653,7 +1616,45 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>44</td>
+      <td>
+          <img src="https://i.discogs.com/-JY-iYOY5RxkNrzzh1EQPsNZuSwH_gaLyp3skYEWS2E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTMz/MDQyLTE2MDI3MjQz/MjctNDIxMC5qcGVn.jpeg" alt="Cover for I Love Being Here With You - A Jazz Piano Tribute To Peggy Lee" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011</td>
+      <td>Beegie Adair</td>
+      <td>I Love Being Here With You - A Jazz Piano Tribute To Peggy Lee</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-piano" | relative_url }}">jazz piano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-trio" | relative_url }}">jazz trio</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+          <img src="https://i.discogs.com/m9yc1dzrm8KdP8VKbalp9LN4DlSqR-QZA7ML1K7ev1M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjky/MjAzLTE1ODY5NTQw/MDctMjU0My5qcGVn.jpeg" alt="Cover for Open Minds" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011</td>
+      <td>mads vinding trio</td>
+      <td>Open Minds</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-trio" | relative_url }}">jazz trio</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/mDibAmjVUrWHVVuxp13lfGvTol6LZhAZWFPFcGbCdDo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NjQ4/ODYtMTQyODI2NzQ1/Ni04MDE4LmpwZWc.jpeg" alt="Cover for At The Pershing &#x2F; But Not For Me" style="max-width:120px; height:auto;" />
       </td>
@@ -1674,7 +1675,7 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/wWyYcF_DxjouVj9T66hm8cxSdfHb0m6kkFxmzAwGQgA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Mzc4/MTctMTY2Njc3ODQy/Ny01Mjc1LmpwZWc.jpeg" alt="Cover for At The Pershing-But Not For Me" style="max-width:120px; height:auto;" />
       </td>
@@ -1692,7 +1693,7 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/YViyAFyBZJoNoz7WqRSiVnDqfeJhEPz-YVZ5VlnDF4c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5ODA0/NzMtMTY3MTI2Mzg4/OS05ODIxLmpwZWc.jpeg" alt="Cover for Live At The Village Vanguard" style="max-width:120px; height:auto;" />
       </td>
@@ -1712,7 +1713,7 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/ryEZPKYJfjzq6ZurmHvkW2jXVtcSzgd7MxV24HAOBKY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1NTQy/NjAtMTQ4MjYzNjE5/MC00MzIxLmpwZWc.jpeg" alt="Cover for The Real Thing: Live" style="max-width:120px; height:auto;" />
       </td>
@@ -1732,7 +1733,7 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/3MzhZ1DW40XWASlhfxUKD2_5o3ROuz9PhvtyxUUsvNs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NDk0/MTctMTQwNzE0NzI5/OS02MjY3LmpwZWc.jpeg" alt="Cover for We Three [RVG Remaster]" style="max-width:120px; height:auto;" />
       </td>
@@ -1750,7 +1751,7 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>57</td>
       <td>
       </td>
       <td>2014-02-28</td>
@@ -1769,7 +1770,7 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/CcB1dgmjN6Ztxa_sQnH0uOvMp48Ao7-ubccqPzu8kng/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTk4/OTU3LTE1ODUzMTc1/NTEtMzI0My5qcGVn.jpeg" alt="Cover for Cheek to Cheek" style="max-width:120px; height:auto;" />
       </td>
@@ -1790,7 +1791,7 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/mZhEZHoLMqn2wc_j1edhyMzn4vr2Z2X_toDe6qtNezo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTIx/MzY5LTE1NzYyNTc1/NDctNDAzNS5qcGVn.jpeg" alt="Cover for Second Trip" style="max-width:120px; height:auto;" />
       </td>
@@ -1809,12 +1810,12 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a> # 67</li>
+            <li> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/o7LOeHVFlLYG3kRN4y8xuw_nXMlFTLXHhIBBSWvnvHg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Nzk5/NDE2LTE2Mjg1MTE3/NDUtNDI3OS5qcGVn.jpeg" alt="Cover for Inside A Dream" style="max-width:120px; height:auto;" />
       </td>
@@ -1836,15 +1837,56 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>65</td>
       <td>
       </td>
       <td></td>
-      <td>Yun Seok Cheol Trio</td>
-      <td>Db in April</td>
+      <td>Трио Дмитрия Илугдина</td>
+      <td>My Story</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-piano" | relative_url }}">jazz piano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-trio" | relative_url }}">jazz trio</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano-jazz" | relative_url }}">piano jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d03cc33b42694ff98edb9aeafd208c12.png" alt="Cover for Mindwanderings" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Racquel and Scott</td>
+      <td>Mindwanderings</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/jazz-trio" | relative_url }}">jazz trio</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>
+      </td>
+      <td></td>
+      <td>EVO Trio</td>
+      <td>Demo</td>
+      <td>
+        <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-trio" | relative_url }}">jazz trio</a></li>
         </ul>
       </td>
@@ -1854,7 +1896,7 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/27f96a3ce4fe4358b66d3a4e37d1d6ae.png" alt="Cover for Somewhere in Romance" style="max-width:120px; height:auto;" />
       </td>
@@ -1884,75 +1926,16 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>94</td>
       <td>
       </td>
       <td></td>
-      <td>EVO Trio</td>
-      <td>Demo</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-trio" | relative_url }}">jazz trio</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>17</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d03cc33b42694ff98edb9aeafd208c12.png" alt="Cover for Mindwanderings" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Racquel and Scott</td>
-      <td>Mindwanderings</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
-            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/jazz-trio" | relative_url }}">jazz trio</a></li>
-            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>35</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Трио Дмитрия Илугдина</td>
-      <td>My Story</td>
+      <td>Yun Seok Cheol Trio</td>
+      <td>Db in April</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-piano" | relative_url }}">jazz piano</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-trio" | relative_url }}">jazz trio</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano-jazz" | relative_url }}">piano jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td></td>
-      <td>
-      </td>
-      <td></td>
-      <td>Keith Jarrett</td>
-      <td>Gary Peacock</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-piano" | relative_url }}">jazz piano</a></li>
         </ul>
       </td>
       <td>
@@ -1979,7 +1962,25 @@ A jazz trio features three musicians—typically piano, bass, and drums—creati
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td></td>
+      <td>
+      </td>
+      <td></td>
+      <td>Keith Jarrett</td>
+      <td>Gary Peacock</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-piano" | relative_url }}">jazz piano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
       <td>
       </td>
       <td></td>

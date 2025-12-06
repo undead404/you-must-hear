@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T03:33:44.747Z
+date: 2025-12-06T06:33:50.555Z
 permalink: tags/russian-alternative
 title: russian alternative
 ---
 
 ## russian alternative
 
-Last updated: <time datetime="2025-12-04T03:33:44.747Z">Thu Dec 04 2025 05:33:44 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T06:33:50.555Z">Sat Dec 06 2025 08:33:50 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
   </thead>
   <tbody>
     <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/060UvLlIi4whCpHCgDndJEh5RfFDx-bupsEgtBrRe7k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzI0/NzY3LTE0OTUzNDc3/MTUtNjk5Mi5qcGVn.jpeg" alt="Cover for Try To Come Through It" style="max-width:120px; height:auto;" />
       </td>
@@ -48,7 +48,7 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e8f857fc62b6bc047f4478a07aaac2dc.png" alt="Cover for Бомба" style="max-width:120px; height:auto;" />
       </td>
@@ -66,7 +66,7 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/ue_O-A2DrVtiNoNdyjOGdPfl25W1Uk346WQ_cPOxM04/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDA3/NzgtMTQ0NDkwMDAw/OS04ODEzLmpwZWc.jpeg" alt="Cover for Greatest hits lo-fi and d.i.y" style="max-width:120px; height:auto;" />
       </td>
@@ -85,7 +85,7 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/84-wosdbCVc9CXDxHnpw9xVxTGEmDkqdj-6CGO-IMm0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MzEw/Mi0xNDE4Mzc0NDI2/LTg4NTAuanBlZw.jpeg" alt="Cover for Плавники" style="max-width:120px; height:auto;" />
       </td>
@@ -103,7 +103,7 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/19abd5c84a5534efbe55d979a8d3c376.png" alt="Cover for Acoustic &amp; Drive (Live)" style="max-width:120px; height:auto;" />
       </td>
@@ -125,7 +125,7 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>100</td>
       <td>
           <img src="https://i.discogs.com/BKqeyVV5HVOQaZ35LZvKxm3111ezF9BtxgXjyIQg9i0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTM3/MjM1LTE1MTgxMDQ1/MDQtNTA1OS5qcGVn.jpeg" alt="Cover for Безысходность" style="max-width:120px; height:auto;" />
       </td>
@@ -142,11 +142,12 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/korn" | relative_url }}">korn</a> # 35</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/4kntgCkGyjgILFOJ2TSaVuoCQ0WkfK0mYxy0VKcuWUM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNjA5/MzItMTMyNzMyNzky/MC5qcGVn.jpeg" alt="Cover for DeaDKeDы" style="max-width:120px; height:auto;" />
       </td>
@@ -157,26 +158,6 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>25</td>
-      <td>
-          <img src="https://i.discogs.com/KdjDSDGYQREYkyJSK2fK4Aw-rd1J0nQg7adZIs-WTDI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODE2/MTk0LTE2MTU2MTE1/ODQtODA3Ni5qcGVn.jpeg" alt="Cover for XX LIVE" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2003</td>
-      <td>Lumen</td>
-      <td>XX LIVE</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
         </ul>
       </td>
       <td>
@@ -205,7 +186,27 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>75</td>
+      <td>
+          <img src="https://i.discogs.com/KdjDSDGYQREYkyJSK2fK4Aw-rd1J0nQg7adZIs-WTDI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODE2/MTk0LTE2MTU2MTE1/ODQtODA3Ni5qcGVn.jpeg" alt="Cover for XX LIVE" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Lumen</td>
+      <td>XX LIVE</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/PbSSj1bs1uFF2NP8yNsmjWahxYH4qpnfV_Disk0vNbM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjYz/ODc4LTE2MTQ3MjY4/OTctNzU1Ni5wbmc.jpeg" alt="Cover for Письмо-Исповедь Ответа Не Будет" style="max-width:120px; height:auto;" />
       </td>
@@ -224,7 +225,7 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d6f0a6d4a2b4591c574d34223b85604.png" alt="Cover for Без консервантов" style="max-width:120px; height:auto;" />
       </td>
@@ -238,12 +239,12 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a> # 93</li>
+            <li> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a> # 8</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>67</td>
       <td>
       </td>
       <td>2004</td>
@@ -266,41 +267,23 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 36</li>
             <li> <a href="{{ "/tags/russian-emo" | relative_url }}">russian emo</a> # 50</li>
-            <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>19</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c5b0cbd48dc45e7de10a0e975ffc780.png" alt="Cover for Психея" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
-      <td>Психея</td>
-      <td>Психея</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>14</td>
-      <td>
-          <img src="https://i.discogs.com/FSp9pnhfZnJyF6_8dh3cgBfZLW0OxlKMKwkZcZ6u878/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MjU1/NTAtMTM4NDczNDIz/NS01OTU5LmpwZWc.jpeg" alt="Cover for Тени Уходят Последней" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2004</td>
-      <td>DeaDKeDы</td>
-      <td>Тени Уходят Последней</td>
+      <td>Полюса</td>
+      <td>Само собой</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
         </ul>
       </td>
       <td>
@@ -309,17 +292,15 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>47</td>
       <td>
-          <img src="https://i.discogs.com/Y8XYgmtFxk7nyAdm5isxED8SSMjNgyfSY4z_agPQATk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTI4/MzIzLTE2Mjk0NjE1/MzEtMzI5My5qcGVn.jpeg" alt="Cover for El Cielo (demo)" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/wy7BA9HeSNwnHxAjHGL23MOXY6hViGXELPR9059JT5E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDQx/OTUtMTI2NjQwNjU0/Mi5qcGVn.jpeg" alt="Cover for I.F.K.2004" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
-      <td>Плакса</td>
-      <td>El Cielo (demo)</td>
+      <td>I.F.K.</td>
+      <td>I.F.K.2004</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a></li>
         </ul>
       </td>
@@ -329,27 +310,7 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
     </tr>
     <tr>
-      <td>39</td>
-      <td>
-          <img src="https://i.discogs.com/JeHiHk3PkDO1fnslbEbWN7jPkdtDJxkoT12f09zZb5Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTY5/OTctMTI3MjczNDQ5/MS5qcGVn.jpeg" alt="Cover for Часто задаваемые вопросы" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2004</td>
-      <td>FAQ</td>
-      <td>Часто задаваемые вопросы</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>46</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/FSp9pnhfZnJyF6_8dh3cgBfZLW0OxlKMKwkZcZ6u878/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MjU1/NTAtMTM4NDczNDIz/NS01OTU5LmpwZWc.jpeg" alt="Cover for Чужое Небо" style="max-width:120px; height:auto;" />
       </td>
@@ -369,15 +330,17 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>62</td>
       <td>
-          <img src="https://i.discogs.com/wy7BA9HeSNwnHxAjHGL23MOXY6hViGXELPR9059JT5E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDQx/OTUtMTI2NjQwNjU0/Mi5qcGVn.jpeg" alt="Cover for I.F.K.2004" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/JeHiHk3PkDO1fnslbEbWN7jPkdtDJxkoT12f09zZb5Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTY5/OTctMTI3MjczNDQ5/MS5qcGVn.jpeg" alt="Cover for Часто задаваемые вопросы" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
-      <td>I.F.K.</td>
-      <td>I.F.K.2004</td>
+      <td>FAQ</td>
+      <td>Часто задаваемые вопросы</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a></li>
         </ul>
       </td>
@@ -387,17 +350,37 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>84</td>
       <td>
+          <img src="https://i.discogs.com/Y8XYgmtFxk7nyAdm5isxED8SSMjNgyfSY4z_agPQATk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTI4/MzIzLTE2Mjk0NjE1/MzEtMzI5My5qcGVn.jpeg" alt="Cover for El Cielo (demo)" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
-      <td>Полюса</td>
-      <td>Само собой</td>
+      <td>Плакса</td>
+      <td>El Cielo (demo)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>
+          <img src="https://i.discogs.com/FSp9pnhfZnJyF6_8dh3cgBfZLW0OxlKMKwkZcZ6u878/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MjU1/NTAtMTM4NDczNDIz/NS01OTU5LmpwZWc.jpeg" alt="Cover for Тени Уходят Последней" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>DeaDKeDы</td>
+      <td>Тени Уходят Последней</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
         </ul>
       </td>
       <td>
@@ -406,7 +389,25 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>95</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c5b0cbd48dc45e7de10a0e975ffc780.png" alt="Cover for Психея" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Психея</td>
+      <td>Психея</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
       <td>
       </td>
       <td>2004-03-14</td>
@@ -423,7 +424,7 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>88</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ec5d9a672d5b3f2820ba8c475b12e9aa.png" alt="Cover for Неизбежность" style="max-width:120px; height:auto;" />
       </td>
@@ -441,7 +442,7 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/D51X7Mt8GzO4R0R3eYTRkcwQ08skdxLgEKdDk684nZs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjQw/MjAzLTE2NzI2NjM4/NTgtMzYxMS5qcGVn.jpeg" alt="Cover for Слышишь?!" style="max-width:120px; height:auto;" />
       </td>
@@ -456,12 +457,29 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 22</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>79</td>
+      <td>
+      </td>
+      <td>2005</td>
+      <td>Louna</td>
+      <td>Mama</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d92e8028a8749fc90bf84b6d743a677.png" alt="Cover for Свобода" style="max-width:120px; height:auto;" />
       </td>
@@ -479,24 +497,7 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
     </tr>
     <tr>
-      <td>22</td>
-      <td>
-      </td>
-      <td>2005</td>
-      <td>Louna</td>
-      <td>Mama</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/98477af41e07b46ff86670e5f2314014.png" alt="Cover for Черта" style="max-width:120px; height:auto;" />
       </td>
@@ -514,7 +515,7 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/JrZP5eE9EFgU2DWKKoglPFUFHZi8ijN40rUC2ZG4b3A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1OTkw/NTQtMTQ4MzQ3MDYy/My01MjEzLmpwZWc.jpeg" alt="Cover for Больше Чем Любовь" style="max-width:120px; height:auto;" />
       </td>
@@ -530,12 +531,12 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 1</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>41</td>
       <td>
       </td>
       <td>2006</td>
@@ -551,29 +552,12 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 90</li>
+            <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 11</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
-      <td>
-      </td>
-      <td>2006</td>
-      <td>Skafandr</td>
-      <td>Убить Голос</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>36</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/Zy6viVRrjcsXTNnFtNz7kmwrr1hqD5aEh9TWiSeRq2k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNjA5/NDctMTMyNzMyOTI0/Ni5qcGVn.jpeg" alt="Cover for INCorporated Rock" style="max-width:120px; height:auto;" />
       </td>
@@ -592,7 +576,24 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>81</td>
+      <td>
+      </td>
+      <td>2006</td>
+      <td>Skafandr</td>
+      <td>Убить Голос</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2d17d8ead5b5ca1e729137fc8300916b.png" alt="Cover for Вечно Прячется Судьба" style="max-width:120px; height:auto;" />
       </td>
@@ -609,7 +610,7 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c8c2d916f7fcef588272dfb12e66726.png" alt="Cover for Шаги По Стеклу" style="max-width:120px; height:auto;" />
       </td>
@@ -633,7 +634,7 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/g9jzKucAMAiucoU_OOAOfLc5ktUsXNUIVTXodZzEsmk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTU4/NjMtMTQ5NDY4NTcw/NS04ODcyLmpwZWc.jpeg" alt="Cover for Дыши" style="max-width:120px; height:auto;" />
       </td>
@@ -649,13 +650,13 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a> # 46</li>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 98</li>
+            <li> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a> # 55</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/K5vu04m_s9ZApJIE6brvzyaQJtsfDY180Ql-995YwE4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Mjg4/NjYtMTM0OTY0MDQ1/MS0yMjI0LmpwZWc.jpeg" alt="Cover for Миллиарды минут" style="max-width:120px; height:auto;" />
       </td>
@@ -677,7 +678,7 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/305da5f6e3754a478a1c72e56ae0ed6a.png" alt="Cover for Dottie Danger" style="max-width:120px; height:auto;" />
       </td>
@@ -696,7 +697,7 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/CBjmwuKCs1N7bEX6AFI9WaRbLjthdleamlxKbJfVc40/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDE5/ODktMTI1Mzk1MzA2/Ny5qcGVn.jpeg" alt="Cover for И Ангелы Ошибаются" style="max-width:120px; height:auto;" />
       </td>
@@ -718,7 +719,7 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2c0f91e92d9f4f79916a58d58b425a4d.png" alt="Cover for Neversmile" style="max-width:120px; height:auto;" />
       </td>
@@ -735,12 +736,55 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 92</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>57</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dc0516aa697d46db93000ace5ef34895.png" alt="Cover for Demo" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>3000 Миль До Рая</td>
+      <td>Demo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-emo" | relative_url }}">russian emo</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/russian-emo" | relative_url }}">russian emo</a> # 38</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/56e2ec84e5384ed698bdc682ef6cf22b.png" alt="Cover for Отторжение" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Paranoid</td>
+      <td>Отторжение</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 70</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/772f07bb976844678b9c35eec392b9fa.png" alt="Cover for Фронт_2008 &quot;За и против&quot; (Pro et Contra)" style="max-width:120px; height:auto;" />
       </td>
@@ -761,86 +805,22 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 41</li>
-            <li> <a href="{{ "/tags/protest" | relative_url }}">protest</a> # 57</li>
+            <li> <a href="{{ "/tags/protest" | relative_url }}">protest</a> # 44</li>
+            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>17</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/56e2ec84e5384ed698bdc682ef6cf22b.png" alt="Cover for Отторжение" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/443fdd775be24121a8ff14b4d8025880.png" alt="Cover for Полгода до весны..." style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
-      <td>Paranoid</td>
-      <td>Отторжение</td>
+      <td>Tracktor Bowling</td>
+      <td>Полгода до весны...</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 29</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>43</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dc0516aa697d46db93000ace5ef34895.png" alt="Cover for Demo" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2007</td>
-      <td>3000 Миль До Рая</td>
-      <td>Demo</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-emo" | relative_url }}">russian emo</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/russian-emo" | relative_url }}">russian emo</a> # 61</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>49</td>
-      <td>
-          <img src="https://i.discogs.com/ahTjkLOksPe0si1qTqXdq-5vbUXkwvsd6k3iljhJUu8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjI3/MjI4LTE1NzAyNzE3/NzItODg0Ny5qcGVn.jpeg" alt="Cover for Только Ты" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2007</td>
-      <td>Dozavtra</td>
-      <td>Только Ты</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>52</td>
-      <td>
-          <img src="https://i.discogs.com/whsMSWV24h-8xJTQJ5PCvjAiUV6-lfxY5N0EckAK0Lg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MTg2/MzItMTQyMzIxODgw/OS0yMzI0LmpwZWc.jpeg" alt="Cover for Medusa&#39;scream [EP]" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2007</td>
-      <td>medusa&#39;scream</td>
-      <td>Medusa&#39;scream [EP]</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a></li>
         </ul>
       </td>
@@ -850,15 +830,16 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>20</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/115a90cfa4db42c9b09d98f15933f88a.png" alt="Cover for Последний Хит Осени (EP)" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/LE-xYidlJX9jSJW_eUWhAszCtOx74UwakPCf238rQY4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNzQx/NDEtMTMyMzQzOTI0/OS5qcGVn.jpeg" alt="Cover for Стеклянные Баррикады Сердец | EP 2006" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
-      <td>3000 Миль До Рая</td>
-      <td>Последний Хит Осени (EP)</td>
+      <td>Radio Cambodia</td>
+      <td>Стеклянные Баррикады Сердец | EP 2006</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a></li>
         </ul>
       </td>
@@ -868,7 +849,7 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/aNsbotnfx7KPEn8G4Xaqo5k-44kqp59rUgd_OG38dHw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MDAw/MTEtMTM3OTM0Njg5/NC0yOTk3LmpwZWc.jpeg" alt="Cover for Каждый Для Кого-то Его Судьба" style="max-width:120px; height:auto;" />
       </td>
@@ -888,16 +869,15 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>40</td>
       <td>
-          <img src="https://i.discogs.com/LE-xYidlJX9jSJW_eUWhAszCtOx74UwakPCf238rQY4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNzQx/NDEtMTMyMzQzOTI0/OS5qcGVn.jpeg" alt="Cover for Стеклянные Баррикады Сердец | EP 2006" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/115a90cfa4db42c9b09d98f15933f88a.png" alt="Cover for Последний Хит Осени (EP)" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
-      <td>Radio Cambodia</td>
-      <td>Стеклянные Баррикады Сердец | EP 2006</td>
+      <td>3000 Миль До Рая</td>
+      <td>Последний Хит Осени (EP)</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a></li>
         </ul>
       </td>
@@ -907,16 +887,17 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>48</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/443fdd775be24121a8ff14b4d8025880.png" alt="Cover for Полгода до весны..." style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/whsMSWV24h-8xJTQJ5PCvjAiUV6-lfxY5N0EckAK0Lg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MTg2/MzItMTQyMzIxODgw/OS0yMzI0LmpwZWc.jpeg" alt="Cover for Medusa&#39;scream [EP]" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
-      <td>Tracktor Bowling</td>
-      <td>Полгода до весны...</td>
+      <td>medusa&#39;scream</td>
+      <td>Medusa&#39;scream [EP]</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a></li>
         </ul>
       </td>
@@ -926,7 +907,27 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>51</td>
+      <td>
+          <img src="https://i.discogs.com/ahTjkLOksPe0si1qTqXdq-5vbUXkwvsd6k3iljhJUu8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjI3/MjI4LTE1NzAyNzE3/NzItODg0Ny5qcGVn.jpeg" alt="Cover for Только Ты" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Dozavtra</td>
+      <td>Только Ты</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/hfy3_4Whi4odi8eAuYPI4mvWIWQRdhYqkzzPwfSxQKc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjE1/ODItMTQwMTMxMDM1/My00NTcwLmpwZWc.jpeg" alt="Cover for Прошу Убей Меня" style="max-width:120px; height:auto;" />
       </td>
@@ -945,7 +946,7 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c44182082f909340055d4ca638ab12d0.png" alt="Cover for Правда?" style="max-width:120px; height:auto;" />
       </td>
@@ -960,12 +961,12 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a> # 97</li>
+            <li> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a> # 4</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/uNLCO-z3pdL4HAHxE0ip2kdLXJ7BNHpt-KPb6igXv2A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDgz/NDktMTM4Mjc5NTcz/MC02NTAyLmpwZWc.jpeg" alt="Cover for Gанеша" style="max-width:120px; height:auto;" />
       </td>
@@ -984,7 +985,7 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>98</td>
       <td>
           <img src="https://i.discogs.com/62gWBg2yx3ZsXYLLpViUCDLtQ19L89tNGx1cbEZIemg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDMz/MzItMTMxNTkwNTc4/NS5qcGVn.jpeg" alt="Cover for Время Вспять" style="max-width:120px; height:auto;" />
       </td>
@@ -1010,7 +1011,7 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f18b807ac67148c2aaf1ec9040672d0c.png" alt="Cover for Тринити" style="max-width:120px; height:auto;" />
       </td>
@@ -1028,7 +1029,7 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9dbfda6f900a0081fd0f5a2f9c00939b.png" alt="Cover for Юность" style="max-width:120px; height:auto;" />
       </td>
@@ -1048,7 +1049,7 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
       </td>
       <td>2007-11-30</td>
@@ -1063,12 +1064,12 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a> # 25</li>
+            <li> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0f69ca1b06324cc68a8a4cc6a9a1e4fb.png" alt="Cover for Horizon 8" style="max-width:120px; height:auto;" />
       </td>
@@ -1088,7 +1089,44 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>33</td>
+      <td>
+          <img src="https://i.discogs.com/TbwBj-1lPvJVcUylozv0TOYUjNk6vFIR9GX6dQ4VRDE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMzA4/MjEtMTQzOTA2NjU5/OC05MDg5LmpwZWc.jpeg" alt="Cover for Дни Равнодушия" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>Soularis</td>
+      <td>Дни Равнодушия</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
+          <img src="https://i.discogs.com/PrY8jjLqWq6d4NfZ3JGzJ59mefAis-uytmlVQCD6_f8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4Mzg2/MDItMTM0NjQ5ODI3/MC04Mzc5LmpwZWc.jpeg" alt="Cover for Atakama" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>Atakama</td>
+      <td>Atakama</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/344d7c56c9a14bafcba46832a1297287.png" alt="Cover for Пустота Внутри Меня" style="max-width:120px; height:auto;" />
       </td>
@@ -1110,44 +1148,7 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
     </tr>
     <tr>
-      <td>65</td>
-      <td>
-          <img src="https://i.discogs.com/PrY8jjLqWq6d4NfZ3JGzJ59mefAis-uytmlVQCD6_f8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4Mzg2/MDItMTM0NjQ5ODI3/MC04Mzc5LmpwZWc.jpeg" alt="Cover for Atakama" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2008</td>
-      <td>Atakama</td>
-      <td>Atakama</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>67</td>
-      <td>
-          <img src="https://i.discogs.com/TbwBj-1lPvJVcUylozv0TOYUjNk6vFIR9GX6dQ4VRDE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMzA4/MjEtMTQzOTA2NjU5/OC05MDg5LmpwZWc.jpeg" alt="Cover for Дни Равнодушия" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2008</td>
-      <td>Soularis</td>
-      <td>Дни Равнодушия</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>78</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fe01733d526f45c3ab860736684431d4.png" alt="Cover for Change The World" style="max-width:120px; height:auto;" />
       </td>
@@ -1164,7 +1165,7 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/yE_4T56cLCoaN5wuKVeY_kxwBF1E20MhdP9zujSehFI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjg5/ODQ0LTE1NDAxMTE0/OTktMjYyOS5wbmc.jpeg" alt="Cover for She Is The Way Of My Memories" style="max-width:120px; height:auto;" />
       </td>
@@ -1184,7 +1185,7 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/1w0PnqQm5kk1vFVmCMwhoSXAPjYJ7fKSoxm7HCGD0Ng/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMzMw/NTUtMTM4NTM5NjU0/OS0xMDk3LmpwZWc.jpeg" alt="Cover for ТЕХНИКА : НЕИСПРАВНА (2009)" style="max-width:120px; height:auto;" />
       </td>
@@ -1207,7 +1208,7 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/VneD1d2tiPhdG6Ts9z332TF8yrUTNlVwHU0XUKJBesw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4OTA3/ODctMTQyODg2NjM5/My05NDQ5LmpwZWc.jpeg" alt="Cover for Марш Красных Роботов" style="max-width:120px; height:auto;" />
       </td>
@@ -1232,17 +1233,15 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>22</td>
       <td>
-          <img src="https://i.discogs.com/AsrQKbaopSa1_Fe_upFrpG6-nUUcuPaWxuvpOPOlFB0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NzUy/OTItMTM3NTEyODQ2/MC02Mjk2LmpwZWc.jpeg" alt="Cover for Твоя игра EP" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/U81Lmh4MTfJHHUezG4Zf8PVUrYXhJTy4EZqMjBS8zp8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzODUz/MDktMTQ3OTY0MDQx/MC02MTMyLmpwZWc.jpeg" alt="Cover for последняя неделя декабря" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
-      <td>ПЛЯЖ</td>
-      <td>Твоя игра EP</td>
+      <td>Ideя Fix</td>
+      <td>последняя неделя декабря</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a></li>
         </ul>
       </td>
@@ -1252,26 +1251,7 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
     </tr>
     <tr>
-      <td>51</td>
-      <td>
-          <img src="https://i.discogs.com/ekySPCo1OmSdjsPoaRPTpvUpxlC7QhXc3aDfn28Vhq8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzc4/NTktMTQxMzAyMTcy/Mi0yMzA5LmpwZWc.jpeg" alt="Cover for Krom!" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2010</td>
-      <td>Dottie Danger</td>
-      <td>Krom!</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>57</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/3wYjmCrsQuCBoNW26WPUEdUMAPXotEYEjT_pqa821JA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTg5/ODMxLTE1Nzc3MjI4/OTgtODE4OS5qcGVn.jpeg" alt="Cover for Калипсо" style="max-width:120px; height:auto;" />
       </td>
@@ -1291,15 +1271,16 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>49</td>
       <td>
-          <img src="https://i.discogs.com/U81Lmh4MTfJHHUezG4Zf8PVUrYXhJTy4EZqMjBS8zp8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzODUz/MDktMTQ3OTY0MDQx/MC02MTMyLmpwZWc.jpeg" alt="Cover for последняя неделя декабря" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/ekySPCo1OmSdjsPoaRPTpvUpxlC7QhXc3aDfn28Vhq8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzc4/NTktMTQxMzAyMTcy/Mi0yMzA5LmpwZWc.jpeg" alt="Cover for Krom!" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
-      <td>Ideя Fix</td>
-      <td>последняя неделя декабря</td>
+      <td>Dottie Danger</td>
+      <td>Krom!</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a></li>
         </ul>
       </td>
@@ -1309,7 +1290,27 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>61</td>
+      <td>
+          <img src="https://i.discogs.com/AsrQKbaopSa1_Fe_upFrpG6-nUUcuPaWxuvpOPOlFB0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NzUy/OTItMTM3NTEyODQ2/MC02Mjk2LmpwZWc.jpeg" alt="Cover for Твоя игра EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010</td>
+      <td>ПЛЯЖ</td>
+      <td>Твоя игра EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/lxGzxT7cgmn6d3UrN-FbAnmCRlSENHrRwvuRhtpDAUE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MDE4/ODItMTM3OTAyNDM5/Ni0zMDkzLmpwZWc.jpeg" alt="Cover for Не Думай, Не Повторяй — Просто Действуй" style="max-width:120px; height:auto;" />
       </td>
@@ -1326,7 +1327,7 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>94</td>
       <td>
           <img src="https://i.discogs.com/UNxGbHHDaFa-40yp6npGgFg-30jJM5lEkTBNTD3IAX4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Nzg0/NDUtMTM0MDAyNzY2/OC00MDkxLmpwZWc.jpeg" alt="Cover for Дайте2" style="max-width:120px; height:auto;" />
       </td>
@@ -1346,7 +1347,7 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a247d200a7c0b0d79fd168e7249061b1.png" alt="Cover for Дверь в подвал" style="max-width:120px; height:auto;" />
       </td>
@@ -1366,31 +1367,13 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 16</li>
-            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 33</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 68</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
-      <td>
-          <img src="https://i.discogs.com/tM-3Sz0M4pw-d95vCgSdvbfE4d51fhoNBXFahzl-oXc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNDA5/NzQtMTUyNTA5ODc0/Ny03ODM4LmpwZWc.jpeg" alt="Cover for Piano Instrumentals" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2012</td>
-      <td>Слот</td>
-      <td>Piano Instrumentals</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>64</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a438016f90b7421aa7e07b4768b67de6.png" alt="Cover for Диатоника" style="max-width:120px; height:auto;" />
       </td>
@@ -1411,7 +1394,25 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>90</td>
+      <td>
+          <img src="https://i.discogs.com/tM-3Sz0M4pw-d95vCgSdvbfE4d51fhoNBXFahzl-oXc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNDA5/NzQtMTUyNTA5ODc0/Ny03ODM4LmpwZWc.jpeg" alt="Cover for Piano Instrumentals" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012</td>
+      <td>Слот</td>
+      <td>Piano Instrumentals</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/556318ea4f50485c9cf4cd9456cfb93b.png" alt="Cover for Песни Осени" style="max-width:120px; height:auto;" />
       </td>
@@ -1430,27 +1431,7 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
     </tr>
     <tr>
-      <td>83</td>
-      <td>
-          <img src="https://i.discogs.com/6l1__S77Tkwa4fjGyK3rd9FWc_q0Yfr-Ffav7IulrtI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0Mzg4/NTgtMTQxOTI0NTgx/Ny05Mjc1LmpwZWc.jpeg" alt="Cover for Акустика" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2014</td>
-      <td>Lumen</td>
-      <td>Акустика</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/6l1__S77Tkwa4fjGyK3rd9FWc_q0Yfr-Ffav7IulrtI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0Mzg4/NTgtMTQxOTI0NTgx/Ny05Mjc1LmpwZWc.jpeg" alt="Cover for Культ пустоты" style="max-width:120px; height:auto;" />
       </td>
@@ -1470,7 +1451,27 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>18</td>
+      <td>
+          <img src="https://i.discogs.com/6l1__S77Tkwa4fjGyK3rd9FWc_q0Yfr-Ffav7IulrtI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0Mzg4/NTgtMTQxOTI0NTgx/Ny05Mjc1LmpwZWc.jpeg" alt="Cover for Акустика" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014</td>
+      <td>Lumen</td>
+      <td>Акустика</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/Ey60ybxLlfE25pWheK6aGKEYjyjda6kah3xiXCftkM0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1ODQx/ODMtMTQyMjUyMjMz/Ny0xMDg5LmpwZWc.jpeg" alt="Cover for Those Days" style="max-width:120px; height:auto;" />
       </td>
@@ -1488,7 +1489,7 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f0f1590e200cd3bbc2af0316be4a36e8.png" alt="Cover for Чёрная гавань" style="max-width:120px; height:auto;" />
       </td>
@@ -1509,7 +1510,7 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/XWItGkeVxdFsv62RJD-361Qcccr1daaINnPlWdM-Qrk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMjU0/NjItMTQzOTQ4OTY4/MC02ODU0LmpwZWc.jpeg" alt="Cover for Всегда 17 – всегда война" style="max-width:120px; height:auto;" />
       </td>
@@ -1529,7 +1530,7 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/104f92daa29da69301582c822b68e876.png" alt="Cover for Бесконечность" style="max-width:120px; height:auto;" />
       </td>
@@ -1550,7 +1551,7 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/KkY_OEXH0hp-3_ygJVLBY606QIl_fLUTok8y8BONz2w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1Mjkw/NjktMTQ2MzQyODU3/NC0yNDE3LmpwZWc.jpeg" alt="Cover for Make It Louder" style="max-width:120px; height:auto;" />
       </td>
@@ -1568,7 +1569,7 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a9027863ae84b42cb8a9fcec14ae0b2.png" alt="Cover for And You Fuck Ashley Moshe!" style="max-width:120px; height:auto;" />
       </td>
@@ -1590,7 +1591,7 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/70138c1b6cd8470094fccf5459ae7f53.png" alt="Cover for Осколки 2.011" style="max-width:120px; height:auto;" />
       </td>
@@ -1612,7 +1613,7 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/FbWIbQxXF18Lz7Pzi9iacLNokDTtU-dwwJEclO1hL_k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDMw/ODcyLTE0OTA0Mjgy/MjAtNzIxNi5qcGVn.jpeg" alt="Cover for Хроника бешеных дней" style="max-width:120px; height:auto;" />
       </td>
@@ -1628,12 +1629,12 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a> # 13</li>
+            <li> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/tzBnm7R8D-gLAviGT3aAQoXXoiHMjCOAfhgJ7DZDLCo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDcw/MTk5LTE1MTY4OTg2/NTYtOTkwNi5qcGVn.jpeg" alt="Cover for Unpublished 2.0" style="max-width:120px; height:auto;" />
       </td>
@@ -1651,7 +1652,7 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/Yb7nH0SRq3FBRKD8NXvOpbCrPlZlVnjbdJdtaUP77TQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTI3/NTMxLTE1NDQ3MDMw/MDQtOTUwMS5qcGVn.jpeg" alt="Cover for XX лет. Избранное" style="max-width:120px; height:auto;" />
       </td>
@@ -1667,12 +1668,12 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a> # 44</li>
+            <li> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a> # 57</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/Zo0ji0_bYBbbg6nn-_-HUPGIT1snHa9fRSMOiRzjO1s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTE4/Nzc1LTE1MjQ4MjA2/NDItOTczNi5qcGVn.jpeg" alt="Cover for Забытое и Найденное" style="max-width:120px; height:auto;" />
       </td>
@@ -1692,7 +1693,7 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/vO2tEi_NLSa0jnttCFYKZPFe4uRPPCFO7m4Tth6Tg7k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjA5/NjE0LTE1Njk5MDUx/MzAtNjM4OS5qcGVn.jpeg" alt="Cover for Тёмные ночи. Бэтмен. Металл." style="max-width:120px; height:auto;" />
       </td>
@@ -1712,25 +1713,7 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
     </tr>
     <tr>
-      <td>72</td>
-      <td>
-          <img src="https://i.discogs.com/YWtHaWgmsAEu_zRadtJsrSbbDyb7uBp5HTW5CTcYnuM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTAx/MjI3LTE1OTI1ODM2/MTMtMTQ3MS5qcGVn.jpeg" alt="Cover for SLOT 1" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2019-09-26</td>
-      <td>Slot</td>
-      <td>SLOT 1</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/YWtHaWgmsAEu_zRadtJsrSbbDyb7uBp5HTW5CTcYnuM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTAx/MjI3LTE1OTI1ODM2/MTMtMTQ3MS5qcGVn.jpeg" alt="Cover for 2 warz" style="max-width:120px; height:auto;" />
       </td>
@@ -1748,7 +1731,25 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>28</td>
+      <td>
+          <img src="https://i.discogs.com/YWtHaWgmsAEu_zRadtJsrSbbDyb7uBp5HTW5CTcYnuM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTAx/MjI3LTE1OTI1ODM2/MTMtMTQ3MS5qcGVn.jpeg" alt="Cover for SLOT 1" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-09-26</td>
+      <td>Slot</td>
+      <td>SLOT 1</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/d2JgvT897s12oHQpAONDKG49dsaVoeAY1WBMMnpqJRg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjQ1/MDQ3LTE1OTUxMzIx/NjctMTQxMC5qcGVn.jpeg" alt="Cover for Покажите Солнце" style="max-width:120px; height:auto;" />
       </td>
@@ -1768,7 +1769,7 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f39c188f46a7d181021435cbd76cb193.png" alt="Cover for Песни Фрайвура" style="max-width:120px; height:auto;" />
       </td>
@@ -1785,12 +1786,12 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 50</li>
+            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 51</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>92</td>
       <td>
       </td>
       <td>2024</td>
@@ -1809,7 +1810,7 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d85dd6e4db50b4bf258cb5caac0b68df.png" alt="Cover for Grizzly" style="max-width:120px; height:auto;" />
       </td>
@@ -1828,61 +1829,15 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>12</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a7ba4653781eb28e831d438661eaeab5.png" alt="Cover for Emily Rose" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>proad</td>
-      <td>Metamorphosing Frequency</td>
+      <td>Emily Rose</td>
+      <td>Emily Rose</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Enjoy Your Summer</td>
-      <td>tonight you</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>8</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/988a01499d0a712c1639c419e0cd2fe5.png" alt="Cover for Анатомия веры (EP)" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>da Vinci Machine</td>
-      <td>Анатомия веры (EP)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a></li>
@@ -1894,18 +1849,16 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>52</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/07c1d900f82949acc98287c2cd40706e.png" alt="Cover for Songs That Make You Happy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/df076becc55c7166f07067663e0a0750.png" alt="Cover for Wasabi" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>2morrow2late</td>
-      <td>Songs That Make You Happy</td>
+      <td>Wasabi</td>
+      <td>Wasabi</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a></li>
         </ul>
       </td>
@@ -1915,19 +1868,19 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>63</td>
       <td>
       </td>
       <td></td>
-      <td>Ашэнотри</td>
-      <td>Ашэнотри</td>
+      <td>Otklonenie</td>
+      <td>Step Into Darkness</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
         </ul>
       </td>
       <td>
@@ -1936,7 +1889,24 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>64</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Николай Воронов</td>
+      <td>Live in Dubna</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6da542ad3b2141838646d88c5a5453c8.png" alt="Cover for Искусственный Интеллект" style="max-width:120px; height:auto;" />
       </td>
@@ -1958,15 +1928,19 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>77</td>
       <td>
       </td>
       <td></td>
-      <td>Николай Воронов</td>
-      <td>Live in Dubna</td>
+      <td>Ашэнотри</td>
+      <td>Ашэнотри</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
         </ul>
       </td>
       <td>
@@ -1975,17 +1949,17 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>82</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/07c1d900f82949acc98287c2cd40706e.png" alt="Cover for Songs That Make You Happy" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>Otklonenie</td>
-      <td>Step Into Darkness</td>
+      <td>2morrow2late</td>
+      <td>Songs That Make You Happy</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a></li>
         </ul>
@@ -1996,16 +1970,18 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>93</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/df076becc55c7166f07067663e0a0750.png" alt="Cover for Wasabi" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/988a01499d0a712c1639c419e0cd2fe5.png" alt="Cover for Анатомия веры (EP)" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>Wasabi</td>
-      <td>Wasabi</td>
+      <td>da Vinci Machine</td>
+      <td>Анатомия веры (EP)</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a></li>
         </ul>
       </td>
@@ -2015,17 +1991,42 @@ Russian alternative encompasses the diverse wave of post-Soviet rock, metal, and
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>97</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a7ba4653781eb28e831d438661eaeab5.png" alt="Cover for Emily Rose" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>Emily Rose</td>
-      <td>Emily Rose</td>
+      <td>Enjoy Your Summer</td>
+      <td>tonight you</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+      </td>
+      <td></td>
+      <td>proad</td>
+      <td>Metamorphosing Frequency</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a></li>
         </ul>
       </td>

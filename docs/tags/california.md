@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T02:06:55.583Z
+date: 2025-12-06T06:32:43.998Z
 permalink: tags/california
 title: california
 ---
 
 ## california
 
-Last updated: <time datetime="2025-12-04T02:06:55.583Z">Thu Dec 04 2025 04:06:55 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T06:32:43.998Z">Sat Dec 06 2025 08:32:43 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -65,10 +65,10 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 69</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 72</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 72</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 72</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 29</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 29</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 29</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -99,13 +99,13 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 53</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 56</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 56</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 57</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 79</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 81</li>
-            <li> <a href="{{ "/tags/british-invasion" | relative_url }}">british invasion</a> # 89</li>
+            <li> <a href="{{ "/tags/british-invasion" | relative_url }}">british invasion</a> # 12</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 20</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 22</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 44</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 45</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 45</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -128,10 +128,10 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 64</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 67</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 67</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 67</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 34</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 34</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 34</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -161,13 +161,13 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 89</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 90</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 90</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 90</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 5</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 7</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 11</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 11</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 11</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 12</li>
             <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 90</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 94</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -214,10 +214,10 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 59</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 62</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 62</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 62</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 39</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 39</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 39</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -240,10 +240,10 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 51</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 54</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 54</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 55</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 46</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 47</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 47</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -268,10 +268,10 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 72</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 75</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 75</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 75</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 26</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 26</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 26</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -298,12 +298,12 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 43</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 46</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 46</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 47</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 74</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 75</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 26</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 27</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 54</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 55</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 55</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -331,14 +331,14 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 1</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 1</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 1</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 1</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 1</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 1</li>
             <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 4</li>
             <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 67</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 100</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 100</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 100</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 100</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 100</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -360,10 +360,10 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 93</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 94</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 94</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 94</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 7</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 7</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 7</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -390,12 +390,12 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 84</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 85</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 85</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 85</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 92</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 93</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 8</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 9</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 16</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 16</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 16</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -418,10 +418,10 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 41</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 44</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 44</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 45</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 56</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 57</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 57</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -446,10 +446,10 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 40</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 43</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 43</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 44</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 57</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 58</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 58</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -476,12 +476,12 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 45</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 48</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 48</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 49</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 76</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 77</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 24</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 25</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 52</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 53</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 53</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -505,11 +505,11 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 33</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 36</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 36</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 37</li>
             <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 52</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 64</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 65</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 65</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -534,11 +534,11 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 77</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 78</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 78</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 78</li>
-            <li> <a href="{{ "/tags/proto-vaporwave" | relative_url }}">proto-vaporwave</a> # 94</li>
+            <li> <a href="{{ "/tags/proto-vaporwave" | relative_url }}">proto-vaporwave</a> # 7</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 23</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 23</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 23</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -560,10 +560,10 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 94</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 95</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 95</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 95</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 6</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 6</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 6</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -586,11 +586,11 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 26</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 63</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 65</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 66</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 66</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 36</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 36</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 36</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 39</li>
+            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -613,10 +613,10 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 98</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 98</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 98</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 98</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 3</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 3</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 3</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -641,11 +641,11 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 88</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 89</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 89</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 89</li>
-            <li> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a> # 89</li>
+            <li> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a> # 11</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 12</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 12</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 12</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -668,10 +668,10 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 83</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 84</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 84</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 84</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 17</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 17</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 17</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -699,13 +699,13 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 15</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 16</li>
             <li> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a> # 19</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 68</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 71</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 71</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 71</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 85</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 86</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 30</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 30</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 30</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -728,10 +728,10 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 46</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 49</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 49</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 50</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 51</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 52</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 52</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -754,10 +754,10 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 79</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 80</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 80</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 80</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 21</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 21</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 21</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -794,7 +794,7 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 3</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -822,10 +822,10 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 42</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 45</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 45</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 46</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 55</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 56</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 56</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -852,12 +852,12 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 48</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 51</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 51</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 52</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 78</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 80</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 21</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 23</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 49</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 50</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 50</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -883,12 +883,12 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 39</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 81</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 82</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 82</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 82</li>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 90</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 19</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 19</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 19</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 20</li>
+            <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 62</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -912,10 +912,10 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 34</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 37</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 37</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 38</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 63</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 64</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 64</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -941,11 +941,11 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 37</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 40</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 40</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 41</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 73</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 28</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 60</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 61</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 61</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -989,11 +989,11 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 95</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 96</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 96</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 96</li>
-            <li> <a href="{{ "/tags/old-school-heavy-metal" | relative_url }}">old-school heavy metal</a> # 100</li>
+            <li> <a href="{{ "/tags/old-school-heavy-metal" | relative_url }}">old-school heavy metal</a> # 1</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 5</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 5</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 5</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -1023,13 +1023,13 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 3</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 3</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 8</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 8</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 8</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 9</li>
             <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 55</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 92</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 93</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 93</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 93</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 98</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1055,10 +1055,10 @@ California music can refer to a variety of musical styles that originated in or 
       <td>
         <ul>
             <li> <a href="{{ "/tags/pagode" | relative_url }}">pagode</a> # 34</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 35</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 38</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 38</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 39</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 62</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 63</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 63</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1082,10 +1082,10 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 50</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 53</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 53</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 54</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 47</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 48</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 48</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1103,7 +1103,7 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 53</li>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 48</li>
             <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 98</li>
         </ul>
       </td>
@@ -1129,10 +1129,10 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 62</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 65</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 65</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 66</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 35</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 35</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 35</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1159,12 +1159,12 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 44</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 47</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 47</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 48</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 75</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 76</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 25</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 26</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 53</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 54</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 54</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1186,10 +1186,10 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 30</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 33</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 33</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 34</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 67</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 68</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 68</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1215,12 +1215,12 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 2</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 2</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 2</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 2</li>
             <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 4</li>
             <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 6</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 99</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 99</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 99</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1248,13 +1248,13 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 31</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 34</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 34</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 35</li>
-            <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 61</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 70</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 71</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 30</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 31</li>
+            <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 40</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 66</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 67</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 67</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1273,8 +1273,8 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 14</li>
             <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 26</li>
-            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1299,10 +1299,10 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 82</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 83</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 83</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 83</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 18</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 18</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 18</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1324,10 +1324,10 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 65</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 68</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 68</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 68</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 33</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 33</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 33</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1350,10 +1350,10 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 90</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 91</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 91</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 91</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 10</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 10</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 10</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1377,9 +1377,9 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 4</li>
             <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 26</li>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 61</li>
-            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 97</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1401,10 +1401,10 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 58</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 61</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 61</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 61</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 40</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 40</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 40</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1429,10 +1429,10 @@ California music can refer to a variety of musical styles that originated in or 
       <td>
         <ul>
             <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 5</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 80</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 81</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 81</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 81</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 20</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 20</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 20</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1458,11 +1458,11 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 58</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 60</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 63</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 63</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 63</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 38</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 38</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 38</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 41</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1484,10 +1484,10 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 55</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 58</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 58</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 58</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 43</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 43</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 43</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1512,10 +1512,10 @@ California music can refer to a variety of musical styles that originated in or 
       <td>
         <ul>
             <li> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a> # 18</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 52</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 55</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 55</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 56</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 45</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 46</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 46</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1538,10 +1538,10 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 39</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 42</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 42</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 43</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 58</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 59</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 59</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1564,10 +1564,10 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 49</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 52</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 52</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 53</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 48</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 49</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 49</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1591,9 +1591,9 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 7</li>
             <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 30</li>
             <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 51</li>
-            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1617,9 +1617,9 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 2</li>
             <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 18</li>
             <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 36</li>
-            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1661,10 +1661,10 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 32</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 35</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 35</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 36</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 65</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 66</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 66</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1687,10 +1687,10 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 70</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 73</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 73</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 73</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 28</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 28</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 28</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1717,13 +1717,13 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 4</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 4</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 9</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 9</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 9</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 10</li>
             <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 65</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 91</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 92</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 92</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 92</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 97</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1757,12 +1757,12 @@ California music can refer to a variety of musical styles that originated in or 
         <ul>
             <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 7</li>
             <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 8</li>
+            <li> <a href="{{ "/tags/y2k-prog" | relative_url }}">y2k prog</a> # 9</li>
             <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 11</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 17</li>
+            <li> <a href="{{ "/tags/stoner-doom" | relative_url }}">stoner doom</a> # 29</li>
             <li> <a href="{{ "/tags/new-prog" | relative_url }}">new prog</a> # 30</li>
-            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 37</li>
-            <li> <a href="{{ "/tags/stoner-doom" | relative_url }}">stoner doom</a> # 72</li>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 84</li>
-            <li> <a href="{{ "/tags/y2k-prog" | relative_url }}">y2k prog</a> # 92</li>
+            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1785,10 +1785,10 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 56</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 59</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 59</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 59</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 42</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 42</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 42</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1812,8 +1812,8 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 24</li>
             <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 54</li>
-            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1836,10 +1836,10 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 57</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 60</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 60</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 60</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 41</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 41</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 41</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1859,8 +1859,8 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 51</li>
-            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 89</li>
+            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 12</li>
+            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1883,8 +1883,8 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 12</li>
             <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 38</li>
-            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1908,10 +1908,10 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 85</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 86</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 86</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 86</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 15</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 15</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 15</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1938,12 +1938,12 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 1</li>
+            <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 1</li>
             <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 3</li>
             <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 4</li>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 17</li>
             <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 38</li>
-            <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 100</li>
-            <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 100</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1965,10 +1965,10 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 66</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 69</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 69</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 69</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 32</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 32</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 32</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1987,8 +1987,8 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 1</li>
             <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 33</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -2007,7 +2007,7 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 60</li>
+            <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -2065,9 +2065,9 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 30</li>
+            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 19</li>
             <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 31</li>
-            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 82</li>
+            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -2087,7 +2087,7 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 80</li>
+            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -2143,7 +2143,7 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 78</li>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -2170,12 +2170,12 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 67</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 70</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 70</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 70</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 84</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 85</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 16</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 17</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 31</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 31</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 31</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -2214,7 +2214,7 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 74</li>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -2253,9 +2253,9 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 7</li>
             <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 21</li>
-            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 79</li>
-            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 94</li>
+            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -2281,10 +2281,10 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 87</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 88</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 88</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 88</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 13</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 13</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 13</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -2325,8 +2325,8 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 89</li>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 90</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 11</li>
+            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -2350,7 +2350,7 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metallic-hardcore" | relative_url }}">metallic hardcore</a> # 73</li>
+            <li> <a href="{{ "/tags/metallic-hardcore" | relative_url }}">metallic hardcore</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -2379,9 +2379,9 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 8</li>
             <li> <a href="{{ "/tags/new-orleans" | relative_url }}">new orleans</a> # 9</li>
             <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 48</li>
-            <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -2408,12 +2408,12 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 47</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 50</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 50</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 51</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 77</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 79</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 22</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 24</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 50</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 51</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 51</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -2458,9 +2458,9 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 46</li>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 83</li>
-            <li> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a> # 90</li>
+            <li> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a> # 11</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 18</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -2484,8 +2484,8 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 22</li>
             <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 51</li>
-            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -2526,9 +2526,9 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 5</li>
             <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 9</li>
             <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 20</li>
-            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -2546,10 +2546,10 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 3</li>
             <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 6</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 11</li>
             <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 27</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 90</li>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -2570,8 +2570,8 @@ California music can refer to a variety of musical styles that originated in or 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 1</li>
             <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 4</li>
-            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -2597,10 +2597,10 @@ California music can refer to a variety of musical styles that originated in or 
       <td>
         <ul>
             <li> <a href="{{ "/tags/pagode" | relative_url }}">pagode</a> # 33</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 36</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 39</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 39</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 40</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 61</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 62</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 62</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 65</li>
         </ul>
       </td>
     </tr>

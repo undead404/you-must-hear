@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T04:27:35.669Z
+date: 2025-12-06T06:41:44.634Z
 permalink: tags/atmospheric-sludge-metal
 title: atmospheric sludge metal
 ---
 
 ## atmospheric sludge metal
 
-Last updated: <time datetime="2025-12-04T04:27:35.669Z">Thu Dec 04 2025 06:27:35 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T06:41:44.634Z">Sat Dec 06 2025 08:41:44 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -44,8 +44,8 @@ A metal subgenre blending sludge&#39;s slow, crushing heaviness and harsh vocals
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 69</li>
-            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 81</li>
+            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 17</li>
+            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 32</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 100</li>
         </ul>
       </td>
@@ -67,8 +67,8 @@ A metal subgenre blending sludge&#39;s slow, crushing heaviness and harsh vocals
       <td>
         <ul>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 12</li>
-            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 70</li>
-            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 88</li>
+            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 13</li>
+            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -126,8 +126,8 @@ A metal subgenre blending sludge&#39;s slow, crushing heaviness and harsh vocals
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 6</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 35</li>
-            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -145,7 +145,7 @@ A metal subgenre blending sludge&#39;s slow, crushing heaviness and harsh vocals
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 28</li>
+            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -166,7 +166,7 @@ A metal subgenre blending sludge&#39;s slow, crushing heaviness and harsh vocals
       <td>
         <ul>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 13</li>
-            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 48</li>
+            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -185,7 +185,7 @@ A metal subgenre blending sludge&#39;s slow, crushing heaviness and harsh vocals
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 74</li>
+            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -226,7 +226,7 @@ A metal subgenre blending sludge&#39;s slow, crushing heaviness and harsh vocals
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 43</li>
+            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 54</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 76</li>
         </ul>
       </td>
@@ -246,7 +246,6 @@ A metal subgenre blending sludge&#39;s slow, crushing heaviness and harsh vocals
       <td>
         <ul>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 59</li>
-            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -265,7 +264,7 @@ A metal subgenre blending sludge&#39;s slow, crushing heaviness and harsh vocals
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 45</li>
+            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -285,7 +284,7 @@ A metal subgenre blending sludge&#39;s slow, crushing heaviness and harsh vocals
       <td>
         <ul>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 15</li>
-            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 41</li>
+            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -305,9 +304,9 @@ A metal subgenre blending sludge&#39;s slow, crushing heaviness and harsh vocals
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 5</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 10</li>
             <li> <a href="{{ "/tags/atmospheric-metal" | relative_url }}">atmospheric metal</a> # 77</li>
-            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -328,7 +327,6 @@ A metal subgenre blending sludge&#39;s slow, crushing heaviness and harsh vocals
         <ul>
             <li> <a href="{{ "/tags/ambient-black-metal" | relative_url }}">ambient black metal</a> # 2</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 14</li>
-            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 44</li>
             <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 84</li>
         </ul>
       </td>
@@ -349,7 +347,7 @@ A metal subgenre blending sludge&#39;s slow, crushing heaviness and harsh vocals
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 10</li>
+            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -391,7 +389,7 @@ A metal subgenre blending sludge&#39;s slow, crushing heaviness and harsh vocals
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 13</li>
+            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -413,7 +411,7 @@ A metal subgenre blending sludge&#39;s slow, crushing heaviness and harsh vocals
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 70</li>
+            <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -432,8 +430,8 @@ A metal subgenre blending sludge&#39;s slow, crushing heaviness and harsh vocals
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 16</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 19</li>
+            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -471,8 +469,8 @@ A metal subgenre blending sludge&#39;s slow, crushing heaviness and harsh vocals
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 43</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 44</li>
-            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -569,7 +567,7 @@ A metal subgenre blending sludge&#39;s slow, crushing heaviness and harsh vocals
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 32</li>
+            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 65</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 84</li>
         </ul>
       </td>
@@ -591,8 +589,8 @@ A metal subgenre blending sludge&#39;s slow, crushing heaviness and harsh vocals
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 10</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 43</li>
-            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -668,8 +666,8 @@ A metal subgenre blending sludge&#39;s slow, crushing heaviness and harsh vocals
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 15</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 41</li>
-            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -725,7 +723,7 @@ A metal subgenre blending sludge&#39;s slow, crushing heaviness and harsh vocals
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 43</li>
+            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -744,7 +742,7 @@ A metal subgenre blending sludge&#39;s slow, crushing heaviness and harsh vocals
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 60</li>
+            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -784,8 +782,8 @@ A metal subgenre blending sludge&#39;s slow, crushing heaviness and harsh vocals
       <td>
         <ul>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 1</li>
+            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 9</li>
             <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 29</li>
-            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -964,7 +962,7 @@ A metal subgenre blending sludge&#39;s slow, crushing heaviness and harsh vocals
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 40</li>
+            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1020,7 +1018,7 @@ A metal subgenre blending sludge&#39;s slow, crushing heaviness and harsh vocals
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 20</li>
+            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 78</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 97</li>
         </ul>
       </td>
@@ -1061,8 +1059,8 @@ A metal subgenre blending sludge&#39;s slow, crushing heaviness and harsh vocals
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 14</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 26</li>
+            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1325,7 +1323,7 @@ A metal subgenre blending sludge&#39;s slow, crushing heaviness and harsh vocals
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 2</li>
+            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1494,7 +1492,6 @@ A metal subgenre blending sludge&#39;s slow, crushing heaviness and harsh vocals
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1591,7 +1588,7 @@ A metal subgenre blending sludge&#39;s slow, crushing heaviness and harsh vocals
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 95</li>
+            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1609,7 +1606,7 @@ A metal subgenre blending sludge&#39;s slow, crushing heaviness and harsh vocals
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 77</li>
+            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1706,7 +1703,7 @@ A metal subgenre blending sludge&#39;s slow, crushing heaviness and harsh vocals
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 3</li>
+            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1768,7 +1765,7 @@ A metal subgenre blending sludge&#39;s slow, crushing heaviness and harsh vocals
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 77</li>
+            <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1790,7 +1787,7 @@ A metal subgenre blending sludge&#39;s slow, crushing heaviness and harsh vocals
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 64</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1830,7 +1827,7 @@ A metal subgenre blending sludge&#39;s slow, crushing heaviness and harsh vocals
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 64</li>
+            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1849,7 +1846,7 @@ A metal subgenre blending sludge&#39;s slow, crushing heaviness and harsh vocals
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 24</li>
+            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1870,7 +1867,7 @@ A metal subgenre blending sludge&#39;s slow, crushing heaviness and harsh vocals
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 73</li>
+            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 28</li>
         </ul>
       </td>
     </tr>
