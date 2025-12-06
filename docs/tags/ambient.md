@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T09:29:25.514Z
+date: 2025-12-05T18:14:46.073Z
 permalink: tags/ambient
 title: ambient
 ---
 
 ## ambient
 
-Last updated: <time datetime="2025-12-03T09:29:25.514Z">Wed Dec 03 2025 11:29:25 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T18:14:46.073Z">Fri Dec 05 2025 20:14:46 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -100,15 +100,15 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       <td>
         <ul>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 10</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 11</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 15</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 18</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 19</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 23</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 27</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 31</li>
-            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 35</li>
-            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 48</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 86</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 90</li>
+            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 52</li>
+            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 66</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 70</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -145,7 +145,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 3</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -165,9 +165,9 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 71</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 90</li>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 97</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 4</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 11</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -185,8 +185,8 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 76</li>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 98</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 3</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -206,7 +206,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 53</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 49</li>
             <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 61</li>
         </ul>
       </td>
@@ -226,7 +226,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 12</li>
+            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -264,7 +264,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 30</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -285,8 +285,8 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 3</li>
             <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 34</li>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -305,8 +305,8 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 98</li>
-            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 99</li>
+            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 2</li>
+            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -328,8 +328,8 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 63</li>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 90</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 11</li>
+            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 37</li>
             <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 97</li>
         </ul>
       </td>
@@ -359,15 +359,15 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 3</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 2</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 3</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 3</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 3</li>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 45</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 70</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 78</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 79</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 99</li>
+            <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 3</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 22</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 23</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 31</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -457,8 +457,8 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 18</li>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 60</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 41</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -499,7 +499,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 50</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -518,8 +518,8 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 21</li>
-            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 80</li>
+            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 17</li>
+            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -556,7 +556,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 45</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -575,7 +575,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 70</li>
+            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -597,7 +597,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 18</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -634,7 +634,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 23</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -712,8 +712,8 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 88</li>
-            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 98</li>
+            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 11</li>
+            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -733,9 +733,9 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 18</li>
             <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 34</li>
             <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 68</li>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -771,7 +771,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 58</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -810,7 +810,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 80</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -847,7 +847,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 81</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -867,7 +867,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 51</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -907,7 +907,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 52</li>
+            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -925,9 +925,9 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 12</li>
             <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 36</li>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 37</li>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 89</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -946,9 +946,9 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/iceland" | relative_url }}">iceland</a> # 73</li>
-            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 100</li>
-            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 100</li>
+            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 1</li>
+            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 1</li>
+            <li> <a href="{{ "/tags/iceland" | relative_url }}">iceland</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -973,9 +973,9 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 52</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 7</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 48</li>
             <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 64</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -993,8 +993,8 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 31</li>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 74</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 25</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1014,8 +1014,9 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/iceland" | relative_url }}">iceland</a> # 17</li>
-            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 56</li>
+            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 22</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 57</li>
+            <li> <a href="{{ "/tags/iceland" | relative_url }}">iceland</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1052,7 +1053,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 26</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1072,7 +1073,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 99</li>
+            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -1093,7 +1094,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 92</li>
+            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1113,7 +1114,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 91</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1172,7 +1173,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 6</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1192,7 +1193,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 79</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1212,8 +1213,8 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 21</li>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 82</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 19</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1304,7 +1305,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 88</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1324,9 +1325,9 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 38</li>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 42</li>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 82</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 19</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 59</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1348,8 +1349,8 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 53</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 82</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 19</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1370,8 +1371,8 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 3</li>
             <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 27</li>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1410,7 +1411,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 80</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1468,7 +1469,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       <td>
         <ul>
             <li> <a href="{{ "/tags/book" | relative_url }}">book</a> # 2</li>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 77</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1487,7 +1488,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oregon" | relative_url }}">oregon</a> # 68</li>
+            <li> <a href="{{ "/tags/oregon" | relative_url }}">oregon</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1509,8 +1510,8 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       <td>
         <ul>
             <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 18</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 20</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 40</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1530,7 +1531,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 93</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1551,7 +1552,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 72</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1572,7 +1573,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 72</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 27</li>
             <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 84</li>
         </ul>
       </td>
@@ -1596,10 +1597,10 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 30</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 76</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 3</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 25</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 71</li>
             <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 93</li>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1620,7 +1621,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 99</li>
+            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -1639,8 +1640,8 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/yoga" | relative_url }}">yoga</a> # 31</li>
             <li> <a href="{{ "/tags/balearic" | relative_url }}">balearic</a> # 41</li>
-            <li> <a href="{{ "/tags/yoga" | relative_url }}">yoga</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1680,8 +1681,8 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 98</li>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 100</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 1</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1700,7 +1701,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 31</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1724,10 +1725,10 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       <td>
         <ul>
             <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 4</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 6</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 14</li>
             <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 15</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 37</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 87</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 95</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1751,8 +1752,9 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       <td>
         <ul>
             <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 1</li>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 83</li>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 93</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 8</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 18</li>
+            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1811,7 +1813,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 98</li>
+            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1831,7 +1833,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 90</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1869,7 +1871,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 95</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -1890,8 +1892,8 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 68</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 97</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 4</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1913,12 +1915,12 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 13</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 22</li>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 35</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 48</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 84</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 98</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 3</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 17</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 52</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 66</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 79</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1943,11 +1945,11 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 3</li>
+            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 4</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 4</li>
             <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 21</li>
-            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 57</li>
-            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 97</li>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 97</li>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 98</li>
+            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1966,7 +1968,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 87</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1988,7 +1990,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 87</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -2008,7 +2010,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 91</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -2029,7 +2031,7 @@ Ambient is a genre focused on atmospheric soundscapes and textures rather than t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 97</li>
+            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 4</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T09:28:53.207Z
+date: 2025-12-05T17:58:46.055Z
 permalink: tags/edm
 title: edm
 ---
 
 ## edm
 
-Last updated: <time datetime="2025-12-03T09:28:53.207Z">Wed Dec 03 2025 11:28:53 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T17:58:46.055Z">Fri Dec 05 2025 19:58:46 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -48,7 +48,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 46</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -94,7 +94,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       <td>
         <ul>
             <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 2</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 51</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -115,7 +115,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 73</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -200,8 +200,8 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 52</li>
-            <li> <a href="{{ "/tags/french-house" | relative_url }}">french house</a> # 98</li>
+            <li> <a href="{{ "/tags/french-house" | relative_url }}">french house</a> # 2</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -223,7 +223,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 58</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -264,8 +264,8 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 91</li>
-            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 98</li>
+            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 3</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -343,7 +343,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 69</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -366,8 +366,8 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 16</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 76</li>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -390,11 +390,12 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 55</li>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 79</li>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 93</li>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 98</li>
-            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 99</li>
+            <li> <a href="{{ "/tags/complextro" | relative_url }}">complextro</a> # 2</li>
+            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 2</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 3</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 8</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 22</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -436,7 +437,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 53</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -450,6 +451,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       <td>Candyman</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/complextro" | relative_url }}">complextro</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/edm" | relative_url }}">edm</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
@@ -461,7 +463,8 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 42</li>
+            <li> <a href="{{ "/tags/complextro" | relative_url }}">complextro</a> # 9</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -500,9 +503,9 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 22</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 32</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 33</li>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 69</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -524,7 +527,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a> # 93</li>
+            <li> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -539,6 +542,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/complextro" | relative_url }}">complextro</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/edm" | relative_url }}">edm</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a></li>
@@ -548,8 +552,9 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 43</li>
-            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 93</li>
+            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 8</li>
+            <li> <a href="{{ "/tags/complextro" | relative_url }}">complextro</a> # 8</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -569,8 +574,8 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 40</li>
-            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 98</li>
+            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 3</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -591,7 +596,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 55</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -613,10 +618,10 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 1</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 1</li>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 63</li>
-            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 99</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 100</li>
+            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 2</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -658,16 +663,16 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       <td>
         <ul>
             <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 2</li>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 4</li>
+            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 3</li>
+            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 3</li>
+            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 3</li>
             <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 4</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 4</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 13</li>
             <li> <a href="{{ "/tags/chill-house" | relative_url }}">chill house</a> # 17</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 22</li>
             <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 38</li>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 88</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 79</li>
             <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 96</li>
-            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 98</li>
-            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 98</li>
-            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -710,8 +715,8 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       <td>
         <ul>
             <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 2</li>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 63</li>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 96</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 5</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -751,7 +756,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 21</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -774,11 +779,11 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 1</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 2</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 21</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 26</li>
             <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 40</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 75</li>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 80</li>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 99</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -799,7 +804,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 57</li>
+            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -819,8 +824,8 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 17</li>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 52</li>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 49</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -835,6 +840,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/complextro" | relative_url }}">complextro</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drumstep" | relative_url }}">drumstep</a></li>
@@ -848,10 +854,11 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 28</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 73</li>
-            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 92</li>
-            <li> <a href="{{ "/tags/drumstep" | relative_url }}">drumstep</a> # 97</li>
+            <li> <a href="{{ "/tags/drumstep" | relative_url }}">drumstep</a> # 4</li>
+            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 9</li>
+            <li> <a href="{{ "/tags/complextro" | relative_url }}">complextro</a> # 10</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 28</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -955,8 +962,8 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
         <ul>
             <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 2</li>
             <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 7</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 40</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 75</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 26</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1003,10 +1010,10 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 38</li>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 46</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 78</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 79</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 21</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 22</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 55</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1034,13 +1041,13 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 13</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 27</li>
-            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 44</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 46</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 47</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 47</li>
             <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 49</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 54</li>
+            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 56</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 74</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1079,7 +1086,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 25</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1134,8 +1141,8 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 44</li>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 94</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 7</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1195,9 +1202,9 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 28</li>
-            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 74</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 82</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 19</li>
+            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 27</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1239,7 +1246,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 46</li>
+            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1302,8 +1309,8 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 19</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 47</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1325,8 +1332,8 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 52</li>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 71</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 30</li>
+            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1347,12 +1354,12 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 51</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 70</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 72</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 77</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 95</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 98</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 3</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 6</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 24</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 29</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 30</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1372,7 +1379,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 66</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1396,7 +1403,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 59</li>
+            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1457,8 +1464,8 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 91</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 98</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 3</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1520,7 +1527,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 63</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1539,7 +1546,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a> # 78</li>
+            <li> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1599,7 +1606,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       <td>
         <ul>
             <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 9</li>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 69</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1625,11 +1632,11 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 28</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 45</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 79</li>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 89</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 91</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 10</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 12</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 22</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 56</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1670,7 +1677,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 90</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1695,7 +1702,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       <td>
         <ul>
             <li> <a href="{{ "/tags/chillstep" | relative_url }}">chillstep</a> # 9</li>
-            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 47</li>
+            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1735,7 +1742,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 81</li>
+            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1762,8 +1769,8 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       <td>
         <ul>
             <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 7</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 35</li>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 49</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 52</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1785,8 +1792,8 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 54</li>
-            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 96</li>
+            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 4</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1871,7 +1878,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       <td>
         <ul>
             <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 3</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 60</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1891,8 +1898,8 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 15</li>
             <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 60</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1912,8 +1919,8 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 8</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 93</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 8</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1944,13 +1951,13 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 8</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 20</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 21</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 22</li>
             <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 22</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 67</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 76</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 81</li>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 93</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 22</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 25</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1969,8 +1976,8 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       <td>
         <ul>
             <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 9</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 22</li>
-            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 39</li>
+            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 61</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1997,8 +2004,8 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       <td>
         <ul>
             <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 4</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 48</li>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 70</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 31</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -2017,7 +2024,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 53</li>
+            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -2057,7 +2064,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 18</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -2080,9 +2087,9 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 84</li>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 89</li>
-            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 91</li>
+            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 10</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 12</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -2105,8 +2112,8 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       <td>
         <ul>
             <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 1</li>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 27</li>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 93</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 8</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -2128,7 +2135,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       <td>
         <ul>
             <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 1</li>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 76</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -2147,8 +2154,8 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 6</li>
             <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 10</li>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -2169,7 +2176,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 95</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -2191,7 +2198,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       <td>
         <ul>
             <li> <a href="{{ "/tags/melodic-house" | relative_url }}">melodic house</a> # 3</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 61</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -2214,7 +2221,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 23</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -2234,8 +2241,8 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       <td>
         <ul>
             <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 6</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 30</li>
-            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 57</li>
+            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 44</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -2257,7 +2264,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 92</li>
+            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 9</li>
         </ul>
       </td>
     </tr>

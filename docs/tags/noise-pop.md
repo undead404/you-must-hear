@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T09:28:41.747Z
+date: 2025-12-05T17:42:45.933Z
 permalink: tags/noise-pop
 title: noise pop
 ---
 
 ## noise pop
 
-Last updated: <time datetime="2025-12-03T09:28:41.747Z">Wed Dec 03 2025 11:28:41 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T17:42:45.933Z">Fri Dec 05 2025 19:42:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -46,7 +46,7 @@ Noise pop is a subgenre of alternative rock music that originated in the 1980s. 
       <td>
         <ul>
             <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 21</li>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 80</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -82,7 +82,7 @@ Noise pop is a subgenre of alternative rock music that originated in the 1980s. 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 46</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -156,8 +156,8 @@ Noise pop is a subgenre of alternative rock music that originated in the 1980s. 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 43</li>
             <li> <a href="{{ "/tags/space-rock-revival" | relative_url }}">space rock revival</a> # 55</li>
+            <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -212,9 +212,8 @@ Noise pop is a subgenre of alternative rock music that originated in the 1980s. 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 30</li>
-            <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 42</li>
             <li> <a href="{{ "/tags/space-rock-revival" | relative_url }}">space rock revival</a> # 58</li>
+            <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -275,8 +274,8 @@ Noise pop is a subgenre of alternative rock music that originated in the 1980s. 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 2</li>
             <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 11</li>
-            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -300,8 +299,8 @@ Noise pop is a subgenre of alternative rock music that originated in the 1980s. 
       <td>
         <ul>
             <li> <a href="{{ "/tags/real-post-hardcore" | relative_url }}">real post-hardcore</a> # 2</li>
-            <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 49</li>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 56</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 45</li>
+            <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -323,7 +322,7 @@ Noise pop is a subgenre of alternative rock music that originated in the 1980s. 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 13</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -435,13 +434,13 @@ Noise pop is a subgenre of alternative rock music that originated in the 1980s. 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 11</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 3</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 15</li>
             <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 19</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 55</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 67</li>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 76</li>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 86</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 98</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 25</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 34</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 45</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -459,7 +458,7 @@ Noise pop is a subgenre of alternative rock music that originated in the 1980s. 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 68</li>
+            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -477,11 +476,11 @@ Noise pop is a subgenre of alternative rock music that originated in the 1980s. 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 42</li>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 82</li>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 85</li>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 89</li>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 90</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 11</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 12</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 16</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 19</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -511,10 +510,10 @@ Noise pop is a subgenre of alternative rock music that originated in the 1980s. 
       <td>
         <ul>
             <li> <a href="{{ "/tags/space-rock-revival" | relative_url }}">space rock revival</a> # 1</li>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 7</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 56</li>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 87</li>
-            <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 92</li>
+            <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 9</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 14</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 45</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -606,9 +605,10 @@ Noise pop is a subgenre of alternative rock music that originated in the 1980s. 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 7</li>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 10</li>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 82</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 19</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 90</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 93</li>
+            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -661,7 +661,7 @@ Noise pop is a subgenre of alternative rock music that originated in the 1980s. 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 45</li>
+            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -890,8 +890,8 @@ Noise pop is a subgenre of alternative rock music that originated in the 1980s. 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 9</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 72</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 29</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -950,9 +950,9 @@ Noise pop is a subgenre of alternative rock music that originated in the 1980s. 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 41</li>
-            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 55</li>
-            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 87</li>
+            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 14</li>
+            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 46</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1067,11 +1067,11 @@ Noise pop is a subgenre of alternative rock music that originated in the 1980s. 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 6</li>
             <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 8</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 27</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 29</li>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 38</li>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 95</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 72</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1130,9 +1130,9 @@ Noise pop is a subgenre of alternative rock music that originated in the 1980s. 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 38</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 4</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 63</li>
             <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 71</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1150,9 +1150,9 @@ Noise pop is a subgenre of alternative rock music that originated in the 1980s. 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 43</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 46</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 60</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 41</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 52</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 58</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 68</li>
         </ul>
       </td>
@@ -1171,8 +1171,8 @@ Noise pop is a subgenre of alternative rock music that originated in the 1980s. 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 60</li>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 71</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 30</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1191,7 +1191,7 @@ Noise pop is a subgenre of alternative rock music that originated in the 1980s. 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 35</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1249,7 +1249,7 @@ Noise pop is a subgenre of alternative rock music that originated in the 1980s. 
       <td>
         <ul>
             <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 17</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 78</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1270,8 +1270,8 @@ Noise pop is a subgenre of alternative rock music that originated in the 1980s. 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 12</li>
             <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 27</li>
-            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1294,8 +1294,8 @@ Noise pop is a subgenre of alternative rock music that originated in the 1980s. 
       <td>
         <ul>
             <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 3</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 9</li>
             <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 25</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1392,7 +1392,7 @@ Noise pop is a subgenre of alternative rock music that originated in the 1980s. 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 99</li>
+            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -1432,8 +1432,8 @@ Noise pop is a subgenre of alternative rock music that originated in the 1980s. 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 94</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 97</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 4</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1470,7 +1470,7 @@ Noise pop is a subgenre of alternative rock music that originated in the 1980s. 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 83</li>
+            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1489,11 +1489,11 @@ Noise pop is a subgenre of alternative rock music that originated in the 1980s. 
       <td>
         <ul>
             <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 5</li>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 14</li>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 40</li>
-            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 50</li>
-            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 85</li>
-            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 90</li>
+            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 11</li>
+            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 16</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 49</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 58</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 86</li>
             <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 97</li>
         </ul>
       </td>
@@ -1512,9 +1512,9 @@ Noise pop is a subgenre of alternative rock music that originated in the 1980s. 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 34</li>
-            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 35</li>
-            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 39</li>
+            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 62</li>
+            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 65</li>
+            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 67</li>
             <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 80</li>
         </ul>
       </td>
@@ -1541,7 +1541,7 @@ Noise pop is a subgenre of alternative rock music that originated in the 1980s. 
       <td>
         <ul>
             <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 24</li>
-            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 49</li>
+            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1562,8 +1562,8 @@ Noise pop is a subgenre of alternative rock music that originated in the 1980s. 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 41</li>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 63</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 38</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1584,8 +1584,8 @@ Noise pop is a subgenre of alternative rock music that originated in the 1980s. 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 85</li>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 94</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 7</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1607,12 +1607,12 @@ Noise pop is a subgenre of alternative rock music that originated in the 1980s. 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 65</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 71</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 73</li>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 79</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 98</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 99</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 2</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 3</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 22</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 28</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 30</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1636,8 +1636,8 @@ Noise pop is a subgenre of alternative rock music that originated in the 1980s. 
       <td>
         <ul>
             <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 17</li>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 25</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 66</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 24</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1657,8 +1657,8 @@ Noise pop is a subgenre of alternative rock music that originated in the 1980s. 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 80</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 99</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 2</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1699,7 +1699,7 @@ Noise pop is a subgenre of alternative rock music that originated in the 1980s. 
       <td>
         <ul>
             <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 5</li>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 78</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1720,7 +1720,7 @@ Noise pop is a subgenre of alternative rock music that originated in the 1980s. 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 29</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1740,8 +1740,8 @@ Noise pop is a subgenre of alternative rock music that originated in the 1980s. 
       <td>
         <ul>
             <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 15</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 24</li>
             <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 70</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1802,10 +1802,10 @@ Noise pop is a subgenre of alternative rock music that originated in the 1980s. 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 40</li>
-            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 54</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 77</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 91</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 10</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 24</li>
+            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 47</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1841,12 +1841,12 @@ Noise pop is a subgenre of alternative rock music that originated in the 1980s. 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 5</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 13</li>
             <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 18</li>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 37</li>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 52</li>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 65</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 88</li>
-            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 96</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 36</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 49</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1865,7 +1865,7 @@ Noise pop is a subgenre of alternative rock music that originated in the 1980s. 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 24</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1889,11 +1889,11 @@ Noise pop is a subgenre of alternative rock music that originated in the 1980s. 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/noise-punk" | relative_url }}">noise punk</a> # 1</li>
             <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 1</li>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 96</li>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 99</li>
-            <li> <a href="{{ "/tags/noise-punk" | relative_url }}">noise punk</a> # 100</li>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 100</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 1</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 2</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1912,7 +1912,7 @@ Noise pop is a subgenre of alternative rock music that originated in the 1980s. 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 77</li>
+            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 23</li>
             <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 85</li>
         </ul>
       </td>
@@ -1953,7 +1953,7 @@ Noise pop is a subgenre of alternative rock music that originated in the 1980s. 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 75</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1974,7 +1974,7 @@ Noise pop is a subgenre of alternative rock music that originated in the 1980s. 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 43</li>
+            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1996,7 +1996,7 @@ Noise pop is a subgenre of alternative rock music that originated in the 1980s. 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 23</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -2042,10 +2042,10 @@ Noise pop is a subgenre of alternative rock music that originated in the 1980s. 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 13</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 7</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 26</li>
             <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 28</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 75</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 94</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 87</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T09:29:37.189Z
+date: 2025-12-05T18:32:26.576Z
 permalink: tags/unplugged
 title: unplugged
 ---
 
 ## unplugged
 
-Last updated: <time datetime="2025-12-03T09:29:37.189Z">Wed Dec 03 2025 11:29:37 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T18:32:26.576Z">Fri Dec 05 2025 20:32:26 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -177,8 +177,8 @@ Unplugged music refers to live performances or recordings where artists play aco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gypsy" | relative_url }}">gypsy</a> # 92</li>
-            <li> <a href="{{ "/tags/gypsy-jazz" | relative_url }}">gypsy jazz</a> # 100</li>
+            <li> <a href="{{ "/tags/gypsy-jazz" | relative_url }}">gypsy jazz</a> # 1</li>
+            <li> <a href="{{ "/tags/gypsy" | relative_url }}">gypsy</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -197,7 +197,7 @@ Unplugged music refers to live performances or recordings where artists play aco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 25</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -219,7 +219,7 @@ Unplugged music refers to live performances or recordings where artists play aco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 7</li>
+            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -369,7 +369,7 @@ Unplugged music refers to live performances or recordings where artists play aco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 32</li>
+            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -568,7 +568,7 @@ Unplugged music refers to live performances or recordings where artists play aco
       <td>
         <ul>
             <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 14</li>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 70</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -589,7 +589,7 @@ Unplugged music refers to live performances or recordings where artists play aco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 20</li>
+            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -790,7 +790,7 @@ Unplugged music refers to live performances or recordings where artists play aco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 48</li>
+            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -830,10 +830,10 @@ Unplugged music refers to live performances or recordings where artists play aco
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 9</li>
             <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 17</li>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 66</li>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 67</li>
-            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 92</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 34</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -946,10 +946,10 @@ Unplugged music refers to live performances or recordings where artists play aco
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 10</li>
             <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 18</li>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 65</li>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 66</li>
-            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 91</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 35</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1089,7 +1089,7 @@ Unplugged music refers to live performances or recordings where artists play aco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hymns" | relative_url }}">hymns</a> # 67</li>
+            <li> <a href="{{ "/tags/hymns" | relative_url }}">hymns</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1129,7 +1129,7 @@ Unplugged music refers to live performances or recordings where artists play aco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 44</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1427,7 +1427,7 @@ Unplugged music refers to live performances or recordings where artists play aco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/austria" | relative_url }}">austria</a> # 85</li>
+            <li> <a href="{{ "/tags/austria" | relative_url }}">austria</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1450,7 +1450,7 @@ Unplugged music refers to live performances or recordings where artists play aco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 21</li>
+            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1470,7 +1470,7 @@ Unplugged music refers to live performances or recordings where artists play aco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/austria" | relative_url }}">austria</a> # 84</li>
+            <li> <a href="{{ "/tags/austria" | relative_url }}">austria</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1615,7 +1615,7 @@ Unplugged music refers to live performances or recordings where artists play aco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hamburg" | relative_url }}">hamburg</a> # 89</li>
+            <li> <a href="{{ "/tags/hamburg" | relative_url }}">hamburg</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -1637,9 +1637,9 @@ Unplugged music refers to live performances or recordings where artists play aco
       <td>
         <ul>
             <li> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a> # 3</li>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 19</li>
-            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 31</li>
-            <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 48</li>
+            <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 53</li>
+            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 70</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 82</li>
         </ul>
       </td>
     </tr>

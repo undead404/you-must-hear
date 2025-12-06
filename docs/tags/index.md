@@ -1,18 +1,25 @@
 ---
 category: list
-date: 2025-12-05T17:25:54.492Z
+date: 2025-12-05T18:32:26.576Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-12-05T17:25:54.492Z">Fri Dec 05 2025 19:25:54 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T18:32:26.576Z">Fri Dec 05 2025 20:32:26 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [unplugged]({{ "tags/unplugged" | relative_url }}) | <time datetime="2025-12-05T18:32:26.576Z">Fri Dec 05 2025 20:32:26 GMT+0200 (Eastern European Standard Time)</time> |
+| [ambient]({{ "tags/ambient" | relative_url }}) | <time datetime="2025-12-05T18:14:46.073Z">Fri Dec 05 2025 20:14:46 GMT+0200 (Eastern European Standard Time)</time> |
+| [atmospheric doom metal]({{ "tags/atmospheric-doom-metal" | relative_url }}) | <time datetime="2025-12-05T18:14:08.657Z">Fri Dec 05 2025 20:14:08 GMT+0200 (Eastern European Standard Time)</time> |
+| [edm]({{ "tags/edm" | relative_url }}) | <time datetime="2025-12-05T17:58:46.055Z">Fri Dec 05 2025 19:58:46 GMT+0200 (Eastern European Standard Time)</time> |
+| [east coast rap]({{ "tags/east-coast-rap" | relative_url }}) | <time datetime="2025-12-05T17:58:03.262Z">Fri Dec 05 2025 19:58:03 GMT+0200 (Eastern European Standard Time)</time> |
+| [noise pop]({{ "tags/noise-pop" | relative_url }}) | <time datetime="2025-12-05T17:42:45.933Z">Fri Dec 05 2025 19:42:45 GMT+0200 (Eastern European Standard Time)</time> |
+| [stand-up comedy]({{ "tags/stand-up-comedy" | relative_url }}) | <time datetime="2025-12-05T17:42:06.314Z">Fri Dec 05 2025 19:42:06 GMT+0200 (Eastern European Standard Time)</time> |
 | [ambient dub]({{ "tags/ambient-dub" | relative_url }}) | <time datetime="2025-12-05T17:25:54.492Z">Fri Dec 05 2025 19:25:54 GMT+0200 (Eastern European Standard Time)</time> |
 | [c-pop]({{ "tags/c-pop" | relative_url }}) | <time datetime="2025-12-05T17:09:45.987Z">Fri Dec 05 2025 19:09:45 GMT+0200 (Eastern European Standard Time)</time> |
 | [nyhc]({{ "tags/nyhc" | relative_url }}) | <time datetime="2025-12-05T17:09:30.437Z">Fri Dec 05 2025 19:09:30 GMT+0200 (Eastern European Standard Time)</time> |
@@ -1370,10 +1377,3 @@ Last updated: <time datetime="2025-12-05T17:25:54.492Z">Fri Dec 05 2025 19:25:54
 | [indie electronic]({{ "tags/indie-electronic" | relative_url }}) | <time datetime="2025-12-03T09:46:12.325Z">Wed Dec 03 2025 11:46:12 GMT+0200 (Eastern European Standard Time)</time> |
 | [west coast rap]({{ "tags/west-coast-rap" | relative_url }}) | <time datetime="2025-12-03T09:45:40.187Z">Wed Dec 03 2025 11:45:40 GMT+0200 (Eastern European Standard Time)</time> |
 | [metalcore]({{ "tags/metalcore" | relative_url }}) | <time datetime="2025-12-03T09:29:42.566Z">Wed Dec 03 2025 11:29:42 GMT+0200 (Eastern European Standard Time)</time> |
-| [unplugged]({{ "tags/unplugged" | relative_url }}) | <time datetime="2025-12-03T09:29:37.189Z">Wed Dec 03 2025 11:29:37 GMT+0200 (Eastern European Standard Time)</time> |
-| [ambient]({{ "tags/ambient" | relative_url }}) | <time datetime="2025-12-03T09:29:25.514Z">Wed Dec 03 2025 11:29:25 GMT+0200 (Eastern European Standard Time)</time> |
-| [atmospheric doom metal]({{ "tags/atmospheric-doom-metal" | relative_url }}) | <time datetime="2025-12-03T09:29:20.114Z">Wed Dec 03 2025 11:29:20 GMT+0200 (Eastern European Standard Time)</time> |
-| [edm]({{ "tags/edm" | relative_url }}) | <time datetime="2025-12-03T09:28:53.207Z">Wed Dec 03 2025 11:28:53 GMT+0200 (Eastern European Standard Time)</time> |
-| [east coast rap]({{ "tags/east-coast-rap" | relative_url }}) | <time datetime="2025-12-03T09:28:48.027Z">Wed Dec 03 2025 11:28:48 GMT+0200 (Eastern European Standard Time)</time> |
-| [noise pop]({{ "tags/noise-pop" | relative_url }}) | <time datetime="2025-12-03T09:28:41.747Z">Wed Dec 03 2025 11:28:41 GMT+0200 (Eastern European Standard Time)</time> |
-| [stand-up comedy]({{ "tags/stand-up-comedy" | relative_url }}) | <time datetime="2025-12-03T09:28:36.312Z">Wed Dec 03 2025 11:28:36 GMT+0200 (Eastern European Standard Time)</time> |
