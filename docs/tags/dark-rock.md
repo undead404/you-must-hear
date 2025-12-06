@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T09:27:30.077Z
+date: 2025-12-05T16:52:20.670Z
 permalink: tags/dark-rock
 title: dark rock
 ---
 
 ## dark rock
 
-Last updated: <time datetime="2025-12-03T09:27:30.077Z">Wed Dec 03 2025 11:27:30 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T16:52:20.670Z">Fri Dec 05 2025 18:52:20 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -83,8 +83,8 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 37</li>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 61</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 40</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -104,9 +104,9 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 1</li>
             <li> <a href="{{ "/tags/love-metal" | relative_url }}">love metal</a> # 11</li>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 70</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 31</li>
+            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -127,8 +127,8 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       <td>
         <ul>
             <li> <a href="{{ "/tags/love-metal" | relative_url }}">love metal</a> # 10</li>
-            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 22</li>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 76</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 25</li>
+            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -148,8 +148,8 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 94</li>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 100</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 1</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -192,8 +192,8 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-metal" | relative_url }}">dark metal</a> # 7</li>
-            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 66</li>
+            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 35</li>
+            <li> <a href="{{ "/tags/dark-metal" | relative_url }}">dark metal</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -217,8 +217,8 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 66</li>
-            <li> <a href="{{ "/tags/j-pixie" | relative_url }}">j-pixie</a> # 79</li>
+            <li> <a href="{{ "/tags/j-pixie" | relative_url }}">j-pixie</a> # 22</li>
+            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -336,7 +336,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       <td>
         <ul>
             <li> <a href="{{ "/tags/love-metal" | relative_url }}">love metal</a> # 7</li>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 48</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -355,7 +355,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 53</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -450,7 +450,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 13</li>
+            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -489,9 +489,9 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 11</li>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 56</li>
-            <li> <a href="{{ "/tags/progressive-power-metal" | relative_url }}">progressive power metal</a> # 63</li>
+            <li> <a href="{{ "/tags/progressive-power-metal" | relative_url }}">progressive power metal</a> # 38</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 45</li>
+            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -586,8 +586,8 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 95</li>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 98</li>
+            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 6</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -666,7 +666,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 30</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 70</li>
             <li> <a href="{{ "/tags/love-metal" | relative_url }}">love metal</a> # 97</li>
         </ul>
       </td>
@@ -686,8 +686,8 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 42</li>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 98</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 3</li>
+            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -785,7 +785,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 42</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -825,7 +825,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 51</li>
+            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 49</li>
             <li> <a href="{{ "/tags/deathrock" | relative_url }}">deathrock</a> # 89</li>
         </ul>
       </td>
@@ -845,9 +845,9 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 29</li>
             <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 32</li>
-            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 65</li>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 71</li>
+            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -895,8 +895,8 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-metal" | relative_url }}">dark metal</a> # 88</li>
-            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 91</li>
+            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 10</li>
+            <li> <a href="{{ "/tags/dark-metal" | relative_url }}">dark metal</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -935,7 +935,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anthem-emo" | relative_url }}">anthem emo</a> # 20</li>
+            <li> <a href="{{ "/tags/anthem-emo" | relative_url }}">anthem emo</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -958,7 +958,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 43</li>
+            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -976,8 +976,8 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/anthem-emo" | relative_url }}">anthem emo</a> # 35</li>
             <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 44</li>
-            <li> <a href="{{ "/tags/anthem-emo" | relative_url }}">anthem emo</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1077,7 +1077,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a> # 98</li>
+            <li> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1117,7 +1117,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a> # 32</li>
+            <li> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1154,7 +1154,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-rock" | relative_url }}">ambient rock</a> # 61</li>
+            <li> <a href="{{ "/tags/ambient-rock" | relative_url }}">ambient rock</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1231,7 +1231,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anthem-emo" | relative_url }}">anthem emo</a> # 33</li>
+            <li> <a href="{{ "/tags/anthem-emo" | relative_url }}">anthem emo</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1290,7 +1290,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 29</li>
+            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1466,7 +1466,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anthem-emo" | relative_url }}">anthem emo</a> # 32</li>
+            <li> <a href="{{ "/tags/anthem-emo" | relative_url }}">anthem emo</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1509,7 +1509,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 21</li>
+            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1616,7 +1616,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 26</li>
+            <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1844,8 +1844,8 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       <td>
         <ul>
             <li> <a href="{{ "/tags/love-metal" | relative_url }}">love metal</a> # 21</li>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 25</li>
-            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 29</li>
+            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 72</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1875,6 +1875,27 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
     </tr>
     <tr>
+      <td>25</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/acd444154dac98f45b7147a7ac759974.png" alt="Cover for Lament" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Lacrimosa</td>
+      <td>Lament</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/chamber-rock" | relative_url }}">chamber rock</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chamber-rock" | relative_url }}">chamber rock</a> # 14</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e84b5bb1aadf93cfdbc6c26c8ade2bf5.png" alt="Cover for Greatest Lovesongs Vol. 666" style="max-width:120px; height:auto;" />
@@ -1891,7 +1912,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       <td>
         <ul>
             <li> <a href="{{ "/tags/love-metal" | relative_url }}">love metal</a> # 12</li>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 64</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1921,7 +1942,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a> # 86</li>
+            <li> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1960,7 +1981,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       <td>
         <ul>
             <li> <a href="{{ "/tags/love-metal" | relative_url }}">love metal</a> # 6</li>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 33</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1995,8 +2016,8 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 13</li>
-            <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 66</li>
+            <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 35</li>
+            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -2041,7 +2062,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 32</li>
+            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -2064,7 +2085,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 59</li>
+            <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -2091,7 +2112,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 52</li>
+            <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -2118,7 +2139,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 36</li>
+            <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -2145,26 +2166,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 30</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>25</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/acd444154dac98f45b7147a7ac759974.png" alt="Cover for Lament" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Lacrimosa</td>
-      <td>Lament</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
+            <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 71</li>
         </ul>
       </td>
     </tr>

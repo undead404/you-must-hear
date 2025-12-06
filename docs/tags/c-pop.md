@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T09:27:46.511Z
+date: 2025-12-05T17:09:45.987Z
 permalink: tags/c-pop
 title: c-pop
 ---
 
 ## c-pop
 
-Last updated: <time datetime="2025-12-03T09:27:46.511Z">Wed Dec 03 2025 11:27:46 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T17:09:45.987Z">Fri Dec 05 2025 19:09:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -82,7 +82,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 39</li>
+            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -120,6 +120,8 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/taiwanese" | relative_url }}">taiwanese</a> # 63</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -218,8 +220,8 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 21</li>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 77</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 20</li>
+            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -238,8 +240,8 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 58</li>
-            <li> <a href="{{ "/tags/taiwanese" | relative_url }}">taiwanese</a> # 59</li>
+            <li> <a href="{{ "/tags/taiwanese" | relative_url }}">taiwanese</a> # 37</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -258,7 +260,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 4</li>
+            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -276,6 +278,8 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 48</li>
+            <li> <a href="{{ "/tags/taiwanese" | relative_url }}">taiwanese</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -312,7 +316,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 5</li>
+            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -335,8 +339,8 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/taiwanese" | relative_url }}">taiwanese</a> # 69</li>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 70</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 26</li>
+            <li> <a href="{{ "/tags/taiwanese" | relative_url }}">taiwanese</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -360,8 +364,8 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/taiwanese" | relative_url }}">taiwanese</a> # 93</li>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 95</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 3</li>
+            <li> <a href="{{ "/tags/taiwanese" | relative_url }}">taiwanese</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -384,7 +388,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 27</li>
+            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -408,8 +412,8 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 98</li>
-            <li> <a href="{{ "/tags/taiwanese" | relative_url }}">taiwanese</a> # 98</li>
+            <li> <a href="{{ "/tags/taiwanese" | relative_url }}">taiwanese</a> # 1</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -471,8 +475,8 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 89</li>
-            <li> <a href="{{ "/tags/taiwanese" | relative_url }}">taiwanese</a> # 89</li>
+            <li> <a href="{{ "/tags/taiwanese" | relative_url }}">taiwanese</a> # 8</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -495,8 +499,8 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 78</li>
-            <li> <a href="{{ "/tags/taiwanese" | relative_url }}">taiwanese</a> # 78</li>
+            <li> <a href="{{ "/tags/taiwanese" | relative_url }}">taiwanese</a> # 19</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -514,9 +518,8 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 10</li>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 100</li>
-            <li> <a href="{{ "/tags/taiwanese" | relative_url }}">taiwanese</a> # 100</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 53</li>
+            <li> <a href="{{ "/tags/taiwanese" | relative_url }}">taiwanese</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -560,8 +563,8 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/taiwanese" | relative_url }}">taiwanese</a> # 68</li>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 69</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 27</li>
+            <li> <a href="{{ "/tags/taiwanese" | relative_url }}">taiwanese</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -582,8 +585,8 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/taiwanese" | relative_url }}">taiwanese</a> # 74</li>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 75</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 22</li>
+            <li> <a href="{{ "/tags/taiwanese" | relative_url }}">taiwanese</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -606,8 +609,8 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 83</li>
-            <li> <a href="{{ "/tags/taiwanese" | relative_url }}">taiwanese</a> # 85</li>
+            <li> <a href="{{ "/tags/taiwanese" | relative_url }}">taiwanese</a> # 12</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -625,9 +628,8 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 5</li>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 99</li>
-            <li> <a href="{{ "/tags/taiwanese" | relative_url }}">taiwanese</a> # 99</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 49</li>
+            <li> <a href="{{ "/tags/taiwanese" | relative_url }}">taiwanese</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -717,7 +719,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 7</li>
+            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -795,9 +797,9 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 54</li>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 87</li>
-            <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 95</li>
+            <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 6</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 10</li>
+            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -821,8 +823,8 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 90</li>
-            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 98</li>
+            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 3</li>
+            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -862,8 +864,8 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/taiwanese" | relative_url }}">taiwanese</a> # 92</li>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 94</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 4</li>
+            <li> <a href="{{ "/tags/taiwanese" | relative_url }}">taiwanese</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -904,7 +906,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 85</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -927,8 +929,8 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 63</li>
-            <li> <a href="{{ "/tags/taiwanese" | relative_url }}">taiwanese</a> # 64</li>
+            <li> <a href="{{ "/tags/taiwanese" | relative_url }}">taiwanese</a> # 32</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -964,7 +966,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/taiwanese" | relative_url }}">taiwanese</a> # 81</li>
+            <li> <a href="{{ "/tags/taiwanese" | relative_url }}">taiwanese</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1021,7 +1023,6 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1044,8 +1045,8 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 79</li>
-            <li> <a href="{{ "/tags/taiwanese" | relative_url }}">taiwanese</a> # 80</li>
+            <li> <a href="{{ "/tags/taiwanese" | relative_url }}">taiwanese</a> # 17</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1086,8 +1087,8 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/taiwanese" | relative_url }}">taiwanese</a> # 95</li>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 96</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 2</li>
+            <li> <a href="{{ "/tags/taiwanese" | relative_url }}">taiwanese</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1108,7 +1109,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 44</li>
+            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1129,7 +1130,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 56</li>
+            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1172,7 +1173,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 55</li>
+            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1215,7 +1216,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 88</li>
+            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1235,7 +1236,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 99</li>
+            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -1254,8 +1255,8 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 20</li>
-            <li> <a href="{{ "/tags/taiwanese" | relative_url }}">taiwanese</a> # 46</li>
+            <li> <a href="{{ "/tags/taiwanese" | relative_url }}">taiwanese</a> # 50</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1275,7 +1276,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 82</li>
+            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1298,9 +1299,10 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 47</li>
+            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 5</li>
             <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 49</li>
-            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 95</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 53</li>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1320,7 +1322,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 94</li>
+            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -1361,7 +1363,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 98</li>
+            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1384,7 +1386,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 96</li>
+            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1423,7 +1425,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 100</li>
+            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -1444,7 +1446,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 93</li>
+            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1463,7 +1465,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 66</li>
+            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1485,8 +1487,8 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 65</li>
-            <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 97</li>
+            <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 4</li>
+            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1510,8 +1512,8 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 57</li>
-            <li> <a href="{{ "/tags/taiwanese" | relative_url }}">taiwanese</a> # 88</li>
+            <li> <a href="{{ "/tags/taiwanese" | relative_url }}">taiwanese</a> # 9</li>
+            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1534,8 +1536,8 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 86</li>
-            <li> <a href="{{ "/tags/taiwanese" | relative_url }}">taiwanese</a> # 87</li>
+            <li> <a href="{{ "/tags/taiwanese" | relative_url }}">taiwanese</a> # 10</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1559,7 +1561,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 47</li>
+            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1580,7 +1582,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 42</li>
+            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1603,7 +1605,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 37</li>
+            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1625,8 +1627,8 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 82</li>
-            <li> <a href="{{ "/tags/taiwanese" | relative_url }}">taiwanese</a> # 84</li>
+            <li> <a href="{{ "/tags/taiwanese" | relative_url }}">taiwanese</a> # 13</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1650,7 +1652,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 33</li>
+            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1669,7 +1671,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 20</li>
+            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1688,7 +1690,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 18</li>
+            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1707,7 +1709,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 76</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1730,9 +1732,9 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 15</li>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 73</li>
-            <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 91</li>
+            <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 10</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 23</li>
+            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1754,7 +1756,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 14</li>
+            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1777,8 +1779,8 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/taiwanese" | relative_url }}">taiwanese</a> # 70</li>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 71</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 25</li>
+            <li> <a href="{{ "/tags/taiwanese" | relative_url }}">taiwanese</a> # 26</li>
         </ul>
       </td>
     </tr>
