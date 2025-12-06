@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T18:16:30.708Z
+date: 2025-12-06T03:19:45.942Z
 permalink: tags/pop-punk
 title: pop punk
 ---
 
 ## pop punk
 
-Last updated: <time datetime="2025-12-03T18:16:30.708Z">Wed Dec 03 2025 20:16:30 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T03:19:45.942Z">Sat Dec 06 2025 05:19:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -45,8 +45,8 @@ Pop punk is a high-energy fusion of punk rock&#39;s fast tempos and rebellious a
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 1</li>
             <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 31</li>
-            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -64,8 +64,8 @@ Pop punk is a high-energy fusion of punk rock&#39;s fast tempos and rebellious a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 36</li>
-            <li> <a href="{{ "/tags/skate-punk" | relative_url }}">skate punk</a> # 45</li>
+            <li> <a href="{{ "/tags/skate-punk" | relative_url }}">skate punk</a> # 56</li>
+            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -84,7 +84,7 @@ Pop punk is a high-energy fusion of punk rock&#39;s fast tempos and rebellious a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 83</li>
+            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -104,7 +104,7 @@ Pop punk is a high-energy fusion of punk rock&#39;s fast tempos and rebellious a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 12</li>
+            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -124,7 +124,7 @@ Pop punk is a high-energy fusion of punk rock&#39;s fast tempos and rebellious a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 98</li>
+            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -144,7 +144,7 @@ Pop punk is a high-energy fusion of punk rock&#39;s fast tempos and rebellious a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 75</li>
+            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -200,7 +200,7 @@ Pop punk is a high-energy fusion of punk rock&#39;s fast tempos and rebellious a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 86</li>
+            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -220,7 +220,7 @@ Pop punk is a high-energy fusion of punk rock&#39;s fast tempos and rebellious a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 88</li>
+            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -364,7 +364,7 @@ Pop punk is a high-energy fusion of punk rock&#39;s fast tempos and rebellious a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 87</li>
+            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -384,7 +384,7 @@ Pop punk is a high-energy fusion of punk rock&#39;s fast tempos and rebellious a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 84</li>
+            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -424,7 +424,7 @@ Pop punk is a high-energy fusion of punk rock&#39;s fast tempos and rebellious a
       <td>
         <ul>
             <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 8</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 44</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -461,7 +461,7 @@ Pop punk is a high-energy fusion of punk rock&#39;s fast tempos and rebellious a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 81</li>
+            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -481,7 +481,7 @@ Pop punk is a high-energy fusion of punk rock&#39;s fast tempos and rebellious a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 18</li>
+            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -520,6 +520,7 @@ Pop punk is a high-energy fusion of punk rock&#39;s fast tempos and rebellious a
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/punk-revival" | relative_url }}">punk revival</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -539,8 +540,8 @@ Pop punk is a high-energy fusion of punk rock&#39;s fast tempos and rebellious a
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 2</li>
             <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 28</li>
-            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -560,7 +561,7 @@ Pop punk is a high-energy fusion of punk rock&#39;s fast tempos and rebellious a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 64</li>
+            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -696,10 +697,10 @@ Pop punk is a high-energy fusion of punk rock&#39;s fast tempos and rebellious a
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 9</li>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 42</li>
             <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 47</li>
             <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 49</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -718,7 +719,7 @@ Pop punk is a high-energy fusion of punk rock&#39;s fast tempos and rebellious a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 31</li>
+            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -738,7 +739,7 @@ Pop punk is a high-energy fusion of punk rock&#39;s fast tempos and rebellious a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 40</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -756,7 +757,7 @@ Pop punk is a high-energy fusion of punk rock&#39;s fast tempos and rebellious a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 70</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -849,7 +850,7 @@ Pop punk is a high-energy fusion of punk rock&#39;s fast tempos and rebellious a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 3</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -925,7 +926,7 @@ Pop punk is a high-energy fusion of punk rock&#39;s fast tempos and rebellious a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 56</li>
+            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -999,7 +1000,7 @@ Pop punk is a high-energy fusion of punk rock&#39;s fast tempos and rebellious a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 76</li>
+            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1018,7 +1019,7 @@ Pop punk is a high-energy fusion of punk rock&#39;s fast tempos and rebellious a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 73</li>
+            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1208,7 +1209,7 @@ Pop punk is a high-energy fusion of punk rock&#39;s fast tempos and rebellious a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 35</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1231,8 +1232,8 @@ Pop punk is a high-energy fusion of punk rock&#39;s fast tempos and rebellious a
         <ul>
             <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 3</li>
             <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 6</li>
+            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 12</li>
             <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 17</li>
-            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1273,9 +1274,9 @@ Pop punk is a high-energy fusion of punk rock&#39;s fast tempos and rebellious a
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 6</li>
+            <li> <a href="{{ "/tags/rock-opera" | relative_url }}">rock opera</a> # 16</li>
             <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 72</li>
-            <li> <a href="{{ "/tags/rock-opera" | relative_url }}">rock opera</a> # 85</li>
-            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1313,8 +1314,8 @@ Pop punk is a high-energy fusion of punk rock&#39;s fast tempos and rebellious a
       <td>
         <ul>
             <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 6</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 9</li>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 83</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1391,9 +1392,9 @@ Pop punk is a high-energy fusion of punk rock&#39;s fast tempos and rebellious a
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 17</li>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 23</li>
             <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 23</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1432,7 +1433,7 @@ Pop punk is a high-energy fusion of punk rock&#39;s fast tempos and rebellious a
       <td>
         <ul>
             <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 29</li>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 37</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1489,10 +1490,10 @@ Pop punk is a high-energy fusion of punk rock&#39;s fast tempos and rebellious a
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 14</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 15</li>
             <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 23</li>
             <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 51</li>
-            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 85</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1533,10 +1534,10 @@ Pop punk is a high-energy fusion of punk rock&#39;s fast tempos and rebellious a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 78</li>
-            <li> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a> # 99</li>
-            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 100</li>
-            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 100</li>
+            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 1</li>
+            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 1</li>
+            <li> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a> # 2</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1592,10 +1593,10 @@ Pop punk is a high-energy fusion of punk rock&#39;s fast tempos and rebellious a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 5</li>
+            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 43</li>
             <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 46</li>
-            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 57</li>
             <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 80</li>
+            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1678,10 +1679,10 @@ Pop punk is a high-energy fusion of punk rock&#39;s fast tempos and rebellious a
       <td>
         <ul>
             <li> <a href="{{ "/tags/doomergaze" | relative_url }}">doomergaze</a> # 6</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 22</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 6</li>
+            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 8</li>
             <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 78</li>
-            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 92</li>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 95</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1722,8 +1723,8 @@ Pop punk is a high-energy fusion of punk rock&#39;s fast tempos and rebellious a
       <td>
         <ul>
             <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 12</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 24</li>
             <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 33</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1816,14 +1817,14 @@ Pop punk is a high-energy fusion of punk rock&#39;s fast tempos and rebellious a
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 1</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 1</li>
             <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 1</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 21</li>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 63</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 3</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 6</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 38</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 80</li>
             <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 85</li>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 95</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 98</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 100</li>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1898,7 +1899,7 @@ Pop punk is a high-energy fusion of punk rock&#39;s fast tempos and rebellious a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 80</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1920,11 +1921,11 @@ Pop punk is a high-energy fusion of punk rock&#39;s fast tempos and rebellious a
         <ul>
             <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 2</li>
             <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 8</li>
-            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 16</li>
-            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 71</li>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 72</li>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 74</li>
-            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 93</li>
+            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 8</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 27</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 29</li>
+            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 30</li>
+            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1965,8 +1966,8 @@ Pop punk is a high-energy fusion of punk rock&#39;s fast tempos and rebellious a
       <td>
         <ul>
             <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 4</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 29</li>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 40</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 72</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T12:05:32.450Z
+date: 2025-12-06T02:35:45.914Z
 permalink: tags/denmark
 title: denmark
 ---
 
 ## denmark
 
-Last updated: <time datetime="2025-12-03T12:05:32.450Z">Wed Dec 03 2025 14:05:32 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T02:35:45.914Z">Sat Dec 06 2025 04:35:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -119,7 +119,7 @@ The denmark tag encompasses music created by Danish artists, reflecting the coun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 18</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -270,7 +270,7 @@ The denmark tag encompasses music created by Danish artists, reflecting the coun
       <td>
         <ul>
             <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 19</li>
-            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 60</li>
+            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -393,9 +393,9 @@ The denmark tag encompasses music created by Danish artists, reflecting the coun
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 5</li>
             <li> <a href="{{ "/tags/new-prog" | relative_url }}">new prog</a> # 5</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 51</li>
-            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 96</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -425,7 +425,7 @@ The denmark tag encompasses music created by Danish artists, reflecting the coun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 37</li>
+            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -445,7 +445,7 @@ The denmark tag encompasses music created by Danish artists, reflecting the coun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/iceland" | relative_url }}">iceland</a> # 5</li>
+            <li> <a href="{{ "/tags/iceland" | relative_url }}">iceland</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -467,7 +467,7 @@ The denmark tag encompasses music created by Danish artists, reflecting the coun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 82</li>
+            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -506,7 +506,7 @@ The denmark tag encompasses music created by Danish artists, reflecting the coun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 86</li>
+            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -546,7 +546,7 @@ The denmark tag encompasses music created by Danish artists, reflecting the coun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 73</li>
+            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -579,8 +579,8 @@ The denmark tag encompasses music created by Danish artists, reflecting the coun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 67</li>
-            <li> <a href="{{ "/tags/braindance" | relative_url }}">braindance</a> # 87</li>
+            <li> <a href="{{ "/tags/braindance" | relative_url }}">braindance</a> # 14</li>
+            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -608,8 +608,8 @@ The denmark tag encompasses music created by Danish artists, reflecting the coun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 28</li>
-            <li> <a href="{{ "/tags/braindance" | relative_url }}">braindance</a> # 70</li>
+            <li> <a href="{{ "/tags/braindance" | relative_url }}">braindance</a> # 31</li>
+            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -633,7 +633,7 @@ The denmark tag encompasses music created by Danish artists, reflecting the coun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/slide-guitar" | relative_url }}">slide guitar</a> # 36</li>
+            <li> <a href="{{ "/tags/slide-guitar" | relative_url }}">slide guitar</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -657,7 +657,7 @@ The denmark tag encompasses music created by Danish artists, reflecting the coun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/slide-guitar" | relative_url }}">slide guitar</a> # 34</li>
+            <li> <a href="{{ "/tags/slide-guitar" | relative_url }}">slide guitar</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -719,7 +719,7 @@ The denmark tag encompasses music created by Danish artists, reflecting the coun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 65</li>
+            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -765,7 +765,7 @@ The denmark tag encompasses music created by Danish artists, reflecting the coun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 41</li>
+            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -958,7 +958,7 @@ The denmark tag encompasses music created by Danish artists, reflecting the coun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 17</li>
+            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1018,7 +1018,7 @@ The denmark tag encompasses music created by Danish artists, reflecting the coun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 67</li>
+            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1040,7 +1040,7 @@ The denmark tag encompasses music created by Danish artists, reflecting the coun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 69</li>
+            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 32</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 98</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 99</li>
         </ul>
@@ -1065,7 +1065,7 @@ The denmark tag encompasses music created by Danish artists, reflecting the coun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 1</li>
+            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1085,7 +1085,7 @@ The denmark tag encompasses music created by Danish artists, reflecting the coun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 88</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1109,7 +1109,7 @@ The denmark tag encompasses music created by Danish artists, reflecting the coun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-melodic-death-metal" | relative_url }}">modern melodic death metal</a> # 35</li>
+            <li> <a href="{{ "/tags/modern-melodic-death-metal" | relative_url }}">modern melodic death metal</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1130,7 +1130,7 @@ The denmark tag encompasses music created by Danish artists, reflecting the coun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 20</li>
+            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1287,8 +1287,8 @@ The denmark tag encompasses music created by Danish artists, reflecting the coun
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 16</li>
             <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 31</li>
-            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1329,7 +1329,7 @@ The denmark tag encompasses music created by Danish artists, reflecting the coun
       <td>
         <ul>
             <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 17</li>
-            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 64</li>
+            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1351,8 +1351,8 @@ The denmark tag encompasses music created by Danish artists, reflecting the coun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 8</li>
-            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 82</li>
+            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 81</li>
+            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1374,7 +1374,7 @@ The denmark tag encompasses music created by Danish artists, reflecting the coun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/death-thrash-metal" | relative_url }}">death-thrash metal</a> # 19</li>
+            <li> <a href="{{ "/tags/death-thrash-metal" | relative_url }}">death-thrash metal</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1424,9 +1424,9 @@ The denmark tag encompasses music created by Danish artists, reflecting the coun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 6</li>
-            <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 56</li>
-            <li> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a> # 62</li>
+            <li> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a> # 39</li>
+            <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 45</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1454,7 +1454,7 @@ The denmark tag encompasses music created by Danish artists, reflecting the coun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 5</li>
+            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1499,7 +1499,7 @@ The denmark tag encompasses music created by Danish artists, reflecting the coun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 56</li>
+            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1521,8 +1521,8 @@ The denmark tag encompasses music created by Danish artists, reflecting the coun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 22</li>
-            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 55</li>
+            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 54</li>
+            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1621,7 +1621,7 @@ The denmark tag encompasses music created by Danish artists, reflecting the coun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 38</li>
+            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1662,8 +1662,8 @@ The denmark tag encompasses music created by Danish artists, reflecting the coun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 26</li>
-            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 51</li>
+            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 50</li>
+            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1748,8 +1748,8 @@ The denmark tag encompasses music created by Danish artists, reflecting the coun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 10</li>
-            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 73</li>
+            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 72</li>
+            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1815,7 +1815,7 @@ The denmark tag encompasses music created by Danish artists, reflecting the coun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 35</li>
+            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1853,10 +1853,10 @@ The denmark tag encompasses music created by Danish artists, reflecting the coun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 15</li>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 32</li>
-            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 59</li>
-            <li> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a> # 77</li>
+            <li> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a> # 24</li>
+            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 42</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 69</li>
+            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1884,8 +1884,8 @@ The denmark tag encompasses music created by Danish artists, reflecting the coun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 9</li>
-            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 39</li>
+            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 62</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1910,7 +1910,7 @@ The denmark tag encompasses music created by Danish artists, reflecting the coun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 14</li>
+            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -2113,8 +2113,8 @@ The denmark tag encompasses music created by Danish artists, reflecting the coun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 21</li>
-            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 56</li>
+            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 55</li>
+            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 80</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T13:32:49.819Z
+date: 2025-12-06T02:47:45.980Z
 permalink: tags/dark-pop
 title: dark pop
 ---
 
 ## dark pop
 
-Last updated: <time datetime="2025-12-03T13:32:49.819Z">Wed Dec 03 2025 15:32:49 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T02:47:45.980Z">Sat Dec 06 2025 04:47:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -70,10 +70,10 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 23</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 67</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 90</li>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 96</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 5</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 11</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 34</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -114,7 +114,7 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 71</li>
+            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -167,8 +167,8 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       <td>
         <ul>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 6</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 31</li>
             <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 39</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 70</li>
             <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 92</li>
         </ul>
       </td>
@@ -212,10 +212,10 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 34</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 24</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 49</li>
             <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 64</li>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 76</li>
+            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -239,8 +239,8 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 23</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 55</li>
+            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -296,15 +296,15 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 6</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 17</li>
             <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 28</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 30</li>
             <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 42</li>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 46</li>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 56</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 71</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 45</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 55</li>
             <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 78</li>
             <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 92</li>
-            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 95</li>
             <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 100</li>
         </ul>
       </td>
@@ -357,8 +357,8 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 81</li>
-            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 88</li>
+            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 13</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -415,13 +415,13 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       <td>
         <ul>
             <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 14</li>
+            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 18</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 29</li>
-            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 34</li>
             <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 40</li>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 42</li>
             <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 43</li>
-            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 44</li>
-            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 83</li>
+            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 56</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 59</li>
+            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -447,8 +447,8 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 64</li>
-            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 75</li>
+            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 26</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -483,8 +483,8 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 27</li>
-            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 71</li>
+            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 30</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -509,7 +509,7 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 11</li>
+            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -553,8 +553,8 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 30</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 63</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -590,8 +590,8 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 57</li>
-            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 73</li>
+            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 28</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -633,7 +633,7 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 86</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -670,12 +670,12 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 6</li>
             <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 8</li>
+            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 10</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 11</li>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 42</li>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 82</li>
-            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 91</li>
-            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 93</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 19</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -723,10 +723,10 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 15</li>
+            <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 14</li>
             <li> <a href="{{ "/tags/drag" | relative_url }}">drag</a> # 25</li>
-            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 66</li>
-            <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 87</li>
+            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 35</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -788,11 +788,11 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 1</li>
             <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 4</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 8</li>
             <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 31</li>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 39</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 93</li>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -949,8 +949,8 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 66</li>
-            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 83</li>
+            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 19</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -987,8 +987,8 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       <td>
         <ul>
             <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 3</li>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 43</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 60</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 41</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 58</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 68</li>
         </ul>
       </td>
@@ -1056,7 +1056,7 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 1</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1104,16 +1104,17 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       <td>
         <ul>
             <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 1</li>
+            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 3</li>
+            <li> <a href="{{ "/tags/nordic-folk" | relative_url }}">nordic folk</a> # 3</li>
             <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 8</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 9</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 9</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 64</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 77</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 80</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 85</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 88</li>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 90</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 92</li>
-            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 95</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 11</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 13</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 16</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 21</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 24</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1155,15 +1156,17 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nordic-folk" | relative_url }}">nordic folk</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 5</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 35</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 61</li>
+            <li> <a href="{{ "/tags/nordic-folk" | relative_url }}">nordic folk</a> # 1</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 40</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 66</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1236,7 +1239,7 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 8</li>
             <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 24</li>
             <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 32</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 67</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1300,7 +1303,7 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       <td>
         <ul>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 25</li>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 44</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 57</li>
             <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 66</li>
         </ul>
       </td>
@@ -1361,9 +1364,9 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 68</li>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 72</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 83</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 18</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 29</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1429,8 +1432,7 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 72</li>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 74</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 27</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 77</li>
         </ul>
       </td>
@@ -1459,7 +1461,7 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       <td>
         <ul>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 24</li>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 33</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1514,8 +1516,8 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 25</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 57</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 44</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1540,7 +1542,7 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       <td>
         <ul>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 9</li>
-            <li> <a href="{{ "/tags/futurepop" | relative_url }}">futurepop</a> # 49</li>
+            <li> <a href="{{ "/tags/futurepop" | relative_url }}">futurepop</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1571,8 +1573,8 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 29</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 35</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 72</li>
             <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 96</li>
         </ul>
       </td>
@@ -1592,10 +1594,8 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 19</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 15</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 70</li>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 80</li>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1613,12 +1613,12 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 22</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 51</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 62</li>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 77</li>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 78</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 96</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 5</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 23</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 24</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 39</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 49</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1644,7 +1644,7 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       <td>
         <ul>
             <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 23</li>
-            <li> <a href="{{ "/tags/futurepop" | relative_url }}">futurepop</a> # 27</li>
+            <li> <a href="{{ "/tags/futurepop" | relative_url }}">futurepop</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1696,11 +1696,11 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 2</li>
+            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 3</li>
             <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 4</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 45</li>
-            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 82</li>
-            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 98</li>
-            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 99</li>
+            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 19</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1727,7 +1727,7 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 16</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1764,8 +1764,8 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 57</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 69</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 32</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1813,7 +1813,7 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 67</li>
+            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1881,11 +1881,11 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 6</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 18</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 23</li>
             <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 41</li>
             <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 54</li>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 78</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1917,12 +1917,12 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a> # 2</li>
             <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 24</li>
             <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 30</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 31</li>
             <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 37</li>
-            <li> <a href="{{ "/tags/new-jack-swing" | relative_url }}">new jack swing</a> # 61</li>
-            <li> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a> # 99</li>
+            <li> <a href="{{ "/tags/new-jack-swing" | relative_url }}">new jack swing</a> # 40</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1972,10 +1972,10 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 5</li>
             <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 5</li>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 62</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 65</li>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 96</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 36</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -2000,7 +2000,7 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/futurepop" | relative_url }}">futurepop</a> # 26</li>
+            <li> <a href="{{ "/tags/futurepop" | relative_url }}">futurepop</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -2267,8 +2267,8 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 12</li>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 76</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -2294,9 +2294,9 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 20</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 27</li>
             <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 42</li>
+            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -2373,11 +2373,11 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 28</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 34</li>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 80</li>
-            <li> <a href="{{ "/tags/mother" | relative_url }}">mother</a> # 94</li>
-            <li> <a href="{{ "/tags/punk-pop" | relative_url }}">punk pop</a> # 99</li>
+            <li> <a href="{{ "/tags/punk-pop" | relative_url }}">punk pop</a> # 2</li>
+            <li> <a href="{{ "/tags/mother" | relative_url }}">mother</a> # 7</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 21</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 67</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -2396,10 +2396,10 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       <td>
         <ul>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 2</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 12</li>
             <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 19</li>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 22</li>
             <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 46</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 89</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -2435,8 +2435,8 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 23</li>
             <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 51</li>
-            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -2459,8 +2459,8 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 65</li>
-            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 82</li>
+            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 20</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -2510,8 +2510,8 @@ Dark pop is a subgenre of pop music that is characterized by moody, atmospheric,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 32</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 52</li>
+            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 69</li>
             <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 86</li>
         </ul>
       </td>

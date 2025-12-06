@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T11:48:54.831Z
+date: 2025-12-06T02:32:45.887Z
 permalink: tags/requiem
 title: requiem
 ---
 
 ## requiem
 
-Last updated: <time datetime="2025-12-03T11:48:54.831Z">Wed Dec 03 2025 13:48:54 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T02:32:45.887Z">Sat Dec 06 2025 04:32:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ A requiem is a solemn musical composition originally created for Catholic funera
   </thead>
   <tbody>
     <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/vCOx7ZXLcnOChFdVUMhLbPVIQstRed5y2Cp-gZnuvvU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzk5/NzQzLTE1MjI1OTc0/NjYtODM1OS5qcGVn.jpeg" alt="Cover for Mozart: Requiem" style="max-width:120px; height:auto;" />
       </td>
@@ -47,7 +47,7 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/DIVI2lNRQVFXjjS3NSWktFb6UG5PuakRG6fblLlcnk8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyOTAy/MDYtMTQ3ODAzMjM3/My0xNjI0LmpwZWc.jpeg" alt="Cover for Mozart: Requiem" style="max-width:120px; height:auto;" />
       </td>
@@ -67,7 +67,7 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/vQ0fNZRZ04kldTqQDzsSqpgC6HhGyHACw38JSDVIqWY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjEy/NDk3LTE1NTAwNDQx/NTMtOTcwMC5qcGVn.jpeg" alt="Cover for VERDI: Messa da Requiem (Schwarzkopf, Di Stefano, De Sabata) (1954)" style="max-width:120px; height:auto;" />
       </td>
@@ -84,7 +84,7 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/EyL7-31Tyx9BoUrGz-cwEoLvLC1OsrdwESKWfIuchi0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ3/MzE1LTE0OTc2MjY2/ODktOTc2Ny5qcGVn.jpeg" alt="Cover for Stravinsky, I.: Canticum Sacrum &#x2F; Agon &#x2F; Requiem Canticles" style="max-width:120px; height:auto;" />
       </td>
@@ -97,12 +97,12 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/conductor" | relative_url }}">conductor</a> # 25</li>
+            <li> <a href="{{ "/tags/conductor" | relative_url }}">conductor</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/WrUvBTGrSn0YxWmvbsCWZm2N7BqaRXQBP8RmpGWwP6o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1Mzg4/MzItMTQ0NTE2MzQz/NS04NDU0LmpwZWc.jpeg" alt="Cover for Requiem - Live Recording" style="max-width:120px; height:auto;" />
       </td>
@@ -120,26 +120,7 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
     </tr>
     <tr>
-      <td>77</td>
-      <td>
-          <img src="https://i.discogs.com/7xX60PahzoZDSUYxn8o5DbEB3hYyqSvsI0p7PsN9Vb8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTYz/NTA5LTE1NDkxODkx/MTAtOTAyNy5qcGVn.jpeg" alt="Cover for Requiem d-moll (KV 626)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1967-09-13</td>
-      <td>Wolfgang Amadeus Mozart</td>
-      <td>Requiem d-moll (KV 626)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/requiem" | relative_url }}">requiem</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>78</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/wP4IdpxdF3mVq8KXQNQAvb54O0Qefp-JuczOk-c4zp8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MzQx/NDAtMTQxMjYxMDU3/Mi02NzcxLmpwZWc.jpeg" alt="Cover for Requiem Kv626" style="max-width:120px; height:auto;" />
       </td>
@@ -158,7 +139,26 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>24</td>
+      <td>
+          <img src="https://i.discogs.com/7xX60PahzoZDSUYxn8o5DbEB3hYyqSvsI0p7PsN9Vb8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTYz/NTA5LTE1NDkxODkx/MTAtOTAyNy5qcGVn.jpeg" alt="Cover for Requiem d-moll (KV 626)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1967-09-13</td>
+      <td>Wolfgang Amadeus Mozart</td>
+      <td>Requiem d-moll (KV 626)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/requiem" | relative_url }}">requiem</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/7xX60PahzoZDSUYxn8o5DbEB3hYyqSvsI0p7PsN9Vb8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTYz/NTA5LTE1NDkxODkx/MTAtOTAyNy5qcGVn.jpeg" alt="Cover for MOZART: Requiem, K. 626" style="max-width:120px; height:auto;" />
       </td>
@@ -175,7 +175,7 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/M6hjOWf6ZQRVabsr6LWWGSu_3DiH0KynNvhNv9howmc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5OTUx/NjUtMTU5MTg5OTM1/OS02OTM1LmpwZWc.jpeg" alt="Cover for Britten: War Requiem" style="max-width:120px; height:auto;" />
       </td>
@@ -194,7 +194,7 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/mVAozWLgrm6MeWhSTAmp7S54zTQ4a3pf04dHhH2dWgg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5ODc1/MTUtMTQwODE1ODgy/NS02ODM4LmpwZWc.jpeg" alt="Cover for Requiem; Lontano; Continuum" style="max-width:120px; height:auto;" />
       </td>
@@ -214,7 +214,7 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/v07CIdsgXJ_EiFB5XAyf_w7JekdIKu65OWNFTqebEqM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MTYw/OTYtMTQ4Njc2NzE1/MS0yMjEwLmpwZWc.jpeg" alt="Cover for Zelenka: De Profundis, Misere &amp; Requiem" style="max-width:120px; height:auto;" />
       </td>
@@ -231,7 +231,25 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>36</td>
+      <td>
+          <img src="https://i.discogs.com/qr4oscGDAkzc1A-X5Yy-3U7I1aSxeHzkN1w-0zEykbE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTgz/NjM1LTE1NTY5NTc1/NjItMTgzMC5qcGVn.jpeg" alt="Cover for A Polish Requiem" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1974</td>
+      <td>Krzysztof Penderecki</td>
+      <td>A Polish Requiem</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
       <td>
       </td>
       <td>1974</td>
@@ -250,25 +268,7 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
     </tr>
     <tr>
-      <td>65</td>
-      <td>
-          <img src="https://i.discogs.com/qr4oscGDAkzc1A-X5Yy-3U7I1aSxeHzkN1w-0zEykbE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTgz/NjM1LTE1NTY5NTc1/NjItMTgzMC5qcGVn.jpeg" alt="Cover for A Polish Requiem" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1974</td>
-      <td>Krzysztof Penderecki</td>
-      <td>A Polish Requiem</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>14</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/qdbux_0trQj1Ea-CfTHydTIjE2QN_5aWQRoh1Ijg8j8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNDky/NjgtMTQzNjgyMzE5/MC04MDQ4LmpwZWc.jpeg" alt="Cover for Requiem in D minor, K.626 (Wiener Philharmoniker feat. conductor: Herbert von Karajan)" style="max-width:120px; height:auto;" />
       </td>
@@ -285,7 +285,7 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/V5yVV7HDynjoMVua2sU0Y0CKdZ846YXc6oTuDx4hhdc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTMx/MjkzLTE2MTc0Mzc4/NTEtMzk4Mi5qcGVn.jpeg" alt="Cover for Rekviem, op.89 (Czech Philharmonic Orchestra, Prague Philharmonic Chorus, soloists, conductor Karel Ančerl)" style="max-width:120px; height:auto;" />
       </td>
@@ -298,15 +298,51 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/late-romantic" | relative_url }}">late romantic</a> # 36</li>
-            <li> <a href="{{ "/tags/classical-composer" | relative_url }}">classical composer</a> # 88</li>
-            <li> <a href="{{ "/tags/mass" | relative_url }}">mass</a> # 97</li>
-            <li> <a href="{{ "/tags/czech-classical" | relative_url }}">czech classical</a> # 99</li>
+            <li> <a href="{{ "/tags/czech-classical" | relative_url }}">czech classical</a> # 2</li>
+            <li> <a href="{{ "/tags/mass" | relative_url }}">mass</a> # 4</li>
+            <li> <a href="{{ "/tags/classical-composer" | relative_url }}">classical composer</a> # 13</li>
+            <li> <a href="{{ "/tags/late-romantic" | relative_url }}">late romantic</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>7</td>
+      <td>
+      </td>
+      <td>1976</td>
+      <td>Gabriel Fauré</td>
+      <td>Requiem Op. 48</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 53 / 100)"> <a href="{{ "/tags/requiem" | relative_url }}">requiem</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>
+      </td>
+      <td>1976</td>
+      <td>Gabriel Fauré</td>
+      <td>Requiem</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/requiem" | relative_url }}">requiem</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/b9N5AYTpR4ZfKIq4MetFCCCNoD_GucbAtAzt9fcHcz0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTcy/ODU3LTE1ODQ5MjM3/MTMtMzIxOS5qcGVn.jpeg" alt="Cover for Requiem &#x2F; Christopher Hogwood" style="max-width:120px; height:auto;" />
       </td>
@@ -325,43 +361,7 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
     </tr>
     <tr>
-      <td>88</td>
-      <td>
-      </td>
-      <td>1976</td>
-      <td>Gabriel Fauré</td>
-      <td>Requiem</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/requiem" | relative_url }}">requiem</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>94</td>
-      <td>
-      </td>
-      <td>1976</td>
-      <td>Gabriel Fauré</td>
-      <td>Requiem Op. 48</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 53 / 100)"> <a href="{{ "/tags/requiem" | relative_url }}">requiem</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>43</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/We0aZTOQUv2gKEYn6b-B_sypWCfZA6vxn3Ihv9MAPGI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzUy/ODE5LTE1NTI2MTYw/MDMtNTYzMi5qcGVn.jpeg" alt="Cover for Britten: War Requiem" style="max-width:120px; height:auto;" />
       </td>
@@ -381,7 +381,7 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/LEUSgkdCRgi1hDbXKqJm6sRWxLVUvKDVwVPlSAPx8ac/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwODkz/MDctMTM4NDE4NDAw/NC04MzgxLnBuZw.jpeg" alt="Cover for Britten: War Requiem" style="max-width:120px; height:auto;" />
       </td>
@@ -400,7 +400,7 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/qdbux_0trQj1Ea-CfTHydTIjE2QN_5aWQRoh1Ijg8j8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNDky/NjgtMTQzNjgyMzE5/MC04MDQ4LmpwZWc.jpeg" alt="Cover for Requiem in D minor, KV 626 (Berliner Philharmoniker feat. conductor: Herbert von Karajan)" style="max-width:120px; height:auto;" />
       </td>
@@ -417,7 +417,7 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/cqE0NJfF0xU4p9lvyGQ6aN5Se6B2ZGbZ-M9As7OYV3k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNDE4/NzgtMTQzMjQwMTg0/MS05NDIzLmpwZWc.jpeg" alt="Cover for BRAHMS: German Requiem (Toscanini)" style="max-width:120px; height:auto;" />
       </td>
@@ -436,7 +436,7 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/3YN7GRqodx3tZ6AgIyXnjirNRdpqO6REVZIP6EKnE7c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTU5/NzIwLTE2NDc2MzQ1/NjAtODMwMy5qcGVn.jpeg" alt="Cover for Berlioz: Requiem, Op. 5" style="max-width:120px; height:auto;" />
       </td>
@@ -453,25 +453,7 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
     </tr>
     <tr>
-      <td>72</td>
-      <td>
-          <img src="https://i.discogs.com/7zUtL5HLeUXqFunH_bjapwF3cllbCmhwWsiIwFPGPZU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MDc3/ODEtMTQ0NzE2NDEx/Mi02MTcwLmpwZWc.jpeg" alt="Cover for Requiem K.626" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1981</td>
-      <td>Wolfgang Amadeus Mozart</td>
-      <td>Requiem K.626</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/requiem" | relative_url }}">requiem</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/WMo7MG_QBL8yLqhYvP4_FpgDMKeBEPplYwwhKXghvxU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODc2/MDU4LTE2NDk5MzMz/MTgtNjk1NC5qcGVn.jpeg" alt="Cover for CHERUBINI: Requiem &#x2F; Marche funebre" style="max-width:120px; height:auto;" />
       </td>
@@ -489,7 +471,25 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>29</td>
+      <td>
+          <img src="https://i.discogs.com/7zUtL5HLeUXqFunH_bjapwF3cllbCmhwWsiIwFPGPZU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MDc3/ODEtMTQ0NzE2NDEx/Mi02MTcwLmpwZWc.jpeg" alt="Cover for Requiem K.626" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1981</td>
+      <td>Wolfgang Amadeus Mozart</td>
+      <td>Requiem K.626</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/requiem" | relative_url }}">requiem</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/l2chu7WeZADo6ofVJBo7PgjSIug_8QH0LHFoFrDAFIQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTQz/MjItMTM3NTMxMzAy/Ni05NjQ1LmpwZWc.jpeg" alt="Cover for Requiem (Victoria – Cardoso – Lôbo)" style="max-width:120px; height:auto;" />
       </td>
@@ -503,49 +503,13 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 41</li>
-            <li> <a href="{{ "/tags/mass" | relative_url }}">mass</a> # 72</li>
+            <li> <a href="{{ "/tags/mass" | relative_url }}">mass</a> # 29</li>
+            <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
-      <td>
-          <img src="https://i.discogs.com/36-gLY9iQeEr1CYRHPGEfy1Pnss_6KwU6gmWqF3z_JE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDg0/MTkxLTE1OTIzMDAy/ODYtMTQ5Ni5qcGVn.jpeg" alt="Cover for Wolfgang Amadeus Mozart: Requiem" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1982</td>
-      <td>Schola Cantorum Cantate Domino</td>
-      <td>Wolfgang Amadeus Mozart: Requiem</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/requiem" | relative_url }}">requiem</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>71</td>
-      <td>
-          <img src="https://i.discogs.com/fnayOveH2DPMpsCYoNBSu98shk5iajhydfS_pFrVL4I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Mzkw/NDAtMTMzMDQyMTYy/Ny5qcGVn.jpeg" alt="Cover for Cherubini: Requiem" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1982</td>
-      <td>Luigi Cherubini</td>
-      <td>Cherubini: Requiem</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/requiem" | relative_url }}">requiem</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/8-fx_RelQ2Thjzgc2-NBy8RjgWoDJ-o_SyWKPRLEbQY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODI4/NDQ1LTE1NDI3MzYy/MjctOTE0MC5qcGVn.jpeg" alt="Cover for VERDI: Requiem (Gigli) (1939)" style="max-width:120px; height:auto;" />
       </td>
@@ -564,7 +528,43 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>30</td>
+      <td>
+          <img src="https://i.discogs.com/fnayOveH2DPMpsCYoNBSu98shk5iajhydfS_pFrVL4I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Mzkw/NDAtMTMzMDQyMTYy/Ny5qcGVn.jpeg" alt="Cover for Cherubini: Requiem" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1982</td>
+      <td>Luigi Cherubini</td>
+      <td>Cherubini: Requiem</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/requiem" | relative_url }}">requiem</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+          <img src="https://i.discogs.com/36-gLY9iQeEr1CYRHPGEfy1Pnss_6KwU6gmWqF3z_JE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDg0/MTkxLTE1OTIzMDAy/ODYtMTQ5Ni5qcGVn.jpeg" alt="Cover for Wolfgang Amadeus Mozart: Requiem" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1982</td>
+      <td>Schola Cantorum Cantate Domino</td>
+      <td>Wolfgang Amadeus Mozart: Requiem</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/requiem" | relative_url }}">requiem</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/b9oSTuquttx9tXCBUWoNcr_mlmWd48Kf19_wf8VTEww/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NTkx/ODEtMTY3Njc0OTk2/NS02Nzg2LmpwZWc.jpeg" alt="Cover for VERDI: Requiem &#x2F; Quattro Pezzi Sacri" style="max-width:120px; height:auto;" />
       </td>
@@ -583,7 +583,7 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
       </td>
       <td>1984</td>
@@ -596,12 +596,12 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 20</li>
+            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/svWAwsY6hQd0e05uHKRbZRxc23oCF67quwh-0F0HmIg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjQ3/NDMyLTE1MDE2MTc2/NzgtODcxMS5qcGVn.jpeg" alt="Cover for Mozart: Requiem&#x2F;Faure: Requiem" style="max-width:120px; height:auto;" />
       </td>
@@ -620,7 +620,7 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/wV1-nGmDHhxkk2-SlU_2FJ81bL3Dg2H7K5rxDGw8JtM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MTI0/OC0xMjY0MzU3MTM3/LmpwZWc.jpeg" alt="Cover for Requiem" style="max-width:120px; height:auto;" />
       </td>
@@ -639,7 +639,7 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/RwPEqAxE-hCLSzo2_85Cdi0vIeGbIMpsmaD-VsiSC7I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjY1/ODk1LTE1NTg1OTY5/NDUtNDYyNS5qcGVn.jpeg" alt="Cover for MOZART: Requiem &#x2F; Exultate, Jubilate &#x2F; Laudate Dominum" style="max-width:120px; height:auto;" />
       </td>
@@ -656,7 +656,7 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>93</td>
       <td>
           <img src="https://i.discogs.com/BFee0f5Sr5JwNVCLwLEbR9p2-sdBgRYnIVM2fLKVqL0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTY5/NjkwLTE1NTY3MDQw/ODQtNjQyNC5qcGVn.jpeg" alt="Cover for Liszt: Requiem, &quot;Messe Des Morts&quot;" style="max-width:120px; height:auto;" />
       </td>
@@ -673,7 +673,7 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/oerTI8ZpEnIIa74ooC_x5DDR7f-W-NaiLHi1Yn11cXQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDUw/MjAtMTMwMjc5Nzcx/Mi5qcGVn.jpeg" alt="Cover for Polnisches Requiem (Disc 1 of 2)" style="max-width:120px; height:auto;" />
       </td>
@@ -694,7 +694,7 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/9F1yLsZCjjjiDI8wXE_SezlfFdPTDYdSoVgMJKv4Ysk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDUy/NjYtMTQ0MDgwMTc0/Mi05OTY4LmpwZWc.jpeg" alt="Cover for Mozart: Requiem" style="max-width:120px; height:auto;" />
       </td>
@@ -710,12 +710,12 @@ A requiem is a solemn musical composition originally created for Catholic funera
       <td>
         <ul>
             <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 9</li>
-            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 82</li>
+            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 19</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/VFcREs8tHU7lUEjV5_MErPeQ1xBndlPTY33vQKHyprU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzk2/MTIzLTE1NjE0OTE4/NDMtOTcxOC5qcGVn.jpeg" alt="Cover for Ein deutsches Requiem Op. 45" style="max-width:120px; height:auto;" />
       </td>
@@ -736,7 +736,7 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ed8c551fb06bcdc0680027f1d30e376e.png" alt="Cover for Fauré: Requiem; Messe des pêcheurs de Villerville" style="max-width:120px; height:auto;" />
       </td>
@@ -757,7 +757,7 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>95</td>
       <td>
           <img src="https://i.discogs.com/AJE_RfEslUW08XJX_sN6Abr0DalFS-uDTKGq4zAQM1g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNDc2/NDEtMTQ1NDc4NTgw/OS05NjI1LmpwZWc.jpeg" alt="Cover for Requiem, KV 626 (BBC Symp. Orch, Sir Colin Davis)" style="max-width:120px; height:auto;" />
       </td>
@@ -774,7 +774,7 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/e45s07KMtABVYrgdaaVlzfIX_Xs6qv4eCS1xm_vmWSg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTky/OTA3LTE3MDYxNzY0/MzgtNTQ2MS5wbmc.jpeg" alt="Cover for Mozart: Requiem In D Minor" style="max-width:120px; height:auto;" />
       </td>
@@ -790,12 +790,12 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mass" | relative_url }}">mass</a> # 100</li>
+            <li> <a href="{{ "/tags/mass" | relative_url }}">mass</a> # 1</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/Wd4bV6dvUtsge3bFXGMo1URbfn2i4hwQT5zEDtH1vA4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mjc3/MjM3LTE2MTgzMTIy/NDktNzM5My5qcGVn.jpeg" alt="Cover for Requiem K-626 Maurerische Trauermusik K 477" style="max-width:120px; height:auto;" />
       </td>
@@ -814,7 +814,7 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/OKur1zupfO2fVthJsX7XQMRwIURx52MNvZjV7gEks2Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTkz/ODI3LTE2MTY2MTYy/MzktNjc4OS5qcGVn.jpeg" alt="Cover for Mozart : Requiem" style="max-width:120px; height:auto;" />
       </td>
@@ -829,12 +829,12 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/conductor" | relative_url }}">conductor</a> # 100</li>
+            <li> <a href="{{ "/tags/conductor" | relative_url }}">conductor</a> # 1</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>96</td>
       <td>
           <img src="https://i.discogs.com/7OI4EhixCaWa_e2pYPhJT_DXSY6wfZJl8WDlUSfCAtU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzEx/ODktMTUwMDc0MTIz/Ni05ODk5LmpwZWc.jpeg" alt="Cover for Mozart: Requiem, KV 626 in D Minor" style="max-width:120px; height:auto;" />
       </td>
@@ -851,27 +851,7 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
     </tr>
     <tr>
-      <td>67</td>
-      <td>
-          <img src="https://i.discogs.com/v07CIdsgXJ_EiFB5XAyf_w7JekdIKu65OWNFTqebEqM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MTYw/OTYtMTQ4Njc2NzE1/MS0yMjEwLmpwZWc.jpeg" alt="Cover for Requiem in D minor, Miserere" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1993</td>
-      <td>Jan Dismas Zelenka</td>
-      <td>Requiem in D minor, Miserere</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/classical-composer" | relative_url }}">classical composer</a> # 14</li>
-            <li> <a href="{{ "/tags/mass" | relative_url }}">mass</a> # 68</li>
-            <li> <a href="{{ "/tags/czech-classical" | relative_url }}">czech classical</a> # 80</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/cWAeJee7MFcwU25qlor4IQDWraUcdhNFca3FaxI8mOw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NTMw/OTUtMTM2NTI4MTk5/NC0yNTM0LmpwZWc.jpeg" alt="Cover for Requiem (Herbert von Karajan)" style="max-width:120px; height:auto;" />
       </td>
@@ -885,12 +865,32 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 8</li>
+            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>34</td>
+      <td>
+          <img src="https://i.discogs.com/v07CIdsgXJ_EiFB5XAyf_w7JekdIKu65OWNFTqebEqM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MTYw/OTYtMTQ4Njc2NzE1/MS0yMjEwLmpwZWc.jpeg" alt="Cover for Requiem in D minor, Miserere" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1993</td>
+      <td>Jan Dismas Zelenka</td>
+      <td>Requiem in D minor, Miserere</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/czech-classical" | relative_url }}">czech classical</a> # 21</li>
+            <li> <a href="{{ "/tags/mass" | relative_url }}">mass</a> # 33</li>
+            <li> <a href="{{ "/tags/classical-composer" | relative_url }}">classical composer</a> # 87</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/aE1CvlGvqv9ahbnfvqxVQuRB53tQGs3H-sKKrsIk9zs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODcz/MDA2LTE2NTc4MDUy/NDItMzEzNi5qcGVn.jpeg" alt="Cover for Fauré&#x2F;Duruflé&#x2F;Messiaen" style="max-width:120px; height:auto;" />
       </td>
@@ -907,7 +907,7 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/TS0NsusUlLzitro37QfMQuFeAtRL9Rlh7FptP4QF8Rs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzM4/MDktMTcxNjIyMDc5/OS03ODUwLmpwZWc.jpeg" alt="Cover for Requiem" style="max-width:120px; height:auto;" />
       </td>
@@ -926,7 +926,7 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/O8daLWUW1Nc27Po6X49WLOLUPF0Wp8-RR2Oxfb5FwjY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjQx/ODgzLTE1Nzg3NTU2/NjEtNDU4OS5qcGVn.jpeg" alt="Cover for Messa da Requiem" style="max-width:120px; height:auto;" />
       </td>
@@ -943,13 +943,13 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/sacred" | relative_url }}">sacred</a> # 3</li>
             <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 56</li>
-            <li> <a href="{{ "/tags/sacred" | relative_url }}">sacred</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/VFcREs8tHU7lUEjV5_MErPeQ1xBndlPTY33vQKHyprU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzk2/MTIzLTE1NjE0OTE4/NDMtOTcxOC5qcGVn.jpeg" alt="Cover for Ein deutsches Requiem Op 45" style="max-width:120px; height:auto;" />
       </td>
@@ -969,7 +969,7 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/VFcREs8tHU7lUEjV5_MErPeQ1xBndlPTY33vQKHyprU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzk2/MTIzLTE1NjE0OTE4/NDMtOTcxOC5qcGVn.jpeg" alt="Cover for Ein Deutsches Requiem Op.45" style="max-width:120px; height:auto;" />
       </td>
@@ -988,7 +988,7 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/KGuoDk71gjYGKl-Oxkk2qIL0qd-2jVWXeD_If0OUQr8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDMy/OTk4LTE2MzczNDgz/NTktMzQ1NS5qcGVn.jpeg" alt="Cover for BRAHMS: A German Requiem, Op. 45" style="max-width:120px; height:auto;" />
       </td>
@@ -1005,7 +1005,7 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/LmMKfcSwkWiGI-QWjNF1NcTcF-vbCpj_PbpAYKoBW5w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODIx/NjMzLTE2MzU4NDgx/OTktOTY1NC5qcGVn.jpeg" alt="Cover for Requiem" style="max-width:120px; height:auto;" />
       </td>
@@ -1019,12 +1019,12 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 91</li>
+            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 10</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/IFEu2laXvQUDqUlDcw80m9y-mJXDeK3NDiVA2I6a-jk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MTcy/ODEtMTQ2NTIzNDA0/OS0yMjc1LmpwZWc.jpeg" alt="Cover for Mozart: Requiem; Kyrie in D minor" style="max-width:120px; height:auto;" />
       </td>
@@ -1043,7 +1043,7 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/zC1yHT1EK_qJDKaWxQcRLkhqJXL_Dzh16qXspx3OXTw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MzI5/NDAtMTYwNzYxMzgy/OC04NjU0LmpwZWc.jpeg" alt="Cover for Ockeghem - Requiem (Missa Pro Defunctis) &amp; Missa Mi Mi (Missa Quarti Toni)" style="max-width:120px; height:auto;" />
       </td>
@@ -1061,7 +1061,7 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/pP0cnSqWt3xSVqKB3EDENRGiC1BCcXIqQZRc3GmABM0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Nzk0/NjM1LTE2MjE1MDk3/MDctNDkxMS5qcGVn.jpeg" alt="Cover for Verdi : Messa da Requiem" style="max-width:120px; height:auto;" />
       </td>
@@ -1079,7 +1079,7 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/qRLGdKUX6v2aMLqDO9xt6Xn0wD-OdTP7UokISVdqYFQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMTE5/MC0xMzgxMTg0OTY0/LTk4NjcuanBlZw.jpeg" alt="Cover for here lies one whose name was written in water 2009 10 year anniversary" style="max-width:120px; height:auto;" />
       </td>
@@ -1097,7 +1097,7 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>46</td>
       <td>
       </td>
       <td>2002</td>
@@ -1114,7 +1114,7 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/2o211FNs4VHJzfwljfT0OsT0A7tlH4KD1DCdvc_hGeQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTI3/NjI3LTE1Mjg4NDAw/ODUtOTcwOS5qcGVn.jpeg" alt="Cover for Manuel Cardoso: Requiem" style="max-width:120px; height:auto;" />
       </td>
@@ -1133,13 +1133,13 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 84</li>
-            <li> <a href="{{ "/tags/mass" | relative_url }}">mass</a> # 92</li>
+            <li> <a href="{{ "/tags/mass" | relative_url }}">mass</a> # 9</li>
+            <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 17</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/2o211FNs4VHJzfwljfT0OsT0A7tlH4KD1DCdvc_hGeQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTI3/NjI3LTE1Mjg4NDAw/ODUtOTcwOS5qcGVn.jpeg" alt="Cover for Victoria Requiem" style="max-width:120px; height:auto;" />
       </td>
@@ -1159,7 +1159,7 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
       </td>
       <td>2005-03-21</td>
@@ -1176,7 +1176,7 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>94</td>
       <td>
           <img src="https://i.discogs.com/g88IktXt0Ha7NV32gSLXeR6SHfzQNvMGfdcI-l5SYyQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDQx/ODctMTYyODkzNTcw/My02MDM3LmpwZWc.jpeg" alt="Cover for Brahms : Ein Deutsches Requiem" style="max-width:120px; height:auto;" />
       </td>
@@ -1195,7 +1195,7 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/nD7zFvqiCzoZQNKyMhWFw67hLv3VjaD0q-vYHw6CpoI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mzky/NTY0LTE2ODQ0OTYw/NTEtNzYzMC5qcGVn.jpeg" alt="Cover for Gabriel Fauré - Requiem, Nocturnes, Trois Melodies" style="max-width:120px; height:auto;" />
       </td>
@@ -1212,7 +1212,7 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/YHCupB8EadLQt5WmzCQnCee4aYDgpiSKZRh4Hdyt6DA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3Njk0/NTYtMTM3NDk0MzEz/My0zNTkwLnBuZw.jpeg" alt="Cover for Zelenka: Requiem in C Minor, Miserere in C Minor, Lamentatio Pro Die Veneris Sancto" style="max-width:120px; height:auto;" />
       </td>
@@ -1229,7 +1229,7 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/LjGTHdfSCnWf78VqpyRD1Akriay3h798MlkE52LWQyg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMzk5/MzUtMTQ1OTY4OTUz/OC03MTM5LmpwZWc.jpeg" alt="Cover for Verdi: Messa da Requiem &amp; Te Deum" style="max-width:120px; height:auto;" />
       </td>
@@ -1247,7 +1247,7 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/iu7whwYb4f_4xjthDSSbLXwY0uAXgi-fGV4co2k8LBI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTcx/NDY0LTE1MTg3Njky/MTAtMjQ0OC5qcGVn.jpeg" alt="Cover for Fauré Requiem" style="max-width:120px; height:auto;" />
       </td>
@@ -1266,7 +1266,7 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/Hfi077o22WRcqInMUt61jojWYJXxeMQH4OEXXQkRkPM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTYx/MjctMTI4NTA2ODE1/Ny5qcGVn.jpeg" alt="Cover for Souvenirs (Simplified Metadata)" style="max-width:120px; height:auto;" />
       </td>
@@ -1284,7 +1284,7 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a875d22b7389440bbfb7ca679ee6d9eb.png" alt="Cover for Halo 4: Original Soundtrack (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1303,7 +1303,7 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/_nJaKEgg4WcsIR8eMwP66sq7VG09LQA5d59nQqHXGKo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNTI1/Ny0xMzY2OTI0OTI2/LTc2NTguanBlZw.jpeg" alt="Cover for Mozart: Requiem Mass In D Minor, K.626" style="max-width:120px; height:auto;" />
       </td>
@@ -1320,7 +1320,25 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>37</td>
+      <td>
+          <img src="https://i.discogs.com/YbvpI56GsVJO9bcHRIYEwexVbikN64l0gJ_yDD_P8QM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDQ1/ODIyLTE1MzU0NDMw/ODAtNzg2Ny5qcGVn.jpeg" alt="Cover for Richafort: Requiem" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013</td>
+      <td>Jean Richafort</td>
+      <td>Richafort: Requiem</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/requiem" | relative_url }}">requiem</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/EfBy-FpMSeZAomkinWOjNyaIheSuAQMIBGBKYCda9X0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzY5/MDQyLTE1NjA3MTA4/MDMtMTMwMy5qcGVn.jpeg" alt="Cover for Mozart: Requiem" style="max-width:120px; height:auto;" />
       </td>
@@ -1341,24 +1359,6 @@ A requiem is a solemn musical composition originally created for Catholic funera
     <tr>
       <td>64</td>
       <td>
-          <img src="https://i.discogs.com/YbvpI56GsVJO9bcHRIYEwexVbikN64l0gJ_yDD_P8QM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDQ1/ODIyLTE1MzU0NDMw/ODAtNzg2Ny5qcGVn.jpeg" alt="Cover for Richafort: Requiem" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2013</td>
-      <td>Jean Richafort</td>
-      <td>Richafort: Requiem</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/requiem" | relative_url }}">requiem</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>37</td>
-      <td>
           <img src="https://i.discogs.com/3dESRthVHKpVnEBtgK5uQT-fp8iSVUv7TCqp3RlLeH0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODYy/MTY0LTE2MjkwMzEx/OTYtOTY3OC5qcGVn.jpeg" alt="Cover for Alfred Schnittke: Requiem" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
@@ -1374,7 +1374,7 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/J_c8PEhvw-9_5he7RDC1nPXnkl2dBoYqRPGLNcnqaFs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDk0/NTMzLTE3MjM4MjEy/ODEtNzYyMy5wbmc.jpeg" alt="Cover for Brahms: Ein Deutsches Requiem" style="max-width:120px; height:auto;" />
       </td>
@@ -1393,7 +1393,7 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/CsGCa4FWY8iuowzt1Wfe5jJGCJoH8ReZY-Yuh40jW5g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NDE2/MzgtMTQ2Nzc3Mzcx/NS0zMjgwLmpwZWc.jpeg" alt="Cover for Morales: Requiem - Music for Philip II" style="max-width:120px; height:auto;" />
       </td>
@@ -1411,7 +1411,7 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/nUSFbh61wmZzzRXd44b_QrLQlks7ehFBpjMgD4lgfQw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzUz/MjkyLTE1OTAxODMx/NTQtNjg2My5qcGVn.jpeg" alt="Cover for Mozart: Requiem" style="max-width:120px; height:auto;" />
       </td>
@@ -1429,7 +1429,7 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/kUf9pM1119f_1bDXNL8qU5UCCc382Zw3gQucDx2kdhM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjQ2/OTk0LTE1NTgyMDg1/NjktODU0Mi5qcGVn.jpeg" alt="Cover for Berlioz: Requiem - Grande Messe des Morts" style="max-width:120px; height:auto;" />
       </td>
@@ -1445,12 +1445,12 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mass" | relative_url }}">mass</a> # 82</li>
+            <li> <a href="{{ "/tags/mass" | relative_url }}">mass</a> # 19</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>100</td>
       <td>
           <img src="https://i.discogs.com/C3Ge52RgNDSNCBCAR4JGWr2aQmjsy4BonhzLOHo3wek/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTMw/ODM5LTE1ODcwNzUx/OTMtNTE2Ni5qcGVn.jpeg" alt="Cover for Fauré: Requiem - Poulenc: Figure Humaine - Debussy: 3 Chansons" style="max-width:120px; height:auto;" />
       </td>
@@ -1469,13 +1469,13 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/mass" | relative_url }}">mass</a> # 36</li>
             <li> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a> # 44</li>
-            <li> <a href="{{ "/tags/mass" | relative_url }}">mass</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/p1Z9s8Lu1lCsdxWibFAp1x5Sz7mB14N9wO_E9d1q5Kk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjM3/NDcxLTE2MjQzOTA5/NjItNTk4OC5qcGVn.jpeg" alt="Cover for Verdi: Requiem&#x2F;Quattro Pezzi Sacri" style="max-width:120px; height:auto;" />
       </td>
@@ -1494,7 +1494,7 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/PLkcV0ojml812CuATUZg_FFruVmdGx8CS_KzkTPyId4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTY3/NDk1LTE2MTg0MjI2/NzUtNzY3OC5qcGVn.jpeg" alt="Cover for Mozart: Requiem" style="max-width:120px; height:auto;" />
       </td>
@@ -1513,7 +1513,7 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/GI1kawXX_WImQLdkh351zrlXYhSMY8MnnPYNkcrhhIU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDIw/Ny0xMTY1MjQ0MjIy/LmpwZWc.jpeg" alt="Cover for Requiems for a Submerged City" style="max-width:120px; height:auto;" />
       </td>
@@ -1538,7 +1538,7 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/IzTDkseZtXLgFkT1JhstQFC3VZfAp7IbmEuiJ7Yy_yM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODQx/MDQ1LTE1ODI2MDY3/NzItNzk0NS5wbmc.jpeg" alt="Cover for Campra : Requiem [Messe des morts]" style="max-width:120px; height:auto;" />
       </td>
@@ -1556,24 +1556,28 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>39</td>
       <td>
       </td>
       <td></td>
-      <td>Choir Of St. John&#39;s College, Cambridge</td>
-      <td>Fauré: Requiem&#x2F;Duruflé: Requiem&#x2F;Poulenc: Motets</td>
+      <td>jakob battick &amp; friends</td>
+      <td>Heavy The Mountains, Heavy Are The Seas</td>
       <td>
         <ul>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mass" | relative_url }}">mass</a> # 69</li>
+            <li> <a href="{{ "/tags/arcade-fire" | relative_url }}">arcade fire</a> # 21</li>
+            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 53</li>
+            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 77</li>
+            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 94</li>
+            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
       </td>
       <td></td>
@@ -1587,40 +1591,36 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/conductor" | relative_url }}">conductor</a> # 9</li>
+            <li> <a href="{{ "/tags/conductor" | relative_url }}">conductor</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>79</td>
       <td>
       </td>
       <td></td>
-      <td>jakob battick &amp; friends</td>
-      <td>Heavy The Mountains, Heavy Are The Seas</td>
+      <td>Choir Of St. John&#39;s College, Cambridge</td>
+      <td>Fauré: Requiem&#x2F;Duruflé: Requiem&#x2F;Poulenc: Motets</td>
       <td>
         <ul>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 25</li>
-            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 53</li>
-            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 94</li>
-            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 97</li>
+            <li> <a href="{{ "/tags/mass" | relative_url }}">mass</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>18</td>
       <td>
       </td>
       <td></td>
-      <td>St. Olaf Choir</td>
-      <td>Mozart &amp; Süssmayr: Requiem</td>
+      <td>John Rutter</td>
+      <td>RUTTER: Requiem &#x2F; Anthems</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/conductor" | relative_url }}">conductor</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/requiem" | relative_url }}">requiem</a></li>
         </ul>
       </td>
@@ -1630,31 +1630,12 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>33</td>
       <td>
       </td>
       <td></td>
-      <td>Kuijken Kwartet</td>
-      <td>Mozart: Requiem KV 626 - Version For String Quartet by Peter Lichtenthal</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/requiem" | relative_url }}">requiem</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/string-quartet" | relative_url }}">string quartet</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>21</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Accentus</td>
-      <td>Dvorák: Stabat Mater</td>
+      <td>Sofia National Opera House Orchestra And Chorus</td>
+      <td>Verdi: Requiem</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/choral" | relative_url }}">choral</a></li>
@@ -1667,7 +1648,93 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>45</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Lawrence Foster</td>
+      <td>Salieri: Requiem</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/requiem" | relative_url }}">requiem</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Orchestra Sinfonica dell&#39;Universita Cattolica &#x2F; Coro Sinfonico di Bie</td>
+      <td>Mozart: Requiem</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/requiem" | relative_url }}">requiem</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Tomás Luis de Victoria</td>
+      <td>Victoria: Officium Defunctorum</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/requiem" | relative_url }}">requiem</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td>
+      </td>
+      <td></td>
+      <td>William Fred Scott &#x2F; The Atlanta Opera Orchestra &amp; Chorus</td>
+      <td>Mozart Requiem</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/requiem" | relative_url }}">requiem</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Jean Gilles</td>
+      <td>Gilles: Requiem</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/requiem" | relative_url }}">requiem</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
       <td>
       </td>
       <td></td>
@@ -1686,98 +1753,12 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>80</td>
       <td>
       </td>
       <td></td>
-      <td>Jean Gilles</td>
-      <td>Gilles: Requiem</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/requiem" | relative_url }}">requiem</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>28</td>
-      <td>
-      </td>
-      <td></td>
-      <td>William Fred Scott &#x2F; The Atlanta Opera Orchestra &amp; Chorus</td>
-      <td>Mozart Requiem</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/requiem" | relative_url }}">requiem</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>39</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Tomás Luis de Victoria</td>
-      <td>Victoria: Officium Defunctorum</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/requiem" | relative_url }}">requiem</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>40</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Orchestra Sinfonica dell&#39;Universita Cattolica &#x2F; Coro Sinfonico di Bie</td>
-      <td>Mozart: Requiem</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/requiem" | relative_url }}">requiem</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>56</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Lawrence Foster</td>
-      <td>Salieri: Requiem</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/requiem" | relative_url }}">requiem</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>68</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Sofia National Opera House Orchestra And Chorus</td>
-      <td>Verdi: Requiem</td>
+      <td>Accentus</td>
+      <td>Dvorák: Stabat Mater</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/choral" | relative_url }}">choral</a></li>
@@ -1790,14 +1771,34 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>86</td>
       <td>
       </td>
       <td></td>
-      <td>John Rutter</td>
-      <td>RUTTER: Requiem &#x2F; Anthems</td>
+      <td>Kuijken Kwartet</td>
+      <td>Mozart: Requiem KV 626 - Version For String Quartet by Peter Lichtenthal</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/requiem" | relative_url }}">requiem</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/string-quartet" | relative_url }}">string quartet</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>
+      </td>
+      <td></td>
+      <td>St. Olaf Choir</td>
+      <td>Mozart &amp; Süssmayr: Requiem</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/conductor" | relative_url }}">conductor</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/requiem" | relative_url }}">requiem</a></li>
         </ul>
       </td>
@@ -1826,12 +1827,12 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>54</td>
       <td>
       </td>
       <td></td>
-      <td>Riccardo Muti - Orchestra del Teatro alla Scala, Milano</td>
-      <td>Messa da Requiem; Giuseppe Verdi (1813-1901)</td>
+      <td>Orquesta y Coro de la Filarmónica de Eslovaquia</td>
+      <td>Réquiem en Re menor, KV 626 de Mozart</td>
       <td>
         <ul>
         </ul>
@@ -1842,39 +1843,7 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
     </tr>
     <tr>
-      <td>12</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Vienna Symphony Orchestra And The Academy Chamber Choir</td>
-      <td>Mozart&#39;s Requiem In D Minor, K.626</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>30</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Magdalena Hajóssyová, Jozef Kundlák, Etc.; Zdenek Kosler: Slovak Philharmonic Orchestra &amp; Chorus</td>
-      <td>Mozart: Requiem</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>31</td>
+      <td>70</td>
       <td>
       </td>
       <td></td>
@@ -1890,12 +1859,44 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>71</td>
       <td>
       </td>
       <td></td>
-      <td>Orquesta y Coro de la Filarmónica de Eslovaquia</td>
-      <td>Réquiem en Re menor, KV 626 de Mozart</td>
+      <td>Magdalena Hajóssyová, Jozef Kundlák, Etc.; Zdenek Kosler: Slovak Philharmonic Orchestra &amp; Chorus</td>
+      <td>Mozart: Requiem</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Vienna Symphony Orchestra And The Academy Chamber Choir</td>
+      <td>Mozart&#39;s Requiem In D Minor, K.626</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Riccardo Muti - Orchestra del Teatro alla Scala, Milano</td>
+      <td>Messa da Requiem; Giuseppe Verdi (1813-1901)</td>
       <td>
         <ul>
         </ul>

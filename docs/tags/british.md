@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T13:51:36.180Z
+date: 2025-12-06T02:54:45.948Z
 permalink: tags/british
 title: british
 ---
 
 ## british
 
-Last updated: <time datetime="2025-12-03T13:51:36.180Z">Wed Dec 03 2025 15:51:36 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T02:54:45.948Z">Sat Dec 06 2025 04:54:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -108,9 +108,9 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       <td>
         <ul>
             <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 4</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 67</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 11</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 34</li>
             <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 78</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -148,10 +148,10 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 51</li>
+            <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 2</li>
+            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 16</li>
+            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 50</li>
             <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 66</li>
-            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 85</li>
-            <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -169,12 +169,12 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 14</li>
-            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 67</li>
+            <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 3</li>
+            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 7</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 14</li>
+            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 34</li>
             <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 70</li>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 87</li>
-            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 94</li>
-            <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 98</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -193,12 +193,12 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 1</li>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 14</li>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 68</li>
+            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 14</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 15</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 33</li>
             <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 77</li>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 86</li>
-            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 87</li>
-            <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -236,7 +236,7 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 81</li>
+            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -276,7 +276,7 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 65</li>
+            <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -312,8 +312,8 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 67</li>
-            <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 100</li>
+            <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 1</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -331,9 +331,9 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 87</li>
-            <li> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a> # 98</li>
-            <li> <a href="{{ "/tags/british-invasion" | relative_url }}">british invasion</a> # 99</li>
+            <li> <a href="{{ "/tags/british-invasion" | relative_url }}">british invasion</a> # 2</li>
+            <li> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a> # 3</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -530,11 +530,11 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 9</li>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 3</li>
             <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 26</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 38</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 61</li>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 67</li>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 98</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -613,8 +613,8 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       <td>
         <ul>
             <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 2</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 31</li>
             <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 51</li>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -813,7 +813,7 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 55</li>
+            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -871,7 +871,7 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       <td>
         <ul>
             <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 42</li>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 66</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 65</li>
             <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 74</li>
         </ul>
       </td>
@@ -931,9 +931,9 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 2</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 3</li>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 25</li>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 98</li>
-            <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -973,7 +973,7 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 52</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1009,7 +1009,7 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a> # 100</li>
+            <li> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -1029,7 +1029,7 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 1</li>
+            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1086,8 +1086,8 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       <td>
         <ul>
             <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 23</li>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 36</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 66</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 35</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1108,11 +1108,11 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       <td>
         <ul>
             <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 2</li>
+            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 3</li>
             <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 30</li>
-            <li> <a href="{{ "/tags/desert-rock" | relative_url }}">desert rock</a> # 42</li>
-            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 57</li>
+            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 44</li>
+            <li> <a href="{{ "/tags/desert-rock" | relative_url }}">desert rock</a> # 58</li>
             <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 76</li>
-            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1190,10 +1190,10 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 1</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 3</li>
             <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 3</li>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 58</li>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 98</li>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 100</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1382,10 +1382,10 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 4</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 5</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 15</li>
             <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 24</li>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 86</li>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 96</li>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1462,11 +1462,11 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 6</li>
             <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 12</li>
             <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 18</li>
             <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 24</li>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 51</li>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1488,7 +1488,7 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 5</li>
+            <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1511,9 +1511,9 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 4</li>
+            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 6</li>
             <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 25</li>
-            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 95</li>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1534,7 +1534,7 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 94</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1573,7 +1573,7 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       <td>
         <ul>
             <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 1</li>
-            <li> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a> # 83</li>
+            <li> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1654,8 +1654,8 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 18</li>
             <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 31</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1714,9 +1714,9 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       <td>
         <ul>
             <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 2</li>
+            <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 3</li>
             <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 7</li>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 75</li>
-            <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 98</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1820,10 +1820,10 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 39</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 51</li>
+            <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 8</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 49</li>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 52</li>
-            <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 93</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1845,7 +1845,7 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 55</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1864,7 +1864,7 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 51</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1902,13 +1902,13 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 76</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 92</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 95</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 2</li>
+            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 2</li>
+            <li> <a href="{{ "/tags/new-zealand" | relative_url }}">new zealand</a> # 4</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 6</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 9</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 25</li>
             <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 96</li>
-            <li> <a href="{{ "/tags/new-zealand" | relative_url }}">new zealand</a> # 97</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 99</li>
-            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1974,11 +1974,11 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 69</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 97</li>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 100</li>
-            <li> <a href="{{ "/tags/alternative-electronic" | relative_url }}">alternative electronic</a> # 100</li>
-            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 100</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 1</li>
+            <li> <a href="{{ "/tags/alternative-electronic" | relative_url }}">alternative electronic</a> # 1</li>
+            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 1</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 4</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 32</li>
         </ul>
       </td>
     </tr>

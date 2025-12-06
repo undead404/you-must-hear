@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T17:41:49.190Z
+date: 2025-12-06T03:14:45.896Z
 permalink: tags/britpop
 title: britpop
 ---
 
 ## britpop
 
-Last updated: <time datetime="2025-12-03T17:41:49.190Z">Wed Dec 03 2025 19:41:49 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T03:14:45.896Z">Sat Dec 06 2025 05:14:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -43,8 +43,8 @@ Britpop emerged in 1990s Britain as a guitar-driven alternative rock movement ce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 67</li>
-            <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 68</li>
+            <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 33</li>
+            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -63,7 +63,7 @@ Britpop emerged in 1990s Britain as a guitar-driven alternative rock movement ce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 73</li>
+            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -82,7 +82,7 @@ Britpop emerged in 1990s Britain as a guitar-driven alternative rock movement ce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 74</li>
+            <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -118,7 +118,7 @@ Britpop emerged in 1990s Britain as a guitar-driven alternative rock movement ce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 44</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -282,7 +282,7 @@ Britpop emerged in 1990s Britain as a guitar-driven alternative rock movement ce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 73</li>
+            <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -375,7 +375,7 @@ Britpop emerged in 1990s Britain as a guitar-driven alternative rock movement ce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 65</li>
+            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -804,7 +804,7 @@ Britpop emerged in 1990s Britain as a guitar-driven alternative rock movement ce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 77</li>
+            <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -841,8 +841,8 @@ Britpop emerged in 1990s Britain as a guitar-driven alternative rock movement ce
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 33</li>
             <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 63</li>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -953,7 +953,7 @@ Britpop emerged in 1990s Britain as a guitar-driven alternative rock movement ce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 56</li>
+            <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -988,7 +988,7 @@ Britpop emerged in 1990s Britain as a guitar-driven alternative rock movement ce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 27</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1135,7 +1135,7 @@ Britpop emerged in 1990s Britain as a guitar-driven alternative rock movement ce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 28</li>
+            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1340,7 +1340,7 @@ Britpop emerged in 1990s Britain as a guitar-driven alternative rock movement ce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pub-rock" | relative_url }}">pub rock</a> # 63</li>
+            <li> <a href="{{ "/tags/pub-rock" | relative_url }}">pub rock</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1508,9 +1508,9 @@ Britpop emerged in 1990s Britain as a guitar-driven alternative rock movement ce
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 3</li>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 25</li>
             <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 57</li>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1677,7 +1677,7 @@ Britpop emerged in 1990s Britain as a guitar-driven alternative rock movement ce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 21</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1697,8 +1697,8 @@ Britpop emerged in 1990s Britain as a guitar-driven alternative rock movement ce
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 14</li>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 55</li>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1835,7 +1835,7 @@ Britpop emerged in 1990s Britain as a guitar-driven alternative rock movement ce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 8</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 92</li>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 94</li>
             <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 97</li>
         </ul>
@@ -1861,9 +1861,9 @@ Britpop emerged in 1990s Britain as a guitar-driven alternative rock movement ce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 86</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 91</li>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 94</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 7</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 10</li>
+            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1913,9 +1913,9 @@ Britpop emerged in 1990s Britain as a guitar-driven alternative rock movement ce
       <td>
         <ul>
             <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 6</li>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 39</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 51</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 49</li>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 52</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 63</li>
         </ul>
       </td>
     </tr>

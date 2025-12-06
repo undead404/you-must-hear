@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T16:49:33.607Z
+date: 2025-12-06T03:04:45.885Z
 permalink: tags/boy-band
 title: boy band
 ---
 
 ## boy band
 
-Last updated: <time datetime="2025-12-03T16:49:33.607Z">Wed Dec 03 2025 18:49:33 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T03:04:45.885Z">Sat Dec 06 2025 05:04:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -201,7 +201,7 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 44</li>
+            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -275,7 +275,7 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 33</li>
+            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -295,7 +295,7 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/czech" | relative_url }}">czech</a> # 88</li>
+            <li> <a href="{{ "/tags/czech" | relative_url }}">czech</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -314,8 +314,8 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 51</li>
-            <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 74</li>
+            <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 27</li>
+            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -370,9 +370,7 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 80</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 91</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 91</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -439,8 +437,9 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 42</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 45</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 53</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 58</li>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -577,7 +576,7 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-rock" | relative_url }}">asian rock</a> # 27</li>
+            <li> <a href="{{ "/tags/asian-rock" | relative_url }}">asian rock</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -674,7 +673,7 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-rock" | relative_url }}">asian rock</a> # 12</li>
+            <li> <a href="{{ "/tags/asian-rock" | relative_url }}">asian rock</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -721,9 +720,9 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 6</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 55</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 57</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 41</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 45</li>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -772,7 +771,7 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-rock" | relative_url }}">asian rock</a> # 80</li>
+            <li> <a href="{{ "/tags/asian-rock" | relative_url }}">asian rock</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -818,7 +817,7 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-rock" | relative_url }}">asian rock</a> # 72</li>
+            <li> <a href="{{ "/tags/asian-rock" | relative_url }}">asian rock</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -911,12 +910,12 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 2</li>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 9</li>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 34</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 61</li>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 61</li>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 90</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 11</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 40</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 40</li>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 53</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 92</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -982,8 +981,8 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 57</li>
-            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 67</li>
+            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 31</li>
+            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1073,7 +1072,7 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-rock" | relative_url }}">asian rock</a> # 26</li>
+            <li> <a href="{{ "/tags/asian-rock" | relative_url }}">asian rock</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1182,7 +1181,7 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-rock" | relative_url }}">asian rock</a> # 81</li>
+            <li> <a href="{{ "/tags/asian-rock" | relative_url }}">asian rock</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1209,7 +1208,7 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-rock" | relative_url }}">asian rock</a> # 33</li>
+            <li> <a href="{{ "/tags/asian-rock" | relative_url }}">asian rock</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1234,7 +1233,7 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-rock" | relative_url }}">asian rock</a> # 87</li>
+            <li> <a href="{{ "/tags/asian-rock" | relative_url }}">asian rock</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1284,7 +1283,7 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-rock" | relative_url }}">asian rock</a> # 79</li>
+            <li> <a href="{{ "/tags/asian-rock" | relative_url }}">asian rock</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1308,8 +1307,8 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 9</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 11</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 88</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1358,8 +1357,8 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 29</li>
-            <li> <a href="{{ "/tags/asian-rock" | relative_url }}">asian rock</a> # 96</li>
+            <li> <a href="{{ "/tags/asian-rock" | relative_url }}">asian rock</a> # 4</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1402,7 +1401,7 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-rock" | relative_url }}">asian rock</a> # 43</li>
+            <li> <a href="{{ "/tags/asian-rock" | relative_url }}">asian rock</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1426,8 +1425,9 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 45</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 48</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 50</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 55</li>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1496,8 +1496,8 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 5</li>
             <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 37</li>
-            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1518,9 +1518,9 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 6</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 11</li>
             <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 43</li>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 90</li>
-            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1566,7 +1566,7 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 39</li>
+            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1584,10 +1584,10 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 5</li>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 15</li>
-            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 57</li>
+            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 43</li>
             <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 80</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 85</li>
+            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1720,9 +1720,10 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 27</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 41</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 44</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 54</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 59</li>
+            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 74</li>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1794,10 +1795,10 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 49</li>
-            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 92</li>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 92</li>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 93</li>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 5</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 9</li>
+            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 9</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1858,7 +1859,6 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1882,8 +1882,8 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 23</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 24</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 76</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1984,7 +1984,7 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 84</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -2027,9 +2027,9 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 50</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 67</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 67</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 31</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 34</li>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -2053,8 +2053,9 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 48</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 50</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 48</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 52</li>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -2078,9 +2079,9 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 43</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 63</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 64</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 34</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 38</li>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -2104,8 +2105,9 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 43</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 46</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 52</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 57</li>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -2129,9 +2131,9 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 61</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 81</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 83</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 18</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 18</li>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -2155,9 +2157,9 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 8</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 57</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 59</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 39</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 43</li>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -2176,9 +2178,7 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 58</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 73</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 75</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -2248,8 +2248,8 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 19</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 19</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 80</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -2299,7 +2299,7 @@ Boy band music is a genre of pop music that features a group of young male singe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-rock" | relative_url }}">asian rock</a> # 24</li>
+            <li> <a href="{{ "/tags/asian-rock" | relative_url }}">asian rock</a> # 73</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T11:26:31.823Z
+date: 2025-12-06T02:25:45.896Z
 permalink: tags/symphonic-prog
 title: symphonic prog
 ---
 
 ## symphonic prog
 
-Last updated: <time datetime="2025-12-03T11:26:31.823Z">Wed Dec 03 2025 13:26:31 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T02:25:45.896Z">Sat Dec 06 2025 04:25:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
   </thead>
   <tbody>
     <tr>
-      <td>22</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/76b3b3858b714321da4b31bd573eb2dc.png" alt="Cover for Act One" style="max-width:120px; height:auto;" />
       </td>
@@ -47,7 +47,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
       </td>
       <td>1970-11</td>
@@ -59,12 +59,12 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 57</li>
+            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 44</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c0617f0f765b4cab9de16c8158227fd4.png" alt="Cover for This Is...Gracious!!" style="max-width:120px; height:auto;" />
       </td>
@@ -85,12 +85,12 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a> # 70</li>
+            <li> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a> # 31</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>75</td>
       <td>
       </td>
       <td>1971</td>
@@ -108,7 +108,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
       </td>
       <td>1971-12-03</td>
@@ -125,48 +125,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
     </tr>
     <tr>
-      <td>15</td>
-      <td>
-          <img src="https://i.discogs.com/_bkb-6mN6WaHccvU1eMUMHD_PzT5ybuqnLCtfUavRnw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzAw/NTAwLTE0OTQ5MjMz/NTktMjYxNy5qcGVn.jpeg" alt="Cover for Thick As a Brick" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1972</td>
-      <td>Jethro Tull</td>
-      <td>Thick As a Brick</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 79</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>29</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f50f3d380a4407cc0b8c0532a20401b.png" alt="Cover for Sandrose" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1972</td>
-      <td>Sandrose</td>
-      <td>Sandrose</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-prog" | relative_url }}">symphonic prog</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 65</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
       </td>
       <td>1972</td>
@@ -183,12 +142,53 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 59</li>
+            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>72</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f50f3d380a4407cc0b8c0532a20401b.png" alt="Cover for Sandrose" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1972</td>
+      <td>Sandrose</td>
+      <td>Sandrose</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-prog" | relative_url }}">symphonic prog</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 36</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>
+          <img src="https://i.discogs.com/_bkb-6mN6WaHccvU1eMUMHD_PzT5ybuqnLCtfUavRnw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzAw/NTAwLTE0OTQ5MjMz/NTktMjYxNy5qcGVn.jpeg" alt="Cover for Thick As a Brick" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1972</td>
+      <td>Jethro Tull</td>
+      <td>Thick As a Brick</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 22</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6abcc417ec264005877fc0bb9f358923.png" alt="Cover for Trilogy" style="max-width:120px; height:auto;" />
       </td>
@@ -205,7 +205,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>93</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a71664d03340ca645a76877d7a247c6b.png" alt="Cover for Close to the Edge" style="max-width:120px; height:auto;" />
       </td>
@@ -223,7 +223,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f60ecf35e332fcd3d5946dbd735118b5.png" alt="Cover for Glorified Magnified" style="max-width:120px; height:auto;" />
       </td>
@@ -245,7 +245,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/71870e901187424aa1a28b424fe1db76.png" alt="Cover for Foxtrot" style="max-width:120px; height:auto;" />
       </td>
@@ -263,7 +263,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
       </td>
       <td>1972-11</td>
@@ -280,7 +280,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c33338b7dafceb59d891b858d865f835.png" alt="Cover for Concerto Delle Menti" style="max-width:120px; height:auto;" />
       </td>
@@ -302,17 +302,16 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>37</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e98b12051eca41f7b4b620ed92c54803.png" alt="Cover for Inferno" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/981295205b764a60b502451d4d9a6767.png" alt="Cover for Inside" style="max-width:120px; height:auto;" />
       </td>
       <td>1973</td>
-      <td>Metamorfosi</td>
-      <td>Inferno</td>
+      <td>Eloy</td>
+      <td>Inside</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
-            <li style="font-size: calc(1rem * 53 / 100)"> <a href="{{ "/tags/symphonic-prog" | relative_url }}">symphonic prog</a></li>
         </ul>
       </td>
       <td>
@@ -321,7 +320,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/QKRk4Av2jD2b5917zBwYwI7rwVx4vDapi3nfqLfT2JI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTUw/NDItMTU1NjQ4Nzk1/NC0xNTIxLmpwZWc.jpeg" alt="Cover for Inside (Remastered Album)" style="max-width:120px; height:auto;" />
       </td>
@@ -347,16 +346,17 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>63</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/981295205b764a60b502451d4d9a6767.png" alt="Cover for Inside" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e98b12051eca41f7b4b620ed92c54803.png" alt="Cover for Inferno" style="max-width:120px; height:auto;" />
       </td>
       <td>1973</td>
-      <td>Eloy</td>
-      <td>Inside</td>
+      <td>Metamorfosi</td>
+      <td>Inferno</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+            <li style="font-size: calc(1rem * 53 / 100)"> <a href="{{ "/tags/symphonic-prog" | relative_url }}">symphonic prog</a></li>
         </ul>
       </td>
       <td>
@@ -365,7 +365,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/79437107a3ee26213763d3d822be7e84.png" alt="Cover for ELO 2" style="max-width:120px; height:auto;" />
       </td>
@@ -383,7 +383,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9a9e92a352b64848b1fb6a3735cdf9f7.png" alt="Cover for Brain Salad Surgery" style="max-width:120px; height:auto;" />
       </td>
@@ -400,7 +400,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee2f7c5e1b6836f0284d9702730729a4.png" alt="Cover for Pequeñas Anecdotas Sobre Las Instituciones" style="max-width:120px; height:auto;" />
       </td>
@@ -418,13 +418,13 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 22</li>
             <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 50</li>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2f92d6b8840b9dc4b29950e03f3ea720.png" alt="Cover for Biglietto per l&#39;Inferno" style="max-width:120px; height:auto;" />
       </td>
@@ -442,7 +442,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/700010ff7fd44b7899bbcdb38749f9fd.png" alt="Cover for Mirage" style="max-width:120px; height:auto;" />
       </td>
@@ -460,7 +460,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/76c233f9ae5c7d036a25e6bd3ae59cc2.png" alt="Cover for Pequeñas Anécdotas Sobre las Instituciones" style="max-width:120px; height:auto;" />
       </td>
@@ -478,13 +478,13 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 58</li>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 86</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 15</li>
+            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/bKtxKKvau-Deem_BQJOYQvYChWrr_FE6yBgKb2ZaLDg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjk5/MzUtMTM1NjE4NzQw/MC05NzAzLmpwZWc.jpeg" alt="Cover for Scheherazade and other stories" style="max-width:120px; height:auto;" />
       </td>
@@ -502,7 +502,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
       </td>
       <td>1975-10</td>
@@ -519,7 +519,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/43df8ea7439b0ce482b5e1f57ed51d90.png" alt="Cover for Les porches" style="max-width:120px; height:auto;" />
       </td>
@@ -539,12 +539,12 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 70</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 31</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
       </td>
       <td>1976</td>
@@ -556,13 +556,13 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 34</li>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 66</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 35</li>
+            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2c19ec51599052865dd81c439c9f4801.png" alt="Cover for Gudrun" style="max-width:120px; height:auto;" />
       </td>
@@ -583,26 +583,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
     </tr>
     <tr>
-      <td>2</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8f88210090c42d42b2cba093e4023e3b.png" alt="Cover for Zora" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1977</td>
-      <td>Antonius Rex</td>
-      <td>Zora</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-prog" | relative_url }}">symphonic prog</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>78</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0fdb2a2f0114998eb6ef125ed5302673.png" alt="Cover for Halloween" style="max-width:120px; height:auto;" />
       </td>
@@ -624,7 +605,26 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>99</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8f88210090c42d42b2cba093e4023e3b.png" alt="Cover for Zora" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1977</td>
+      <td>Antonius Rex</td>
+      <td>Zora</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-prog" | relative_url }}">symphonic prog</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/281db07432264082ae57d316f62fee9f.png" alt="Cover for The Missing Piece" style="max-width:120px; height:auto;" />
       </td>
@@ -642,7 +642,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d27e218766b54431c409b2ce5d5f4952.png" alt="Cover for Seconds Out" style="max-width:120px; height:auto;" />
       </td>
@@ -660,7 +660,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>88</td>
       <td>
       </td>
       <td>1978</td>
@@ -685,7 +685,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/66d2f4c9c4b9469896898549012f2c21.png" alt="Cover for Angel Station" style="max-width:120px; height:auto;" />
       </td>
@@ -700,12 +700,12 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 37</li>
+            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/06cdfb9f407822f0b7a7c82fcf9128f5.png" alt="Cover for Chance" style="max-width:120px; height:auto;" />
       </td>
@@ -726,7 +726,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4fcf628e057548c6b176433f8b854e72.png" alt="Cover for The Turn Of A Friendly Card" style="max-width:120px; height:auto;" />
       </td>
@@ -741,30 +741,12 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 25</li>
+            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4bf87078b8384cc4cc11a7e510bcd1a6.png" alt="Cover for Classic Yes" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1981</td>
-      <td>Yes</td>
-      <td>Classic Yes</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>63</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/50b4c7f6f5749cc0ab76341d9ab8aeea.png" alt="Cover for Planets" style="max-width:120px; height:auto;" />
       </td>
@@ -782,27 +764,25 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>96</td>
       <td>
-          <img src="https://i.discogs.com/K0OyZ0ZTunAxj9et8QVerZAuartKM96G5USTbHUJQU0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Mjgz/MTEtMTY3MzQ4MzU1/Ni0xMjgyLmpwZWc.jpeg" alt="Cover for Tales of Mystery and Imagination - Edgar Allan Poe" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4bf87078b8384cc4cc11a7e510bcd1a6.png" alt="Cover for Classic Yes" style="max-width:120px; height:auto;" />
       </td>
-      <td>1982</td>
-      <td>The Alan Parsons Project</td>
-      <td>Tales of Mystery and Imagination - Edgar Allan Poe</td>
+      <td>1981</td>
+      <td>Yes</td>
+      <td>Classic Yes</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3addab36029244946af39eaab577e336.png" alt="Cover for Somewhere in Afrika" style="max-width:120px; height:auto;" />
       </td>
@@ -821,12 +801,32 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 31</li>
+            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>46</td>
+      <td>
+          <img src="https://i.discogs.com/K0OyZ0ZTunAxj9et8QVerZAuartKM96G5USTbHUJQU0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Mjgz/MTEtMTY3MzQ4MzU1/Ni0xMjgyLmpwZWc.jpeg" alt="Cover for Tales of Mystery and Imagination - Edgar Allan Poe" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1982</td>
+      <td>The Alan Parsons Project</td>
+      <td>Tales of Mystery and Imagination - Edgar Allan Poe</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 22</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/251d507089ccd22616e048799a7ec203.png" alt="Cover for Somewhere In Africa" style="max-width:120px; height:auto;" />
       </td>
@@ -849,7 +849,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ec84b45eaffa4cc1cc651826a8f90ca4.png" alt="Cover for The Very Best Of The Alan Parsons Project" style="max-width:120px; height:auto;" />
       </td>
@@ -867,7 +867,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>92</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e7e2a0c356b326b2f34b5fbdb1f5b41a.png" alt="Cover for Heads Or Tales" style="max-width:120px; height:auto;" />
       </td>
@@ -886,7 +886,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/w2V6eaLoY5pbhnqk44X3X5HikUhxpYVSaS5N0dANBac/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTIy/NzA4LTE1NjgyNjMw/NDktNDM0My5qcGVn.jpeg" alt="Cover for Best of the Alan Parsons Project, Vol. 2" style="max-width:120px; height:auto;" />
       </td>
@@ -899,12 +899,12 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 8</li>
+            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/30d6566610d34680854ac3c5b325b55b.png" alt="Cover for Obras de Violeta Parra" style="max-width:120px; height:auto;" />
       </td>
@@ -923,14 +923,14 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 16</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 28</li>
             <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 69</li>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 73</li>
-            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3d3aa80915c64cbcb4dae2e66d5e12c8.png" alt="Cover for Budapest Live" style="max-width:120px; height:auto;" />
       </td>
@@ -953,7 +953,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6fb197846fb1433cbb7cd52aeeaffcd0.png" alt="Cover for Stereotomy" style="max-width:120px; height:auto;" />
       </td>
@@ -968,12 +968,12 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 46</li>
+            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e8a142c7c2fbf1242062113e0b7fd3e.png" alt="Cover for Criminal Tango" style="max-width:120px; height:auto;" />
       </td>
@@ -991,7 +991,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>76</td>
       <td>
       </td>
       <td>1986-03</td>
@@ -1013,7 +1013,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/m01TVonR4RnslWYyYxEYai_ssC0Ro_Aq4jSIEVgeyU8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NDQ3/NDAtMTM4MDE5MjU0/NC05MjE3LmpwZWc.jpeg" alt="Cover for Modrý Vrch" style="max-width:120px; height:auto;" />
       </td>
@@ -1031,7 +1031,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9234ce39469d4487dbb5d622f13b58f2.png" alt="Cover for Wildest Dreams" style="max-width:120px; height:auto;" />
       </td>
@@ -1054,7 +1054,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fa9de5f4e5f341d99813d14486a083ee.png" alt="Cover for The Instrumental Works" style="max-width:120px; height:auto;" />
       </td>
@@ -1074,12 +1074,12 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 23</li>
+            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f76ebcf31248c436e5421307af80191d.png" alt="Cover for Anthology" style="max-width:120px; height:auto;" />
       </td>
@@ -1098,7 +1098,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5eee4e9bccd949acb0f7aa44b354841c.png" alt="Cover for Works Live" style="max-width:120px; height:auto;" />
       </td>
@@ -1111,12 +1111,12 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 73</li>
+            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 28</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>77</td>
       <td>
       </td>
       <td>1993-12-01</td>
@@ -1141,7 +1141,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>45</td>
       <td>
       </td>
       <td>1994</td>
@@ -1166,7 +1166,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/RFiF-ycGRwcH-aG6ynu6g7OFPPjFXI-4638jTVYO9Wk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjEx/OS0xMTY0NTY1MjE3/LmpwZWc.jpeg" alt="Cover for The Very Best Of . . ." style="max-width:120px; height:auto;" />
       </td>
@@ -1185,12 +1185,12 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 3</li>
+            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>83</td>
       <td>
       </td>
       <td>1995</td>
@@ -1215,7 +1215,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9b8969ac3d3a60b7c2521572d942d729.png" alt="Cover for Indian Summer" style="max-width:120px; height:auto;" />
       </td>
@@ -1235,7 +1235,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>90</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1cdea64e90d8a9dfee3682fba47c7dee.png" alt="Cover for Soft Vengeance" style="max-width:120px; height:auto;" />
       </td>
@@ -1258,7 +1258,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
       </td>
       <td>1996-06-11</td>
@@ -1276,12 +1276,12 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 72</li>
+            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
       </td>
       <td>1996-12-31</td>
@@ -1293,12 +1293,12 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 32</li>
+            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>91</td>
       <td>
       </td>
       <td>1997</td>
@@ -1316,7 +1316,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/478471e23f194c0ecc3fd8c83e6ed0d9.png" alt="Cover for The Definitive Collection" style="max-width:120px; height:auto;" />
       </td>
@@ -1335,7 +1335,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>85</td>
       <td>
       </td>
       <td>1997-11</td>
@@ -1357,7 +1357,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/423f3c0e8ab8cf94d4a3bbd477e03638.png" alt="Cover for Symphonic Holocaust" style="max-width:120px; height:auto;" />
       </td>
@@ -1375,7 +1375,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e94e4fdc92744ca6b3ec72893ad1251e.png" alt="Cover for Nightingales and Bombers" style="max-width:120px; height:auto;" />
       </td>
@@ -1394,7 +1394,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>98</td>
       <td>
       </td>
       <td>1999-11-02</td>
@@ -1412,7 +1412,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb6b069f40b91785288586572cc76690.png" alt="Cover for Atom Heart Mother (2011 Remastered Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1432,15 +1432,15 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       <td>
         <ul>
             <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 1</li>
-            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 16</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 4</li>
             <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 30</li>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 52</li>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 97</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 49</li>
+            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a45245a4c0d56bbd7eae81a7c9a6dfbb.png" alt="Cover for Atom Heart Mother Suite" style="max-width:120px; height:auto;" />
       </td>
@@ -1459,7 +1459,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f6e9377447dc63de67704cae88af07a0.png" alt="Cover for Platinum &amp; Gold Collection" style="max-width:120px; height:auto;" />
       </td>
@@ -1479,12 +1479,12 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 49</li>
+            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9467da7e68624df0cdfc756d8727d877.png" alt="Cover for Ultimate The Alan Parsons Project" style="max-width:120px; height:auto;" />
       </td>
@@ -1504,12 +1504,12 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 12</li>
+            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/L0QcCfQThhhkaBc5h5OBhuZVNyF3f-iSf9o7iYilij4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTAz/OTYtMTYxNzY1MTkw/MS03ODM4LmpwZWc.jpeg" alt="Cover for Peppers Ghost" style="max-width:120px; height:auto;" />
       </td>
@@ -1523,12 +1523,12 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-prog" | relative_url }}">neo-prog</a> # 62</li>
+            <li> <a href="{{ "/tags/neo-prog" | relative_url }}">neo-prog</a> # 39</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>100</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a25b3350ef214355ba9e8d70bcd797f6.png" alt="Cover for Aqualung 40th Anniversary" style="max-width:120px; height:auto;" />
       </td>
@@ -1548,7 +1548,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0dd00c7c025248539fc60fddb70a8d2b.png" alt="Cover for Trust" style="max-width:120px; height:auto;" />
       </td>
@@ -1567,12 +1567,12 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 1</li>
+            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dc1f15897b3949db9fb1ddef2613fc49.png" alt="Cover for The Essential Alan Parsons Project" style="max-width:120px; height:auto;" />
       </td>
@@ -1586,11 +1586,12 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/fSnFlTsRGea-00W6QKFcOFKHEBqQZiAn8_ieHaJQ3qg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNjY4/NzgtMTQ3NjAzOTA2/NC02NDc3LmpwZWc.jpeg" alt="Cover for 10.000 Days" style="max-width:120px; height:auto;" />
       </td>
@@ -1609,12 +1610,32 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 13</li>
+            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>5</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3d2f791f3fed46dc9491473dba3d9255.png" alt="Cover for Wind And Wuthering" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Genesis</td>
+      <td>Wind And Wuthering</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/symphonic-prog" | relative_url }}">symphonic prog</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
       <td>
       </td>
       <td>2007</td>
@@ -1636,27 +1657,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
     </tr>
     <tr>
-      <td>96</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3d2f791f3fed46dc9491473dba3d9255.png" alt="Cover for Wind And Wuthering" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2007</td>
-      <td>Genesis</td>
-      <td>Wind And Wuthering</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/symphonic-prog" | relative_url }}">symphonic prog</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>28</td>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5ec23ba1359a48a792956e0413cfd3c3.png" alt="Cover for The Essential Emerson, Lake &amp; Palmer" style="max-width:120px; height:auto;" />
       </td>
@@ -1673,7 +1674,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>84</td>
       <td>
       </td>
       <td>2007-03-19</td>
@@ -1687,12 +1688,12 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 7</li>
+            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>49</td>
       <td>
       </td>
       <td>2007-04-27</td>
@@ -1714,7 +1715,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
       </td>
       <td>2007-10-19</td>
@@ -1726,12 +1727,12 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 26</li>
+            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
       </td>
       <td>2009</td>
@@ -1753,7 +1754,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/58e61795aa284f10a1cef5b33d2eec7d.png" alt="Cover for The Fading Ghosts of Twilight" style="max-width:120px; height:auto;" />
       </td>
@@ -1774,7 +1775,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4058561a9e7648bfc8cf43e830135a6b.png" alt="Cover for The Collection" style="max-width:120px; height:auto;" />
       </td>
@@ -1794,12 +1795,12 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 66</li>
+            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 35</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/X6k4BcYEXvkka43tdJ3PRCtfwJd4Z8INmXPnYLHe26Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyOTA1/MzEtMTQzODExNjY2/Ny0zNDIwLmpwZWc.jpeg" alt="Cover for Emerson, Lake and Palmer" style="max-width:120px; height:auto;" />
       </td>
@@ -1812,12 +1813,12 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 47</li>
+            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/TLJxuRpQoV3hmm6QAfagJmHkHrDbp2eRUmMslNQWhno/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDEy/ODAtMTI5MjE2NzY0/OS5qcGVn.jpeg" alt="Cover for Ocean 2" style="max-width:120px; height:auto;" />
       </td>
@@ -1844,7 +1845,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/QpRMBkg22k1zuhsnuhM78NNKea5aoQ7mpG4v8JnsWts/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MzMz/ODUtMTMzODE5NzUz/Ny02NDYxLmpwZWc.jpeg" alt="Cover for Sea of Smiles" style="max-width:120px; height:auto;" />
       </td>
@@ -1863,7 +1864,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/61bc2a17b7e1419dbf1c977e76079041.png" alt="Cover for 20&#x2F;20" style="max-width:120px; height:auto;" />
       </td>
@@ -1886,7 +1887,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f595136478d24098bd0fb24bf45b3314.png" alt="Cover for Spotlight (1971-1991)" style="max-width:120px; height:auto;" />
       </td>
@@ -1904,7 +1905,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e048f68d7f4a44ecc4c08d722ce6b5f2.png" alt="Cover for Demon (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1923,7 +1924,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1fc2632bd025b35e59e1b5cc13d344f3.png" alt="Cover for Mon Laferte (Vol. 1&#x2F; Edicion Especial)" style="max-width:120px; height:auto;" />
       </td>
@@ -1939,14 +1940,14 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 23</li>
-            <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 69</li>
+            <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 32</li>
+            <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 78</li>
             <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6d70e303167ddc558b116f870c6ece96.png" alt="Cover for Don&#39;t Panic" style="max-width:120px; height:auto;" />
       </td>
@@ -1965,7 +1966,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>95</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4cea029d714c7f4e7d8d0bcd765c5428.png" alt="Cover for El Porvenir Está en las Huevas" style="max-width:120px; height:auto;" />
       </td>
@@ -1985,7 +1986,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/ItjjsAy2EG4mimPCxVSeYdcqRplaKtkmwrlx96Thh0Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTM1/ODUzLTE2NzUwOTU2/MjUtNDAyNS5qcGVn.jpeg" alt="Cover for Dominion" style="max-width:120px; height:auto;" />
       </td>
@@ -2001,12 +2002,12 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/canterbury-scene" | relative_url }}">canterbury scene</a> # 71</li>
+            <li> <a href="{{ "/tags/canterbury-scene" | relative_url }}">canterbury scene</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/91c18f1fd6f942b2ad7d677d6e6c3cd6.png" alt="Cover for The Best of Eloy, Volume 2 (The Prime 1976-1979)" style="max-width:120px; height:auto;" />
       </td>
@@ -2019,12 +2020,12 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 14</li>
+            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>65</td>
       <td>
       </td>
       <td>2023-06-23</td>
@@ -2040,7 +2041,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>94</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e03c52dff6bef2b5d34705b8560e670e.png" alt="Cover for Harbour Century" style="max-width:120px; height:auto;" />
       </td>
@@ -2057,7 +2058,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9958708c7494a42cb1de32301787a4f8.png" alt="Cover for Eye in the Sky" style="max-width:120px; height:auto;" />
       </td>
@@ -2072,9 +2073,9 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 43</li>
-            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 77</li>
-            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 94</li>
+            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 7</li>
+            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 24</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 57</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T17:42:25.970Z
+date: 2025-12-06T03:16:45.929Z
 permalink: tags/waltz
 title: waltz
 ---
 
 ## waltz
 
-Last updated: <time datetime="2025-12-03T17:42:25.970Z">Wed Dec 03 2025 19:42:25 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T03:16:45.929Z">Sat Dec 06 2025 05:16:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -64,7 +64,7 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sonata" | relative_url }}">sonata</a> # 12</li>
+            <li> <a href="{{ "/tags/sonata" | relative_url }}">sonata</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -125,7 +125,7 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical-piano" | relative_url }}">classical piano</a> # 42</li>
+            <li> <a href="{{ "/tags/classical-piano" | relative_url }}">classical piano</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -293,8 +293,8 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 42</li>
-            <li> <a href="{{ "/tags/austria" | relative_url }}">austria</a> # 74</li>
+            <li> <a href="{{ "/tags/austria" | relative_url }}">austria</a> # 25</li>
+            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -412,7 +412,7 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a> # 29</li>
+            <li> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -546,7 +546,7 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>96</td>
       <td>
           <img src="https://i.discogs.com/jNyXOtYuFKzxRuaXyVy-ssIUv1ahuhbpkajGoNUnvK8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NTAz/NjEtMTYyOTkzNjQ5/Ny04OTUzLmpwZWc.jpeg" alt="Cover for Klaus Hallen Studio Tanz Orchester 4" style="max-width:120px; height:auto;" />
       </td>
@@ -636,7 +636,7 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a> # 87</li>
+            <li> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -675,8 +675,8 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 8</li>
-            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 13</li>
+            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 88</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -903,7 +903,7 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 67</li>
+            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -923,6 +923,26 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/waltz" | relative_url }}">waltz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>
+      </td>
+      <td>2009-08-06</td>
+      <td>Tom Wolf</td>
+      <td>INCOMPLETE - Tom Wolf</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/germany" | relative_url }}">germany</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/waltz" | relative_url }}">waltz</a></li>
         </ul>
       </td>
@@ -1001,7 +1021,7 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 17</li>
+            <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 85</li>
             <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 95</li>
         </ul>
       </td>
@@ -1086,7 +1106,7 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 15</li>
+            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1183,8 +1203,8 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ragtime" | relative_url }}">ragtime</a> # 34</li>
             <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 50</li>
+            <li> <a href="{{ "/tags/ragtime" | relative_url }}">ragtime</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1382,9 +1402,9 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/string-quartet" | relative_url }}">string quartet</a> # 45</li>
+            <li> <a href="{{ "/tags/classical-composer" | relative_url }}">classical composer</a> # 1</li>
+            <li> <a href="{{ "/tags/string-quartet" | relative_url }}">string quartet</a> # 56</li>
             <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 83</li>
-            <li> <a href="{{ "/tags/classical-composer" | relative_url }}">classical composer</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1409,7 +1429,7 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-baroque" | relative_url }}">italian baroque</a> # 94</li>
+            <li> <a href="{{ "/tags/italian-baroque" | relative_url }}">italian baroque</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1438,8 +1458,8 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/classical-composer" | relative_url }}">classical composer</a> # 6</li>
             <li> <a href="{{ "/tags/concert" | relative_url }}">concert</a> # 55</li>
-            <li> <a href="{{ "/tags/classical-composer" | relative_url }}">classical composer</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1460,7 +1480,7 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/clarinet" | relative_url }}">clarinet</a> # 26</li>
+            <li> <a href="{{ "/tags/clarinet" | relative_url }}">clarinet</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1954,7 +1974,7 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>97</td>
       <td>
       </td>
       <td></td>
@@ -1966,23 +1986,6 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sheffield" | relative_url }}">sheffield</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/waltz" | relative_url }}">waltz</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>100</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Larrysmusic</td>
-      <td>Electric Accordion</td>
-      <td>
-        <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/waltz" | relative_url }}">waltz</a></li>
         </ul>
       </td>

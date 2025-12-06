@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T13:22:49.293Z
+date: 2025-12-06T02:46:46.010Z
 permalink: tags/dance
 title: dance
 ---
 
 ## dance
 
-Last updated: <time datetime="2025-12-03T13:22:49.293Z">Wed Dec 03 2025 15:22:49 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T02:46:46.010Z">Sat Dec 06 2025 04:46:46 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Dance is an electronic music genre designed to get people moving with its steady
   </thead>
   <tbody>
     <tr>
-      <td>34</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c2ee70daf660409185002f1378325ce1.png" alt="Cover for Porque Te Vas" style="max-width:120px; height:auto;" />
       </td>
@@ -52,19 +52,19 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 1</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 1</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 1</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 1</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 1</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 1</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 3</li>
             <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 4</li>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 98</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 100</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 100</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 100</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 100</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 100</li>
-            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/56d00cdcb0f35d0b0220515c452f9a03.png" alt="Cover for The Safety Dance" style="max-width:120px; height:auto;" />
       </td>
@@ -81,13 +81,13 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 70</li>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 76</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 25</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 31</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f6975360e57b465896a04ab0540f41a2.png" alt="Cover for Pump Up the Jam" style="max-width:120px; height:auto;" />
       </td>
@@ -102,13 +102,13 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 92</li>
-            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 99</li>
+            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 2</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 9</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/7CgjqHnEc3jxfvDsCEvETsWJIxLsV4dqwYfijNSAfbg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODI5/NzQtMTI4NjQ5ODU4/MC5qcGVn.jpeg" alt="Cover for FEEL SPECIAL" style="max-width:120px; height:auto;" />
       </td>
@@ -125,13 +125,13 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a> # 59</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 94</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 7</li>
+            <li> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>86</td>
       <td>
       </td>
       <td>1999</td>
@@ -148,7 +148,7 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c39efcb97b907a9de0a4f2428019232.png" alt="Cover for On the Floor" style="max-width:120px; height:auto;" />
       </td>
@@ -163,13 +163,13 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 40</li>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 69</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 32</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1340e9e1082cf0dc748583b7eefce6d5.png" alt="Cover for Discovery" style="max-width:120px; height:auto;" />
       </td>
@@ -186,13 +186,13 @@ Dance is an electronic music genre designed to get people moving with its steady
         <ul>
             <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 6</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 9</li>
+            <li> <a href="{{ "/tags/french-house" | relative_url }}">french house</a> # 16</li>
             <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 25</li>
-            <li> <a href="{{ "/tags/french-house" | relative_url }}">french house</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>94</td>
       <td>
       </td>
       <td>2004-09-11</td>
@@ -209,7 +209,7 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/5nUj9DY3BmC8mVDPMSrjL_1dKE_gQDjTprsWBrLoX6c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzgw/OS0xMjAwNTgxNTE1/LmpwZWc.jpeg" alt="Cover for The Weekend" style="max-width:120px; height:auto;" />
       </td>
@@ -228,7 +228,7 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/ssttpLNTVE7naOK_AZDqHiLb0-5VtNfbdXrfuZ2GuNk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzkw/MDI1LTE1MDQzNjQz/NTMtODAzOC5qcGVn.jpeg" alt="Cover for 2005 - Confessions On A Dance Floor" style="max-width:120px; height:auto;" />
       </td>
@@ -248,7 +248,7 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0bb5e59856964ea9ce3edd20bdb201d5.png" alt="Cover for Global Warming: Meltdown (Deluxe Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -263,13 +263,13 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 1</li>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 91</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 10</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/29d54c446c07da047b1a054d44815899.png" alt="Cover for Everytime We Touch" style="max-width:120px; height:auto;" />
       </td>
@@ -282,12 +282,12 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 91</li>
+            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 10</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
       </td>
       <td>2007-07-31</td>
@@ -304,15 +304,15 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 4</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 4</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 17</li>
             <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 48</li>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 97</li>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b9a14a64aed91932f0f45708d6b20a74.png" alt="Cover for Blackout" style="max-width:120px; height:auto;" />
       </td>
@@ -326,12 +326,12 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 65</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 36</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5c866827fc07bed8ea1624b6de3d98b3.png" alt="Cover for Circus (Deluxe Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -350,7 +350,7 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>88</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e0b3aa052c8fbed55a32b6dec5063d6f.png" alt="Cover for Infinity 2008" style="max-width:120px; height:auto;" />
       </td>
@@ -368,7 +368,7 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/176dfd193cd846879323d04e8ad1d196.png" alt="Cover for Just Dance" style="max-width:120px; height:auto;" />
       </td>
@@ -386,7 +386,7 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/212041a78d1b07d481404936f57314fb.png" alt="Cover for The Fame" style="max-width:120px; height:auto;" />
       </td>
@@ -400,13 +400,13 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 48</li>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 83</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 18</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/49a1ff6dd745a6c6f7adb7544fffface.png" alt="Cover for The Fame Monster" style="max-width:120px; height:auto;" />
       </td>
@@ -424,7 +424,7 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c1c93f40047046c1bce56e8fad76f3e1.png" alt="Cover for The E.N.D. (The Energy Never Dies)" style="max-width:120px; height:auto;" />
       </td>
@@ -445,7 +445,7 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c080cb482f8d867c7c34899f77a1ac64.png" alt="Cover for The E.N.D" style="max-width:120px; height:auto;" />
       </td>
@@ -465,7 +465,7 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/abea43811c0c48278574f036235c273f.png" alt="Cover for One More Love" style="max-width:120px; height:auto;" />
       </td>
@@ -485,7 +485,7 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/99cbd8ef5f872e030f4b41d7cb55f12f.png" alt="Cover for Rokstarr" style="max-width:120px; height:auto;" />
       </td>
@@ -504,7 +504,7 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>40</td>
       <td>
       </td>
       <td>2009-12-22</td>
@@ -521,7 +521,35 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>29</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8504f8b6a728694e9985169e97c82990.png" alt="Cover for Chromatica" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010</td>
+      <td>Lady Gaga</td>
+      <td>Chromatica</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 2</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 8</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 11</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 14</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 56</li>
+            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 67</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/940351f3cd3404d81c6dfe62ffb55c6c.png" alt="Cover for Confessions on a Dance Floor" style="max-width:120px; height:auto;" />
       </td>
@@ -539,35 +567,7 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>72</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8504f8b6a728694e9985169e97c82990.png" alt="Cover for Chromatica" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2010</td>
-      <td>Lady Gaga</td>
-      <td>Chromatica</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 1</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 8</li>
-            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 33</li>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 56</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 87</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 90</li>
-            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 99</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/24546ab04aeb584825f465d8968301c4.png" alt="Cover for Animal" style="max-width:120px; height:auto;" />
       </td>
@@ -586,7 +586,7 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>62</td>
       <td>
       </td>
       <td>2010-04-06</td>
@@ -603,7 +603,7 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a7dc977b7a53d3e898f86eaee644aba7.png" alt="Cover for The Middle" style="max-width:120px; height:auto;" />
       </td>
@@ -620,14 +620,14 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 1</li>
             <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 9</li>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 57</li>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 100</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 44</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9607f27338e944bec4ee49de3cd045c0.png" alt="Cover for The Third Single Catallena" style="max-width:120px; height:auto;" />
       </td>
@@ -646,7 +646,7 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d978e4ea72604b20a3d36746fe3e986a.png" alt="Cover for Stereo Love" style="max-width:120px; height:auto;" />
       </td>
@@ -665,7 +665,7 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f6e59425f1434c6c81043362bc585710.png" alt="Cover for Barbra Streisand" style="max-width:120px; height:auto;" />
       </td>
@@ -685,7 +685,7 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/782dd54c6af3f868cdfabfa00d9f60aa.png" alt="Cover for Miami 2 Ibiza" style="max-width:120px; height:auto;" />
       </td>
@@ -705,7 +705,7 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
       </td>
       <td>2010-10-25</td>
@@ -720,14 +720,14 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 24</li>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 76</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 91</li>
             <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/oDJG4udHEe7dni9eqWvCPIasmrKz0BfMrj5ysYd9-kQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODgy/NTAtMTQ3ODE3MTQz/NS0yMTQ3LmpwZWc.jpeg" alt="Cover for Live My Life" style="max-width:120px; height:auto;" />
       </td>
@@ -744,57 +744,14 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 7</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 29</li>
             <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 92</li>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c01cd50ec384692b9826646f65dcbdd.png" alt="Cover for Hold It Against Me - Single" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2011</td>
-      <td>Britney Spears</td>
-      <td>Hold It Against Me - Single</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 74</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>37</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/47e35555d851ee090565c673e85625e0.png" alt="Cover for Loud (Japan Version)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2011</td>
-      <td>Rihanna</td>
-      <td>Loud (Japan Version)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japan" | relative_url }}">japan</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 98</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>43</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/19ae8b097bdc4962c99a1877e8ff5eff.png" alt="Cover for Can&#39;t Remember to Forget You" style="max-width:120px; height:auto;" />
       </td>
@@ -811,13 +768,56 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 8</li>
             <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 39</li>
-            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/47e35555d851ee090565c673e85625e0.png" alt="Cover for Loud (Japan Version)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011</td>
+      <td>Rihanna</td>
+      <td>Loud (Japan Version)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japan" | relative_url }}">japan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 3</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c01cd50ec384692b9826646f65dcbdd.png" alt="Cover for Hold It Against Me - Single" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011</td>
+      <td>Britney Spears</td>
+      <td>Hold It Against Me - Single</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 27</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/60b8c1b456c52a96e1ffa570a016dd6b.png" alt="Cover for Party Rock Anthem" style="max-width:120px; height:auto;" />
       </td>
@@ -835,7 +835,7 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e97b20cce8f84787b3e3402988a92985.png" alt="Cover for Mr. Saxobeat" style="max-width:120px; height:auto;" />
       </td>
@@ -855,7 +855,7 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/40f21ed7e2cf4579c586c5537d622164.png" alt="Cover for Do What U Want" style="max-width:120px; height:auto;" />
       </td>
@@ -872,13 +872,13 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 34</li>
             <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 43</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/zai3InxkUs-Wh3oCmr9VB-LZEFEzWELyWBmKFLCvyMw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NjU5/MjYtMTM3MTgwNDA5/My01MTYwLmpwZWc.jpeg" alt="Cover for Love?" style="max-width:120px; height:auto;" />
       </td>
@@ -897,7 +897,7 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>93</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a133afed51054d83927e94236fec977a.png" alt="Cover for Ma Boy" style="max-width:120px; height:auto;" />
       </td>
@@ -916,7 +916,7 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>98</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/13bc6bda495bcfcf8a8f1b987b7df1cf.png" alt="Cover for Saxobeats" style="max-width:120px; height:auto;" />
       </td>
@@ -934,7 +934,7 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e4f32d52d29f4c3a878ec022ed94e13c.png" alt="Cover for Levels" style="max-width:120px; height:auto;" />
       </td>
@@ -949,16 +949,16 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 8</li>
             <li> <a href="{{ "/tags/melodic-house" | relative_url }}">melodic house</a> # 15</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 19</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 26</li>
             <li> <a href="{{ "/tags/chill-house" | relative_url }}">chill house</a> # 39</li>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 75</li>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/024eb3bcbf13bef347800a18c2c61f3b.png" alt="Cover for Talk That Talk" style="max-width:120px; height:auto;" />
       </td>
@@ -973,12 +973,12 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 24</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/aQqZUDvn9uC9jFoDCBgcZ-nJCfRH4l71u-xyxgecwbI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MzA1/MjQtMTQ4ODczNTk1/MS03MDI4LmpwZWc.jpeg" alt="Cover for witNESS (deLuxE)" style="max-width:120px; height:auto;" />
       </td>
@@ -998,7 +998,7 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/89590846604142baa2aa4b71bb3aac58.png" alt="Cover for Bangarang EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1016,16 +1016,17 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/complextro" | relative_url }}">complextro</a> # 2</li>
+            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 2</li>
             <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 3</li>
             <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 8</li>
             <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 9</li>
             <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 46</li>
-            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ce4b566e5a3a41f78ec535668a821603.png" alt="Cover for Icarus" style="max-width:120px; height:auto;" />
       </td>
@@ -1043,14 +1044,14 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 7</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 9</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 44</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 92</li>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3d11d392dfbedee5b9ca99485e4c7cd0.png" alt="Cover for Wild Ones" style="max-width:120px; height:auto;" />
       </td>
@@ -1070,7 +1071,7 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>99</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/086fc2abca2271e46744e6fc31b7de3f.png" alt="Cover for Clarity" style="max-width:120px; height:auto;" />
       </td>
@@ -1085,15 +1086,16 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 3</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 6</li>
+            <li> <a href="{{ "/tags/complextro" | relative_url }}">complextro</a> # 7</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 20</li>
-            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 23</li>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 95</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 98</li>
+            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dc9ec9026e229cfdfffd2ccf318a07bf.png" alt="Cover for 13 Reasons Why (Season 2)" style="max-width:120px; height:auto;" />
       </td>
@@ -1111,13 +1113,13 @@ Dance is an electronic music genre designed to get people moving with its steady
       <td>
         <ul>
             <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 1</li>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 88</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 96</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 4</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 13</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/93aeef1e401fe3266157cb416fd3d42b.png" alt="Cover for Wake Me Up" style="max-width:120px; height:auto;" />
       </td>
@@ -1131,12 +1133,12 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 9</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/6yyRljNgfemPOevSiyo7BcKrL7ZIjnqaELpK0pwpLiU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4OTIx/NjUtMTU1NTI3MTk1/NS01Mzg3LnBuZw.jpeg" alt="Cover for Stay The Night" style="max-width:120px; height:auto;" />
       </td>
@@ -1154,7 +1156,27 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>3</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3becc2be31bb0bc3a6dedc321d5d7a7c.png" alt="Cover for My Way" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014</td>
+      <td>Calvin Harris</td>
+      <td>My Way</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 1</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6278a10ea8e04889c81cd103e9378329.png" alt="Cover for Mini World (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -1175,27 +1197,7 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>98</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3becc2be31bb0bc3a6dedc321d5d7a7c.png" alt="Cover for My Way" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2014</td>
-      <td>Calvin Harris</td>
-      <td>My Way</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 100</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/caa48c00926adfd0ba9040b2d5fc876b.png" alt="Cover for Boys Don&#39;t Cry" style="max-width:120px; height:auto;" />
       </td>
@@ -1213,15 +1215,15 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 1</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 4</li>
             <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 7</li>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 35</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 97</li>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 100</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4f651d079d72eb44d58dfa85c7b49d0b.png" alt="Cover for I Will Never Let You Down" style="max-width:120px; height:auto;" />
       </td>
@@ -1236,14 +1238,14 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 14</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 74</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 95</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 6</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 27</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/19fde73135d44184c1c467e405de2c65.png" alt="Cover for Summer" style="max-width:120px; height:auto;" />
       </td>
@@ -1263,7 +1265,7 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6d9ccbf7bd97937241301e216d550a58.png" alt="Cover for Motion" style="max-width:120px; height:auto;" />
       </td>
@@ -1281,16 +1283,16 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 1</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 2</li>
             <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 8</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 26</li>
             <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 40</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 75</li>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 99</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>84</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a75a1a847c84bb5cb69198596e2bfb8.png" alt="Cover for Listen" style="max-width:120px; height:auto;" />
       </td>
@@ -1306,12 +1308,12 @@ Dance is an electronic music genre designed to get people moving with its steady
       <td>
         <ul>
             <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 37</li>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 52</li>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/535ef4ca88254e3acec383a89b16cb71.png" alt="Cover for My House" style="max-width:120px; height:auto;" />
       </td>
@@ -1330,7 +1332,7 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/SbEjerLoKl8yx64IHFOorhvpjZdYnofXOV5-xNiCmmY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NDgz/ODMtMTQ0Nzk2NTAw/OC0xMjE2LmpwZWc.jpeg" alt="Cover for I Took A Pill In Ibiza (SeeB Remix)" style="max-width:120px; height:auto;" />
       </td>
@@ -1346,13 +1348,13 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 4</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 10</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ea2f7df0f9d54d67a2d4195fca95f85f.png" alt="Cover for Ocean Drive" style="max-width:120px; height:auto;" />
       </td>
@@ -1372,53 +1374,7 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>55</td>
-      <td>
-          <img src="https://i.discogs.com/RRkqBiDUbxt32NJDer0kG7_3MQXN0l3DgF9ZC2nXZgw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MTUy/NDEtMTQ2MTE2MDY5/MC0yNTY4LmpwZWc.jpeg" alt="Cover for Cake By The Ocean" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2016</td>
-      <td>DNCE</td>
-      <td>Cake By The Ocean</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 93</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>83</td>
-      <td>
-          <img src="https://i.discogs.com/wFnno0-KRyGb2S_6hd0K_65SDuVQCl9Q3lqoSlKehhI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1OTQ1/NDItMTQ4MzM2NTc3/MC01MDk0LmpwZWc.jpeg" alt="Cover for Be Mine" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2016</td>
-      <td>OFENBACH</td>
-      <td>Be Mine</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 11</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 33</li>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 100</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f22cf3a4b613512286a0953ffda7a937.png" alt="Cover for Rockabye (feat. Sean Paul &amp; Anne-Marie)" style="max-width:120px; height:auto;" />
       </td>
@@ -1438,7 +1394,53 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>18</td>
+      <td>
+          <img src="https://i.discogs.com/wFnno0-KRyGb2S_6hd0K_65SDuVQCl9Q3lqoSlKehhI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1OTQ1/NDItMTQ4MzM2NTc3/MC01MDk0LmpwZWc.jpeg" alt="Cover for Be Mine" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016</td>
+      <td>OFENBACH</td>
+      <td>Be Mine</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 1</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 11</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 33</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>
+          <img src="https://i.discogs.com/RRkqBiDUbxt32NJDer0kG7_3MQXN0l3DgF9ZC2nXZgw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MTUy/NDEtMTQ2MTE2MDY5/MC0yNTY4LmpwZWc.jpeg" alt="Cover for Cake By The Ocean" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016</td>
+      <td>DNCE</td>
+      <td>Cake By The Ocean</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 8</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0dc64dbb17438473725ef05fef4e6741.png" alt="Cover for The Fame Monster (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1455,7 +1457,7 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/DJ9aM1-SxTO3Z5_P3-jNNEF9YMP-62_WZ9EPKEiYlFA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzE1/OTY1LTE1MTQwNTQz/MDMtNjUxOC5qcGVn.jpeg" alt="Cover for Can&#39;t Stop The Feeling! (Original Song From Dreamworks Animation&#39;s &quot;Trolls&quot;)" style="max-width:120px; height:auto;" />
       </td>
@@ -1471,13 +1473,13 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 46</li>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 86</li>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 15</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>95</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/764058ccf8916b75021b3c4ee129e60a.png" alt="Cover for DON’T MESS UP MY TEMPO – The 5th Album" style="max-width:120px; height:auto;" />
       </td>
@@ -1497,7 +1499,7 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6099ecaebab967999989dee19a365e17.png" alt="Cover for Taki Taki (with Selena Gomez, Ozuna &amp; Cardi B)" style="max-width:120px; height:auto;" />
       </td>
@@ -1510,13 +1512,13 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 7</li>
             <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 16</li>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d69c5ca95d0b1aac216b3cee5d9bf3b3.png" alt="Cover for We BOOM - The 3rd Mini Album" style="max-width:120px; height:auto;" />
       </td>
@@ -1534,13 +1536,13 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 4</li>
             <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 47</li>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8fbef5f2f7a72e9665a24476cd4b8446.png" alt="Cover for Havana" style="max-width:120px; height:auto;" />
       </td>
@@ -1556,12 +1558,12 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 68</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/96ce941e795755d46ce76c092732d7d0.png" alt="Cover for Memories...Do Not Open" style="max-width:120px; height:auto;" />
       </td>
@@ -1585,7 +1587,7 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/14bd911da40275ce75475c82416372f9.png" alt="Cover for I Like Me Better" style="max-width:120px; height:auto;" />
       </td>
@@ -1600,12 +1602,12 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 76</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 25</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a1e53f6d23a2fb95e966f22784859896.png" alt="Cover for More Than You Know" style="max-width:120px; height:auto;" />
       </td>
@@ -1628,7 +1630,7 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/43c0edef306cf09b0f9b70e2a389a20a.png" alt="Cover for Summer Air" style="max-width:120px; height:auto;" />
       </td>
@@ -1645,14 +1647,14 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 95</li>
-            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 100</li>
-            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 100</li>
+            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 1</li>
+            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 1</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 6</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/463e9cdc5cfcfcdc3315eaae69804f12.png" alt="Cover for AVĪCI (01)" style="max-width:120px; height:auto;" />
       </td>
@@ -1672,7 +1674,7 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b36c416b2bf57cff70078b35de841bd8.png" alt="Cover for Sick Boy" style="max-width:120px; height:auto;" />
       </td>
@@ -1692,15 +1694,15 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 8</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 13</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 43</li>
             <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 56</li>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 87</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/HapU2IDGCpKDhmQX6HBowgLfKV2n-sVd8voDBIOfLds/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTQ4/ODk3LTE1Mzc0MDU4/MDYtNjc1OC5qcGVn.jpeg" alt="Cover for SUMMER NIGHTS" style="max-width:120px; height:auto;" />
       </td>
@@ -1718,7 +1720,7 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3f879ed062c70fcc567a9793fccd610f.png" alt="Cover for Sweet but Psycho" style="max-width:120px; height:auto;" />
       </td>
@@ -1733,12 +1735,12 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 70</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 31</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/37GooIGuXYfXZ46BLepUClIT6Dnirox8UnxnlCteloM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzYx/NDU1LTE1NTQ0MDUx/NzctMjA3MS5qcGVn.jpeg" alt="Cover for From.9" style="max-width:120px; height:auto;" />
       </td>
@@ -1755,14 +1757,14 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a> # 20</li>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 47</li>
-            <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 100</li>
+            <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 1</li>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 54</li>
+            <li> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3bbe6f0fcccddbcb53525ecfe6e098dc.png" alt="Cover for Solo" style="max-width:120px; height:auto;" />
       </td>
@@ -1782,16 +1784,16 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 82</li>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 95</li>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 96</li>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 99</li>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 99</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 2</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 2</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 5</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 6</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 19</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/vlT03QY8LWtHt4qD4diJ8QTpHarPzCHJgDELFEMynvM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzkw/MzA0LTE1NDIwMTE3/MzgtNzQyMy5qcGVn.jpeg" alt="Cover for sOlO" style="max-width:120px; height:auto;" />
       </td>
@@ -1808,12 +1810,12 @@ Dance is an electronic music genre designed to get people moving with its steady
       <td>
         <ul>
             <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 3</li>
-            <li> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a> # 97</li>
+            <li> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a> # 4</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/4igCxHy5SfERDQUBjrF4s_VCpxU3GiOz8PoPo8l7vQs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODcz/MzA0LTE1NDM2MDA3/NDgtNzMyNy5qcGVn.jpeg" alt="Cover for NOTHIN LIKE U &#x2F; CHANCES" style="max-width:120px; height:auto;" />
       </td>
@@ -1832,7 +1834,7 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/6iNIKyNCFlTikCNgacNhQ3A8xykA0_n3xG9FQyBd-aQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTc2/MDgxLTE1Nzc0NjIz/NjUtODI0MC5qcGVn.jpeg" alt="Cover for SuperM - The 1st Mini Album" style="max-width:120px; height:auto;" />
       </td>
@@ -1851,7 +1853,7 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7ff797fd4582834fd5221be99c3931ad.png" alt="Cover for ARRIVAL OF EVERGLOW" style="max-width:120px; height:auto;" />
       </td>
@@ -1866,12 +1868,12 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a> # 47</li>
+            <li> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3037cd10162ccdc45eddec7271f87f46.png" alt="Cover for HEART*IZ" style="max-width:120px; height:auto;" />
       </td>
@@ -1892,7 +1894,7 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/hrfDh_Y9n472dkQlXLPHuMAM5JK8wgvPzLXG_ka9OIc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzk2/ODIyLTE1NjEzMjQ4/ODgtMzEwMC5qcGVn.jpeg" alt="Cover for FUN FACTORY" style="max-width:120px; height:auto;" />
       </td>
@@ -1908,12 +1910,12 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 99</li>
+            <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 2</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ca8daa243eb993fc8619c897fcb9b89b.png" alt="Cover for Blah Blah Blah" style="max-width:120px; height:auto;" />
       </td>
@@ -1933,12 +1935,12 @@ Dance is an electronic music genre designed to get people moving with its steady
         <ul>
             <li> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a> # 1</li>
             <li> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a> # 1</li>
-            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 98</li>
+            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 3</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a93e5370525a60484113e77b9431fcd7.png" alt="Cover for Levitating (feat. Madonna and Missy Elliott) [The Blessed Madonna Remix]" style="max-width:120px; height:auto;" />
       </td>
@@ -1960,7 +1962,7 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ebd1b2caae1626c02d63201233e0529d.png" alt="Cover for 111 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1978,13 +1980,13 @@ Dance is an electronic music genre designed to get people moving with its steady
       <td>
         <ul>
             <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 1</li>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 87</li>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 92</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 9</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 14</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>100</td>
       <td>
           <img src="https://i.discogs.com/I4E-eYMJdEXesIkqXvhl3jh1jigi-QKCOhH2IIpsp_Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Njk2/OTIzLTE2MDkzMTM1/NjEtMjQyOS5wbmc.jpeg" alt="Cover for WANT - The 2nd Mini Album" style="max-width:120px; height:auto;" />
       </td>
@@ -2001,12 +2003,12 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 92</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 7</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/OVNrFaywX5jkzIUPfjeRdw-QL_YSw1mMFVvu9SRLJCc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODg4/Mzk1LTE2MTYwMDgz/NTctNzQwNC5wbmc.jpeg" alt="Cover for TAIL" style="max-width:120px; height:auto;" />
       </td>
@@ -2030,16 +2032,16 @@ Dance is an electronic music genre designed to get people moving with its steady
         <ul>
             <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 4</li>
             <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 5</li>
-            <li> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a> # 46</li>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 63</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 82</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 88</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 90</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 11</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 13</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 19</li>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 38</li>
+            <li> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>71</td>
       <td>
       </td>
       <td>2021-10-29</td>
@@ -2058,13 +2060,13 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 63</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 93</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 8</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 38</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d74ec9ce352370a0c4910875e3e85023.png" alt="Cover for Telepath" style="max-width:120px; height:auto;" />
       </td>
@@ -2082,7 +2084,7 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/00a97b364a911b6302478cb92f29bfd2.png" alt="Cover for People Watching" style="max-width:120px; height:auto;" />
       </td>
@@ -2100,7 +2102,7 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/304846c655d7beff4ea60de8e73bbcd2.png" alt="Cover for Ain&#39;t My Fault" style="max-width:120px; height:auto;" />
       </td>
@@ -2116,30 +2118,12 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 85</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 16</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
-      <td>
-      </td>
-      <td></td>
-      <td>pinkpantheress</td>
-      <td>Picture In My Mind</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>11</td>
+      <td>90</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/08f1a15677597378c93f1c14ecb0f625.png" alt="Cover for Offset" style="max-width:120px; height:auto;" />
       </td>
@@ -2150,6 +2134,24 @@ Dance is an electronic music genre designed to get people moving with its steady
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+      </td>
+      <td></td>
+      <td>pinkpantheress</td>
+      <td>Picture In My Mind</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
         </ul>
       </td>
       <td>

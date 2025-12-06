@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T17:59:58.568Z
+date: 2025-12-06T03:17:46.285Z
 permalink: tags/rock
 title: rock
 ---
 
 ## rock
 
-Last updated: <time datetime="2025-12-03T17:59:58.568Z">Wed Dec 03 2025 19:59:58 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T03:17:46.285Z">Sat Dec 06 2025 05:17:46 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -82,8 +82,8 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 10</li>
             <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 18</li>
+            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -102,7 +102,7 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a> # 20</li>
+            <li> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -141,7 +141,7 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       <td>
         <ul>
             <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 1</li>
-            <li> <a href="{{ "/tags/british-invasion" | relative_url }}">british invasion</a> # 85</li>
+            <li> <a href="{{ "/tags/british-invasion" | relative_url }}">british invasion</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -160,8 +160,8 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/proto-punk" | relative_url }}">proto-punk</a> # 74</li>
-            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 82</li>
+            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 19</li>
+            <li> <a href="{{ "/tags/proto-punk" | relative_url }}">proto-punk</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -202,7 +202,7 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       <td>
         <ul>
             <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 10</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 37</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -222,9 +222,9 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 16</li>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 74</li>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 87</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 14</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 27</li>
+            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -260,12 +260,12 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 3</li>
             <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 4</li>
-            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 67</li>
+            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 7</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 14</li>
+            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 34</li>
             <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 70</li>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 87</li>
-            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 94</li>
-            <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -394,8 +394,8 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 17</li>
             <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 40</li>
-            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -414,8 +414,8 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 18</li>
             <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 37</li>
-            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -471,8 +471,8 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 4</li>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 62</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -492,8 +492,8 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 77</li>
-            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 99</li>
+            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 2</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -529,8 +529,8 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 65</li>
-            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 76</li>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 25</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -550,9 +550,9 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 2</li>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 10</li>
             <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 19</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -591,7 +591,7 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       <td>
         <ul>
             <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 10</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 91</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -612,7 +612,7 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 39</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -633,8 +633,8 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 17</li>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 99</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 2</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -673,7 +673,7 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 66</li>
+            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -692,9 +692,9 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 3</li>
             <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 4</li>
             <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 17</li>
-            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -732,8 +732,8 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 14</li>
             <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 29</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -770,8 +770,8 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 46</li>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 74</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 27</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -812,9 +812,9 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 41</li>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 66</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 100</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 1</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 35</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -853,9 +853,9 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       <td>
         <ul>
             <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 6</li>
+            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 16</li>
             <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 26</li>
             <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 61</li>
-            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -899,10 +899,10 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 2</li>
             <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 5</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 23</li>
             <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 71</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 99</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -922,8 +922,8 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 51</li>
-            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 99</li>
+            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 2</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -943,7 +943,7 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 100</li>
+            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -963,8 +963,8 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 3</li>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 46</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -984,8 +984,8 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 2</li>
             <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 17</li>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1005,7 +1005,7 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 57</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1050,11 +1050,11 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 3</li>
             <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 11</li>
             <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 26</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 38</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 61</li>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 67</li>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1074,9 +1074,9 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 2</li>
+            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 37</li>
             <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 45</li>
-            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 64</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1116,7 +1116,7 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 97</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1136,7 +1136,7 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 85</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1175,7 +1175,7 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       <td>
         <ul>
             <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 19</li>
-            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 56</li>
+            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 45</li>
             <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 85</li>
         </ul>
       </td>
@@ -1196,9 +1196,9 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 30</li>
             <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 49</li>
             <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 65</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1240,7 +1240,7 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       <td>
         <ul>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 17</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 45</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1278,9 +1278,9 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 5</li>
             <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 77</li>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 78</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1300,8 +1300,8 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 15</li>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 100</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 1</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1321,12 +1321,11 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 9</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 7</li>
+            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 13</li>
+            <li> <a href="{{ "/tags/rock-opera" | relative_url }}">rock opera</a> # 15</li>
             <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 38</li>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 58</li>
-            <li> <a href="{{ "/tags/rock-opera" | relative_url }}">rock opera</a> # 89</li>
-            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 94</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1346,8 +1345,8 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 5</li>
             <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 22</li>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1365,7 +1364,7 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 87</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1385,9 +1384,9 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 7</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 53</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 47</li>
             <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 58</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1406,7 +1405,7 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 40</li>
+            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1426,10 +1425,10 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       <td>
         <ul>
             <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 14</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 16</li>
             <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 27</li>
             <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 34</li>
             <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 81</li>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1491,9 +1490,9 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 12</li>
             <li> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a> # 14</li>
             <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 38</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1513,8 +1512,8 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 59</li>
-            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 95</li>
+            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 6</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1555,9 +1554,9 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 20</li>
-            <li> <a href="{{ "/tags/rock-opera" | relative_url }}">rock opera</a> # 85</li>
-            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 95</li>
+            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 6</li>
+            <li> <a href="{{ "/tags/rock-opera" | relative_url }}">rock opera</a> # 16</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1576,9 +1575,9 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 9</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 9</li>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 83</li>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 92</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1598,7 +1597,7 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 67</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1639,9 +1638,9 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 6</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 17</li>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 23</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 84</li>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1706,7 +1705,7 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       <td>
         <ul>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 32</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 37</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1727,10 +1726,10 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 14</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 15</li>
             <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 23</li>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 29</li>
-            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 85</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 86</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1773,9 +1772,9 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
         <ul>
             <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 3</li>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 7</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 10</li>
+            <li> <a href="{{ "/tags/desert-rock" | relative_url }}">desert rock</a> # 47</li>
             <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 48</li>
-            <li> <a href="{{ "/tags/desert-rock" | relative_url }}">desert rock</a> # 53</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1860,7 +1859,7 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
         <ul>
             <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 6</li>
             <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 8</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 51</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 49</li>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 52</li>
         </ul>
       </td>
@@ -1902,8 +1901,8 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       <td>
         <ul>
             <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 13</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 44</li>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 58</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 43</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 57</li>
             <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 67</li>
         </ul>
       </td>
@@ -1926,11 +1925,11 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 4</li>
             <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 4</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 11</li>
             <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 13</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 64</li>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 90</li>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 97</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1951,10 +1950,10 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 7</li>
             <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 12</li>
             <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 15</li>
             <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 22</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1974,7 +1973,7 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       <td>
         <ul>
             <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 40</li>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 41</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -2033,8 +2032,8 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 4</li>
             <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 68</li>
-            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -2075,7 +2074,7 @@ Rock is a popular music genre characterized by electric guitars, strong rhythms,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 94</li>
+            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 7</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T18:17:04.252Z
+date: 2025-12-06T03:21:45.969Z
 permalink: tags/gothic-rock
 title: gothic rock
 ---
 
 ## gothic rock
 
-Last updated: <time datetime="2025-12-03T18:17:04.252Z">Wed Dec 03 2025 20:17:04 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T03:21:45.969Z">Sat Dec 06 2025 05:21:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -43,7 +43,7 @@ Gothic rock is a genre of music that emerged in the late 1970s as an offshoot of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 95</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -62,7 +62,7 @@ Gothic rock is a genre of music that emerged in the late 1970s as an offshoot of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 63</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -98,7 +98,7 @@ Gothic rock is a genre of music that emerged in the late 1970s as an offshoot of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 93</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -117,7 +117,7 @@ Gothic rock is a genre of music that emerged in the late 1970s as an offshoot of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 96</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -136,7 +136,7 @@ Gothic rock is a genre of music that emerged in the late 1970s as an offshoot of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 51</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -156,7 +156,7 @@ Gothic rock is a genre of music that emerged in the late 1970s as an offshoot of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 65</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -174,7 +174,7 @@ Gothic rock is a genre of music that emerged in the late 1970s as an offshoot of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 6</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -211,7 +211,7 @@ Gothic rock is a genre of music that emerged in the late 1970s as an offshoot of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 57</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -231,7 +231,7 @@ Gothic rock is a genre of music that emerged in the late 1970s as an offshoot of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 66</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -250,7 +250,7 @@ Gothic rock is a genre of music that emerged in the late 1970s as an offshoot of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 20</li>
+            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -269,7 +269,7 @@ Gothic rock is a genre of music that emerged in the late 1970s as an offshoot of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 30</li>
+            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -342,7 +342,7 @@ Gothic rock is a genre of music that emerged in the late 1970s as an offshoot of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 78</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -438,7 +438,7 @@ Gothic rock is a genre of music that emerged in the late 1970s as an offshoot of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 25</li>
+            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -458,8 +458,8 @@ Gothic rock is a genre of music that emerged in the late 1970s as an offshoot of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 65</li>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 97</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 4</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -514,7 +514,7 @@ Gothic rock is a genre of music that emerged in the late 1970s as an offshoot of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 62</li>
+            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -550,8 +550,8 @@ Gothic rock is a genre of music that emerged in the late 1970s as an offshoot of
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 13</li>
             <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 34</li>
-            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -609,7 +609,7 @@ Gothic rock is a genre of music that emerged in the late 1970s as an offshoot of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 38</li>
+            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -631,8 +631,8 @@ Gothic rock is a genre of music that emerged in the late 1970s as an offshoot of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 27</li>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 82</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 66</li>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -652,7 +652,7 @@ Gothic rock is a genre of music that emerged in the late 1970s as an offshoot of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 43</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 58</li>
             <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 61</li>
         </ul>
       </td>
@@ -708,7 +708,7 @@ Gothic rock is a genre of music that emerged in the late 1970s as an offshoot of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 58</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -768,7 +768,7 @@ Gothic rock is a genre of music that emerged in the late 1970s as an offshoot of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 76</li>
+            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -828,8 +828,8 @@ Gothic rock is a genre of music that emerged in the late 1970s as an offshoot of
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 9</li>
             <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 20</li>
-            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -847,8 +847,8 @@ Gothic rock is a genre of music that emerged in the late 1970s as an offshoot of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 59</li>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 89</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 12</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -888,7 +888,7 @@ Gothic rock is a genre of music that emerged in the late 1970s as an offshoot of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 37</li>
+            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -945,8 +945,8 @@ Gothic rock is a genre of music that emerged in the late 1970s as an offshoot of
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 40</li>
             <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 59</li>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -966,9 +966,9 @@ Gothic rock is a genre of music that emerged in the late 1970s as an offshoot of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 1</li>
             <li> <a href="{{ "/tags/love-metal" | relative_url }}">love metal</a> # 11</li>
             <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 70</li>
+            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -989,8 +989,8 @@ Gothic rock is a genre of music that emerged in the late 1970s as an offshoot of
       <td>
         <ul>
             <li> <a href="{{ "/tags/love-metal" | relative_url }}">love metal</a> # 10</li>
-            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 22</li>
             <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 67</li>
+            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1010,8 +1010,8 @@ Gothic rock is a genre of music that emerged in the late 1970s as an offshoot of
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 1</li>
             <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 34</li>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1030,9 +1030,9 @@ Gothic rock is a genre of music that emerged in the late 1970s as an offshoot of
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 30</li>
+            <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 39</li>
             <li> <a href="{{ "/tags/atmospheric-doom-metal" | relative_url }}">atmospheric doom metal</a> # 49</li>
-            <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 61</li>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1070,9 +1070,9 @@ Gothic rock is a genre of music that emerged in the late 1970s as an offshoot of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a> # 41</li>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 50</li>
-            <li> <a href="{{ "/tags/dark-metal" | relative_url }}">dark metal</a> # 52</li>
+            <li> <a href="{{ "/tags/dark-metal" | relative_url }}">dark metal</a> # 49</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 51</li>
+            <li> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1169,7 +1169,7 @@ Gothic rock is a genre of music that emerged in the late 1970s as an offshoot of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 44</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1395,9 +1395,9 @@ Gothic rock is a genre of music that emerged in the late 1970s as an offshoot of
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 1</li>
             <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 1</li>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 49</li>
-            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 100</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1436,8 +1436,8 @@ Gothic rock is a genre of music that emerged in the late 1970s as an offshoot of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 15</li>
             <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 42</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1536,10 +1536,10 @@ Gothic rock is a genre of music that emerged in the late 1970s as an offshoot of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 13</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 14</li>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 38</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 84</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 17</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 60</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 87</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1576,7 +1576,7 @@ Gothic rock is a genre of music that emerged in the late 1970s as an offshoot of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 82</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1624,13 +1624,13 @@ Gothic rock is a genre of music that emerged in the late 1970s as an offshoot of
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 2</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 7</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 21</li>
             <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 22</li>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 27</li>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 45</li>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 49</li>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 80</li>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 94</li>
-            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 98</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 52</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 56</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1650,6 +1650,7 @@ Gothic rock is a genre of music that emerged in the late 1970s as an offshoot of
       <td>
         <ul>
             <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 1</li>
+            <li> <a href="{{ "/tags/occult-rock" | relative_url }}">occult rock</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1677,10 +1678,10 @@ Gothic rock is a genre of music that emerged in the late 1970s as an offshoot of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 22</li>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 29</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 32</li>
             <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 36</li>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 68</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 72</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1704,7 +1705,7 @@ Gothic rock is a genre of music that emerged in the late 1970s as an offshoot of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 7</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1725,7 +1726,7 @@ Gothic rock is a genre of music that emerged in the late 1970s as an offshoot of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 30</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1751,8 +1752,8 @@ Gothic rock is a genre of music that emerged in the late 1970s as an offshoot of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 5</li>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 54</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 44</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1775,8 +1776,8 @@ Gothic rock is a genre of music that emerged in the late 1970s as an offshoot of
       <td>
         <ul>
             <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 5</li>
-            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 67</li>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 94</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 7</li>
+            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1881,24 +1882,24 @@ Gothic rock is a genre of music that emerged in the late 1970s as an offshoot of
       <td>
         <ul>
             <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 1</li>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 4</li>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 5</li>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 7</li>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 11</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 3</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 15</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 23</li>
+            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 25</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 26</li>
+            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 29</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 30</li>
             <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 32</li>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 40</li>
-            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 41</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 34</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 36</li>
             <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 48</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 62</li>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 67</li>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 71</li>
-            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 72</li>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 75</li>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 75</li>
-            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 76</li>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 78</li>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 86</li>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 98</li>
+            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 60</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 61</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 76</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 90</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 94</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 96</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1922,11 +1923,11 @@ Gothic rock is a genre of music that emerged in the late 1970s as an offshoot of
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 6</li>
             <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 12</li>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 15</li>
+            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 20</li>
             <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 35</li>
-            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 79</li>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 95</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1966,7 +1967,7 @@ Gothic rock is a genre of music that emerged in the late 1970s as an offshoot of
         <ul>
             <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 2</li>
             <li> <a href="{{ "/tags/love-metal" | relative_url }}">love metal</a> # 21</li>
-            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 29</li>
+            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1986,7 +1987,7 @@ Gothic rock is a genre of music that emerged in the late 1970s as an offshoot of
       <td>
         <ul>
             <li> <a href="{{ "/tags/love-metal" | relative_url }}">love metal</a> # 1</li>
-            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 92</li>
+            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 9</li>
         </ul>
       </td>
     </tr>

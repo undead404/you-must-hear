@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T18:48:41.619Z
+date: 2025-12-06T03:23:46.067Z
 permalink: tags/instrumental
 title: instrumental
 ---
 
 ## instrumental
 
-Last updated: <time datetime="2025-12-03T18:48:41.619Z">Wed Dec 03 2025 20:48:41 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T03:23:46.067Z">Sat Dec 06 2025 05:23:46 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -69,7 +69,7 @@ Instrumental music is music that is solely or primarily composed of musical inst
       <td>
         <ul>
             <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 10</li>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 73</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -88,7 +88,7 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 100</li>
+            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -106,7 +106,7 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 77</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -126,7 +126,7 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 87</li>
+            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -170,11 +170,11 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 2</li>
             <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 7</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 24</li>
             <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 36</li>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 64</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 77</li>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 99</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -249,9 +249,9 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-metal" | relative_url }}">instrumental metal</a> # 39</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 30</li>
             <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 55</li>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 71</li>
+            <li> <a href="{{ "/tags/instrumental-metal" | relative_url }}">instrumental metal</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -309,8 +309,8 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 33</li>
-            <li> <a href="{{ "/tags/instrumental-metal" | relative_url }}">instrumental metal</a> # 84</li>
+            <li> <a href="{{ "/tags/instrumental-metal" | relative_url }}">instrumental metal</a> # 59</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -348,7 +348,7 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 97</li>
+            <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -425,10 +425,10 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a> # 2</li>
             <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 4</li>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 88</li>
-            <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 90</li>
-            <li> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a> # 99</li>
+            <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 11</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -467,7 +467,7 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 90</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -526,7 +526,7 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 72</li>
+            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -545,7 +545,7 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 2</li>
+            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -636,7 +636,7 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 31</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -656,8 +656,8 @@ Instrumental music is music that is solely or primarily composed of musical inst
         <ul>
             <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 29</li>
             <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 35</li>
-            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 37</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 45</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 56</li>
+            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -677,8 +677,8 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shred" | relative_url }}">shred</a> # 5</li>
-            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 90</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 11</li>
+            <li> <a href="{{ "/tags/shred" | relative_url }}">shred</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -698,7 +698,7 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 91</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -719,7 +719,7 @@ Instrumental music is music that is solely or primarily composed of musical inst
       <td>
         <ul>
             <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 1</li>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 75</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -737,7 +737,6 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 35</li>
             <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 96</li>
         </ul>
       </td>
@@ -776,7 +775,7 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 91</li>
+            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -802,10 +801,10 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 6</li>
-            <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 47</li>
-            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 83</li>
-            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 85</li>
+            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 16</li>
+            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 18</li>
+            <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 54</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -901,7 +900,7 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 60</li>
+            <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -958,8 +957,8 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 35</li>
-            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 85</li>
+            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 17</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1036,7 +1035,7 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 91</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1058,9 +1057,9 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 26</li>
-            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 35</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 56</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 45</li>
+            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 66</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1103,7 +1102,7 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/croatian" | relative_url }}">croatian</a> # 98</li>
+            <li> <a href="{{ "/tags/croatian" | relative_url }}">croatian</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1180,7 +1179,7 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 93</li>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1200,9 +1199,9 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 24</li>
+            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 29</li>
             <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 34</li>
-            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 72</li>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1243,10 +1242,10 @@ Instrumental music is music that is solely or primarily composed of musical inst
       <td>
         <ul>
             <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 2</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 90</li>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 94</li>
-            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 98</li>
-            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 98</li>
+            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 3</li>
+            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 3</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 7</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1288,8 +1287,8 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 85</li>
-            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 90</li>
+            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 11</li>
+            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1314,7 +1313,7 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 89</li>
+            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -1338,8 +1337,8 @@ Instrumental music is music that is solely or primarily composed of musical inst
       <td>
         <ul>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 11</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 57</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 70</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 31</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1380,10 +1379,10 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 84</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 89</li>
-            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 97</li>
-            <li> <a href="{{ "/tags/iceland" | relative_url }}">iceland</a> # 100</li>
+            <li> <a href="{{ "/tags/iceland" | relative_url }}">iceland</a> # 1</li>
+            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 4</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 12</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1406,8 +1405,8 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 61</li>
-            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 96</li>
+            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 5</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1430,9 +1429,9 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 19</li>
+            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 27</li>
             <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 55</li>
-            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 74</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1540,8 +1539,8 @@ Instrumental music is music that is solely or primarily composed of musical inst
       <td>
         <ul>
             <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 20</li>
-            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 34</li>
             <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 58</li>
+            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1582,10 +1581,10 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 25</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 27</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 54</li>
-            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 72</li>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 76</li>
+            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 29</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1606,8 +1605,8 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 43</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 68</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 33</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1628,8 +1627,8 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 5</li>
             <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 13</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1648,9 +1647,9 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 33</li>
-            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 77</li>
-            <li> <a href="{{ "/tags/iceland" | relative_url }}">iceland</a> # 96</li>
+            <li> <a href="{{ "/tags/iceland" | relative_url }}">iceland</a> # 5</li>
+            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 23</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1670,8 +1669,8 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 7</li>
             <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 42</li>
-            <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1715,9 +1714,9 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 40</li>
+            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 11</li>
             <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 59</li>
-            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 90</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1779,8 +1778,8 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 38</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 62</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 39</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1845,12 +1844,12 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/progressive-breaks" | relative_url }}">progressive breaks</a> # 1</li>
             <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 1</li>
             <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 5</li>
             <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 15</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 18</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 72</li>
-            <li> <a href="{{ "/tags/progressive-breaks" | relative_url }}">progressive breaks</a> # 100</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1872,9 +1871,9 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 78</li>
-            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 92</li>
-            <li> <a href="{{ "/tags/iceland" | relative_url }}">iceland</a> # 99</li>
+            <li> <a href="{{ "/tags/iceland" | relative_url }}">iceland</a> # 2</li>
+            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 9</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1912,7 +1911,7 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 95</li>
+            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -1977,11 +1976,11 @@ Instrumental music is music that is solely or primarily composed of musical inst
       <td>
         <ul>
             <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 1</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 4</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 6</li>
             <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 17</li>
             <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 18</li>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 59</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 95</li>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 96</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -2024,11 +2023,11 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 2</li>
+            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 3</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 4</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 5</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 11</li>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 96</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 97</li>
-            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 98</li>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 99</li>
         </ul>
       </td>
     </tr>

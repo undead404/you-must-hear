@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T16:32:27.765Z
+date: 2025-12-06T03:00:46.826Z
 permalink: tags/deutschpunk
 title: deutschpunk
 ---
 
 ## deutschpunk
 
-Last updated: <time datetime="2025-12-03T16:32:27.765Z">Wed Dec 03 2025 18:32:27 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T03:00:46.826Z">Sat Dec 06 2025 05:00:46 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
   </thead>
   <tbody>
     <tr>
-      <td>46</td>
+      <td>55</td>
       <td>
       </td>
       <td>1982</td>
@@ -46,7 +46,25 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>12</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7c791a03699e4bf0cbe284e9489d3fbe.png" alt="Cover for Alle gegen alle" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1983</td>
+      <td>Slime</td>
+      <td>Alle gegen alle</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/58de0783bed54278ada77cc72f73a363.png" alt="Cover for Tag ohne Schatten" style="max-width:120px; height:auto;" />
       </td>
@@ -65,25 +83,7 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
     </tr>
     <tr>
-      <td>89</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7c791a03699e4bf0cbe284e9489d3fbe.png" alt="Cover for Alle gegen alle" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1983</td>
-      <td>Slime</td>
-      <td>Alle gegen alle</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>31</td>
+      <td>70</td>
       <td>
       </td>
       <td>1983-04</td>
@@ -100,7 +100,7 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>63</td>
       <td>
       </td>
       <td>1984</td>
@@ -117,7 +117,7 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
       </td>
       <td>1986</td>
@@ -134,7 +134,7 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>80</td>
       <td>
       </td>
       <td>1986-10</td>
@@ -151,7 +151,7 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f4d43e7b69f3469382797508115ace5a.png" alt="Cover for Rio I." style="max-width:120px; height:auto;" />
       </td>
@@ -171,31 +171,12 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
     </tr>
     <tr>
-      <td>3</td>
-      <td>
-          <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for Schlachtrufe BRD VI" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1987</td>
-      <td>Various Artists</td>
-      <td>Schlachtrufe BRD VI</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>17</td>
       <td>
-          <img src="https://i.discogs.com/GI1kawXX_WImQLdkh351zrlXYhSMY8MnnPYNkcrhhIU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDIw/Ny0xMTY1MjQ0MjIy/LmpwZWc.jpeg" alt="Cover for Schlachtrufe BRD IV" style="max-width:120px; height:auto;" />
       </td>
       <td>1987</td>
-      <td>Various Artists</td>
-      <td>Schlachtrufe BRD IV</td>
+      <td>Die Goldenen Zitronen</td>
+      <td>Porsche - Genscher - Hallo HSV</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a></li>
@@ -207,7 +188,7 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for Schlachtrufe BRD III" style="max-width:120px; height:auto;" />
       </td>
@@ -227,10 +208,11 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
     <tr>
       <td>84</td>
       <td>
+          <img src="https://i.discogs.com/GI1kawXX_WImQLdkh351zrlXYhSMY8MnnPYNkcrhhIU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDIw/Ny0xMTY1MjQ0MjIy/LmpwZWc.jpeg" alt="Cover for Schlachtrufe BRD IV" style="max-width:120px; height:auto;" />
       </td>
       <td>1987</td>
-      <td>Die Goldenen Zitronen</td>
-      <td>Porsche - Genscher - Hallo HSV</td>
+      <td>Various Artists</td>
+      <td>Schlachtrufe BRD IV</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a></li>
@@ -242,7 +224,25 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>98</td>
+      <td>
+          <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for Schlachtrufe BRD VI" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1987</td>
+      <td>Various Artists</td>
+      <td>Schlachtrufe BRD VI</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
       <td>
           <img src="https://i.discogs.com/hY6MDFmihOWtarrNUsARkp4qyuhOuOb31CphmadAMWg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzU1/NTItMTI1OTkzMjc5/OS5qcGVn.jpeg" alt="Cover for Keine Träume" style="max-width:120px; height:auto;" />
       </td>
@@ -260,7 +260,7 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e8b8e6c8e2914f8ccf4a8ef15799f0fb.png" alt="Cover for Im Zeichen des Blöden" style="max-width:120px; height:auto;" />
       </td>
@@ -277,12 +277,12 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german-punk" | relative_url }}">german punk</a> # 57</li>
+            <li> <a href="{{ "/tags/german-punk" | relative_url }}">german punk</a> # 44</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>39</td>
       <td>
       </td>
       <td>1992</td>
@@ -299,7 +299,7 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/kAzXVUcqI0iLF50Rr_oheIpJbDtsvuenuzlQlyPjudE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODk0/MTMtMTI2MzM4MDk2/OS5qcGVn.jpeg" alt="Cover for Monstren Ufos Autonome" style="max-width:120px; height:auto;" />
       </td>
@@ -314,12 +314,12 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/liedermacher" | relative_url }}">liedermacher</a> # 82</li>
+            <li> <a href="{{ "/tags/liedermacher" | relative_url }}">liedermacher</a> # 19</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/256fe9bf64a03c52ef9682e971ce9a1b.png" alt="Cover for Frauke halt&#39;s Maul" style="max-width:120px; height:auto;" />
       </td>
@@ -339,7 +339,7 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>72</td>
       <td>
       </td>
       <td>1993-03-15</td>
@@ -358,7 +358,7 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a0cee992ae55b93a77684e1d5b7d3835.png" alt="Cover for Uuaarrgh!" style="max-width:120px; height:auto;" />
       </td>
@@ -374,12 +374,12 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 46</li>
+            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>67</td>
       <td>
       </td>
       <td>1994</td>
@@ -396,7 +396,7 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e5e16e09f9be468bb4df259ede3b7458.png" alt="Cover for Schweineherbst" style="max-width:120px; height:auto;" />
       </td>
@@ -415,43 +415,7 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
     </tr>
     <tr>
-      <td>20</td>
-      <td>
-          <img src="https://i.discogs.com/tdehF1JBATTQGl4pdgSn47X9WYzeQQwYwBr7GByXzcU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTYz/NDEtMTI4Mjg2NzI5/Mi5qcGVn.jpeg" alt="Cover for Demos &#39;81" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1995</td>
-      <td>Toxoplasma</td>
-      <td>Demos &#39;81</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>23</td>
-      <td>
-          <img src="https://i.discogs.com/_Ydcya6sa9qu1MVy0DQb03TZuLMiM75BDYz-rWdUn6o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MTEy/My0xNDgyOTU4NDY2/LTgwNjAuanBlZw.jpeg" alt="Cover for Nicht zynisch werden" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1995</td>
-      <td>...But Alive</td>
-      <td>Nicht zynisch werden</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>39</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/u8G-P1pK9vLCLPO7rbOj3aLB_9OyA_cIrUFrYerSUqk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTM5/MjAtMTE5OTgwMjgz/MC5qcGVn.jpeg" alt="Cover for Neue Wege" style="max-width:120px; height:auto;" />
       </td>
@@ -469,7 +433,43 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>78</td>
+      <td>
+          <img src="https://i.discogs.com/_Ydcya6sa9qu1MVy0DQb03TZuLMiM75BDYz-rWdUn6o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MTEy/My0xNDgyOTU4NDY2/LTgwNjAuanBlZw.jpeg" alt="Cover for Nicht zynisch werden" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995</td>
+      <td>...But Alive</td>
+      <td>Nicht zynisch werden</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>
+          <img src="https://i.discogs.com/tdehF1JBATTQGl4pdgSn47X9WYzeQQwYwBr7GByXzcU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTYz/NDEtMTI4Mjg2NzI5/Mi5qcGVn.jpeg" alt="Cover for Demos &#39;81" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995</td>
+      <td>Toxoplasma</td>
+      <td>Demos &#39;81</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/260ec03daff256ff50555b8d2d4fcb1e.png" alt="Cover for Opium fürs Volk" style="max-width:120px; height:auto;" />
       </td>
@@ -487,7 +487,7 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/tWYIGHcry5PUAaxCpZv7UTAiBSQ2mog9JLw0rw_hpLQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODc1/MDEtMTM1ODUyNjc2/NC0zNjQxLmpwZWc.jpeg" alt="Cover for Kalashnikov Blues" style="max-width:120px; height:auto;" />
       </td>
@@ -505,7 +505,7 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cd172b1cc530e092a9bca5d022d55f86.png" alt="Cover for Kein Schulterklopfen (gegen den Trend)" style="max-width:120px; height:auto;" />
       </td>
@@ -524,7 +524,7 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
       </td>
       <td>1997</td>
@@ -539,12 +539,30 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a> # 58</li>
+            <li> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>76</td>
+      <td>
+          <img src="https://i.discogs.com/hXg3mMNTnymROI_nryHjtqKku9YDr64wzTqyC3QT1F0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1NjU1/NDctMTU2MDk1ODY1/OS01Njc5LmpwZWc.jpeg" alt="Cover for Morgenrot" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997</td>
+      <td>Untergangskommando</td>
+      <td>Morgenrot</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e915e2f89bbd54a065bfe4d63432a9dc.png" alt="Cover for Japan EP" style="max-width:120px; height:auto;" />
       </td>
@@ -563,44 +581,7 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
     </tr>
     <tr>
-      <td>25</td>
-      <td>
-          <img src="https://i.discogs.com/hXg3mMNTnymROI_nryHjtqKku9YDr64wzTqyC3QT1F0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1NjU1/NDctMTU2MDk1ODY1/OS01Njc5LmpwZWc.jpeg" alt="Cover for Morgenrot" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1997</td>
-      <td>Untergangskommando</td>
-      <td>Morgenrot</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>75</td>
-      <td>
-          <img src="https://i.discogs.com/AZzopi7uqiGO72N_upY9QfQ4dVS4OAwMxJREwM9se9U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDA2/MzAtMTI2NDAyNjE2/Ni5qcGVn.jpeg" alt="Cover for Es Geschah Am Hellixten Tag" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1998</td>
-      <td>Der dicke Polizist</td>
-      <td>Es Geschah Am Hellixten Tag</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
       </td>
       <td>1998</td>
@@ -620,7 +601,26 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>26</td>
+      <td>
+          <img src="https://i.discogs.com/AZzopi7uqiGO72N_upY9QfQ4dVS4OAwMxJREwM9se9U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDA2/MzAtMTI2NDAyNjE2/Ni5qcGVn.jpeg" alt="Cover for Es Geschah Am Hellixten Tag" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>Der dicke Polizist</td>
+      <td>Es Geschah Am Hellixten Tag</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/865292e03ae84ebe8535b503209fac5b.png" alt="Cover for Kraut &amp; Ruben" style="max-width:120px; height:auto;" />
       </td>
@@ -640,25 +640,7 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
     </tr>
     <tr>
-      <td>43</td>
-      <td>
-          <img src="https://i.discogs.com/PKLlNt60F6KA86-sT2ZiBSxuTrQJNclidVW3pzWhaEk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NTMx/MzAtMTM3MTE1NjE5/NC0yMzQxLmpwZWc.jpeg" alt="Cover for Die Bagger kommen..." style="max-width:120px; height:auto;" />
-      </td>
-      <td>1999</td>
-      <td>Frustkiller</td>
-      <td>Die Bagger kommen...</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/L9YNFNONJo3DqDr9pM0vaig5nwAoDgrJCrBZJdgE0yc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Njcy/NTgtMTI0MjAzODQw/Ny5qcGVn.jpeg" alt="Cover for Hier kommt Ärger" style="max-width:120px; height:auto;" />
       </td>
@@ -676,7 +658,25 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>58</td>
+      <td>
+          <img src="https://i.discogs.com/PKLlNt60F6KA86-sT2ZiBSxuTrQJNclidVW3pzWhaEk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NTMx/MzAtMTM3MTE1NjE5/NC0yMzQxLmpwZWc.jpeg" alt="Cover for Die Bagger kommen..." style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>Frustkiller</td>
+      <td>Die Bagger kommen...</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f2b4961ade1c4ae8aa6e8145779e1e12.png" alt="Cover for Wir wollen nur Deine Seele" style="max-width:120px; height:auto;" />
       </td>
@@ -696,25 +696,7 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
     </tr>
     <tr>
-      <td>45</td>
-      <td>
-          <img src="https://i.discogs.com/DPWFaN9dbmRcgmBgmYmjn6MHFg2CxO5il9ZV6GR92Sk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MDMx/NTMtMTMyOTA0Mzc2/NC5qcGVn.jpeg" alt="Cover for Alles wird gut" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2000</td>
-      <td>Popperklopper</td>
-      <td>Alles wird gut</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/P047m0ubG5IyFYeiD5Ufy40X9i4pmT6LdglrLA-uTo4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDEw/NzYtMTQyNTA1NTk0/MC0zNTgxLmpwZWc.jpeg" alt="Cover for Beissreflex" style="max-width:120px; height:auto;" />
       </td>
@@ -732,7 +714,25 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>56</td>
+      <td>
+          <img src="https://i.discogs.com/DPWFaN9dbmRcgmBgmYmjn6MHFg2CxO5il9ZV6GR92Sk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MDMx/NTMtMTMyOTA0Mzc2/NC5qcGVn.jpeg" alt="Cover for Alles wird gut" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>Popperklopper</td>
+      <td>Alles wird gut</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ca3ab56bf9f49cfc9a650a23cd5859d.png" alt="Cover for Unsterblich" style="max-width:120px; height:auto;" />
       </td>
@@ -751,7 +751,7 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/64fdd8582532437ab36ba102f0c80909.png" alt="Cover for 1 World - 0 Future" style="max-width:120px; height:auto;" />
       </td>
@@ -769,12 +769,66 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german-punk" | relative_url }}">german punk</a> # 65</li>
+            <li> <a href="{{ "/tags/german-punk" | relative_url }}">german punk</a> # 36</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>30</td>
+      <td>
+          <img src="https://i.discogs.com/3ucylz1DowpA87XAHXEr5Px4G1vHyPNP1Td7ZvionmA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMzU2/MjQtMTQ5NTAxNzU1/Ny0yNzIwLmpwZWc.jpeg" alt="Cover for Stoppt uns wenn ihr könnt" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Betontod</td>
+      <td>Stoppt uns wenn ihr könnt</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>
+          <img src="https://i.discogs.com/A06jzFdT-dJu2Fx2aPcbOvNFNIzHlhLHVXPsMlsTYbU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDUx/OTMtMTMwODUxNDg3/Ny5qcGVn.jpeg" alt="Cover for und die Hoffnung stirbt zuletzt!" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Der dicke Polizist</td>
+      <td>und die Hoffnung stirbt zuletzt!</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>
+          <img src="https://i.discogs.com/N5iRy0oasYTTL_8Gjk6nZbps-7Gh6r60aw5RpFlj6v4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDUx/MDc3LTE0OTc3MDU5/NTAtNDE4NS5qcGVn.jpeg" alt="Cover for Koenig der Meere" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Rotz auf der Wiese</td>
+      <td>Koenig der Meere</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
       <td>
           <img src="https://i.discogs.com/KtnBXgzgt2sCjSrFCzgRMlzEPFLr1MAmg4Oik1L6sdE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDA5/MDktMTMxNTc2NjUx/MC5qcGVn.jpeg" alt="Cover for 1993 - 2001" style="max-width:120px; height:auto;" />
       </td>
@@ -795,61 +849,7 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
     </tr>
     <tr>
-      <td>44</td>
-      <td>
-          <img src="https://i.discogs.com/N5iRy0oasYTTL_8Gjk6nZbps-7Gh6r60aw5RpFlj6v4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDUx/MDc3LTE0OTc3MDU5/NTAtNDE4NS5qcGVn.jpeg" alt="Cover for Koenig der Meere" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2001</td>
-      <td>Rotz auf der Wiese</td>
-      <td>Koenig der Meere</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>61</td>
-      <td>
-          <img src="https://i.discogs.com/A06jzFdT-dJu2Fx2aPcbOvNFNIzHlhLHVXPsMlsTYbU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDUx/OTMtMTMwODUxNDg3/Ny5qcGVn.jpeg" alt="Cover for und die Hoffnung stirbt zuletzt!" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2001</td>
-      <td>Der dicke Polizist</td>
-      <td>und die Hoffnung stirbt zuletzt!</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>71</td>
-      <td>
-          <img src="https://i.discogs.com/3ucylz1DowpA87XAHXEr5Px4G1vHyPNP1Td7ZvionmA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMzU2/MjQtMTQ5NTAxNzU1/Ny0yNzIwLmpwZWc.jpeg" alt="Cover for Stoppt uns wenn ihr könnt" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2001</td>
-      <td>Betontod</td>
-      <td>Stoppt uns wenn ihr könnt</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>27</td>
+      <td>74</td>
       <td>
       </td>
       <td>2001-02-19</td>
@@ -867,7 +867,7 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/GGKxgS9jvNA8Rf0CZdu82nA3PfNWiU9dga3kyDqFwAY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MzM3/MC0xNTk5ODM2MDY2/LTExMzguanBlZw.jpeg" alt="Cover for The Unraveling(Re-Issue)" style="max-width:120px; height:auto;" />
       </td>
@@ -887,7 +887,7 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/XjZzoYNV8L3FveCzks2AcszoyjblIz-a5W0rxSYpvPc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMzQ0/NjItMTM4NTQyMzI1/Ni04Mjc0LmpwZWc.jpeg" alt="Cover for Deutschmark muß sterben" style="max-width:120px; height:auto;" />
       </td>
@@ -905,24 +905,7 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
     </tr>
     <tr>
-      <td>50</td>
-      <td>
-      </td>
-      <td>2002</td>
-      <td>Rantanplan</td>
-      <td>Tresenthesen</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
       </td>
       <td>2002</td>
@@ -939,7 +922,72 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>51</td>
+      <td>
+      </td>
+      <td>2002</td>
+      <td>Rantanplan</td>
+      <td>Tresenthesen</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>
+      </td>
+      <td>2003</td>
+      <td>Lex Barker Experience</td>
+      <td>Warreggae</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bass" | relative_url }}">bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drum" | relative_url }}">drum</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/germany" | relative_url }}">germany</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 17</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 18</li>
+            <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 24</li>
+            <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 32</li>
+            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 94</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/tnAjg9gZYhQ4pNTboGPzrNQWQdQj5vG607QbOd2Ehmw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzk4/MjcxLTE0OTY2NjQ3/ODgtMzQ3Mi5qcGVn.jpeg" alt="Cover for Warregae" style="max-width:120px; height:auto;" />
       </td>
@@ -979,64 +1027,51 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 18</li>
             <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 19</li>
-            <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 68</li>
-            <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 75</li>
-            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 83</li>
+            <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 26</li>
+            <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 33</li>
             <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>6</td>
       <td>
+          <img src="https://i.discogs.com/UQ1UweHJF9rxYJsVhPeTkNzQE-LXu_ZrUwSrC7WaQRQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDEw/OTMtMTI4OTU2ODIy/OS5qcGVn.jpeg" alt="Cover for K.O. System" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
-      <td>Lex Barker Experience</td>
-      <td>Warreggae</td>
+      <td>Fahnenflucht</td>
+      <td>K.O. System</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bass" | relative_url }}">bass</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drum" | relative_url }}">drum</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/germany" | relative_url }}">germany</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 18</li>
-            <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 69</li>
-            <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 77</li>
-            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 84</li>
-            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>14</td>
+      <td>
+      </td>
+      <td>2003</td>
+      <td>NoRMAhl</td>
+      <td>Das ist PUNK</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/uvJ6MI5teiP5L-ZYEBPOO3RQamsmZsR1y3MWT2laBIM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDEy/MjUtMTI4NDIzMjEz/Ny5qcGVn.jpeg" alt="Cover for Never Mind The Hosen - Here&#39;s Die Roten Rosen" style="max-width:120px; height:auto;" />
       </td>
@@ -1055,42 +1090,7 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
     </tr>
     <tr>
-      <td>87</td>
-      <td>
-      </td>
-      <td>2003</td>
-      <td>NoRMAhl</td>
-      <td>Das ist PUNK</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>95</td>
-      <td>
-          <img src="https://i.discogs.com/UQ1UweHJF9rxYJsVhPeTkNzQE-LXu_ZrUwSrC7WaQRQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDEw/OTMtMTI4OTU2ODIy/OS5qcGVn.jpeg" alt="Cover for K.O. System" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2003</td>
-      <td>Fahnenflucht</td>
-      <td>K.O. System</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a8fc3e5976beb91599a0e4ddf258755.png" alt="Cover for If Liberty Means Anything at All" style="max-width:120px; height:auto;" />
       </td>
@@ -1107,12 +1107,12 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skate-punk" | relative_url }}">skate punk</a> # 6</li>
+            <li> <a href="{{ "/tags/skate-punk" | relative_url }}">skate punk</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8ff4394250200bc68cc11f830d6cb781.png" alt="Cover for Junger Mann Zum Mitreisen Gesucht" style="max-width:120px; height:auto;" />
       </td>
@@ -1132,7 +1132,7 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/95eHJ_EzQR3iHdPtAXCZdI5aHo-hUZyoLVRNR8pRciU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjcx/MDgtMTYwMjc3NTc1/NS0xNjkwLmpwZWc.jpeg" alt="Cover for Gitarre, Schlagzeug, Bass, Gesa" style="max-width:120px; height:auto;" />
       </td>
@@ -1149,7 +1149,7 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
       </td>
       <td>2004-06-01</td>
@@ -1166,7 +1166,7 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
       </td>
       <td>2004-09-13</td>
@@ -1183,7 +1183,7 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f50a7c2b8df53a8a1e29f357e3f2f09e.png" alt="Cover for Peggy" style="max-width:120px; height:auto;" />
       </td>
@@ -1202,7 +1202,7 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>85</td>
       <td>
       </td>
       <td>2005-08</td>
@@ -1219,7 +1219,7 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/Uh-czjxeoY3nSAEe-qXnd2JqTZsk-u9vyl6vwFYa3-k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODY4/NjA0LTE2NjYxMzIx/ODAtODU5OC5wbmc.jpeg" alt="Cover for OPEN THE CAGES --- Ein Soli-Sampler Für Die Tierbefreier E.V. - Tape" style="max-width:120px; height:auto;" />
       </td>
@@ -1239,7 +1239,7 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/DkaBKFLyxSR2_s4v0iHVZOsvK4PLZvlwtA7-YXX_4rE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MjQw/MDQtMTMzNzgwNTMx/Ny0yMDIyLmpwZWc.jpeg" alt="Cover for Terroristen Split" style="max-width:120px; height:auto;" />
       </td>
@@ -1257,12 +1257,12 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german-punk" | relative_url }}">german punk</a> # 45</li>
+            <li> <a href="{{ "/tags/german-punk" | relative_url }}">german punk</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3162a00d3a153add94b61127535897c9.png" alt="Cover for Nazis Nehmen Uns Die Arbeitsplätze Weg" style="max-width:120px; height:auto;" />
       </td>
@@ -1282,7 +1282,7 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/KB_YysOOtt3IN6BLHU7L8f96akWh04GF5Ecao90a_ZQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mzkz/ODUzLTE2MTkwMTQ4/MjMtODA0Ni5qcGVn.jpeg" alt="Cover for aus´m Stand" style="max-width:120px; height:auto;" />
       </td>
@@ -1303,7 +1303,7 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a8a3dac95f28ff7d40e13640fe55b72b.png" alt="Cover for Tränen auf dem Dancefloor" style="max-width:120px; height:auto;" />
       </td>
@@ -1355,15 +1355,15 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       <td>
         <ul>
             <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 5</li>
+            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 13</li>
+            <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 16</li>
+            <li> <a href="{{ "/tags/liedermacher" | relative_url }}">liedermacher</a> # 40</li>
             <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 60</li>
-            <li> <a href="{{ "/tags/liedermacher" | relative_url }}">liedermacher</a> # 61</li>
-            <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 85</li>
-            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5627cd399b79873ce6b07f1c68ec3396.png" alt="Cover for Punkrock für lau" style="max-width:120px; height:auto;" />
       </td>
@@ -1383,7 +1383,7 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/_otyjqOStkmCCT1FdFpeWGCoVEPpVWslMsFyGUHbvsA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NjIz/NDEtMTM1MTg3MTI3/NC0xMTEzLmpwZWc.jpeg" alt="Cover for Indiscreed" style="max-width:120px; height:auto;" />
       </td>
@@ -1403,13 +1403,13 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/fast-melodic-punk" | relative_url }}">fast melodic punk</a> # 11</li>
             <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 69</li>
-            <li> <a href="{{ "/tags/fast-melodic-punk" | relative_url }}">fast melodic punk</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/eb07b85fe698e090a1548954c92d9aea.png" alt="Cover for Dein Radio" style="max-width:120px; height:auto;" />
       </td>
@@ -1429,7 +1429,7 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9ef9e9c558a2483fd717055618456f12.png" alt="Cover for GlaubeLiebeHoffnung" style="max-width:120px; height:auto;" />
       </td>
@@ -1451,49 +1451,7 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
     </tr>
     <tr>
-      <td>6</td>
-      <td>
-          <img src="https://i.discogs.com/I_Y2ylMV9S9NdXBwCeSaThRSaRInD_H0J_2o3v5YMTU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzkx/ODgtMTQxNDIyOTY4/Mi00MDYxLmpwZWc.jpeg" alt="Cover for Traumhochzeit" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2011-04-29</td>
-      <td>Abwärts</td>
-      <td>Traumhochzeit</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>69</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/998cf2f955f54baca934da6bb9179c13.png" alt="Cover for Antiheld" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2011-04-29</td>
-      <td>Serum 114</td>
-      <td>Antiheld</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
       </td>
       <td>2011-04-29</td>
@@ -1515,7 +1473,49 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>32</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/998cf2f955f54baca934da6bb9179c13.png" alt="Cover for Antiheld" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-04-29</td>
+      <td>Serum 114</td>
+      <td>Antiheld</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+          <img src="https://i.discogs.com/I_Y2ylMV9S9NdXBwCeSaThRSaRInD_H0J_2o3v5YMTU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzkx/ODgtMTQxNDIyOTY4/Mi00MDYxLmpwZWc.jpeg" alt="Cover for Traumhochzeit" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-04-29</td>
+      <td>Abwärts</td>
+      <td>Traumhochzeit</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fcd928f732bb4e80b3bc438bc2ccfc44.png" alt="Cover for Pläne Für Gestern" style="max-width:120px; height:auto;" />
       </td>
@@ -1542,15 +1542,15 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 19</li>
             <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 20</li>
-            <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 79</li>
-            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 82</li>
+            <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 22</li>
             <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa66eae8a32e4032a3f9ac09c1ef2bd8.png" alt="Cover for Weightless" style="max-width:120px; height:auto;" />
       </td>
@@ -1601,15 +1601,15 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       <td>
         <ul>
             <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 4</li>
+            <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 15</li>
+            <li> <a href="{{ "/tags/liedermacher" | relative_url }}">liedermacher</a> # 37</li>
             <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 57</li>
             <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 59</li>
-            <li> <a href="{{ "/tags/liedermacher" | relative_url }}">liedermacher</a> # 64</li>
-            <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>86</td>
       <td>
       </td>
       <td>2011-10-11</td>
@@ -1642,14 +1642,14 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 24</li>
             <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 25</li>
-            <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 67</li>
-            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 77</li>
+            <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3acee3315d468e2dfebba64f42abf17f.png" alt="Cover for Deine Stimme &#x2F; Dein Gesicht" style="max-width:120px; height:auto;" />
       </td>
@@ -1671,7 +1671,7 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/QfWRgBuQaVNPaiM8zVvmLe20ZVbKTrnKgRhEmSzBWlc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MjEz/ODMtMTUwNTUwNjU4/OC02NDAyLnBuZw.jpeg" alt="Cover for Blut, Schweiss &amp; Keine Tränen" style="max-width:120px; height:auto;" />
       </td>
@@ -1689,7 +1689,7 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3947c4f06f39418dabeee6e289e1dd0d.png" alt="Cover for Entschuldigung für Nichts" style="max-width:120px; height:auto;" />
       </td>
@@ -1711,7 +1711,7 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/751fc61d9566405f82843c647f1fea39.png" alt="Cover for Meine Soldaten" style="max-width:120px; height:auto;" />
       </td>
@@ -1763,20 +1763,20 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       <td>
         <ul>
             <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 1</li>
+            <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 4</li>
+            <li> <a href="{{ "/tags/liedermacher" | relative_url }}">liedermacher</a> # 5</li>
             <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 10</li>
             <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 13</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 14</li>
             <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 23</li>
             <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 25</li>
+            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 27</li>
             <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 65</li>
-            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 74</li>
-            <li> <a href="{{ "/tags/liedermacher" | relative_url }}">liedermacher</a> # 96</li>
-            <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 97</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
       </td>
       <td>2013-05-31</td>
@@ -1818,16 +1818,16 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 9</li>
+            <li> <a href="{{ "/tags/liedermacher" | relative_url }}">liedermacher</a> # 17</li>
             <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 32</li>
             <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 39</li>
             <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 70</li>
-            <li> <a href="{{ "/tags/liedermacher" | relative_url }}">liedermacher</a> # 84</li>
-            <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/N0iCWfE1jSTbUGSowLli8h50Zwd_zOCea0XCcUx2vYA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwOTg3/NzktMTY0Mjg1MjI1/NC02NTkwLmpwZWc.jpeg" alt="Cover for Köter" style="max-width:120px; height:auto;" />
       </td>
@@ -1845,7 +1845,7 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6d230cc7a9214bcdcba8c5e5edc5811f.png" alt="Cover for Kopfüber ins Nichts" style="max-width:120px; height:auto;" />
       </td>
@@ -1867,7 +1867,7 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>93</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a66ced8f2e494777c49138cf218925d.png" alt="Cover for Tag zur Nacht" style="max-width:120px; height:auto;" />
       </td>
@@ -1887,7 +1887,7 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b997abc94d14651c6d4b9a8f0b46012.png" alt="Cover for Traum von Freiheit" style="max-width:120px; height:auto;" />
       </td>
@@ -1909,7 +1909,7 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>96</td>
       <td>
           <img src="https://i.discogs.com/nwjwI7RlH0I28dTevAyGKVQRfrHVb-lytKCJlRAP7xA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NTUw/NjgtMTQ2MTk0Nzg4/MS0xOTMyLmpwZWc.jpeg" alt="Cover for Sea Shepherd Benefiz" style="max-width:120px; height:auto;" />
       </td>
@@ -1931,7 +1931,7 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/n_8tVIG6H-qh_wt4R-yeuxPXaWde4Ay-PzOX8VTh8hc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NTMw/NDEtMTQ2ODAxNDQ3/Mi0yMjI3LmpwZWc.jpeg" alt="Cover for Sie wollen wieder schießen (dürfen)" style="max-width:120px; height:auto;" />
       </td>
@@ -1951,7 +1951,7 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/af98b299d3cb0566e2378b3a2a3aa1c4.png" alt="Cover for Die Nacht mein Freund (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1973,7 +1973,7 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>99</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a94e2896deafc76830cbbe9f99fb2543.png" alt="Cover for Hypermaxx 4000" style="max-width:120px; height:auto;" />
       </td>
@@ -1993,7 +1993,7 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ffa917447bee5d569bc4c3acbfa69759.png" alt="Cover for Revolution" style="max-width:120px; height:auto;" />
       </td>
@@ -2015,7 +2015,7 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/81f4514bc71327e03572d64f0b3acf84.png" alt="Cover for (sic!)" style="max-width:120px; height:auto;" />
       </td>
@@ -2035,7 +2035,7 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f942e8c3f3542a9aff42d9c218097d51.png" alt="Cover for Zeitzünder" style="max-width:120px; height:auto;" />
       </td>
@@ -2059,7 +2059,7 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ee33878017df30d113f4876aa52f422.png" alt="Cover for Smart Bomb" style="max-width:120px; height:auto;" />
       </td>
@@ -2078,12 +2078,12 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 58</li>
+            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/spFsRt6Ph506pJQRNjznjJ-8DzG8C9nHo2B6tWO0JmI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDA2/MjY1LTE2MDk3NjYz/MzQtNDgxMi5qcGVn.jpeg" alt="Cover for King of Simmering" style="max-width:120px; height:auto;" />
       </td>
@@ -2101,7 +2101,7 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/9Mp_DjdUMoNpyH5qpoBTBssx-ls2aInWIy-oivDz9H8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTIw/NjcyLTE2MTE1MjU3/NzktMjUwOC5qcGVn.jpeg" alt="Cover for Punk Chartbusters Vol. 4" style="max-width:120px; height:auto;" />
       </td>
@@ -2119,7 +2119,7 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3acb96b57f5d4ee690a65bdf3b309e5a.png" alt="Cover for 5,6,7,8 Bullenstaat" style="max-width:120px; height:auto;" />
       </td>
@@ -2136,7 +2136,7 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/638d966c11feb9b38ac5b8e4d418bc80.png" alt="Cover for Rabatt" style="max-width:120px; height:auto;" />
       </td>
@@ -2158,15 +2158,15 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 8</li>
             <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 29</li>
             <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 37</li>
             <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 45</li>
-            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c4889b327272e5b0a5755f77669b14e6.png" alt="Cover for Hamburg 2017" style="max-width:120px; height:auto;" />
       </td>
@@ -2187,7 +2187,7 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/08749548d7c413a9cecde6fd7908da70.png" alt="Cover for Ich War, Ich Bin Und Ich Werde Sein (In &quot;Limitierter Scheiss Weihnachtszeit Auflage&quot;)" style="max-width:120px; height:auto;" />
       </td>
@@ -2204,7 +2204,7 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>90</td>
       <td>
       </td>
       <td></td>
