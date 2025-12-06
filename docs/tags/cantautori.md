@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T06:58:07.215Z
+date: 2025-12-06T11:19:02.426Z
 permalink: tags/cantautori
 title: cantautori
 ---
 
 ## cantautori
 
-Last updated: <time datetime="2025-12-04T06:58:07.215Z">Thu Dec 04 2025 08:58:07 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T11:19:02.426Z">Sat Dec 06 2025 13:19:02 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -99,8 +99,8 @@ Cantautori refers to the Italian singer-songwriter tradition where artists compo
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 30</li>
             <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 45</li>
-            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 71</li>
             <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 98</li>
         </ul>
       </td>
@@ -182,7 +182,7 @@ Cantautori refers to the Italian singer-songwriter tradition where artists compo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 95</li>
+            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -206,8 +206,8 @@ Cantautori refers to the Italian singer-songwriter tradition where artists compo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/protest" | relative_url }}">protest</a> # 15</li>
-            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 19</li>
+            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 82</li>
+            <li> <a href="{{ "/tags/protest" | relative_url }}">protest</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -324,7 +324,7 @@ Cantautori refers to the Italian singer-songwriter tradition where artists compo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 31</li>
+            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -362,7 +362,7 @@ Cantautori refers to the Italian singer-songwriter tradition where artists compo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 5</li>
+            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -383,7 +383,7 @@ Cantautori refers to the Italian singer-songwriter tradition where artists compo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 18</li>
+            <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -503,7 +503,7 @@ Cantautori refers to the Italian singer-songwriter tradition where artists compo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 78</li>
+            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -565,7 +565,7 @@ Cantautori refers to the Italian singer-songwriter tradition where artists compo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 79</li>
+            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -624,7 +624,7 @@ Cantautori refers to the Italian singer-songwriter tradition where artists compo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 73</li>
+            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -874,7 +874,7 @@ Cantautori refers to the Italian singer-songwriter tradition where artists compo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 43</li>
+            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1172,18 +1172,18 @@ Cantautori refers to the Italian singer-songwriter tradition where artists compo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 6</li>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 19</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 11</li>
+            <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 22</li>
+            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 25</li>
             <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 37</li>
             <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 40</li>
-            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 40</li>
-            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 50</li>
+            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 48</li>
             <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 50</li>
-            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 53</li>
+            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 51</li>
+            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 61</li>
             <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 66</li>
-            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 76</li>
-            <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 79</li>
-            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 90</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 82</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1219,7 +1219,7 @@ Cantautori refers to the Italian singer-songwriter tradition where artists compo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 34</li>
+            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1246,7 +1246,7 @@ Cantautori refers to the Italian singer-songwriter tradition where artists compo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 6</li>
+            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1303,7 +1303,7 @@ Cantautori refers to the Italian singer-songwriter tradition where artists compo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 32</li>
+            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1359,7 +1359,7 @@ Cantautori refers to the Italian singer-songwriter tradition where artists compo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 3</li>
+            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1418,13 +1418,13 @@ Cantautori refers to the Italian singer-songwriter tradition where artists compo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 1</li>
-            <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 50</li>
-            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 52</li>
-            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 54</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 47</li>
+            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 49</li>
+            <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 51</li>
             <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 71</li>
             <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 88</li>
             <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 98</li>
+            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1444,7 +1444,7 @@ Cantautori refers to the Italian singer-songwriter tradition where artists compo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 12</li>
+            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1540,7 +1540,7 @@ Cantautori refers to the Italian singer-songwriter tradition where artists compo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 87</li>
+            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1573,11 +1573,11 @@ Cantautori refers to the Italian singer-songwriter tradition where artists compo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 20</li>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 26</li>
-            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 27</li>
-            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 62</li>
-            <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 68</li>
+            <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 33</li>
+            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 39</li>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 73</li>
+            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 74</li>
+            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1596,6 +1596,7 @@ Cantautori refers to the Italian singer-songwriter tradition where artists compo
       <td>
         <ul>
             <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 62</li>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1616,7 +1617,7 @@ Cantautori refers to the Italian singer-songwriter tradition where artists compo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 24</li>
+            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1636,7 +1637,7 @@ Cantautori refers to the Italian singer-songwriter tradition where artists compo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 20</li>
+            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1656,7 +1657,7 @@ Cantautori refers to the Italian singer-songwriter tradition where artists compo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 36</li>
+            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1735,7 +1736,7 @@ Cantautori refers to the Italian singer-songwriter tradition where artists compo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 2</li>
+            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1810,8 +1811,8 @@ Cantautori refers to the Italian singer-songwriter tradition where artists compo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 20</li>
-            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 38</li>
+            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 63</li>
+            <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1850,7 +1851,7 @@ Cantautori refers to the Italian singer-songwriter tradition where artists compo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 35</li>
+            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1891,7 +1892,7 @@ Cantautori refers to the Italian singer-songwriter tradition where artists compo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 13</li>
+            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1914,7 +1915,7 @@ Cantautori refers to the Italian singer-songwriter tradition where artists compo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 1</li>
+            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 100</li>
         </ul>
       </td>
     </tr>

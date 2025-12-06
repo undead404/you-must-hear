@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T06:49:16.439Z
+date: 2025-12-06T09:54:00.625Z
 permalink: tags/modern-melodic-death-metal
 title: modern melodic death metal
 ---
 
 ## modern melodic death metal
 
-Last updated: <time datetime="2025-12-04T06:49:16.439Z">Thu Dec 04 2025 08:49:16 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T09:54:00.625Z">Sat Dec 06 2025 11:54:00 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -62,8 +62,8 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 24</li>
-            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 74</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 28</li>
+            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -103,8 +103,8 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 44</li>
-            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 85</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 17</li>
+            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -122,7 +122,7 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 38</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -141,8 +141,8 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 49</li>
-            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 69</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 33</li>
+            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -179,8 +179,8 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 21</li>
-            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 43</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 59</li>
+            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -298,8 +298,8 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 4</li>
-            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 4</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 97</li>
+            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -376,7 +376,7 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a> # 5</li>
+            <li> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -394,8 +394,8 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 61</li>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 81</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 20</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 41</li>
             <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 81</li>
         </ul>
       </td>
@@ -695,8 +695,8 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 22</li>
             <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 77</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1687,7 +1687,7 @@ Modern melodic death metal blends aggressive extreme metal foundations with soar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 82</li>
+            <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 19</li>
         </ul>
       </td>
     </tr>

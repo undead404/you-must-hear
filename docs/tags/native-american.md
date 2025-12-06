@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T06:56:27.604Z
+date: 2025-12-06T10:46:26.967Z
 permalink: tags/native-american
 title: native american
 ---
 
 ## native american
 
-Last updated: <time datetime="2025-12-04T06:56:27.604Z">Thu Dec 04 2025 08:56:27 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T10:46:26.967Z">Sat Dec 06 2025 12:46:26 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,25 +29,7 @@ Music incorporating Indigenous peoples&#39; traditional sounds, instruments, and
   </thead>
   <tbody>
     <tr>
-      <td>7</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9b28848e0c892c9ac5ffa4ac0ce10980.png" alt="Cover for It&#39;s My Way!" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1964</td>
-      <td>Buffy Sainte-Marie</td>
-      <td>It&#39;s My Way!</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>60</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f342d1f329ea4fc1cf5bc5b6db2b5f9d.png" alt="Cover for Bitter Tears" style="max-width:120px; height:auto;" />
       </td>
@@ -65,7 +47,25 @@ Music incorporating Indigenous peoples&#39; traditional sounds, instruments, and
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>94</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9b28848e0c892c9ac5ffa4ac0ce10980.png" alt="Cover for It&#39;s My Way!" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1964</td>
+      <td>Buffy Sainte-Marie</td>
+      <td>It&#39;s My Way!</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/pVjf6F2mELuLRJpR1g3AK3mcjvziMUJ3gHhzoDEFKe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE3/LTE2NDc5NjEwMDgt/NjcwMS5qcGVn.jpeg" alt="Cover for Tribal Legends" style="max-width:120px; height:auto;" />
       </td>
@@ -83,7 +83,7 @@ Music incorporating Indigenous peoples&#39; traditional sounds, instruments, and
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>93</td>
       <td>
           <img src="https://i.discogs.com/snAXkkZG80o0PF-eOpynzfrw20RFkE4FgNsI2869k3Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTk4/NzEyLTE1MDA2NzU0/ODktNjMyNC5qcGVn.jpeg" alt="Cover for Native American Odyssey" style="max-width:120px; height:auto;" />
       </td>
@@ -102,7 +102,26 @@ Music incorporating Indigenous peoples&#39; traditional sounds, instruments, and
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>38</td>
+      <td>
+          <img src="https://i.discogs.com/hk4yFDs72Gul0p4nGF9rNSS3SYrv1XEev2-0OnNCDY0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNjM4/NDUtMTQzNTI3NTM0/Ny00NTQyLmpwZWc.jpeg" alt="Cover for Mythic Dreamer: Music For Native American Flute" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1985</td>
+      <td>R. Carlos Nakai</td>
+      <td>Mythic Dreamer: Music For Native American Flute</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/native-american" | relative_url }}">native american</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/flute" | relative_url }}">flute</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/94a6e27ba78bcb1fcaff988851cb27a4.png" alt="Cover for Bush Lady" style="max-width:120px; height:auto;" />
       </td>
@@ -124,26 +143,7 @@ Music incorporating Indigenous peoples&#39; traditional sounds, instruments, and
       </td>
     </tr>
     <tr>
-      <td>63</td>
-      <td>
-          <img src="https://i.discogs.com/hk4yFDs72Gul0p4nGF9rNSS3SYrv1XEev2-0OnNCDY0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNjM4/NDUtMTQzNTI3NTM0/Ny00NTQyLmpwZWc.jpeg" alt="Cover for Mythic Dreamer: Music For Native American Flute" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1985</td>
-      <td>R. Carlos Nakai</td>
-      <td>Mythic Dreamer: Music For Native American Flute</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/native-american" | relative_url }}">native american</a></li>
-            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/flute" | relative_url }}">flute</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>78</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/vvZFg8klHwy7lRZucrZ9m0CJ6UacMP5xBM0uaQw8ltw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjM5/OTctMTE4OTMyODk4/Mi5qcGVn.jpeg" alt="Cover for Earth Spirit" style="max-width:120px; height:auto;" />
       </td>
@@ -161,7 +161,7 @@ Music incorporating Indigenous peoples&#39; traditional sounds, instruments, and
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/639fd2aca3b35ecd7f392110f5e19f74.png" alt="Cover for Robbie Robertson" style="max-width:120px; height:auto;" />
       </td>
@@ -179,7 +179,7 @@ Music incorporating Indigenous peoples&#39; traditional sounds, instruments, and
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/tiv8a9AJF4sRXzecemskN5ikEHjUy7pCCL6A0GWPKOQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzgy/MDgtMTQ5MDIwMjcy/MC05NzY1LmpwZWc.jpeg" alt="Cover for Sundance Season" style="max-width:120px; height:auto;" />
       </td>
@@ -198,25 +198,7 @@ Music incorporating Indigenous peoples&#39; traditional sounds, instruments, and
       </td>
     </tr>
     <tr>
-      <td>37</td>
-      <td>
-          <img src="https://i.discogs.com/FwRM0WJbpmAG1UUMgGlX3lVnHgrVGKcy5ECA89LuK1s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NDU3/NjUtMTQxOTQwODY1/MS01NTM5LmpwZWc.jpeg" alt="Cover for Round Dance the Night Away" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1989</td>
-      <td>Randy Wood</td>
-      <td>Round Dance the Night Away</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/native-american" | relative_url }}">native american</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fc1589050e9340cec0c32399caa2f02d.png" alt="Cover for Canyon Trilogy" style="max-width:120px; height:auto;" />
       </td>
@@ -234,7 +216,25 @@ Music incorporating Indigenous peoples&#39; traditional sounds, instruments, and
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>64</td>
+      <td>
+          <img src="https://i.discogs.com/FwRM0WJbpmAG1UUMgGlX3lVnHgrVGKcy5ECA89LuK1s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NDU3/NjUtMTQxOTQwODY1/MS01NTM5LmpwZWc.jpeg" alt="Cover for Round Dance the Night Away" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1989</td>
+      <td>Randy Wood</td>
+      <td>Round Dance the Night Away</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/native-american" | relative_url }}">native american</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/qLT5Bkp2WVmq8l7cFJWJs8NflGeTF_hibI-JZlmP4pY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MDQ0/OS0xMzkxNDU5NzE3/LTI4ODIuanBlZw.jpeg" alt="Cover for Desert Dance" style="max-width:120px; height:auto;" />
       </td>
@@ -253,25 +253,7 @@ Music incorporating Indigenous peoples&#39; traditional sounds, instruments, and
       </td>
     </tr>
     <tr>
-      <td>29</td>
-      <td>
-          <img src="https://i.discogs.com/M6YQsy-AzYKUNa2rhq0RhcFe8ROTFIulTdZitRaB0VI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDE1/ODMzLTE1NTkzMzg1/MDQtOTkwMi5qcGVn.jpeg" alt="Cover for White Buffalo" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1991</td>
-      <td>Robert Tree Cody</td>
-      <td>White Buffalo</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/native-american" | relative_url }}">native american</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>40</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/be9d011d5fbafd5b7e688b54c47c1ee6.png" alt="Cover for Dances With Wolves - Original Motion Picture Soundtrack" style="max-width:120px; height:auto;" />
       </td>
@@ -289,7 +271,25 @@ Music incorporating Indigenous peoples&#39; traditional sounds, instruments, and
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>72</td>
+      <td>
+          <img src="https://i.discogs.com/M6YQsy-AzYKUNa2rhq0RhcFe8ROTFIulTdZitRaB0VI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDE1/ODMzLTE1NTkzMzg1/MDQtOTkwMi5qcGVn.jpeg" alt="Cover for White Buffalo" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1991</td>
+      <td>Robert Tree Cody</td>
+      <td>White Buffalo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/native-american" | relative_url }}">native american</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
       <td>
       </td>
       <td>1992</td>
@@ -306,7 +306,7 @@ Music incorporating Indigenous peoples&#39; traditional sounds, instruments, and
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/rI7hZogsHJxI9JOIZk7BqLh1iCRtKFDtd6JY4Aefl8o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTQ1/MjktMTI5MjI0MTA2/Ny5qcGVn.jpeg" alt="Cover for Aka Grafitti Man" style="max-width:120px; height:auto;" />
       </td>
@@ -326,7 +326,7 @@ Music incorporating Indigenous peoples&#39; traditional sounds, instruments, and
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4399b215f0b9a073d4dd9f887fe09fb0.png" alt="Cover for Eagle Spirit" style="max-width:120px; height:auto;" />
       </td>
@@ -345,7 +345,7 @@ Music incorporating Indigenous peoples&#39; traditional sounds, instruments, and
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>58</td>
       <td>
       </td>
       <td>1993-11-23</td>
@@ -362,7 +362,7 @@ Music incorporating Indigenous peoples&#39; traditional sounds, instruments, and
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5b7596f552164d898409561a154d13a3.png" alt="Cover for Indian&#39;s Sacred Spirit" style="max-width:120px; height:auto;" />
       </td>
@@ -381,95 +381,7 @@ Music incorporating Indigenous peoples&#39; traditional sounds, instruments, and
       </td>
     </tr>
     <tr>
-      <td>34</td>
-      <td>
-          <img src="https://i.discogs.com/ukGvBpa3Mo0hXh5FVzWc3T-6-IB3Xyi2_GAnT9BMIEM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NTA2/OC0xMzM5OTA4NDg0/LTQyNzMuanBlZw.jpeg" alt="Cover for Island of Bows" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1994</td>
-      <td>R. Carlos Nakai</td>
-      <td>Island of Bows</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/native-american" | relative_url }}">native american</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>36</td>
-      <td>
-          <img src="https://i.discogs.com/pELdjNvTcZKkADeWzgOIjFebeymYYKTB9-uSsHzYZOM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTY2/OTg4LTE1NzQ2MTk2/MDEtMzQ1OC53ZWJw.jpeg" alt="Cover for The Third Circle" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1994</td>
-      <td>Sissy Goodhouse</td>
-      <td>The Third Circle</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/native-american" | relative_url }}">native american</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>56</td>
-      <td>
-      </td>
-      <td>1994</td>
-      <td>Ben Tavera King &amp; Eric Casillas</td>
-      <td>Hunting Magic</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/native-american" | relative_url }}">native american</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>66</td>
-      <td>
-      </td>
-      <td>1994</td>
-      <td>Robbie Robertson &amp; The Red Road Ensemble</td>
-      <td>Music for the Native Americans</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/native-american" | relative_url }}">native american</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>98</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/55ddbaf165f8ad2d5db16be4ec8f1150.png" alt="Cover for More chants and dances of the native americans" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1994</td>
-      <td>Sacred Spirit</td>
-      <td>More chants and dances of the native americans</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/native-american" | relative_url }}">native american</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/147bdfbb54fb477f87b63d4acfb8455e.png" alt="Cover for Chants And Dances Of The Native Americans" style="max-width:120px; height:auto;" />
       </td>
@@ -487,7 +399,95 @@ Music incorporating Indigenous peoples&#39; traditional sounds, instruments, and
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>3</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/55ddbaf165f8ad2d5db16be4ec8f1150.png" alt="Cover for More chants and dances of the native americans" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994</td>
+      <td>Sacred Spirit</td>
+      <td>More chants and dances of the native americans</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/native-american" | relative_url }}">native american</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
+      </td>
+      <td>1994</td>
+      <td>Robbie Robertson &amp; The Red Road Ensemble</td>
+      <td>Music for the Native Americans</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/native-american" | relative_url }}">native american</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>
+      </td>
+      <td>1994</td>
+      <td>Ben Tavera King &amp; Eric Casillas</td>
+      <td>Hunting Magic</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/native-american" | relative_url }}">native american</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>
+          <img src="https://i.discogs.com/pELdjNvTcZKkADeWzgOIjFebeymYYKTB9-uSsHzYZOM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTY2/OTg4LTE1NzQ2MTk2/MDEtMzQ1OC53ZWJw.jpeg" alt="Cover for The Third Circle" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994</td>
+      <td>Sissy Goodhouse</td>
+      <td>The Third Circle</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/native-american" | relative_url }}">native american</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>
+          <img src="https://i.discogs.com/ukGvBpa3Mo0hXh5FVzWc3T-6-IB3Xyi2_GAnT9BMIEM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NTA2/OC0xMzM5OTA4NDg0/LTQyNzMuanBlZw.jpeg" alt="Cover for Island of Bows" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994</td>
+      <td>R. Carlos Nakai</td>
+      <td>Island of Bows</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/native-american" | relative_url }}">native american</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/Tycxoz4ALG9J4Cz39VebKmHblDxeHKUuQx4lIp45D5I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MzI3/MDUtMTUyMjAwNzA5/Mi0xNjE0LmpwZWc.jpeg" alt="Cover for Meditation, Native Spirits" style="max-width:120px; height:auto;" />
       </td>
@@ -504,13 +504,13 @@ Music incorporating Indigenous peoples&#39; traditional sounds, instruments, and
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>16</td>
       <td>
-          <img src="https://i.discogs.com/QRcc9Mi1yGI5IEpcROHJv-K8YwWTq7mDyleFYlryvkg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMjgw/NjAtMTQzOTAwMjMz/Mi03MzQzLmpwZWc.jpeg" alt="Cover for Native American Odyssey" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/NnwhFiKFu-IwzD6fOz5FQa-GdozcrglCOpqKTe2bVp8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MDcy/OTgtMTM5MjU4NTkx/OC00OTU2LmpwZWc.jpeg" alt="Cover for Song Carrier" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
-      <td>Tudjaat</td>
-      <td>Native American Odyssey</td>
+      <td>Robert Mirabal</td>
+      <td>Song Carrier</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/native-american" | relative_url }}">native american</a></li>
@@ -522,13 +522,13 @@ Music incorporating Indigenous peoples&#39; traditional sounds, instruments, and
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>19</td>
       <td>
-          <img src="https://i.discogs.com/QRcc9Mi1yGI5IEpcROHJv-K8YwWTq7mDyleFYlryvkg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMjgw/NjAtMTQzOTAwMjMz/Mi03MzQzLmpwZWc.jpeg" alt="Cover for A Native American Odyssey" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/2uIsJoiQr_M5X6sIAy9IHYihk19Er0GCvsgTipHuojM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MTE4/NjAtMTM5Nzk1NDY1/MC0yNjQ1LmpwZWc.jpeg" alt="Cover for Blood Of The Land" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
-      <td>Tudjaat</td>
-      <td>A Native American Odyssey</td>
+      <td>Burning Sky</td>
+      <td>Blood Of The Land</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/native-american" | relative_url }}">native american</a></li>
@@ -540,26 +540,7 @@ Music incorporating Indigenous peoples&#39; traditional sounds, instruments, and
       </td>
     </tr>
     <tr>
-      <td>20</td>
-      <td>
-          <img src="https://i.discogs.com/ZFetGFqzd_et9BJNk116mMvBEC06g1vR-nAbBuGxB4w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3Mjgz/ODYtMTQ2NzU3ODQx/MS0yMjIxLnBuZw.jpeg" alt="Cover for Encuentros (Meetings)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1995</td>
-      <td>Sukay</td>
-      <td>Encuentros (Meetings)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/native-american" | relative_url }}">native american</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/3CJNFRMoMc4-GXnhpALJleOjKbSTiuFc6imCK8P78sQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNzk2/NjAtMTU4NzI2MjU2/MC05NTA4LmpwZWc.jpeg" alt="Cover for Life Blood" style="max-width:120px; height:auto;" />
       </td>
@@ -578,13 +559,32 @@ Music incorporating Indigenous peoples&#39; traditional sounds, instruments, and
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>81</td>
       <td>
-          <img src="https://i.discogs.com/2uIsJoiQr_M5X6sIAy9IHYihk19Er0GCvsgTipHuojM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MTE4/NjAtMTM5Nzk1NDY1/MC0yNjQ1LmpwZWc.jpeg" alt="Cover for Blood Of The Land" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/ZFetGFqzd_et9BJNk116mMvBEC06g1vR-nAbBuGxB4w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3Mjgz/ODYtMTQ2NzU3ODQx/MS0yMjIxLnBuZw.jpeg" alt="Cover for Encuentros (Meetings)" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
-      <td>Burning Sky</td>
-      <td>Blood Of The Land</td>
+      <td>Sukay</td>
+      <td>Encuentros (Meetings)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/native-american" | relative_url }}">native american</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+          <img src="https://i.discogs.com/QRcc9Mi1yGI5IEpcROHJv-K8YwWTq7mDyleFYlryvkg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMjgw/NjAtMTQzOTAwMjMz/Mi03MzQzLmpwZWc.jpeg" alt="Cover for A Native American Odyssey" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995</td>
+      <td>Tudjaat</td>
+      <td>A Native American Odyssey</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/native-american" | relative_url }}">native american</a></li>
@@ -596,13 +596,13 @@ Music incorporating Indigenous peoples&#39; traditional sounds, instruments, and
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>96</td>
       <td>
-          <img src="https://i.discogs.com/NnwhFiKFu-IwzD6fOz5FQa-GdozcrglCOpqKTe2bVp8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MDcy/OTgtMTM5MjU4NTkx/OC00OTU2LmpwZWc.jpeg" alt="Cover for Song Carrier" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/QRcc9Mi1yGI5IEpcROHJv-K8YwWTq7mDyleFYlryvkg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMjgw/NjAtMTQzOTAwMjMz/Mi03MzQzLmpwZWc.jpeg" alt="Cover for Native American Odyssey" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
-      <td>Robert Mirabal</td>
-      <td>Song Carrier</td>
+      <td>Tudjaat</td>
+      <td>Native American Odyssey</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/native-american" | relative_url }}">native american</a></li>
@@ -614,7 +614,7 @@ Music incorporating Indigenous peoples&#39; traditional sounds, instruments, and
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
       </td>
       <td>1995-11-21</td>
@@ -631,97 +631,7 @@ Music incorporating Indigenous peoples&#39; traditional sounds, instruments, and
       </td>
     </tr>
     <tr>
-      <td>22</td>
-      <td>
-          <img src="https://i.discogs.com/0LwMGVbAyqKLtY9nLL9OYRErON4RtmuVmeaGjHOY4zY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMDAw/NjctMTQzNjAwMzk4/Ny05MDc2LmpwZWc.jpeg" alt="Cover for Spirits of the Wild" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1996</td>
-      <td>Mesa Music Consort</td>
-      <td>Spirits of the Wild</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/native-american" | relative_url }}">native american</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>61</td>
-      <td>
-          <img src="https://i.discogs.com/gnb7mw_ed08DrET07r_lssPGEOfEImfWmr-93faYG2c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjk0/MDA5LTE0OTQ4MDEw/NTUtOTA1OC5qcGVn.jpeg" alt="Cover for Dreams From The Grandfather - Native American Songs For Flute And Voice" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1996</td>
-      <td>Robert Tree Cody</td>
-      <td>Dreams From The Grandfather - Native American Songs For Flute And Voice</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/native-american" | relative_url }}">native american</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>77</td>
-      <td>
-          <img src="https://i.discogs.com/BV3qIn2CwIacz1Dfs7CoX-KCRX85bGYk_lxN23GDezQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTYy/NTQzLTE1NDg2MDA0/NzItNDcxNi5qcGVn.jpeg" alt="Cover for Fire Crow" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1996</td>
-      <td>Joseph Fire Crow</td>
-      <td>Fire Crow</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/native-american" | relative_url }}">native american</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>89</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b83618497d294f34cfa064d49a06cacb.png" alt="Cover for Up Where We Belong" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1996</td>
-      <td>Buffy Sainte-Marie</td>
-      <td>Up Where We Belong</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/native-american" | relative_url }}">native american</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>93</td>
-      <td>
-          <img src="https://i.discogs.com/eMGQSLDELbSwuHg64eUNsZnHjk9ZU7Nz6C62jruhQCM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwOTA4/NjMtMTQzNzIxNzg3/Ni00NjM1LmpwZWc.jpeg" alt="Cover for Creation" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1996</td>
-      <td>Burning Sky</td>
-      <td>Creation</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/native-american" | relative_url }}">native american</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ea3d77739a56444b9d9fc03f1f01d366.png" alt="Cover for Winter Ceremony (Tor-Cheney-Nahana)" style="max-width:120px; height:auto;" />
       </td>
@@ -740,7 +650,97 @@ Music incorporating Indigenous peoples&#39; traditional sounds, instruments, and
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>8</td>
+      <td>
+          <img src="https://i.discogs.com/eMGQSLDELbSwuHg64eUNsZnHjk9ZU7Nz6C62jruhQCM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwOTA4/NjMtMTQzNzIxNzg3/Ni00NjM1LmpwZWc.jpeg" alt="Cover for Creation" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996</td>
+      <td>Burning Sky</td>
+      <td>Creation</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/native-american" | relative_url }}">native american</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b83618497d294f34cfa064d49a06cacb.png" alt="Cover for Up Where We Belong" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996</td>
+      <td>Buffy Sainte-Marie</td>
+      <td>Up Where We Belong</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/native-american" | relative_url }}">native american</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>
+          <img src="https://i.discogs.com/BV3qIn2CwIacz1Dfs7CoX-KCRX85bGYk_lxN23GDezQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTYy/NTQzLTE1NDg2MDA0/NzItNDcxNi5qcGVn.jpeg" alt="Cover for Fire Crow" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996</td>
+      <td>Joseph Fire Crow</td>
+      <td>Fire Crow</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/native-american" | relative_url }}">native american</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>
+          <img src="https://i.discogs.com/gnb7mw_ed08DrET07r_lssPGEOfEImfWmr-93faYG2c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjk0/MDA5LTE0OTQ4MDEw/NTUtOTA1OC5qcGVn.jpeg" alt="Cover for Dreams From The Grandfather - Native American Songs For Flute And Voice" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996</td>
+      <td>Robert Tree Cody</td>
+      <td>Dreams From The Grandfather - Native American Songs For Flute And Voice</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/native-american" | relative_url }}">native american</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>
+          <img src="https://i.discogs.com/0LwMGVbAyqKLtY9nLL9OYRErON4RtmuVmeaGjHOY4zY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMDAw/NjctMTQzNjAwMzk4/Ny05MDc2LmpwZWc.jpeg" alt="Cover for Spirits of the Wild" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996</td>
+      <td>Mesa Music Consort</td>
+      <td>Spirits of the Wild</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/native-american" | relative_url }}">native american</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
       <td>
       </td>
       <td>1996-04-16</td>
@@ -757,7 +757,7 @@ Music incorporating Indigenous peoples&#39; traditional sounds, instruments, and
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fee1de72c64a25844f8001ab99e91bca.png" alt="Cover for Ancient Nazca - Inca Mysteries" style="max-width:120px; height:auto;" />
       </td>
@@ -777,7 +777,7 @@ Music incorporating Indigenous peoples&#39; traditional sounds, instruments, and
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>34</td>
       <td>
       </td>
       <td>1997</td>
@@ -794,7 +794,7 @@ Music incorporating Indigenous peoples&#39; traditional sounds, instruments, and
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/GWpTBB2Nya5JWnb4bD_kR7HFXfJnvkOGDcFtKmHXyws/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMjU4/MTctMTM4ODA3NDEz/OC02ODQ3LmpwZWc.jpeg" alt="Cover for A Native American Odyssey" style="max-width:120px; height:auto;" />
       </td>
@@ -813,7 +813,7 @@ Music incorporating Indigenous peoples&#39; traditional sounds, instruments, and
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>89</td>
       <td>
           <img src="https://i.discogs.com/0wb-Y_BaSor5Jhzrh1fqv7AvZ1Z5vzN0NHwQ9vED6uA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDk2/OTE0LTE1Njc3ODY4/MjAtNTg3My5qcGVn.jpeg" alt="Cover for Morning Star" style="max-width:120px; height:auto;" />
       </td>
@@ -831,7 +831,7 @@ Music incorporating Indigenous peoples&#39; traditional sounds, instruments, and
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/nb808BTqkj6kzof0VkD41mofGBZdZkSnlLu7siymzBU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzQ0/MzEtMTMxNDQ5NTgz/OC5qcGVn.jpeg" alt="Cover for Music For The Native Americans" style="max-width:120px; height:auto;" />
       </td>
@@ -849,13 +849,12 @@ Music incorporating Indigenous peoples&#39; traditional sounds, instruments, and
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>28</td>
       <td>
-          <img src="https://i.discogs.com/44LXVbF_7Tj8w8d1EpoYZAhJrGo8B-MZcEbAP2BRNGo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MTIy/MjUtMTQyMDk0NTYw/Ni0zMzMyLmpwZWc.jpeg" alt="Cover for Ancestral Voices" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>R. Carlos Nakai</td>
-      <td>Ancestral Voices</td>
+      <td>Inner Voices</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/native-american" | relative_url }}">native american</a></li>
@@ -867,25 +866,7 @@ Music incorporating Indigenous peoples&#39; traditional sounds, instruments, and
       </td>
     </tr>
     <tr>
-      <td>32</td>
-      <td>
-          <img src="https://i.discogs.com/Ye70kndUXGXI6tqofJX5hUric_ix9fn3h3reK2TK67s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzc1/OTAyLTE1ODEzNTgw/ODAtNTg1NC5qcGVn.jpeg" alt="Cover for Heart of the World" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1999</td>
-      <td>Mary Youngblood</td>
-      <td>Heart of the World</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/native-american" | relative_url }}">native american</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>71</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/aecxkl8QTwGvzdomYCAPNV2q5sWnHPW4cmrE1_bKedU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzMy/NjUzLTE1ODk1OTc5/MjktNTAyNy5qcGVn.jpeg" alt="Cover for V3 - An American Indian" style="max-width:120px; height:auto;" />
       </td>
@@ -903,12 +884,13 @@ Music incorporating Indigenous peoples&#39; traditional sounds, instruments, and
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>69</td>
       <td>
+          <img src="https://i.discogs.com/Ye70kndUXGXI6tqofJX5hUric_ix9fn3h3reK2TK67s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzc1/OTAyLTE1ODEzNTgw/ODAtNTg1NC5qcGVn.jpeg" alt="Cover for Heart of the World" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
-      <td>R. Carlos Nakai</td>
-      <td>Inner Voices</td>
+      <td>Mary Youngblood</td>
+      <td>Heart of the World</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/native-american" | relative_url }}">native american</a></li>
@@ -920,7 +902,25 @@ Music incorporating Indigenous peoples&#39; traditional sounds, instruments, and
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>91</td>
+      <td>
+          <img src="https://i.discogs.com/44LXVbF_7Tj8w8d1EpoYZAhJrGo8B-MZcEbAP2BRNGo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MTIy/MjUtMTQyMDk0NTYw/Ni0zMzMyLmpwZWc.jpeg" alt="Cover for Ancestral Voices" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>R. Carlos Nakai</td>
+      <td>Ancestral Voices</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/native-american" | relative_url }}">native american</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/MsaB9sp9Uh3taqCzeXh_m9tqSLnM041wkJ313FSvdIo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjY1/NTEtMTI5NTcwNDM1/Mi5qcGVn.jpeg" alt="Cover for Voices" style="max-width:120px; height:auto;" />
       </td>
@@ -938,7 +938,43 @@ Music incorporating Indigenous peoples&#39; traditional sounds, instruments, and
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>66</td>
+      <td>
+          <img src="https://i.discogs.com/e_sWk_SjcruYK3dOQ2PTUQ57w364GFW-VbvGZS-HylM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDIw/MTMtMTMwNjQzMTY2/NC5qcGVn.jpeg" alt="Cover for Sacred Spirit Drums" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>David &amp; Steve Gordon</td>
+      <td>Sacred Spirit Drums</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5ee52175fb0d42fbb2bab8620df1551c.png" alt="Cover for The Heron Smiled" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>Annie Humphrey</td>
+      <td>The Heron Smiled</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/native-american" | relative_url }}">native american</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/T18RHAbMKpP97fT_rq8SRjzb3wifMde9fK5QOV_X3cc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MzUx/NDgtMTUxMjg1ODMx/MC05NTY3LmpwZWc.jpeg" alt="Cover for Peacemaker&#39;s Journey" style="max-width:120px; height:auto;" />
       </td>
@@ -957,43 +993,7 @@ Music incorporating Indigenous peoples&#39; traditional sounds, instruments, and
       </td>
     </tr>
     <tr>
-      <td>23</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5ee52175fb0d42fbb2bab8620df1551c.png" alt="Cover for The Heron Smiled" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2000</td>
-      <td>Annie Humphrey</td>
-      <td>The Heron Smiled</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/native-american" | relative_url }}">native american</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>35</td>
-      <td>
-          <img src="https://i.discogs.com/e_sWk_SjcruYK3dOQ2PTUQ57w364GFW-VbvGZS-HylM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDIw/MTMtMTMwNjQzMTY2/NC5qcGVn.jpeg" alt="Cover for Sacred Spirit Drums" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2000</td>
-      <td>David &amp; Steve Gordon</td>
-      <td>Sacred Spirit Drums</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
       </td>
       <td>2000</td>
@@ -1009,7 +1009,7 @@ Music incorporating Indigenous peoples&#39; traditional sounds, instruments, and
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/NZgIgv1oZQFGbGUkUlaQSq1eoJyoVziOmDvHsaDos3Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjY5/MzQ4LTE1NTg2NjUz/NjItNTQ1Mi5qcGVn.jpeg" alt="Cover for Vortex Rhythms" style="max-width:120px; height:auto;" />
       </td>
@@ -1027,7 +1027,7 @@ Music incorporating Indigenous peoples&#39; traditional sounds, instruments, and
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
       </td>
       <td>2000-09-25</td>
@@ -1045,6 +1045,61 @@ Music incorporating Indigenous peoples&#39; traditional sounds, instruments, and
     </tr>
     <tr>
       <td>15</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e203080cd43efe90ecfabce09a516a57.png" alt="Cover for Drum Medicine" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>David &amp; Steve Gordon</td>
+      <td>Drum Medicine</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/native-american" | relative_url }}">native american</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>
+          <img src="https://i.discogs.com/DCbsVFpEQxbrD1da91R8i-VoGQnS_HeM85KIaBM8k6E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1ODQx/MjMtMTQ2NDUzMjk1/OC01ODYzLmpwZWc.jpeg" alt="Cover for Music From a Painted Cave" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Robert Mirabal</td>
+      <td>Music From a Painted Cave</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/native-american" | relative_url }}">native american</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d0bec089cca31a2e6a37410021cb662e.png" alt="Cover for Spiritual Vitamins 1 - Native American Chants" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Phil Thornton</td>
+      <td>Spiritual Vitamins 1 - Native American Chants</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/EETGywBHiZGzY_08OEhup9auwfklE9325Ln8XsJ2wi0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTQx/ODAtMTMyNTM0MTUz/NS5qcGVn.jpeg" alt="Cover for Bone Days" style="max-width:120px; height:auto;" />
       </td>
@@ -1065,62 +1120,7 @@ Music incorporating Indigenous peoples&#39; traditional sounds, instruments, and
       </td>
     </tr>
     <tr>
-      <td>55</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d0bec089cca31a2e6a37410021cb662e.png" alt="Cover for Spiritual Vitamins 1 - Native American Chants" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2001</td>
-      <td>Phil Thornton</td>
-      <td>Spiritual Vitamins 1 - Native American Chants</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>57</td>
-      <td>
-          <img src="https://i.discogs.com/DCbsVFpEQxbrD1da91R8i-VoGQnS_HeM85KIaBM8k6E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1ODQx/MjMtMTQ2NDUzMjk1/OC01ODYzLmpwZWc.jpeg" alt="Cover for Music From a Painted Cave" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2001</td>
-      <td>Robert Mirabal</td>
-      <td>Music From a Painted Cave</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/native-american" | relative_url }}">native american</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>86</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e203080cd43efe90ecfabce09a516a57.png" alt="Cover for Drum Medicine" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2001</td>
-      <td>David &amp; Steve Gordon</td>
-      <td>Drum Medicine</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/native-american" | relative_url }}">native american</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>39</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/84c2847f544b4b04a4c444995781e9bc.png" alt="Cover for The Spirit of the Mesa Verde" style="max-width:120px; height:auto;" />
       </td>
@@ -1140,7 +1140,7 @@ Music incorporating Indigenous peoples&#39; traditional sounds, instruments, and
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/5p3t_0sTfb4DLtg_9fi5H8BkGX1TCA7wHP8wfcTuobc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjA3/ODYxLTE1NzgwODI3/MjEtODg3OC5qcGVn.jpeg" alt="Cover for Fourth World" style="max-width:120px; height:auto;" />
       </td>
@@ -1161,7 +1161,7 @@ Music incorporating Indigenous peoples&#39; traditional sounds, instruments, and
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
       </td>
       <td>2002</td>
@@ -1178,7 +1178,7 @@ Music incorporating Indigenous peoples&#39; traditional sounds, instruments, and
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
       </td>
       <td>2002-02-05</td>
@@ -1195,7 +1195,7 @@ Music incorporating Indigenous peoples&#39; traditional sounds, instruments, and
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>100</td>
       <td>
           <img src="https://i.discogs.com/_8KtMjxdvVaF-lPPIr8BY5cy7GAsEFDJl4dH_J-_hiI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NjY4/OTYtMTM5Njc1NjYy/NS03ODIyLmpwZWc.jpeg" alt="Cover for Spirit Rain" style="max-width:120px; height:auto;" />
       </td>
@@ -1213,25 +1213,7 @@ Music incorporating Indigenous peoples&#39; traditional sounds, instruments, and
       </td>
     </tr>
     <tr>
-      <td>31</td>
-      <td>
-          <img src="https://i.discogs.com/8nEvS0zHITtmyDHz9ZU96Po-1CMiOZhaj9ZPOCg_i_M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NTQ0/NC0xMTIxNjM0Mzgw/LmpwZw.jpeg" alt="Cover for A Warrior&#39;s Journey" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2003</td>
-      <td>Longhouse</td>
-      <td>A Warrior&#39;s Journey</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/native-american" | relative_url }}">native american</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/OnP9r_fYck7IhD2klQg1JDhSd3FA_pF9D6-cQMcE1iE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjA5/Mzc1LTE2NTg5NDU1/MDgtNjc0OS5qcGVn.jpeg" alt="Cover for Reflections" style="max-width:120px; height:auto;" />
       </td>
@@ -1250,31 +1232,13 @@ Music incorporating Indigenous peoples&#39; traditional sounds, instruments, and
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>70</td>
       <td>
-          <img src="https://i.discogs.com/V5W3HKNKwfNX8ggfbe0kr5D0h5-MA7kMvvcXRGn1Jl0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODI5/MzkyLTE2OTA3NDQ4/MzQtNzg4Mi5qcGVn.jpeg" alt="Cover for Nature&#39;s Enchantment" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/8nEvS0zHITtmyDHz9ZU96Po-1CMiOZhaj9ZPOCg_i_M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NTQ0/NC0xMTIxNjM0Mzgw/LmpwZw.jpeg" alt="Cover for A Warrior&#39;s Journey" style="max-width:120px; height:auto;" />
       </td>
-      <td>2004</td>
-      <td>Marina Raye</td>
-      <td>Nature&#39;s Enchantment</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/native-american" | relative_url }}">native american</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>19</td>
-      <td>
-          <img src="https://i.discogs.com/TUqHcLSYSHAnSDTDBMzhP5FJjWNB-3hnMz_laD3ctT4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNjAy/NTYtMTQzOTc2NzA2/OC02MjE2LmpwZWc.jpeg" alt="Cover for Ghost Dance Songs" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2004</td>
-      <td>The Red Shadow Singers</td>
-      <td>Ghost Dance Songs</td>
+      <td>2003</td>
+      <td>Longhouse</td>
+      <td>A Warrior&#39;s Journey</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/native-american" | relative_url }}">native american</a></li>
@@ -1286,45 +1250,7 @@ Music incorporating Indigenous peoples&#39; traditional sounds, instruments, and
       </td>
     </tr>
     <tr>
-      <td>38</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/07671513a3d246ce811ec8805ccded18.png" alt="Cover for Togo" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2004</td>
-      <td>Andrew Vasquez</td>
-      <td>Togo</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/native-american" | relative_url }}">native american</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>42</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b7f7ad1526c145b1c545484d09d48e8d.png" alt="Cover for Skintalk" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2004</td>
-      <td>Martha Redbone</td>
-      <td>Skintalk</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/native-american" | relative_url }}">native american</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1e75bd5058c5f1545199de8e152ef936.png" alt="Cover for Rainbird" style="max-width:120px; height:auto;" />
       </td>
@@ -1345,7 +1271,81 @@ Music incorporating Indigenous peoples&#39; traditional sounds, instruments, and
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>59</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b7f7ad1526c145b1c545484d09d48e8d.png" alt="Cover for Skintalk" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Martha Redbone</td>
+      <td>Skintalk</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/native-american" | relative_url }}">native american</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/07671513a3d246ce811ec8805ccded18.png" alt="Cover for Togo" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Andrew Vasquez</td>
+      <td>Togo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/native-american" | relative_url }}">native american</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>
+          <img src="https://i.discogs.com/TUqHcLSYSHAnSDTDBMzhP5FJjWNB-3hnMz_laD3ctT4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNjAy/NTYtMTQzOTc2NzA2/OC02MjE2LmpwZWc.jpeg" alt="Cover for Ghost Dance Songs" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>The Red Shadow Singers</td>
+      <td>Ghost Dance Songs</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/native-american" | relative_url }}">native american</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>
+          <img src="https://i.discogs.com/V5W3HKNKwfNX8ggfbe0kr5D0h5-MA7kMvvcXRGn1Jl0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODI5/MzkyLTE2OTA3NDQ4/MzQtNzg4Mi5qcGVn.jpeg" alt="Cover for Nature&#39;s Enchantment" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Marina Raye</td>
+      <td>Nature&#39;s Enchantment</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/native-american" | relative_url }}">native american</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
       <td>
       </td>
       <td>2005</td>
@@ -1364,7 +1364,25 @@ Music incorporating Indigenous peoples&#39; traditional sounds, instruments, and
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>71</td>
+      <td>
+          <img src="https://i.discogs.com/BPBCNHLvkPM9I6dXfSrxcmuMafllXwCL_utmLJM7NMo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzkz/NzM0LTE2NTcwNTM1/MjItMTU4Mi5qcGVn.jpeg" alt="Cover for Time For Truth" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>Douglas Blue Feather</td>
+      <td>Time For Truth</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/native-american" | relative_url }}">native american</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/BPBCNHLvkPM9I6dXfSrxcmuMafllXwCL_utmLJM7NMo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzkz/NzM0LTE2NTcwNTM1/MjItMTU4Mi5qcGVn.jpeg" alt="Cover for Ride The Lightning" style="max-width:120px; height:auto;" />
       </td>
@@ -1383,25 +1401,7 @@ Music incorporating Indigenous peoples&#39; traditional sounds, instruments, and
       </td>
     </tr>
     <tr>
-      <td>30</td>
-      <td>
-          <img src="https://i.discogs.com/BPBCNHLvkPM9I6dXfSrxcmuMafllXwCL_utmLJM7NMo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzkz/NzM0LTE2NTcwNTM1/MjItMTU4Mi5qcGVn.jpeg" alt="Cover for Time For Truth" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2005</td>
-      <td>Douglas Blue Feather</td>
-      <td>Time For Truth</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/native-american" | relative_url }}">native american</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>21</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/m9Bd29t1axAlgCX9o7wbgBVW62F1ao-aQUn3D8YD0ZE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDMz/NzcwLTE2NTkwOTUx/NzUtMjM0Mi5wbmc.jpeg" alt="Cover for Along the Way - Round Dance Songs" style="max-width:120px; height:auto;" />
       </td>
@@ -1419,7 +1419,43 @@ Music incorporating Indigenous peoples&#39; traditional sounds, instruments, and
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>33</td>
+      <td>
+          <img src="https://i.discogs.com/9prTfwsRrp-1PrmSYOpk9j7lCpu_RiB-tj39cyslS0E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mzk5/NzEyLTE1NzQwMjA4/NzQtMzU2NS5qcGVn.jpeg" alt="Cover for Johnny Whitehorse" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Johnny Whitehorse</td>
+      <td>Johnny Whitehorse</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/native-american" | relative_url }}">native american</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>
+          <img src="https://i.discogs.com/oPpLIiFgtzVkBxQA5KHoR4tkSnyV6I2fRJECWUl76BE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzAy/NjExLTE1Nzk5NjEx/MzgtMjI2OS5qcGVn.jpeg" alt="Cover for Sacred Fire: Meditation Songs for Native American Flute" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Kelvin Mockingbird</td>
+      <td>Sacred Fire: Meditation Songs for Native American Flute</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/native-american" | relative_url }}">native american</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/F7kCAZcKBEfOFd5_dZb2_0FEVXTL98fqy764Z_nkq98/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDc5/NDE4LTE2MzA1Mjcy/NjctNjc0NC5qcGVn.jpeg" alt="Cover for The Guardian" style="max-width:120px; height:auto;" />
       </td>
@@ -1438,43 +1474,7 @@ Music incorporating Indigenous peoples&#39; traditional sounds, instruments, and
       </td>
     </tr>
     <tr>
-      <td>46</td>
-      <td>
-          <img src="https://i.discogs.com/oPpLIiFgtzVkBxQA5KHoR4tkSnyV6I2fRJECWUl76BE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzAy/NjExLTE1Nzk5NjEx/MzgtMjI2OS5qcGVn.jpeg" alt="Cover for Sacred Fire: Meditation Songs for Native American Flute" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2006</td>
-      <td>Kelvin Mockingbird</td>
-      <td>Sacred Fire: Meditation Songs for Native American Flute</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/native-american" | relative_url }}">native american</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>68</td>
-      <td>
-          <img src="https://i.discogs.com/9prTfwsRrp-1PrmSYOpk9j7lCpu_RiB-tj39cyslS0E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mzk5/NzEyLTE1NzQwMjA4/NzQtMzU2NS5qcGVn.jpeg" alt="Cover for Johnny Whitehorse" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2006</td>
-      <td>Johnny Whitehorse</td>
-      <td>Johnny Whitehorse</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/native-american" | relative_url }}">native american</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>28</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/0hZLA5VJRQ8QVrw5uPBgBvugZ4IRVOeVLq9zb6UPIGU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDcz/MjU1LTE2MzMzNzc2/MDgtODYwMi5qcGVn.jpeg" alt="Cover for Dance with the Wind" style="max-width:120px; height:auto;" />
       </td>
@@ -1492,7 +1492,7 @@ Music incorporating Indigenous peoples&#39; traditional sounds, instruments, and
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/71YNZb2xltkqyBYfIpsZtP9m0r9gK16RbTFuSymnMqQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTA1/OTE1LTE0OTE3MDgy/OTktNjYxOS5wbmc.jpeg" alt="Cover for Hymns" style="max-width:120px; height:auto;" />
       </td>
@@ -1512,7 +1512,7 @@ Music incorporating Indigenous peoples&#39; traditional sounds, instruments, and
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/2tpzQFfwkVCNeowBZ_KN4vj305pPp8FCdpQ79o2Wqro/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTQ2/MDI0LTE2NjAwNDIy/ODctNzI3MC5qcGVn.jpeg" alt="Cover for Elements" style="max-width:120px; height:auto;" />
       </td>
@@ -1530,7 +1530,7 @@ Music incorporating Indigenous peoples&#39; traditional sounds, instruments, and
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/WTAIXQN8YlfptfaUytihg6GjbKzeC0uknr2vObkF7tI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDcy/MTk5LTE0OTgxMzg0/NDItMjkyOC5qcGVn.jpeg" alt="Cover for Indian Calling" style="max-width:120px; height:auto;" />
       </td>
@@ -1550,7 +1550,7 @@ Music incorporating Indigenous peoples&#39; traditional sounds, instruments, and
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7b2f1b4d5b784c1ea2d0429ed4d270e7.png" alt="Cover for Two Tongues At One Time &#x2F; Buried In Teeth" style="max-width:120px; height:auto;" />
       </td>
@@ -1570,7 +1570,7 @@ Music incorporating Indigenous peoples&#39; traditional sounds, instruments, and
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f647be6d7b93451fb8e477ad935e638b.png" alt="Cover for Anonymous" style="max-width:120px; height:auto;" />
       </td>
@@ -1590,7 +1590,7 @@ Music incorporating Indigenous peoples&#39; traditional sounds, instruments, and
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/RwWmHj-ykfMR8jACfFa0bw2iBsEjr7NR0di3-xYZyoM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODM1/MjY0LTE2NDk2MTY0/NTAtOTYzNy5qcGVn.jpeg" alt="Cover for Talisman" style="max-width:120px; height:auto;" />
       </td>
@@ -1608,7 +1608,7 @@ Music incorporating Indigenous peoples&#39; traditional sounds, instruments, and
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/d6ErUxfnMjmrldnj8jy_-XRD8jteFjO1wQ9p802DOTk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNzQx/MTEtMTQzNzc2MjYx/OC0xMzEwLmpwZWc.jpeg" alt="Cover for Dancerz Groove" style="max-width:120px; height:auto;" />
       </td>
@@ -1626,7 +1626,7 @@ Music incorporating Indigenous peoples&#39; traditional sounds, instruments, and
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>99</td>
       <td>
           <img src="https://i.discogs.com/ZzaqH9dSrx1kKBNApGxe8llh85buOsvoJfSLxLVkua8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDc1/MzAwLTE2NDAzOTA0/OTYtODk5OS5qcGVn.jpeg" alt="Cover for Doorway to a Dream" style="max-width:120px; height:auto;" />
       </td>
@@ -1648,12 +1648,12 @@ Music incorporating Indigenous peoples&#39; traditional sounds, instruments, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/yoga" | relative_url }}">yoga</a> # 22</li>
+            <li> <a href="{{ "/tags/yoga" | relative_url }}">yoga</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/_R6plZ95HZfjhOnwCWocZOQGETGQi1aUUxZS6Kq45zg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTk0/NDA5LTE1ODUyNDQ0/NjktNzQ0OS5qcGVn.jpeg" alt="Cover for Lifeblood" style="max-width:120px; height:auto;" />
       </td>
@@ -1672,7 +1672,7 @@ Music incorporating Indigenous peoples&#39; traditional sounds, instruments, and
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/Wxpy5i3f3XoUkc7CSsc7a3RGt13o2_5yT4kqL6fLmFo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNjQ5/MzQtMTY0OTA3OTcz/My0xMDcxLmpwZWc.jpeg" alt="Cover for Yeha-Noha" style="max-width:120px; height:auto;" />
       </td>
@@ -1690,7 +1690,7 @@ Music incorporating Indigenous peoples&#39; traditional sounds, instruments, and
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>77</td>
       <td>
       </td>
       <td>2013</td>
@@ -1708,7 +1708,7 @@ Music incorporating Indigenous peoples&#39; traditional sounds, instruments, and
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/HkaQTm3LU9j8vFZX4y9_SdZprQvoKFz6T20v6HFO5EA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTI0/NDIxLTE1Mjg3OTU0/NzUtNzk3Mi5qcGVn.jpeg" alt="Cover for Creation of the World" style="max-width:120px; height:auto;" />
       </td>
@@ -1736,14 +1736,14 @@ Music incorporating Indigenous peoples&#39; traditional sounds, instruments, and
       <td>
         <ul>
             <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 32</li>
+            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 38</li>
             <li> <a href="{{ "/tags/western" | relative_url }}">western</a> # 40</li>
             <li> <a href="{{ "/tags/greek" | relative_url }}">greek</a> # 54</li>
-            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>56</td>
       <td>
       </td>
       <td>2017</td>
@@ -1761,7 +1761,7 @@ Music incorporating Indigenous peoples&#39; traditional sounds, instruments, and
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>84</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee38d7b9429f480aaae62be92b15de95.png" alt="Cover for Dirty History" style="max-width:120px; height:auto;" />
       </td>
@@ -1780,7 +1780,7 @@ Music incorporating Indigenous peoples&#39; traditional sounds, instruments, and
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/njF5yLvvm4saisRnywGZA-wK5jTsrJhDuL5YZfglqBo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTUy/ODA1LTE1Njg5OTg4/MTQtODI0NS5qcGVn.jpeg" alt="Cover for Native Americans" style="max-width:120px; height:auto;" />
       </td>
@@ -1798,7 +1798,7 @@ Music incorporating Indigenous peoples&#39; traditional sounds, instruments, and
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>74</td>
       <td>
       </td>
       <td>2021-02-05</td>
@@ -1816,7 +1816,7 @@ Music incorporating Indigenous peoples&#39; traditional sounds, instruments, and
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/c7wVSWlGT0aW6QKArXn3mcYNNdrWvjBpM6z5Lv4qDlw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDU4/ODQtMTUwNTMxMjA0/My0xMzI4LmpwZWc.jpeg" alt="Cover for Native American Odyssey" style="max-width:120px; height:auto;" />
       </td>
@@ -1834,7 +1834,7 @@ Music incorporating Indigenous peoples&#39; traditional sounds, instruments, and
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
       </td>
       <td></td>
@@ -1853,7 +1853,7 @@ Music incorporating Indigenous peoples&#39; traditional sounds, instruments, and
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>90</td>
       <td>
       </td>
       <td></td>
@@ -1871,7 +1871,7 @@ Music incorporating Indigenous peoples&#39; traditional sounds, instruments, and
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4a183d9de25b7689c30017207e9aa5b3.png" alt="Cover for Native North America (Vol. 1) : Aboriginal Folk, Rock, And Country 1966-1985" style="max-width:120px; height:auto;" />
       </td>

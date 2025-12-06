@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T06:59:04.337Z
+date: 2025-12-06T11:38:50.934Z
 permalink: tags/juke
 title: juke
 ---
 
 ## juke
 
-Last updated: <time datetime="2025-12-04T06:59:04.337Z">Thu Dec 04 2025 08:59:04 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T11:38:50.934Z">Sat Dec 06 2025 13:38:50 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
   </thead>
   <tbody>
     <tr>
-      <td>23</td>
+      <td>78</td>
       <td>
       </td>
       <td>1977</td>
@@ -44,12 +44,12 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a> # 63</li>
+            <li> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a> # 37</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/gFLhuksdeBEWq71eaQHe0sGkYdzspnix473Zz3q3uPU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNTg4/OS0xMTgyNDQ5NTYy/LmpwZWc.jpeg" alt="Cover for Get Busy" style="max-width:120px; height:auto;" />
       </td>
@@ -68,7 +68,7 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>55</td>
       <td>
       </td>
       <td>2001</td>
@@ -88,13 +88,13 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 49</li>
+            <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 52</li>
             <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>30</td>
       <td>
       </td>
       <td>2001-06-28</td>
@@ -107,14 +107,14 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 26</li>
-            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 93</li>
-            <li> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a> # 95</li>
+            <li> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a> # 6</li>
+            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 8</li>
+            <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/sFm3lky_8RXF4NLUEv7Lx56kzo2BWkUdrVoRim_Qqjo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NjA3/MzgtMTQxMTExOTMw/MC0yNTIzLmpwZWc.jpeg" alt="Cover for Tales of the Jukesaw" style="max-width:120px; height:auto;" />
       </td>
@@ -133,7 +133,7 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/668e39e2d159116e5616dae0b2fd2a63.png" alt="Cover for Juke Baritone" style="max-width:120px; height:auto;" />
       </td>
@@ -152,12 +152,12 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a> # 92</li>
+            <li> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a> # 9</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/43A0iNEzGn5TN6ROOrBhXXOc1XmD1gDXADEI2GAA2Hs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDA5/NTQtMTM0NDk0ODQ5/Mi05NTAxLmpwZWc.jpeg" alt="Cover for Jukestacy" style="max-width:120px; height:auto;" />
       </td>
@@ -175,7 +175,7 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cc64917d9d24b9de6dad7bd2f7dd25e0.png" alt="Cover for #HOTELSEASON II" style="max-width:120px; height:auto;" />
       </td>
@@ -196,7 +196,7 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/qwADT1eqMqOOmR9MCXXbv4IiETlPR0hhobQo9naMan8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDgx/MTgtMTI5NDg2NTI0/NC5qcGVn.jpeg" alt="Cover for Kiss Kiss Kiss (mixed by Nick Catchdubs)" style="max-width:120px; height:auto;" />
       </td>
@@ -211,12 +211,12 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a> # 44</li>
+            <li> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a> # 57</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6b7f9101ca0341f3957276890a805947.png" alt="Cover for Room(s)" style="max-width:120px; height:auto;" />
       </td>
@@ -230,13 +230,13 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 75</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 51</li>
             <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/EI1e-VXpfmz8SO5WDLEpkmwVapjukcDuOe2l42u-2Dw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjg3/MDk4LTE1MjA2NjY0/NzUtNzU1Ny5qcGVn.jpeg" alt="Cover for Love" style="max-width:120px; height:auto;" />
       </td>
@@ -254,7 +254,7 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>38</td>
       <td>
       </td>
       <td>2012-03-27</td>
@@ -273,7 +273,7 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/O7ZSrOlC-Pg8ZHDDk0J6xqO6qlFlTJInapaVyqfamuo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMDgx/MzctMTQxMTI2OTQy/OC00MjE4LmpwZWc.jpeg" alt="Cover for D℞℞TY&#39;$ PHA℞MA¢Y" style="max-width:120px; height:auto;" />
       </td>
@@ -294,7 +294,7 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/9v4wiMCpP3SqCeEl_L9eXr3OFhjf6Yv6lL9ZH_c5dwM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTM1/NDAtMTMzNjYzNTg3/OS01ODQ2LmpwZWc.jpeg" alt="Cover for Two Feet On The Ground" style="max-width:120px; height:auto;" />
       </td>
@@ -312,7 +312,7 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/_VvpnHOl2fRXu-wwrBqG8bUaNVRDhH71fI5K89zJw5g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NjMy/ODctMTM3NzgxNjE0/Ni02NDc1LmpwZWc.jpeg" alt="Cover for Footwork Frenzy EP" style="max-width:120px; height:auto;" />
       </td>
@@ -332,7 +332,7 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/FXUtd95lOktGXluDSLCK7XNNLxON3fF_lZbLBDPWG88/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MzA3/MDUtMTM5MzE3Mzc2/Ny01ODI4LmpwZWc.jpeg" alt="Cover for shivastep ep" style="max-width:120px; height:auto;" />
       </td>
@@ -354,7 +354,7 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/0FSuRj6nO9GzM6FqNUoCL2oWxHuXLCxLJrepw4Mw1ys/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0OTg5/MTUtMTM5NDIyNjc4/OS04OTE2LnBuZw.jpeg" alt="Cover for finer red" style="max-width:120px; height:auto;" />
       </td>
@@ -372,7 +372,7 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e21d3c5aa39a4adfb7b81cadb273c932.png" alt="Cover for Adaption Disorder" style="max-width:120px; height:auto;" />
       </td>
@@ -391,12 +391,12 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 51</li>
+            <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/7dPdLoCpgGdFe7C9tGM6AB3RsOpBJ8EVNIE30ufytvc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMjQ5/NjktMTM2MTc4MTUw/My0yNTQ4LmpwZWc.jpeg" alt="Cover for Cool Intentions" style="max-width:120px; height:auto;" />
       </td>
@@ -415,7 +415,7 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/ikRA4nuOcrqulOl1tTSyuy1bV8wJ_t8sUUlSrUOYmUQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNzE0/OTEtMTM2MDMxODY1/Ni05MzU1LmpwZWc.jpeg" alt="Cover for Hyper Real" style="max-width:120px; height:auto;" />
       </td>
@@ -433,7 +433,7 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e3dae1d5d18c3060b5be7fb6d17e1e8e.png" alt="Cover for Best Night Ever" style="max-width:120px; height:auto;" />
       </td>
@@ -451,13 +451,13 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 5</li>
             <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 82</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>15</td>
       <td>
       </td>
       <td>2013-06-24</td>
@@ -472,12 +472,12 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 15</li>
+            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b656e3394e8f4196965ba8699582b3ec.png" alt="Cover for Double Cup" style="max-width:120px; height:auto;" />
       </td>
@@ -496,7 +496,7 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/z0CrsQItF_SZa3mwxOQ8WBFxVfhbapfeqx5s1HulFq0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMzIx/MzMtMTM4NTM3OTgw/OS00NjUzLmpwZWc.jpeg" alt="Cover for Nun" style="max-width:120px; height:auto;" />
       </td>
@@ -514,7 +514,7 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/7IeLp8OIwklAQ6JC9uIOLKUvQRIwsNtrXbBVOx2Fn2w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MTMx/MjctMTQwNjE0NzM1/MC0xNTMzLmpwZWc.jpeg" alt="Cover for Do They Know Ya EP" style="max-width:120px; height:auto;" />
       </td>
@@ -532,7 +532,7 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/277ef4c22ed060fe7f12362bd3c9cd45.png" alt="Cover for Caged Animal" style="max-width:120px; height:auto;" />
       </td>
@@ -549,12 +549,12 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 59</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/uocfciNac47mhSouiLd-sNO1nNGnAgb8d4iv3NmFwWc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTgx/MTgwLTE1MDc2MDcz/OTYtNzIxOS5qcGVn.jpeg" alt="Cover for Hotmelt" style="max-width:120px; height:auto;" />
       </td>
@@ -576,7 +576,7 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/-HPCyGqaGbHi5kQTkAgMhyo_Sa1HGS77nJafCpnjoaU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MDgy/MjctMTQwMDYzNTIy/OC00OTAzLmpwZWc.jpeg" alt="Cover for fantasy fuel" style="max-width:120px; height:auto;" />
       </td>
@@ -596,7 +596,7 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/Bc_UQYg8xKUe4fVbIa-kapToPGGsWucjn6A1g3ToKps/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NTcy/NDMtMTQwMTgxNzU2/MC05MTM5LmpwZWc.jpeg" alt="Cover for loserdom" style="max-width:120px; height:auto;" />
       </td>
@@ -614,7 +614,7 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>99</td>
       <td>
           <img src="https://i.discogs.com/AvwhtZKZV1b1nRrT80J6RLAFvuMsl8LjRQkoyzSpxHM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MzI4/MDAtMTQwNjY2NjMy/OC01NTE1LmpwZWc.jpeg" alt="Cover for Visionary" style="max-width:120px; height:auto;" />
       </td>
@@ -634,7 +634,7 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>95</td>
       <td>
           <img src="https://i.discogs.com/h7OPmXBXr-qPOIGmPNxiVN5XNElpofe5u7wBFVhmYsI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NTg2/ODEtMTQ3MjM3MjAx/NC04ODI3LmpwZWc.jpeg" alt="Cover for Berezoviy Srub" style="max-width:120px; height:auto;" />
       </td>
@@ -652,7 +652,7 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>22</td>
       <td>
       </td>
       <td>2014-09-11</td>
@@ -691,7 +691,7 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c4220c89090e4587c5510f600bc5d883.png" alt="Cover for Dark Energy" style="max-width:120px; height:auto;" />
       </td>
@@ -713,7 +713,7 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2263696bb191aa96cfd85d2a9f7735d8.png" alt="Cover for Stay Home" style="max-width:120px; height:auto;" />
       </td>
@@ -730,12 +730,12 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 31</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/K0I8Ve_RiWy-B7ewiVSLNKluQhPmHz7TUN1qFsbo-R8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MDk1/OTUtMTQzMTMwMDI1/MS05MjE1LmpwZWc.jpeg" alt="Cover for Slipstream (The Remixes)" style="max-width:120px; height:auto;" />
       </td>
@@ -756,7 +756,7 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/aFDr_CK-0kJ5ZZJrNi-wuCaN9DxgqLiEvmaLbNPZSC8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNDAz/MjAtMTQ3NjYwMTU2/NS02MjQwLmpwZWc.jpeg" alt="Cover for Nozinja Lodge" style="max-width:120px; height:auto;" />
       </td>
@@ -774,7 +774,7 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a6abe48fd16d2fa906a3d007e77b2846.png" alt="Cover for Life Sucks And Then You Cum" style="max-width:120px; height:auto;" />
       </td>
@@ -799,7 +799,7 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/ewoHiwGaZORyiPQGjCD88RVsQX56AVuQF5bvqLXjKh8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1NzAx/MTYtMTQ4MjkzNDQz/OS0yNDY3LmpwZWc.jpeg" alt="Cover for We Love You" style="max-width:120px; height:auto;" />
       </td>
@@ -821,7 +821,7 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/wWIi6ticoL6JwUlf82GZdiqVQYPoYRleX8Pqn6K8lTw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NDg2/NTYtMTQ0MTcxMzQz/NC03Mzk2LmpwZWc.jpeg" alt="Cover for 内なる怪物 &#x2F; The Inner Monster" style="max-width:120px; height:auto;" />
       </td>
@@ -843,7 +843,7 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/vcczTYmHFKvy4_nWlQq6Ddg7b3c2j8lzQEMAdyeu1YE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwODIx/MjMtMTQ1NDc4NjUw/Ny0zNjM4LmpwZWc.jpeg" alt="Cover for Expectations" style="max-width:120px; height:auto;" />
       </td>
@@ -864,7 +864,7 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>98</td>
       <td>
           <img src="https://i.discogs.com/JUsCc_Hn2I9hO8rJxN39O45aeC119K3QbR2V4n5pz2c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTYx/MDExLTE1MTA5OTc0/MTktNDM2Ni5qcGVn.jpeg" alt="Cover for Never Ever" style="max-width:120px; height:auto;" />
       </td>
@@ -885,7 +885,7 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/6q8Epm3EXs7qhhP2H61FUpOdgLYsEcC6z2d6ard1ZZc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjA1/NTQxLTE2MDUyNTgy/OTctODY5Ni5wbmc.jpeg" alt="Cover for Meditate On Bass" style="max-width:120px; height:auto;" />
       </td>
@@ -904,7 +904,7 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/ooh31BQQD6OkrltaF3FkRppS4VXwCYzWbknmVF_iDbY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjM0/OTIyLTE1NzA0MDc0/MzUtNjIwMi5qcGVn.jpeg" alt="Cover for OYASUMI" style="max-width:120px; height:auto;" />
       </td>
@@ -922,7 +922,7 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/Pp47UqhJVxMaxoQ1GSqPlpe1yX5w4kzGqSpdNC9QS14/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MjMx/ODAtMTQ2NTM0Njk1/OS0xMDE4LmpwZWc.jpeg" alt="Cover for COLD HEAT VOL. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -943,7 +943,7 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/Kg6u1hgUvTRdSKE03-YmVN1XvBj9pGcKzsm4Gn8bHaM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MjMy/MTctMTQ2NTM0ODE1/NS00NTc1LmpwZWc.jpeg" alt="Cover for COLD HEAT VOL. 2" style="max-width:120px; height:auto;" />
       </td>
@@ -963,7 +963,7 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/TM0_ZFi_K5gL6xq0idVyrS6XcYkai9ZbFKtqP7_xRNE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjcz/ODQ5LTE1MzE5MjEy/NTMtMzEzMy5qcGVn.jpeg" alt="Cover for Delirium" style="max-width:120px; height:auto;" />
       </td>
@@ -982,7 +982,7 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/94abe08fcbf3eb7fc0ee2f2bd9a26fe0.png" alt="Cover for Acid Arcadia" style="max-width:120px; height:auto;" />
       </td>
@@ -995,11 +995,12 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/vaportrap" | relative_url }}">vaportrap</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/TlUf4ZFpQyVkdMKF3z-9Ie3vctO6kxFRj2QvXWdNmUc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MjMy/NDctMTQ2NTM0ODYz/MS05NjU0LmpwZWc.jpeg" alt="Cover for Cold Heat Vol. 3" style="max-width:120px; height:auto;" />
       </td>
@@ -1019,7 +1020,7 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/595ad5d06d4dec0399f15e3dd9500ae7.png" alt="Cover for Afterlife" style="max-width:120px; height:auto;" />
       </td>
@@ -1036,13 +1037,13 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a> # 7</li>
             <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 41</li>
-            <li> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/eJPyX4DMMpI1B9lANvNEnLwXP7jUtn2H23L1D251AVc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NTIy/NjQtMTQ2MTk1MTM3/Ny04MzA5LmpwZWc.jpeg" alt="Cover for Perfecto" style="max-width:120px; height:auto;" />
       </td>
@@ -1061,7 +1062,7 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3f80ba17730eac2a2b5ae87c93e14284.png" alt="Cover for Corporeal" style="max-width:120px; height:auto;" />
       </td>
@@ -1081,7 +1082,7 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/2TGO5kMSQHBfLEpiw8cnnKltVahr-ptPia3WO9FWGPE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MjMy/NTYtMTQ2NTM0ODc2/OC0xMzAwLmpwZWc.jpeg" alt="Cover for COLD HEAT VOL. 4" style="max-width:120px; height:auto;" />
       </td>
@@ -1101,7 +1102,7 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/2mPTkp2Po-35VVRkLAb_Yaskr2GYUnPdTJnOoYLJNd0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MjMy/NjYtMTQ2NTM0OTAw/My01NDE3LmpwZWc.jpeg" alt="Cover for Cold Heat Vol. 5" style="max-width:120px; height:auto;" />
       </td>
@@ -1121,7 +1122,7 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/107fa8f1d533e047a183fa0ca802a63c.png" alt="Cover for Problems" style="max-width:120px; height:auto;" />
       </td>
@@ -1140,7 +1141,7 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/zAqsekykEHuz-CaNxPd9R1Q6EQNFiZtISC3bZnoOJ70/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzg0/NzUyLTE1OTc3NDc0/MzUtNzMxOS5qcGVn.jpeg" alt="Cover for WESEX 69.9FM" style="max-width:120px; height:auto;" />
       </td>
@@ -1157,12 +1158,12 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a> # 69</li>
+            <li> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a> # 31</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/ka5lgT2sVW9lCiEyimLw-ehpvkdcKqfxKvAad3uLfTQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzA4/OTA2LTE1MTM5MDA0/MTktOTgxMy5qcGVn.jpeg" alt="Cover for أسلحة ضخ جاف حدب" style="max-width:120px; height:auto;" />
       </td>
@@ -1179,34 +1180,14 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a> # 8</li>
             <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 19</li>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 37</li>
-            <li> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a> # 93</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/eXkLK7uxwuYaRmJ-jpCg8632amj2hwAAgrMG3OP6AjA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mjc1/NjUzLTE2MTgzMDEy/OTUtNjI5NC5wbmc.jpeg" alt="Cover for Cold Heat Vol. 6" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2017-09-19</td>
-      <td>Taso</td>
-      <td>Cold Heat Vol. 6</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/juke" | relative_url }}">juke</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>5</td>
+      <td>96</td>
       <td>
           <img src="https://i.discogs.com/eXkLK7uxwuYaRmJ-jpCg8632amj2hwAAgrMG3OP6AjA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mjc1/NjUzLTE2MTgzMDEy/OTUtNjI5NC5wbmc.jpeg" alt="Cover for Cold Heat Vol. 7" style="max-width:120px; height:auto;" />
       </td>
@@ -1226,7 +1207,27 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>100</td>
+      <td>
+          <img src="https://i.discogs.com/eXkLK7uxwuYaRmJ-jpCg8632amj2hwAAgrMG3OP6AjA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mjc1/NjUzLTE2MTgzMDEy/OTUtNjI5NC5wbmc.jpeg" alt="Cover for Cold Heat Vol. 6" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-09-19</td>
+      <td>Taso</td>
+      <td>Cold Heat Vol. 6</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/juke" | relative_url }}">juke</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/5YxG660oD7Yq-6pBNuO0pF8o7KMncgam3bvYm3l_9DM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTgz/MzAxLTE1NTY5NDcz/MzEtMzkwOC5qcGVn.jpeg" alt="Cover for Unity Project, Pt. 2" style="max-width:120px; height:auto;" />
       </td>
@@ -1245,7 +1246,7 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/ykOWb81dREUowTuMNIGT4MWbS6lIvTb5GpGUI2eAxGs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODk3/MjgwLTE1NDQwNzkw/MDMtMTQzOC5qcGVn.jpeg" alt="Cover for ghost" style="max-width:120px; height:auto;" />
       </td>
@@ -1265,7 +1266,7 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f3c6ea5b21f3c4862f87fa26f485a350.png" alt="Cover for See Without Eyes (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -1290,13 +1291,13 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
         <ul>
             <li> <a href="{{ "/tags/drumstep" | relative_url }}">drumstep</a> # 24</li>
             <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 25</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 35</li>
-            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 49</li>
+            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 52</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/X4YQvH8OhkMWQ6qW2AGOAPcQfFF9WM90oOXeA_iyNng/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjIz/NjQ1LTE1MzA4NDg5/MjEtODA1Ni5qcGVn.jpeg" alt="Cover for I&#39;ll Tell You What!" style="max-width:120px; height:auto;" />
       </td>
@@ -1316,7 +1317,7 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/92GiYeuOZWebwphNVj08lJeBOJCY5wpymemweIwCvZ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDcw/MzUyLTE1NjM5MTgy/NTMtNzkwNi5qcGVn.jpeg" alt="Cover for SEX MUSIC" style="max-width:120px; height:auto;" />
       </td>
@@ -1334,7 +1335,7 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/Ff_Br-9oJjgd88d9exnX-eAt_1QPzBjC6ldGOfNnU5g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDEw/Mzk0LTE1NjYwMjkz/MTYtNDE3MS5wbmc.jpeg" alt="Cover for BANDCAMP MEGA COLLECTION" style="max-width:120px; height:auto;" />
       </td>
@@ -1354,15 +1355,15 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/mashcore" | relative_url }}">mashcore</a> # 4</li>
             <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 15</li>
             <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 20</li>
             <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 30</li>
-            <li> <a href="{{ "/tags/mashcore" | relative_url }}">mashcore</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/Ff_Br-9oJjgd88d9exnX-eAt_1QPzBjC6ldGOfNnU5g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDEw/Mzk0LTE1NjYwMjkz/MTYtNDE3MS5wbmc.jpeg" alt="Cover for CHAO GARDENS" style="max-width:120px; height:auto;" />
       </td>
@@ -1380,7 +1381,7 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e7e64a21c864eccaee4369230d71d647.png" alt="Cover for Veneration" style="max-width:120px; height:auto;" />
       </td>
@@ -1405,7 +1406,7 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b0b58020ef3ad6fd073f2ba995aa5749.png" alt="Cover for Displacement" style="max-width:120px; height:auto;" />
       </td>
@@ -1428,7 +1429,7 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ba82a4ab459a7afd17ccb09a69001c46.png" alt="Cover for This Is the Part I Feared Would Occur" style="max-width:120px; height:auto;" />
       </td>
@@ -1453,7 +1454,7 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/DBTABOlaNlrzWmUQnadvdEBx65qHZsWT3FoSsPHYwy8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTUw/MjEyLTE1OTgyNDA3/NDMtODczMC5qcGVn.jpeg" alt="Cover for groove 10" style="max-width:120px; height:auto;" />
       </td>
@@ -1471,7 +1472,7 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/6TRqz9PCvB9vxOsHiz1ElXh5U--pIsCtVgsTFOgzcSU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDM1/ODcxLTE2MDIyNzg3/NjAtMTQxOC5qcGVn.jpeg" alt="Cover for Vapor City Remixes" style="max-width:120px; height:auto;" />
       </td>
@@ -1491,7 +1492,7 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/nWs6phRP0pjZZLGCIq3xSoBWnS2uL3Wsjq0BYP6ve9A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTYx/NTM0LTE1ODQ3ODYy/NzctMzE0Ni5qcGVn.jpeg" alt="Cover for Freaky" style="max-width:120px; height:auto;" />
       </td>
@@ -1511,7 +1512,7 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/NlGDGC_yQgiYN3ktGP-l-TfoOniz-gIoG7QkGaSahe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTMw/OTAzLTE2MDA1MjAy/NTItNjQ4Mi5wbmc.jpeg" alt="Cover for 2022" style="max-width:120px; height:auto;" />
       </td>
@@ -1535,7 +1536,7 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/KUGNQLcqn5ROz2vU0LRxZ6yflkFQM2PPynIdd3SxZwI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTU5/NzM4LTE2MjM4NTAz/MTEtNzA1MS5qcGVn.jpeg" alt="Cover for Get You Down" style="max-width:120px; height:auto;" />
       </td>
@@ -1558,7 +1559,7 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/98d34c170b9657abb5d592aad8919cf1.png" alt="Cover for Prfct!cha0" style="max-width:120px; height:auto;" />
       </td>
@@ -1580,7 +1581,7 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/kw33y976gF1madl-oIJ_mgLFGXM2VoLqwNB3veqSrzo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODY0/MzUxLTE2Mjk0MDUw/MDQtNjEwMC5qcGVn.jpeg" alt="Cover for ...jook &#39;til i die" style="max-width:120px; height:auto;" />
       </td>
@@ -1598,7 +1599,7 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/13edfe00c3e445af12f26927660bb05d.png" alt="Cover for Gimmie Sum" style="max-width:120px; height:auto;" />
       </td>
@@ -1618,7 +1619,7 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/acYp-TkPvWXWU0jYWQjRabjHZGus2ABCbG94mPv1Kpc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDUz/MjgwLTE2MjMwODg0/MjYtMjYxMi5qcGVn.jpeg" alt="Cover for 247 365" style="max-width:120px; height:auto;" />
       </td>
@@ -1641,7 +1642,7 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>70</td>
       <td>
       </td>
       <td>2021-04-23</td>
@@ -1657,29 +1658,7 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
     </tr>
     <tr>
-      <td>76</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/36d210ff8f00fb50f640031f9156f998.png" alt="Cover for adventure dx" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2022-03-18</td>
-      <td>perfect chao</td>
-      <td>adventure dx</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/juke" | relative_url }}">juke</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>84</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a505c037b21d1c1b45c4100144640c35.png" alt="Cover for chao!" style="max-width:120px; height:auto;" />
       </td>
@@ -1701,7 +1680,29 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>23</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/36d210ff8f00fb50f640031f9156f998.png" alt="Cover for adventure dx" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-03-18</td>
+      <td>perfect chao</td>
+      <td>adventure dx</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/juke" | relative_url }}">juke</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
       <td>
       </td>
       <td>2022-04-14</td>
@@ -1719,7 +1720,7 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>94</td>
       <td>
           <img src="https://i.discogs.com/S2clsTHjdDwKIvBRqMjXppbraQC9f0w98Zl0QUdhcl4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTU3/MDY0LTE2NTUxMDQz/MjEtMzM1OC5qcGVn.jpeg" alt="Cover for Juke Professional" style="max-width:120px; height:auto;" />
       </td>
@@ -1737,7 +1738,7 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/XzfhOtkvMLIblh5pysjFD4m0QQm6P-7MMkgPe1mWCuw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mzk4/MDYxLTE2NzIxNzUw/MjEtNzk2Ny5qcGVn.jpeg" alt="Cover for Dance Into the RevolutionX2" style="max-width:120px; height:auto;" />
       </td>
@@ -1756,29 +1757,7 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
     </tr>
     <tr>
-      <td>8</td>
-      <td>
-          <img src="https://i.discogs.com/vFUk2fpQGfu2ihmlfKZZjfi97GMnnVDMkg-idl5iyns/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzky/NTM4LTE1ODE2OTkx/NDQtODYwOS5qcGVn.jpeg" alt="Cover for WE ROB RAVE 7" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2022-05-06</td>
-      <td>WE ROB RAVE</td>
-      <td>WE ROB RAVE 7</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bounce" | relative_url }}">bounce</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/juke" | relative_url }}">juke</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/bounce" | relative_url }}">bounce</a> # 63</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>25</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/vFUk2fpQGfu2ihmlfKZZjfi97GMnnVDMkg-idl5iyns/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzky/NTM4LTE1ODE2OTkx/NDQtODYwOS5qcGVn.jpeg" alt="Cover for WE ROB RAVE 6" style="max-width:120px; height:auto;" />
       </td>
@@ -1802,7 +1781,29 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>93</td>
+      <td>
+          <img src="https://i.discogs.com/vFUk2fpQGfu2ihmlfKZZjfi97GMnnVDMkg-idl5iyns/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzky/NTM4LTE1ODE2OTkx/NDQtODYwOS5qcGVn.jpeg" alt="Cover for WE ROB RAVE 7" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-05-06</td>
+      <td>WE ROB RAVE</td>
+      <td>WE ROB RAVE 7</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bounce" | relative_url }}">bounce</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/juke" | relative_url }}">juke</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/bounce" | relative_url }}">bounce</a> # 63</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/iSSZHNGJsF-HX1_RF8fpN3hezdc4I5sfFylJUP0YhWI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTg5/MzczLTE2NzU1MTk4/ODItODAxNC5qcGVn.jpeg" alt="Cover for Eh Wut" style="max-width:120px; height:auto;" />
       </td>
@@ -1821,7 +1822,7 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/89a94a267615f4e834a1441aba58e6cc.png" alt="Cover for 6G DEALERS" style="max-width:120px; height:auto;" />
       </td>
@@ -1849,7 +1850,7 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2a0d6dc6fb73dbf23354b611e1f22bd0.png" alt="Cover for Dance Into The RevolutionX3: CIA Galaxy Rave Operations" style="max-width:120px; height:auto;" />
       </td>
@@ -1874,7 +1875,7 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5b32d60388df05d9a69a424218689d4e.png" alt="Cover for REACTOR" style="max-width:120px; height:auto;" />
       </td>
@@ -1894,7 +1895,7 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/FIUV4jaWBwe4_QaFE1CXEwXhWDqtzcGscbCQcqbnMzo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODMz/MDA5LTE2MTU3MDA0/NTMtMzU0Ni5qcGVn.jpeg" alt="Cover for Bridge Underwater" style="max-width:120px; height:auto;" />
       </td>
@@ -1916,7 +1917,7 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/aff04612db35b502044334cd4a8350d9.png" alt="Cover for DR. GRABBA" style="max-width:120px; height:auto;" />
       </td>
@@ -1933,7 +1934,7 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/847c1537f7e4bd216a3274f9b81f6ce1.png" alt="Cover for Chinatown, San Francisco" style="max-width:120px; height:auto;" />
       </td>
@@ -1951,17 +1952,15 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>40</td>
       <td>
       </td>
       <td></td>
-      <td>抹殺レコーズ</td>
-      <td>【OMOIDE LABEL×抹殺レコーズ】 Vocaloid Juke</td>
+      <td>$LUDGEHAMMER</td>
+      <td>A .ZIP AND A DOUBLE CUP</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/juke" | relative_url }}">juke</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a></li>
         </ul>
       </td>
       <td>
@@ -1970,19 +1969,16 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>42</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6b08c3c78a319cc96e193cbfc19aa107.png" alt="Cover for Icepunk 3" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>Post Religion</td>
-      <td>Icepunk 3</td>
+      <td>Jap Mutation Bootyism</td>
+      <td>Japanese Juke&amp;Footworks Compilation</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/juke" | relative_url }}">juke</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
         </ul>
       </td>
       <td>
@@ -1991,7 +1987,44 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>71</td>
+      <td>
+      </td>
+      <td></td>
+      <td>和泉幸奇</td>
+      <td>Rigid Footwork</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/juke" | relative_url }}">juke</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>
+      </td>
+      <td></td>
+      <td>DJ Fultono</td>
+      <td>My Mind Beats Vol. 1</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/juke" | relative_url }}">juke</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/03c75d5b64994846c873d34a2dd17807.png" alt="Cover for BLOCKS" style="max-width:120px; height:auto;" />
       </td>
@@ -2013,35 +2046,19 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>89</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6b08c3c78a319cc96e193cbfc19aa107.png" alt="Cover for Icepunk 3" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>DJ Fultono</td>
-      <td>My Mind Beats Vol. 1</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/juke" | relative_url }}">juke</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>30</td>
-      <td>
-      </td>
-      <td></td>
-      <td>和泉幸奇</td>
-      <td>Rigid Footwork</td>
+      <td>Post Religion</td>
+      <td>Icepunk 3</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/juke" | relative_url }}">juke</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
         </ul>
       </td>
       <td>
@@ -2050,33 +2067,17 @@ Juke is a frenetic, sample-heavy electronic music style born from Chicago&#39;s 
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>97</td>
       <td>
       </td>
       <td></td>
-      <td>Jap Mutation Bootyism</td>
-      <td>Japanese Juke&amp;Footworks Compilation</td>
+      <td>抹殺レコーズ</td>
+      <td>【OMOIDE LABEL×抹殺レコーズ】 Vocaloid Juke</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/juke" | relative_url }}">juke</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>60</td>
-      <td>
-      </td>
-      <td></td>
-      <td>$LUDGEHAMMER</td>
-      <td>A .ZIP AND A DOUBLE CUP</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/juke" | relative_url }}">juke</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a></li>
         </ul>
       </td>
       <td>

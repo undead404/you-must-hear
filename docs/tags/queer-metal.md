@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T06:13:39.726Z
+date: 2025-12-06T09:14:19.969Z
 permalink: tags/queer-metal
 title: queer metal
 ---
 
 ## queer metal
 
-Last updated: <time datetime="2025-12-04T06:13:39.726Z">Thu Dec 04 2025 08:13:39 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T09:14:19.969Z">Sat Dec 06 2025 11:14:19 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
   </thead>
   <tbody>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/jJsNr6DxLzWtv77jMYPISoYvIyYhE-qMePx8_3Uy1Dc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMTY2/OTAtMTQzODcyMjE5/MS0zNTk4LmpwZWc.jpeg" alt="Cover for It&#39;s Only Midnight" style="max-width:120px; height:auto;" />
       </td>
@@ -50,7 +50,7 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 35</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 66</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 68</li>
         </ul>
       </td>
@@ -76,16 +76,16 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 22</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 43</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 45</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 58</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 73</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 79</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/Nxl52v3lCX3vpPEZk2RsHTz06UrBCx7PX5sb9ZIz7vY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxODIy/Mi0xMjcxMDY2MTI1/LmpwZWc.jpeg" alt="Cover for Double Wide (Explicit)" style="max-width:120px; height:auto;" />
       </td>
@@ -105,13 +105,13 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 31</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 70</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/Nxl52v3lCX3vpPEZk2RsHTz06UrBCx7PX5sb9ZIz7vY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxODIy/Mi0xMjcxMDY2MTI1/LmpwZWc.jpeg" alt="Cover for Double Wide (Explicit Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -131,7 +131,7 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 28</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 73</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 75</li>
         </ul>
       </td>
@@ -157,7 +157,7 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 15</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 86</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 88</li>
         </ul>
       </td>
@@ -183,10 +183,10 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 11</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 49</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 52</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 53</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 80</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 90</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 96</li>
         </ul>
       </td>
@@ -212,10 +212,10 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 19</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 46</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 47</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 55</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 75</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 82</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 90</li>
         </ul>
       </td>
@@ -241,10 +241,10 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 6</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 46</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 55</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 56</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 85</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -269,15 +269,15 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 4</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 44</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 57</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 58</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 88</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/ZyZp1sQAUNUN6-M828x-Lw_7PJrxvx34QoShJ4JzE3M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDgy/NzczLTE2NDQ5NzA0/MjUtOTc4Ni5wbmc.jpeg" alt="Cover for RTL Ultimative Chart Show" style="max-width:120px; height:auto;" />
       </td>
@@ -297,7 +297,7 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 22</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 79</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 81</li>
         </ul>
       </td>
@@ -322,10 +322,10 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 1</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 42</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 59</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 60</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 92</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -350,10 +350,10 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 27</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 40</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 42</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 61</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 68</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 74</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 82</li>
         </ul>
       </td>
@@ -379,7 +379,7 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 18</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 83</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 85</li>
         </ul>
       </td>
@@ -399,15 +399,15 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 16</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 17</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 24</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 33</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 38</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 40</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 59</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 63</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 64</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 68</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 77</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 84</li>
-            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -427,15 +427,15 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 10</li>
-            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 13</li>
+            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 17</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 21</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 41</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 48</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 53</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 54</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 74</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 80</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 81</li>
-            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 84</li>
+            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 88</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 91</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 97</li>
         </ul>
       </td>
@@ -455,15 +455,15 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 3</li>
-            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 6</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 43</li>
+            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 19</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 25</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 46</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 58</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 59</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 76</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 80</li>
-            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 82</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 89</li>
+            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 95</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -489,12 +489,12 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 30</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 39</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 41</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 61</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 62</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 62</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 66</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 71</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 79</li>
         </ul>
       </td>
@@ -520,10 +520,10 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 25</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 41</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 43</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 60</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 70</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 76</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 84</li>
         </ul>
       </td>
@@ -549,16 +549,16 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 24</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 42</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 44</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 59</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 71</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 77</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/edcA1CiZeV88vR10AxMYR8aXwdYu07BKP2P8Lx48W14/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDI4/NDQtMTQ2NDkzNjA1/OS04NzAxLmpwZWc.jpeg" alt="Cover for Happy Hour (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -578,7 +578,7 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 20</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 81</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 83</li>
         </ul>
       </td>
@@ -604,7 +604,7 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 14</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 87</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 89</li>
         </ul>
       </td>
@@ -630,13 +630,13 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 16</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 17</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 32</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 35</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 36</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 38</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 49</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 64</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -661,11 +661,11 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 18</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 19</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 37</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 38</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 51</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 62</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -691,13 +691,13 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 6</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 7</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 18</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 21</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 23</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 25</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 34</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 78</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -723,13 +723,13 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 11</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 12</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 28</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 29</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 30</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 33</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 43</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 70</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -755,12 +755,12 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 34</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 37</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 39</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 58</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 58</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 58</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 63</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 64</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 67</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 76</li>
         </ul>
       </td>
@@ -787,13 +787,13 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 8</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 9</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 20</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 23</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 26</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 27</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 39</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 75</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -818,13 +818,13 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 20</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 21</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 36</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 39</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 41</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 42</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 54</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 59</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -849,13 +849,13 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 19</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 20</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 35</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 38</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 40</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 41</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 52</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 60</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -881,12 +881,12 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 35</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 37</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 38</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 56</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 57</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 61</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 66</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 63</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 74</li>
         </ul>
       </td>
@@ -912,16 +912,16 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 23</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 24</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 42</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 55</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 45</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 57</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/THdsVf2jaVcGiOCGMQUtQRiQO71ZltFWG_Z3bhGEQ0Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTk3/MzIyLTE1ODU3MTY5/NjQtNTI5MC5qcGVn.jpeg" alt="Cover for Endlessly" style="max-width:120px; height:auto;" />
       </td>
@@ -941,14 +941,14 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 40</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 61</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 62</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/THdsVf2jaVcGiOCGMQUtQRiQO71ZltFWG_Z3bhGEQ0Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTk3/MzIyLTE1ODU3MTY5/NjQtNTI5MC5qcGVn.jpeg" alt="Cover for American Pie 2" style="max-width:120px; height:auto;" />
       </td>
@@ -968,7 +968,7 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 36</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 65</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 67</li>
         </ul>
       </td>
@@ -994,7 +994,7 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 12</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 89</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 91</li>
         </ul>
       </td>
@@ -1021,13 +1021,13 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 21</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 22</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 37</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 40</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 43</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 43</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 55</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 57</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1053,13 +1053,13 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 12</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 13</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 29</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 30</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 31</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 34</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 44</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 69</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1084,13 +1084,13 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 24</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 25</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 39</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 43</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 45</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 54</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 46</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 58</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1114,11 +1114,11 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 13</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 14</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 32</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 32</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 45</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 68</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1143,18 +1143,18 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 22</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 23</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 38</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 41</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 44</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 56</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 44</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 56</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cd543756837847bfa0e99c8c615ab14b.png" alt="Cover for Epic" style="max-width:120px; height:auto;" />
       </td>
@@ -1167,12 +1167,12 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 41</li>
-            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 46</li>
+            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 21</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 27</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 50</li>
+            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 52</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 60</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 61</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 74</li>
-            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 80</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 85</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 94</li>
         </ul>
@@ -1199,13 +1199,13 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 25</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 26</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 40</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 44</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 47</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 52</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 48</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 60</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1230,7 +1230,7 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 17</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 84</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 86</li>
         </ul>
       </td>
@@ -1251,11 +1251,11 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 16</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 25</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 28</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 49</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 50</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 52</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1273,11 +1273,11 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 7</li>
-            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 24</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 55</li>
-            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 71</li>
+            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 30</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 46</li>
+            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 73</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 75</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 94</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 96</li>
         </ul>
       </td>
@@ -1304,13 +1304,13 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 27</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 28</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 43</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 47</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 49</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 50</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 64</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1334,8 +1334,8 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 23</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 26</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 30</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 48</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 56</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 45</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 52</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 66</li>
         </ul>
       </td>
@@ -1361,12 +1361,12 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 17</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 48</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 49</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 53</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 68</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 68</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 77</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 84</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 93</li>
         </ul>
       </td>
@@ -1391,10 +1391,10 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 32</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 34</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 43</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 54</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 69</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 57</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 70</li>
         </ul>
       </td>
@@ -1421,13 +1421,13 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 28</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 29</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 44</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 48</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 49</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 50</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 51</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 65</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1458,7 +1458,7 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
       </td>
       <td>2013-07-16</td>
@@ -1477,7 +1477,7 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 38</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 63</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 64</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 78</li>
         </ul>
@@ -1505,13 +1505,13 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 9</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 10</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 22</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 25</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 28</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 28</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 40</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 72</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1536,7 +1536,7 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 16</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 85</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 87</li>
         </ul>
       </td>
@@ -1556,16 +1556,16 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 21</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 21</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 25</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 44</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 46</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 57</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a224316aced7fcbe70b857dd8089c077.png" alt="Cover for Bitchcraft" style="max-width:120px; height:auto;" />
       </td>
@@ -1579,10 +1579,10 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 23</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 62</li>
+            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 28</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 39</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 63</li>
-            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 73</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 78</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 80</li>
         </ul>
       </td>
@@ -1603,8 +1603,8 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 6</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 94</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 95</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 98</li>
         </ul>
       </td>
@@ -1630,12 +1630,12 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 3</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 4</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 14</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 15</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 24</li>
-            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 52</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 86</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 98</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1694,7 +1694,7 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/XZJdK0ej7T-QGBwGnpCIYT3HrbnF_qIr04jHzR3NmTU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwOTUx/NTAtMTQ1ODM4MTk4/OC0zMTQxLmpwZWc.jpeg" alt="Cover for All the Rage! (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1715,7 +1715,7 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 39</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 62</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 63</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 81</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 89</li>
@@ -1724,7 +1724,7 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/th894lypFySyzXfgAfZ2R0mG6DRFvApmertsSMincFI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTIw/OTE1LTE2MTk3NDA4/MTQtMjg1Ni5qcGVn.jpeg" alt="Cover for All My Friends" style="max-width:120px; height:auto;" />
       </td>
@@ -1738,14 +1738,14 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 26</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 75</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 77</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/VqPruihjMM0xPtw3iBZnS_vH1UCiIJP7sH1DNo6DToA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzM4/NTI2LTE1MTQ1MTM2/NTEtMjI4MS5qcGVn.jpeg" alt="Cover for Feels Like a Party" style="max-width:120px; height:auto;" />
       </td>
@@ -1765,7 +1765,7 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 21</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 80</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 82</li>
         </ul>
       </td>
@@ -1791,7 +1791,7 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 13</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 88</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 90</li>
         </ul>
       </td>
@@ -1812,13 +1812,13 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       <td>
         <ul>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 1</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 1</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 5</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 10</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 10</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 10</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 12</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 15</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 95</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1845,12 +1845,12 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 18</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 47</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 48</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 54</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 66</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 67</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 76</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 83</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 91</li>
         </ul>
       </td>
@@ -1878,13 +1878,13 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 4</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 97</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/e9o5PuQfF0oZbiSsYWApWcCRZXxCMy8AJ-9BfEmW2oU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjg5/NzI4LTE2NDE4NzYx/MTItOTMyOC5qcGVn.jpeg" alt="Cover for Boomerang - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1906,14 +1906,14 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 25</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 76</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 78</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/5AK-RVp9vI6dIYmVfQYACB0xmC3OiP9MHRPnFBJVk5s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODYx/NDQtMTQ2ODc0NjM0/NS05NTgyLmpwZWc.jpeg" alt="Cover for Hooked On A Feeling" style="max-width:120px; height:auto;" />
       </td>
@@ -1935,7 +1935,7 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 37</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 64</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 65</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 88</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 91</li>
@@ -1943,7 +1943,7 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/K51ju5bycOvX7WWpN3mAE2pBqIGS0Ok_YQKy4CbNifQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMzAx/MzAtMTQ1ODM4MTg3/Ny0xOTMyLmpwZWc.jpeg" alt="Cover for Epic (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1964,7 +1964,7 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 33</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 68</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 70</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 91</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 96</li>
@@ -1993,7 +1993,7 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 11</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 90</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 92</li>
         </ul>
       </td>
@@ -2021,13 +2021,13 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 17</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 18</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 33</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 36</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 37</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 40</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 50</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 63</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -2054,12 +2054,12 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 34</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 36</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 40</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 54</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 56</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 60</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 67</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 61</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 73</li>
         </ul>
       </td>
@@ -2079,12 +2079,12 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 14</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 51</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 50</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 51</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 70</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 71</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 78</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 87</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 95</li>
         </ul>
       </td>
@@ -2112,12 +2112,12 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 9</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 47</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 54</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 55</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 74</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 76</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 83</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 92</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 99</li>
         </ul>
       </td>
@@ -2137,11 +2137,11 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 13</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 31</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 33</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 50</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 51</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 52</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -2168,13 +2168,13 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 10</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 11</li>
-            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 27</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 27</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 27</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 29</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 32</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 42</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 71</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -2201,13 +2201,13 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 29</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 31</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 45</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 46</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 50</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 51</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 54</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 66</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -2233,13 +2233,13 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 5</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 6</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 16</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 16</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 16</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 17</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 22</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 27</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 84</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -2259,11 +2259,11 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 15</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 16</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 17</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 18</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 65</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 86</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -2289,12 +2289,12 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 33</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 35</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 36</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 41</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 52</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 57</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 68</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 59</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 71</li>
         </ul>
       </td>
@@ -2322,18 +2322,18 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 30</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 32</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 45</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 48</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 52</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 53</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 55</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 67</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/2AWgUEpfNHA5fwQhvDRnPB1GphF9gX3eZpTLl3Kea1g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjUz/MTcyLTE2Mjc0NjUy/NDEtOTQ0OC5qcGVn.jpeg" alt="Cover for Cozy" style="max-width:120px; height:auto;" />
       </td>
@@ -2355,7 +2355,7 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 34</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 67</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 69</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 90</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 95</li>
@@ -2363,7 +2363,7 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/So_Bd142mwNAwV7xv-DKZD8FcwuUmpSkdLrj8WOMVlI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzE1/MDIzLTE2Mjc5MTc2/NDYtMzM0OS5qcGVn.jpeg" alt="Cover for Remember Summertime" style="max-width:120px; height:auto;" />
       </td>
@@ -2385,7 +2385,7 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 27</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 74</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 76</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 96</li>
         </ul>
@@ -2414,13 +2414,13 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 10</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 91</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/vw5NivxEnhOgMi1f3OzM3b6CEB-ZnXze16q2V0InLZY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDA1/MDMzLTE1MjY0MDQ5/OTYtODkwNy5qcGVn.jpeg" alt="Cover for Up With It" style="max-width:120px; height:auto;" />
       </td>
@@ -2442,7 +2442,7 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 32</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 69</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 71</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 92</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 97</li>
@@ -2470,17 +2470,17 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 7</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 8</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 19</li>
-            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 37</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 24</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 37</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 77</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 94</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/BPtSAo5WOWUXQrYIaWfD-PTnYsm4dkFWIz1ayqdp9-s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzE1/MTEwLTE2Mjc5MTgw/NTctMjcyMi5qcGVn.jpeg" alt="Cover for Silver Bracelet" style="max-width:120px; height:auto;" />
       </td>
@@ -2502,7 +2502,7 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 30</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 71</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 73</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 95</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 100</li>
@@ -2530,7 +2530,7 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 9</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 92</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 94</li>
         </ul>
       </td>
@@ -2558,13 +2558,13 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 8</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 93</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/pdjWoSYbAL79cbbqnPhiADBgQtBk3mv5wZXMlf7h5bM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDU5/MTYyLTE2MDI3MDU2/NTYtNDMxOS5qcGVn.jpeg" alt="Cover for Good Girl (Acoustic)" style="max-width:120px; height:auto;" />
       </td>
@@ -2584,7 +2584,7 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 19</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 82</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 84</li>
         </ul>
       </td>
@@ -2612,14 +2612,14 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 2</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 2</li>
-            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 13</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 13</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 13</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 13</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 18</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 19</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 58</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 87</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -2644,17 +2644,17 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 4</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 5</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 15</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 16</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 26</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 85</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 85</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/pdjWoSYbAL79cbbqnPhiADBgQtBk3mv5wZXMlf7h5bM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDU5/MTYyLTE2MDI3MDU2/NTYtNDMxOS5qcGVn.jpeg" alt="Cover for Ridin&#39; Roads - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -2674,7 +2674,7 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 29</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 72</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 74</li>
         </ul>
       </td>
@@ -2702,13 +2702,13 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 14</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 15</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 31</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 34</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 34</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 37</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 47</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 66</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -2735,13 +2735,13 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 26</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 27</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 42</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 46</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 48</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 51</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 49</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 62</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -2768,13 +2768,13 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 31</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 33</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 44</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 49</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 53</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 54</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 56</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 69</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -2801,12 +2801,12 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 5</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 45</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 56</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 57</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 76</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 79</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 86</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -2833,7 +2833,7 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 5</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 96</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 99</li>
         </ul>
       </td>
@@ -2855,14 +2855,14 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
         <ul>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 32</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 33</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 36</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 36</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 38</li>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 65</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/MGSGIiTAzEBq1fAjvaCaatmttj1MW1vB5VJblPA8jFw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTY5/MjM3LTE1MDc0MDEw/NTQtMzU3NC5qcGVn.jpeg" alt="Cover for Seein&#39; Red" style="max-width:120px; height:auto;" />
       </td>
@@ -2877,9 +2877,9 @@ I notice the artists listed don&#39;t align with what &quot;queer metal&quot; wo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 24</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 61</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 62</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 77</li>
             <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 79</li>
         </ul>
       </td>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T06:57:34.232Z
+date: 2025-12-06T11:18:50.184Z
 permalink: tags/orthodox-black-metal
 title: orthodox black metal
 ---
 
 ## orthodox black metal
 
-Last updated: <time datetime="2025-12-04T06:57:34.232Z">Thu Dec 04 2025 08:57:34 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T11:18:50.184Z">Sat Dec 06 2025 13:18:50 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
   </thead>
   <tbody>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/7iSAdb3MWlQxqpsybMcCUUYlZwYb-GoMFD5bcDAlgmQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTI3/ODItMTIyMjU5Mjgx/Ny5qcGVn.jpeg" alt="Cover for Мадам" style="max-width:120px; height:auto;" />
       </td>
@@ -46,13 +46,13 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 93</li>
-            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 95</li>
+            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 6</li>
+            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 8</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c835967ea58e37baeb0d44ec6790c334.png" alt="Cover for Devilry" style="max-width:120px; height:auto;" />
       </td>
@@ -70,32 +70,7 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
     </tr>
     <tr>
-      <td>77</td>
-      <td>
-          <img src="https://i.discogs.com/cp-LVMIe67GICSUJdNbv4qxDzsWyeAK1jd_NR_wHNhw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDgw/NjctMTI3NTkwMDUz/NC5qcGVn.jpeg" alt="Cover for Роза" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1999</td>
-      <td>Михаил Круг</td>
-      <td>Роза</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 65</li>
-            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 73</li>
-            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 97</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
       </td>
       <td>1999</td>
@@ -113,15 +88,40 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a> # 19</li>
+            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 14</li>
+            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 21</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 41</li>
-            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 80</li>
-            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 87</li>
+            <li> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>24</td>
+      <td>
+          <img src="https://i.discogs.com/cp-LVMIe67GICSUJdNbv4qxDzsWyeAK1jd_NR_wHNhw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDgw/NjctMTI3NTkwMDUz/NC5qcGVn.jpeg" alt="Cover for Роза" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>Михаил Круг</td>
+      <td>Роза</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 27</li>
+            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 36</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/EAzqxjGv8DpA5CKQ7Vj5lPeNLCgJ78BMUGLlPDT5fpo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Njg2/NTAtMTMwOTY0NDU2/MC5qcGVn.jpeg" alt="Cover for Hail Lucifer" style="max-width:120px; height:auto;" />
       </td>
@@ -138,13 +138,13 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a> # 66</li>
-            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 79</li>
+            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 21</li>
+            <li> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a> # 35</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b1f218c117bc0be18343e80e8bc8ffb6.png" alt="Cover for Rabid Death&#39;s Curse" style="max-width:120px; height:auto;" />
       </td>
@@ -158,12 +158,12 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish-black-metal" | relative_url }}">swedish black metal</a> # 57</li>
+            <li> <a href="{{ "/tags/swedish-black-metal" | relative_url }}">swedish black metal</a> # 44</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
       </td>
       <td>2003</td>
@@ -183,7 +183,7 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fdedad53085adda0e9e023c54c7ddbcb.png" alt="Cover for Nachtmystium" style="max-width:120px; height:auto;" />
       </td>
@@ -203,7 +203,7 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/45f63f1226641147224fe71d864aa21d.png" alt="Cover for Salvation" style="max-width:120px; height:auto;" />
       </td>
@@ -221,7 +221,7 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ef090638c1c49599a609a08baac5995.png" alt="Cover for Casus Luciferi" style="max-width:120px; height:auto;" />
       </td>
@@ -235,12 +235,12 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish-black-metal" | relative_url }}">swedish black metal</a> # 66</li>
+            <li> <a href="{{ "/tags/swedish-black-metal" | relative_url }}">swedish black metal</a> # 35</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1404b95c1968be826a289f529728750d.png" alt="Cover for Si Monumentum Requires, Circumspice" style="max-width:120px; height:auto;" />
       </td>
@@ -257,7 +257,7 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1fdc19cbb39a40759734c889ca406737.png" alt="Cover for Kénôse" style="max-width:120px; height:auto;" />
       </td>
@@ -271,12 +271,12 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 56</li>
+            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 45</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/fFggLCxXtwzS7BkX9mkbQGY7XqklsoinLFhbqRcMJj0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NDMz/Ni0xNjIxMjc1MDI0/LTQ1OTkuanBlZw.jpeg" alt="Cover for Dodens Evangelium" style="max-width:120px; height:auto;" />
       </td>
@@ -294,7 +294,7 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/9XabgBhPAs51D81gjZegEe_dGxQfPh8SOHd0dQ6rUCQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0ODk1/Ni0xMzMyNTc4MTUy/LmpwZWc.jpeg" alt="Cover for The Vision of Fadinng Mankind" style="max-width:120px; height:auto;" />
       </td>
@@ -315,7 +315,7 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/9UtKXmyHzasg4wQhUxEPipcM30LuTvRUb8JcJSq7yWc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMzk1/NjMtMTQzOTI4MDE3/NS02MjcwLmpwZWc.jpeg" alt="Cover for Symbol ov Faith" style="max-width:120px; height:auto;" />
       </td>
@@ -334,7 +334,7 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>90</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/378e6ebbae384172c104503964d57495.png" alt="Cover for Mdłości" style="max-width:120px; height:auto;" />
       </td>
@@ -353,7 +353,7 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/-GSU5Ao12xGJeW7GvEsuqASXjla5w0Pwn_pkEGJWFcc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Njk5/MzQtMTMwMDIzMzE3/NS5qcGVn.jpeg" alt="Cover for Only Death" style="max-width:120px; height:auto;" />
       </td>
@@ -373,7 +373,7 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/iZU3nefbYaJdPBEvUcnYi3vHatLQFWDPwJKgqou9itU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjI2/NDQtMTUzMTEzMTQx/My01OTg0LmpwZWc.jpeg" alt="Cover for The Temple of Deformation" style="max-width:120px; height:auto;" />
       </td>
@@ -389,12 +389,12 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 92</li>
+            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/333ee44a25a205514d4b4ccfa9e57f2b.png" alt="Cover for Sworn to the Dark" style="max-width:120px; height:auto;" />
       </td>
@@ -408,14 +408,33 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 36</li>
+            <li> <a href="{{ "/tags/swedish-black-metal" | relative_url }}">swedish black metal</a> # 1</li>
+            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 65</li>
             <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 70</li>
-            <li> <a href="{{ "/tags/swedish-black-metal" | relative_url }}">swedish black metal</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>65</td>
+      <td>
+      </td>
+      <td>2007-06-19</td>
+      <td>Glorior Belli</td>
+      <td>Manifesting the Raging Beast</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/french-black-metal" | relative_url }}">french black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/french-black-metal" | relative_url }}">french black metal</a> # 11</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/318a04a55fea45a9c53632c340837f4c.png" alt="Cover for Further Down The Nest" style="max-width:120px; height:auto;" />
       </td>
@@ -434,26 +453,7 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
     </tr>
     <tr>
-      <td>36</td>
-      <td>
-      </td>
-      <td>2007-06-19</td>
-      <td>Glorior Belli</td>
-      <td>Manifesting the Raging Beast</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
-            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/french-black-metal" | relative_url }}">french black metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/french-black-metal" | relative_url }}">french black metal</a> # 90</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>4</td>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/24ZreQxjR18GOTpZOvbpQz2Y_MfjT25n0gXBrKPTC_A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzU4/NTUtMTIyNjc3MTA5/NC5qcGVn.jpeg" alt="Cover for When Stars No More Shine" style="max-width:120px; height:auto;" />
       </td>
@@ -469,12 +469,12 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 1</li>
+            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>94</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8fc1aa935b436697b6252a54ca0552a5.png" alt="Cover for Groza" style="max-width:120px; height:auto;" />
       </td>
@@ -492,7 +492,7 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>82</td>
       <td>
       </td>
       <td>2008-09-29</td>
@@ -509,7 +509,7 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/34936e735a95587954410cde7e4e46d8.png" alt="Cover for Maranatha" style="max-width:120px; height:auto;" />
       </td>
@@ -523,12 +523,12 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish-black-metal" | relative_url }}">swedish black metal</a> # 26</li>
+            <li> <a href="{{ "/tags/swedish-black-metal" | relative_url }}">swedish black metal</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/_2hn4wN-TegHUFY8avqc7GPpQP0ddWx6gaw2Gav_ZPM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjUz/MjktMTMwNDYzODc2/Ny5qcGVn.jpeg" alt="Cover for Eternal Funeral Trance" style="max-width:120px; height:auto;" />
       </td>
@@ -547,7 +547,7 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/IcFM-7d5KkKq0V0HuZNlYMVn6dTf608jshYK-UwBYaI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDM4/MzEtMTQ0MDc3OTA2/Ny01OTk2LmpwZWc.jpeg" alt="Cover for So Alone" style="max-width:120px; height:auto;" />
       </td>
@@ -638,43 +638,43 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 2</li>
-            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 3</li>
-            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 9</li>
             <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 10</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 12</li>
+            <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 14</li>
             <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 16</li>
             <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 16</li>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 22</li>
+            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 18</li>
+            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 19</li>
             <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 27</li>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 30</li>
-            <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 32</li>
+            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 29</li>
+            <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 33</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 35</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 35</li>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 37</li>
             <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 38</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 40</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 42</li>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 46</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 46</li>
             <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 47</li>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 53</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 53</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 54</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 53</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 54</li>
-            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 63</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 66</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 66</li>
-            <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 67</li>
-            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 72</li>
-            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 81</li>
-            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 83</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 55</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 58</li>
+            <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 69</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 71</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 79</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 83</li>
             <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 86</li>
-            <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 87</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 89</li>
             <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 92</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 92</li>
             <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 93</li>
+            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 97</li>
+            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/hewKFbB334r3sGvdE7Vm0QEltEGZpNZEjh39DjmEG5M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzUx/MDItMTMwOTk2MzIy/MS5qcGVn.jpeg" alt="Cover for The principle of evil becomes the ideal of the Promethean" style="max-width:120px; height:auto;" />
       </td>
@@ -692,7 +692,7 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/qhyJ39KHForhZplyQXnkHdbc1pVlq-2DZQQRxkSN1-s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTk2/NzgtMTI4NzM3MTQy/OC5qcGVn.jpeg" alt="Cover for Cloven Hooves at the Holocaust Dawn" style="max-width:120px; height:auto;" />
       </td>
@@ -711,7 +711,7 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e00e003307974bea8865b47032040cc8.png" alt="Cover for Arisen from the Ashes" style="max-width:120px; height:auto;" />
       </td>
@@ -725,12 +725,12 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish-black-metal" | relative_url }}">swedish black metal</a> # 6</li>
+            <li> <a href="{{ "/tags/swedish-black-metal" | relative_url }}">swedish black metal</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/xgGQXk6U4576yyZCeo5uGWl3d71mFXkW2eKaNPbB3CE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTUz/NDYtMTMxMzU5Nzkz/Mi5qcGVn.jpeg" alt="Cover for Feuer Zieh Mit Mir" style="max-width:120px; height:auto;" />
       </td>
@@ -747,12 +747,12 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 41</li>
+            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>88</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c7b08126358356720702c7a099242327.png" alt="Cover for Lawless Darkness" style="max-width:120px; height:auto;" />
       </td>
@@ -766,13 +766,13 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish-black-metal" | relative_url }}">swedish black metal</a> # 18</li>
             <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 67</li>
+            <li> <a href="{{ "/tags/swedish-black-metal" | relative_url }}">swedish black metal</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/NYPH7SfnWmgVbKkbNYVxKlMJwp74dEy9SuIwGA6wmDM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTMw/ODctMTMzNTAyMzI3/Mi5qcGVn.jpeg" alt="Cover for Opus Serpens" style="max-width:120px; height:auto;" />
       </td>
@@ -787,12 +787,12 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish-black-metal" | relative_url }}">swedish black metal</a> # 11</li>
+            <li> <a href="{{ "/tags/swedish-black-metal" | relative_url }}">swedish black metal</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
       </td>
       <td>2011-03-17</td>
@@ -809,13 +809,13 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 17</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 62</li>
-            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/0YkyGdtOWb4DrLGn-oXhDCLrNelSb2x7K36dRlmZGyU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTY0/MzgtMTU4NDM3NzY5/Mi0zNjA1LmpwZWc.jpeg" alt="Cover for III" style="max-width:120px; height:auto;" />
       </td>
@@ -832,13 +832,13 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/french-black-metal" | relative_url }}">french black metal</a> # 3</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 13</li>
-            <li> <a href="{{ "/tags/french-black-metal" | relative_url }}">french black metal</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/eDVt2Dn8Cidz4ZDOE6aaFVjaU6t6X92LRYopzQun2vo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NTc4/MTEtMTQwNTI1NTYx/MC03OTgzLmpwZWc.jpeg" alt="Cover for Testimony of the Abominable" style="max-width:120px; height:auto;" />
       </td>
@@ -857,7 +857,7 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b0973610d4ef36b301aeba9f87604757.png" alt="Cover for Hot Problems" style="max-width:120px; height:auto;" />
       </td>
@@ -950,34 +950,34 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 9</li>
             <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 16</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 19</li>
             <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 24</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 26</li>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 26</li>
+            <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 26</li>
             <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 28</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 34</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 40</li>
-            <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 44</li>
+            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 28</li>
+            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 30</li>
+            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 39</li>
             <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 45</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 49</li>
-            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 54</li>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 46</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 52</li>
+            <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 56</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 56</li>
             <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 57</li>
-            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 61</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 61</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 66</li>
             <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 70</li>
-            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 70</li>
-            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 72</li>
             <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 73</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 75</li>
-            <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 75</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 82</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 75</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 75</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 88</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/DL6eTWMr-izEXFOThGO_PkfM5EVEoRPy_rrro309XlI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NzQ4/MTktMTM2ODgxNzA1/Mi0xOTYzLmpwZWc.jpeg" alt="Cover for Black Mirror Hours" style="max-width:120px; height:auto;" />
       </td>
@@ -995,7 +995,7 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b6fb37bc80c647d8a160c5697ae31ff0.png" alt="Cover for Serpent Sermon" style="max-width:120px; height:auto;" />
       </td>
@@ -1009,12 +1009,12 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish-black-metal" | relative_url }}">swedish black metal</a> # 53</li>
+            <li> <a href="{{ "/tags/swedish-black-metal" | relative_url }}">swedish black metal</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/yEiyUSvXDTUNIBx8qcNU81yy7EkXXH03pLjec9TGx_s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMjU5/OTItMTM1NzIxNjQ5/MS04OTQ0LmpwZWc.jpeg" alt="Cover for Through the First Sphere of Saturnus" style="max-width:120px; height:auto;" />
       </td>
@@ -1035,7 +1035,7 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/2qOyjxvtDYOenAQKJOvNEgI-LsmAy5Qhpzzx3H0bkjM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDg1/MjIzLTE1NDc3OTAy/NjAtNjQ5OC5qcGVn.jpeg" alt="Cover for Metamorphosphoros" style="max-width:120px; height:auto;" />
       </td>
@@ -1056,24 +1056,7 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
     </tr>
     <tr>
-      <td>5</td>
-      <td>
-      </td>
-      <td>2013</td>
-      <td>Serpent&#39;s Womb</td>
-      <td>The Devil&#39;s Wine</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>17</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/BzD_5gA47MaiyzKygjJVzZWOthV-uBGF70NIXjYwvT4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NjQy/OTEtMTQ1MDQ0Nzc0/Ny0zNzIzLmpwZWc.jpeg" alt="Cover for Demo 2004" style="max-width:120px; height:auto;" />
       </td>
@@ -1091,7 +1074,24 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>96</td>
+      <td>
+      </td>
+      <td>2013</td>
+      <td>Serpent&#39;s Womb</td>
+      <td>The Devil&#39;s Wine</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/7V3bF1F03IoYkaGVULGNGDiSHIvXpkP2hEcQuBl6Yfg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MzA1/NDEtMTM3MzY3MzAx/OC0yNTQyLmpwZWc.jpeg" alt="Cover for III" style="max-width:120px; height:auto;" />
       </td>
@@ -1109,7 +1109,7 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c2bf1c4da36f43a584a9ec99536454df.png" alt="Cover for Non Pietatem Erit" style="max-width:120px; height:auto;" />
       </td>
@@ -1129,12 +1129,12 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 32</li>
+            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ca0fe9fc7e52413c80dd27cdcf83bddb.png" alt="Cover for The Wild Hunt" style="max-width:120px; height:auto;" />
       </td>
@@ -1148,12 +1148,12 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish-black-metal" | relative_url }}">swedish black metal</a> # 55</li>
+            <li> <a href="{{ "/tags/swedish-black-metal" | relative_url }}">swedish black metal</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/glfsdelWNk15Nmz0jSrhss5pfg3B15mwM9Y00QM1qPU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMDM0/OTEtMTM4MTg2MTYx/MS03NzUwLmpwZWc.jpeg" alt="Cover for The Three Transcendental Keys" style="max-width:120px; height:auto;" />
       </td>
@@ -1174,7 +1174,7 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>99</td>
       <td>
           <img src="https://i.discogs.com/iOIbuLw18xIMZv2TVtPTfRVUIhXEnVm8W4E5RLc-Oag/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNDcw/OTktMTY2MDU4OTc5/Ni0zODQ2LmpwZWc.jpeg" alt="Cover for Evangelic Decimation" style="max-width:120px; height:auto;" />
       </td>
@@ -1192,7 +1192,7 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>70</td>
       <td>
       </td>
       <td>2014-02-06</td>
@@ -1213,7 +1213,7 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef534ed897b4fee346393653c0449e80.png" alt="Cover for BABYMETAL" style="max-width:120px; height:auto;" />
       </td>
@@ -1229,27 +1229,27 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       <td>
         <ul>
             <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 1</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 8</li>
             <li> <a href="{{ "/tags/japanoise" | relative_url }}">japanoise</a> # 9</li>
             <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 15</li>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 16</li>
             <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 20</li>
+            <li> <a href="{{ "/tags/unblack-metal" | relative_url }}">unblack metal</a> # 22</li>
             <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 27</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 32</li>
+            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 37</li>
             <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 45</li>
-            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 46</li>
-            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 50</li>
-            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 52</li>
-            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 64</li>
+            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 49</li>
+            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 51</li>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 54</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 69</li>
-            <li> <a href="{{ "/tags/unblack-metal" | relative_url }}">unblack metal</a> # 79</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 69</li>
             <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 84</li>
             <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 85</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 85</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
       </td>
       <td>2014-03-07</td>
@@ -1269,7 +1269,7 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/FXqyEOfNEUs9qk4QMWejSSxdRVGkHAKw2E-R20G9550/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MzQ4/NzQtMTQ4NDEzNDI0/MC0yMjA2LnBuZw.jpeg" alt="Cover for Precaria Ex Humanitas" style="max-width:120px; height:auto;" />
       </td>
@@ -1287,7 +1287,7 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>40</td>
       <td>
       </td>
       <td>2014-04-25</td>
@@ -1306,7 +1306,7 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/gAiNpapyoQfAt4n2RcDDG4EalVzNeEaCrLJ_wN0-zRY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NzY1/MzktMTQwMjM0NTcy/Ni0zNzc2LmpwZWc.jpeg" alt="Cover for Reality Cleaver" style="max-width:120px; height:auto;" />
       </td>
@@ -1325,7 +1325,7 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/oW8caOttx-5Om82Xq-102ypKBva8tu25NDeme4VK3eQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NjQ3/MDgtMTM5OTMxOTk5/NS0xNTczLmpwZWc.jpeg" alt="Cover for KvrX" style="max-width:120px; height:auto;" />
       </td>
@@ -1344,7 +1344,7 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
       </td>
       <td>2014-10-31</td>
@@ -1362,7 +1362,7 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/D-rZR9Y871ewgLaXyvx200I5NNZF4VOAXdrSGbPVxv0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNTM0/NzQtMTQyMjg3NjYw/NS05OTc5LmpwZWc.jpeg" alt="Cover for Exaltation Of Wisdom" style="max-width:120px; height:auto;" />
       </td>
@@ -1380,25 +1380,7 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
     </tr>
     <tr>
-      <td>64</td>
-      <td>
-          <img src="https://i.discogs.com/_wf61YJXCfQFsdGfN0OnRlpTc9m4-Pb1Q_TAcHGszOI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MDcy/ODktMTQyNTQ5MzMz/NC0yNjEzLmpwZWc.jpeg" alt="Cover for Ma-Ion (Formulas of Reptilian Unification)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2015-02-27</td>
-      <td>Acherontas</td>
-      <td>Ma-Ion (Formulas of Reptilian Unification)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/_wf61YJXCfQFsdGfN0OnRlpTc9m4-Pb1Q_TAcHGszOI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MDcy/ODktMTQyNTQ5MzMz/NC0yNjEzLmpwZWc.jpeg" alt="Cover for Ma IoN (Formulas Of Reptilian Unification)" style="max-width:120px; height:auto;" />
       </td>
@@ -1416,7 +1398,25 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>37</td>
+      <td>
+          <img src="https://i.discogs.com/_wf61YJXCfQFsdGfN0OnRlpTc9m4-Pb1Q_TAcHGszOI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MDcy/ODktMTQyNTQ5MzMz/NC0yNjEzLmpwZWc.jpeg" alt="Cover for Ma-Ion (Formulas of Reptilian Unification)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-02-27</td>
+      <td>Acherontas</td>
+      <td>Ma-Ion (Formulas of Reptilian Unification)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/YrPJy5lU30tYpLyuIk8PA_wKZ5VuN1wbdNWVBbw0kXA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4ODk2/MDktMTQ3MDg2NDY5/OS01ODY0LmpwZWc.jpeg" alt="Cover for Desesperanza" style="max-width:120px; height:auto;" />
       </td>
@@ -1437,7 +1437,7 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/pxepJIqLZm6YHuLQqhI7uhfHnL64VoWT2j-dzw03MXw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MTYz/NDYtMTQ0MzEwMTg1/NC03MDk2LmpwZWc.jpeg" alt="Cover for Yohualli" style="max-width:120px; height:auto;" />
       </td>
@@ -1453,12 +1453,12 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 2</li>
+            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/iquIOWsYA_0chBCgZeqGSavY0YZZa-wFKx0CkI_xAzs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NDU3/MTktMTQ1MDAzMDI4/Mi0yOTgwLmpwZWc.jpeg" alt="Cover for De Praestgiis Angelorum" style="max-width:120px; height:auto;" />
       </td>
@@ -1475,13 +1475,13 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 90</li>
-            <li> <a href="{{ "/tags/french-black-metal" | relative_url }}">french black metal</a> # 96</li>
+            <li> <a href="{{ "/tags/french-black-metal" | relative_url }}">french black metal</a> # 5</li>
+            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 11</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2c9493f421ed36b1fdc47e98ef708f29.png" alt="Cover for Хармония - Вечност - Вселена" style="max-width:120px; height:auto;" />
       </td>
@@ -1502,7 +1502,7 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/SpAwDz8z182enOjb0B8D1zxJlvOPCjeQhdlJW3FgccE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MTA2/ODktMTQ0OTUxODUz/OC01NTIzLmpwZWc.jpeg" alt="Cover for Catechism" style="max-width:120px; height:auto;" />
       </td>
@@ -1523,7 +1523,7 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/nLyEGO465SCgIWdEU3f5Ks6ceuMjdT6o9VRAIFvN8c0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDQw/ODc0LTE1NzQ1ODgx/NTItODY2Ny5qcGVn.jpeg" alt="Cover for Черная мудрость" style="max-width:120px; height:auto;" />
       </td>
@@ -1542,7 +1542,7 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/dAqHLEt0NXr_EADzi_-VmxHRkNVJcOpMYdsVVJsLlD8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NTA4/MTctMTQ0ODAyNTkw/NS02MTg4LmpwZWc.jpeg" alt="Cover for Spit of the Apostate" style="max-width:120px; height:auto;" />
       </td>
@@ -1563,7 +1563,7 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8dfaef3a4298a75500ec0ba9a8c60f4b.png" alt="Cover for Litourgiya" style="max-width:120px; height:auto;" />
       </td>
@@ -1582,7 +1582,7 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/tsmAus-UKna1QEYMSYj8_ZFLb3Ju7l9a0k6jwV9JBSg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NDU1/NDEtMTQ4MDgwMDg3/OS0zNjA1LmpwZWc.jpeg" alt="Cover for Acta Non Verba" style="max-width:120px; height:auto;" />
       </td>
@@ -1602,7 +1602,7 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/3okrkokAwzPerZc7tXuTvXWQ65b_o5Qv1cGoPF-gLLM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MTY1/MzctMTQ2NTIxODMx/OC0xMzUyLmpwZWc.jpeg" alt="Cover for IV &#x2F; Appendixes" style="max-width:120px; height:auto;" />
       </td>
@@ -1619,12 +1619,12 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 26</li>
+            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/iGr4CWvU-PjKOLYd8oCwlNh6lgeEeVwI0K-lTXF29xQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MDYx/MjItMTQ2NzAxMjcy/NC05NTI3LmpwZWc.jpeg" alt="Cover for Shrines of the Void" style="max-width:120px; height:auto;" />
       </td>
@@ -1645,7 +1645,7 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>93</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/32ce6a1c0be26596627a3c3abba2782b.png" alt="Cover for Virgin Summer EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1669,7 +1669,7 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/doodcLzjA7QT9Y-3IqevpzB9ijsEpqBBjlyKBdd9wSo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNzgz/MjktMTQ3NjE0MDUz/NC0zNTY0LmpwZWc.jpeg" alt="Cover for Demons of Matter and the Shells of the Dead" style="max-width:120px; height:auto;" />
       </td>
@@ -1687,13 +1687,13 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a> # 68</li>
-            <li> <a href="{{ "/tags/polish-metal" | relative_url }}">polish metal</a> # 94</li>
+            <li> <a href="{{ "/tags/polish-metal" | relative_url }}">polish metal</a> # 7</li>
+            <li> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/e48epPKgGSzRkGQAv21X-VFZIfoPc6tyA2uhoeq6zRw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyOTMz/MjItMTQ4MzAyNDg0/My04NDQ2LmpwZWc.jpeg" alt="Cover for The Synarchy of Molten Bones" style="max-width:120px; height:auto;" />
       </td>
@@ -1707,13 +1707,13 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 33</li>
+            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 68</li>
             <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/YkXWo_bn_gX3gCMnRNOJGu0TiSIHJEPVhrIgbtQWl8k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MzQ5/NTUtMTQ4ODgxNzQ1/NC0yNTEzLmpwZWc.jpeg" alt="Cover for Through The Scarlet Veil" style="max-width:120px; height:auto;" />
       </td>
@@ -1732,7 +1732,7 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/C_e5CqXp4UuubvhApd1SyzS1M7qGGacrC1J-WWv1kxo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzkw/Njc5LTE1MTk0NDM0/MjgtMTA4NC5wbmc.jpeg" alt="Cover for Perpetual Hunger" style="max-width:120px; height:auto;" />
       </td>
@@ -1752,7 +1752,7 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/WcxpL50tU14T51Z2XgjbzZxoM8bZAI8QSiqAaiizirE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDEz/ODYyLTE1MTkzMDY0/NjktMjQ4Ni5qcGVn.jpeg" alt="Cover for Eleven Dragons" style="max-width:120px; height:auto;" />
       </td>
@@ -1772,7 +1772,7 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>95</td>
       <td>
           <img src="https://i.discogs.com/Yvtq0fgYeEZhOf9zlyYA1EXtlGU2KvkB-Ahlhftqgwc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzQw/MjI1LTE0OTU2NDMw/NzYtNzU3OC5qcGVn.jpeg" alt="Cover for Panda Metal Party" style="max-width:120px; height:auto;" />
       </td>
@@ -1790,7 +1790,7 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/-FsWxzQTfmTnkVPB3Y-eQhZL68UbIXCN16xr9TNyDDA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzgz/OTk1LTE0OTY0MDA4/NDAtMjQ0MC5qcGVn.jpeg" alt="Cover for Omegaphilia" style="max-width:120px; height:auto;" />
       </td>
@@ -1807,13 +1807,13 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 71</li>
-            <li> <a href="{{ "/tags/french-black-metal" | relative_url }}">french black metal</a> # 79</li>
+            <li> <a href="{{ "/tags/french-black-metal" | relative_url }}">french black metal</a> # 22</li>
+            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 30</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/Zj3Fsoqf3H6bzCHSo-OqZre2WRoDEjFApwpiCsMHAso/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODc5/NzAxLTE1MDU4Mzk1/NDQtODkwMC5qcGVn.jpeg" alt="Cover for Infamata" style="max-width:120px; height:auto;" />
       </td>
@@ -1834,7 +1834,7 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ceceadbcadc5fdd00fc5783aa3a54254.png" alt="Cover for Trident Wolf Eclipse" style="max-width:120px; height:auto;" />
       </td>
@@ -1848,12 +1848,12 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish-black-metal" | relative_url }}">swedish black metal</a> # 36</li>
+            <li> <a href="{{ "/tags/swedish-black-metal" | relative_url }}">swedish black metal</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6ee84fd9a8955632925de3c0544d1468.png" alt="Cover for Der König ist tot" style="max-width:120px; height:auto;" />
       </td>
@@ -1877,7 +1877,7 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/26QMRtI2MNUTwIxGVX8U0d2VBodBxfB6LzLc71Dn3Ls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTEx/Mjc0LTE1OTI3NTU5/MzAtODU3Ny5qcGVn.jpeg" alt="Cover for Кивот" style="max-width:120px; height:auto;" />
       </td>
@@ -1895,7 +1895,7 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/3MuhBlsxItvWKPbWt3DJmS0EJ9x6XscB13fKE6VTPVU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjYy/NTQ3LTE1MjAyNDM2/MTktOTE0NS5qcGVn.jpeg" alt="Cover for VACVVM" style="max-width:120px; height:auto;" />
       </td>
@@ -1914,7 +1914,7 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/0H5MpgEc6YYNCF964bWtGhy5cDAl8qF1iRBzLBhPf3o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzQz/MTgyLTE1MjE2MjY5/NDktOTg2Ni5qcGVn.jpeg" alt="Cover for Reaping Season - Bloodshed Beyond" style="max-width:120px; height:auto;" />
       </td>
@@ -1930,12 +1930,12 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german-black-metal" | relative_url }}">german black metal</a> # 41</li>
+            <li> <a href="{{ "/tags/german-black-metal" | relative_url }}">german black metal</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/XJwyVJHUBnjB5GH26IB6qG83lMuFcCXd0Cpmra2sH7Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDM3/ODMwLTE1Njg2MTk5/MjQtMTQ4Ni5qcGVn.jpeg" alt="Cover for Превозмогая Вавилон" style="max-width:120px; height:auto;" />
       </td>
@@ -1954,7 +1954,7 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/bDBHtVyBv6ABUKqQUYdg_cfL7_P_pSYbFwFPztVU5co/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTYw/NTQ1LTE1NDkxMTMy/MzctNzQzNi5qcGVn.jpeg" alt="Cover for Stellar Descension Infernal In Budapest" style="max-width:120px; height:auto;" />
       </td>
@@ -1975,7 +1975,7 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/kQrNGtaeEh0WMWxDolixxx3Sou8aScpUrVZmWZkXh18/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjY4/OTkyLTE1NTEzMDg1/NzgtMzYzOC5qcGVn.jpeg" alt="Cover for Satanic Resistance" style="max-width:120px; height:auto;" />
       </td>
@@ -1995,7 +1995,7 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d4b2b22b438148542ca4392fa3e32d6d.png" alt="Cover for The Furnaces of Palingenesia" style="max-width:120px; height:auto;" />
       </td>
@@ -2013,7 +2013,7 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>100</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/47cfab0068c80b6c5617807dc5d98887.png" alt="Cover for Панихида" style="max-width:120px; height:auto;" />
       </td>
@@ -2027,12 +2027,12 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a> # 28</li>
+            <li> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/LXK1hdRn09bB9WvssosViAA6cZ99HG0-gKvA8xmMit8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjgz/MTA2LTE1NTg5NTUx/MDAtNDQzMy5qcGVn.jpeg" alt="Cover for ПЕСНЬ 1" style="max-width:120px; height:auto;" />
       </td>
@@ -2051,7 +2051,7 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/MCCYulqk8zAD4N79r7qoVXSo7vyfyDAloOUQk0ZpZ_A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjIz/MTY3LTE1NTc3MzE3/MDktNTUwNS5wbmc.jpeg" alt="Cover for Första Trulen" style="max-width:120px; height:auto;" />
       </td>
@@ -2070,7 +2070,7 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/Ok35e1NxcMlrSGVCJAbbzQRGGi3JJBW5hd3_gyEvle4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTIw/MTY3LTE1ODQxMDcz/NzUtNDk4OS5qcGVn.jpeg" alt="Cover for Пять Башен" style="max-width:120px; height:auto;" />
       </td>
@@ -2088,7 +2088,7 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/htH3CQ_HdM_u7dMZ7M9EEVae1ZIi9t0b-izUeBuVVLY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTIx/MTI5LTE1OTI1NzQw/MTAtOTM5Ni5qcGVn.jpeg" alt="Cover for With Burning Tongues [Demo]" style="max-width:120px; height:auto;" />
       </td>
@@ -2107,7 +2107,7 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/zLoCKkHzGCwlLFD0wgmABj9gsirMvRAgFyfwhLDD8zQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjI2/Mjk1LTE2MDU1ODc0/MjItNzI2Mi5qcGVn.jpeg" alt="Cover for Мытарства" style="max-width:120px; height:auto;" />
       </td>
@@ -2125,7 +2125,48 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>77</td>
+      <td>
+          <img src="https://i.discogs.com/TvbrXW5Xd_oYzNLxiT5qBmx5Q8Ue3r916iG7sRrcPgU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTAy/NDE0LTE2MTk2Mzc1/MTUtNDEwMC5qcGVn.jpeg" alt="Cover for Christian &amp; the Hedgehog Boys" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-03-23</td>
+      <td>Christian Weston Chandler</td>
+      <td>Christian &amp; the Hedgehog Boys</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
+            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/rac" | relative_url }}">rac</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 51</li>
+            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 72</li>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 75</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 77</li>
+            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 79</li>
+            <li> <a href="{{ "/tags/japanoise" | relative_url }}">japanoise</a> # 81</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/TvbrXW5Xd_oYzNLxiT5qBmx5Q8Ue3r916iG7sRrcPgU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTAy/NDE0LTE2MTk2Mzc1/MTUtNDEwMC5qcGVn.jpeg" alt="Cover for COMEBACK" style="max-width:120px; height:auto;" />
       </td>
@@ -2212,61 +2253,20 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 12</li>
-            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 13</li>
-            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 13</li>
-            <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 19</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 30</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 37</li>
-            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 48</li>
+            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 52</li>
             <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 65</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 71</li>
             <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 81</li>
+            <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 82</li>
+            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 88</li>
+            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 88</li>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
-      <td>
-          <img src="https://i.discogs.com/TvbrXW5Xd_oYzNLxiT5qBmx5Q8Ue3r916iG7sRrcPgU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTAy/NDE0LTE2MTk2Mzc1/MTUtNDEwMC5qcGVn.jpeg" alt="Cover for Christian &amp; the Hedgehog Boys" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2021-03-23</td>
-      <td>Christian Weston Chandler</td>
-      <td>Christian &amp; the Hedgehog Boys</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
-            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
-            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a></li>
-            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a></li>
-            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a></li>
-            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a></li>
-            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a></li>
-            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a></li>
-            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a></li>
-            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a></li>
-            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
-            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/rac" | relative_url }}">rac</a></li>
-            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a></li>
-            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a></li>
-            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a></li>
-            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a></li>
-            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a></li>
-            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 22</li>
-            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 25</li>
-            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 29</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 51</li>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 77</li>
-            <li> <a href="{{ "/tags/japanoise" | relative_url }}">japanoise</a> # 81</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/8whwPTLbNVNujyyimQEk4XL1Wwo88Oty_OYA5W_sVUk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDg3/OTEzLTE2MTcxODAw/NTAtMzAwNS5qcGVn.jpeg" alt="Cover for Dönsum Í Logans Ljóma" style="max-width:120px; height:auto;" />
       </td>
@@ -2285,7 +2285,7 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>72</td>
       <td>
       </td>
       <td>2022-10-08</td>
@@ -2302,7 +2302,7 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/IZfDpqbsEkiFaBC6KrSUKGN6Pqj5eYJySnZXNA_VY4M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjQw/NzU5LTE2OTQ1MjAx/MDAtNzk4Ni5qcGVn.jpeg" alt="Cover for Uzurpator niebiańskiego tronu" style="max-width:120px; height:auto;" />
       </td>
@@ -2318,12 +2318,12 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a> # 15</li>
+            <li> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>98</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/42d1d0a29740dc5c03e822f5f17666d9.png" alt="Cover for Where Shadows Forever Reign" style="max-width:120px; height:auto;" />
       </td>

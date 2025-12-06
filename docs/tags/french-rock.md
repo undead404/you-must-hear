@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T06:56:00.651Z
+date: 2025-12-06T10:46:21.194Z
 permalink: tags/french-rock
 title: french rock
 ---
 
 ## french rock
 
-Last updated: <time datetime="2025-12-04T06:56:00.651Z">Thu Dec 04 2025 08:56:00 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T10:46:21.194Z">Sat Dec 06 2025 12:46:21 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
   </thead>
   <tbody>
     <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f50f3d380a4407cc0b8c0532a20401b.png" alt="Cover for Sandrose" style="max-width:120px; height:auto;" />
       </td>
@@ -51,7 +51,7 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4d67008994b08c85be9ebb13c632982c.png" alt="Cover for Taï Phong" style="max-width:120px; height:auto;" />
       </td>
@@ -70,7 +70,7 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/H_-p2NL1izcnCND5RoLFSIpMAzMLvN46ozveuFb6SuE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODU3/NTgtMTI3NDkyNjI3/Mi5qcGVn.jpeg" alt="Cover for Windows" style="max-width:120px; height:auto;" />
       </td>
@@ -90,7 +90,25 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>34</td>
+      <td>
+          <img src="https://i.discogs.com/5AW894lRcHq7p3KKm9JvEyI03yUUIBS2McTeWaImR4U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5OTE3/MDYtMTQ3Mjg5ODA4/Ni01NTg2LmpwZWc.jpeg" alt="Cover for Les enfants des ténèbres et les anges de la rue" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1979</td>
+      <td>Jean-Patrick Capdevielle</td>
+      <td>Les enfants des ténèbres et les anges de la rue</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9d06414848ed405495e5e039f4e46f96.png" alt="Cover for Arachnoid" style="max-width:120px; height:auto;" />
       </td>
@@ -112,25 +130,7 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
     </tr>
     <tr>
-      <td>67</td>
-      <td>
-          <img src="https://i.discogs.com/5AW894lRcHq7p3KKm9JvEyI03yUUIBS2McTeWaImR4U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5OTE3/MDYtMTQ3Mjg5ODA4/Ni01NTg2LmpwZWc.jpeg" alt="Cover for Les enfants des ténèbres et les anges de la rue" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1979</td>
-      <td>Jean-Patrick Capdevielle</td>
-      <td>Les enfants des ténèbres et les anges de la rue</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>27</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/53aa28e1d49d5b41f55508d4ecfc597f.png" alt="Cover for Repression" style="max-width:120px; height:auto;" />
       </td>
@@ -150,7 +150,7 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ac63e46250384fd4cfb41ae0209d2ed7.png" alt="Cover for Marche ou Crève" style="max-width:120px; height:auto;" />
       </td>
@@ -173,7 +173,7 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bd674d0af1ce4fd8cf75ef01766027d1.png" alt="Cover for Trash" style="max-width:120px; height:auto;" />
       </td>
@@ -196,7 +196,27 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ba5ef9f2d9b61fd97349acf4fb49254f.png" alt="Cover for Quand la Musique Est Bonne" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1982</td>
+      <td>Jean-Jacques Goldman</td>
+      <td>Quand la Musique Est Bonne</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
       <td>
       </td>
       <td>1982</td>
@@ -217,26 +237,6 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
     <tr>
       <td>100</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ba5ef9f2d9b61fd97349acf4fb49254f.png" alt="Cover for Quand la Musique Est Bonne" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1982</td>
-      <td>Jean-Jacques Goldman</td>
-      <td>Quand la Musique Est Bonne</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
       </td>
       <td>1983</td>
       <td>Hubert-Félix Thiéfaine</td>
@@ -256,7 +256,7 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/WHMsGHDKB632dpMabsW6ao6iFI_SgdHTjx6zHcLup4E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjU1/NDMtMTQzMjU0MzIy/MS02OTQ0LmpwZWc.jpeg" alt="Cover for Defloration 13" style="max-width:120px; height:auto;" />
       </td>
@@ -277,24 +277,7 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
     </tr>
     <tr>
-      <td>13</td>
-      <td>
-      </td>
-      <td>1988</td>
-      <td>Hubert-Félix Thiéfaine</td>
-      <td>1978-1983</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>15</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/WHMsGHDKB632dpMabsW6ao6iFI_SgdHTjx6zHcLup4E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjU1/NDMtMTQzMjU0MzIy/MS02OTQ0LmpwZWc.jpeg" alt="Cover for La Collection 78-88" style="max-width:120px; height:auto;" />
       </td>
@@ -316,7 +299,24 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>88</td>
+      <td>
+      </td>
+      <td>1988</td>
+      <td>Hubert-Félix Thiéfaine</td>
+      <td>1978-1983</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/56c634bc9ea440b0c0979b887f5f2031.png" alt="Cover for Veuillez rendre l&#39;âme (à qui elle appartient)" style="max-width:120px; height:auto;" />
       </td>
@@ -334,7 +334,7 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2f74b07f7d230eec0ad9ee6b3b958991.png" alt="Cover for En route pour la joie" style="max-width:120px; height:auto;" />
       </td>
@@ -354,7 +354,7 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bec455e041e941619a90bedfac2ea137.png" alt="Cover for Amerika Perdida" style="max-width:120px; height:auto;" />
       </td>
@@ -369,12 +369,12 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 3</li>
+            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7ad9aefea48441d9a308508049bbdcb8.png" alt="Cover for La Vérité" style="max-width:120px; height:auto;" />
       </td>
@@ -392,7 +392,7 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
       </td>
       <td>1992-10</td>
@@ -410,7 +410,7 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4fb01c8026b850cf3c4d15bfb2f58908.png" alt="Cover for As happy as possible" style="max-width:120px; height:auto;" />
       </td>
@@ -429,7 +429,7 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/_qmGIqPUsKAUIfDjv29pOsupi_-OseHL55oTlf4PEjw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjg3/MTMtMTIxMzUzMTMy/My5qcGVn.jpeg" alt="Cover for Rouge" style="max-width:120px; height:auto;" />
       </td>
@@ -446,29 +446,7 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
     </tr>
     <tr>
-      <td>11</td>
-      <td>
-          <img src="https://i.discogs.com/-VrJ0uTEJnJt58jaO8ywgalVsc0ksAdqBuqu5IkHwmA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzOTM3/MjUtMTQ3OTc3MDc3/OS00MTAyLmpwZWc.jpeg" alt="Cover for Polka Oxydantale" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1996</td>
-      <td>Brak Molotov</td>
-      <td>Polka Oxydantale</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>14</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/-VrJ0uTEJnJt58jaO8ywgalVsc0ksAdqBuqu5IkHwmA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzOTM3/MjUtMTQ3OTc3MDc3/OS00MTAyLmpwZWc.jpeg" alt="Cover for Temps Denses Et Passages Avides" style="max-width:120px; height:auto;" />
       </td>
@@ -490,7 +468,29 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>90</td>
+      <td>
+          <img src="https://i.discogs.com/-VrJ0uTEJnJt58jaO8ywgalVsc0ksAdqBuqu5IkHwmA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzOTM3/MjUtMTQ3OTc3MDc3/OS00MTAyLmpwZWc.jpeg" alt="Cover for Polka Oxydantale" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996</td>
+      <td>Brak Molotov</td>
+      <td>Polka Oxydantale</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
       <td>
       </td>
       <td>1997-04-29</td>
@@ -508,7 +508,7 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>94</td>
       <td>
           <img src="https://i.discogs.com/YnHTFm-t2kHSFzrKyecuHdqJgv_E2SzTw4jLw3MGwBI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNzI2/MDUtMTM1NzY1MTQ5/OC00ODI0LmpwZWc.jpeg" alt="Cover for A travers les temps" style="max-width:120px; height:auto;" />
       </td>
@@ -531,7 +531,7 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/050a8dc9c81f60af6a766c135c576476.png" alt="Cover for L&#39;avenir Est Devant" style="max-width:120px; height:auto;" />
       </td>
@@ -553,7 +553,7 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/J2vj4FWLVlAjaWWb2xVVTxN2-2SHVHietdgZ6q-lfME/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NzQy/NTktMTM1MTA2OTIw/Ny0xMDY4LmpwZWc.jpeg" alt="Cover for Entre terre et lumière" style="max-width:120px; height:auto;" />
       </td>
@@ -579,7 +579,7 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
       </td>
       <td>1998-04</td>
@@ -607,7 +607,7 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1fbfb440c34ac957ca56d7275247e1af.png" alt="Cover for La Ouache" style="max-width:120px; height:auto;" />
       </td>
@@ -622,14 +622,14 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 17</li>
+            <li> <a href="{{ "/tags/breizh" | relative_url }}">breizh</a> # 4</li>
             <li> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a> # 24</li>
-            <li> <a href="{{ "/tags/breizh" | relative_url }}">breizh</a> # 97</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
       </td>
       <td>1999</td>
@@ -648,7 +648,7 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>85</td>
       <td>
       </td>
       <td>1999-09</td>
@@ -669,7 +669,7 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/AewBEceq0B65F8vtD0JavfslFOxRUqp44ca-s2a0AO8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NzU4/MjQtMTM5OTYzMzA4/OC0yMTY5LmpwZWc.jpeg" alt="Cover for Navet Maria" style="max-width:120px; height:auto;" />
       </td>
@@ -687,7 +687,7 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/qZ4tS72D6uscU5IUkNDECHFIb6xDTp3vzLqXiidBYY8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NDMy/NS0xMTY5MDM1MjA5/LmpwZWc.jpeg" alt="Cover for des Visages des Figures" style="max-width:120px; height:auto;" />
       </td>
@@ -704,12 +704,12 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       <td>
         <ul>
             <li> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a> # 1</li>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 83</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 18</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
       </td>
       <td>2001-11</td>
@@ -726,7 +726,7 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>41</td>
       <td>
       </td>
       <td>2002</td>
@@ -749,7 +749,7 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/16FgkYIZt4KFo2U0NWfuCIe8GDuHpODSWGMMpHOR8fM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTUx/MDYtMTY0OTQyNzQ3/MC01MDcwLmpwZWc.jpeg" alt="Cover for Silent Witness" style="max-width:120px; height:auto;" />
       </td>
@@ -768,7 +768,7 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0796578ab05d4fe09f70e16fa88c00fb.png" alt="Cover for Le Chemin" style="max-width:120px; height:auto;" />
       </td>
@@ -786,7 +786,7 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/p8BoYZhLoPnK7T5vDwvJcdfH4Yo_nR9aIC_ACWNQfSs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5OTY0/OTItMTM1MTc4Mzcw/NS04MDQ0LmpwZWc.jpeg" alt="Cover for Droit de véto" style="max-width:120px; height:auto;" />
       </td>
@@ -805,13 +805,13 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 14</li>
             <li> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a> # 64</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/qSwZmJcQON8ZMF3OTBYwbuOxSpxXX4JH1JouUlCBlvY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MjAy/MDItMTU2NzUyOTQ5/Ny02MzQ2LmpwZWc.jpeg" alt="Cover for Le bruit des boucliers" style="max-width:120px; height:auto;" />
       </td>
@@ -834,7 +834,7 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/aLX52Nf1FNGcCY5-N9VclWA7iKrAihW11oqqmk95woo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0Nzk0/MC0xMzYwMjY3MjQ0/LTE4ODIuanBlZw.jpeg" alt="Cover for No time between" style="max-width:120px; height:auto;" />
       </td>
@@ -852,7 +852,7 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/70KMrGjFFVi_Cx9jV6m6K8_cPOhguyO3C0oct65Om30/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMTMy/NC0xNDM5MzYwODc1/LTM4NTYuanBlZw.jpeg" alt="Cover for Le Femme Chocolat" style="max-width:120px; height:auto;" />
       </td>
@@ -874,7 +874,44 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>8</td>
+      <td>
+          <img src="https://i.discogs.com/hP3FFY3uguhDfuNmRg53ypszUf4BCfDtN57G8xiHFrc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDcz/MTA5LTE1ODYzMzY5/ODQtMjQzNy5qcGVn.jpeg" alt="Cover for Aux Armes Et Caetera 1979" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>Serge Gainsbourg</td>
+      <td>Aux Armes Et Caetera 1979</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+          <img src="https://i.discogs.com/Qy3ekEAPuyaq0F603kFozzsbBPVxwmmen4DuGWrgb2o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTAz/ODY2LTE2Njc5Njky/OTgtMTUzMS5qcGVn.jpeg" alt="Cover for Paradis Noir" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>IOS</td>
+      <td>Paradis Noir</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
       <td>
           <img src="https://i.discogs.com/UNC7JpvvAT_bIkpQU8FpF29HE8KrTwtKpy13dc8ZARc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDg0/NzktMTM2NTE3MjQz/OC0yMDQ5LmpwZWc.jpeg" alt="Cover for Du chagrin a l&#39;eau de Javel" style="max-width:120px; height:auto;" />
       </td>
@@ -897,44 +934,7 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
     </tr>
     <tr>
-      <td>47</td>
-      <td>
-          <img src="https://i.discogs.com/Qy3ekEAPuyaq0F603kFozzsbBPVxwmmen4DuGWrgb2o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTAz/ODY2LTE2Njc5Njky/OTgtMTUzMS5qcGVn.jpeg" alt="Cover for Paradis Noir" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2005</td>
-      <td>IOS</td>
-      <td>Paradis Noir</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>93</td>
-      <td>
-          <img src="https://i.discogs.com/hP3FFY3uguhDfuNmRg53ypszUf4BCfDtN57G8xiHFrc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDcz/MTA5LTE1ODYzMzY5/ODQtMjQzNy5qcGVn.jpeg" alt="Cover for Aux Armes Et Caetera 1979" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2005</td>
-      <td>Serge Gainsbourg</td>
-      <td>Aux Armes Et Caetera 1979</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5221885919df444f90e3123c93dc7abe.png" alt="Cover for Best Of" style="max-width:120px; height:auto;" />
       </td>
@@ -957,7 +957,7 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>58</td>
       <td>
       </td>
       <td>2005-02-21</td>
@@ -984,7 +984,7 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
       </td>
       <td>2005-05-10</td>
@@ -999,12 +999,12 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 59</li>
+            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/LAS_WZD__SQ0DpmNCYIvslWICTkwzH5QDdkhCnPmNeI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1OTMw/NC0xMzE0Mjg1MDEy/LmpwZWc.jpeg" alt="Cover for Va Chercher la Police" style="max-width:120px; height:auto;" />
       </td>
@@ -1020,12 +1020,12 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 58</li>
+            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/5h--Wj_KtB5rx9Gyxk6K5wlVpJLMydiwBpEREiHKAVk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDk2/NjctMTMyNTE1NTk3/NC5qcGVn.jpeg" alt="Cover for Something like that..." style="max-width:120px; height:auto;" />
       </td>
@@ -1049,7 +1049,7 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>53</td>
       <td>
       </td>
       <td>2006-04-10</td>
@@ -1067,7 +1067,7 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
       </td>
       <td>2006-08-21</td>
@@ -1086,7 +1086,7 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/503a636c25cd3cb656d69634a2312a61.png" alt="Cover for This is disaster" style="max-width:120px; height:auto;" />
       </td>
@@ -1106,44 +1106,7 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
     </tr>
     <tr>
-      <td>46</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f5bf8047d024bf2b76c876379a0e594b.png" alt="Cover for La Cerise" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2007</td>
-      <td>Matmatah</td>
-      <td>La Cerise</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>51</td>
-      <td>
-          <img src="https://i.discogs.com/f32HrVoRIIPdWP_GvCrA0_gygKoZdMZflZ2e7e8GkoM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MDk2/NzYtMTQwNjA1Njkz/OS02MzQ1LmpwZWc.jpeg" alt="Cover for Hors de ma cage" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2007</td>
-      <td>Deserty</td>
-      <td>Hors de ma cage</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>61</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/lXp0TOp53uLe73MX5LX6u6kmt3_BWjN39BSP12a5Y4E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODY0/MzQwLTE1MDU1Nzk0/MTItNjk3OC5qcGVn.jpeg" alt="Cover for A Land To End My Flight" style="max-width:120px; height:auto;" />
       </td>
@@ -1164,7 +1127,44 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>50</td>
+      <td>
+          <img src="https://i.discogs.com/f32HrVoRIIPdWP_GvCrA0_gygKoZdMZflZ2e7e8GkoM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MDk2/NzYtMTQwNjA1Njkz/OS02MzQ1LmpwZWc.jpeg" alt="Cover for Hors de ma cage" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Deserty</td>
+      <td>Hors de ma cage</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f5bf8047d024bf2b76c876379a0e594b.png" alt="Cover for La Cerise" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Matmatah</td>
+      <td>La Cerise</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
       <td>
       </td>
       <td>2007-01-01</td>
@@ -1190,17 +1190,17 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 43</li>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 49</li>
+            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 33</li>
+            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 38</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 52</li>
+            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 58</li>
             <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 59</li>
-            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 62</li>
             <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 67</li>
-            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/GgO-ZpL0Dt0N8FguhkQWrJSG9BNLBVOhUJ3iq-R-OGg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTY1/NzctMTI2NDkzNjU4/OS5qcGVn.jpeg" alt="Cover for Tandoori" style="max-width:120px; height:auto;" />
       </td>
@@ -1219,32 +1219,7 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
     </tr>
     <tr>
-      <td>96</td>
-      <td>
-      </td>
-      <td>2007-02-19</td>
-      <td>Les Fatals Picards</td>
-      <td>Pamplemousse Mécanique</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/humour" | relative_url }}">humour</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a> # 21</li>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 78</li>
-            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 98</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/IdhYt4UG9ZXB3-WV6WrxMVMsA75_RjstAQboe4vT5EY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTY3/OTItMTM3MjU4MzYz/Mi0xNjQxLmpwZWc.jpeg" alt="Cover for Pamplemousse Mecanique" style="max-width:120px; height:auto;" />
       </td>
@@ -1264,13 +1239,38 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       <td>
         <ul>
             <li> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a> # 16</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 18</li>
             <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 68</li>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>5</td>
+      <td>
+      </td>
+      <td>2007-02-19</td>
+      <td>Les Fatals Picards</td>
+      <td>Pamplemousse Mécanique</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/humour" | relative_url }}">humour</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a> # 21</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 23</li>
+            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
       <td>
       </td>
       <td>2007-03-19</td>
@@ -1292,7 +1292,7 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0e4ca07e3351e883215a32deb325607d.png" alt="Cover for Orgamilk" style="max-width:120px; height:auto;" />
       </td>
@@ -1319,17 +1319,17 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 30</li>
             <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 40</li>
-            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 40</li>
-            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 60</li>
+            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 40</li>
+            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 61</li>
             <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 64</li>
             <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 70</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
       </td>
       <td>2007-10-15</td>
@@ -1353,7 +1353,7 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>56</td>
       <td>
       </td>
       <td>2007-10-19</td>
@@ -1380,19 +1380,38 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 8</li>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 38</li>
-            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 46</li>
+            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 26</li>
+            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 37</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 40</li>
+            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 55</li>
             <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 56</li>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 61</li>
-            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 63</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 62</li>
             <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 63</li>
-            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 74</li>
+            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>31</td>
+      <td>
+          <img src="https://i.discogs.com/YjBnfvXluXFq9_377i0n3EAWYyTznnQpgznSGH3A9x8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MDMw/NDAtMTU0NzA3MzU2/MC0yNjQ0LmpwZWc.jpeg" alt="Cover for Petite mort" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>Second Sex</td>
+      <td>Petite mort</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/97e2ad4f521a4ad1a0ad1b28b02e6fe3.png" alt="Cover for BBI" style="max-width:120px; height:auto;" />
       </td>
@@ -1415,26 +1434,7 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
     </tr>
     <tr>
-      <td>70</td>
-      <td>
-          <img src="https://i.discogs.com/YjBnfvXluXFq9_377i0n3EAWYyTznnQpgznSGH3A9x8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MDMw/NDAtMTU0NzA3MzU2/MC0yNjQ0LmpwZWc.jpeg" alt="Cover for Petite mort" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2008</td>
-      <td>Second Sex</td>
-      <td>Petite mort</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
       </td>
       <td>2008-03-17</td>
@@ -1452,13 +1452,13 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 18</li>
             <li> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a> # 63</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/43293d071bd44b648adad09b15746000.png" alt="Cover for En Eaux Profondes" style="max-width:120px; height:auto;" />
       </td>
@@ -1480,7 +1480,7 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
       </td>
       <td>2008-05-26</td>
@@ -1500,7 +1500,7 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f642a3ae07ae4872b1011ff418076344.png" alt="Cover for L&#39;Homme Du Monde" style="max-width:120px; height:auto;" />
       </td>
@@ -1519,7 +1519,7 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>98</td>
       <td>
       </td>
       <td>2008-12-25</td>
@@ -1538,7 +1538,7 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/M7nrBZZG4WSkvY5VYLqFigi0UtxXqdOn-k_Pjttwc2c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MjE2/MjQtMTYxOTEwOTEw/Mi04MDA2LmpwZWc.jpeg" alt="Cover for Un Eté Caniculaire" style="max-width:120px; height:auto;" />
       </td>
@@ -1561,7 +1561,7 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/EUZWckDRC_DHNYD7QfaI1gIq3boZBXl-r9S6JYqedmY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMTY0/NzMtMTQ3MzMyODIz/MC05NDQ0LmpwZWc.jpeg" alt="Cover for The Ugly Army" style="max-width:120px; height:auto;" />
       </td>
@@ -1605,18 +1605,18 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 26</li>
+            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 28</li>
             <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 33</li>
             <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 37</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 62</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 39</li>
             <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 65</li>
             <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 67</li>
-            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 72</li>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/QKoiwy7e772_70JyJOiFvRlwbqh1zuFkUTV_shkqg6Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5OTEw/MzgtMTY4MzI5NzA5/Ni01OTUxLmpwZWc.jpeg" alt="Cover for Le sens de la gravité" style="max-width:120px; height:auto;" />
       </td>
@@ -1636,12 +1636,12 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       <td>
         <ul>
             <li> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a> # 37</li>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 54</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 47</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/M7nrBZZG4WSkvY5VYLqFigi0UtxXqdOn-k_Pjttwc2c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MjE2/MjQtMTYxOTEwOTEw/Mi04MDA2LmpwZWc.jpeg" alt="Cover for un été caniculaire" style="max-width:120px; height:auto;" />
       </td>
@@ -1663,7 +1663,7 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
       </td>
       <td>2009-10-13</td>
@@ -1683,7 +1683,7 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/lty-knhrO80Ff7JIWw_H_lykpPnYMSTBaOid4QdlCpM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0Njg4/MjctMTQ0MjA5Mjc3/Ny0zMzEzLmpwZWc.jpeg" alt="Cover for Birdy Hunt" style="max-width:120px; height:auto;" />
       </td>
@@ -1703,7 +1703,7 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
       </td>
       <td>2010-05-31</td>
@@ -1723,7 +1723,7 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/g8sS7lzQY1oA6Si7Lk3Fj6aRTUu1NpJsqk620FEBTIU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NzA5/NzYtMTUxODM0Njk2/OC04NTM3LmpwZWc.jpeg" alt="Cover for Aucun Mal Ne Vous Sera Fait" style="max-width:120px; height:auto;" />
       </td>
@@ -1747,7 +1747,7 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/eAnRJBjCAdzZK-w83sQVsgZ-s5X7xyTa3llCppcHy2A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NjAw/NDktMTMzMTIyODc3/My5qcGVn.jpeg" alt="Cover for Primitive Expression" style="max-width:120px; height:auto;" />
       </td>
@@ -1767,7 +1767,7 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5171877bda054ec5b401759c6e82e5fb.png" alt="Cover for The end starts here" style="max-width:120px; height:auto;" />
       </td>
@@ -1789,7 +1789,7 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>23</td>
       <td>
       </td>
       <td>2011-03-11</td>
@@ -1807,13 +1807,13 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 40</li>
             <li> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a> # 55</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/19e36dc11c02423ac2f736ff67ee9568.png" alt="Cover for Celkilt" style="max-width:120px; height:auto;" />
       </td>
@@ -1836,14 +1836,14 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic-punk" | relative_url }}">celtic punk</a> # 23</li>
             <li> <a href="{{ "/tags/celtic-rock" | relative_url }}">celtic rock</a> # 69</li>
+            <li> <a href="{{ "/tags/celtic-punk" | relative_url }}">celtic punk</a> # 79</li>
             <li> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f9a12a00db3646dbc6f559b310cc4dd8.png" alt="Cover for Hey What&#39;s Under Your Kilt?" style="max-width:120px; height:auto;" />
       </td>
@@ -1866,14 +1866,14 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic-punk" | relative_url }}">celtic punk</a> # 32</li>
             <li> <a href="{{ "/tags/celtic-rock" | relative_url }}">celtic rock</a> # 58</li>
+            <li> <a href="{{ "/tags/celtic-punk" | relative_url }}">celtic punk</a> # 69</li>
             <li> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>92</td>
       <td>
       </td>
       <td>2012-04-16</td>
@@ -1895,7 +1895,7 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>38</td>
       <td>
       </td>
       <td>2012-10-22</td>
@@ -1917,7 +1917,7 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7290c6073b0f4ccdccbc00e97632fbe4.png" alt="Cover for On The Table" style="max-width:120px; height:auto;" />
       </td>
@@ -1940,14 +1940,14 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic-punk" | relative_url }}">celtic punk</a> # 24</li>
             <li> <a href="{{ "/tags/celtic-rock" | relative_url }}">celtic rock</a> # 68</li>
+            <li> <a href="{{ "/tags/celtic-punk" | relative_url }}">celtic punk</a> # 78</li>
             <li> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4fbf023bc1d809f4f7e6fb1fa1c4c060.png" alt="Cover for Montparnasse - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1979,7 +1979,7 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>95</td>
       <td>
       </td>
       <td>2017</td>
@@ -1998,7 +1998,7 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/388a678b395a6f679e86c00afe06a4eb.png" alt="Cover for Sciences Politiques" style="max-width:120px; height:auto;" />
       </td>
@@ -2019,7 +2019,7 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/cKUTAGQuC8_9Oi7LxjiQXsFIRtoNyBU-FBJp-s64JsY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODA2/My0xMzQ4OTQzNzMz/LTk0NTYuanBlZw.jpeg" alt="Cover for Labo -M- 1" style="max-width:120px; height:auto;" />
       </td>
@@ -2038,7 +2038,7 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/hoa9Um0-QcX6Bdjq-lVl_awoVvfGDuhL8fsDrvhrO5M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTg5/NzI4LTE1MzAxMDU5/ODYtMTU1Ni5wbmc.jpeg" alt="Cover for Ailleurs - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -2066,7 +2066,7 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/7DNMFtBKePj8NyPWyxTpeW5e8ESWG_qbV3W5JLnsReU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzU1/MjAzLTE2NzgzNTIw/MjctMzAwNS5qcGVn.jpeg" alt="Cover for Juste Derrière Toi" style="max-width:120px; height:auto;" />
       </td>
@@ -2093,7 +2093,7 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/4T669j9Sx6D01kNbcC8FinoOEwBdzwujbcSigyJ473c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDQ0/Mjg4LTE2NzA4NjMw/MDAtNzM5OS5qcGVn.jpeg" alt="Cover for Je marche derrière toi" style="max-width:120px; height:auto;" />
       </td>
@@ -2119,7 +2119,7 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/Rlxjw-b7xvyi76MVUPB8-NEzPMN4b265DV1YKQRGIVU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDMw/MzQxLTE2NzA3NDUz/MjYtNzU5MC5qcGVn.jpeg" alt="Cover for Comme un lion en cage" style="max-width:120px; height:auto;" />
       </td>
@@ -2144,7 +2144,7 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/fcJ-mIlpu5upFa2Tql8AfupoT3pHhbvTLh54cd3EeFE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzQ5/NTk2LTE2NTM0ODI4/ODAtOTA4Ny5qcGVn.jpeg" alt="Cover for prisons imaginaires" style="max-width:120px; height:auto;" />
       </td>
@@ -2166,7 +2166,7 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/08cefef47838dba25b6ab808b9de169d.png" alt="Cover for Entre deux averses​.​.​." style="max-width:120px; height:auto;" />
       </td>
@@ -2189,7 +2189,7 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
       </td>
       <td></td>
@@ -2212,16 +2212,16 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>69</td>
       <td>
       </td>
       <td></td>
-      <td>Opiium</td>
-      <td>EP</td>
+      <td>Sibyl Vane</td>
+      <td>Paradoxes</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a></li>
         </ul>
       </td>
@@ -2231,7 +2231,7 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>81</td>
       <td>
       </td>
       <td></td>
@@ -2249,16 +2249,16 @@ French rock blends Anglo-American rock instrumentation and energy with distinctl
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>84</td>
       <td>
       </td>
       <td></td>
-      <td>Sibyl Vane</td>
-      <td>Paradoxes</td>
+      <td>Opiium</td>
+      <td>EP</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a></li>
         </ul>
       </td>
