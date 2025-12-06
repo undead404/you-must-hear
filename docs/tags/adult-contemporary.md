@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T01:01:51.341Z
+date: 2025-12-06T06:27:50.898Z
 permalink: tags/adult-contemporary
 title: adult contemporary
 ---
 
 ## adult contemporary
 
-Last updated: <time datetime="2025-12-04T01:01:51.341Z">Thu Dec 04 2025 03:01:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T06:27:50.898Z">Sat Dec 06 2025 08:27:50 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -89,8 +89,8 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 25</li>
-            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 42</li>
+            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 58</li>
+            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -115,7 +115,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mastersinger" | relative_url }}">mastersinger</a> # 86</li>
+            <li> <a href="{{ "/tags/mastersinger" | relative_url }}">mastersinger</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -137,7 +137,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 80</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -179,7 +179,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 90</li>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -274,8 +274,8 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 13</li>
             <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 43</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -314,9 +314,9 @@ Adult contemporary music is a broad category of popular music that is generally 
       <td>
         <ul>
             <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 27</li>
-            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 46</li>
-            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 49</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 55</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 46</li>
+            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 52</li>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -395,9 +395,9 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a> # 18</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 95</li>
-            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 99</li>
+            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 2</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 6</li>
+            <li> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -553,7 +553,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/roots-rock" | relative_url }}">roots rock</a> # 41</li>
+            <li> <a href="{{ "/tags/roots-rock" | relative_url }}">roots rock</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -639,7 +639,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 14</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -683,7 +683,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mastersinger" | relative_url }}">mastersinger</a> # 85</li>
+            <li> <a href="{{ "/tags/mastersinger" | relative_url }}">mastersinger</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -870,8 +870,8 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 2</li>
             <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 64</li>
-            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -946,7 +946,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       <td>
         <ul>
             <li> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a> # 17</li>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 46</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1007,9 +1007,9 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 34</li>
-            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 90</li>
-            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 96</li>
+            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 5</li>
+            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 11</li>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1048,7 +1048,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-jack-swing" | relative_url }}">new jack swing</a> # 29</li>
+            <li> <a href="{{ "/tags/new-jack-swing" | relative_url }}">new jack swing</a> # 72</li>
             <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 74</li>
         </ul>
       </td>
@@ -1074,8 +1074,8 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 21</li>
-            <li> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a> # 22</li>
+            <li> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a> # 79</li>
+            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1119,8 +1119,8 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 42</li>
-            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 78</li>
+            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 23</li>
+            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1291,8 +1291,8 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 58</li>
-            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 82</li>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 19</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1412,7 +1412,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 72</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1435,7 +1435,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutsche-schlager" | relative_url }}">deutsche schlager</a> # 96</li>
+            <li> <a href="{{ "/tags/deutsche-schlager" | relative_url }}">deutsche schlager</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1685,12 +1685,12 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 1</li>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 1</li>
+            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 1</li>
             <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 2</li>
             <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 11</li>
             <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 25</li>
-            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 100</li>
-            <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 100</li>
-            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1752,7 +1752,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 7</li>
+            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1777,7 +1777,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 88</li>
+            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 13</li>
             <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 95</li>
         </ul>
       </td>
@@ -1801,7 +1801,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 70</li>
+            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1823,7 +1823,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romantica" | relative_url }}">romantica</a> # 67</li>
+            <li> <a href="{{ "/tags/romantica" | relative_url }}">romantica</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1952,7 +1952,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 51</li>
+            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1972,7 +1972,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 76</li>
+            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -2013,7 +2013,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 44</li>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -2033,7 +2033,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 91</li>
+            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -2079,7 +2079,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 21</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -2122,7 +2122,7 @@ Adult contemporary music is a broad category of popular music that is generally 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 91</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 10</li>
         </ul>
       </td>
     </tr>

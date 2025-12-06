@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T01:04:29.249Z
+date: 2025-12-06T06:29:34.354Z
 permalink: tags/spanish
 title: spanish
 ---
 
 ## spanish
 
-Last updated: <time datetime="2025-12-04T01:04:29.249Z">Thu Dec 04 2025 03:04:29 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T06:29:34.354Z">Sat Dec 06 2025 08:29:34 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -43,9 +43,9 @@ Spanish music refers to the musical traditions and styles that have developed in
       <td>
         <ul>
             <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 7</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 19</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 60</li>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 83</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 18</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 41</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -165,8 +165,8 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 1</li>
             <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 1</li>
-            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -224,8 +224,8 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 4</li>
             <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 9</li>
-            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -245,7 +245,7 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 85</li>
+            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -267,9 +267,9 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 2</li>
             <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 9</li>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 47</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 53</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -364,7 +364,7 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 88</li>
+            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -383,7 +383,7 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 45</li>
+            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -403,7 +403,7 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 99</li>
+            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -445,8 +445,8 @@ Spanish music refers to the musical traditions and styles that have developed in
       <td>
         <ul>
             <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 11</li>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 33</li>
-            <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 73</li>
+            <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 28</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -468,10 +468,10 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 9</li>
             <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 17</li>
             <li> <a href="{{ "/tags/unplugged" | relative_url }}">unplugged</a> # 31</li>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 66</li>
-            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 92</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -490,7 +490,7 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 87</li>
+            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -510,7 +510,7 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 8</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -529,9 +529,9 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 4</li>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 15</li>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 21</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 80</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 86</li>
+            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -573,9 +573,9 @@ Spanish music refers to the musical traditions and styles that have developed in
       <td>
         <ul>
             <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 7</li>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 42</li>
-            <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 84</li>
-            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 89</li>
+            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 12</li>
+            <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 17</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -593,7 +593,7 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gypsy" | relative_url }}">gypsy</a> # 63</li>
+            <li> <a href="{{ "/tags/gypsy" | relative_url }}">gypsy</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -616,10 +616,10 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 10</li>
             <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 18</li>
             <li> <a href="{{ "/tags/unplugged" | relative_url }}">unplugged</a> # 32</li>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 65</li>
-            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 91</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -675,10 +675,10 @@ Spanish music refers to the musical traditions and styles that have developed in
       <td>
         <ul>
             <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 10</li>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 19</li>
             <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 30</li>
-            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 45</li>
-            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 70</li>
+            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 31</li>
+            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 55</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 82</li>
             <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 87</li>
         </ul>
       </td>
@@ -826,7 +826,7 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 9</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -845,10 +845,10 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 10</li>
             <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 25</li>
-            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 30</li>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 62</li>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 91</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 38</li>
+            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -867,7 +867,7 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 47</li>
+            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -889,7 +889,7 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 76</li>
+            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1018,7 +1018,7 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 58</li>
+            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1094,7 +1094,7 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 93</li>
+            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1156,8 +1156,8 @@ Spanish music refers to the musical traditions and styles that have developed in
       <td>
         <ul>
             <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 7</li>
-            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 14</li>
             <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 16</li>
+            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1211,7 +1211,7 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 65</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1322,7 +1322,7 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 53</li>
+            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1342,7 +1342,7 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 74</li>
+            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1414,7 +1414,7 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 95</li>
+            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -1437,9 +1437,9 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 1</li>
             <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 3</li>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 41</li>
-            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 100</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1547,7 +1547,7 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 22</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1640,27 +1640,27 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 8</li>
             <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 8</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 8</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 8</li>
+            <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 10</li>
             <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 10</li>
+            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 11</li>
             <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 22</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 23</li>
             <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 25</li>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 32</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 35</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 31</li>
             <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 37</li>
-            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 41</li>
             <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 44</li>
-            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 54</li>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 54</li>
+            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 47</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 55</li>
             <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 58</li>
             <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 61</li>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 62</li>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 61</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 63</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 64</li>
             <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 71</li>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 78</li>
             <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 89</li>
-            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 90</li>
-            <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 91</li>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1700,7 +1700,7 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 17</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1743,7 +1743,7 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 98</li>
+            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1767,8 +1767,8 @@ Spanish music refers to the musical traditions and styles that have developed in
       <td>
         <ul>
             <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 15</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 26</li>
             <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 55</li>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1852,10 +1852,10 @@ Spanish music refers to the musical traditions and styles that have developed in
       <td>
         <ul>
             <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 3</li>
+            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 7</li>
             <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 11</li>
             <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 20</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 54</li>
-            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 94</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1874,9 +1874,9 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 18</li>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 58</li>
-            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 82</li>
+            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 19</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 43</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1932,8 +1932,8 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 90</li>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 95</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 6</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1954,8 +1954,8 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 99</li>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 100</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 1</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -1999,7 +1999,7 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 36</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -2085,24 +2085,24 @@ Spanish music refers to the musical traditions and styles that have developed in
       <td>
         <ul>
             <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 1</li>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 4</li>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 5</li>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 7</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 3</li>
             <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 15</li>
             <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 25</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 26</li>
+            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 29</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 30</li>
             <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 32</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 34</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 36</li>
             <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 48</li>
             <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 49</li>
             <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 60</li>
             <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 61</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 62</li>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 67</li>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 71</li>
-            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 72</li>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 75</li>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 75</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 76</li>
             <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 90</li>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 98</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 94</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 96</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -2144,9 +2144,9 @@ Spanish music refers to the musical traditions and styles that have developed in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 13</li>
-            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 33</li>
-            <li> <a href="{{ "/tags/mariachi" | relative_url }}">mariachi</a> # 100</li>
+            <li> <a href="{{ "/tags/mariachi" | relative_url }}">mariachi</a> # 1</li>
+            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 68</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 88</li>
         </ul>
       </td>
     </tr>

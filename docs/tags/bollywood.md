@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T00:59:08.379Z
+date: 2025-12-06T06:26:56.569Z
 permalink: tags/bollywood
 title: bollywood
 ---
 
 ## bollywood
 
-Last updated: <time datetime="2025-12-04T00:59:08.379Z">Thu Dec 04 2025 02:59:08 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T06:26:56.569Z">Sat Dec 06 2025 08:26:56 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,42 +29,7 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
   </thead>
   <tbody>
     <tr>
-      <td>8</td>
-      <td>
-          <img src="https://i.discogs.com/8bNsdKarSMyvOzd-ZHz4m16hoSL93vcVCWi88odGXT8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTY4/NzQtMTQ3OTg4NjA1/My02ODMxLmpwZWc.jpeg" alt="Cover for Dil Padosi Hai" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1972</td>
-      <td>Asha Bhosle</td>
-      <td>Dil Padosi Hai</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>34</td>
-      <td>
-      </td>
-      <td>1972</td>
-      <td>Various Artists</td>
-      <td>The Music Of Bollywood</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>38</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/QivTer6GlwIiBlql-jWV7wzERjSpbQ_S2KwuSWRafdI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDU1/NTMtMTQ2ODYxNzMx/My03MDUwLmpwZWc.jpeg" alt="Cover for Hits Of Manna Dey" style="max-width:120px; height:auto;" />
       </td>
@@ -82,7 +47,42 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>67</td>
+      <td>
+      </td>
+      <td>1972</td>
+      <td>Various Artists</td>
+      <td>The Music Of Bollywood</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>
+          <img src="https://i.discogs.com/8bNsdKarSMyvOzd-ZHz4m16hoSL93vcVCWi88odGXT8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTY4/NzQtMTQ3OTg4NjA1/My02ODMxLmpwZWc.jpeg" alt="Cover for Dil Padosi Hai" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1972</td>
+      <td>Asha Bhosle</td>
+      <td>Dil Padosi Hai</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/IHvMpMhWQugl60SaxYcszY9wD49j0YvTBmcGzzmbP7E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDAt/MTU5MTUyMjUwMS01/NTA2LmpwZWc.jpeg" alt="Cover for Sholay" style="max-width:120px; height:auto;" />
       </td>
@@ -101,21 +101,21 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 22</li>
-            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 50</li>
-            <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 60</li>
-            <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 85</li>
+            <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 16</li>
+            <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 41</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 51</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>35</td>
       <td>
-          <img src="https://i.discogs.com/MbWVsSLnwj-G-tffY6M_XR_Lns6zQ8fsnky6iCInRMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODMy/NzMtMTQzOTAzOTEz/MS04MDExLmpwZWc.jpeg" alt="Cover for Ponniyin Selvan" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/pVjf6F2mELuLRJpR1g3AK3mcjvziMUJ3gHhzoDEFKe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE3/LTE2NDc5NjEwMDgt/NjcwMS5qcGVn.jpeg" alt="Cover for Devdas" style="max-width:120px; height:auto;" />
       </td>
       <td>1977</td>
       <td>Various Artists</td>
-      <td>Ponniyin Selvan</td>
+      <td>Devdas</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a></li>
@@ -127,25 +127,7 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
       </td>
     </tr>
     <tr>
-      <td>13</td>
-      <td>
-          <img src="https://i.discogs.com/1LxUEZ7qSG73T6h2RXl20iw3cz8IfvyoSWzCkdzBTSg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDU5/NjYtMTM1MjA2MjA2/Ni00MDIyLmpwZWc.jpeg" alt="Cover for Hi Honey" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1977</td>
-      <td>Various Artists</td>
-      <td>Hi Honey</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>39</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/1LxUEZ7qSG73T6h2RXl20iw3cz8IfvyoSWzCkdzBTSg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDU5/NjYtMTM1MjA2MjA2/Ni00MDIyLmpwZWc.jpeg" alt="Cover for The Guru" style="max-width:120px; height:auto;" />
       </td>
@@ -164,13 +146,13 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>88</td>
       <td>
-          <img src="https://i.discogs.com/pVjf6F2mELuLRJpR1g3AK3mcjvziMUJ3gHhzoDEFKe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE3/LTE2NDc5NjEwMDgt/NjcwMS5qcGVn.jpeg" alt="Cover for Devdas" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/1LxUEZ7qSG73T6h2RXl20iw3cz8IfvyoSWzCkdzBTSg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDU5/NjYtMTM1MjA2MjA2/Ni00MDIyLmpwZWc.jpeg" alt="Cover for Hi Honey" style="max-width:120px; height:auto;" />
       </td>
       <td>1977</td>
       <td>Various Artists</td>
-      <td>Devdas</td>
+      <td>Hi Honey</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a></li>
@@ -182,7 +164,25 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>91</td>
+      <td>
+          <img src="https://i.discogs.com/MbWVsSLnwj-G-tffY6M_XR_Lns6zQ8fsnky6iCInRMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODMy/NzMtMTQzOTAzOTEz/MS04MDExLmpwZWc.jpeg" alt="Cover for Ponniyin Selvan" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1977</td>
+      <td>Various Artists</td>
+      <td>Ponniyin Selvan</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/vzw5U7Iem4iwgwP15dyVlcosCpdg2gjkuopGz8OQ6Bg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTcw/NzYtMTQ3NzE1NjU3/Ni05NDY1LmpwZWc.jpeg" alt="Cover for Hits of Asha Bhosle" style="max-width:120px; height:auto;" />
       </td>
@@ -197,12 +197,12 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian-classical" | relative_url }}">indian classical</a> # 56</li>
+            <li> <a href="{{ "/tags/indian-classical" | relative_url }}">indian classical</a> # 45</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/t5df3tUDy4VpZb3nNB6DGv0RVdkMW5YXp8BZOZKrsic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzA5/Mjg2LTE1NTE4MTk0/MTEtNDkwNC5qcGVn.jpeg" alt="Cover for Legends - Mukesh - 3" style="max-width:120px; height:auto;" />
       </td>
@@ -220,7 +220,7 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/3qwXo-bi7S6Et6f9TBTuP7swZy1uL0oyBf5-lqWLcTQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjMx/MTctMTI3MTc4NjM2/MC5qcGVn.jpeg" alt="Cover for Star Crazy" style="max-width:120px; height:auto;" />
       </td>
@@ -240,16 +240,16 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 15</li>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 75</li>
-            <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 81</li>
-            <li> <a href="{{ "/tags/punjabi" | relative_url }}">punjabi</a> # 83</li>
-            <li> <a href="{{ "/tags/punjabi-bhangra" | relative_url }}">punjabi bhangra</a> # 90</li>
+            <li> <a href="{{ "/tags/punjabi-bhangra" | relative_url }}">punjabi bhangra</a> # 11</li>
+            <li> <a href="{{ "/tags/punjabi" | relative_url }}">punjabi</a> # 18</li>
+            <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 20</li>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 26</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/Dr5ovUX6ZEBc7wGqHY3bnx1CBbnxvx85ORyrG3vIquE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Mjgx/MTktMTQ3NDAyODc4/MC0xNDA2LmpwZWc.jpeg" alt="Cover for Ghar Ghar Ki Kahani" style="max-width:120px; height:auto;" />
       </td>
@@ -267,7 +267,7 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e32e50aa70224e9c9b8fa4f8915b2a82.png" alt="Cover for Slumdog Millionaire Soundtrack" style="max-width:120px; height:auto;" />
       </td>
@@ -283,12 +283,12 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 100</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 1</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/Q9zKMr7k-nWi18qTi7B8e7xDJfhdFehPlZ9J9tWXqUA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMzE3/Mi0xNjY0NjI0MTk0/LTQzMTIuanBlZw.jpeg" alt="Cover for Rising From the East" style="max-width:120px; height:auto;" />
       </td>
@@ -305,14 +305,14 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 74</li>
-            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 76</li>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 94</li>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 7</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 25</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 27</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/umudN9BnbFvClRWM2bpvTx32MqVisnYMP6B4JWMd3UQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTMz/MjI0LTE2MzY2MjE5/ODgtNDU0Mi5qcGVn.jpeg" alt="Cover for I Hate Luv Storys" style="max-width:120px; height:auto;" />
       </td>
@@ -330,7 +330,7 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/ATbx8e18U_SecPX_9usJFfD2U5uTrx8Ov-eCvbcXFHQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzIz/MjE1LTE1MDExMTkw/MzMtMzI2MC5wbmc.jpeg" alt="Cover for You&#39;ve Stolen My Heart, Songs from R.D. Burman&#39;s Bollywood" style="max-width:120px; height:auto;" />
       </td>
@@ -343,12 +343,12 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 67</li>
+            <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/rfLxFuASfblLhnPG5-TnKpxDrRj3wMeSHX2dpLK9Y9s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTIx/OTI1LTE2MjY0OTgy/MDctMTIyNy5qcGVn.jpeg" alt="Cover for The Rough Guide to Bollywood" style="max-width:120px; height:auto;" />
       </td>
@@ -366,7 +366,7 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
       </td>
       <td>1998-08-13</td>
@@ -383,7 +383,7 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/KIX2BRl7zrA4WjeNrElUvAFgb7R9Z7NvLPpHEyhMcRg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzc2/OTY4LTE1OTA1Mzg5/MjgtNDE2Ni5qcGVn.jpeg" alt="Cover for Barshar Gaan - Tagore&#x60;s Composition on Mansoon" style="max-width:120px; height:auto;" />
       </td>
@@ -400,14 +400,14 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 25</li>
-            <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 62</li>
-            <li> <a href="{{ "/tags/hindustani" | relative_url }}">hindustani</a> # 97</li>
+            <li> <a href="{{ "/tags/hindustani" | relative_url }}">hindustani</a> # 4</li>
+            <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 39</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
       </td>
       <td>1999-04</td>
@@ -421,12 +421,12 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 82</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 19</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>57</td>
       <td>
       </td>
       <td>1999-04</td>
@@ -443,7 +443,7 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/3hHJukAvciPjqEsh6kdHqI9WWugIE6Ag5rvLY1rYkOU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTc2/MzI2LTE2MTQyNDEx/MTYtODQxNy5qcGVn.jpeg" alt="Cover for Kambakkht Ishq" style="max-width:120px; height:auto;" />
       </td>
@@ -459,13 +459,13 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 57</li>
-            <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 66</li>
+            <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 35</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 44</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/eJrTZwq7GknM5ZMJQi0ejAhOxTYSjQuf2juo3-JntBI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjI1/Njg1LTE1NTAyODcx/MTUtODUwMy5qcGVn.jpeg" alt="Cover for Kaho Naa... Pyar Hai" style="max-width:120px; height:auto;" />
       </td>
@@ -483,26 +483,7 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
       </td>
     </tr>
     <tr>
-      <td>46</td>
-      <td>
-          <img src="https://i.discogs.com/7h8nrZYKCYVsmdNq5WTqc4XddKuYHcUggQyTFhkZqTE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjMx/NTE0LTE1ODg0MjQ2/MDctNzEwOC5qcGVn.jpeg" alt="Cover for Bollywood Flashback 2" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2000</td>
-      <td>Bally Sagoo</td>
-      <td>Bollywood Flashback 2</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 37</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/oT_QUXXjZsHWGr197zQfmOqMi6-v6o8nOvrlCViiG2o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTc5/NzM3LTE0OTM1NjE3/NTUtNzM0Ni5qcGVn.jpeg" alt="Cover for Aabra ka Daabra - The School Of Magic" style="max-width:120px; height:auto;" />
       </td>
@@ -517,12 +498,50 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 75</li>
+            <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 25</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>55</td>
+      <td>
+          <img src="https://i.discogs.com/7h8nrZYKCYVsmdNq5WTqc4XddKuYHcUggQyTFhkZqTE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjMx/NTE0LTE1ODg0MjQ2/MDctNzEwOC5qcGVn.jpeg" alt="Cover for Bollywood Flashback 2" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>Bally Sagoo</td>
+      <td>Bollywood Flashback 2</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 64</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>
+      </td>
+      <td>2001</td>
+      <td>Shankar-Ehsaan-Loy</td>
+      <td>Dil Chahta Hai</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 6</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9edd686c224a9b63c0bfdb082ea496c6.png" alt="Cover for Monsoon Wedding" style="max-width:120px; height:auto;" />
       </td>
@@ -537,66 +556,12 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 36</li>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>87</td>
-      <td>
-      </td>
-      <td>2001</td>
-      <td>Shankar-Ehsaan-Loy</td>
-      <td>Dil Chahta Hai</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 95</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>9</td>
-      <td>
-          <img src="https://i.discogs.com/1jEw0yzJqVwDZLASO6xcyOiSLt6mi1fz60qdsXs84wc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MjE2/NDAtMTQ2OTc2ODg1/NS0zNTY1LmpwZWc.jpeg" alt="Cover for Kal Ho Naa Ho" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2003</td>
-      <td>Sonu Nigam</td>
-      <td>Kal Ho Naa Ho</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>11</td>
-      <td>
-      </td>
-      <td>2003</td>
-      <td>Mani Sharma</td>
-      <td>Parugu</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>18</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/3Z4RlMNrT1Z99kXSklNlzPLEfAufJ8wiGho2hbB0aGU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MzE1/OS0xNjQ2ODQ2NTYy/LTU3NTUuanBlZw.jpeg" alt="Cover for The Best of Detroit" style="max-width:120px; height:auto;" />
       </td>
@@ -614,7 +579,42 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>90</td>
+      <td>
+      </td>
+      <td>2003</td>
+      <td>Mani Sharma</td>
+      <td>Parugu</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+          <img src="https://i.discogs.com/1jEw0yzJqVwDZLASO6xcyOiSLt6mi1fz60qdsXs84wc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MjE2/NDAtMTQ2OTc2ODg1/NS0zNTY1LmpwZWc.jpeg" alt="Cover for Kal Ho Naa Ho" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Sonu Nigam</td>
+      <td>Kal Ho Naa Ho</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
       <td>
       </td>
       <td>2003-09-20</td>
@@ -631,15 +631,35 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 88</li>
-            <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 90</li>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 91</li>
-            <li> <a href="{{ "/tags/flute" | relative_url }}">flute</a> # 95</li>
+            <li> <a href="{{ "/tags/flute" | relative_url }}">flute</a> # 5</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 10</li>
+            <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 11</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 12</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>6</td>
+      <td>
+          <img src="https://i.discogs.com/SJhRsOD9AjKNOrN-Guwi_rb2k6BsU-Vo48nwYo0SZHY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTkx/MjEtMTI3MTQ2OTUy/NC5qcGVn.jpeg" alt="Cover for Rockstar" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>A.R. Rahman</td>
+      <td>Rockstar</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 2</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/Z0sAUJRbQuFRgjlwWMh6U_PXcgHqGvkeCB4hQV7b-dM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMjc4/MDktMTU0NDI4Mjkz/NC00NDE0LmpwZWc.jpeg" alt="Cover for Mohenjo Daro" style="max-width:120px; height:auto;" />
       </td>
@@ -655,50 +675,12 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 79</li>
+            <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 21</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>95</td>
-      <td>
-          <img src="https://i.discogs.com/SJhRsOD9AjKNOrN-Guwi_rb2k6BsU-Vo48nwYo0SZHY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTkx/MjEtMTI3MTQ2OTUy/NC5qcGVn.jpeg" alt="Cover for Rockstar" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2004</td>
-      <td>A.R. Rahman</td>
-      <td>Rockstar</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 99</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>61</td>
-      <td>
-          <img src="https://i.discogs.com/IRzEqoIEwWXg2yLUVrl5SoI1ham2kPutYPINfFmArUM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MzMz/MC0xMjg0MjkxOTUy/LmpwZWc.jpeg" alt="Cover for Devdas - An Adaptation Of Sarat Chandra Chattopadhyay&#39;s &quot;Devdas&quot;" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2004</td>
-      <td>Various Artists</td>
-      <td>Devdas - An Adaptation Of Sarat Chandra Chattopadhyay&#39;s &quot;Devdas&quot;</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/SJhRsOD9AjKNOrN-Guwi_rb2k6BsU-Vo48nwYo0SZHY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTkx/MjEtMTI3MTQ2OTUy/NC5qcGVn.jpeg" alt="Cover for Bombay" style="max-width:120px; height:auto;" />
       </td>
@@ -716,7 +698,25 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>40</td>
+      <td>
+          <img src="https://i.discogs.com/IRzEqoIEwWXg2yLUVrl5SoI1ham2kPutYPINfFmArUM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MzMz/MC0xMjg0MjkxOTUy/LmpwZWc.jpeg" alt="Cover for Devdas - An Adaptation Of Sarat Chandra Chattopadhyay&#39;s &quot;Devdas&quot;" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Various Artists</td>
+      <td>Devdas - An Adaptation Of Sarat Chandra Chattopadhyay&#39;s &quot;Devdas&quot;</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
       <td>
       </td>
       <td>2004-02-27</td>
@@ -729,13 +729,13 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 83</li>
-            <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 84</li>
+            <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 16</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 18</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/it3jYkQCRAj4uIzHAxweneMxC1g1KxDiEcpitCr0_oI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwOTk4/MTMtMTQzMzc1NTA1/Mi03OTIwLmpwZWc.jpeg" alt="Cover for Qayamat Se Qayamat Tak" style="max-width:120px; height:auto;" />
       </td>
@@ -753,7 +753,7 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
       </td>
       <td>2004-12</td>
@@ -766,12 +766,29 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 29</li>
+            <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>39</td>
+      <td>
+      </td>
+      <td>2005</td>
+      <td>Himesh Reshammiya</td>
+      <td>Aashiq Banaya Aapne</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e17f93a4b93549e084dd42567cf80f5c.png" alt="Cover for Dark Light In The Wake Of Silence" style="max-width:120px; height:auto;" />
       </td>
@@ -789,24 +806,7 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
       </td>
     </tr>
     <tr>
-      <td>62</td>
-      <td>
-      </td>
-      <td>2005</td>
-      <td>Himesh Reshammiya</td>
-      <td>Aashiq Banaya Aapne</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>60</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/TRFZ4Uxt9KcbdzLQv8l8M2iOoEEGLgXBAVmDpoPSRZk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTYy/MDE1LTE2NDQ4OTI0/MzQtMzIwMi5qcGVn.jpeg" alt="Cover for Yamunashtak" style="max-width:120px; height:auto;" />
       </td>
@@ -824,7 +824,7 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>65</td>
       <td>
       </td>
       <td>2005-06-29</td>
@@ -841,29 +841,7 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
       </td>
     </tr>
     <tr>
-      <td>52</td>
-      <td>
-          <img src="https://i.discogs.com/SJhRsOD9AjKNOrN-Guwi_rb2k6BsU-Vo48nwYo0SZHY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTkx/MjEtMTI3MTQ2OTUy/NC5qcGVn.jpeg" alt="Cover for Lagaan" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2006</td>
-      <td>A.R. Rahman</td>
-      <td>Lagaan</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/desi" | relative_url }}">desi</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 54</li>
-            <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 77</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/bKJ4-eSEKToJwCCyB3oK5Os1_j-pwRZDfr3azBKFKiE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjM0/NjIyLTE2MDg5Nzk5/NjEtNjY2My5qcGVn.jpeg" alt="Cover for swades" style="max-width:120px; height:auto;" />
       </td>
@@ -879,12 +857,34 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 87</li>
+            <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 14</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>49</td>
+      <td>
+          <img src="https://i.discogs.com/SJhRsOD9AjKNOrN-Guwi_rb2k6BsU-Vo48nwYo0SZHY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTkx/MjEtMTI3MTQ2OTUy/NC5qcGVn.jpeg" alt="Cover for Lagaan" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>A.R. Rahman</td>
+      <td>Lagaan</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/desi" | relative_url }}">desi</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 24</li>
+            <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 47</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
       <td>
       </td>
       <td>2006</td>
@@ -901,7 +901,7 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>68</td>
       <td>
       </td>
       <td>2006-07-08</td>
@@ -918,7 +918,7 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
       </td>
       <td>2006-08-31</td>
@@ -935,7 +935,7 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/1nwBI_dGWuf4D8IqbqAkcv-sqHTi0t4cIJPMECAXv4k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTk2/MzU3LTE2Mzg1NTQ2/NDgtNDg1Ny5qcGVn.jpeg" alt="Cover for Murder 3 (Original Motion Picture Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
@@ -953,7 +953,7 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/7YyFIgeiIzEgXtE08QY3b5ztPOO8IvynRIijkqRRlO0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjEx/OTctMTQ3MzQxNjI4/Ny0xMDg2LmpwZWc.jpeg" alt="Cover for Jab Tak Hai Jaan" style="max-width:120px; height:auto;" />
       </td>
@@ -971,7 +971,7 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e5a1d9516f02463b1846ff395797f748.png" alt="Cover for Om Shanti Om" style="max-width:120px; height:auto;" />
       </td>
@@ -986,12 +986,12 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 96</li>
+            <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 5</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
       </td>
       <td>2007-09-21</td>
@@ -1008,25 +1008,7 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
       </td>
     </tr>
     <tr>
-      <td>26</td>
-      <td>
-          <img src="https://i.discogs.com/B08Gcdc4_NIssdvWDcvrEzqaQ_BQrSX4fE19Di4DcK8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTk2/OTgyLTE1NTcyMTA5/MjQtNTYzMy5qcGVn.jpeg" alt="Cover for The Best of A.R. Rahman - Music and Magic from the Composer of Slumdog Millionaire" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2008</td>
-      <td>A.R. Rahman</td>
-      <td>The Best of A.R. Rahman - Music and Magic from the Composer of Slumdog Millionaire</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/96b0c64b47141f94ea759213873f6ef4.png" alt="Cover for Talaash" style="max-width:120px; height:auto;" />
       </td>
@@ -1045,7 +1027,25 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>75</td>
+      <td>
+          <img src="https://i.discogs.com/B08Gcdc4_NIssdvWDcvrEzqaQ_BQrSX4fE19Di4DcK8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTk2/OTgyLTE1NTcyMTA5/MjQtNTYzMy5qcGVn.jpeg" alt="Cover for The Best of A.R. Rahman - Music and Magic from the Composer of Slumdog Millionaire" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>A.R. Rahman</td>
+      <td>The Best of A.R. Rahman - Music and Magic from the Composer of Slumdog Millionaire</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>36</td>
       <td>
       </td>
       <td>2008-06-08</td>
@@ -1059,12 +1059,12 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 68</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
       </td>
       <td>2008-11-06</td>
@@ -1081,7 +1081,7 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/hpCqtEqQcCmX6v8ySszjlu01e8US_OVWje2Pc4L_8qg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTUx/OTY2LTE2ODMwMzE3/NTQtNTM1MC5qcGVn.jpeg" alt="Cover for Srk: King Of Bollywood" style="max-width:120px; height:auto;" />
       </td>
@@ -1099,7 +1099,7 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
       </td>
       <td>2009-01-22</td>
@@ -1114,13 +1114,13 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 73</li>
-            <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 92</li>
+            <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 9</li>
+            <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 27</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/bEOwhS0Hv9Yn1Gqz-qUV_vCCA5Z0O_H6Y33ZH1735D0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjAz/NzA5LTE2MjQxNDE0/NzktOTYwMy5qcGVn.jpeg" alt="Cover for Love Aaj Kal" style="max-width:120px; height:auto;" />
       </td>
@@ -1138,7 +1138,7 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/x2LByFOmZDoZgNq-Y-INSFUhttLjKromSrNSoMNnKcY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MjQw/ODYtMTYzODgzMDIy/Ni03NDI4LmpwZWc.jpeg" alt="Cover for Kaminey" style="max-width:120px; height:auto;" />
       </td>
@@ -1153,12 +1153,12 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 89</li>
+            <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 12</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>66</td>
       <td>
       </td>
       <td>2009-09-07</td>
@@ -1175,7 +1175,7 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
       </td>
       <td>2009-09-10</td>
@@ -1193,13 +1193,13 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 94</li>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 98</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 3</li>
+            <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 7</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>100</td>
       <td>
       </td>
       <td>2009-09-17</td>
@@ -1214,12 +1214,12 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 39</li>
+            <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
       </td>
       <td>2010</td>
@@ -1236,7 +1236,7 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>62</td>
       <td>
       </td>
       <td>2010-10-16</td>
@@ -1250,12 +1250,12 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 65</li>
+            <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 36</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/Cg5snBo9WzGNU2QKa8ChVsHvmuAJUduaFvaxz4hdX8M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzIw/MDItMTI5ODUwMDM2/NC5qcGVn.jpeg" alt="Cover for Глаза богини Дурги" style="max-width:120px; height:auto;" />
       </td>
@@ -1273,7 +1273,7 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/eaD7Y10fNmtxn-ORYCDKtahggQ8MAWPZeuTYuqEvJHM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjUz/NzM1LTE2MDYwNDYx/ODYtNTc5MC5qcGVn.jpeg" alt="Cover for Ijaazat" style="max-width:120px; height:auto;" />
       </td>
@@ -1289,13 +1289,13 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 62</li>
-            <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 71</li>
+            <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 29</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 39</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/voGSbYTBtugcrjLhDQLfjaSVpAquNxNi4E93WQtWwLI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDQz/NjUtMTMwODQ4NTY0/OS5qcGVn.jpeg" alt="Cover for Don 2" style="max-width:120px; height:auto;" />
       </td>
@@ -1313,7 +1313,7 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>94</td>
       <td>
           <img src="https://i.discogs.com/c6BVAEsgGsySZaeKYZLI_sd3c9mogYMJ352BvqzPHIE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDkw/Njc1LTE2MjQyMjUw/MzQtNzQ5OS5qcGVn.jpeg" alt="Cover for Crook" style="max-width:120px; height:auto;" />
       </td>
@@ -1331,7 +1331,7 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
       </td>
       <td>2013-02-12</td>
@@ -1348,7 +1348,7 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b7f5ec84806bcd7f7b766d150c63fdfc.png" alt="Cover for Bang Bang (Original Motion Picture Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
@@ -1367,7 +1367,7 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
       </td>
       <td>2013-04-29</td>
@@ -1384,7 +1384,7 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
       </td>
       <td>2013-05-29</td>
@@ -1401,7 +1401,7 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
       </td>
       <td>2013-07-01</td>
@@ -1418,7 +1418,7 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/213cdfdf37c442dbc21aa1bf2758d7e8.png" alt="Cover for Goliyon Ki Raasleela Ram-leela" style="max-width:120px; height:auto;" />
       </td>
@@ -1437,7 +1437,7 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/_4VpnLhMnJd4ASVN0Vfjvm9VMWrbFyiqJc5fOsf44Sc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODYz/MDctMTQ0MDM3ODM5/MC0yMTEwLmpwZWc.jpeg" alt="Cover for Sick Puppy" style="max-width:120px; height:auto;" />
       </td>
@@ -1463,12 +1463,12 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a> # 80</li>
+            <li> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a> # 20</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>85</td>
       <td>
       </td>
       <td>2014-05-26</td>
@@ -1485,7 +1485,7 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/9O1fGLbRlICeDT4uw8p4WIm0sKjhCOr5Qc6b_xVIU2M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjcw/MDM3LTE2Mzg5MzA2/MDItNzY5OC5qcGVn.jpeg" alt="Cover for Vicky Donor" style="max-width:120px; height:auto;" />
       </td>
@@ -1503,7 +1503,7 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/lsjSkOmPDEMWAD-8ZI_GnRirImzpqpQsQKvOeLc_WRE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODcz/MDE5LTE1NDM2Nzk3/NzktNzMwOS5qcGVn.jpeg" alt="Cover for Jeans" style="max-width:120px; height:auto;" />
       </td>
@@ -1521,7 +1521,7 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/tn6cN7N0Ioe9XzOA-tEr1Q57bwu9L7FtprxZeoD1X5k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI0/ODk5LTE0OTkyMTQ0/MjYtOTY5My5qcGVn.jpeg" alt="Cover for Slumdog Millionaire (Music From the Motion Picture)" style="max-width:120px; height:auto;" />
       </td>
@@ -1538,12 +1538,12 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 52</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c77da00f1cd719737a94e709a9c1f843.png" alt="Cover for Ram-leela (Original Motion Picture Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
@@ -1562,7 +1562,7 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/kr7I349kRe8sEY_FOfymCC-JFj0KWLWJGTizjdTDak8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTkx/Nzg5LTE2MTIwOTE4/NTctMzAzMS5qcGVn.jpeg" alt="Cover for Ekk Deewana Tha (Original Motion Picture Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
@@ -1580,7 +1580,7 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>96</td>
       <td>
           <img src="https://i.discogs.com/EGPxS3VxWG8WiyerlFzO_sre7DVc_Nb_LU3k5E_4QrU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjM1/NjA0LTE3MDI4OTg2/ODMtOTI2My5qcGVn.jpeg" alt="Cover for Khamoshi- The Musical" style="max-width:120px; height:auto;" />
       </td>
@@ -1598,27 +1598,7 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
       </td>
     </tr>
     <tr>
-      <td>64</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/10f4f0692ff61504c29bf5cc417d2b72.png" alt="Cover for Dil Se" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2023-04</td>
-      <td>A.R. Rahman</td>
-      <td>Dil Se</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 77</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/bKJ4-eSEKToJwCCyB3oK5Os1_j-pwRZDfr3azBKFKiE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjM0/NjIyLTE2MDg5Nzk5/NjEtNjY2My5qcGVn.jpeg" alt="Cover for Saathiya" style="max-width:120px; height:auto;" />
       </td>
@@ -1634,13 +1614,33 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 93</li>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 94</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 7</li>
+            <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 8</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>37</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/10f4f0692ff61504c29bf5cc417d2b72.png" alt="Cover for Dil Se" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023-04</td>
+      <td>A.R. Rahman</td>
+      <td>Dil Se</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 23</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/mHx4H-kurks9vT9o4DOFfLtkX5pEIFqNugbUsE4jDy8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTc2/NTE1LTE2OTM5NDI1/NDUtNTYxMi5qcGVn.jpeg" alt="Cover for Jawan" style="max-width:120px; height:auto;" />
       </td>
@@ -1658,7 +1658,7 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/sepi511a0q0IuQSqNEJsfz2CcE07ghnlLf4jGYpIFbw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTAz/MDIyLTE1MjQ0MjYx/NjAtNzI1Mi5wbmc.jpeg" alt="Cover for Raanjhanaa (Original Motion Picture Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
@@ -1676,65 +1676,7 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
       </td>
     </tr>
     <tr>
-      <td>48</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Bhushan Dua</td>
-      <td>Aashiqui</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 69</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>56</td>
-      <td>
-      </td>
-      <td></td>
-      <td>A. R. Rahman</td>
-      <td>Slumdog Millionaire (Music From The Motion Picture)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indian" | relative_url }}">indian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 53</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>59</td>
-      <td>
-      </td>
-      <td></td>
-      <td>OST-Hindi</td>
-      <td>Kal Ho Naa Ho</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 45</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>68</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1843ae79133a4bda99c617e6527e43c5.png" alt="Cover for Slumdog Millionaire Soundtrack" style="max-width:120px; height:auto;" />
       </td>
@@ -1753,17 +1695,17 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 70</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 31</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>42</td>
       <td>
       </td>
       <td></td>
-      <td>Jodha Akbar</td>
-      <td>Jodhaa Akbar</td>
+      <td>OST-Hindi</td>
+      <td>Kal Ho Naa Ho</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a></li>
@@ -1771,16 +1713,57 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>45</td>
+      <td>
+      </td>
+      <td></td>
+      <td>A. R. Rahman</td>
+      <td>Slumdog Millionaire (Music From The Motion Picture)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indian" | relative_url }}">indian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 48</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Bhushan Dua</td>
+      <td>Aashiqui</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 32</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
       <td>
       </td>
       <td></td>
       <td>Various Artists - Saavn</td>
-      <td>Wake Up With Bollywood</td>
+      <td>Saavn Presents: Bollywood Hits 2008</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a></li>
@@ -1792,46 +1775,12 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
       </td>
     </tr>
     <tr>
-      <td>6</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Kabhi Khushi Kabhie Gham</td>
-      <td>Kabhi Khushi Kabhie Gham</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>12</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Sukhwinder Singh &amp; Sapna Awasthi</td>
-      <td>Bombay Dreams</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>22</td>
+      <td>60</td>
       <td>
       </td>
       <td></td>
       <td>OST-Hindi</td>
-      <td>Lakshya</td>
+      <td>Kabhi Khushi Kabhie Gham</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a></li>
@@ -1843,41 +1792,7 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
       </td>
     </tr>
     <tr>
-      <td>23</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Devdas</td>
-      <td>Devdas</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>28</td>
-      <td>
-      </td>
-      <td></td>
-      <td>OST-Hindi</td>
-      <td>Dil Pardesi Ho Gayaa</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>29</td>
+      <td>72</td>
       <td>
       </td>
       <td></td>
@@ -1894,11 +1809,79 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>73</td>
       <td>
       </td>
       <td></td>
       <td>OST-Hindi</td>
+      <td>Dil Pardesi Ho Gayaa</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Devdas</td>
+      <td>Devdas</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>
+      </td>
+      <td></td>
+      <td>OST-Hindi</td>
+      <td>Lakshya</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Sukhwinder Singh &amp; Sapna Awasthi</td>
+      <td>Bombay Dreams</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Kabhi Khushi Kabhie Gham</td>
       <td>Kabhi Khushi Kabhie Gham</td>
       <td>
         <ul>
@@ -1911,12 +1894,29 @@ Bollywood is the vibrant musical style of Indian Hindi-language cinema, blending
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>98</td>
       <td>
       </td>
       <td></td>
       <td>Various Artists - Saavn</td>
-      <td>Saavn Presents: Bollywood Hits 2008</td>
+      <td>Wake Up With Bollywood</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Jodha Akbar</td>
+      <td>Jodhaa Akbar</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a></li>

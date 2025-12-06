@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T01:02:21.306Z
+date: 2025-12-06T06:27:56.151Z
 permalink: tags/epic-black-metal
 title: epic black metal
 ---
 
 ## epic black metal
 
-Last updated: <time datetime="2025-12-04T01:02:21.306Z">Thu Dec 04 2025 03:02:21 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T06:27:56.151Z">Sat Dec 06 2025 08:27:56 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Epic black metal combines the raw aggression and tremolo-picked intensity of bla
   </thead>
   <tbody>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/YUxmBoT5ZlwrbLv25c0rVkTov1HZjrEgtbPuRGFWLPo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTcy/MjktMTI0Mzk1NzE0/MC5qcGVn.jpeg" alt="Cover for Mirkwood" style="max-width:120px; height:auto;" />
       </td>
@@ -50,7 +50,7 @@ Epic black metal combines the raw aggression and tremolo-picked intensity of bla
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/LJiMsTYQrrDEqH_xSTB1ofZT8epKIX_P_My50e5CJFU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNDE2/MDYtMTQxMjEwMzk3/Mi0xNDkyLmpwZWc.jpeg" alt="Cover for Bittersweet Delusions" style="max-width:120px; height:auto;" />
       </td>
@@ -90,7 +90,7 @@ Epic black metal combines the raw aggression and tremolo-picked intensity of bla
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/657863b81484525b06afafa13e974c78.png" alt="Cover for Lugburz" style="max-width:120px; height:auto;" />
       </td>
@@ -128,7 +128,7 @@ Epic black metal combines the raw aggression and tremolo-picked intensity of bla
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8e5ab2176b194f9c9ac91dd70c01de70.png" alt="Cover for Minas Morgul" style="max-width:120px; height:auto;" />
       </td>
@@ -144,7 +144,7 @@ Epic black metal combines the raw aggression and tremolo-picked intensity of bla
       <td>
         <ul>
             <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 13</li>
-            <li> <a href="{{ "/tags/atmospheric-metal" | relative_url }}">atmospheric metal</a> # 59</li>
+            <li> <a href="{{ "/tags/atmospheric-metal" | relative_url }}">atmospheric metal</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -188,7 +188,7 @@ Epic black metal combines the raw aggression and tremolo-picked intensity of bla
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 43</li>
+            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -211,7 +211,7 @@ Epic black metal combines the raw aggression and tremolo-picked intensity of bla
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/dC_6QEXZBN3MdspbgqhwaJt0ZNF_8PeJdh-NTHKDu14/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMzk4/NzMtMTM5MzMxODcy/Ni05MDIyLmpwZWc.jpeg" alt="Cover for Ainulindalë" style="max-width:120px; height:auto;" />
       </td>
@@ -250,7 +250,7 @@ Epic black metal combines the raw aggression and tremolo-picked intensity of bla
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>82</td>
       <td>
       </td>
       <td>1997</td>
@@ -268,7 +268,7 @@ Epic black metal combines the raw aggression and tremolo-picked intensity of bla
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bf67a5cca1cabbccf63b9c6ff5eceb08.png" alt="Cover for Dol Guldur" style="max-width:120px; height:auto;" />
       </td>
@@ -308,7 +308,7 @@ Epic black metal combines the raw aggression and tremolo-picked intensity of bla
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/59HNMmq3MvNvaKWtYC64v2grTRGlHR3oNAj8e1-J6BU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODE5/MTgtMTMwMDcxNjU0/Ni5qcGVn.jpeg" alt="Cover for Niemals Kroenender Als Was Einst War" style="max-width:120px; height:auto;" />
       </td>
@@ -381,7 +381,7 @@ Epic black metal combines the raw aggression and tremolo-picked intensity of bla
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d17e6a4094984fd8884e4549cba7db91.png" alt="Cover for Battle Magic" style="max-width:120px; height:auto;" />
       </td>
@@ -395,7 +395,7 @@ Epic black metal combines the raw aggression and tremolo-picked intensity of bla
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 26</li>
+            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -414,7 +414,7 @@ Epic black metal combines the raw aggression and tremolo-picked intensity of bla
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 53</li>
+            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -458,7 +458,7 @@ Epic black metal combines the raw aggression and tremolo-picked intensity of bla
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/esWaxfnxbCOjmvN9wsJpMVnR6mu3JjBSvRGa_OVaWy4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NzA0/MS0xMzUyMzk2NDc4/LTkzMzcuanBlZw.jpeg" alt="Cover for King Of The Dragonthrone" style="max-width:120px; height:auto;" />
       </td>
@@ -514,7 +514,7 @@ Epic black metal combines the raw aggression and tremolo-picked intensity of bla
       <td>
         <ul>
             <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 33</li>
-            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 37</li>
+            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -571,8 +571,8 @@ Epic black metal combines the raw aggression and tremolo-picked intensity of bla
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 8</li>
             <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 43</li>
-            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -611,14 +611,14 @@ Epic black metal combines the raw aggression and tremolo-picked intensity of bla
       <td>
         <ul>
             <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 25</li>
+            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 26</li>
             <li> <a href="{{ "/tags/tolkien" | relative_url }}">tolkien</a> # 43</li>
-            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 75</li>
             <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/shvi50LkzjhXjV7OzUpWJCiDXL0kf6lWdum1xREgWYw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2OTc1/NC0xMTU2OTQwMTY3/LmpwZWc.jpeg" alt="Cover for At The Gates Of Utopia" style="max-width:120px; height:auto;" />
       </td>
@@ -633,13 +633,13 @@ Epic black metal combines the raw aggression and tremolo-picked intensity of bla
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 2</li>
             <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 37</li>
+            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>81</td>
       <td>
       </td>
       <td>2002</td>
@@ -656,7 +656,7 @@ Epic black metal combines the raw aggression and tremolo-picked intensity of bla
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/Jz52VAIyZ6BkzLYK8AargSbh2Nknx7hUpO1Lfdng9Wg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDk4/NTQtMTQ1NDg4MDY3/Mi0xMTUwLmpwZWc.jpeg" alt="Cover for The End of The Dark Ages" style="max-width:120px; height:auto;" />
       </td>
@@ -693,7 +693,7 @@ Epic black metal combines the raw aggression and tremolo-picked intensity of bla
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
       </td>
       <td>2002-07-23</td>
@@ -783,7 +783,7 @@ Epic black metal combines the raw aggression and tremolo-picked intensity of bla
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dungeon-synth" | relative_url }}">dungeon synth</a> # 25</li>
+            <li> <a href="{{ "/tags/dungeon-synth" | relative_url }}">dungeon synth</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -864,7 +864,7 @@ Epic black metal combines the raw aggression and tremolo-picked intensity of bla
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3baf4fd7e3634250b4f05bf1256634f6.png" alt="Cover for The Gorgon Cult" style="max-width:120px; height:auto;" />
       </td>
@@ -878,8 +878,8 @@ Epic black metal combines the raw aggression and tremolo-picked intensity of bla
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 4</li>
             <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 82</li>
+            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -955,8 +955,8 @@ Epic black metal combines the raw aggression and tremolo-picked intensity of bla
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 18</li>
             <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 58</li>
-            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -977,7 +977,7 @@ Epic black metal combines the raw aggression and tremolo-picked intensity of bla
       <td>
         <ul>
             <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 5</li>
-            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 42</li>
+            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 58</li>
             <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 79</li>
         </ul>
       </td>
@@ -1022,7 +1022,7 @@ Epic black metal combines the raw aggression and tremolo-picked intensity of bla
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
       </td>
       <td>2007-01-23</td>
@@ -1035,7 +1035,7 @@ Epic black metal combines the raw aggression and tremolo-picked intensity of bla
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 58</li>
+            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1119,7 +1119,7 @@ Epic black metal combines the raw aggression and tremolo-picked intensity of bla
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/NTnFci1yVZjz8VS5dFVGJTArRvUeoOBZsJGS5XRl6Gc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzU5/MzEtMTIwMjcyMTc3/NC5qcGVn.jpeg" alt="Cover for Herald Of Doom" style="max-width:120px; height:auto;" />
       </td>
@@ -1191,7 +1191,7 @@ Epic black metal combines the raw aggression and tremolo-picked intensity of bla
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 85</li>
+            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1221,7 +1221,7 @@ Epic black metal combines the raw aggression and tremolo-picked intensity of bla
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>90</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4d15942b92ee4362a04b1802c5ff9ffe.png" alt="Cover for Голос Сталі" style="max-width:120px; height:auto;" />
       </td>
@@ -1258,7 +1258,7 @@ Epic black metal combines the raw aggression and tremolo-picked intensity of bla
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
       </td>
       <td>2011-03-01</td>
@@ -1316,7 +1316,7 @@ Epic black metal combines the raw aggression and tremolo-picked intensity of bla
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cebb99d6b550ea90360140267735125f.png" alt="Cover for To Our Glorious Dead" style="max-width:120px; height:auto;" />
       </td>
@@ -1345,7 +1345,7 @@ Epic black metal combines the raw aggression and tremolo-picked intensity of bla
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/MTqiEbIPqbpaHwdexJJGU8WSiWVAN1O7OkXB3LlmAZQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMDAx/MDEtMTM1ODM1MDIy/OS0xOTY4LmpwZWc.jpeg" alt="Cover for Insularum" style="max-width:120px; height:auto;" />
       </td>
@@ -1363,12 +1363,12 @@ Epic black metal combines the raw aggression and tremolo-picked intensity of bla
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dungeon-synth" | relative_url }}">dungeon synth</a> # 26</li>
+            <li> <a href="{{ "/tags/dungeon-synth" | relative_url }}">dungeon synth</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
       </td>
       <td>2013-02-07</td>
@@ -1406,7 +1406,7 @@ Epic black metal combines the raw aggression and tremolo-picked intensity of bla
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/GRkwh_7AGE26S1xvbc0Fc7FpcsrwKsqX8iLE2L6FTkY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNjI0/NDAtMTUyNDY1Njg4/MC0xMDIzLmpwZWc.jpeg" alt="Cover for The Prophecy of the North" style="max-width:120px; height:auto;" />
       </td>
@@ -1499,12 +1499,12 @@ Epic black metal combines the raw aggression and tremolo-picked intensity of bla
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 79</li>
+            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 22</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/vHHHh0xcVwsbMqD8F0cowuoga3dP5L5Uo1zbnwbngIg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MTMx/MzUtMTQyNTE1MDM3/OC05Mjc2LmpwZWc.jpeg" alt="Cover for Hjørungavågr" style="max-width:120px; height:auto;" />
       </td>
@@ -1524,7 +1524,7 @@ Epic black metal combines the raw aggression and tremolo-picked intensity of bla
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/EbCuJIVz-gXJGt-HoKxjIB7MU0wgIjRe-E179DWuQP8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMzcy/NjEtMTQ1NzcxMzE3/OS03ODYwLmpwZWc.jpeg" alt="Cover for As Nightwind Embraced And The Shadows Caressed" style="max-width:120px; height:auto;" />
       </td>
@@ -1562,7 +1562,7 @@ Epic black metal combines the raw aggression and tremolo-picked intensity of bla
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/national-socialist" | relative_url }}">national socialist</a> # 57</li>
+            <li> <a href="{{ "/tags/national-socialist" | relative_url }}">national socialist</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1686,7 +1686,7 @@ Epic black metal combines the raw aggression and tremolo-picked intensity of bla
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/4i-hWfwxGkRkAF2XyNivnqlBmSmH0tVHgUFn18pGuZk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTk3/MDA1LTE1NDYxMzQ5/NTktODE3My5wbmc.jpeg" alt="Cover for Songs of Mourning" style="max-width:120px; height:auto;" />
       </td>
@@ -1728,7 +1728,7 @@ Epic black metal combines the raw aggression and tremolo-picked intensity of bla
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/4DOuwCXVvtHKzKeZ4bTXYnzDVVL6Jx6EoAqYkm1_qQA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzYx/Njc3LTE1NTEwOTQ5/OTYtNTc3My5qcGVn.jpeg" alt="Cover for With Doom We Come" style="max-width:120px; height:auto;" />
       </td>
@@ -1768,7 +1768,7 @@ Epic black metal combines the raw aggression and tremolo-picked intensity of bla
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-black-metal" | relative_url }}">ambient black metal</a> # 21</li>
+            <li> <a href="{{ "/tags/ambient-black-metal" | relative_url }}">ambient black metal</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1832,7 +1832,7 @@ Epic black metal combines the raw aggression and tremolo-picked intensity of bla
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-black-metal" | relative_url }}">french black metal</a> # 72</li>
+            <li> <a href="{{ "/tags/french-black-metal" | relative_url }}">french black metal</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1859,7 +1859,7 @@ Epic black metal combines the raw aggression and tremolo-picked intensity of bla
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/cdndYvzV3rfHxeBXq95_vxmKnLparHCEsXNDNK1Bl7A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODIy/MjU5LTE1OTg0NDE4/MzktMTA3My5qcGVn.jpeg" alt="Cover for The Crownless" style="max-width:120px; height:auto;" />
       </td>
@@ -1902,7 +1902,7 @@ Epic black metal combines the raw aggression and tremolo-picked intensity of bla
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/e_aAqBIGn0LNi7b5-Utm0r153UCf3c2crcz_XBGSP6Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTg5/MDg5LTE2MDE0NjE3/NDEtNzE1OC5qcGVn.jpeg" alt="Cover for Roaring Eye" style="max-width:120px; height:auto;" />
       </td>
@@ -1924,12 +1924,12 @@ Epic black metal combines the raw aggression and tremolo-picked intensity of bla
       <td>
         <ul>
             <li> <a href="{{ "/tags/italian-black-metal" | relative_url }}">italian black metal</a> # 10</li>
-            <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 58</li>
+            <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/J9rGt7TQDzkkDx75X862wjNMLouPzyhhiIAVeBJeAaI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTQ2/NTMzLTE2MDQyMjk0/NjQtNTcyMi5qcGVn.jpeg" alt="Cover for Un Monde de Glace et de Sang" style="max-width:120px; height:auto;" />
       </td>
@@ -1984,12 +1984,12 @@ Epic black metal combines the raw aggression and tremolo-picked intensity of bla
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-black-metal" | relative_url }}">french black metal</a> # 6</li>
+            <li> <a href="{{ "/tags/french-black-metal" | relative_url }}">french black metal</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/tQqw5EDhqOp0i4RuGO-JYmF_8MSQ3mECajKqLxmBxMc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjAy/NDM3LTE2NDc5NTM2/MDgtMzcxNC5qcGVn.jpeg" alt="Cover for T.S.N.R.I. - IMPERMANENZA" style="max-width:120px; height:auto;" />
       </td>

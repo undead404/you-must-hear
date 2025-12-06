@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T00:55:49.836Z
+date: 2025-12-06T06:18:46.816Z
 permalink: tags/ndw
 title: ndw
 ---
 
 ## ndw
 
-Last updated: <time datetime="2025-12-04T00:55:49.836Z">Thu Dec 04 2025 02:55:49 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T06:18:46.816Z">Sat Dec 06 2025 08:18:46 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -1154,15 +1154,15 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 12</li>
             <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 22</li>
-            <li> <a href="{{ "/tags/czech" | relative_url }}">czech</a> # 40</li>
-            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 56</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 58</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 25</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 32</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 43</li>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 45</li>
+            <li> <a href="{{ "/tags/czech" | relative_url }}">czech</a> # 60</li>
             <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 66</li>
             <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 68</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 69</li>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 76</li>
+            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1282,8 +1282,8 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a> # 21</li>
             <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 76</li>
-            <li> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1329,16 +1329,16 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
         <ul>
             <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 6</li>
             <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 17</li>
-            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 27</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 19</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 24</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 28</li>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 38</li>
+            <li> <a href="{{ "/tags/czech" | relative_url }}">czech</a> # 42</li>
             <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 43</li>
+            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 44</li>
             <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 51</li>
-            <li> <a href="{{ "/tags/czech" | relative_url }}">czech</a> # 57</li>
-            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 57</li>
-            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 62</li>
             <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 69</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 73</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 77</li>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 82</li>
+            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1420,7 +1420,7 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dada" | relative_url }}">dada</a> # 73</li>
+            <li> <a href="{{ "/tags/dada" | relative_url }}">dada</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1496,16 +1496,16 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       <td>
         <ul>
             <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 9</li>
-            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 15</li>
+            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 13</li>
             <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 20</li>
             <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 21</li>
-            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 37</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 24</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 30</li>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 43</li>
             <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 46</li>
-            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 58</li>
             <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 63</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 71</li>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 77</li>
-            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 88</li>
+            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 64</li>
+            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 86</li>
             <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 96</li>
         </ul>
       </td>
@@ -1607,15 +1607,15 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/czech" | relative_url }}">czech</a> # 5</li>
-            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 6</li>
             <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 14</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 29</li>
             <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 34</li>
-            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 36</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 52</li>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 61</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 40</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 49</li>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 64</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 72</li>
             <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 91</li>
+            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 95</li>
+            <li> <a href="{{ "/tags/czech" | relative_url }}">czech</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1659,11 +1659,11 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 13</li>
             <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 30</li>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 39</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 62</li>
             <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 71</li>
             <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 84</li>
+            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -2048,9 +2048,9 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 9</li>
+            <li> <a href="{{ "/tags/punk-pop" | relative_url }}">punk pop</a> # 15</li>
             <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 43</li>
-            <li> <a href="{{ "/tags/punk-pop" | relative_url }}">punk pop</a> # 86</li>
-            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -2077,7 +2077,7 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/punk-pop" | relative_url }}">punk pop</a> # 54</li>
+            <li> <a href="{{ "/tags/punk-pop" | relative_url }}">punk pop</a> # 45</li>
             <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 68</li>
         </ul>
       </td>
@@ -2181,10 +2181,10 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       <td>
         <ul>
             <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 25</li>
-            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 27</li>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 46</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 55</li>
             <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 63</li>
             <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 70</li>
+            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 74</li>
             <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 93</li>
         </ul>
       </td>

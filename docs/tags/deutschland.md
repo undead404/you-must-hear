@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T01:41:33.199Z
+date: 2025-12-06T06:31:58.399Z
 permalink: tags/deutschland
 title: deutschland
 ---
 
 ## deutschland
 
-Last updated: <time datetime="2025-12-04T01:41:33.199Z">Thu Dec 04 2025 03:41:33 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T06:31:58.399Z">Sat Dec 06 2025 08:31:58 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
   </thead>
   <tbody>
     <tr>
-      <td>33</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for Old Swedish Organs" style="max-width:120px; height:auto;" />
       </td>
@@ -44,12 +44,12 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pipe-organ" | relative_url }}">pipe organ</a> # 74</li>
+            <li> <a href="{{ "/tags/pipe-organ" | relative_url }}">pipe organ</a> # 27</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/effaf971e4e344a2a0e49e0643f07f11.png" alt="Cover for Asia Lounge" style="max-width:120px; height:auto;" />
       </td>
@@ -73,7 +73,7 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4f440f6a7a7144fd8a2540d273802a06.png" alt="Cover for Going Deaf for a Living" style="max-width:120px; height:auto;" />
       </td>
@@ -93,7 +93,7 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>95</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1973f9b0f4534330c280b04ecfdb6ade.png" alt="Cover for Red Skies Over Paradise" style="max-width:120px; height:auto;" />
       </td>
@@ -111,7 +111,7 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f4e6b606c0f1a3674730d0dbef1e7007.png" alt="Cover for Musik Aus Der Grauzone" style="max-width:120px; height:auto;" />
       </td>
@@ -137,14 +137,14 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 48</li>
+            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 35</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 53</li>
             <li> <a href="{{ "/tags/hamburg" | relative_url }}">hamburg</a> # 58</li>
-            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/wQvHMnR37vFG4bdD8AXqAApS7gQbQxk505yK9tTYM9I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTQ4/NjAtMTUyMTYzMzY2/Ny00MzkyLmpwZWc.jpeg" alt="Cover for Some Dark Impressions" style="max-width:120px; height:auto;" />
       </td>
@@ -163,7 +163,7 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a2b268281982335d761a2e3506bd45cb.png" alt="Cover for Bleib tapfer" style="max-width:120px; height:auto;" />
       </td>
@@ -185,7 +185,7 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/shZ0TVpjMfra_VOX1y1e7CLBJrzubYP4u4aiJgP2tVQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4Njc2/NjUtMTY0ODY0NjQ0/NS0xMjI5LmpwZWc.jpeg" alt="Cover for Helden sterben einsam" style="max-width:120px; height:auto;" />
       </td>
@@ -208,13 +208,30 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/national-socialist" | relative_url }}">national socialist</a> # 59</li>
-            <li> <a href="{{ "/tags/rechtsrock" | relative_url }}">rechtsrock</a> # 65</li>
+            <li> <a href="{{ "/tags/rechtsrock" | relative_url }}">rechtsrock</a> # 36</li>
+            <li> <a href="{{ "/tags/national-socialist" | relative_url }}">national socialist</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>43</td>
+      <td>
+      </td>
+      <td>1994</td>
+      <td>Paddy Goes to Holyhead</td>
+      <td>Ready for Paddy?</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
       <td>
       </td>
       <td>1994</td>
@@ -233,24 +250,7 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
     </tr>
     <tr>
-      <td>58</td>
-      <td>
-      </td>
-      <td>1994</td>
-      <td>Paddy Goes to Holyhead</td>
-      <td>Ready for Paddy?</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>37</td>
+      <td>64</td>
       <td>
       </td>
       <td>1995</td>
@@ -268,12 +268,12 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/kabarett" | relative_url }}">kabarett</a> # 65</li>
+            <li> <a href="{{ "/tags/kabarett" | relative_url }}">kabarett</a> # 36</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/26200775ee22b4c8807dda514e84219a.png" alt="Cover for The Best" style="max-width:120px; height:auto;" />
       </td>
@@ -294,7 +294,7 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee9e2508c733291fb81c3337c3ac5b21.png" alt="Cover for Posen" style="max-width:120px; height:auto;" />
       </td>
@@ -312,7 +312,7 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/01007d11e50c4e50b57af7e66686b3af.png" alt="Cover for Anfang Anzufangen EP" style="max-width:120px; height:auto;" />
       </td>
@@ -331,7 +331,7 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>96</td>
       <td>
       </td>
       <td>1998</td>
@@ -353,13 +353,31 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/national-socialist" | relative_url }}">national socialist</a> # 56</li>
-            <li> <a href="{{ "/tags/rechtsrock" | relative_url }}">rechtsrock</a> # 59</li>
+            <li> <a href="{{ "/tags/rechtsrock" | relative_url }}">rechtsrock</a> # 42</li>
+            <li> <a href="{{ "/tags/national-socialist" | relative_url }}">national socialist</a> # 45</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>93</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/06faeed517e64965c93f429a7914b47b.png" alt="Cover for The Best of" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>Nick Cave and the Bad Seeds</td>
+      <td>The Best of</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a447b2778d043cfaf3d9acc81ffa8a2.png" alt="Cover for porno" style="max-width:120px; height:auto;" />
       </td>
@@ -379,25 +397,7 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
     </tr>
     <tr>
-      <td>7</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/06faeed517e64965c93f429a7914b47b.png" alt="Cover for The Best of" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1998</td>
-      <td>Nick Cave and the Bad Seeds</td>
-      <td>The Best of</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
       </td>
       <td>1998-12-07</td>
@@ -417,7 +417,7 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/16Ou1BtGrB5KBh7bdus1446ewk2wM1ochSjIG9boEnI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Mjc4/NDUtMTUzNzQ3MjM0/MC00MjAwLmpwZWc.jpeg" alt="Cover for Welcome to Busterland" style="max-width:120px; height:auto;" />
       </td>
@@ -436,7 +436,7 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a5eccce417547ded175c9e68e91913e7.png" alt="Cover for ICE LOUNGE" style="max-width:120px; height:auto;" />
       </td>
@@ -454,24 +454,7 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
     </tr>
     <tr>
-      <td>78</td>
-      <td>
-      </td>
-      <td>2001</td>
-      <td>Johann Köhnich</td>
-      <td>...liest, singt und macht.</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/kabarett" | relative_url }}">kabarett</a> # 92</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/69fda3771cfa51ad7560e1118ac43aa6.png" alt="Cover for Deutschland" style="max-width:120px; height:auto;" />
       </td>
@@ -488,12 +471,28 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       <td>
         <ul>
             <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 95</li>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>23</td>
+      <td>
+      </td>
+      <td>2001</td>
+      <td>Johann Köhnich</td>
+      <td>...liest, singt und macht.</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/kabarett" | relative_url }}">kabarett</a> # 9</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
       <td>
       </td>
       <td>2001-06</td>
@@ -512,7 +511,7 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/29e8d4c3d0554ae7b6c517e438b4767a.png" alt="Cover for Pole Navigation" style="max-width:120px; height:auto;" />
       </td>
@@ -530,7 +529,7 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5161d4bb9dad4a66b980768616c892bb.png" alt="Cover for No Compromise" style="max-width:120px; height:auto;" />
       </td>
@@ -551,7 +550,7 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>89</td>
       <td>
       </td>
       <td>2004</td>
@@ -571,12 +570,30 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/national-socialist" | relative_url }}">national socialist</a> # 61</li>
+            <li> <a href="{{ "/tags/national-socialist" | relative_url }}">national socialist</a> # 40</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>8</td>
+      <td>
+          <img src="https://i.discogs.com/XeJUAlRydZZ6JlSt3E1ff1_X2Zlq8n0BHp_Qc9XKlbs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjk5/OTYtMTIxOTEzNTM5/My5qcGVn.jpeg" alt="Cover for Das 5te Element" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Mellow Mark</td>
+      <td>Das 5te Element</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/rxaFNtEMJnAPGomNlVjm9i3_JTr3B4joJQDELaj3UKQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwOTgy/NS0xMjczMzI3NzYw/LmpwZWc.jpeg" alt="Cover for Paris Can&#39;t Wait" style="max-width:120px; height:auto;" />
       </td>
@@ -596,25 +613,7 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
     </tr>
     <tr>
-      <td>93</td>
-      <td>
-          <img src="https://i.discogs.com/XeJUAlRydZZ6JlSt3E1ff1_X2Zlq8n0BHp_Qc9XKlbs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjk5/OTYtMTIxOTEzNTM5/My5qcGVn.jpeg" alt="Cover for Das 5te Element" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2004</td>
-      <td>Mellow Mark</td>
-      <td>Das 5te Element</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/46fd938ab1db48bea16dfee7025e73ff.png" alt="Cover for Ecoustic" style="max-width:120px; height:auto;" />
       </td>
@@ -638,7 +637,7 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/WOJOpoa-jIIUiuW3w7YwDNky_QF_cLz8SB-ds2W3VN4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1MjQ0/My0xMTc2NzE2MDQ5/LmpwZWc.jpeg" alt="Cover for Bantu" style="max-width:120px; height:auto;" />
       </td>
@@ -653,12 +652,12 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nigeria" | relative_url }}">nigeria</a> # 68</li>
+            <li> <a href="{{ "/tags/nigeria" | relative_url }}">nigeria</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
       </td>
       <td>2004-11-22</td>
@@ -678,7 +677,7 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/jDSO2yLUCCdg_P0aBYNRrA4U5glKmI3UblnRZ2wEntY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5OTMz/My0xMjE2Mjc3OTk5/LmpwZWc.jpeg" alt="Cover for Sunrider" style="max-width:120px; height:auto;" />
       </td>
@@ -699,7 +698,7 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c3a7c3b0788c97187e1e5100cc81e485.png" alt="Cover for Bohomasys Ep LC 13360" style="max-width:120px; height:auto;" />
       </td>
@@ -721,26 +720,7 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
     </tr>
     <tr>
-      <td>27</td>
-      <td>
-          <img src="https://i.discogs.com/1rFjBSoSSynQG89uC6X7Ic3chq0u_KIVBogA5bdwYrQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDAy/OTEtMTMyNDY2MDkz/MS5qcGVn.jpeg" alt="Cover for Around And About" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2005</td>
-      <td>Climatic</td>
-      <td>Around And About</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/germany" | relative_url }}">germany</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>36</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c9a1ad7c14df85de1a63cc925e9463b0.png" alt="Cover for EINSTEIN Compilation 2005" style="max-width:120px; height:auto;" />
       </td>
@@ -761,7 +741,26 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>73</td>
+      <td>
+          <img src="https://i.discogs.com/1rFjBSoSSynQG89uC6X7Ic3chq0u_KIVBogA5bdwYrQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDAy/OTEtMTMyNDY2MDkz/MS5qcGVn.jpeg" alt="Cover for Around And About" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>Climatic</td>
+      <td>Around And About</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/germany" | relative_url }}">germany</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/nv-Poys7SYooLBnhFnPfOox4r2hKBCm6pWIHX-dd-hM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNjEy/OC0xMTExNzg0ODI4/LmpwZw.jpeg" alt="Cover for Hidden Shore" style="max-width:120px; height:auto;" />
       </td>
@@ -781,7 +780,7 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/VMTfbcpFdYYVvPhdCECnA-spOLBClrb7jXBvqgictoo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDA0/NjUtMTI3MTE5NzYy/Ny5qcGVn.jpeg" alt="Cover for Highlights 1979-2004" style="max-width:120px; height:auto;" />
       </td>
@@ -800,7 +799,7 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/O--wguLQPzl-FzFrsRDdv_oRQhsnYvTlV4cAhQWyPmE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4OTU2/NDgtMTM4NDYwNTEy/Ny00NTcyLmpwZWc.jpeg" alt="Cover for Diva Int." style="max-width:120px; height:auto;" />
       </td>
@@ -821,13 +820,13 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 25</li>
             <li> <a href="{{ "/tags/hamburg" | relative_url }}">hamburg</a> # 25</li>
-            <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>75</td>
       <td>
       </td>
       <td>2006-02-17</td>
@@ -847,7 +846,7 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>82</td>
       <td>
       </td>
       <td>2006-05-12</td>
@@ -867,7 +866,7 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4619d2e10d8e49a3c92332734a8bcd4c.png" alt="Cover for My Heaven" style="max-width:120px; height:auto;" />
       </td>
@@ -890,7 +889,7 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/STPLlevZiBdc8iBKmf8tQuXT15XkIbXVv1RGxNhuhwU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzI2/NTAtMTI2NjY5OTAx/Ny5qcGVn.jpeg" alt="Cover for Licht &amp; Schatten" style="max-width:120px; height:auto;" />
       </td>
@@ -908,7 +907,28 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>14</td>
+      <td>
+      </td>
+      <td>2007</td>
+      <td>Miss Platnum</td>
+      <td>Give Me The Food</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/romania" | relative_url }}">romania</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/romania" | relative_url }}">romania</a> # 7</li>
+            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 40</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
       <td>
       </td>
       <td>2007</td>
@@ -930,28 +950,25 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>18</td>
       <td>
       </td>
       <td>2007</td>
-      <td>Miss Platnum</td>
-      <td>Give Me The Food</td>
+      <td>Jamaram</td>
+      <td>Ookuchaka!</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/romania" | relative_url }}">romania</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roots-reggae" | relative_url }}">roots reggae</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 40</li>
-            <li> <a href="{{ "/tags/romania" | relative_url }}">romania</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>57</td>
       <td>
       </td>
       <td>2007</td>
@@ -972,25 +989,7 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
     </tr>
     <tr>
-      <td>83</td>
-      <td>
-      </td>
-      <td>2007</td>
-      <td>Jamaram</td>
-      <td>Ookuchaka!</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roots-reggae" | relative_url }}">roots reggae</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f81d7e58e92254dd16a7f746f4ee37ac.png" alt="Cover for Ready For Take Off" style="max-width:120px; height:auto;" />
       </td>
@@ -1012,7 +1011,7 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/0fhpnH5Qhgf-oY2sHNXfH9aUHNRPT2HyCz_ZX_mipYw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjQ0/MTUtMTY4NzI4ODM4/Mi01NjAzLmpwZWc.jpeg" alt="Cover for Acts Of Contemporary Violence" style="max-width:120px; height:auto;" />
       </td>
@@ -1037,7 +1036,7 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
       </td>
       <td>2007-04-27</td>
@@ -1059,7 +1058,7 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>58</td>
       <td>
       </td>
       <td>2007-08-23</td>
@@ -1079,7 +1078,7 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b28c7031433f4dd69298322af1fc8684.png" alt="Cover for Genuine Horizon" style="max-width:120px; height:auto;" />
       </td>
@@ -1102,7 +1101,7 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad7e59c4b3c944c38973d59c057daac3.png" alt="Cover for Genuine Horizon Remixes" style="max-width:120px; height:auto;" />
       </td>
@@ -1127,7 +1126,7 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/iDCresaEmvkdlxu6XQwX5ALtAnXATzClZ7AaNOp6wWc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MTM5/ODgtMTQ0MzA0MDY0/My0yMDg1LmpwZWc.jpeg" alt="Cover for Rhythms Del Mundo feat. Reamonn - Tonight" style="max-width:120px; height:auto;" />
       </td>
@@ -1146,7 +1145,7 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
       </td>
       <td>2008-01-18</td>
@@ -1165,7 +1164,7 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4edf4459b6b343f5db4ad8920623ca4b.png" alt="Cover for Why Not?" style="max-width:120px; height:auto;" />
       </td>
@@ -1184,7 +1183,7 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/df5dac63a6213dae6a80669826fa2f01.png" alt="Cover for Frieden im Krieg EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1204,7 +1203,7 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/zo1UkhdTUj8dXABGLzStKr4uGu9Z2oxvXg_y3f29vSg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTEy/NDItMTM2MTA5ODA3/My02MTY4LmpwZWc.jpeg" alt="Cover for Remember" style="max-width:120px; height:auto;" />
       </td>
@@ -1225,7 +1224,27 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>45</td>
+      <td>
+      </td>
+      <td>2009</td>
+      <td>Hyios</td>
+      <td>Consuetudines</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/germany" | relative_url }}">germany</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg" alt="Cover for Discovering Jens Buchert (compiled and mixed by Side Liner)" style="max-width:120px; height:auto;" />
       </td>
@@ -1249,27 +1268,7 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
     </tr>
     <tr>
-      <td>56</td>
-      <td>
-      </td>
-      <td>2009</td>
-      <td>Hyios</td>
-      <td>Consuetudines</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/germany" | relative_url }}">germany</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
       </td>
       <td>2009-01-16</td>
@@ -1288,7 +1287,7 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>98</td>
       <td>
       </td>
       <td>2009-02-06</td>
@@ -1308,7 +1307,7 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/efa714aea0ca4f5b8948bc00b5343f40.png" alt="Cover for Relax Edition Four" style="max-width:120px; height:auto;" />
       </td>
@@ -1332,7 +1331,7 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/86ed6a5a39717dfc5e7ad00943874b40.png" alt="Cover for Der Film" style="max-width:120px; height:auto;" />
       </td>
@@ -1354,7 +1353,7 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>54</td>
       <td>
       </td>
       <td>2009-08-28</td>
@@ -1369,12 +1368,12 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romania" | relative_url }}">romania</a> # 76</li>
+            <li> <a href="{{ "/tags/romania" | relative_url }}">romania</a> # 25</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
       </td>
       <td>2009-09-11</td>
@@ -1388,12 +1387,12 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 88</li>
+            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 12</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/74tkgH17sSjjkwd_ByuMENTg6nBiS4SKC2ufR2967u0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzQ2/MDQ5LTE2MzQwMzc4/MTgtNDMwMC5qcGVn.jpeg" alt="Cover for Honestly" style="max-width:120px; height:auto;" />
       </td>
@@ -1412,7 +1411,7 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/hgZadne6EDaPAEmCiwpo94H00IQbnk3IjJesybhHxqI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODc5/NjgtMTI2MzMwMDgy/NC5qcGVn.jpeg" alt="Cover for La Formacion" style="max-width:120px; height:auto;" />
       </td>
@@ -1433,7 +1432,7 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>66</td>
       <td>
       </td>
       <td>2010-01-15</td>
@@ -1453,7 +1452,7 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/789420ee071a874ace3833385f9fecb4.png" alt="Cover for Schall und Wahn" style="max-width:120px; height:auto;" />
       </td>
@@ -1471,7 +1470,7 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/iwwsFFevoSw3qDDhH8hqIeQywAK-SrxlH-BvfjgVxYc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTA1/MzAtMTQxNjc2NDM1/Ni04NzY4LmpwZWc.jpeg" alt="Cover for Precious" style="max-width:120px; height:auto;" />
       </td>
@@ -1492,17 +1491,17 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 1</li>
+            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 4</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 5</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 6</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 7</li>
             <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 12</li>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 95</li>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 96</li>
-            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 97</li>
-            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/5_znKjzw_CZ9fmTPlt7hfaEA4WPo5Mo-onhd-IKFPHU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzg1/NjI0LTE0OTY0MjY4/MTEtNjI1OS5qcGVn.jpeg" alt="Cover for Essential Vol 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1523,7 +1522,7 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>59</td>
       <td>
       </td>
       <td>2010-03-26</td>
@@ -1541,7 +1540,7 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
       </td>
       <td>2010-07-02</td>
@@ -1562,7 +1561,7 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/ocJwHUWW5en5vXSe-frYm8xpdvtj2Z1KtZ-WycR5rZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjUz/NzQtMTMzNTUwNjQ3/OC5qcGVn.jpeg" alt="Cover for Countdown Grand Prix Eurovision 2000" style="max-width:120px; height:auto;" />
       </td>
@@ -1581,7 +1580,7 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>99</td>
       <td>
           <img src="https://i.discogs.com/n5ODfv-5buMTm3kHXH8oNK7_yGkIVKOTeZYNnvN6ZH8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNDkx/MTAtMTMyNjgzNjAx/My5qcGVn.jpeg" alt="Cover for The Haunting" style="max-width:120px; height:auto;" />
       </td>
@@ -1601,13 +1600,13 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/national-socialist" | relative_url }}">national socialist</a> # 54</li>
+            <li> <a href="{{ "/tags/national-socialist" | relative_url }}">national socialist</a> # 47</li>
             <li> <a href="{{ "/tags/german-metal" | relative_url }}">german metal</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/FvqlSpi4gXlMi9RsqBL5LCIu0zC42udyfnZ21oM2rMw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MzQ5/NTgtMTQyNTU2ODgy/OS03ODk4LmpwZWc.jpeg" alt="Cover for Schwebezustand" style="max-width:120px; height:auto;" />
       </td>
@@ -1628,7 +1627,7 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>46</td>
       <td>
       </td>
       <td>2011-06-03</td>
@@ -1647,7 +1646,7 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
       </td>
       <td>2011-12-02</td>
@@ -1668,7 +1667,7 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
       </td>
       <td>2012-12-20</td>
@@ -1689,7 +1688,7 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/cIXXceAYf2jyWGOADPERoTsmXEd400dTvuEpbV9tB_4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNzk4/NzAtMTM4MzkzOTU5/NS0xOTMxLmpwZWc.jpeg" alt="Cover for Metall Maschinen Musik" style="max-width:120px; height:auto;" />
       </td>
@@ -1711,7 +1710,7 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>94</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d3f8e11608a1394628059d1117d40559.png" alt="Cover for The King Will Die" style="max-width:120px; height:auto;" />
       </td>
@@ -1732,7 +1731,7 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/wGTGJvQr6ErNKoYKNeAa7vZOwXZa13zVzwo-t8SGoXI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODc4/OS0xMzAzODkyNDE5/LmpwZWc.jpeg" alt="Cover for Paris" style="max-width:120px; height:auto;" />
       </td>
@@ -1753,7 +1752,27 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>33</td>
+      <td>
+          <img src="https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg" alt="Cover for Bravo The Hits 2006 - Swiss Edition" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023</td>
+      <td>Various Artists</td>
+      <td>Bravo The Hits 2006 - Swiss Edition</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/GI1kawXX_WImQLdkh351zrlXYhSMY8MnnPYNkcrhhIU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDIw/Ny0xMTY1MjQ0MjIy/LmpwZWc.jpeg" alt="Cover for Diamonds &amp; Pearls Lounge" style="max-width:120px; height:auto;" />
       </td>
@@ -1777,27 +1796,7 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
     </tr>
     <tr>
-      <td>68</td>
-      <td>
-          <img src="https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg" alt="Cover for Bravo The Hits 2006 - Swiss Edition" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2023</td>
-      <td>Various Artists</td>
-      <td>Bravo The Hits 2006 - Swiss Edition</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>22</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/62be0a2cbea64a90a487318014ea45c2.png" alt="Cover for depart, be lost, but climb" style="max-width:120px; height:auto;" />
       </td>
@@ -1810,16 +1809,16 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 25</li>
-            <li> <a href="{{ "/tags/oregon" | relative_url }}">oregon</a> # 70</li>
+            <li> <a href="{{ "/tags/keyboard" | relative_url }}">keyboard</a> # 21</li>
+            <li> <a href="{{ "/tags/trip" | relative_url }}">trip</a> # 21</li>
+            <li> <a href="{{ "/tags/oregon" | relative_url }}">oregon</a> # 31</li>
+            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 76</li>
             <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 78</li>
-            <li> <a href="{{ "/tags/keyboard" | relative_url }}">keyboard</a> # 80</li>
-            <li> <a href="{{ "/tags/trip" | relative_url }}">trip</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/PgCwBhUfvF2tKnIfLvPnAUrYs0LUtO4yA-oMaWIl2W8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDkz/NjE1LTE2ODQyMjg3/MjUtMjg1OC5qcGVn.jpeg" alt="Cover for Life in Jetlag" style="max-width:120px; height:auto;" />
       </td>
@@ -1840,7 +1839,7 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1672c42de6c180b5881cbf61ac00a315.png" alt="Cover for Phonoploid Maxi LC 12640" style="max-width:120px; height:auto;" />
       </td>
@@ -1861,7 +1860,7 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>100</td>
       <td>
       </td>
       <td>2024-11-08</td>
@@ -1881,91 +1880,28 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>21</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4fab04202093463c90a39964f11870e8.png" alt="Cover for Remix" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/586e4f7aa9dada995a24d4695e485422.png" alt="Cover for Unplugged @ Fritz Studios 31.08.2009" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>Bluezz Bastardzz</td>
-      <td>Remix</td>
+      <td>Virginia Jetzt!</td>
+      <td>Unplugged @ Fritz Studios 31.08.2009</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/germany" | relative_url }}">germany</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hamburg" | relative_url }}">hamburg</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/texas" | relative_url }}">texas</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hamburg" | relative_url }}">hamburg</a> # 66</li>
+            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Despacito y Buenaletra</td>
-      <td>yammin (2003)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/beat" | relative_url }}">beat</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/england" | relative_url }}">england</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italy" | relative_url }}">italy</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roots" | relative_url }}">roots</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spain" | relative_url }}">spain</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 11</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>30</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/10b44f9507a875ffd9d5dc327905ab0d.png" alt="Cover for Space, Time &amp; Plexiglass" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>One Inch Man</td>
-      <td>Space, Time &amp; Plexiglass</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 26</li>
-            <li> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a> # 32</li>
-            <li> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a> # 62</li>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 99</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>40</td>
+      <td>61</td>
       <td>
       </td>
       <td></td>
@@ -2002,68 +1938,110 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 36</li>
-            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 48</li>
-            <li> <a href="{{ "/tags/ibiza" | relative_url }}">ibiza</a> # 68</li>
-            <li> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a> # 69</li>
+            <li> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a> # 32</li>
+            <li> <a href="{{ "/tags/ibiza" | relative_url }}">ibiza</a> # 33</li>
+            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 53</li>
+            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 65</li>
             <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 75</li>
             <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>70</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/586e4f7aa9dada995a24d4695e485422.png" alt="Cover for Unplugged @ Fritz Studios 31.08.2009" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/10b44f9507a875ffd9d5dc327905ab0d.png" alt="Cover for Space, Time &amp; Plexiglass" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>Virginia Jetzt!</td>
-      <td>Unplugged @ Fritz Studios 31.08.2009</td>
+      <td>One Inch Man</td>
+      <td>Space, Time &amp; Plexiglass</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 59</li>
+            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 26</li>
+            <li> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a> # 62</li>
+            <li> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a> # 69</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>83</td>
       <td>
       </td>
       <td></td>
-      <td>Toto Salzig</td>
-      <td>Du bist mein Abendstern</td>
+      <td>Despacito y Buenaletra</td>
+      <td>yammin (2003)</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutsche-schlager" | relative_url }}">deutsche schlager</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/beat" | relative_url }}">beat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/england" | relative_url }}">england</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italy" | relative_url }}">italy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roots" | relative_url }}">roots</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spain" | relative_url }}">spain</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>90</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4fab04202093463c90a39964f11870e8.png" alt="Cover for Remix" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>Teilzeitdenker</td>
-      <td>Nach uns der Überschallknall</td>
+      <td>Bluezz Bastardzz</td>
+      <td>Remix</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/germany" | relative_url }}">germany</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hamburg" | relative_url }}">hamburg</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/texas" | relative_url }}">texas</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hamburg" | relative_url }}">hamburg</a> # 66</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Dopewalka (www.dopewalka.de)</td>
+      <td>Fernweh 2007</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
         </ul>
       </td>
       <td>
@@ -2072,7 +2050,45 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>40</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Manu Ranking</td>
+      <td>Wassermann Preview Tracks</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roots-reggae" | relative_url }}">roots reggae</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>
+      </td>
+      <td></td>
+      <td>November11</td>
+      <td>November11 (2006)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
       <td>
       </td>
       <td></td>
@@ -2100,18 +2116,18 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>84</td>
       <td>
       </td>
       <td></td>
-      <td>November11</td>
-      <td>November11 (2006)</td>
+      <td>Teilzeitdenker</td>
+      <td>Nach uns der Überschallknall</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/germany" | relative_url }}">germany</a></li>
         </ul>
       </td>
       <td>
@@ -2120,16 +2136,17 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>87</td>
       <td>
       </td>
       <td></td>
-      <td>Manu Ranking</td>
-      <td>Wassermann Preview Tracks</td>
+      <td>Toto Salzig</td>
+      <td>Du bist mein Abendstern</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutsche-schlager" | relative_url }}">deutsche schlager</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roots-reggae" | relative_url }}">roots reggae</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a></li>
         </ul>
       </td>
       <td>
@@ -2138,25 +2155,7 @@ The &quot;deutschland&quot; tag encompasses music from German-speaking artists a
       </td>
     </tr>
     <tr>
-      <td>86</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Dopewalka (www.dopewalka.de)</td>
-      <td>Fernweh 2007</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>23</td>
+      <td>77</td>
       <td>
       </td>
       <td></td>

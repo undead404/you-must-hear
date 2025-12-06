@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T00:38:33.741Z
+date: 2025-12-06T05:17:51.449Z
 permalink: tags/easy-listening
 title: easy listening
 ---
 
 ## easy listening
 
-Last updated: <time datetime="2025-12-04T00:38:33.741Z">Thu Dec 04 2025 02:38:33 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T05:17:51.449Z">Sat Dec 06 2025 07:17:51 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -45,8 +45,8 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       <td>
         <ul>
             <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 7</li>
+            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 38</li>
             <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 51</li>
-            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -160,7 +160,7 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 41</li>
+            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -220,10 +220,10 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 1</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 2</li>
             <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 8</li>
             <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 9</li>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 98</li>
-            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -279,7 +279,7 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 58</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -357,7 +357,7 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 78</li>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -509,7 +509,7 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/honky-tonk" | relative_url }}">honky tonk</a> # 98</li>
+            <li> <a href="{{ "/tags/honky-tonk" | relative_url }}">honky tonk</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -622,7 +622,7 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 16</li>
+            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -735,7 +735,7 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       <td>
         <ul>
             <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 21</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 47</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -887,8 +887,8 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a> # 11</li>
-            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 93</li>
+            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 7</li>
+            <li> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -945,7 +945,7 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 65</li>
+            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1309,7 +1309,7 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/calypso" | relative_url }}">calypso</a> # 94</li>
+            <li> <a href="{{ "/tags/calypso" | relative_url }}">calypso</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1537,7 +1537,7 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 40</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1574,7 +1574,7 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 71</li>
+            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1700,8 +1700,8 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 82</li>
-            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 88</li>
+            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 13</li>
+            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1721,7 +1721,7 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 16</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1745,9 +1745,9 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 36</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 27</li>
             <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 40</li>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 74</li>
+            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1768,7 +1768,7 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a> # 96</li>
+            <li> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1846,24 +1846,25 @@ Easy listening music, also known as light music or lounge music, is a genre of p
         <ul>
             <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 8</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 8</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 8</li>
+            <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 10</li>
             <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 10</li>
+            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 11</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 22</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 23</li>
             <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 25</li>
-            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 28</li>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 30</li>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 32</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 35</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 31</li>
             <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 37</li>
-            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 41</li>
             <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 44</li>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 54</li>
-            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 54</li>
+            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 47</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 55</li>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 61</li>
             <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 61</li>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 62</li>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 78</li>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 79</li>
-            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 90</li>
-            <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 91</li>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 93</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 63</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 64</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 70</li>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 71</li>
+            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1914,15 +1915,15 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/rechtsrock" | relative_url }}">rechtsrock</a> # 1</li>
             <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 2</li>
             <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 3</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 6</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 14</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 28</li>
             <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 42</li>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 47</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 54</li>
             <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 60</li>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 87</li>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 95</li>
-            <li> <a href="{{ "/tags/rechtsrock" | relative_url }}">rechtsrock</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1945,10 +1946,10 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 3</li>
             <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 6</li>
             <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 12</li>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 29</li>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1968,7 +1969,7 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 88</li>
+            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -2010,9 +2011,9 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 1</li>
             <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 3</li>
             <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 4</li>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -2076,24 +2077,24 @@ Easy listening music, also known as light music or lounge music, is a genre of p
       <td>
         <ul>
             <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 1</li>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 4</li>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 5</li>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 7</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 3</li>
             <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 15</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 23</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 26</li>
+            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 29</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 30</li>
             <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 32</li>
-            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 41</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 34</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 36</li>
             <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 48</li>
             <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 49</li>
+            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 60</li>
             <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 61</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 62</li>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 67</li>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 71</li>
-            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 72</li>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 75</li>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 75</li>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 78</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 76</li>
             <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 90</li>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 98</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 94</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 96</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 97</li>
         </ul>
       </td>
     </tr>

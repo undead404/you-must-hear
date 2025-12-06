@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T00:55:57.567Z
+date: 2025-12-06T06:24:05.743Z
 permalink: tags/rhythm-and-blues
 title: rhythm and blues
 ---
 
 ## rhythm and blues
 
-Last updated: <time datetime="2025-12-04T00:55:57.567Z">Thu Dec 04 2025 02:55:57 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T06:24:05.743Z">Sat Dec 06 2025 08:24:05 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -154,7 +154,7 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 45</li>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -235,7 +235,7 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/northern-soul" | relative_url }}">northern soul</a> # 100</li>
+            <li> <a href="{{ "/tags/northern-soul" | relative_url }}">northern soul</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -373,7 +373,7 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 13</li>
+            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -510,9 +510,9 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/napoli" | relative_url }}">napoli</a> # 1</li>
             <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 6</li>
-            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 32</li>
-            <li> <a href="{{ "/tags/napoli" | relative_url }}">napoli</a> # 100</li>
+            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -722,7 +722,7 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
       <td>
         <ul>
             <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 4</li>
-            <li> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a> # 83</li>
+            <li> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -836,7 +836,7 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-jack-swing" | relative_url }}">new jack swing</a> # 67</li>
+            <li> <a href="{{ "/tags/new-jack-swing" | relative_url }}">new jack swing</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1108,11 +1108,11 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
       <td>
         <ul>
             <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 10</li>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 11</li>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 19</li>
-            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 45</li>
-            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 70</li>
+            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 31</li>
+            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 55</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 82</li>
             <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 87</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1131,7 +1131,7 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 10</li>
+            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1245,7 +1245,7 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 86</li>
+            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1299,9 +1299,9 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 3</li>
             <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 17</li>
-            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 42</li>
+            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 59</li>
+            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1415,7 +1415,7 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
       <td>
         <ul>
             <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 32</li>
-            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 67</li>
+            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1554,7 +1554,7 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 2</li>
+            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1639,7 +1639,7 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
       <td>
         <ul>
             <li> <a href="{{ "/tags/slow-jams" | relative_url }}">slow jams</a> # 18</li>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 32</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1679,7 +1679,7 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 43</li>
+            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1725,15 +1725,15 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 1</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 1</li>
+            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 1</li>
+            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 4</li>
+            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 6</li>
             <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 31</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 70</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 31</li>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 93</li>
             <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 93</li>
-            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 95</li>
-            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 97</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 100</li>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 100</li>
-            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1817,7 +1817,7 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
         <ul>
             <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 8</li>
             <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 15</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 85</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1961,8 +1961,8 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
       <td>
         <ul>
             <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 28</li>
+            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 30</li>
             <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 31</li>
-            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -2068,8 +2068,8 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
 - [soul]({{ "/tags/soul" | relative_url }})
 - [blues]({{ "/tags/blues" | relative_url }})
 - [funk]({{ "/tags/funk" | relative_url }})
-- [pop]({{ "/tags/pop" | relative_url }})
 - [rnb]({{ "/tags/rnb" | relative_url }})
+- [pop]({{ "/tags/pop" | relative_url }})
 - [rock]({{ "/tags/rock" | relative_url }})
 - [jazz]({{ "/tags/jazz" | relative_url }})
 - [female vocalists]({{ "/tags/female-vocalists" | relative_url }})

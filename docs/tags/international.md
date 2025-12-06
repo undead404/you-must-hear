@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T01:08:45.885Z
+date: 2025-12-06T06:30:54.103Z
 permalink: tags/international
 title: international
 ---
 
 ## international
 
-Last updated: <time datetime="2025-12-04T01:08:45.885Z">Thu Dec 04 2025 03:08:45 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T06:30:54.103Z">Sat Dec 06 2025 08:30:54 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,27 +29,29 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
   </thead>
   <tbody>
     <tr>
-      <td>53</td>
+      <td>13</td>
       <td>
       </td>
       <td>1958</td>
       <td>Ravi Shankar</td>
-      <td>The Sounds of India</td>
+      <td>India&#39;s Master Musician</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indian-classical" | relative_url }}">indian classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/international" | relative_url }}">international</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a></li>
         </ul>
       </td>
       <td>
         <ul>
             <li> <a href="{{ "/tags/indian-classical" | relative_url }}">indian classical</a> # 18</li>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 95</li>
-            <li> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a> # 99</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/mc8Sc3KY7Noaq6eyU01SLGQ1uaKE4JssLIipGvjKh3E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDg1/NTcyLTE0OTg0MTY3/MTktNTEwNS5qcGVn.jpeg" alt="Cover for Canciones de Amor" style="max-width:120px; height:auto;" />
       </td>
@@ -66,35 +68,33 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a> # 29</li>
             <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 49</li>
-            <li> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>48</td>
       <td>
       </td>
       <td>1958</td>
       <td>Ravi Shankar</td>
-      <td>India&#39;s Master Musician</td>
+      <td>The Sounds of India</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indian-classical" | relative_url }}">indian classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/international" | relative_url }}">international</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 38</li>
+            <li> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a> # 2</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 6</li>
             <li> <a href="{{ "/tags/indian-classical" | relative_url }}">indian classical</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/7Le33Wbf6zxZE9kA0LjcmB62DBxz_0s5mcF4v1-h0is/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MTQy/NTQtMTYxNTIzNzA1/Ny03MTExLmpwZWc.jpeg" alt="Cover for Love Is A Season" style="max-width:120px; height:auto;" />
       </td>
@@ -118,7 +118,7 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/53faf32a69f2e8ffa7f39ce66f89d41a.png" alt="Cover for Gainsbourg Percussions" style="max-width:120px; height:auto;" />
       </td>
@@ -135,7 +135,7 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/nHSmMCW5tIcXmeQCSwFSgGJ_4NQFSXOlUvN7xz07whs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTYz/MTAtMTI0Mzg5MTc1/MS5qcGVn.jpeg" alt="Cover for Stillness" style="max-width:120px; height:auto;" />
       </td>
@@ -157,7 +157,7 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
       </td>
       <td>1971</td>
@@ -171,12 +171,30 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 59</li>
+            <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>8</td>
+      <td>
+      </td>
+      <td>1972</td>
+      <td>Jorge Ben</td>
+      <td>Ben</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/international" | relative_url }}">international</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for Freakshit Vol. 4" style="max-width:120px; height:auto;" />
       </td>
@@ -195,25 +213,7 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
     </tr>
     <tr>
-      <td>93</td>
-      <td>
-      </td>
-      <td>1972</td>
-      <td>Jorge Ben</td>
-      <td>Ben</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/international" | relative_url }}">international</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
       </td>
       <td>1972</td>
@@ -229,7 +229,7 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4864984fad00914c62d9c5a05a7b1881.png" alt="Cover for La Gran Fuga" style="max-width:120px; height:auto;" />
       </td>
@@ -252,7 +252,7 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/atp3fG2tQWj1d46IpALDZjfVdD8M_76SXdodgkEm6Xc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MDc1/MDctMTQ4ODMyMTkw/MC0xMzc5LmpwZWc.jpeg" alt="Cover for The Most From Beny More" style="max-width:120px; height:auto;" />
       </td>
@@ -271,25 +271,7 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
     </tr>
     <tr>
-      <td>58</td>
-      <td>
-          <img src="https://i.discogs.com/IZv2zhZ60ZwJgh4QhYqX9m63nr77CUPBL08XCcGx67M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzMx/ODUtMTY0MDcwNjU5/NS0zMDEzLmpwZWc.jpeg" alt="Cover for Izibani Zomgqashiyo" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1977</td>
-      <td>Mahotella Queens</td>
-      <td>Izibani Zomgqashiyo</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/international" | relative_url }}">international</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>61</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/rfLxFuASfblLhnPG5-TnKpxDrRj3wMeSHX2dpLK9Y9s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTIx/OTI1LTE2MjY0OTgy/MDctMTIyNy5qcGVn.jpeg" alt="Cover for Kuschelrock 1" style="max-width:120px; height:auto;" />
       </td>
@@ -307,7 +289,25 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>43</td>
+      <td>
+          <img src="https://i.discogs.com/IZv2zhZ60ZwJgh4QhYqX9m63nr77CUPBL08XCcGx67M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzMx/ODUtMTY0MDcwNjU5/NS0zMDEzLmpwZWc.jpeg" alt="Cover for Izibani Zomgqashiyo" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1977</td>
+      <td>Mahotella Queens</td>
+      <td>Izibani Zomgqashiyo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/international" | relative_url }}">international</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/qY8N6QdRZA3BN74fhVNt2XLLvaL5EP75qlrF7-S9on4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjI3/ODUtMTI2Nzg5NDg1/Ni5qcGVn.jpeg" alt="Cover for Horizon Unlimited" style="max-width:120px; height:auto;" />
       </td>
@@ -325,7 +325,7 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/HsEZ5zo8Tt0ToZpIhSiVVjCeQWphH_VIDvGFYH2xQxU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDU1/NzExLTE1ODYwODgy/NjktNzg5OC5qcGVn.jpeg" alt="Cover for Die Grossen Erfolge - Die Grossen Chansons" style="max-width:120px; height:auto;" />
       </td>
@@ -343,7 +343,29 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>10</td>
+      <td>
+          <img src="https://i.discogs.com/n3vSEqrydbyrTIwtVQYc8hFzUphV9sUBbRFLTpcYU2U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTY4/MjU5LTE1MDAwNTM4/MDgtNTczNy5qcGVn.jpeg" alt="Cover for Army Arrangement" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1984</td>
+      <td>Fela Kuti</td>
+      <td>Army Arrangement</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/afrobeat" | relative_url }}">afrobeat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/international" | relative_url }}">international</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/afrobeat" | relative_url }}">afrobeat</a> # 60</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1af1bc1a0fc4494066b28fdd02a7a668.png" alt="Cover for Quiet" style="max-width:120px; height:auto;" />
       </td>
@@ -361,34 +383,12 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 11</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>91</td>
-      <td>
-          <img src="https://i.discogs.com/n3vSEqrydbyrTIwtVQYc8hFzUphV9sUBbRFLTpcYU2U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTY4/MjU5LTE1MDAwNTM4/MDgtNTczNy5qcGVn.jpeg" alt="Cover for Army Arrangement" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1984</td>
-      <td>Fela Kuti</td>
-      <td>Army Arrangement</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/afrobeat" | relative_url }}">afrobeat</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/international" | relative_url }}">international</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/afrobeat" | relative_url }}">afrobeat</a> # 40</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>33</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/BBn5p_c4KQp--M-QFdC1jaeERiu4CiRH7fXMoN1LNy4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTk4/NzgwLTE1NTcyNDI5/MjMtNTUxOC5qcGVn.jpeg" alt="Cover for Tango: Zero Hour" style="max-width:120px; height:auto;" />
       </td>
@@ -402,12 +402,12 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tango" | relative_url }}">tango</a> # 94</li>
+            <li> <a href="{{ "/tags/tango" | relative_url }}">tango</a> # 6</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/eRi9geKO7t4117jmjy7Vo6ejq7A-tFe-RAlpXfXhi3Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MDE3/MzEtMTQ3MTEwODQw/NC04MzkwLmpwZWc.jpeg" alt="Cover for Dos Clásicos" style="max-width:120px; height:auto;" />
       </td>
@@ -427,7 +427,7 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/X4ecCIwHkfjuc_VGFwhZKpF3JG2VIgJHtqWXqepj8Rw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTQ1/ODcxLTE1MDY5NzM0/MDAtNTA0MC5qcGVn.jpeg" alt="Cover for Seduzir" style="max-width:120px; height:auto;" />
       </td>
@@ -445,13 +445,13 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 12</li>
             <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 19</li>
+            <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/vEGxqVSgtbm-TF5CJqFIioS2EOiCKTB2PqdZ4kT3eAM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDg1/MzEtMTY0NDA5OTE1/OS03NjcxLmpwZWc.jpeg" alt="Cover for Ali Farka Touré" style="max-width:120px; height:auto;" />
       </td>
@@ -470,7 +470,7 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7b811791f002d2030b6ef2a95fde0305.png" alt="Cover for From Nubia to Cairo" style="max-width:120px; height:auto;" />
       </td>
@@ -487,7 +487,7 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/wn_mqKwAiF6-zMVzlbHkWD8Apd9XOaetnjZhXbqcb4k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MTgw/MS0xMTY4NzY3MzMy/LmpwZWc.jpeg" alt="Cover for Set" style="max-width:120px; height:auto;" />
       </td>
@@ -504,7 +504,7 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/Qc2p8LWyZ1Qe_FgAUS8COKW6Ps4OafzDHMnIz534X3k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MDM2/MTMtMTQ4NjY1MTgy/Mi0zNzYyLmpwZWc.jpeg" alt="Cover for Here" style="max-width:120px; height:auto;" />
       </td>
@@ -522,7 +522,7 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/iHjjJ52xdom8qc_FtkcVWETczPT78p4FEBwkwO1SNkw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTgy/OTktMTI3MDQ4NjEw/My5qcGVn.jpeg" alt="Cover for Master of the Hawaiian Guitar, Vol. 2" style="max-width:120px; height:auto;" />
       </td>
@@ -539,7 +539,7 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/Xp2CXRax0de23YSSXbkEM7W531wZTpzl-pVqWC6rv8c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYz/OTQ3LTE1OTU1MDEw/NDUtMTczMC5wbmc.jpeg" alt="Cover for shamblin´Man" style="max-width:120px; height:auto;" />
       </td>
@@ -563,13 +563,13 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harpsichord" | relative_url }}">harpsichord</a> # 22</li>
             <li> <a href="{{ "/tags/glasgow" | relative_url }}">glasgow</a> # 57</li>
+            <li> <a href="{{ "/tags/harpsichord" | relative_url }}">harpsichord</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>95</td>
       <td>
           <img src="https://i.discogs.com/gKY0xE_0mrjfA4rn3TtD_wIFo7jQ8ahGZmTAdy4hYN8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMzE5/NTItMTQzMjEyMzUz/MS05NTc1LmpwZWc.jpeg" alt="Cover for King of the World" style="max-width:120px; height:auto;" />
       </td>
@@ -588,7 +588,7 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/C4_mc3tDYmox6_mXnqkCKzrSIp5yvhJdZLcLUxQZd0Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MzE5/MjMtMTQ2MTQ5Mjk2/My0xNTk4LmpwZWc.jpeg" alt="Cover for Fela&#39;s London Scene" style="max-width:120px; height:auto;" />
       </td>
@@ -603,30 +603,12 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/afrobeat" | relative_url }}">afrobeat</a> # 23</li>
+            <li> <a href="{{ "/tags/afrobeat" | relative_url }}">afrobeat</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
-      <td>
-      </td>
-      <td>1995</td>
-      <td>Bebo Valdés</td>
-      <td>Bebo Rides Again</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/afro-cuban" | relative_url }}">afro-cuban</a> # 38</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>36</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/s0s-JAJ5RxstNv2wI68uptKwJW4I8jTzghRVr4v_Oc4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDQ0/MTYtMTM5MjIzOTc1/MC0xOTEzLmpwZWc.jpeg" alt="Cover for The Good, The Bab &amp; The Ugly" style="max-width:120px; height:auto;" />
       </td>
@@ -644,7 +626,25 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>69</td>
+      <td>
+      </td>
+      <td>1995</td>
+      <td>Bebo Valdés</td>
+      <td>Bebo Rides Again</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/afro-cuban" | relative_url }}">afro-cuban</a> # 63</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
       <td>
       </td>
       <td>1996</td>
@@ -663,7 +663,7 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/ZwKn0TZI24xhHEPFUep35RITYRkdgl5aYmEFn6k6w6A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjk3/OTMtMTQ3ODgwODE5/NC04MTExLmpwZWc.jpeg" alt="Cover for [The Guitar Trio]" style="max-width:120px; height:auto;" />
       </td>
@@ -680,7 +680,7 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/B54QbGLq8AUT7rRrBqlHY7nFWN3Do7FD2nqNptvBrfQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTQy/MTUtMTI4ODE4MDAy/NC5qcGVn.jpeg" alt="Cover for La mémoire du vent" style="max-width:120px; height:auto;" />
       </td>
@@ -699,7 +699,7 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7e10b78b0ad5771111c7c8edd04da65d.png" alt="Cover for Sing Lustily &amp; With Good Courage" style="max-width:120px; height:auto;" />
       </td>
@@ -717,12 +717,12 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hymns" | relative_url }}">hymns</a> # 64</li>
+            <li> <a href="{{ "/tags/hymns" | relative_url }}">hymns</a> # 36</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/75f342781c8c459aa1efbfea3eec3ccd.png" alt="Cover for Loca" style="max-width:120px; height:auto;" />
       </td>
@@ -741,7 +741,7 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3cfb65ed76b444c6ba4f456f9cedd53c.png" alt="Cover for Fool..." style="max-width:120px; height:auto;" />
       </td>
@@ -764,13 +764,13 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a> # 19</li>
-            <li> <a href="{{ "/tags/wood-and-string" | relative_url }}">wood and string</a> # 33</li>
+            <li> <a href="{{ "/tags/wood-and-string" | relative_url }}">wood and string</a> # 68</li>
+            <li> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>76</td>
       <td>
       </td>
       <td>1999-02-01</td>
@@ -790,7 +790,7 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/5N58AR___AQDI3cTSJNMWMYWM_lxCMDtb0vhkSBc-ok/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMjc1/NzYtMTQ5NTM4NTE2/Mi0yMDU5LmpwZWc.jpeg" alt="Cover for Tango Zero Hour" style="max-width:120px; height:auto;" />
       </td>
@@ -804,12 +804,12 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tango" | relative_url }}">tango</a> # 90</li>
+            <li> <a href="{{ "/tags/tango" | relative_url }}">tango</a> # 11</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
       </td>
       <td>2001-10-16</td>
@@ -828,25 +828,7 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
     </tr>
     <tr>
-      <td>2</td>
-      <td>
-          <img src="https://i.discogs.com/kjJR189JIGawZYGTWU7ArBzkaUlWU1lkbr-vHv8gIZg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODg0/Mzk4LTE1MjQwODM1/NDQtNzgzOC5qcGVn.jpeg" alt="Cover for Zaw" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2002</td>
-      <td>Yann Honoré</td>
-      <td>Zaw</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/international" | relative_url }}">international</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
       </td>
       <td>2002</td>
@@ -866,7 +848,25 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>99</td>
+      <td>
+          <img src="https://i.discogs.com/kjJR189JIGawZYGTWU7ArBzkaUlWU1lkbr-vHv8gIZg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODg0/Mzk4LTE1MjQwODM1/NDQtNzgzOC5qcGVn.jpeg" alt="Cover for Zaw" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>Yann Honoré</td>
+      <td>Zaw</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/international" | relative_url }}">international</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/jEyaCt5ZEramyNX2zsGvI196jhOY7DvK3Bof81svCLc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMzE3/MC0xMTU4MzQ0OTMz/LmpwZWc.jpeg" alt="Cover for July 15,1972" style="max-width:120px; height:auto;" />
       </td>
@@ -883,7 +883,7 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f93d05ce678644fe26b4d49ee101653c.png" alt="Cover for An Untamed Sense Of Control" style="max-width:120px; height:auto;" />
       </td>
@@ -906,7 +906,7 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d096465278064b3bba5525421c46b305.png" alt="Cover for Презареждане" style="max-width:120px; height:auto;" />
       </td>
@@ -925,30 +925,12 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 48</li>
+            <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
-      <td>
-          <img src="https://i.discogs.com/O8ZPrugmkQ-hsHUwugB6TpLSSueZ4ky9BcKRw43k_-o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2OTE5/OC0xMTE4MTM0NzE1/LmpwZw.jpeg" alt="Cover for Convivendo - Parte 2" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2005</td>
-      <td>Biagio Antonacci</td>
-      <td>Convivendo - Parte 2</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/international" | relative_url }}">international</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/0eCE0dgCOcjAiLUHQhjW5-723ppa9j36AP0GNg2UxaI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjEy/NTktMTQ0NDY3ODc0/OS0yNDQ0LmpwZWc.jpeg" alt="Cover for The Best Of" style="max-width:120px; height:auto;" />
       </td>
@@ -968,7 +950,25 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>71</td>
+      <td>
+          <img src="https://i.discogs.com/O8ZPrugmkQ-hsHUwugB6TpLSSueZ4ky9BcKRw43k_-o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2OTE5/OC0xMTE4MTM0NzE1/LmpwZw.jpeg" alt="Cover for Convivendo - Parte 2" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>Biagio Antonacci</td>
+      <td>Convivendo - Parte 2</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/international" | relative_url }}">international</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c6aeee4e18ac0f2cfcbb7b39c6e18a6b.png" alt="Cover for Solo in Rio 1959" style="max-width:120px; height:auto;" />
       </td>
@@ -987,15 +987,15 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 5</li>
-            <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 58</li>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 62</li>
-            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 84</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 17</li>
+            <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 43</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 61</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>90</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/77948377820c4658b2bc38bf7f7543f7.png" alt="Cover for Mizna" style="max-width:120px; height:auto;" />
       </td>
@@ -1017,13 +1017,13 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oud" | relative_url }}">oud</a> # 5</li>
             <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 64</li>
+            <li> <a href="{{ "/tags/oud" | relative_url }}">oud</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/cvKtBj0HYoKpDwjvbSuOcVPwLMH3wHGbLeeGgMAzfMc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDM0/MjUwLTE1OTE0NjI0/OTgtMzk0MC5qcGVn.jpeg" alt="Cover for Şekerim Benim" style="max-width:120px; height:auto;" />
       </td>
@@ -1041,7 +1041,7 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/_IgY3nC3xsxlpaQ-16rv-21__g_zR_9sDGrkGrPV0YI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzcx/MjktMTI2ODE2MTUw/My5qcGVn.jpeg" alt="Cover for Et In Arcadia Ego" style="max-width:120px; height:auto;" />
       </td>
@@ -1065,7 +1065,7 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/TJTQDNsmUMyyoQIhd_AiG5Wf2bM0H8JgvVCVd5ujCNI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMDk2/MTYtMTQ1NjUwODIx/Ni0zNTc4LmpwZWc.jpeg" alt="Cover for Martyrs" style="max-width:120px; height:auto;" />
       </td>
@@ -1086,7 +1086,7 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/IPAGmcrvGdi6retlZAXarm-0ir7jVehnybguJWQTi5Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNjU4/MzQtMTM4OTA5NTE3/Mi01NDI4LmpwZWc.jpeg" alt="Cover for Rising Tide Of Conformity" style="max-width:120px; height:auto;" />
       </td>
@@ -1124,16 +1124,16 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/mediterranean" | relative_url }}">mediterranean</a> # 13</li>
+            <li> <a href="{{ "/tags/barcelona" | relative_url }}">barcelona</a> # 15</li>
+            <li> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a> # 31</li>
             <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 40</li>
             <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 50</li>
-            <li> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a> # 70</li>
-            <li> <a href="{{ "/tags/barcelona" | relative_url }}">barcelona</a> # 86</li>
-            <li> <a href="{{ "/tags/mediterranean" | relative_url }}">mediterranean</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
       </td>
       <td>2009</td>
@@ -1154,7 +1154,7 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/35249caa60dc457f966bba44124997d4.png" alt="Cover for Not Quite Bohemian" style="max-width:120px; height:auto;" />
       </td>
@@ -1172,13 +1172,13 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/barcelona" | relative_url }}">barcelona</a> # 37</li>
             <li> <a href="{{ "/tags/glasgow" | relative_url }}">glasgow</a> # 52</li>
-            <li> <a href="{{ "/tags/barcelona" | relative_url }}">barcelona</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>78</td>
       <td>
       </td>
       <td>2010-12-03</td>
@@ -1196,26 +1196,7 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
     </tr>
     <tr>
-      <td>67</td>
-      <td>
-          <img src="https://i.discogs.com/vjJe3ld4NtnG9Fd5bNGs0Ht3gV6rLwb9rIwXg4_hGlk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODY1/NDktMTY2MjI5NDE2/Ny05OTM3LmpwZWc.jpeg" alt="Cover for In Trance" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2011-06-13</td>
-      <td>JuJu (Justin Adams &amp; Juldeh Camara)</td>
-      <td>In Trance</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/international" | relative_url }}">international</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>68</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/vjJe3ld4NtnG9Fd5bNGs0Ht3gV6rLwb9rIwXg4_hGlk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODY1/NDktMTY2MjI5NDE2/Ny05OTM3LmpwZWc.jpeg" alt="Cover for In Trance" style="max-width:120px; height:auto;" />
       </td>
@@ -1234,7 +1215,26 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>34</td>
+      <td>
+          <img src="https://i.discogs.com/vjJe3ld4NtnG9Fd5bNGs0Ht3gV6rLwb9rIwXg4_hGlk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODY1/NDktMTY2MjI5NDE2/Ny05OTM3LmpwZWc.jpeg" alt="Cover for In Trance" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-06-13</td>
+      <td>JuJu (Justin Adams &amp; Juldeh Camara)</td>
+      <td>In Trance</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/international" | relative_url }}">international</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/zJMFQkeQ2Siuevz3cFKt6rSZzVKt8spPOMzSpfCjDOQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxODQ5/NzAtMTQxMzE4MTAz/Ny02OTk4LmpwZWc.jpeg" alt="Cover for We Are One" style="max-width:120px; height:auto;" />
       </td>
@@ -1252,7 +1252,7 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/cleWihgA1PCytfmYyuxHt8W9ieiO3Q3ncrk268A82lc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MTUx/OTYtMTUxNTYwMzMw/MC02NDI4LmpwZWc.jpeg" alt="Cover for Something Amazing" style="max-width:120px; height:auto;" />
       </td>
@@ -1274,7 +1274,7 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
       </td>
       <td>2012-07-29</td>
@@ -1296,7 +1296,7 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>100</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/95357d3eebc8ae5186cdda13df24a2b5.png" alt="Cover for Necropotence" style="max-width:120px; height:auto;" />
       </td>
@@ -1320,7 +1320,7 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>87</td>
       <td>
       </td>
       <td>2013</td>
@@ -1341,12 +1341,12 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/yiddish" | relative_url }}">yiddish</a> # 53</li>
+            <li> <a href="{{ "/tags/yiddish" | relative_url }}">yiddish</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/190d460792854e6aced4fbf23c197fa9.png" alt="Cover for FARAN" style="max-width:120px; height:auto;" />
       </td>
@@ -1365,13 +1365,13 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oud" | relative_url }}">oud</a> # 68</li>
+            <li> <a href="{{ "/tags/oud" | relative_url }}">oud</a> # 32</li>
             <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/DFO2n48WWmEDuZE9Bb5-TyT-0Reo_UqdK2Za06EySA0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTMy/NzQ0LTE1MDY3NTY5/NjUtNDc3OC5qcGVn.jpeg" alt="Cover for Eternally I Wait for You EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1393,7 +1393,7 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/68c11974e24c4fbca6f762c3c4e17764.png" alt="Cover for Sleep Has Its house" style="max-width:120px; height:auto;" />
       </td>
@@ -1415,16 +1415,16 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 10</li>
-            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 37</li>
-            <li> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a> # 68</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 70</li>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 79</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 22</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 31</li>
+            <li> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a> # 33</li>
+            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 64</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/Ij9QqEtl291dXWs4TFBct84_ukEDO8k01r2YHM9VzFM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MDc3/NDMtMTQ2NjYwMTA0/OS02NTc4LmpwZWc.jpeg" alt="Cover for But a Thought" style="max-width:120px; height:auto;" />
       </td>
@@ -1449,7 +1449,7 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/iSRi-rimCQj9mw7a_6d5UrlVNAaNT42PwIm_Rr4TrT0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MzY2/ODctMTM3Mzg4MTUw/Ni00MTAzLmpwZWc.jpeg" alt="Cover for Loca - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1467,7 +1467,7 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/CZwQNtgVj6yRd7tUMVi7ihS16Tr8ma52nZSOhnElHmw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNDUz/NjQtMTQzNDczMDMy/NS00NjIwLmpwZWc.jpeg" alt="Cover for Тёмная реальность" style="max-width:120px; height:auto;" />
       </td>
@@ -1487,7 +1487,7 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/Fno2iL5tggDxBih6tpZDctzTEAi-GegbjH7MWk5EccE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjI4/MDQyLTE1MDEyNTI5/NzYtNDUyNC5qcGVn.jpeg" alt="Cover for Conversa de Botequim" style="max-width:120px; height:auto;" />
       </td>
@@ -1509,7 +1509,7 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/dH18AOR0WQNXe7734I4fq_OecIzMn8mqAWNhKAeWiOw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMzY0/NjUtMTQ2MjY0NTI5/MS01NjMwLmpwZWc.jpeg" alt="Cover for Azel" style="max-width:120px; height:auto;" />
       </td>
@@ -1526,14 +1526,14 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 44</li>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 88</li>
-            <li> <a href="{{ "/tags/takamba" | relative_url }}">takamba</a> # 96</li>
+            <li> <a href="{{ "/tags/takamba" | relative_url }}">takamba</a> # 5</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 13</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 57</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d87f2113a302491c8d1ff59483894a2e.png" alt="Cover for Short Thoughts(LP)" style="max-width:120px; height:auto;" />
       </td>
@@ -1553,7 +1553,7 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/uQNh79_a38_fjo3mKGXilvaVvoKLW5omo5TU6BSTrs4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTk2/ODczLTE1NDYxMzE3/MzctNjAyNS5qcGVn.jpeg" alt="Cover for Vængför" style="max-width:120px; height:auto;" />
       </td>
@@ -1574,7 +1574,7 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/-Kvf8nNv_cdnnkhvgO3st886D3Wjb_tfH5uEKrhZBFM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjAx/MTQzLTE2OTczNzc4/NzYtMzQ4Mi5wbmc.jpeg" alt="Cover for Crushing Intolerance Volume 2" style="max-width:120px; height:auto;" />
       </td>
@@ -1593,7 +1593,7 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7d668c902ea48cc5a4f9851cf67af145.png" alt="Cover for Tresor" style="max-width:120px; height:auto;" />
       </td>
@@ -1614,7 +1614,7 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/57fbf1da4cae346109ae26f7c124176c.png" alt="Cover for Let’s Kiss and Make Up (Slow &amp; Fast)" style="max-width:120px; height:auto;" />
       </td>
@@ -1640,12 +1640,12 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 44</li>
+            <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0a213578dd644b53d2f4ce9872dbac04.png" alt="Cover for Requiem Reloaded" style="max-width:120px; height:auto;" />
       </td>
@@ -1665,7 +1665,7 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/X0u5jHZT4bv6q32PKXoFbbpZBIrS_TQM4Mclic-FrKw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODI2/MDg2LTE2OTkzMzky/MDYtNzAyOC5qcGVn.jpeg" alt="Cover for Shoot a Line" style="max-width:120px; height:auto;" />
       </td>
@@ -1689,27 +1689,26 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>23</td>
       <td>
       </td>
       <td></td>
-      <td>Ibrahim Akil</td>
-      <td>Maxi Belly Dance, Best of oriental music Vol. 1 of</td>
+      <td>Kelly Kelekidou</td>
+      <td>Kelly Kelekidou</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/greek" | relative_url }}">greek</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/international" | relative_url }}">international</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 52</li>
-            <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 54</li>
-            <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 59</li>
-            <li> <a href="{{ "/tags/tunisia" | relative_url }}">tunisia</a> # 62</li>
+            <li> <a href="{{ "/tags/greek" | relative_url }}">greek</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
       </td>
       <td></td>
@@ -1737,19 +1736,56 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 19</li>
-            <li> <a href="{{ "/tags/hungarian" | relative_url }}">hungarian</a> # 36</li>
-            <li> <a href="{{ "/tags/polski" | relative_url }}">polski</a> # 90</li>
+            <li> <a href="{{ "/tags/polski" | relative_url }}">polski</a> # 11</li>
+            <li> <a href="{{ "/tags/hungarian" | relative_url }}">hungarian</a> # 65</li>
+            <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>46</td>
       <td>
       </td>
       <td></td>
-      <td>Kelly Kelekidou</td>
-      <td>Kelly Kelekidou</td>
+      <td>Ibrahim Akil</td>
+      <td>Maxi Belly Dance, Best of oriental music Vol. 1 of</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/tunisia" | relative_url }}">tunisia</a> # 39</li>
+            <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 42</li>
+            <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 47</li>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 49</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Kostas Karafotis</td>
+      <td>I Kardia Mou Selida Girizei</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/international" | relative_url }}">international</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Elli Kokkinou</td>
+      <td>Paradinome - I Megaliteres Epitihies</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/greek" | relative_url }}">greek</a></li>
@@ -1758,21 +1794,103 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/greek" | relative_url }}">greek</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>51</td>
       <td>
       </td>
       <td></td>
-      <td>Veeresh and the Humaniversity Sound</td>
-      <td>Our Sacred Earth</td>
+      <td>Giorgos Lianos</td>
+      <td>Sti Mesi</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/international" | relative_url }}">international</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Idrissa Soumaoro</td>
+      <td>Kote</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/africa" | relative_url }}">africa</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/international" | relative_url }}">international</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+      </td>
+      <td></td>
+      <td>César Mesa</td>
+      <td>César Mesa</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/international" | relative_url }}">international</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dbcc3f81a260444ba7f3c06f60e442d3.png" alt="Cover for Tha Sour Life" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Sour E</td>
+      <td>Tha Sour Life</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/international" | relative_url }}">international</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-york" | relative_url }}">new york</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fa4525ffafcd8bda4c675ce5b09dfd45.png" alt="Cover for Songs for Kassar" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Pete List</td>
+      <td>Songs for Kassar</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/international" | relative_url }}">international</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a></li>
         </ul>
       </td>
@@ -1782,7 +1900,183 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>73</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Blandade artister</td>
+      <td>Bobo Yéyé: Belle Époque in Upper Volta</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/international" | relative_url }}">international</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>
+      </td>
+      <td></td>
+      <td>YouCan Trust</td>
+      <td>Indonesia Chill Out Vol. 2</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/international" | relative_url }}">international</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Carribean Rhythm Orchestra</td>
+      <td>Authentic Afro-Brazilian Music And Rhythms</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/international" | relative_url }}">international</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Rogelio and Lino</td>
+      <td>Rogelio and Lino</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/international" | relative_url }}">international</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Ron Perovich</td>
+      <td>Remix Redux Revisit</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/international" | relative_url }}">international</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Too Many I&#39;s</td>
+      <td>Too Many I&#39;s - Demo 2006</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/international" | relative_url }}">international</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Vidroha Jamie</td>
+      <td>Indo Reel</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/international" | relative_url }}">international</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Giorgos Alkeos</td>
+      <td>Pro Ton Pilon</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/international" | relative_url }}">international</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Chubby Carrier &amp; The Bayou Swamp Band</td>
+      <td>Boogie Woogie Zydeco</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cajun" | relative_url }}">cajun</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/international" | relative_url }}">international</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zydeco" | relative_url }}">zydeco</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5d92cc0b8cd142228917e01a223fbb55.png" alt="Cover for Tune" style="max-width:120px; height:auto;" />
       </td>
@@ -1807,311 +2101,17 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>98</td>
       <td>
       </td>
       <td></td>
-      <td>Chubby Carrier &amp; The Bayou Swamp Band</td>
-      <td>Boogie Woogie Zydeco</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cajun" | relative_url }}">cajun</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/international" | relative_url }}">international</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zydeco" | relative_url }}">zydeco</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Giorgos Alkeos</td>
-      <td>Pro Ton Pilon</td>
+      <td>Veeresh and the Humaniversity Sound</td>
+      <td>Our Sacred Earth</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/international" | relative_url }}">international</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>8</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Vidroha Jamie</td>
-      <td>Indo Reel</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/international" | relative_url }}">international</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>12</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Too Many I&#39;s</td>
-      <td>Too Many I&#39;s - Demo 2006</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/international" | relative_url }}">international</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>13</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Ron Perovich</td>
-      <td>Remix Redux Revisit</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/international" | relative_url }}">international</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>17</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Rogelio and Lino</td>
-      <td>Rogelio and Lino</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/international" | relative_url }}">international</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>24</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Carribean Rhythm Orchestra</td>
-      <td>Authentic Afro-Brazilian Music And Rhythms</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/international" | relative_url }}">international</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>27</td>
-      <td>
-      </td>
-      <td></td>
-      <td>YouCan Trust</td>
-      <td>Indonesia Chill Out Vol. 2</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/international" | relative_url }}">international</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>28</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Blandade artister</td>
-      <td>Bobo Yéyé: Belle Époque in Upper Volta</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/international" | relative_url }}">international</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>41</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fa4525ffafcd8bda4c675ce5b09dfd45.png" alt="Cover for Songs for Kassar" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Pete List</td>
-      <td>Songs for Kassar</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/international" | relative_url }}">international</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>46</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dbcc3f81a260444ba7f3c06f60e442d3.png" alt="Cover for Tha Sour Life" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Sour E</td>
-      <td>Tha Sour Life</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/international" | relative_url }}">international</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-york" | relative_url }}">new york</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>47</td>
-      <td>
-      </td>
-      <td></td>
-      <td>César Mesa</td>
-      <td>César Mesa</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/international" | relative_url }}">international</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>48</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Idrissa Soumaoro</td>
-      <td>Kote</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/africa" | relative_url }}">africa</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/international" | relative_url }}">international</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>50</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Giorgos Lianos</td>
-      <td>Sti Mesi</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/international" | relative_url }}">international</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>73</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Elli Kokkinou</td>
-      <td>Paradinome - I Megaliteres Epitihies</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/greek" | relative_url }}">greek</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/international" | relative_url }}">international</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>74</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Kostas Karafotis</td>
-      <td>I Kardia Mou Selida Girizei</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/international" | relative_url }}">international</a></li>
         </ul>
       </td>
       <td>
@@ -2138,7 +2138,7 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f6cce28d25024dd3b52a4dc82d153854.png" alt="Cover for Belly Dance Practice Music, Vol. 2" style="max-width:120px; height:auto;" />
       </td>

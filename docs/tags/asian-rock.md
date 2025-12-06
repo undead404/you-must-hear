@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T00:54:29.577Z
+date: 2025-12-06T05:48:22.235Z
 permalink: tags/asian-rock
 title: asian rock
 ---
 
 ## asian rock
 
-Last updated: <time datetime="2025-12-04T00:54:29.577Z">Thu Dec 04 2025 02:54:29 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T05:48:22.235Z">Sat Dec 06 2025 07:48:22 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -121,8 +121,8 @@ Asian rock encompasses guitar-driven rock music originating from East Asian coun
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/asia" | relative_url }}">asia</a> # 2</li>
             <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 41</li>
-            <li> <a href="{{ "/tags/asia" | relative_url }}">asia</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -146,8 +146,8 @@ Asian rock encompasses guitar-driven rock music originating from East Asian coun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 72</li>
-            <li> <a href="{{ "/tags/taiwanese" | relative_url }}">taiwanese</a> # 72</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 24</li>
+            <li> <a href="{{ "/tags/taiwanese" | relative_url }}">taiwanese</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -698,7 +698,7 @@ Asian rock encompasses guitar-driven rock music originating from East Asian coun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a> # 98</li>
+            <li> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -859,8 +859,8 @@ Asian rock encompasses guitar-driven rock music originating from East Asian coun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 11</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 12</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 87</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1032,7 +1032,7 @@ Asian rock encompasses guitar-driven rock music originating from East Asian coun
       <td>
         <ul>
             <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 23</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 29</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1149,8 +1149,8 @@ Asian rock encompasses guitar-driven rock music originating from East Asian coun
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 21</li>
             <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 32</li>
-            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1173,8 +1173,8 @@ Asian rock encompasses guitar-driven rock music originating from East Asian coun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 3</li>
             <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 14</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1688,7 +1688,7 @@ Asian rock encompasses guitar-driven rock music originating from East Asian coun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 1</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1735,10 +1735,10 @@ Asian rock encompasses guitar-driven rock music originating from East Asian coun
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 3</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 4</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 13</li>
             <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 13</li>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 86</li>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 97</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1859,7 +1859,7 @@ Asian rock encompasses guitar-driven rock music originating from East Asian coun
       <td>
         <ul>
             <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 8</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 33</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -2040,7 +2040,8 @@ Asian rock encompasses guitar-driven rock music originating from East Asian coun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 66</li>
+            <li> <a href="{{ "/tags/pluggnb" | relative_url }}">pluggnb</a> # 25</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -2085,7 +2086,8 @@ Asian rock encompasses guitar-driven rock music originating from East Asian coun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 48</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 53</li>
+            <li> <a href="{{ "/tags/pluggnb" | relative_url }}">pluggnb</a> # 65</li>
             <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 96</li>
         </ul>
       </td>

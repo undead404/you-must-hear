@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T01:03:32.231Z
+date: 2025-12-06T06:28:41.449Z
 permalink: tags/swing
 title: swing
 ---
 
 ## swing
 
-Last updated: <time datetime="2025-12-04T01:03:32.231Z">Thu Dec 04 2025 03:03:32 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T06:28:41.449Z">Sat Dec 06 2025 08:28:41 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -62,8 +62,8 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 33</li>
             <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 38</li>
-            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -248,7 +248,7 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 27</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -325,7 +325,7 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 40</li>
+            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -348,10 +348,10 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 2</li>
             <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 3</li>
             <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 8</li>
             <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 9</li>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -410,7 +410,7 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       <td>
         <ul>
             <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 14</li>
-            <li> <a href="{{ "/tags/clarinet" | relative_url }}">clarinet</a> # 84</li>
+            <li> <a href="{{ "/tags/clarinet" | relative_url }}">clarinet</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -645,7 +645,7 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       <td>
         <ul>
             <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 5</li>
-            <li> <a href="{{ "/tags/clarinet" | relative_url }}">clarinet</a> # 22</li>
+            <li> <a href="{{ "/tags/clarinet" | relative_url }}">clarinet</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -740,8 +740,8 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a> # 11</li>
             <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 46</li>
+            <li> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1002,7 +1002,7 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       <td>
         <ul>
             <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 6</li>
-            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 57</li>
+            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1153,7 +1153,7 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 3</li>
+            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1229,7 +1229,7 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/clarinet" | relative_url }}">clarinet</a> # 99</li>
+            <li> <a href="{{ "/tags/clarinet" | relative_url }}">clarinet</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -1248,7 +1248,7 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 66</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1476,7 +1476,7 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mastersinger" | relative_url }}">mastersinger</a> # 98</li>
+            <li> <a href="{{ "/tags/mastersinger" | relative_url }}">mastersinger</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1573,14 +1573,14 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
             <li> <a href="{{ "/tags/broken-beat" | relative_url }}">broken beat</a> # 7</li>
             <li> <a href="{{ "/tags/lounge-groove" | relative_url }}">lounge groove</a> # 8</li>
             <li> <a href="{{ "/tags/lounge-downtempo" | relative_url }}">lounge downtempo</a> # 17</li>
+            <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 19</li>
+            <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 25</li>
+            <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 26</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 28</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 29</li>
             <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 29</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 29</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 72</li>
-            <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 75</li>
-            <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 76</li>
-            <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 82</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1758,7 +1758,7 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tango" | relative_url }}">tango</a> # 79</li>
+            <li> <a href="{{ "/tags/tango" | relative_url }}">tango</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1779,7 +1779,7 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 74</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1864,9 +1864,9 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 12</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 26</li>
             <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 55</li>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 75</li>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1954,7 +1954,7 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       <td>
         <ul>
             <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 21</li>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 54</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 47</li>
         </ul>
       </td>
     </tr>

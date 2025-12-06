@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T01:04:49.315Z
+date: 2025-12-06T06:30:10.823Z
 permalink: tags/country-rock
 title: country rock
 ---
 
 ## country rock
 
-Last updated: <time datetime="2025-12-04T01:04:49.315Z">Thu Dec 04 2025 03:04:49 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T06:30:10.823Z">Sat Dec 06 2025 08:30:10 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -147,7 +147,7 @@ Country rock is a genre of popular music that combines elements of country and r
       <td>
         <ul>
             <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 23</li>
-            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 25</li>
+            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -279,8 +279,8 @@ Country rock is a genre of popular music that combines elements of country and r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/roots-rock" | relative_url }}">roots rock</a> # 38</li>
             <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 60</li>
+            <li> <a href="{{ "/tags/roots-rock" | relative_url }}">roots rock</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -726,7 +726,7 @@ Country rock is a genre of popular music that combines elements of country and r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 71</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -771,7 +771,7 @@ Country rock is a genre of popular music that combines elements of country and r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 66</li>
+            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 35</li>
             <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 95</li>
         </ul>
       </td>
@@ -808,7 +808,7 @@ Country rock is a genre of popular music that combines elements of country and r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 75</li>
+            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1068,8 +1068,8 @@ Country rock is a genre of popular music that combines elements of country and r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 55</li>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 81</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 19</li>
+            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1164,7 +1164,7 @@ Country rock is a genre of popular music that combines elements of country and r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 74</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1225,8 +1225,8 @@ Country rock is a genre of popular music that combines elements of country and r
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/romantica" | relative_url }}">romantica</a> # 2</li>
             <li> <a href="{{ "/tags/sertanejo" | relative_url }}">sertanejo</a> # 21</li>
-            <li> <a href="{{ "/tags/romantica" | relative_url }}">romantica</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1486,8 +1486,8 @@ Country rock is a genre of popular music that combines elements of country and r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 3</li>
             <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 40</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1731,7 +1731,7 @@ Country rock is a genre of popular music that combines elements of country and r
             <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 1</li>
             <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 6</li>
             <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 10</li>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 87</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1798,7 +1798,7 @@ Country rock is a genre of popular music that combines elements of country and r
       <td>
         <ul>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 13</li>
-            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 55</li>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1881,11 +1881,11 @@ Country rock is a genre of popular music that combines elements of country and r
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 1</li>
             <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 7</li>
             <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 10</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 19</li>
             <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 27</li>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 81</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1908,7 +1908,7 @@ Country rock is a genre of popular music that combines elements of country and r
       <td>
         <ul>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 5</li>
-            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 92</li>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 9</li>
         </ul>
       </td>
     </tr>

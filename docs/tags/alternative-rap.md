@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T00:55:30.406Z
+date: 2025-12-06T05:53:27.230Z
 permalink: tags/alternative-rap
 title: alternative rap
 ---
 
 ## alternative rap
 
-Last updated: <time datetime="2025-12-04T00:55:30.406Z">Thu Dec 04 2025 02:55:30 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T05:53:27.230Z">Sat Dec 06 2025 07:53:27 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -84,7 +84,7 @@ Alternative rap, also known as underground hip hop or indie hip hop, is a subgen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 68</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 33</li>
             <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 85</li>
         </ul>
       </td>
@@ -166,8 +166,8 @@ Alternative rap, also known as underground hip hop or indie hip hop, is a subgen
       <td>
         <ul>
             <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 24</li>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 60</li>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 65</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 36</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -193,9 +193,9 @@ Alternative rap, also known as underground hip hop or indie hip hop, is a subgen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 25</li>
             <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 33</li>
             <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 43</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 76</li>
             <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 91</li>
         </ul>
       </td>
@@ -226,8 +226,8 @@ Alternative rap, also known as underground hip hop or indie hip hop, is a subgen
       <td>
         <ul>
             <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 7</li>
-            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 44</li>
-            <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 57</li>
+            <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 44</li>
+            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -356,7 +356,7 @@ Alternative rap, also known as underground hip hop or indie hip hop, is a subgen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 20</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -435,7 +435,7 @@ Alternative rap, also known as underground hip hop or indie hip hop, is a subgen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 82</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -460,7 +460,7 @@ Alternative rap, also known as underground hip hop or indie hip hop, is a subgen
       <td>
         <ul>
             <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 18</li>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 37</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -578,7 +578,7 @@ Alternative rap, also known as underground hip hop or indie hip hop, is a subgen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 88</li>
+            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -635,8 +635,8 @@ Alternative rap, also known as underground hip hop or indie hip hop, is a subgen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 33</li>
-            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 67</li>
+            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 33</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -655,8 +655,8 @@ Alternative rap, also known as underground hip hop or indie hip hop, is a subgen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 61</li>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 99</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 2</li>
+            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -685,8 +685,8 @@ Alternative rap, also known as underground hip hop or indie hip hop, is a subgen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 21</li>
-            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 78</li>
+            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 23</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -748,12 +748,12 @@ Alternative rap, also known as underground hip hop or indie hip hop, is a subgen
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 8</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 10</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 20</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 26</li>
             <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 32</li>
-            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 58</li>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 74</li>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 81</li>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 91</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 93</li>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -775,8 +775,8 @@ Alternative rap, also known as underground hip hop or indie hip hop, is a subgen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 2</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 22</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 79</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -804,9 +804,9 @@ Alternative rap, also known as underground hip hop or indie hip hop, is a subgen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 49</li>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 72</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 78</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 23</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 29</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -832,9 +832,9 @@ Alternative rap, also known as underground hip hop or indie hip hop, is a subgen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 48</li>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 71</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 77</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 24</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 30</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -894,9 +894,9 @@ Alternative rap, also known as underground hip hop or indie hip hop, is a subgen
       <td>
         <ul>
             <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 11</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 20</li>
             <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 36</li>
             <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 63</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 81</li>
             <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 87</li>
         </ul>
       </td>
@@ -942,10 +942,10 @@ Alternative rap, also known as underground hip hop or indie hip hop, is a subgen
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 10</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 12</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 14</li>
             <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 41</li>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 86</li>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 89</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -971,9 +971,9 @@ Alternative rap, also known as underground hip hop or indie hip hop, is a subgen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 46</li>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 69</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 76</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 25</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 32</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -999,10 +999,10 @@ Alternative rap, also known as underground hip hop or indie hip hop, is a subgen
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 13</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 14</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 23</li>
             <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 45</li>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 78</li>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 87</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1023,8 +1023,8 @@ Alternative rap, also known as underground hip hop or indie hip hop, is a subgen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 65</li>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 84</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 17</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1068,8 +1068,8 @@ Alternative rap, also known as underground hip hop or indie hip hop, is a subgen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 73</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 79</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 22</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 28</li>
             <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 99</li>
             <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 100</li>
         </ul>
@@ -1133,7 +1133,7 @@ Alternative rap, also known as underground hip hop or indie hip hop, is a subgen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 39</li>
+            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1152,7 +1152,7 @@ Alternative rap, also known as underground hip hop or indie hip hop, is a subgen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 15</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1230,12 +1230,12 @@ Alternative rap, also known as underground hip hop or indie hip hop, is a subgen
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 2</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 2</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 4</li>
             <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 15</li>
-            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 20</li>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 84</li>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 97</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 99</li>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 99</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 16</li>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1278,7 +1278,7 @@ Alternative rap, also known as underground hip hop or indie hip hop, is a subgen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/napoli" | relative_url }}">napoli</a> # 79</li>
+            <li> <a href="{{ "/tags/napoli" | relative_url }}">napoli</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1298,7 +1298,7 @@ Alternative rap, also known as underground hip hop or indie hip hop, is a subgen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 51</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1323,8 +1323,8 @@ Alternative rap, also known as underground hip hop or indie hip hop, is a subgen
       <td>
         <ul>
             <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 17</li>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 61</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 82</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 19</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1399,9 +1399,9 @@ Alternative rap, also known as underground hip hop or indie hip hop, is a subgen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 92</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 95</li>
-            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 97</li>
+            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 4</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 6</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1439,15 +1439,15 @@ Alternative rap, also known as underground hip hop or indie hip hop, is a subgen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 5</li>
             <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 5</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 19</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 5</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 24</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 29</li>
             <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 44</li>
+            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 44</li>
             <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 53</li>
-            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 57</li>
             <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 71</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 77</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1492,7 +1492,7 @@ Alternative rap, also known as underground hip hop or indie hip hop, is a subgen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 72</li>
+            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1524,13 +1524,13 @@ Alternative rap, also known as underground hip hop or indie hip hop, is a subgen
       <td>
         <ul>
             <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 1</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 21</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 1</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 3</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 6</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 38</li>
             <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 45</li>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 63</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 80</li>
             <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 85</li>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 95</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 98</li>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1555,9 +1555,9 @@ Alternative rap, also known as underground hip hop or indie hip hop, is a subgen
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 1</li>
             <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 6</li>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 58</li>
-            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 100</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1579,8 +1579,8 @@ Alternative rap, also known as underground hip hop or indie hip hop, is a subgen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 25</li>
-            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 85</li>
+            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 16</li>
+            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1604,9 +1604,9 @@ Alternative rap, also known as underground hip hop or indie hip hop, is a subgen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 30</li>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 96</li>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 98</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 3</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 5</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1634,12 +1634,12 @@ Alternative rap, also known as underground hip hop or indie hip hop, is a subgen
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 12</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 13</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 15</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 19</li>
             <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 43</li>
-            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 81</li>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 82</li>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 85</li>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 88</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 89</li>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1666,9 +1666,9 @@ Alternative rap, also known as underground hip hop or indie hip hop, is a subgen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 18</li>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 76</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 84</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 17</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 25</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 83</li>
             <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 86</li>
         </ul>
       </td>
@@ -1688,7 +1688,7 @@ Alternative rap, also known as underground hip hop or indie hip hop, is a subgen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 56</li>
+            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1724,8 +1724,8 @@ Alternative rap, also known as underground hip hop or indie hip hop, is a subgen
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 21</li>
             <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 28</li>
-            <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1743,11 +1743,11 @@ Alternative rap, also known as underground hip hop or indie hip hop, is a subgen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 18</li>
-            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 31</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 33</li>
             <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 48</li>
             <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 57</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 68</li>
+            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 70</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1765,8 +1765,8 @@ Alternative rap, also known as underground hip hop or indie hip hop, is a subgen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 2</li>
             <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 26</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1814,9 +1814,9 @@ Alternative rap, also known as underground hip hop or indie hip hop, is a subgen
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 2</li>
             <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 7</li>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 54</li>
-            <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 99</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1869,11 +1869,11 @@ Alternative rap, also known as underground hip hop or indie hip hop, is a subgen
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 1</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 2</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 2</li>
             <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 7</li>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 46</li>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 99</li>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 99</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 100</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1900,10 +1900,10 @@ Alternative rap, also known as underground hip hop or indie hip hop, is a subgen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 49</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 15</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 19</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 52</li>
             <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 60</li>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 82</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1927,9 +1927,9 @@ Alternative rap, also known as underground hip hop or indie hip hop, is a subgen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 94</li>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 94</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 97</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 4</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 7</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1956,10 +1956,10 @@ Alternative rap, also known as underground hip hop or indie hip hop, is a subgen
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 7</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 9</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 10</li>
             <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 30</li>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 91</li>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 92</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -2023,8 +2023,8 @@ Alternative rap, also known as underground hip hop or indie hip hop, is a subgen
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 7</li>
             <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 26</li>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -2052,7 +2052,7 @@ Alternative rap, also known as underground hip hop or indie hip hop, is a subgen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 44</li>
+            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -2074,7 +2074,7 @@ Alternative rap, also known as underground hip hop or indie hip hop, is a subgen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 26</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -2122,7 +2122,7 @@ Alternative rap, also known as underground hip hop or indie hip hop, is a subgen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 91</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -2155,10 +2155,10 @@ Alternative rap, also known as underground hip hop or indie hip hop, is a subgen
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 5</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 8</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 8</li>
             <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 28</li>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 93</li>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 93</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -2225,7 +2225,7 @@ Alternative rap, also known as underground hip hop or indie hip hop, is a subgen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 48</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -2248,7 +2248,7 @@ Alternative rap, also known as underground hip hop or indie hip hop, is a subgen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 37</li>
+            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 64</li>
         </ul>
       </td>
     </tr>

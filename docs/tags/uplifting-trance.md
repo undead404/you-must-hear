@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T01:07:45.916Z
+date: 2025-12-06T06:30:27.353Z
 permalink: tags/uplifting-trance
 title: uplifting trance
 ---
 
 ## uplifting trance
 
-Last updated: <time datetime="2025-12-04T01:07:45.916Z">Thu Dec 04 2025 03:07:45 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T06:30:27.353Z">Sat Dec 06 2025 08:30:27 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Uplifting trance is an energetic electronic dance music style characterized by s
   </thead>
   <tbody>
     <tr>
-      <td>28</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/mO6uu2yl6Mhf5fAB7pSlZtVZClhgiuB3juQEQovl-RI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzk1/MTk2LTE2NTM4Mjg0/MjItNTg0My5qcGVn.jpeg" alt="Cover for Black Pearl" style="max-width:120px; height:auto;" />
       </td>
@@ -51,24 +51,7 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
     </tr>
     <tr>
-      <td>37</td>
-      <td>
-      </td>
-      <td>1972</td>
-      <td>Various Artists</td>
-      <td>Anjunabeats Volume Five</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>99</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5643daa4d117434cb529be23e771b35c.png" alt="Cover for Anjunabeats Worldwide 01" style="max-width:120px; height:auto;" />
       </td>
@@ -86,7 +69,24 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>64</td>
+      <td>
+      </td>
+      <td>1972</td>
+      <td>Various Artists</td>
+      <td>Anjunabeats Volume Five</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/IHvMpMhWQugl60SaxYcszY9wD49j0YvTBmcGzzmbP7E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDAt/MTU5MTUyMjUwMS01/NTA2LmpwZWc.jpeg" alt="Cover for Best" style="max-width:120px; height:auto;" />
       </td>
@@ -108,7 +108,7 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/4gdv3dj_4y7s8ZbojklbC1S2UEJXHOSXhdL_TZi8zgs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDM0/OTgtMTQ1Nzg2Mjcw/OS05MzQxLmpwZWc.jpeg" alt="Cover for Ramelia (Tribute To Amelia)" style="max-width:120px; height:auto;" />
       </td>
@@ -128,7 +128,7 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/CtmIyN8TQqSrVDC_qa_QRcOKbq0kUPs0H7qAS0EGSSA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzI2/MTAxLTE1MDMxNTk4/NzYtMTM0NS5qcGVn.jpeg" alt="Cover for Untitled Album" style="max-width:120px; height:auto;" />
       </td>
@@ -145,12 +145,12 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 81</li>
+            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 20</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/vNi5V5UapEuAiWL3bZSDDRLCY8x5Z4iyHgT-XjfBuBs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDY1/LTExNDM2NDUwMDEu/anBlZw.jpeg" alt="Cover for Tears" style="max-width:120px; height:auto;" />
       </td>
@@ -170,7 +170,7 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/WQWQnlgmc_UsZZEi3KnyQ0QQanNBk0hmRkfeOi9CC_8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjk3/NTEtMTMwNTY0NzAw/Mi5qcGVn.jpeg" alt="Cover for Clear Blue Water" style="max-width:120px; height:auto;" />
       </td>
@@ -184,13 +184,13 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 35</li>
             <li> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a> # 43</li>
-            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/QoHEmccEQQy75LFPkp_N1NSeAcI-WfvM-ue734u4bZ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjQ2/LTE1NzkzMTY2MTAt/MzE5NC5qcGVn.jpeg" alt="Cover for Letting Go" style="max-width:120px; height:auto;" />
       </td>
@@ -210,7 +210,7 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/nQQfbc54LFDUTRzlqitk46thadXs7Mf9F_XFrTXa0k0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODYx/NS0xMTYwNjUxMTM3/LmpwZWc.jpeg" alt="Cover for It&#39;s Up To You (Symsonic)" style="max-width:120px; height:auto;" />
       </td>
@@ -230,7 +230,7 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/oqwu3gtq3l4WFbStEiXLDwfJH9ybpI3MlMzLeo0-_eQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjAx/MzctMTYyODk4OTY0/My01NzkxLmpwZWc.jpeg" alt="Cover for Timeless (Keep On Movin&#39;)" style="max-width:120px; height:auto;" />
       </td>
@@ -246,13 +246,31 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 76</li>
-            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 98</li>
+            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 3</li>
+            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 25</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>23</td>
+      <td>
+          <img src="https://i.discogs.com/ocJwHUWW5en5vXSe-frYm8xpdvtj2Z1KtZ-WycR5rZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjUz/NzQtMTMzNTUwNjQ3/OC5qcGVn.jpeg" alt="Cover for Anthems of Rust &amp; Decay: A Tribute to Marilyn Manson" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Various Artists</td>
+      <td>Anthems of Rust &amp; Decay: A Tribute to Marilyn Manson</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/oqpwqeEVn_Yb0FTrSjWWYaRxHGcBEmcDqRG38Pmn_iY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTA5/MTczLTE0OTg5MTIz/MDItMTE1OS5qcGVn.jpeg" alt="Cover for Let The Light Shine In" style="max-width:120px; height:auto;" />
       </td>
@@ -271,25 +289,7 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
     </tr>
     <tr>
-      <td>77</td>
-      <td>
-          <img src="https://i.discogs.com/ocJwHUWW5en5vXSe-frYm8xpdvtj2Z1KtZ-WycR5rZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjUz/NzQtMTMzNTUwNjQ3/OC5qcGVn.jpeg" alt="Cover for Anthems of Rust &amp; Decay: A Tribute to Marilyn Manson" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2004</td>
-      <td>Various Artists</td>
-      <td>Anthems of Rust &amp; Decay: A Tribute to Marilyn Manson</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>91</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/tY4KKLfvZX3nPEqCJUpdKDAjXtJgMePnfunl6FrW1o4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Mzcw/NC0xMTA1NzI3NDY2/LmpwZw.jpeg" alt="Cover for 8th Wonder" style="max-width:120px; height:auto;" />
       </td>
@@ -307,7 +307,7 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/87d41672584449ab977f123d5faf7b28.png" alt="Cover for India" style="max-width:120px; height:auto;" />
       </td>
@@ -327,12 +327,30 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       <td>
         <ul>
             <li> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a> # 19</li>
-            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 79</li>
+            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 22</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>4</td>
+      <td>
+          <img src="https://i.discogs.com/EOQe5Lz1gye4ay8XffbvQpvdcASbKz9LGf-nwsWsTRA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzODIx/Ni0xNTc2MjMxMTcy/LTIwNjAuanBlZw.jpeg" alt="Cover for Won&#39;t Sleep Tonight" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Super8 &amp; Tab</td>
+      <td>Won&#39;t Sleep Tonight</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/wZZgYH6azVsEez6y2ZG6naI-7xv4ujf17nOKb5TH9-s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzA5/NDUtMTIwMjM2Mzg4/Mi5qcGVn.jpeg" alt="Cover for Voiceless" style="max-width:120px; height:auto;" />
       </td>
@@ -351,25 +369,7 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
     </tr>
     <tr>
-      <td>96</td>
-      <td>
-          <img src="https://i.discogs.com/EOQe5Lz1gye4ay8XffbvQpvdcASbKz9LGf-nwsWsTRA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzODIx/Ni0xNTc2MjMxMTcy/LTIwNjAuanBlZw.jpeg" alt="Cover for Won&#39;t Sleep Tonight" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2006</td>
-      <td>Super8 &amp; Tab</td>
-      <td>Won&#39;t Sleep Tonight</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>33</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/6c_7T8L-nFOb_nYM-94j_kBO4YRalL4yLzdB560UW2c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NjI2/Ny0xNDc0OTYzODMw/LTc4MDQuanBlZw.jpeg" alt="Cover for Open Your Eyes" style="max-width:120px; height:auto;" />
       </td>
@@ -390,7 +390,7 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/aKjycna-Pj0iDhrMotSOONJ0jlOpbMlJXniOnQJd5hc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNzMx/NC0xMjY5OTUzODIy/LmpwZWc.jpeg" alt="Cover for Morning Drive" style="max-width:120px; height:auto;" />
       </td>
@@ -409,7 +409,7 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/NzDhTuqR3Oqt0OdFYIA7H4c8SDMwVnupilknMWdPLzU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzk2/NjgtMTIwNDc4Mzk3/Mi5qcGVn.jpeg" alt="Cover for Nyctalopia" style="max-width:120px; height:auto;" />
       </td>
@@ -428,7 +428,7 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3ceb52fb08e540958e6e23dd22e0d38f.png" alt="Cover for Something To Live For" style="max-width:120px; height:auto;" />
       </td>
@@ -450,7 +450,7 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/RI4Ob3aCrHOIEq0M-SNt9L4g5Fk9XWtwSUrY7y-XPNQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzY3/ODAtMTMyOTc4NDY1/MC5qcGVn.jpeg" alt="Cover for Hope &#x2F; Autumn Radicals" style="max-width:120px; height:auto;" />
       </td>
@@ -468,7 +468,7 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/N3uEPoUoMbLLX6KpsAN0Wll8LI5Ha8Lphsydr1nsmNY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDgy/MTEtMTE4MzQ4NTE3/NS5qcGVn.jpeg" alt="Cover for Stung On River" style="max-width:120px; height:auto;" />
       </td>
@@ -489,7 +489,7 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>14</td>
       <td>
       </td>
       <td>2008-01-28</td>
@@ -510,7 +510,7 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/Z2Ro39t9TkhZotEVHrg7UBihTlIlSXDIM4lK-83yqOY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDI5/MzAtMTMyMzIwMzc4/MC5qcGVn.jpeg" alt="Cover for Shana" style="max-width:120px; height:auto;" />
       </td>
@@ -531,13 +531,13 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 74</li>
-            <li> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a> # 90</li>
+            <li> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a> # 11</li>
+            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 27</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/isuaa33PKeuAriFVbZ0DZGbzVD4sYP_93fiXVMabnjw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDc2/NzgwLTE2MTE0NzY5/MTctNjE1OC53ZWJw.jpeg" alt="Cover for The Last Rave on Earth" style="max-width:120px; height:auto;" />
       </td>
@@ -556,7 +556,7 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/78321df45cf4473d932b4ce8fd73af13.png" alt="Cover for Rewire" style="max-width:120px; height:auto;" />
       </td>
@@ -577,7 +577,7 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/Ju6A-vKHk3NaDhbuGGd-nR5boRF5QPwGQolrlEYz5_A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDk5/NTUtMTMwNzIxNzEz/OC5qcGVn.jpeg" alt="Cover for Somnium &#x2F; Photographique" style="max-width:120px; height:auto;" />
       </td>
@@ -597,38 +597,13 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 78</li>
-            <li> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a> # 94</li>
+            <li> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a> # 7</li>
+            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 23</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
-      <td>
-          <img src="https://i.discogs.com/8ThEHGI9aknH1tb7-0D3p3pO83soBNssN_3-dvV26cg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDkw/MzQtMTE5NDU0ODQy/My5qcGVn.jpeg" alt="Cover for Bastillon" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2009</td>
-      <td>Sander Van Doorn</td>
-      <td>Bastillon</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 70</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bc7d580e2280e44daddbab847dac170e.png" alt="Cover for Anjunabeats Volume 7" style="max-width:120px; height:auto;" />
       </td>
@@ -652,13 +627,38 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a> # 87</li>
+            <li> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a> # 14</li>
             <li> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>94</td>
+      <td>
+          <img src="https://i.discogs.com/8ThEHGI9aknH1tb7-0D3p3pO83soBNssN_3-dvV26cg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDkw/MzQtMTE5NDU0ODQy/My5qcGVn.jpeg" alt="Cover for Bastillon" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Sander Van Doorn</td>
+      <td>Bastillon</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 31</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
       <td>
       </td>
       <td>2009-02-23</td>
@@ -676,13 +676,13 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 92</li>
-            <li> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a> # 96</li>
+            <li> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a> # 5</li>
+            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 8</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/yHDqUKo76RggdxpOvy9bCXdqYYe9MPSozi7e9h9A_hc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTg3/ODAtMTIzMjUzOTMy/MS5qcGVn.jpeg" alt="Cover for Maxi Super Dance 4&#x2F;2001" style="max-width:120px; height:auto;" />
       </td>
@@ -704,7 +704,7 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>97</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/550a2ac44cd14e059a961d0c905ee44f.png" alt="Cover for Phoebe &#x2F; Love In Harmony" style="max-width:120px; height:auto;" />
       </td>
@@ -723,7 +723,7 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dfebdff14f55a03ad95602006670be56.png" alt="Cover for Niavara" style="max-width:120px; height:auto;" />
       </td>
@@ -740,12 +740,12 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 86</li>
+            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 15</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/cnZ_EN1qS2LVmQXXmhucfuEj4slsGlHZi7okLz74Id0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTM0/OTItMTYwMDQ3MDMy/Ni02MTAwLnBuZw.jpeg" alt="Cover for Light To Lies" style="max-width:120px; height:auto;" />
       </td>
@@ -766,14 +766,14 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a> # 3</li>
+            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 6</li>
             <li> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a> # 72</li>
-            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 94</li>
-            <li> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>17</td>
       <td>
       </td>
       <td>2009-06-29</td>
@@ -796,7 +796,7 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>19</td>
       <td>
       </td>
       <td>2009-07-02</td>
@@ -818,7 +818,7 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>98</td>
       <td>
           <img src="https://i.discogs.com/ZH3Hrmu0wnr3TqZ_ET3Qp83b2l9PvoWYfjwWjBzbHb0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTYw/NjYtMTI3NTEzMTU4/MS5qcGVn.jpeg" alt="Cover for Not The Same" style="max-width:120px; height:auto;" />
       </td>
@@ -838,7 +838,7 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>82</td>
       <td>
       </td>
       <td>2009-09-04</td>
@@ -858,7 +858,7 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/eF4C3xdtMm4R4-CeZ0Lu4AMXMFBCTU7OH4_88KLNS4k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODIz/NDEtMTI1ODE0MjE1/Mi5qcGVn.jpeg" alt="Cover for Long Way Home (Will Atkinson Club Mix)" style="max-width:120px; height:auto;" />
       </td>
@@ -877,7 +877,7 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a28fba5362b147d39aea5cd627372e83.png" alt="Cover for 009 Sound System" style="max-width:120px; height:auto;" />
       </td>
@@ -895,7 +895,7 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/54bbce99e793459c97be2ab447f7adae.png" alt="Cover for Anjunabeats Volume 8" style="max-width:120px; height:auto;" />
       </td>
@@ -920,7 +920,7 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fc7152b600ad4cfe9db153a22f507ade.png" alt="Cover for Black Is The New Yellow" style="max-width:120px; height:auto;" />
       </td>
@@ -940,7 +940,7 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/BJDV4wRCGN8k0qGcn7PtzI8Q7FHGv313OOhyyu-ZJ30/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODk4/MjctMTQ4NjkyNzI5/OC0yMjk4LmpwZWc.jpeg" alt="Cover for Running Out of Time" style="max-width:120px; height:auto;" />
       </td>
@@ -960,7 +960,7 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/2CnHmGZNgeMxwQ_prv1G7QFf3YhSdb5524nk4NP1LxM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTIx/MjEtMTI3ODk0MDM5/NC5qcGVn.jpeg" alt="Cover for Mess Of A Machine" style="max-width:120px; height:auto;" />
       </td>
@@ -980,7 +980,7 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/3EPZWEBUGYEqSAGJ78t-BNfJd-58LaYg9-1Xv22xkzs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MjUx/OTItMTI4MzM1MTk0/Ny5qcGVn.jpeg" alt="Cover for Tenacity &#x2F; Felicity" style="max-width:120px; height:auto;" />
       </td>
@@ -996,12 +996,12 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 77</li>
+            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 24</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/24c41a77c55f55c85227aad3e6b6b34c.png" alt="Cover for Balance" style="max-width:120px; height:auto;" />
       </td>
@@ -1023,13 +1023,13 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       <td>
         <ul>
             <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 18</li>
-            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 43</li>
+            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 58</li>
             <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>90</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f530dc6b48cb4426a1952694d9997b1a.png" alt="Cover for Empire" style="max-width:120px; height:auto;" />
       </td>
@@ -1048,7 +1048,7 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5fd2fd2fa2df4819811c7aa3d0d46ef1.png" alt="Cover for Northern Lights" style="max-width:120px; height:auto;" />
       </td>
@@ -1071,7 +1071,7 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/IrHYlgRXe52k6Kld89SggRYDrlFZ128XQUtEUY_7sXQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Nzgx/NDgtMTMwMDYyMDU3/OS5qcGVn.jpeg" alt="Cover for Northern Lights (Re-Lit)" style="max-width:120px; height:auto;" />
       </td>
@@ -1091,7 +1091,7 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/FQbD8hTnkSnuAJp6A4a6hq-rFl82Q3BUYBMwCimSwU8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTg1/NDItMTI4NzMyMDE1/Ny5qcGVn.jpeg" alt="Cover for Aisha" style="max-width:120px; height:auto;" />
       </td>
@@ -1110,7 +1110,7 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/MzUigi5O77gfcEDXEwy0XTBnJw1KlIbUqo_nE8G2pyg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Nzg3/NjYtMTU0ODAyNDY4/NC0zMDM5LmpwZWc.jpeg" alt="Cover for A State of Trance FOREVER" style="max-width:120px; height:auto;" />
       </td>
@@ -1131,7 +1131,7 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>92</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/76e59e81ce117e4de6a931de0c6dafcb.png" alt="Cover for 10 Years of Anjunabeats" style="max-width:120px; height:auto;" />
       </td>
@@ -1155,33 +1155,13 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 72</li>
-            <li> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a> # 72</li>
+            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 29</li>
+            <li> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
-      <td>
-          <img src="https://i.discogs.com/8_MDaR2BVYY4dYUIxm8JQf744j1q-myWie7iuOFAC4E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1OTk5/OTQtMTQ0MDAwNTk3/MS00MDc4LnBuZw.jpeg" alt="Cover for A State Of Trance Year Mix 2019 (Mixed by Armin van Buuren)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2011-05-13</td>
-      <td>Armin van Buuren</td>
-      <td>A State Of Trance Year Mix 2019 (Mixed by Armin van Buuren)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>45</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/v2z4CkBX4Ang04B2w8IRvI7RldiJdFHRwoy3CDIQvFk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMjUy/MjYtMTQ5NTA3Njk4/NC03ODExLmpwZWc.jpeg" alt="Cover for A State Of Trance Year Mix 2021 (Mixed by Armin van Buuren)" style="max-width:120px; height:auto;" />
       </td>
@@ -1201,7 +1181,27 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>91</td>
+      <td>
+          <img src="https://i.discogs.com/8_MDaR2BVYY4dYUIxm8JQf744j1q-myWie7iuOFAC4E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1OTk5/OTQtMTQ0MDAwNTk3/MS00MDc4LnBuZw.jpeg" alt="Cover for A State Of Trance Year Mix 2019 (Mixed by Armin van Buuren)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-05-13</td>
+      <td>Armin van Buuren</td>
+      <td>A State Of Trance Year Mix 2019 (Mixed by Armin van Buuren)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/q7GFj0Ek6KJRTgd3ZrGuE3Z_f_LD0zkguUbpnmGKDjs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzAx/MTQtMTI4MDEzOTI3/MC5qcGVn.jpeg" alt="Cover for Soul Searchin&#39; &#x2F; Piece Of Me" style="max-width:120px; height:auto;" />
       </td>
@@ -1217,12 +1217,12 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 82</li>
+            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 19</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>95</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8ff4eb389a094ca8a74fb6e296139ff4.png" alt="Cover for Group Therapy" style="max-width:120px; height:auto;" />
       </td>
@@ -1237,14 +1237,33 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       <td>
         <ul>
             <li> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a> # 31</li>
+            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 32</li>
             <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 35</li>
-            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 69</li>
             <li> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>11</td>
+      <td>
+          <img src="https://i.discogs.com/zyLRpWhAv99t3506mWSSvh_dbWIzsvR5MZnSK3rEQNM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTg2/NDgtMTMwOTE3MjM5/MS5qcGVn.jpeg" alt="Cover for Ashes &#x2F; Fabricator" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-06-27</td>
+      <td>Sebastian Brandt</td>
+      <td>Ashes &#x2F; Fabricator</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7d255941f57f49989cf45e2c592a09c8.png" alt="Cover for Rocket Ride" style="max-width:120px; height:auto;" />
       </td>
@@ -1265,26 +1284,7 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
     </tr>
     <tr>
-      <td>89</td>
-      <td>
-          <img src="https://i.discogs.com/zyLRpWhAv99t3506mWSSvh_dbWIzsvR5MZnSK3rEQNM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTg2/NDgtMTMwOTE3MjM5/MS5qcGVn.jpeg" alt="Cover for Ashes &#x2F; Fabricator" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2011-06-27</td>
-      <td>Sebastian Brandt</td>
-      <td>Ashes &#x2F; Fabricator</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>44</td>
+      <td>57</td>
       <td>
       </td>
       <td>2011-07-04</td>
@@ -1302,7 +1302,7 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>85</td>
       <td>
       </td>
       <td>2011-09-30</td>
@@ -1320,7 +1320,7 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>93</td>
       <td>
           <img src="https://i.discogs.com/W36Jbqt1S_1leNYH5NIn5zMF3xkLqjxkd_yyjstBU-Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTI2/MzUtMTMyMjQzODgx/My5qcGVn.jpeg" alt="Cover for Tears of Memories EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1336,12 +1336,12 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 71</li>
+            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 30</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>26</td>
       <td>
       </td>
       <td>2011-12-19</td>
@@ -1356,12 +1356,12 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 93</li>
+            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 7</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9aa7c2e3dc434695aa6db99528fdb0c1.png" alt="Cover for A State of Trance 2012" style="max-width:120px; height:auto;" />
       </td>
@@ -1383,13 +1383,13 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a> # 82</li>
-            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 83</li>
+            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 18</li>
+            <li> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a> # 19</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/E_xaGMMyDr8RjZBdzkJW-U3M98QoyduDlb8LqVoeOHE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Njkx/MzctMTQ1MzU0NzAx/Ni00NzMyLmpwZWc.jpeg" alt="Cover for Waking Up The Stars" style="max-width:120px; height:auto;" />
       </td>
@@ -1408,7 +1408,7 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/10d2e0a909984f65aee7a8e441aa9b57.png" alt="Cover for Unfold" style="max-width:120px; height:auto;" />
       </td>
@@ -1427,7 +1427,7 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>99</td>
       <td>
           <img src="https://i.discogs.com/Ezpw21jke1iFPd3RXg-wCBlu9UmUPNfNpSR-cDstes4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Nzk0/NzgtMTM0NTM5NDE2/My02NzQ1LmpwZWc.jpeg" alt="Cover for Welcome Home" style="max-width:120px; height:auto;" />
       </td>
@@ -1447,7 +1447,7 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/wyQS-lxy_JJc0D5XBHYy-DDwCu_yt05Sg-_i0JQBW9Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NjMw/NDktMTM1MDgyNDM5/OS05Nzk2LmpwZWc.jpeg" alt="Cover for Revive EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1465,7 +1465,7 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>96</td>
       <td>
           <img src="https://i.discogs.com/td1d77khfu8msHlr5WHpvrVOY3EdyxYVel6T4rkNDdE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMDg4/MzEtMTM1ODYwMzkw/OC02NTM4LmpwZWc.jpeg" alt="Cover for #Trancefamily" style="max-width:120px; height:auto;" />
       </td>
@@ -1481,12 +1481,12 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 68</li>
+            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/9BHXxGDBCnp4sqc9wuEf0BlZferdu3YorhkmcBz5TMA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNDY1/NDUtMTU1MjQ5NjYz/MS03MzEzLmpwZWc.jpeg" alt="Cover for Spellbound" style="max-width:120px; height:auto;" />
       </td>
@@ -1502,12 +1502,12 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 84</li>
+            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 16</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>40</td>
       <td>
       </td>
       <td>2013-03-25</td>
@@ -1522,12 +1522,12 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 88</li>
+            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 12</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
       </td>
       <td>2013-05-27</td>
@@ -1546,7 +1546,7 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
       </td>
       <td>2013-07-26</td>
@@ -1567,7 +1567,7 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9e5002d8ef934d8ccd2e1e6c71f35aa1.png" alt="Cover for Global Monster" style="max-width:120px; height:auto;" />
       </td>
@@ -1587,7 +1587,7 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>81</td>
       <td>
       </td>
       <td>2014-11-03</td>
@@ -1605,7 +1605,7 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/8nyFu5_W2zrYgC0zsgHXeamIm12iA2CL42jcFkLoX50/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMzk0/MTMtMTQxNzQ1NDk1/My00MjkwLmpwZWc.jpeg" alt="Cover for Kepler" style="max-width:120px; height:auto;" />
       </td>
@@ -1624,7 +1624,7 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/bpxBL4e-2qUdaRfnLWv1XBAN7orgXgT2OnBhrgHVcEU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MTE4/NTktMTUwMTI4MTgy/OS00MjkyLmpwZWc.jpeg" alt="Cover for Not Out" style="max-width:120px; height:auto;" />
       </td>
@@ -1644,7 +1644,7 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/Z4TINPcCzmwegQ2U2cskhDCQuzlNzxdAeyGxgylb85k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNDcz/NTktMTQ1NDEzMzc5/MS0yNTI0LmpwZWc.jpeg" alt="Cover for Faces (Indecent Noise Remix)" style="max-width:120px; height:auto;" />
       </td>
@@ -1663,7 +1663,7 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/9q3hiDrPAZ6T5BsztXGJD-DCay4v8Jh4-73_PshJHYk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNjE1/NTktMTQ0MDA5MjA5/OS0yNzgxLmpwZWc.jpeg" alt="Cover for Evoke" style="max-width:120px; height:auto;" />
       </td>
@@ -1682,7 +1682,7 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/qyIylw9sTlZz38SVgLHPUIx7RKCxoqF2wf2ASG7a6Qo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjM3/MjktMTIzNTQwMTg5/MC5qcGVn.jpeg" alt="Cover for Into Something" style="max-width:120px; height:auto;" />
       </td>
@@ -1702,7 +1702,7 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/DSYhCLyxWMZaZdnmNgWYA8YsN6rzv51m0RxylscesZQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzQ3/NDA1LTE1NjAyNjI3/MTctNDg3Ny5qcGVn.jpeg" alt="Cover for God (Evian Christ Remix)" style="max-width:120px; height:auto;" />
       </td>
@@ -1721,7 +1721,7 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/QE-cEnqRKmucNd7gLtCL0cwR1gZwhyG7lHAgjbMawvo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDAy/OTE1LTE1MTU3MDE4/NTktMTI4NC5qcGVn.jpeg" alt="Cover for Nakhti" style="max-width:120px; height:auto;" />
       </td>
@@ -1739,7 +1739,7 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/IAGG_nex5_ERV_MBhA61yO3jNJmc9uBUbfxz91JEE-M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODY4/ODItMTU2NDYwNTYy/MC03NjUyLmpwZWc.jpeg" alt="Cover for You Never Know" style="max-width:120px; height:auto;" />
       </td>
@@ -1760,13 +1760,13 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 75</li>
-            <li> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a> # 92</li>
+            <li> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a> # 9</li>
+            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 26</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/zYkAI8RcSCtwEp5ILAXhy1vQmcuxJB6nHYUFJwUmHfQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODk2/MDMzLTE1NjM2MzA3/MTUtNDkyMS5wbmc.jpeg" alt="Cover for Evolver" style="max-width:120px; height:auto;" />
       </td>
@@ -1785,7 +1785,7 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a88e2732957d8d0c5ffed550a47afd0a.png" alt="Cover for Ateriavia" style="max-width:120px; height:auto;" />
       </td>
@@ -1799,12 +1799,12 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 89</li>
+            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 12</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/kTzGvDzYieiX0hRycH0J_fv1XmPaHNx2x4bqcXS-wQ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjc4/NDMzLTE2MDY0NzEw/NDctNjU0OC5qcGVn.jpeg" alt="Cover for Rush" style="max-width:120px; height:auto;" />
       </td>
@@ -1823,7 +1823,7 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/Gqgy0MutY6p4J5NnarpczeAMfCNGTpB5zLbvTYTBmoU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Nzkw/MTE4LTE2MTU0NjMz/OTktMjcyNy5qcGVn.jpeg" alt="Cover for Black Hole (The Remixes)" style="max-width:120px; height:auto;" />
       </td>
@@ -1846,7 +1846,7 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/hhQWPk3oRXilnto2ylbmcJ2hNmi6h6g_RbNmKBRtbBk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDc0/NTgxLTE2MTM2NjA3/MTEtOTYzMS5qcGVn.jpeg" alt="Cover for A State Of Trance 1000 - Celebration Mix (Mixed by Armin van Buuren)" style="max-width:120px; height:auto;" />
       </td>
@@ -1866,7 +1866,7 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/i8RzN8wNanaEqXq7DaHn6Ky4qsHIKhVJFzYi-Gw6Q3Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDEx/MTU3LTE2MjI4MTU2/OTEtNjg5My5qcGVn.jpeg" alt="Cover for Eternity" style="max-width:120px; height:auto;" />
       </td>
@@ -1881,12 +1881,12 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 97</li>
+            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 4</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/87a05f068ff5d0e9d74dbcc367667b6f.png" alt="Cover for Dream Dance Vol. 39" style="max-width:120px; height:auto;" />
       </td>
@@ -1906,7 +1906,7 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/3CCTvAv-n1HzfVOdZcbgpuNy0bfyoOLym6RCF2egVJI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTg2/NzEtMTMzNTIxOTI3/MS5qcGVn.jpeg" alt="Cover for Premonition" style="max-width:120px; height:auto;" />
       </td>
@@ -1925,7 +1925,7 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/lJZD37OnKrgkHh1ALNtIXdRpx-6ET5Sfa0naqWUllyE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTk0/MTc3LTE2NzIyNDg3/MDktNjM0Ny5qcGVn.jpeg" alt="Cover for Horizons [Part 3]" style="max-width:120px; height:auto;" />
       </td>
@@ -1944,81 +1944,7 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Aly &amp; Fila feat. Sue McLaren</td>
-      <td>Rising Sun</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 67</li>
-            <li> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a> # 88</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>12</td>
-      <td>
-      </td>
-      <td></td>
-      <td>ReOrder feat Stine Grove</td>
-      <td>Biscay Bay</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 73</li>
-            <li> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a> # 89</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>23</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Vast Vision Feat. Fisher</td>
-      <td>Behind Your Smile</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 76</li>
-            <li> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a> # 93</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>75</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f0d5b3dd0c108cc1a9e10301972eb3f7.png" alt="Cover for Monstercat - 5 Year Anniversary" style="max-width:120px; height:auto;" />
       </td>
@@ -2041,23 +1967,22 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 61</li>
+            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 40</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>78</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6564b1d561b74c5f97352eb070267cdf.png" alt="Cover for Sunset Boulevard" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>Alex M.O.R.P.H. Feat. Ana Criado</td>
-      <td>Sunset Boulevard</td>
+      <td>Vast Vision Feat. Fisher</td>
+      <td>Behind Your Smile</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a></li>
@@ -2065,18 +1990,72 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a> # 8</li>
+            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 25</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>89</td>
       <td>
       </td>
       <td></td>
-      <td>Roger Shah And Signum</td>
-      <td>Healesville Sanctuary</td>
+      <td>ReOrder feat Stine Grove</td>
+      <td>Biscay Bay</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a> # 12</li>
+            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 28</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Aly &amp; Fila feat. Sue McLaren</td>
+      <td>Rising Sun</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a> # 13</li>
+            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 34</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Richard Durand ft. Ellie Lawson</td>
+      <td>Wide Awake</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a></li>
         </ul>
@@ -2087,7 +2066,7 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>22</td>
       <td>
       </td>
       <td></td>
@@ -2107,18 +2086,39 @@ Uplifting trance is an energetic electronic dance music style characterized by s
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>43</td>
       <td>
       </td>
       <td></td>
-      <td>Richard Durand ft. Ellie Lawson</td>
-      <td>Wide Awake</td>
+      <td>Roger Shah And Signum</td>
+      <td>Healesville Sanctuary</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6564b1d561b74c5f97352eb070267cdf.png" alt="Cover for Sunset Boulevard" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Alex M.O.R.P.H. Feat. Ana Criado</td>
+      <td>Sunset Boulevard</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a></li>
         </ul>
       </td>
       <td>

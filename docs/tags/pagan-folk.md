@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T01:01:45.712Z
+date: 2025-12-06T06:27:45.653Z
 permalink: tags/pagan-folk
 title: pagan folk
 ---
 
 ## pagan folk
 
-Last updated: <time datetime="2025-12-04T01:01:45.712Z">Thu Dec 04 2025 03:01:45 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T06:27:45.653Z">Sat Dec 06 2025 08:27:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
   </thead>
   <tbody>
     <tr>
-      <td>1</td>
+      <td>100</td>
       <td>
           <img src="https://i.discogs.com/MDuMuG5p6fcfxYlWiStyrkCESZfzhsh4ARjtsXizGhM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzg5/ODA1LTE1OTA3NTM2/OTMtNjEwMy5qcGVn.jpeg" alt="Cover for Plus Ça Change" style="max-width:120px; height:auto;" />
       </td>
@@ -49,7 +49,7 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/41ce2e9f731c6aacd789403b42bc21c3.png" alt="Cover for Plus Ça Change..." style="max-width:120px; height:auto;" />
       </td>
@@ -69,7 +69,7 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>65</td>
       <td>
       </td>
       <td>1991</td>
@@ -86,7 +86,7 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b4d9d766ad5bad4296d0d31f89a0a07c.png" alt="Cover for Out of the Corner of the Eye" style="max-width:120px; height:auto;" />
       </td>
@@ -105,7 +105,7 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>88</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/76872381aaf04a88a4481c88152f9eab.png" alt="Cover for Music from Ancient Rome, Volume 1: Wind Instruments" style="max-width:120px; height:auto;" />
       </td>
@@ -122,7 +122,7 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f333e02801d3e9012524b12a7b121750.png" alt="Cover for Hantaoma" style="max-width:120px; height:auto;" />
       </td>
@@ -139,16 +139,16 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 29</li>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 29</li>
+            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 11</li>
+            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 20</li>
             <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 50</li>
-            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 81</li>
-            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 90</li>
+            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 72</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/389717a8c141a26bbae086b05b8675a5.png" alt="Cover for The Winds That Sang of Midgard&#39;s Fate" style="max-width:120px; height:auto;" />
       </td>
@@ -162,12 +162,12 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 70</li>
+            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/63f3adce365e47e1a86a12e74f348a4a.png" alt="Cover for Белое Сердце" style="max-width:120px; height:auto;" />
       </td>
@@ -188,7 +188,28 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>83</td>
+      <td>
+          <img src="https://i.discogs.com/jFRSNYzcaL_sLQU64TOJSJo_zyHUPxT_s0TaTipLaV4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTQ0/MzgtMTM2MTk2NzMx/OC02NjYzLmpwZWc.jpeg" alt="Cover for Goreją wici wojenne" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>Piorun</td>
+      <td>Goreją wici wojenne</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/poland" | relative_url }}">poland</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/polish" | relative_url }}">polish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
       <td>
           <img src="https://i.discogs.com/ypWGdGCxJt1wg3o2u57Lsu2lku-v97Hv97RS-8cf7j0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTcy/ODYtMTQ5MTEzODI2/OS04NzQ5LmpwZWc.jpeg" alt="Cover for Goreja Wici Wojenne" style="max-width:120px; height:auto;" />
       </td>
@@ -210,28 +231,7 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
     </tr>
     <tr>
-      <td>18</td>
-      <td>
-          <img src="https://i.discogs.com/jFRSNYzcaL_sLQU64TOJSJo_zyHUPxT_s0TaTipLaV4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTQ0/MzgtMTM2MTk2NzMx/OC02NjYzLmpwZWc.jpeg" alt="Cover for Goreją wici wojenne" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1999</td>
-      <td>Piorun</td>
-      <td>Goreją wici wojenne</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/poland" | relative_url }}">poland</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/polish" | relative_url }}">polish</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/362dbb8ff23fcde8d95b089f40d962a1.png" alt="Cover for Scarborough Fair" style="max-width:120px; height:auto;" />
       </td>
@@ -267,31 +267,31 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 1</li>
+            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 3</li>
+            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 4</li>
+            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 8</li>
+            <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 12</li>
             <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 13</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 15</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 14</li>
             <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 15</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 15</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 15</li>
             <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 16</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 16</li>
             <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 24</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 24</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 28</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 29</li>
             <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 42</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 43</li>
             <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 46</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 58</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 72</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 72</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 77</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 82</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 86</li>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 87</li>
-            <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 89</li>
-            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 93</li>
-            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 97</li>
-            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 98</li>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/bs4DvAK4__9UNuSAobqHOEYx2ki0uTgP-fjsFX77ATU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTcy/OTA4LTE2NTIxNDUx/MTgtNTEzNi5qcGVn.jpeg" alt="Cover for Carolling the May" style="max-width:120px; height:auto;" />
       </td>
@@ -309,7 +309,7 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1795786c76654e629798f82feac74199.png" alt="Cover for Music from Ancient Rome, Volume 2: String Instruments" style="max-width:120px; height:auto;" />
       </td>
@@ -326,7 +326,7 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/OQz4z2J8u6lyNbcy7BG56GnNtFwaVNfKQvvDl_yYYDs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTk4/NDUtMTIwOTUxNTg4/MS5qcGVn.jpeg" alt="Cover for Ugnies Apeigos" style="max-width:120px; height:auto;" />
       </td>
@@ -342,12 +342,12 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lithuanian" | relative_url }}">lithuanian</a> # 45</li>
+            <li> <a href="{{ "/tags/lithuanian" | relative_url }}">lithuanian</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>96</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8efba891e5e0463fa74985b9c59c15be.png" alt="Cover for Daemonia Nymphe" style="max-width:120px; height:auto;" />
       </td>
@@ -360,13 +360,37 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 17</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 84</li>
             <li> <a href="{{ "/tags/greek" | relative_url }}">greek</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>44</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/107efb97485c1bf3e81fdf70ca68e410.png" alt="Cover for Maudat" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Stille Volk</td>
+      <td>Maudat</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 28</li>
+            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 44</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 73</li>
+            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 83</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/F8ez3eEtVCPpllQ0Q8MeFMcMHfD8UE4ELYW5xV4tRb4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NDMz/OC0xNDI2Mjg4OTEz/LTc4ODcuanBlZw.jpeg" alt="Cover for Perkūno Giesmės" style="max-width:120px; height:auto;" />
       </td>
@@ -383,36 +407,12 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lithuanian" | relative_url }}">lithuanian</a> # 42</li>
+            <li> <a href="{{ "/tags/lithuanian" | relative_url }}">lithuanian</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/107efb97485c1bf3e81fdf70ca68e410.png" alt="Cover for Maudat" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2003</td>
-      <td>Stille Volk</td>
-      <td>Maudat</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
-            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 18</li>
-            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 57</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 73</li>
-            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 73</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/H9VOVAD24tqf7YxYw7NLpxNbOGLNDmy3_rcLCuHYfKg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTYy/ODEtMTYxNjAxODU0/Ni05MjAwLmpwZWc.jpeg" alt="Cover for Один" style="max-width:120px; height:auto;" />
       </td>
@@ -431,12 +431,12 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-folk-noir" | relative_url }}">ambient folk noir</a> # 87</li>
+            <li> <a href="{{ "/tags/ambient-folk-noir" | relative_url }}">ambient folk noir</a> # 14</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1f10a5832aebcce184e89c742ff7f541.png" alt="Cover for 廃墟と楽園" style="max-width:120px; height:auto;" />
       </td>
@@ -456,16 +456,16 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 5</li>
             <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 29</li>
-            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 35</li>
-            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 60</li>
+            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 41</li>
+            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 66</li>
             <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 79</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4865ab1d4e6b80ce11aa743066a0b245.png" alt="Cover for Licht" style="max-width:120px; height:auto;" />
       </td>
@@ -483,7 +483,7 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1616e93fe8c1e07eae5f9111452cd249.png" alt="Cover for Hear the Voice" style="max-width:120px; height:auto;" />
       </td>
@@ -500,31 +500,13 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 62</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 39</li>
             <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
-      <td>
-          <img src="https://i.discogs.com/zfCTUVNXYxNicwcYi_pKXcGUYStjESkpmtLbL3kavGQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODYw/NDM2LTE1OTkyMzcw/OTItODU1MS5wbmc.jpeg" alt="Cover for Through the Veil" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2004</td>
-      <td>Seed</td>
-      <td>Through the Veil</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/WE6tQM7p-T0JI6qFj0XXkCRK2ZYbyVl6MCNS3E477Tc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODk0/MjQtMTI5NjY3MDAy/OC5qcGVn.jpeg" alt="Cover for Stajemy Jak Ojce" style="max-width:120px; height:auto;" />
       </td>
@@ -542,7 +524,25 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>37</td>
+      <td>
+          <img src="https://i.discogs.com/zfCTUVNXYxNicwcYi_pKXcGUYStjESkpmtLbL3kavGQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODYw/NDM2LTE1OTkyMzcw/OTItODU1MS5wbmc.jpeg" alt="Cover for Through the Veil" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Seed</td>
+      <td>Through the Veil</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4eaac50d6fb4403b8ff6d2848b7fc316.png" alt="Cover for Crone of War" style="max-width:120px; height:auto;" />
       </td>
@@ -556,12 +556,12 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 89</li>
+            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 12</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
       </td>
       <td>2004-12</td>
@@ -576,12 +576,12 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 47</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/VU1Ld5ajX-g5qdg84K1sASDAQqeUxECaB1YALGD9dcg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTE5/MjEtMTMwMzk3OTk3/Ny5qcGVn.jpeg" alt="Cover for Prųsū Giesmės" style="max-width:120px; height:auto;" />
       </td>
@@ -597,12 +597,12 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lithuanian" | relative_url }}">lithuanian</a> # 8</li>
+            <li> <a href="{{ "/tags/lithuanian" | relative_url }}">lithuanian</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>40</td>
       <td>
       </td>
       <td>2006-01-25</td>
@@ -656,23 +656,23 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 6</li>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 19</li>
-            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 40</li>
-            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 50</li>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 51</li>
-            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 53</li>
-            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 63</li>
-            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 64</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 11</li>
+            <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 22</li>
+            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 25</li>
+            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 37</li>
+            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 38</li>
+            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 48</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 50</li>
+            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 51</li>
+            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 61</li>
             <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 66</li>
-            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 76</li>
-            <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 79</li>
-            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 90</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 82</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/v-bMMbITeUCo9j381tRK3dQbtzqbtGHFBbGSWzKQVqI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODY1/ODEwLTE1ODMwODIy/OTAtODc0OS5qcGVn.jpeg" alt="Cover for The Quickening" style="max-width:120px; height:auto;" />
       </td>
@@ -690,7 +690,7 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/3H08ywOPBz2lCpG6eR3VO9JTC73hIXQVXYHVAxPv13s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTQ1/MjItMTIwNzM2NjY1/Ny5qcGVn.jpeg" alt="Cover for Rusalnaia" style="max-width:120px; height:auto;" />
       </td>
@@ -708,7 +708,7 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef073dcdec2dbdfca42869425d428950.png" alt="Cover for Krataia Asterope" style="max-width:120px; height:auto;" />
       </td>
@@ -723,13 +723,13 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 60</li>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 79</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 22</li>
+            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 40</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0c32cbcec79f83586f85e4c06d97faeb.png" alt="Cover for Istoria～Musa～" style="max-width:120px; height:auto;" />
       </td>
@@ -750,37 +750,15 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 6</li>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 26</li>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 35</li>
             <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 56</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 66</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 75</li>
+            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>81</td>
-      <td>
-          <img src="https://i.discogs.com/cYLG7FAYe-guA7aKmen3O-QppEW-yRUQucQTNZzjRTQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTUy/OTctMTMzNzQ4MDMw/OS02NjkyLmpwZWc.jpeg" alt="Cover for Mała Nocka" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2008</td>
-      <td>Jar</td>
-      <td>Mała Nocka</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/poland" | relative_url }}">poland</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/polish" | relative_url }}">polish</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 68</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
       </td>
       <td>2008</td>
@@ -801,7 +779,47 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>20</td>
+      <td>
+          <img src="https://i.discogs.com/cYLG7FAYe-guA7aKmen3O-QppEW-yRUQucQTNZzjRTQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTUy/OTctMTMzNzQ4MDMw/OS02NjkyLmpwZWc.jpeg" alt="Cover for Mała Nocka" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>Jar</td>
+      <td>Mała Nocka</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/poland" | relative_url }}">poland</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/polish" | relative_url }}">polish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 33</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0fe9fd04a4dd461bb3d5b3d6e5417350.png" alt="Cover for Vigil" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-01</td>
+      <td>Nebelung</td>
+      <td>Vigil</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/Eysjj4zMDuKapGPeb1d9plWOtaf4jwaeNBc5CXJOdu0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzI3/ODctMTUwNzczODcw/NS01NjcwLmpwZWc.jpeg" alt="Cover for Riddles of the Worm EP" style="max-width:120px; height:auto;" />
       </td>
@@ -824,25 +842,7 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
     </tr>
     <tr>
-      <td>31</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0fe9fd04a4dd461bb3d5b3d6e5417350.png" alt="Cover for Vigil" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2008-01</td>
-      <td>Nebelung</td>
-      <td>Vigil</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>67</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/Uh5o-aOtPMCDfOuTFrwDUgrjmGclzmGmMfsCzoKieAY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTUy/NTUtMTI0MTI2Nzc5/Ny5qcGVn.jpeg" alt="Cover for And the Ancestral Pagan Flame Shall Never Fade" style="max-width:120px; height:auto;" />
       </td>
@@ -862,7 +862,7 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/83ac3658744bb24c698cd92154cad40a.png" alt="Cover for Runaljod - gap var Ginnunga" style="max-width:120px; height:auto;" />
       </td>
@@ -875,36 +875,13 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 41</li>
+            <li> <a href="{{ "/tags/nordic-folk" | relative_url }}">nordic folk</a> # 2</li>
+            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>75</td>
-      <td>
-          <img src="https://i.discogs.com/wgh4B5s5GzulubXdO7P2Nu0wg1JM0_ZNwiiQGBZ1tuE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzIx/MDMtMTIzOTc4ODg4/MS5qcGVn.jpeg" alt="Cover for Osforras" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2009-03-15</td>
-      <td>The Moon and the Nightspirit</td>
-      <td>Osforras</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 32</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 82</li>
-            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 94</li>
-            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 96</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8d6e6a021dba4effced5a8f2b214f5ed.png" alt="Cover for Ösforrás" style="max-width:120px; height:auto;" />
       </td>
@@ -920,12 +897,36 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 99</li>
+            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 2</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>26</td>
+      <td>
+          <img src="https://i.discogs.com/wgh4B5s5GzulubXdO7P2Nu0wg1JM0_ZNwiiQGBZ1tuE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzIx/MDMtMTIzOTc4ODg4/MS5qcGVn.jpeg" alt="Cover for Osforras" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-03-15</td>
+      <td>The Moon and the Nightspirit</td>
+      <td>Osforras</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 5</li>
+            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 7</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 32</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 82</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2133a9f35405499ec92a49fdd29f1c52.png" alt="Cover for Harmonia" style="max-width:120px; height:auto;" />
       </td>
@@ -946,16 +947,16 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 42</li>
+            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 39</li>
             <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 49</li>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 50</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 51</li>
             <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 58</li>
-            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 62</li>
+            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>93</td>
       <td>
           <img src="https://i.discogs.com/zpvhjmzwbRZDQrhMHJ_fm0EahO6DdDRi0G09O7l_ktI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzEy/ODgtMTI1NTg3Njcx/NS5qcGVn.jpeg" alt="Cover for Quantus Tremor Est Futurus" style="max-width:120px; height:auto;" />
       </td>
@@ -975,7 +976,7 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/FQ0iR9H3TVlujYQwd5ZkWJKbn22nm0zjHZHSENS7iQY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0OTg2/OTktMTM2NjU5MTk2/NC03Mjg2LmpwZWc.jpeg" alt="Cover for Niesiem Plon" style="max-width:120px; height:auto;" />
       </td>
@@ -992,12 +993,12 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 60</li>
+            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>71</td>
       <td>
       </td>
       <td>2010-05-19</td>
@@ -1051,18 +1052,18 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 1</li>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 3</li>
-            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 13</li>
-            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 41</li>
-            <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 50</li>
-            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 52</li>
-            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 54</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 47</li>
+            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 49</li>
+            <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 51</li>
+            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 60</li>
+            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 88</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 98</li>
+            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
       </td>
       <td>2011-04-15</td>
@@ -1082,14 +1083,14 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 57</li>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 77</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 24</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 44</li>
             <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/4mwYeO0vrac22VSYQXwao4VDk-ci4LyDShsKkyWd9Q4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjE2/NTEtMTMwNzQwODAy/Ny5qcGVn.jpeg" alt="Cover for Deus Ignotus" style="max-width:120px; height:auto;" />
       </td>
@@ -1108,12 +1109,12 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 45</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f38deeee1e442ffb629d2bbcd08fdbc.png" alt="Cover for 白夢の繭～Ricordando il passato～" style="max-width:120px; height:auto;" />
       </td>
@@ -1143,17 +1144,17 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 21</li>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 25</li>
             <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 27</li>
-            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 40</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 47</li>
+            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 60</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 76</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 80</li>
             <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/ZoaZuyykfGZtig0j6KrvEz5VuSECukg8Y_2NzcW-owU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDA4/NTEtMTMyNDY4Mzg2/MS5qcGVn.jpeg" alt="Cover for The Minstrel&#39;s Grave" style="max-width:120px; height:auto;" />
       </td>
@@ -1171,7 +1172,7 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/817e9dff057a4583afeae7ab9f00ebd2.png" alt="Cover for Sverker" style="max-width:120px; height:auto;" />
       </td>
@@ -1189,7 +1190,7 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/gsvOUVuj5Z-xiDqVVQsMRUws6MJ2eez2RL_bPKJWLKw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4ODc0/NjctMTM3ODUyNDA0/NC02MTQ1LmpwZWc.jpeg" alt="Cover for Dusk and Silence" style="max-width:120px; height:auto;" />
       </td>
@@ -1211,7 +1212,7 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/6aA3xsxb3P43_5s250GfIM5gqh6lBfv0sbYuuLRSNyE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNzQ5/OTEtMTQzNTQwNjQx/OC05OTIxLmpwZWc.jpeg" alt="Cover for Gryningen" style="max-width:120px; height:auto;" />
       </td>
@@ -1232,12 +1233,12 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 55</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 46</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/4ISpeW-ME9KwRsubQ0hY_Co-7fXioxRgNkkd8V5mQNE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyOTAy/MjgtMTQ3ODAzMzM2/Mi02NjQ5LmpwZWc.jpeg" alt="Cover for The Voice of the Forest" style="max-width:120px; height:auto;" />
       </td>
@@ -1260,7 +1261,7 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e97c81b1fb0844729aeddfd7cb924814.png" alt="Cover for Von den Elben" style="max-width:120px; height:auto;" />
       </td>
@@ -1279,7 +1280,7 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/457f398ee01042d6c2b36c86b5ebcf16.png" alt="Cover for Runaljod – Yggdrasil" style="max-width:120px; height:auto;" />
       </td>
@@ -1293,12 +1294,13 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 95</li>
+            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 6</li>
+            <li> <a href="{{ "/tags/nordic-folk" | relative_url }}">nordic folk</a> # 7</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/19a3ee90230380ddd702d80bed0b1be8.png" alt="Cover for Pieśni Obłąkane" style="max-width:120px; height:auto;" />
       </td>
@@ -1323,7 +1325,7 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ebf0a55979ba852ffc058a257e959719.png" alt="Cover for July" style="max-width:120px; height:auto;" />
       </td>
@@ -1336,13 +1338,13 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 36</li>
             <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 41</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a115a6e4516f177e85e48d5b7f41c405.png" alt="Cover for An danzza" style="max-width:120px; height:auto;" />
       </td>
@@ -1366,7 +1368,7 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7225019012994049c0f3421648d45131.png" alt="Cover for Earth Warrior" style="max-width:120px; height:auto;" />
       </td>
@@ -1384,7 +1386,7 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/HTXxl_2cQiuuJoWG8NQsthW9rZiW2zVKa6vcrmKjOZo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDcz/MjItMTMzODEzMzE0/My05ODkwLmpwZWc.jpeg" alt="Cover for South European Folk Compendium" style="max-width:120px; height:auto;" />
       </td>
@@ -1406,12 +1408,12 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 26</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/DtDDndScqw8P3xUxHsVrDJFsyHJaukHX8NM8kn6I2po/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MTMz/ODItMTQ0MjY3ODc0/OS00Mzk0LmpwZWc.jpeg" alt="Cover for Pagan Folk Und Apocalyptic Psychedelia" style="max-width:120px; height:auto;" />
       </td>
@@ -1432,7 +1434,7 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6568a043ea3e4ec4ce736f2353477a79.png" alt="Cover for Komm&#39; Mit" style="max-width:120px; height:auto;" />
       </td>
@@ -1449,12 +1451,12 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 37</li>
+            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>84</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bd852617c869639442d93f38a7c39d95.png" alt="Cover for Portal to Elfland" style="max-width:120px; height:auto;" />
       </td>
@@ -1474,7 +1476,7 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/6Dbqq80LnTh63qwkczX0gkKJqtQ-GcUdrCRZrBkqVvc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3Mzg3/NDAtMTYwMDc4NTE3/Mi00MzE1LmpwZWc.jpeg" alt="Cover for LYS" style="max-width:120px; height:auto;" />
       </td>
@@ -1493,7 +1495,7 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c62a3df3b134f47a697a2d47e252e38.png" alt="Cover for Mythos Hildebrandslied" style="max-width:120px; height:auto;" />
       </td>
@@ -1513,7 +1515,7 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a66882b87de55b632baf94dd0c7b8a97.png" alt="Cover for Naked Harp" style="max-width:120px; height:auto;" />
       </td>
@@ -1533,12 +1535,12 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       <td>
         <ul>
             <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 13</li>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 84</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 17</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/29aa79d0da55bdf5b1c7229ffbd13689.png" alt="Cover for Midgard (Tour Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1559,7 +1561,7 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e6555e743a42d348bfb1e76978825268.png" alt="Cover for Runaljod - Ragnarok" style="max-width:120px; height:auto;" />
       </td>
@@ -1572,11 +1574,31 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/nordic-folk" | relative_url }}">nordic folk</a> # 6</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>38</td>
+      <td>
+          <img src="https://i.discogs.com/4es8SARpsc6RPVfI8ysKEvVDYNY3AaKrJSLqsT4mpWg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzQ0/OTI3LTE1MDM1MjIz/NjItODg1OC5qcGVn.jpeg" alt="Cover for Greenheart" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017</td>
+      <td>Banshee</td>
+      <td>Greenheart</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b2e41c1e982839cf94c7849a839c9f0f.png" alt="Cover for Anaman" style="max-width:120px; height:auto;" />
       </td>
@@ -1601,26 +1623,7 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
     </tr>
     <tr>
-      <td>63</td>
-      <td>
-          <img src="https://i.discogs.com/4es8SARpsc6RPVfI8ysKEvVDYNY3AaKrJSLqsT4mpWg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzQ0/OTI3LTE1MDM1MjIz/NjItODg1OC5qcGVn.jpeg" alt="Cover for Greenheart" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2017</td>
-      <td>Banshee</td>
-      <td>Greenheart</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>45</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/NgQqj2vXMhT5Mm3OT7-jouO1Y1WcZGIBYT_-D6fA33s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTYx/ODQ4LTE0OTI2OTc1/MDAtMTY0OS5qcGVn.jpeg" alt="Cover for Young Druid" style="max-width:120px; height:auto;" />
       </td>
@@ -1636,12 +1639,12 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 21</li>
+            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/qGonfB9TJh5qhyq_HWw3v1aUBAWJAgQq8ESVU10QNmY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjc1/MjgwLTE1MDIyNjE0/OTEtMjE3NC5qcGVn.jpeg" alt="Cover for Mythos" style="max-width:120px; height:auto;" />
       </td>
@@ -1656,12 +1659,12 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 83</li>
+            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 18</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d580dd6040d8bb2832d72cc937127026.png" alt="Cover for Drif" style="max-width:120px; height:auto;" />
       </td>
@@ -1675,12 +1678,36 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 59</li>
+            <li> <a href="{{ "/tags/nordic-folk" | relative_url }}">nordic folk</a> # 19</li>
+            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>9</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4a5959b3ae9cf2175c3607c2879019ea.png" alt="Cover for Reflexions" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018</td>
+      <td>Omnia</td>
+      <td>Reflexions</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 9</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/085e4fa23dd6496cb0747d2c15633aee.png" alt="Cover for Sine Missione II" style="max-width:120px; height:auto;" />
       </td>
@@ -1702,36 +1729,13 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 4</li>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 49</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 52</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>92</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4a5959b3ae9cf2175c3607c2879019ea.png" alt="Cover for Reflexions" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2018</td>
-      <td>Omnia</td>
-      <td>Reflexions</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 92</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>42</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5afe56fc6f01e5276e7e68ca2521598c.png" alt="Cover for Herja" style="max-width:120px; height:auto;" />
       </td>
@@ -1744,11 +1748,12 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/nordic-folk" | relative_url }}">nordic folk</a> # 26</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5632b6233cb29e3877a09325d284bb8e.png" alt="Cover for Skald" style="max-width:120px; height:auto;" />
       </td>
@@ -1766,7 +1771,7 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/27eb1eb3232fa5891144f93361bc8661.png" alt="Cover for Runagaldr" style="max-width:120px; height:auto;" />
       </td>
@@ -1785,7 +1790,7 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/v4t9lsQJ638HqNtF_WMnKHFIFCejZ3OSVi9TLB-AnBs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjc5/NjE3LTE1NzM3MTc1/ODItODg1Ny5qcGVn.jpeg" alt="Cover for Futharuna" style="max-width:120px; height:auto;" />
       </td>
@@ -1795,17 +1800,19 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nordic-folk" | relative_url }}">nordic folk</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/nordic-folk" | relative_url }}">nordic folk</a> # 9</li>
             <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/bXwBLIFz6rAHC5AlsGk64D2a0FEj3PTN5tbLGkzSZ3w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTA1/MTc0LTE1Njc5NDE4/MTEtMTYxMi5qcGVn.jpeg" alt="Cover for Sól" style="max-width:120px; height:auto;" />
       </td>
@@ -1816,16 +1823,18 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nordic-folk" | relative_url }}">nordic folk</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/nordic-folk" | relative_url }}">nordic folk</a> # 5</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/067a897a5a501e4def96b171ec863800.png" alt="Cover for Fire In The White Stone" style="max-width:120px; height:auto;" />
       </td>
@@ -1848,7 +1857,7 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dba565883a8741a3a6bdd66588d1cd0d.png" alt="Cover for Jedyny i Jego Stalmoc" style="max-width:120px; height:auto;" />
       </td>
@@ -1873,7 +1882,7 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d6d114e32ed80ecc031d1f4bfbf19c1b.png" alt="Cover for Penta" style="max-width:120px; height:auto;" />
       </td>
@@ -1892,7 +1901,7 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>94</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/21f4f8c976dfc3a4016c2846b33dec03.png" alt="Cover for The Ways of The Wizard" style="max-width:120px; height:auto;" />
       </td>
@@ -1912,7 +1921,7 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/269cf21af7464b62cbab96ba428b3721.png" alt="Cover for Yggdrasil" style="max-width:120px; height:auto;" />
       </td>
@@ -1926,11 +1935,12 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/nordic-folk" | relative_url }}">nordic folk</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/83eaa07159645eb4ded4cf81f6a64dce.png" alt="Cover for Deep England" style="max-width:120px; height:auto;" />
       </td>
@@ -1951,7 +1961,7 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/64be7cfb8f1898a3ce8a011ce30940c9.png" alt="Cover for Himinfadir" style="max-width:120px; height:auto;" />
       </td>
@@ -1964,11 +1974,12 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/nordic-folk" | relative_url }}">nordic folk</a> # 30</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/342qyUozWf8m6jskPhiXdJDcFO_298c9_xdVk92BfZ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjQx/NzE5LTE1NTkwNTc1/MDYtMTkyMC5qcGVn.jpeg" alt="Cover for The Pagan Folk Festival" style="max-width:120px; height:auto;" />
       </td>
@@ -1986,7 +1997,7 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3aa83b4b8d9e79172b90b348babd2f4d.png" alt="Cover for Kvitravn - First Flight of the White Raven" style="max-width:120px; height:auto;" />
       </td>
@@ -1999,11 +2010,12 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/nordic-folk" | relative_url }}">nordic folk</a> # 15</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/S7kFlmu1kcCzoMJKgd9Oz6Z58E20jE4iHT5ogLzOXwA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzQ3/OTk2LTE2NTY2NTk2/ODktODA2NC5qcGVn.jpeg" alt="Cover for My Mother Told Me" style="max-width:120px; height:auto;" />
       </td>
@@ -2022,7 +2034,7 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>92</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b49136a09f33de45d74b8b44e65e3593.png" alt="Cover for The Wooden Wheel: Summer Storms" style="max-width:120px; height:auto;" />
       </td>
@@ -2045,7 +2057,7 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>99</td>
       <td>
       </td>
       <td>2023</td>
@@ -2063,7 +2075,7 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/LCxtUaoXZLT5l_wBkwcXh_tZanDMiezIBgEqxtcWO4s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTY0/NjcxLTE3MTE4Mjkw/MzctMTI0OS5qcGVn.jpeg" alt="Cover for Omnia Mutantur, Nihil Interit" style="max-width:120px; height:auto;" />
       </td>
@@ -2080,7 +2092,7 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/X67ytrRo3TvGdu1OE2br3a8-iJn6PbB2qt4O5jNs-gE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjc3/ODg1LTE3MzE1MDAz/NjgtNDI0NS5qcGVn.jpeg" alt="Cover for Duše" style="max-width:120px; height:auto;" />
       </td>
@@ -2099,7 +2111,7 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/KpX9kkRpQ2HvxNKbtmrfN6xx6PG7BggK3DXcZTt_a3o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTE1/MTkwLTE3MDE3Njcw/MzQtOTU5My5wbmc.jpeg" alt="Cover for Hedningarna" style="max-width:120px; height:auto;" />
       </td>
@@ -2113,6 +2125,7 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nordic-folk" | relative_url }}">nordic folk</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a></li>
@@ -2122,32 +2135,36 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 25</li>
+            <li> <a href="{{ "/tags/nordic-folk" | relative_url }}">nordic folk</a> # 43</li>
+            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>28</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/638ecb9add7c45368a8d7ca46143ab4c.png" alt="Cover for 白夢の繭 ～Ricordando il passato～" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>志方あきこ</td>
-      <td>白夢の繭 ～Ricordando il passato～</td>
+      <td>Alexia Evellyn</td>
+      <td>Hold On</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 50</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 83</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>60</td>
       <td>
       </td>
       <td></td>
@@ -2167,52 +2184,43 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 20</li>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 28</li>
             <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 60</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 73</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>73</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/638ecb9add7c45368a8d7ca46143ab4c.png" alt="Cover for 白夢の繭 ～Ricordando il passato～" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>Alexia Evellyn</td>
-      <td>Hold On</td>
+      <td>志方あきこ</td>
+      <td>白夢の繭 ～Ricordando il passato～</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 43</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 51</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>30</td>
       <td>
       </td>
       <td></td>
-      <td>Wire Worms</td>
-      <td>The First To Come In</td>
+      <td>Celtic Harp Soundscapes</td>
+      <td>Celtic Harp and Traditional Irish Music</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a></li>
         </ul>
       </td>
       <td>
@@ -2221,7 +2229,24 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>75</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Izmoroz&#39;</td>
+      <td>Zigomyod</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
       <td>
       </td>
       <td></td>
@@ -2240,33 +2265,22 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>98</td>
       <td>
       </td>
       <td></td>
-      <td>Izmoroz&#39;</td>
-      <td>Zigomyod</td>
+      <td>Wire Worms</td>
+      <td>The First To Come In</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>71</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Celtic Harp Soundscapes</td>
-      <td>Celtic Harp and Traditional Irish Music</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a></li>
         </ul>
       </td>
       <td>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T01:03:25.685Z
+date: 2025-12-06T06:28:35.185Z
 permalink: tags/swedish
 title: swedish
 ---
 
 ## swedish
 
-Last updated: <time datetime="2025-12-04T01:03:25.685Z">Thu Dec 04 2025 03:03:25 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T06:28:35.185Z">Sat Dec 06 2025 08:28:35 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -43,7 +43,7 @@ Swedish music refers to music originating from or produced in Sweden. Sweden has
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 10</li>
+            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -86,8 +86,8 @@ Swedish music refers to music originating from or produced in Sweden. Sweden has
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 2</li>
             <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 98</li>
-            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -106,8 +106,8 @@ Swedish music refers to music originating from or produced in Sweden. Sweden has
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 44</li>
-            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 71</li>
+            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 30</li>
+            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -615,8 +615,8 @@ Swedish music refers to music originating from or produced in Sweden. Sweden has
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 66</li>
-            <li> <a href="{{ "/tags/bounce" | relative_url }}">bounce</a> # 81</li>
+            <li> <a href="{{ "/tags/bounce" | relative_url }}">bounce</a> # 20</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -767,7 +767,7 @@ Swedish music refers to music originating from or produced in Sweden. Sweden has
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 59</li>
+            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -821,7 +821,7 @@ Swedish music refers to music originating from or produced in Sweden. Sweden has
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 69</li>
+            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -981,7 +981,7 @@ Swedish music refers to music originating from or produced in Sweden. Sweden has
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 49</li>
+            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1019,7 +1019,7 @@ Swedish music refers to music originating from or produced in Sweden. Sweden has
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 100</li>
+            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -1111,7 +1111,7 @@ Swedish music refers to music originating from or produced in Sweden. Sweden has
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 68</li>
+            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1202,7 +1202,7 @@ Swedish music refers to music originating from or produced in Sweden. Sweden has
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 90</li>
+            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1224,7 +1224,7 @@ Swedish music refers to music originating from or produced in Sweden. Sweden has
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 67</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1413,9 +1413,9 @@ Swedish music refers to music originating from or produced in Sweden. Sweden has
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 4</li>
             <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 12</li>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 74</li>
-            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 97</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1659,27 +1659,27 @@ Swedish music refers to music originating from or produced in Sweden. Sweden has
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 8</li>
             <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 8</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 8</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 8</li>
+            <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 10</li>
             <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 10</li>
+            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 11</li>
             <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 22</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 23</li>
             <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 25</li>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 30</li>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 32</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 35</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 31</li>
             <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 37</li>
-            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 41</li>
             <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 44</li>
-            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 54</li>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 54</li>
+            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 47</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 55</li>
             <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 58</li>
             <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 61</li>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 62</li>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 61</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 63</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 64</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 70</li>
             <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 71</li>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 78</li>
-            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 90</li>
-            <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 91</li>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1826,9 +1826,9 @@ Swedish music refers to music originating from or produced in Sweden. Sweden has
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 3</li>
             <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 52</li>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 91</li>
-            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1850,8 +1850,8 @@ Swedish music refers to music originating from or produced in Sweden. Sweden has
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 93</li>
-            <li> <a href="{{ "/tags/sverige" | relative_url }}">sverige</a> # 97</li>
+            <li> <a href="{{ "/tags/sverige" | relative_url }}">sverige</a> # 4</li>
+            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1874,8 +1874,8 @@ Swedish music refers to music originating from or produced in Sweden. Sweden has
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 10</li>
             <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 49</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1915,7 +1915,7 @@ Swedish music refers to music originating from or produced in Sweden. Sweden has
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sverige" | relative_url }}">sverige</a> # 100</li>
+            <li> <a href="{{ "/tags/sverige" | relative_url }}">sverige</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1937,7 +1937,7 @@ Swedish music refers to music originating from or produced in Sweden. Sweden has
       <td>
         <ul>
             <li> <a href="{{ "/tags/eurovision" | relative_url }}">eurovision</a> # 2</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 70</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 31</li>
         </ul>
       </td>
     </tr>

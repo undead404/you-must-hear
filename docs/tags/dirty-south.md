@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T00:54:15.965Z
+date: 2025-12-06T05:28:07.714Z
 permalink: tags/dirty-south
 title: dirty south
 ---
 
 ## dirty south
 
-Last updated: <time datetime="2025-12-04T00:54:15.965Z">Thu Dec 04 2025 02:54:15 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T05:28:07.714Z">Sat Dec 06 2025 07:28:07 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
   </thead>
   <tbody>
     <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/64ddada0724445279bbd95cce01ab765.png" alt="Cover for Mr. Scarface Is Back" style="max-width:120px; height:auto;" />
       </td>
@@ -46,12 +46,12 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 15</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c6004c793c9542c899cba43b181a91df.png" alt="Cover for Southernplayalisticadillacmuzik" style="max-width:120px; height:auto;" />
       </td>
@@ -66,14 +66,35 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       <td>
         <ul>
             <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 21</li>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 33</li>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 38</li>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 75</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 26</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 63</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>100</td>
+      <td>
+          <img src="https://i.discogs.com/IVDPqMbREy-J6DjQt_MMHvP3-eTjXaDFQHrXhjuPI3w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMDM5/Ny0xMzk2NDE2NzY5/LTM2MjIuanBlZw.jpeg" alt="Cover for Fly Shit" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996</td>
+      <td>Playa Fly</td>
+      <td>Fly Shit</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a> # 39</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/859bb017773cde81ad221a6afad8e432.png" alt="Cover for Soul Food" style="max-width:120px; height:auto;" />
       </td>
@@ -91,7 +112,7 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/eb84d5da5f13b740a525e950d60e7972.png" alt="Cover for Ridin&#39; Dirty" style="max-width:120px; height:auto;" />
       </td>
@@ -106,13 +127,13 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       <td>
         <ul>
             <li> <a href="{{ "/tags/houston" | relative_url }}">houston</a> # 21</li>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 26</li>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 31</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 70</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>35</td>
       <td>
       </td>
       <td>1997-03-11</td>
@@ -126,12 +147,12 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 96</li>
+            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 5</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/Gi2S1jB3Lu0zxoni5GTk4Mr1te8Y6k5bblctOtV4AS8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTU5/MTItMTM2Mjc0NDY5/Ny00NjM3LmpwZWc.jpeg" alt="Cover for Movin&#39; On" style="max-width:120px; height:auto;" />
       </td>
@@ -149,7 +170,7 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/982e07720b2f4d099887f513a6dbc6e2.png" alt="Cover for The Commission" style="max-width:120px; height:auto;" />
       </td>
@@ -169,13 +190,13 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       <td>
         <ul>
             <li> <a href="{{ "/tags/houston" | relative_url }}">houston</a> # 9</li>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 57</li>
-            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 80</li>
+            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 21</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 44</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
       </td>
       <td>1998-05-19</td>
@@ -192,7 +213,7 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d525b9724ca5ccbb3aebf48918bd632b.png" alt="Cover for Aquemini" style="max-width:120px; height:auto;" />
       </td>
@@ -205,14 +226,14 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 36</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 65</li>
             <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 80</li>
             <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>97</td>
       <td>
       </td>
       <td>1998-09-30</td>
@@ -282,15 +303,15 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 17</li>
-            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 19</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 42</li>
             <li> <a href="{{ "/tags/straight-edge" | relative_url }}">straight edge</a> # 50</li>
+            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 82</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e4037dc46c6dd90de01f72f65f899264.png" alt="Cover for Ghetto Fabulous" style="max-width:120px; height:auto;" />
       </td>
@@ -308,13 +329,13 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/louisiana" | relative_url }}">louisiana</a> # 3</li>
             <li> <a href="{{ "/tags/new-orleans" | relative_url }}">new orleans</a> # 21</li>
-            <li> <a href="{{ "/tags/louisiana" | relative_url }}">louisiana</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/TBj3dL4hp8spEFjVzTILCDRz7vUSggKAWN0Kpo-Qm9E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNDQw/OTEtMTQ0OTg1MTg3/My01NDg0LmpwZWc.jpeg" alt="Cover for Frequency L.S.D." style="max-width:120px; height:auto;" />
       </td>
@@ -385,15 +406,15 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 22</li>
-            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 27</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 32</li>
             <li> <a href="{{ "/tags/straight-edge" | relative_url }}">straight edge</a> # 47</li>
+            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 74</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/_1HYzAH2r7xMFUo3pkCKC_d9IimuNZpwSr1QOZXBDXQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzA3/MzY0LTE1OTYzMDEx/OTctODI3MC5qcGVn.jpeg" alt="Cover for Da Fat Rat Wit da Cheese" style="max-width:120px; height:auto;" />
       </td>
@@ -409,13 +430,13 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 20</li>
             <li> <a href="{{ "/tags/houston" | relative_url }}">houston</a> # 22</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f77ec98c963ef7e0244f46a643a95eec.png" alt="Cover for City Of Syrup" style="max-width:120px; height:auto;" />
       </td>
@@ -435,13 +456,13 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       <td>
         <ul>
             <li> <a href="{{ "/tags/houston" | relative_url }}">houston</a> # 6</li>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 64</li>
-            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 83</li>
+            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 18</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 37</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e158db4c0e51f046aa68f753ae369c00.png" alt="Cover for Back For The First Time" style="max-width:120px; height:auto;" />
       </td>
@@ -455,13 +476,13 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 80</li>
-            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 84</li>
+            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 17</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 21</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/28229f48f77f2c5f648055c3b6273099.png" alt="Cover for Stankonia" style="max-width:120px; height:auto;" />
       </td>
@@ -476,13 +497,13 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 35</li>
             <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 49</li>
-            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ce4c9c16f0dc4d7ab61a93557f5289be.png" alt="Cover for 613: Ashy To Classy" style="max-width:120px; height:auto;" />
       </td>
@@ -501,7 +522,7 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5fb8a0c8618b343384189dc2a67bf0c7.png" alt="Cover for Face Off" style="max-width:120px; height:auto;" />
       </td>
@@ -517,12 +538,12 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 66</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 35</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f15fc26d2dc649a2486c511e84069823.png" alt="Cover for Word of Mouf" style="max-width:120px; height:auto;" />
       </td>
@@ -537,13 +558,13 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 47</li>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 90</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 11</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3698b7b0dd6b46dbbfdd224fe09482f2.png" alt="Cover for Diary of a Sinner: 1st Entry" style="max-width:120px; height:auto;" />
       </td>
@@ -561,7 +582,7 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>23</td>
       <td>
       </td>
       <td>2001-11-20</td>
@@ -578,7 +599,7 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/IJeKg2lBqPxs3DAeNsBUXJbWa7zy_NQruDjsfjVAlf8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjI0/My0xNDgwNTIwMTA5/LTYzNTEuanBlZw.jpeg" alt="Cover for Tarantula" style="max-width:120px; height:auto;" />
       </td>
@@ -598,29 +619,7 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
     </tr>
     <tr>
-      <td>30</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1fbf0950e44f42cfc228794662142b12.png" alt="Cover for From Tha Roota To Tha Toota" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2002</td>
-      <td>Field Mob</td>
-      <td>From Tha Roota To Tha Toota</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 49</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>31</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0469f86dbf9807a677fd60e33d958c06.png" alt="Cover for Hawk" style="max-width:120px; height:auto;" />
       </td>
@@ -638,12 +637,34 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       <td>
         <ul>
             <li> <a href="{{ "/tags/houston" | relative_url }}">houston</a> # 14</li>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 40</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>71</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1fbf0950e44f42cfc228794662142b12.png" alt="Cover for From Tha Roota To Tha Toota" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>Field Mob</td>
+      <td>From Tha Roota To Tha Toota</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 52</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d12425e2d8681001ba83d1b3151cb34.png" alt="Cover for Purple World" style="max-width:120px; height:auto;" />
       </td>
@@ -658,12 +679,12 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 37</li>
+            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
       </td>
       <td>2002-08-27</td>
@@ -681,7 +702,7 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>79</td>
       <td>
       </td>
       <td>2002-09-24</td>
@@ -699,7 +720,7 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>94</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b8a2eff4883b23f8cba89d4fff16924.png" alt="Cover for Life" style="max-width:120px; height:auto;" />
       </td>
@@ -719,26 +740,7 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
     </tr>
     <tr>
-      <td>27</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7265ed3b04c28f7091f69beedb85a4c9.png" alt="Cover for Chicken &amp; Beer" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2003</td>
-      <td>Ludacris</td>
-      <td>Chicken &amp; Beer</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 18</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>55</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f38e317486c43ffca78a89aea3b37d4d.png" alt="Cover for Da Unbreakables (Explicit Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -756,14 +758,14 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 1</li>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 62</li>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 63</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 38</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 39</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7ab8200c007c08167dd5e24620ee553a.png" alt="Cover for Trap Muzik" style="max-width:120px; height:auto;" />
       </td>
@@ -777,12 +779,12 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 9</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/Yd-fn-DxltUMqDDKUu372eYk6Y4WzuN8PorkKqfJKYU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzg2/My0xNDYwMTMzNTQ1/LTEyMzkuanBlZw.jpeg" alt="Cover for Speakerboxx&#x2F;The Love Below" style="max-width:120px; height:auto;" />
       </td>
@@ -801,7 +803,7 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d332e0adb492756227cbd767b3525734.png" alt="Cover for Chicken -N- Beer" style="max-width:120px; height:auto;" />
       </td>
@@ -819,7 +821,7 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/769af035d80b4b4fa59ab3c785c4efa1.png" alt="Cover for Straight Outta Cashville" style="max-width:120px; height:auto;" />
       </td>
@@ -839,7 +841,7 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c8fed8ae30c2f4653912129d89b3c4ef.png" alt="Cover for M.I.A.M.I." style="max-width:120px; height:auto;" />
       </td>
@@ -858,7 +860,7 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>88</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f1c60f5cd1d5a3bef71cf49291fbb429.png" alt="Cover for Active" style="max-width:120px; height:auto;" />
       </td>
@@ -875,12 +877,12 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 21</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>93</td>
       <td>
           <img src="https://i.discogs.com/iC9FCaU3M9BFUqb5WOuX0_Wzltdd-4kIK0WC9W01FF4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzA1/MTQtMTM4MjI4NjU3/NC0xMTIxLmpwZWc.jpeg" alt="Cover for I Need Mine" style="max-width:120px; height:auto;" />
       </td>
@@ -900,7 +902,7 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5587284577634cfcac7df806f8165da7.png" alt="Cover for Let The Truth Be Told" style="max-width:120px; height:auto;" />
       </td>
@@ -916,12 +918,12 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 61</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 40</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9fb4ed65780d4190c14ebc8b651ffa5f.png" alt="Cover for Most Known Unknown" style="max-width:120px; height:auto;" />
       </td>
@@ -936,12 +938,12 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       <td>
         <ul>
             <li> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a> # 14</li>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 75</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 26</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f1c54ed3a4e2cc0c48c0a068a789af88.png" alt="Cover for Trill" style="max-width:120px; height:auto;" />
       </td>
@@ -956,12 +958,12 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 93</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 8</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a216b875da1e4c02cc33f67019f0cfb7.png" alt="Cover for The Sound of Revenge" style="max-width:120px; height:auto;" />
       </td>
@@ -975,12 +977,12 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 78</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 23</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
       </td>
       <td>2005-12-13</td>
@@ -997,7 +999,7 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9d2ddf0ae53ccd0ab36f702442e02229.png" alt="Cover for Release Therapy" style="max-width:120px; height:auto;" />
       </td>
@@ -1016,7 +1018,7 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a22dc73bf6884aa9dffe9734603b9ca2.png" alt="Cover for King" style="max-width:120px; height:auto;" />
       </td>
@@ -1031,12 +1033,12 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 67</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/60c6452bcf6472ae5347a79931f646a2.png" alt="Cover for Stay Tru" style="max-width:120px; height:auto;" />
       </td>
@@ -1051,12 +1053,12 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 86</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 15</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>96</td>
       <td>
       </td>
       <td>2006-04-18</td>
@@ -1075,7 +1077,7 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/EXYPf3SQtOdCMru3D1ZC82ly_QmwQHVS2ksMHgSr4Y0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNTYx/MjItMTQ3OTE1Nzkx/My02ODM0LmpwZWc.jpeg" alt="Cover for Bred 2 Die Born 2 Live" style="max-width:120px; height:auto;" />
       </td>
@@ -1093,13 +1095,13 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 30</li>
-            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 79</li>
+            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 22</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
       </td>
       <td>2006-06-27</td>
@@ -1117,7 +1119,7 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bc482807115e9051400ade755a347e4c.png" alt="Cover for Port Of Miami" style="max-width:120px; height:auto;" />
       </td>
@@ -1136,7 +1138,7 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>99</td>
       <td>
       </td>
       <td>2006-10-25</td>
@@ -1206,15 +1208,15 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 15</li>
-            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 16</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 45</li>
             <li> <a href="{{ "/tags/straight-edge" | relative_url }}">straight edge</a> # 51</li>
+            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 85</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2116aa50d7d46497736e029e81c86bd9.png" alt="Cover for UGK (Underground Kingz)" style="max-width:120px; height:auto;" />
       </td>
@@ -1232,7 +1234,7 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e4297bac22629121fafc11a7de80b41e.png" alt="Cover for Buck The World" style="max-width:120px; height:auto;" />
       </td>
@@ -1250,7 +1252,7 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/WkcZb0j5ntASmXMa3GcVmtxbjGX_6Xynf_wF7dFkZdI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzI0/NTYtMTM0NTY4MDQ2/Ny04NzU1LmpwZWc.jpeg" alt="Cover for That&#39;s Gangsta [Feat. Sean Kingston]" style="max-width:120px; height:auto;" />
       </td>
@@ -1265,12 +1267,12 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 95</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 6</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/aaca3dd76d565a07560d88dcd4659d22.png" alt="Cover for What Cha Starin&#39; At? Mixtape" style="max-width:120px; height:auto;" />
       </td>
@@ -1284,14 +1286,14 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 27</li>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 28</li>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 77</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 24</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 73</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/401cd991da44e4c821b1a9ecc468c20a.png" alt="Cover for Ultimate Victory" style="max-width:120px; height:auto;" />
       </td>
@@ -1309,7 +1311,7 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
       </td>
       <td>2007-09-25</td>
@@ -1323,12 +1325,12 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 97</li>
+            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 4</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>98</td>
       <td>
           <img src="https://i.discogs.com/Vnv0PTr9_QzhQu3exejrh9U2HiLwRbQ0wRKoVyRgv9Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDgw/Mjk1LTE1MTcwODAy/NzItNTk2OS5qcGVn.jpeg" alt="Cover for Jungle de béton" style="max-width:120px; height:auto;" />
       </td>
@@ -1347,13 +1349,13 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 16</li>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 75</li>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 26</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>62</td>
       <td>
       </td>
       <td>2007-12-18</td>
@@ -1370,7 +1372,7 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/wAmKaYTZ9A76pFjobIckTiyqenoeA6zGISz5L02aRic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTY0/MjQtMTI0MTM0NzY1/Ny5qcGVn.jpeg" alt="Cover for Jizz In My Pants" style="max-width:120px; height:auto;" />
       </td>
@@ -1389,15 +1391,34 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 4</li>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 5</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 13</li>
             <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 33</li>
-            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 96</li>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>33</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/feae896ba358744e355e0980c5c1e1da.png" alt="Cover for The Suffix" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>Lil&#39; Wayne</td>
+      <td>The Suffix</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
       <td>
       </td>
       <td>2008</td>
@@ -1418,26 +1439,7 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
     </tr>
     <tr>
-      <td>68</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/feae896ba358744e355e0980c5c1e1da.png" alt="Cover for The Suffix" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2008</td>
-      <td>Lil&#39; Wayne</td>
-      <td>The Suffix</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f25521ad4de745dbc5385a6de6ff5498.png" alt="Cover for Trilla" style="max-width:120px; height:auto;" />
       </td>
@@ -1455,7 +1457,7 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/MDBPRBSgWouttTOaiIwLd87MZCuAXNpwi0AREXuRPLc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODk2/ODctMTQ0MjgzODU3/MC0xNTQwLmpwZWc.jpeg" alt="Cover for Mail On Sunday" style="max-width:120px; height:auto;" />
       </td>
@@ -1470,12 +1472,12 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 57</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 44</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/4EJJnG-CdFE9f2q7MSJhGmkgaw6tXf9w74fVCd1AiNo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDE1/MzktMTIyNTExOTc1/MS5qcGVn.jpeg" alt="Cover for The Prophecy" style="max-width:120px; height:auto;" />
       </td>
@@ -1517,17 +1519,17 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/nigeria" | relative_url }}">nigeria</a> # 13</li>
             <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 36</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 46</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 55</li>
             <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 61</li>
             <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 66</li>
             <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 77</li>
-            <li> <a href="{{ "/tags/nigeria" | relative_url }}">nigeria</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>90</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/01eef4162bca3d4bd14afa908ccc4faa.png" alt="Cover for Tha Carter III" style="max-width:120px; height:auto;" />
       </td>
@@ -1545,7 +1547,7 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>56</td>
       <td>
       </td>
       <td>2008-09-23</td>
@@ -1562,7 +1564,7 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/06836ba24f25105969a19a1be4061d56.png" alt="Cover for Paper Trail" style="max-width:120px; height:auto;" />
       </td>
@@ -1576,13 +1578,13 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 45</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 56</li>
             <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e99acf6d231c162771100941ee1c94a7.png" alt="Cover for R.O.O.T.S. (Route Of Overcoming The Struggle)" style="max-width:120px; height:auto;" />
       </td>
@@ -1604,7 +1606,7 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>74</td>
       <td>
       </td>
       <td>2009-04-14</td>
@@ -1623,14 +1625,14 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 38</li>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 45</li>
             <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 45</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 56</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>63</td>
       <td>
       </td>
       <td>2009-06-09</td>
@@ -1644,12 +1646,12 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 53</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>49</td>
       <td>
       </td>
       <td>2009-06-30</td>
@@ -1668,7 +1670,7 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/MG3vWXqVFdhEJboG4elRhAlcrNMT2bW9FV3VfBeSpo8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjY0/NTgyLTE1OTczNzg0/MDktODk3My5qcGVn.jpeg" alt="Cover for Natural Born Killa 2.0 Reloaded" style="max-width:120px; height:auto;" />
       </td>
@@ -1686,7 +1688,7 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>86</td>
       <td>
       </td>
       <td>2010-05-04</td>
@@ -1700,12 +1702,12 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/houston-rap" | relative_url }}">houston rap</a> # 92</li>
+            <li> <a href="{{ "/tags/houston-rap" | relative_url }}">houston rap</a> # 9</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/y1_2Npr2n8YWkeXf9noLfkOzOsivX-n6JwXjgB9WWxQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTE4/MTUtMTQ1OTY2MTE1/OS01OTE4LmpwZWc.jpeg" alt="Cover for Crunk Juice" style="max-width:120px; height:auto;" />
       </td>
@@ -1723,7 +1725,7 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9e2b910fc4844c76bbd710239604d7f3.png" alt="Cover for Trill O.G." style="max-width:120px; height:auto;" />
       </td>
@@ -1741,7 +1743,7 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7e07f8540dae4f2ca53e6860db5485a9.png" alt="Cover for Chicken Talk" style="max-width:120px; height:auto;" />
       </td>
@@ -1762,7 +1764,7 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
       </td>
       <td>2010-09-13</td>
@@ -1787,7 +1789,7 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9a6e9069a83370c9a9e26003ff2e8593.png" alt="Cover for No Boys Allowed" style="max-width:120px; height:auto;" />
       </td>
@@ -1805,7 +1807,7 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/6jPcwpkuZHyds2qsr-RcKORKZBQB1WBSWRg0_6cVD-I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NjUy/NTUtMTM0NzM3NTc1/MS0zNjA2LmpwZWc.jpeg" alt="Cover for Live At Roadburn" style="max-width:120px; height:auto;" />
       </td>
@@ -1877,16 +1879,16 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       <td>
         <ul>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 28</li>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 32</li>
-            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 40</li>
             <li> <a href="{{ "/tags/straight-edge" | relative_url }}">straight edge</a> # 44</li>
+            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 61</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 69</li>
             <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 90</li>
             <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0d069456a702443792141eb67b0fe39a.png" alt="Cover for Prayer for the Unborn" style="max-width:120px; height:auto;" />
       </td>
@@ -1960,19 +1962,19 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 16</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 16</li>
+            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 32</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 34</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 49</li>
             <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 52</li>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 52</li>
             <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 60</li>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 67</li>
-            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 69</li>
+            <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 85</li>
             <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/W7KGqgcUdfgdAtsJcH-X3IMHY27llwoFXRf-iN1ckFM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODk2/MDEzLTE1OTk3NjY2/MjctNjYzNi5qcGVn.jpeg" alt="Cover for I&#39;m On A Boat" style="max-width:120px; height:auto;" />
       </td>
@@ -1992,16 +1994,16 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 3</li>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 3</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 9</li>
+            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 10</li>
             <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 27</li>
-            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 91</li>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 98</li>
-            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/CFuMNCFPrkYWM-QRrsXHjXRSYPFnStOyT8zNIBl7bto/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDM3/NjI5LTE1NjY1ODA5/NTctNTQ5NC5qcGVn.jpeg" alt="Cover for Carrion Flowers - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -2074,29 +2076,30 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
         <ul>
             <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 8</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 8</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 8</li>
+            <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 10</li>
             <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 10</li>
+            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 11</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 23</li>
             <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 25</li>
-            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 28</li>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 30</li>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 32</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 35</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 31</li>
             <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 37</li>
-            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 41</li>
             <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 44</li>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 54</li>
-            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 54</li>
+            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 47</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 55</li>
             <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 58</li>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 61</li>
             <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 61</li>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 62</li>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 78</li>
-            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 90</li>
-            <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 91</li>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 93</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 63</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 64</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 70</li>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 71</li>
+            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/80b3250851494abbaed9b2b16193836b.png" alt="Cover for Stay Schemin" style="max-width:120px; height:auto;" />
       </td>
@@ -2116,7 +2119,7 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dcc624b9ff69b791b56ae9382dad6eed.png" alt="Cover for I Love Makonnen EP" style="max-width:120px; height:auto;" />
       </td>
@@ -2136,7 +2139,7 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/H2RDzsbgA3B_Btg_6iVX4Btq01xaUTHLMA4xnT17knM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTcw/NS0xMzMxOTE3ODg4/LmpwZWc.jpeg" alt="Cover for Chicken - N - Beer" style="max-width:120px; height:auto;" />
       </td>
@@ -2154,7 +2157,7 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f898c3fa3d4f49e5c97a707d9d602547.png" alt="Cover for Trap Goth" style="max-width:120px; height:auto;" />
       </td>
@@ -2175,7 +2178,7 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/221d53768d47338692fa9fc60b6a6b26.png" alt="Cover for FUTURE" style="max-width:120px; height:auto;" />
       </td>
@@ -2193,7 +2196,7 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/rvLlygj-CerMZD-V4dFIwxrrA8nP1yX1hXPQbLTJxIE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MTU4/Mi0xMzUyNTE2Mjg4/LTczMzEuanBlZw.jpeg" alt="Cover for I&#39;m Still Livin" style="max-width:120px; height:auto;" />
       </td>
@@ -2211,12 +2214,12 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       <td>
         <ul>
             <li> <a href="{{ "/tags/houston" | relative_url }}">houston</a> # 16</li>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 39</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e04efb1764f01985d9946873c4640bde.png" alt="Cover for Droptopwop" style="max-width:120px; height:auto;" />
       </td>
@@ -2236,7 +2239,7 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>84</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ceb2982a2dfc2b308a79ab0347d022ec.png" alt="Cover for 4eva Is a Mighty Long Time" style="max-width:120px; height:auto;" />
       </td>
@@ -2253,7 +2256,7 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8e7268e699fcf5a062224c3537f098e6.png" alt="Cover for Reflexions" style="max-width:120px; height:auto;" />
       </td>
@@ -2272,14 +2275,14 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 7</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 63</li>
             <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 72</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/DrYbGgz67UK_vyNQScnkXCEEM9WYDhnAKg1ZCiEyBv8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzcz/NDUyLTE1ODY3MTQy/ODMtNTIxMi5qcGVn.jpeg" alt="Cover for suffix" style="max-width:120px; height:auto;" />
       </td>
@@ -2298,7 +2301,7 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>95</td>
       <td>
           <img src="https://i.discogs.com/SABGEqxuy7F2w4D19WwYQsEP5PZdddf5MTa6en57uns/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODE1/NzMyLTE2MTU2MDY1/NTQtNTMzNC5qcGVn.jpeg" alt="Cover for Crack Dreams 2" style="max-width:120px; height:auto;" />
       </td>
@@ -2320,7 +2323,7 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3332d50004c84bbbb654afe6f22730bf.png" alt="Cover for Chemical Warfare" style="max-width:120px; height:auto;" />
       </td>
@@ -2347,16 +2350,16 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       <td>
         <ul>
             <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 28</li>
-            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 35</li>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 43</li>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 53</li>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 40</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 48</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 58</li>
             <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 60</li>
-            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 61</li>
+            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/MXnfQ2fx24oVlfkYg9ciYZolw74tbZdoGTSdgavaVSA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzgw/NDMzLTE1ODI0Nzc0/MjItNDYxOS5qcGVn.jpeg" alt="Cover for DJ Khaled Presents Ace Hood Gutta" style="max-width:120px; height:auto;" />
       </td>
@@ -2376,7 +2379,7 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/03ce096b2ac8b6625bb5a08333e4c2fd.png" alt="Cover for ZUU" style="max-width:120px; height:auto;" />
       </td>
@@ -2392,14 +2395,14 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 23</li>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 33</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 91</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 67</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 78</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4334b446d2918e8a838ae2d827059e80.png" alt="Cover for Megan" style="max-width:120px; height:auto;" />
       </td>
@@ -2413,33 +2416,30 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 68</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>60</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a78f19c475c0e6d03c4a0a4a5c8ba4a9.png" alt="Cover for Jackpot" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>Bohagon</td>
-      <td>Crunk in HD</td>
+      <td>Chingy</td>
+      <td>Jackpot</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 40</li>
-            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 80</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/902c815119c47d30706c19d7f84992fa.png" alt="Cover for BLVCKLVND Rvdix 66.6 (Remastered 2023)" style="max-width:120px; height:auto;" />
       </td>
@@ -2456,27 +2456,30 @@ Dirty South is a subgenre of hip-hop that originated in the southern United Stat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 35</li>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 63</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 38</li>
             <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 65</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>76</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a78f19c475c0e6d03c4a0a4a5c8ba4a9.png" alt="Cover for Jackpot" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>Chingy</td>
-      <td>Jackpot</td>
+      <td>Bohagon</td>
+      <td>Crunk in HD</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 48</li>
+            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 21</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 61</li>
         </ul>
       </td>
     </tr>

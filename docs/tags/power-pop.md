@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T01:02:27.053Z
+date: 2025-12-06T06:28:24.059Z
 permalink: tags/power-pop
 title: power pop
 ---
 
 ## power pop
 
-Last updated: <time datetime="2025-12-04T01:02:27.053Z">Thu Dec 04 2025 03:02:27 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T06:28:24.059Z">Sat Dec 06 2025 08:28:24 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -79,7 +79,7 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 26</li>
+            <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -99,7 +99,7 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pub-rock" | relative_url }}">pub rock</a> # 82</li>
+            <li> <a href="{{ "/tags/pub-rock" | relative_url }}">pub rock</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -169,7 +169,7 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 78</li>
+            <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -225,7 +225,7 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 6</li>
+            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -463,7 +463,7 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 92</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -557,8 +557,8 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 23</li>
             <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 25</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -599,7 +599,7 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 91</li>
+            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -789,7 +789,7 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 81</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -905,8 +905,8 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       <td>
         <ul>
             <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 6</li>
-            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 40</li>
             <li> <a href="{{ "/tags/girlgroup" | relative_url }}">girlgroup</a> # 42</li>
+            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1001,7 +1001,7 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 59</li>
+            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1209,7 +1209,7 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 25</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1255,8 +1255,8 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 8</li>
             <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 73</li>
-            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1317,10 +1317,10 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 15</li>
             <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 23</li>
             <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 51</li>
             <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 69</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1396,11 +1396,11 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 13</li>
+            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 25</li>
             <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 64</li>
             <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 67</li>
-            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 75</li>
             <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 84</li>
-            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1445,10 +1445,10 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       <td>
         <ul>
             <li> <a href="{{ "/tags/doomergaze" | relative_url }}">doomergaze</a> # 6</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 22</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 6</li>
             <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 78</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 79</li>
             <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 84</li>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1468,9 +1468,9 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 3</li>
             <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 3</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 100</li>
-            <li> <a href="{{ "/tags/riot-grrrl" | relative_url }}">riot grrrl</a> # 100</li>
+            <li> <a href="{{ "/tags/riot-grrrl" | relative_url }}">riot grrrl</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1509,10 +1509,10 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 2</li>
             <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 14</li>
             <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 22</li>
             <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 27</li>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1534,8 +1534,8 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 49</li>
-            <li> <a href="{{ "/tags/guitar-rock" | relative_url }}">guitar rock</a> # 98</li>
+            <li> <a href="{{ "/tags/guitar-rock" | relative_url }}">guitar rock</a> # 3</li>
+            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1554,7 +1554,7 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 52</li>
+            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1628,10 +1628,10 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       <td>
         <ul>
             <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 14</li>
+            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 15</li>
             <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 23</li>
             <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 42</li>
             <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 57</li>
-            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1650,7 +1650,7 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 99</li>
+            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1673,7 +1673,7 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 82</li>
+            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1754,11 +1754,11 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 7</li>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 35</li>
             <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 46</li>
-            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 66</li>
             <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 73</li>
             <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 80</li>
-            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1776,7 +1776,7 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 98</li>
+            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1815,8 +1815,8 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       <td>
         <ul>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 15</li>
-            <li> <a href="{{ "/tags/rock-opera" | relative_url }}">rock opera</a> # 35</li>
-            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 75</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 26</li>
+            <li> <a href="{{ "/tags/rock-opera" | relative_url }}">rock opera</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1860,11 +1860,11 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 1</li>
+            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 3</li>
             <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 10</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 19</li>
             <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 27</li>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 81</li>
-            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 98</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1885,7 +1885,7 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 84</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 17</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T00:57:39.889Z
+date: 2025-12-06T06:26:12.460Z
 permalink: tags/christian-rock
 title: christian rock
 ---
 
 ## christian rock
 
-Last updated: <time datetime="2025-12-04T00:57:39.889Z">Thu Dec 04 2025 02:57:39 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T06:26:12.460Z">Sat Dec 06 2025 08:26:12 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -102,7 +102,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       <td>
         <ul>
             <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 12</li>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 62</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 64</li>
             <li> <a href="{{ "/tags/worship" | relative_url }}">worship</a> # 81</li>
         </ul>
       </td>
@@ -129,7 +129,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 73</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -315,7 +315,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       <td>
         <ul>
             <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 9</li>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 37</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 38</li>
             <li> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a> # 82</li>
         </ul>
       </td>
@@ -412,7 +412,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/roots-rock" | relative_url }}">roots rock</a> # 72</li>
+            <li> <a href="{{ "/tags/roots-rock" | relative_url }}">roots rock</a> # 29</li>
             <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 78</li>
         </ul>
       </td>
@@ -432,7 +432,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 55</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -486,7 +486,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian-rap" | relative_url }}">christian rap</a> # 92</li>
+            <li> <a href="{{ "/tags/christian-rap" | relative_url }}">christian rap</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -560,7 +560,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 61</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -600,7 +600,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 27</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -622,7 +622,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 71</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -714,7 +714,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       <td>
         <ul>
             <li> <a href="{{ "/tags/worship" | relative_url }}">worship</a> # 8</li>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 46</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -735,7 +735,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       <td>
         <ul>
             <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 10</li>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 43</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -776,7 +776,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       <td>
         <ul>
             <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 17</li>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 75</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -902,7 +902,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 89</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -961,7 +961,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       <td>
         <ul>
             <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 42</li>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 49</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1086,7 +1086,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 20</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1126,7 +1126,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
         <ul>
             <li> <a href="{{ "/tags/worship" | relative_url }}">worship</a> # 18</li>
             <li> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a> # 43</li>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 92</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1147,7 +1147,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       <td>
         <ul>
             <li> <a href="{{ "/tags/worship" | relative_url }}">worship</a> # 2</li>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 21</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1171,7 +1171,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
         <ul>
             <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 14</li>
             <li> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a> # 32</li>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 69</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1191,7 +1191,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 20</li>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1215,10 +1215,10 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 4</li>
             <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 6</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 13</li>
             <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 33</li>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1239,8 +1239,8 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 14</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 53</li>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1261,7 +1261,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 36</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1372,7 +1372,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian-metal" | relative_url }}">christian metal</a> # 100</li>
+            <li> <a href="{{ "/tags/christian-metal" | relative_url }}">christian metal</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -1556,7 +1556,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian-metal" | relative_url }}">christian metal</a> # 4</li>
+            <li> <a href="{{ "/tags/christian-metal" | relative_url }}">christian metal</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1595,7 +1595,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       <td>
         <ul>
             <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 19</li>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 79</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1636,7 +1636,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 97</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1711,7 +1711,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 82</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1784,7 +1784,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian-metal" | relative_url }}">christian metal</a> # 96</li>
+            <li> <a href="{{ "/tags/christian-metal" | relative_url }}">christian metal</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1827,11 +1827,11 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 3</li>
             <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 5</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 9</li>
+            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 10</li>
             <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 27</li>
-            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 91</li>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1909,24 +1909,25 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
         <ul>
             <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 8</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 8</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 8</li>
+            <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 10</li>
             <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 10</li>
+            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 11</li>
             <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 22</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 23</li>
             <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 25</li>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 30</li>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 32</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 35</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 31</li>
             <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 37</li>
-            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 41</li>
             <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 44</li>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 54</li>
-            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 54</li>
+            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 47</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 55</li>
             <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 58</li>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 61</li>
             <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 61</li>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 62</li>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 78</li>
-            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 90</li>
-            <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 91</li>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 93</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 63</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 64</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 70</li>
+            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1992,10 +1993,10 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 25</li>
+            <li> <a href="{{ "/tags/christian-metalcore" | relative_url }}">christian metalcore</a> # 4</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 25</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 26</li>
             <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 66</li>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 76</li>
-            <li> <a href="{{ "/tags/christian-metalcore" | relative_url }}">christian metalcore</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -2020,10 +2021,10 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 17</li>
+            <li> <a href="{{ "/tags/christian-metalcore" | relative_url }}">christian metalcore</a> # 3</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 16</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 18</li>
             <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 44</li>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 85</li>
-            <li> <a href="{{ "/tags/christian-metalcore" | relative_url }}">christian metalcore</a> # 98</li>
         </ul>
       </td>
     </tr>
