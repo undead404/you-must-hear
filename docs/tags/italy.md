@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T22:16:59.306Z
+date: 2025-12-06T04:04:45.920Z
 permalink: tags/italy
 title: italy
 ---
 
 ## italy
 
-Last updated: <time datetime="2025-12-03T22:16:59.306Z">Thu Dec 04 2025 00:16:59 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T04:04:45.920Z">Sat Dec 06 2025 06:04:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Italian music encompasses a diverse range of styles from classical opera and bar
   </thead>
   <tbody>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/02881545d55ecd45dcb702ba99f2315a.png" alt="Cover for Sabato sera Studio Uno 1967" style="max-width:120px; height:auto;" />
       </td>
@@ -50,7 +50,7 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ac2177ffffa04fe18dcbf805a4aa164c.png" alt="Cover for La Buona Novella" style="max-width:120px; height:auto;" />
       </td>
@@ -64,12 +64,12 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 72</li>
+            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 28</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>98</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/59b29309a29d516f04ec41386459a49f.png" alt="Cover for Non al denaro non all&#39;amore né al cielo" style="max-width:120px; height:auto;" />
       </td>
@@ -84,14 +84,14 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 2</li>
+            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 30</li>
             <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 45</li>
-            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 71</li>
-            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>95</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c6f8f883230f49548e1e973c7c17333b.png" alt="Cover for Vita Nova" style="max-width:120px; height:auto;" />
       </td>
@@ -112,7 +112,7 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9c0a6f343f7ecba884076f7e6d8e7a4c.png" alt="Cover for Fabrizio De Andrè (Blu)" style="max-width:120px; height:auto;" />
       </td>
@@ -132,7 +132,7 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
       </td>
       <td>1972-04</td>
@@ -151,7 +151,7 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/09a046cc8647468cbd6adc71542c20d8.png" alt="Cover for Storia Di Un Impiegato" style="max-width:120px; height:auto;" />
       </td>
@@ -170,7 +170,7 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/c16c2uUy60dNbsw7V2SYYYv_f95AVNDCow0VsJH-Zaw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNjMz/OTQtMTUwNzk4ODkz/Ny0xODM4LmpwZWc.jpeg" alt="Cover for From Here to Eternity (Remastered)" style="max-width:120px; height:auto;" />
       </td>
@@ -188,7 +188,7 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>91</td>
       <td>
       </td>
       <td>1978</td>
@@ -204,13 +204,13 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 55</li>
-            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 81</li>
+            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 20</li>
+            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 46</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>66</td>
       <td>
       </td>
       <td>1980</td>
@@ -227,7 +227,7 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>97</td>
       <td>
       </td>
       <td>1981</td>
@@ -243,7 +243,7 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/09eb6de9b3877ae04797f61abda4900d.png" alt="Cover for Mamma Maria" style="max-width:120px; height:auto;" />
       </td>
@@ -262,7 +262,7 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
       </td>
       <td>1983</td>
@@ -277,12 +277,12 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/napoli" | relative_url }}">napoli</a> # 99</li>
+            <li> <a href="{{ "/tags/napoli" | relative_url }}">napoli</a> # 2</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>61</td>
       <td>
       </td>
       <td>1983</td>
@@ -300,7 +300,7 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/oGqCPUAezZJMBRkFYntS6A3A4d355imhUTXA0sPyC0k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDM5/MDYwLTE0OTA1NTI0/MTUtODQyMi5qcGVn.jpeg" alt="Cover for Savoir Faire" style="max-width:120px; height:auto;" />
       </td>
@@ -324,7 +324,7 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/09de52c91285f9a29130151f9aa47d1d.png" alt="Cover for Sleeping City" style="max-width:120px; height:auto;" />
       </td>
@@ -345,7 +345,7 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/i8Hj3nNtPCoGlZNQlOoeHY7Yq3oANhgBe1z8GDaVOvQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjYx/NjkyLTE1OTEyMDEz/MjEtMzE2MC5qcGVn.jpeg" alt="Cover for The Best of Ennio Morricone" style="max-width:120px; height:auto;" />
       </td>
@@ -365,12 +365,12 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 95</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 6</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/-r9diMceKXcXKiu5_MnrVKqEVJpzMsmjct3MyRW24yY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODM2/MDY5LTE2MjU5MzQz/ODItNzQ3OS5qcGVn.jpeg" alt="Cover for La Regina Di San Remo" style="max-width:120px; height:auto;" />
       </td>
@@ -389,7 +389,7 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/ZU3-3W9B2wL06mu5u9QkV1lzYOeV1JoZQZJP23T-F28/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjAz/OTg5LTE3MzA4MTU0/NzQtMjM3NS5qcGVn.jpeg" alt="Cover for Pietà l&#39;è morta - Canti della resistenza italiana 1" style="max-width:120px; height:auto;" />
       </td>
@@ -405,12 +405,12 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/protest" | relative_url }}">protest</a> # 85</li>
+            <li> <a href="{{ "/tags/protest" | relative_url }}">protest</a> # 14</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
       </td>
       <td>1991</td>
@@ -427,7 +427,7 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
       </td>
       <td>1992</td>
@@ -444,12 +444,12 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 96</li>
+            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 5</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/uenNjLqxSc6vRXoUf7D9zJZ8YIbQR8Pa3sEfG1yen4M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDU5/MDU5LTE1NDczODIx/MjQtMTI1Mi5qcGVn.jpeg" alt="Cover for Tutte Storie&#x2F;Original Italian Version" style="max-width:120px; height:auto;" />
       </td>
@@ -468,7 +468,7 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
       </td>
       <td>1995</td>
@@ -483,12 +483,12 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 95</li>
+            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 6</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>89</td>
       <td>
           <img src="https://i.discogs.com/0wboKTHacwWCw6IahFyAX71KwVcJ_yJLH2R9bwLlOaw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjI3/ODc2LTE1NTAzMzAy/NDEtMjYwNy5qcGVn.jpeg" alt="Cover for Close Enough - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -510,24 +510,7 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
     </tr>
     <tr>
-      <td>57</td>
-      <td>
-      </td>
-      <td>1996</td>
-      <td>Carmen Consoli</td>
-      <td>Due Parole</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italy" | relative_url }}">italy</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>63</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/IPe3j8rMDbXt0ZdQCMwZcHg7dFfd237kQtj7hESDmvQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDcy/MjA4LTE1NzUyMTg3/ODUtMzA3NS5qcGVn.jpeg" alt="Cover for Dueparole" style="max-width:120px; height:auto;" />
       </td>
@@ -545,7 +528,24 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>44</td>
+      <td>
+      </td>
+      <td>1996</td>
+      <td>Carmen Consoli</td>
+      <td>Due Parole</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italy" | relative_url }}">italy</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a37ca056ac8f48c7a1fabaf759cef76f.png" alt="Cover for Anime salve" style="max-width:120px; height:auto;" />
       </td>
@@ -559,30 +559,12 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 83</li>
+            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 17</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
-      <td>
-          <img src="https://i.discogs.com/291w8gfztg0ygBUrXyVi1sDD9lZVYWwwk0rIDqt_7II/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NTQ3/ODAtMTQ3MjE2OTQy/NS02MDY1LmpwZWc.jpeg" alt="Cover for Un sorso in più" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1997</td>
-      <td>Carmen Consoli</td>
-      <td>Un sorso in più</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italy" | relative_url }}">italy</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>33</td>
+      <td>68</td>
       <td>
       </td>
       <td>1997</td>
@@ -600,7 +582,25 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>69</td>
+      <td>
+          <img src="https://i.discogs.com/291w8gfztg0ygBUrXyVi1sDD9lZVYWwwk0rIDqt_7II/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NTQ3/ODAtMTQ3MjE2OTQy/NS02MDY1LmpwZWc.jpeg" alt="Cover for Un sorso in più" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997</td>
+      <td>Carmen Consoli</td>
+      <td>Un sorso in più</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italy" | relative_url }}">italy</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/UsWBaxZsa5bnyHWauXuPFZxZShPsk39Jshl8FRnPuN0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjEz/MzAtMTYyMzU3Njg1/OC02MzA1LmpwZWc.jpeg" alt="Cover for Mediamente Isterica" style="max-width:120px; height:auto;" />
       </td>
@@ -618,7 +618,7 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/40015403857d3f12398a197384bd23f7.png" alt="Cover for Europop" style="max-width:120px; height:auto;" />
       </td>
@@ -632,12 +632,12 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 85</li>
+            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 16</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/K1X6J05E_O4k9Tisd6CTPfZMo8_uc9m6uEnXrunq-VI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODE3/MjgtMTI4MDczOTY0/MC5qcGVn.jpeg" alt="Cover for Ennio Morricone At The Movies" style="max-width:120px; height:auto;" />
       </td>
@@ -661,7 +661,7 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f1ce38877a7af181fc528ac69e844844.png" alt="Cover for Stato di necessità" style="max-width:120px; height:auto;" />
       </td>
@@ -681,7 +681,7 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
       </td>
       <td>2000-02-25</td>
@@ -700,7 +700,7 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/20ee1a01b8414564b2ca5ebe2fa9eb0d.png" alt="Cover for Asile&#39;s World" style="max-width:120px; height:auto;" />
       </td>
@@ -723,7 +723,7 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/1ENI8MdxEqiBpg9D2u4azrutAgfFF15_zS-qTFkV70Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MTc2/Ny0xMjg4NDI2Njc4/LmpwZWc.jpeg" alt="Cover for Prozac+: The Best Of Platinum" style="max-width:120px; height:auto;" />
       </td>
@@ -747,7 +747,33 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>18</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/db1adbee39494f60cfc8f10d52febf60.png" alt="Cover for Lo Mejor de Laura Pausini - Volveré Junto a Ti" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Laura Pausini</td>
+      <td>Lo Mejor de Laura Pausini - Volveré Junto a Ti</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/europop" | relative_url }}">europop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italy" | relative_url }}">italy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 20</li>
+            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 84</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/rMXipq3lP1CxJYz94KGa1vZHsGM1YZIBmSgnpjewp1A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjMx/NjQtMTI5MDYxNDM4/MS5qcGVn.jpeg" alt="Cover for L&#39;Anfiteatroelabambinaimpertinente" style="max-width:120px; height:auto;" />
       </td>
@@ -769,39 +795,13 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 55</li>
+            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 46</li>
             <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>83</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/db1adbee39494f60cfc8f10d52febf60.png" alt="Cover for Lo Mejor de Laura Pausini - Volveré Junto a Ti" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2001</td>
-      <td>Laura Pausini</td>
-      <td>Lo Mejor de Laura Pausini - Volveré Junto a Ti</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/europop" | relative_url }}">europop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italy" | relative_url }}">italy</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 17</li>
-            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 81</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/55a4599fe17461e000d6709400255b6a.png" alt="Cover for Se Mi Rilasso Collasso" style="max-width:120px; height:auto;" />
       </td>
@@ -819,7 +819,7 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/vAxRXmzvh_yKyWLuTfXokPwnyHL6gxVXv1CiUTXD5Mk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Njk5/NjYtMTMyODMwNjY0/Mi5qcGVn.jpeg" alt="Cover for Tenco" style="max-width:120px; height:auto;" />
       </td>
@@ -839,42 +839,7 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
     </tr>
     <tr>
-      <td>65</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7b0584e836624935c9fcfc4a0d1a802e.png" alt="Cover for Elisa" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2002</td>
-      <td>Elisa</td>
-      <td>Elisa</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italy" | relative_url }}">italy</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>78</td>
-      <td>
-      </td>
-      <td>2002</td>
-      <td>Carmen Consoli</td>
-      <td>L&#39;Eccezione</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italy" | relative_url }}">italy</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/yranoxyTGpFJr2jkR-Qj6m4AEpUfK0kDLGki3ETIhoQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODgx/NjUtMTIzNzAxOTY2/My5qcGVn.jpeg" alt="Cover for Le cose da difendere" style="max-width:120px; height:auto;" />
       </td>
@@ -892,7 +857,42 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>23</td>
+      <td>
+      </td>
+      <td>2002</td>
+      <td>Carmen Consoli</td>
+      <td>L&#39;Eccezione</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italy" | relative_url }}">italy</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7b0584e836624935c9fcfc4a0d1a802e.png" alt="Cover for Elisa" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>Elisa</td>
+      <td>Elisa</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italy" | relative_url }}">italy</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/141130dab05a4bd79b22be143c5dcaf3.png" alt="Cover for Caccia il Trovaioli" style="max-width:120px; height:auto;" />
       </td>
@@ -910,7 +910,7 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/610ddde6763e47b7c7216b25cdc4108b.png" alt="Cover for Rosso relativo" style="max-width:120px; height:auto;" />
       </td>
@@ -927,14 +927,38 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       <td>
         <ul>
             <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 5</li>
-            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 51</li>
+            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 17</li>
+            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 49</li>
             <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 68</li>
-            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>47</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e3ab79a0bfd7d64ed2b9ec5ad7241415.png" alt="Cover for Vagabond" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>svemir</td>
+      <td>Vagabond</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italy" | relative_url }}">italy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 8</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
       <td>
       </td>
       <td>2003</td>
@@ -962,57 +986,16 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 45</li>
-            <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 84</li>
-            <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 90</li>
-            <li> <a href="{{ "/tags/sacred" | relative_url }}">sacred</a> # 91</li>
-            <li> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a> # 93</li>
+            <li> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a> # 8</li>
+            <li> <a href="{{ "/tags/sacred" | relative_url }}">sacred</a> # 10</li>
+            <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 11</li>
+            <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 17</li>
+            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e3ab79a0bfd7d64ed2b9ec5ad7241415.png" alt="Cover for Vagabond" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2003</td>
-      <td>svemir</td>
-      <td>Vagabond</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italy" | relative_url }}">italy</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 93</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>49</td>
-      <td>
-      </td>
-      <td>2003</td>
-      <td>Carmen Consoli</td>
-      <td>Carmen Consoli</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italy" | relative_url }}">italy</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
       </td>
       <td>2003</td>
@@ -1029,7 +1012,24 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>52</td>
+      <td>
+      </td>
+      <td>2003</td>
+      <td>Carmen Consoli</td>
+      <td>Carmen Consoli</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italy" | relative_url }}">italy</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
       <td>
       </td>
       <td>2003-02</td>
@@ -1048,14 +1048,14 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 3</li>
             <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 23</li>
-            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 23</li>
-            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 98</li>
+            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3db090db2bc7b7147a871b6fe29128de.png" alt="Cover for Blu" style="max-width:120px; height:auto;" />
       </td>
@@ -1076,7 +1076,7 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/6ertCYz1r8pLhxn_GhWE80hyIpVu9KixTA-MJcZkRa4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDky/MDgtMTIyNjUwMDA3/My5qcGVn.jpeg" alt="Cover for Greatest Hits Paola &amp; Chiara" style="max-width:120px; height:auto;" />
       </td>
@@ -1095,7 +1095,7 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
       </td>
       <td>2005-03-04</td>
@@ -1114,7 +1114,7 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a24f218ec0a94c52cce62097f8f234d9.png" alt="Cover for Socialismo Tascabile (Prove Tecniche di Trasmissione)" style="max-width:120px; height:auto;" />
       </td>
@@ -1128,12 +1128,12 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 14</li>
+            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/lcAqreMHIXAwk0mmrV-iaFuSCEBgUgFGu6LQpzvPImQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjYx/MzYtMTQ3MzUwMDUz/NS0zNTU4LmpwZWc.jpeg" alt="Cover for Neve (Ridens)" style="max-width:120px; height:auto;" />
       </td>
@@ -1152,7 +1152,7 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/nn34SfeOMsa7kn5-r2gYQHT1guJeh2OrAG848oQ9vhU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjky/NDEyLTE1ODkyODgy/MDktNTYzOS5qcGVn.jpeg" alt="Cover for Grateful" style="max-width:120px; height:auto;" />
       </td>
@@ -1173,7 +1173,7 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>57</td>
       <td>
       </td>
       <td>2005-12-20</td>
@@ -1191,7 +1191,7 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/d3-vGH0TwdvyPsWFeQTKnUig3YDG5GO_HzYZFTOufE4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NjMw/MzQtMTQxOTg1OTMz/MS0yNzg1LmpwZWc.jpeg" alt="Cover for August" style="max-width:120px; height:auto;" />
       </td>
@@ -1219,7 +1219,7 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/h9itsr7hWvf33WAGNdAw6n1rqiqBoZl5Gjl9xhL8_Q4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4Mjgw/ODktMTQyNzQ3OTA1/Mi0yNDcxLmpwZWc.jpeg" alt="Cover for Teach Me Again" style="max-width:120px; height:auto;" />
       </td>
@@ -1241,7 +1241,7 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/0vvcdGeMdO1FBXOsMQdvsmf4p124yIOjRb0MDxTTEOg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTg3/NS0xMTU3OTY3MDM3/LmpwZWc.jpeg" alt="Cover for Testing Toys Ep" style="max-width:120px; height:auto;" />
       </td>
@@ -1259,7 +1259,7 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/03a1886585ab4856c88fb0ba1fa7a408.png" alt="Cover for Nessuno è solo" style="max-width:120px; height:auto;" />
       </td>
@@ -1278,7 +1278,7 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>40</td>
       <td>
       </td>
       <td>2006-07-10</td>
@@ -1293,12 +1293,12 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-brutal-death-metal" | relative_url }}">technical brutal death metal</a> # 10</li>
+            <li> <a href="{{ "/tags/technical-brutal-death-metal" | relative_url }}">technical brutal death metal</a> # 11</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/DiygOJSwbydDjKpzqmLgVeFTm0J4R0mUGVzf-7X2GNE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDI5/NjM5LTE1MzUxMjU5/NjUtOTI1Mi5qcGVn.jpeg" alt="Cover for Ran" style="max-width:120px; height:auto;" />
       </td>
@@ -1321,7 +1321,7 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/lCHJXBPm16kYDCcps6bIlBplQqzw0Ys8QzFjMQS4X-s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTE3/MzIwLTE1NDgzNTU4/NDUtNDU5OC5qcGVn.jpeg" alt="Cover for Promo 2007" style="max-width:120px; height:auto;" />
       </td>
@@ -1340,7 +1340,7 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>35</td>
       <td>
       </td>
       <td>2007-10-15</td>
@@ -1359,7 +1359,7 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/efgJfCzXvj0n2QYTmTsEKpdKaPUG6C2X_xGkuZq7FoU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODc2/NzYtMTI1NjkzNjI1/My5qcGVn.jpeg" alt="Cover for Aspetto" style="max-width:120px; height:auto;" />
       </td>
@@ -1379,7 +1379,7 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>72</td>
       <td>
       </td>
       <td>2007-11-09</td>
@@ -1397,7 +1397,31 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>2</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3f97a942099e27628050d36ac454f089.png" alt="Cover for Primavera Anticipada" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>Laura Pausini</td>
+      <td>Primavera Anticipada</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italy" | relative_url }}">italy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 9</li>
+            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 77</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
       <td>
           <img src="https://i.discogs.com/zHUv7tlA4wOuKxllQmvl10FXwF6ZOHintFzKf2kQ5Ng/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjQz/OTIyLTE0OTQwMTc2/MzQtNDk5My5qcGVn.jpeg" alt="Cover for Instrumental Social" style="max-width:120px; height:auto;" />
       </td>
@@ -1434,38 +1458,14 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/buenos-aires" | relative_url }}">buenos aires</a> # 4</li>
             <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 69</li>
-            <li> <a href="{{ "/tags/buenos-aires" | relative_url }}">buenos aires</a> # 96</li>
             <li> <a href="{{ "/tags/broken-beat" | relative_url }}">broken beat</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>99</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3f97a942099e27628050d36ac454f089.png" alt="Cover for Primavera Anticipada" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2008</td>
-      <td>Laura Pausini</td>
-      <td>Primavera Anticipada</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italy" | relative_url }}">italy</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 24</li>
-            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 92</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>13</td>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/Z3-aU4JO-CkUiKk_-wiKOVJUOCdpwf_PRxuMJdfIxp0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNjg3/NzktMTUwMjk3Mzc5/OS03MjI2LmpwZWc.jpeg" alt="Cover for Putrid Pussy Warehouse" style="max-width:120px; height:auto;" />
       </td>
@@ -1484,7 +1484,7 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/Y4j2ENOeseIxz5XFIexON1UvwAtbn7ZC_O878Z6uxh0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTgz/ODYtMTI0NTQwODE2/OC5qcGVn.jpeg" alt="Cover for Senso Data" style="max-width:120px; height:auto;" />
       </td>
@@ -1504,31 +1504,13 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 30</li>
             <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 37</li>
-            <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
-      <td>
-          <img src="https://i.discogs.com/Aai3xGDKs9_90ShEGwtZyKWmy-L6a7XUuKVkELPsa2Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTM3/MzItMTI2NDc3NzYw/Mi5qcGVn.jpeg" alt="Cover for Il nuovissimo mondo" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2010</td>
-      <td>Bologna Violenta</td>
-      <td>Il nuovissimo mondo</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italy" | relative_url }}">italy</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>27</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a41040a074634773be0c1129ce8a90fd.png" alt="Cover for The Art Dance" style="max-width:120px; height:auto;" />
       </td>
@@ -1552,7 +1534,25 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>79</td>
+      <td>
+          <img src="https://i.discogs.com/Aai3xGDKs9_90ShEGwtZyKWmy-L6a7XUuKVkELPsa2Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTM3/MzItMTI2NDc3NzYw/Mi5qcGVn.jpeg" alt="Cover for Il nuovissimo mondo" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010</td>
+      <td>Bologna Violenta</td>
+      <td>Il nuovissimo mondo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italy" | relative_url }}">italy</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/99145b3c8671763589aa72f6603aa2d7.png" alt="Cover for Laura Live Gira Mundial 09" style="max-width:120px; height:auto;" />
       </td>
@@ -1569,13 +1569,13 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 4</li>
-            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 44</li>
+            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 57</li>
+            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>94</td>
       <td>
           <img src="https://i.discogs.com/4BIIEb_0PJxQ9gr6DttMUoBe5t-6vi9M424MpyF7Ses/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNzM2/NTYtMTM1NDM1NjYw/OS01OTAwLmpwZWc.jpeg" alt="Cover for Lech-Lecha" style="max-width:120px; height:auto;" />
       </td>
@@ -1586,6 +1586,7 @@ Italian music encompasses a diverse range of styles from classical opera and bar
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-rock" | relative_url }}">ambient rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber-rock" | relative_url }}">chamber rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/europe" | relative_url }}">europe</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
@@ -1596,12 +1597,13 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-rock" | relative_url }}">ambient rock</a> # 90</li>
+            <li> <a href="{{ "/tags/ambient-rock" | relative_url }}">ambient rock</a> # 11</li>
+            <li> <a href="{{ "/tags/chamber-rock" | relative_url }}">chamber rock</a> # 23</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/YBIkpyk9ogmcUeMSQPFXtEfsPGN8McyS70npxyl9VFc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDcx/NjE1LTE1NjcyOTM2/NTctOTk0Ny5qcGVn.jpeg" alt="Cover for Medicine Sound" style="max-width:120px; height:auto;" />
       </td>
@@ -1627,7 +1629,7 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a230155554d4257a281a95463896f2c.png" alt="Cover for No Paint On The Wall" style="max-width:120px; height:auto;" />
       </td>
@@ -1650,7 +1652,7 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>99</td>
       <td>
           <img src="https://i.discogs.com/MuDVRwuSfr4By25KvhichzJCvxeA6zjAOXPePBx_wk0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODkz/MjUtMTMxOTczNzc2/Ny5qcGVn.jpeg" alt="Cover for Mountain Whales" style="max-width:120px; height:auto;" />
       </td>
@@ -1672,7 +1674,7 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/435db03a1b9849c07265f27e3e78299b.png" alt="Cover for Platforms" style="max-width:120px; height:auto;" />
       </td>
@@ -1692,7 +1694,7 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/989f1c45b1284784bf84d0c37a998628.png" alt="Cover for Chirality" style="max-width:120px; height:auto;" />
       </td>
@@ -1713,7 +1715,7 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/WRSJqcgsfATkhjENFsyA55INXxjOtNNOQHNlzQRqEoM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3Mjc2/NjQtMTM3MzU3NDcx/Ny0xNDcwLmpwZWc.jpeg" alt="Cover for Lointain" style="max-width:120px; height:auto;" />
       </td>
@@ -1733,13 +1735,13 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 20</li>
             <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 29</li>
-            <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>86</td>
       <td>
       </td>
       <td>2012-01-27</td>
@@ -1757,7 +1759,7 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/-v0AvxtM4yB6hVa4avZo9CmHM3ffy6lTTniFoeRxl5E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTcw/NjQtMTQ5NzEyOTEw/NS04NjQwLmpwZWc.jpeg" alt="Cover for LiTE" style="max-width:120px; height:auto;" />
       </td>
@@ -1777,13 +1779,13 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 27</li>
             <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 36</li>
-            <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f192dd5d5ddc40f2bb1e711444b4b693.png" alt="Cover for 8106.tv" style="max-width:120px; height:auto;" />
       </td>
@@ -1805,7 +1807,7 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/rY64ajm3sDK11TjOcb1lFRPl1t5-_3T94q7WEGc9TnY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNjQ5/ODEtMTM2MjkzMTM5/OS02NTM5LmpwZWc.jpeg" alt="Cover for Hybris" style="max-width:120px; height:auto;" />
       </td>
@@ -1824,7 +1826,7 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>55</td>
       <td>
       </td>
       <td>2013-05-15</td>
@@ -1842,7 +1844,7 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0e3f7a4a63e248bfb5fc72a3186602bb.png" alt="Cover for Water Resistance" style="max-width:120px; height:auto;" />
       </td>
@@ -1862,13 +1864,13 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a> # 8</li>
             <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 61</li>
-            <li> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/aLNBEd6G5S-btbJpuM6iN8kieVWH3fz4EB8WdaOce5g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNzYz/ODgtMTQxMDQ0NDQy/Ni04Njg0LmpwZWc.jpeg" alt="Cover for Senso Data (Extended Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1888,13 +1890,13 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 38</li>
             <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 46</li>
-            <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/TGbedD5WekTbQoYP1-TXI37nprv8zUxhH3IuQCU3Rxg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTAx/Mjk4LTE2MjM0MTgx/ODEtNjIxOC5qcGVn.jpeg" alt="Cover for Haydn: Cello Concertos Nos. 1 And 2&#x2F;Boccherini: Cello Concerto" style="max-width:120px; height:auto;" />
       </td>
@@ -1909,12 +1911,12 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/austria" | relative_url }}">austria</a> # 71</li>
+            <li> <a href="{{ "/tags/austria" | relative_url }}">austria</a> # 28</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2c2d93d8d03a42ffc2ffc6282ee00596.png" alt="Cover for Wardens Of The West Wind" style="max-width:120px; height:auto;" />
       </td>
@@ -1936,7 +1938,7 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/lM2E8-1rojsPNYnlCtfqsW1H8bnkEnNQF1dBJkB8WsM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MDQ1/ODktMTQ2OTEyMjc2/Ny03NTYxLmpwZWc.jpeg" alt="Cover for Malammore" style="max-width:120px; height:auto;" />
       </td>
@@ -1955,7 +1957,7 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/ln5pZu_WZNOVkPh_w6YSV5uRb8pFU8lBtrP7ZOWUoUc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjA0/OTA0LTE1MzA0NDc0/NjQtMjEyNS5qcGVn.jpeg" alt="Cover for Love Exists" style="max-width:120px; height:auto;" />
       </td>
@@ -1973,7 +1975,7 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/cNZzlNbjhKutrveEamZH7OJJHqdKkEZCbJXoFNwoo30/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzE2/MDA3LTE1NzczMjMw/MDEtNjYyMi5qcGVn.jpeg" alt="Cover for RAWJAMZ" style="max-width:120px; height:auto;" />
       </td>
@@ -1993,7 +1995,7 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/4NQysKlISv5LaBvwr1ycVoaQPV8B0f5xwSGDvg1Dk4c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDc2/MTc2LTE1ODYzNzE4/MTItMzc4MC5qcGVn.jpeg" alt="Cover for Non mi avete fatto niente (ESC Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -2013,7 +2015,7 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/15b8d354e7a633da0fe321fffebd0a02.png" alt="Cover for SUPERGROUND" style="max-width:120px; height:auto;" />
       </td>
@@ -2033,13 +2035,13 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 23</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 32</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 69</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/df7b361c54e2aba554e9a3ea9c14e660.png" alt="Cover for Tenebra è la notte ed altri racconti di buio e crepuscoli" style="max-width:120px; height:auto;" />
       </td>
@@ -2058,7 +2060,7 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ce0cb6215effd0815ef2fda536b20131.png" alt="Cover for Madame" style="max-width:120px; height:auto;" />
       </td>
@@ -2075,12 +2077,12 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 79</li>
+            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 21</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/40938eecde4f9c9f7d346c5a338b2ddd.png" alt="Cover for Warfront" style="max-width:120px; height:auto;" />
       </td>
@@ -2099,13 +2101,13 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 6</li>
             <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 6</li>
-            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
       </td>
       <td></td>
@@ -2117,12 +2119,12 @@ Italian music encompasses a diverse range of styles from classical opera and bar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baroque" | relative_url }}">baroque</a> # 58</li>
+            <li> <a href="{{ "/tags/baroque" | relative_url }}">baroque</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>93</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4a9f3cd3f6207b7b9ed60fa7626a7ee9.png" alt="Cover for I am I" style="max-width:120px; height:auto;" />
       </td>

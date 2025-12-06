@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T00:37:48.499Z
+date: 2025-12-06T04:37:20.474Z
 permalink: tags/goa-trance
 title: goa trance
 ---
 
 ## goa trance
 
-Last updated: <time datetime="2025-12-04T00:37:48.499Z">Thu Dec 04 2025 02:37:48 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T04:37:20.474Z">Sat Dec 06 2025 06:37:20 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -270,7 +270,7 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 78</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -291,7 +291,7 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 72</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -309,7 +309,7 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 17</li>
+            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -330,8 +330,8 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 27</li>
             <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 38</li>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -349,7 +349,7 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 30</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -423,8 +423,8 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 20</li>
             <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 69</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -462,7 +462,7 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 41</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -577,7 +577,7 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 77</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -597,8 +597,8 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 22</li>
             <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 58</li>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -635,8 +635,8 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 4</li>
             <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 19</li>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -748,8 +748,8 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 81</li>
-            <li> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a> # 95</li>
+            <li> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a> # 6</li>
+            <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -769,8 +769,8 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 34</li>
             <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 47</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -827,8 +827,8 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 6</li>
             <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 8</li>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -849,8 +849,8 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 20</li>
             <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 52</li>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -871,8 +871,8 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 16</li>
             <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 49</li>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -988,7 +988,7 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 58</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 43</li>
             <li> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a> # 82</li>
         </ul>
       </td>
@@ -1011,7 +1011,7 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       <td>
         <ul>
             <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 26</li>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 61</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 40</li>
             <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 78</li>
             <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 92</li>
         </ul>
@@ -1052,7 +1052,7 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       <td>
         <ul>
             <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 27</li>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 56</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1116,7 +1116,7 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 85</li>
+            <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1154,7 +1154,7 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-psytrance" | relative_url }}">progressive psytrance</a> # 86</li>
+            <li> <a href="{{ "/tags/progressive-psytrance" | relative_url }}">progressive psytrance</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1212,7 +1212,7 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 31</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1384,7 +1384,7 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-psytrance" | relative_url }}">progressive psytrance</a> # 57</li>
+            <li> <a href="{{ "/tags/progressive-psytrance" | relative_url }}">progressive psytrance</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1535,7 +1535,7 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-psytrance" | relative_url }}">progressive psytrance</a> # 27</li>
+            <li> <a href="{{ "/tags/progressive-psytrance" | relative_url }}">progressive psytrance</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1556,7 +1556,7 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 2</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1580,7 +1580,7 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-psytrance" | relative_url }}">progressive psytrance</a> # 39</li>
+            <li> <a href="{{ "/tags/progressive-psytrance" | relative_url }}">progressive psytrance</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1600,7 +1600,7 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a> # 93</li>
+            <li> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1622,7 +1622,7 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 76</li>
+            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1643,7 +1643,7 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 59</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1709,8 +1709,8 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 9</li>
-            <li> <a href="{{ "/tags/progressive-psytrance" | relative_url }}">progressive psytrance</a> # 72</li>
+            <li> <a href="{{ "/tags/progressive-psytrance" | relative_url }}">progressive psytrance</a> # 29</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1808,7 +1808,7 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 28</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1832,8 +1832,8 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 5</li>
-            <li> <a href="{{ "/tags/progressive-psytrance" | relative_url }}">progressive psytrance</a> # 68</li>
+            <li> <a href="{{ "/tags/progressive-psytrance" | relative_url }}">progressive psytrance</a> # 33</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1859,7 +1859,7 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-psytrance" | relative_url }}">progressive psytrance</a> # 33</li>
+            <li> <a href="{{ "/tags/progressive-psytrance" | relative_url }}">progressive psytrance</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1881,7 +1881,7 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 13</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1923,7 +1923,7 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 40</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1944,8 +1944,8 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 6</li>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 17</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 84</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 95</li>
         </ul>
       </td>
     </tr>

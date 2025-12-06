@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T21:55:30.928Z
+date: 2025-12-06T03:52:46.016Z
 permalink: tags/trance
 title: trance
 ---
 
 ## trance
 
-Last updated: <time datetime="2025-12-03T21:55:30.928Z">Wed Dec 03 2025 23:55:30 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T03:52:46.016Z">Sat Dec 06 2025 05:52:46 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Trance music is a genre of electronic dance music that originated in Germany in 
   </thead>
   <tbody>
     <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9517f546465554f33c287606bec04e77.png" alt="Cover for Children" style="max-width:120px; height:auto;" />
       </td>
@@ -50,7 +50,7 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e0b586474b261ae74086b2fe7ea1eafa.png" alt="Cover for Dreamland" style="max-width:120px; height:auto;" />
       </td>
@@ -69,7 +69,7 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a85cd7722f74f6cbe230317a0b3ff9c.png" alt="Cover for Beachball" style="max-width:120px; height:auto;" />
       </td>
@@ -88,7 +88,7 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bee4fb40827514dcc5fa407c21d72527.png" alt="Cover for It&#39;s My Life" style="max-width:120px; height:auto;" />
       </td>
@@ -106,7 +106,7 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/02186c6cb3cf2d0cb4ed2ddb7f28b723.png" alt="Cover for ESCM" style="max-width:120px; height:auto;" />
       </td>
@@ -120,12 +120,12 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-breaks" | relative_url }}">progressive breaks</a> # 15</li>
+            <li> <a href="{{ "/tags/progressive-breaks" | relative_url }}">progressive breaks</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7f60c87449990ba49921869ffa81b0d2.png" alt="Cover for Far From The Maddening Crowds" style="max-width:120px; height:auto;" />
       </td>
@@ -143,7 +143,7 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ecaa8709f6604a0d85b9310470589e6e.png" alt="Cover for Out Of The Blue" style="max-width:120px; height:auto;" />
       </td>
@@ -161,7 +161,7 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/80a1148caf0c5fe7ca595b198b379cf6.png" alt="Cover for 1998" style="max-width:120px; height:auto;" />
       </td>
@@ -179,7 +179,7 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/54773f4ee926fa645ee8f29d94351a26.png" alt="Cover for Freestyler" style="max-width:120px; height:auto;" />
       </td>
@@ -197,7 +197,7 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/88de425770c9e8745547845348295005.png" alt="Cover for Gouryella" style="max-width:120px; height:auto;" />
       </td>
@@ -215,7 +215,7 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/771e3483c1bbf7b185294050941aab92.png" alt="Cover for Movin&#39; Melodies" style="max-width:120px; height:auto;" />
       </td>
@@ -233,7 +233,7 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8e4d5349aed3d54a7d51374f93b780ee.png" alt="Cover for Movement in Still Life" style="max-width:120px; height:auto;" />
       </td>
@@ -251,7 +251,7 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/64IAYstUI2WJcvhhkj7wY2e5-bLipSIFJzPhjpEw20E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTI4/NC0xNTgzMDU2MzYy/LTQzMzEuanBlZw.jpeg" alt="Cover for Before The Storm" style="max-width:120px; height:auto;" />
       </td>
@@ -269,7 +269,7 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f18fd3bc47e204a823fd13d02a626063.png" alt="Cover for Behind The Sun" style="max-width:120px; height:auto;" />
       </td>
@@ -287,25 +287,7 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
     </tr>
     <tr>
-      <td>94</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f6bf55ded14fbdb79fc41bc3cf44117b.png" alt="Cover for Who Needs Guitars Anyway?" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2000-03-28</td>
-      <td>Alice Deejay</td>
-      <td>Who Needs Guitars Anyway?</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f9a2f9fe34354fd5badfc2d6a1fe8ff9.png" alt="Cover for Who Needs Guitars Anyway" style="max-width:120px; height:auto;" />
       </td>
@@ -323,7 +305,25 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>7</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f6bf55ded14fbdb79fc41bc3cf44117b.png" alt="Cover for Who Needs Guitars Anyway?" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000-03-28</td>
+      <td>Alice Deejay</td>
+      <td>Who Needs Guitars Anyway?</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0b4aa4398c8e49e3ad9b040bc02d36d6.png" alt="Cover for Out There and Back" style="max-width:120px; height:auto;" />
       </td>
@@ -341,7 +341,7 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9c6a42bc32e449b1b812a241af0e101e.png" alt="Cover for Shango" style="max-width:120px; height:auto;" />
       </td>
@@ -357,15 +357,15 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 26</li>
             <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 26</li>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 61</li>
-            <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 75</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 40</li>
             <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7b23d58db9b12a702d2aa57fe63cadb1.png" alt="Cover for Before the Storm, Special Edition" style="max-width:120px; height:auto;" />
       </td>
@@ -378,14 +378,14 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 3</li>
             <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 37</li>
             <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 76</li>
-            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1412c4047fd8e626cefa8451ece96c9c.png" alt="Cover for Toca" style="max-width:120px; height:auto;" />
       </td>
@@ -404,7 +404,7 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/af1926a2cdce8002072f41a13abbe69d.png" alt="Cover for Exploration Of Space" style="max-width:120px; height:auto;" />
       </td>
@@ -422,7 +422,7 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5dab22ee1181419ab8321438ecfb01f0.png" alt="Cover for Tales of the Inexpressible" style="max-width:120px; height:auto;" />
       </td>
@@ -442,7 +442,7 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a181f7485bf467b608ec1f20a150c54.png" alt="Cover for Something" style="max-width:120px; height:auto;" />
       </td>
@@ -460,7 +460,7 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb391870de6745f3ae3d3161b6249524.png" alt="Cover for ResuRection" style="max-width:120px; height:auto;" />
       </td>
@@ -478,7 +478,7 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
       </td>
       <td>2002-01-28</td>
@@ -491,12 +491,12 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 50</li>
+            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 51</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>98</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/32a8b1ce47d5b78fcaf1ff6b578dd79b.png" alt="Cover for Symsonic" style="max-width:120px; height:auto;" />
       </td>
@@ -514,7 +514,7 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>95</td>
       <td>
       </td>
       <td>2002-05-21</td>
@@ -527,12 +527,12 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 38</li>
+            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>99</td>
       <td>
       </td>
       <td>2002-06-15</td>
@@ -551,7 +551,7 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e6bfc31e76c2a060600162bd5e17c75d.png" alt="Cover for Bunkka" style="max-width:120px; height:auto;" />
       </td>
@@ -568,7 +568,7 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a1f25f2da306dab4ca3a9d4dd80f0e86.png" alt="Cover for Heaven" style="max-width:120px; height:auto;" />
       </td>
@@ -586,7 +586,7 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c56eabaac7d74cfdcca9f1c54b205f79.png" alt="Cover for In My Memory" style="max-width:120px; height:auto;" />
       </td>
@@ -604,7 +604,7 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/__LkKW5Sjd9d4WEWLR40nUvNBwgyUI3r4a8_63hGjDs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjEz/OS0xNjA5MTY2NDA1/LTY4MTEuanBlZw.jpeg" alt="Cover for Beautiful Together" style="max-width:120px; height:auto;" />
       </td>
@@ -623,7 +623,7 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>93</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/706efb0211ab4914be7a21a9f7547a1a.png" alt="Cover for Mark &#39;Oh" style="max-width:120px; height:auto;" />
       </td>
@@ -641,7 +641,7 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
       </td>
       <td>2003-02-01</td>
@@ -658,7 +658,7 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9d34c3024eb6b423a3d3a6d36b055979.png" alt="Cover for 76" style="max-width:120px; height:auto;" />
       </td>
@@ -672,12 +672,12 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 79</li>
+            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 22</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/10a915bf080fa95d990125a41361f181.png" alt="Cover for As The Rush Comes" style="max-width:120px; height:auto;" />
       </td>
@@ -696,7 +696,7 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b7122548c5494282a6c5810bc42780a0.png" alt="Cover for Reflections" style="max-width:120px; height:auto;" />
       </td>
@@ -714,7 +714,7 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>23</td>
       <td>
       </td>
       <td>2003-10-23</td>
@@ -732,7 +732,7 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>100</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cef20f50151f02037cdd7b3ea09e4072.png" alt="Cover for Right Of Way" style="max-width:120px; height:auto;" />
       </td>
@@ -750,7 +750,26 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>6</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/66f8e9123a074d3bad3a887f93dc27d0.png" alt="Cover for Just Be" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Tiësto</td>
+      <td>Just Be</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a> # 87</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d6336b217d8243bf814b75a28b7767a6.png" alt="Cover for No One On Earth" style="max-width:120px; height:auto;" />
       </td>
@@ -770,26 +789,7 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
     </tr>
     <tr>
-      <td>95</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/66f8e9123a074d3bad3a887f93dc27d0.png" alt="Cover for Just Be" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2004</td>
-      <td>Tiësto</td>
-      <td>Just Be</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a> # 87</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>13</td>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/fWVAlWuX-FyfFH3oHYPHQ0u9J8yS89cxteu18tT2HEo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTI2/MC0xMzgyMjgxNDQ2/LTgyMjcuanBlZw.jpeg" alt="Cover for Synaesthesia" style="max-width:120px; height:auto;" />
       </td>
@@ -807,7 +807,7 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>97</td>
       <td>
       </td>
       <td>2004-04-03</td>
@@ -824,7 +824,7 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/yFMrfx1-Aq-PHwKMEhjRYsDK9OYc1kyuVJHiB_0VZFU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwOTY2/Ny0xMjc2MDM1OTUz/LmpwZWc.jpeg" alt="Cover for Dragostea Din Tei" style="max-width:120px; height:auto;" />
       </td>
@@ -840,13 +840,13 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 100</li>
-            <li> <a href="{{ "/tags/romanian" | relative_url }}">romanian</a> # 100</li>
+            <li> <a href="{{ "/tags/romanian" | relative_url }}">romanian</a> # 1</li>
+            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 1</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/oqwu3gtq3l4WFbStEiXLDwfJH9ybpI3MlMzLeo0-_eQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjAx/MzctMTYyODk4OTY0/My01NzkxLmpwZWc.jpeg" alt="Cover for Sunset (Incl Ron Van Den Beuken Mix) Vinyl" style="max-width:120px; height:auto;" />
       </td>
@@ -862,13 +862,13 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 1</li>
             <li> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a> # 7</li>
-            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e0a66ac4d5a84b7692b1277341ff6bbb.png" alt="Cover for No Silence" style="max-width:120px; height:auto;" />
       </td>
@@ -886,7 +886,7 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bb83948534624d809d5106afe5fa2e2b.png" alt="Cover for Parade Of The Athletes" style="max-width:120px; height:auto;" />
       </td>
@@ -904,7 +904,7 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5ca3c50646aa4a7eb3defca622997339.png" alt="Cover for Seven Years" style="max-width:120px; height:auto;" />
       </td>
@@ -922,7 +922,7 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/GQ5REHYI1xk2A979vHQeUwsID_vpL6vDMLJc-_VHbIg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNzE3/OS0xMzA4NjEzMjcw/LmpwZWc.jpeg" alt="Cover for Frequency" style="max-width:120px; height:auto;" />
       </td>
@@ -942,7 +942,7 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b030fb79186d45ec82e9151206499b28.png" alt="Cover for Labyrinth" style="max-width:120px; height:auto;" />
       </td>
@@ -959,14 +959,14 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 2</li>
             <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 9</li>
             <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 66</li>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>83</td>
       <td>
       </td>
       <td>2005-03-01</td>
@@ -983,7 +983,7 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/K_xTI0gsapdhWXEJoz6VvES5s-3OPdyA4AVSNzT9ZNQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5OTk2/Ny0xMTExNDkxODE4/LmpwZw.jpeg" alt="Cover for One Night In Bangkok" style="max-width:120px; height:auto;" />
       </td>
@@ -1001,7 +1001,7 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/45918d3f741c4792ad388fc6a809749e.png" alt="Cover for Shivers" style="max-width:120px; height:auto;" />
       </td>
@@ -1019,7 +1019,7 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e9bae1dfcd2c4c31b65db2dcea4bb943.png" alt="Cover for New Harvest" style="max-width:120px; height:auto;" />
       </td>
@@ -1037,7 +1037,7 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/-SHq_060FHHlNYtPmvRv23vz0H6yfjpv9zAHpD-Vv0M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMTAz/MS0xMTQ3MjUyODY1/LmpwZWc.jpeg" alt="Cover for Monday Bar" style="max-width:120px; height:auto;" />
       </td>
@@ -1055,7 +1055,7 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/29d54c446c07da047b1a054d44815899.png" alt="Cover for Everytime We Touch" style="max-width:120px; height:auto;" />
       </td>
@@ -1073,7 +1073,7 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ebd3e9b1eb42664642c05c5518ca7f4b.png" alt="Cover for Tri-State" style="max-width:120px; height:auto;" />
       </td>
@@ -1093,7 +1093,7 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>89</td>
       <td>
           <img src="https://i.discogs.com/S8AWpRSUzQLlBc5kpDHVnq0LH-sXzWL7DW2XKHwtPwI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNjQy/Ni0xMjQ2NjU3NDgw/LmpwZWc.jpeg" alt="Cover for Alone Tonight" style="max-width:120px; height:auto;" />
       </td>
@@ -1111,7 +1111,7 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/be273e23fd3a46d2a85741f0ac0d0120.png" alt="Cover for L.E.F." style="max-width:120px; height:auto;" />
       </td>
@@ -1131,7 +1131,7 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>33</td>
       <td>
       </td>
       <td>2006-06-02</td>
@@ -1150,7 +1150,7 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dc61dfc164be05ee5b5480bc846dbc6a.png" alt="Cover for Great Spirit" style="max-width:120px; height:auto;" />
       </td>
@@ -1174,7 +1174,7 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/CYYSI3vFSUkLNoa90OfwqUQcqHjfhF7dzwZD3JRDitU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjQy/ODAtMTIzMjg2Njk5/NC5qcGVn.jpeg" alt="Cover for Just A Thought" style="max-width:120px; height:auto;" />
       </td>
@@ -1193,7 +1193,7 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/23733df44c1ad902ccec1b6c89d1d821.png" alt="Cover for Elements of Life" style="max-width:120px; height:auto;" />
       </td>
@@ -1211,7 +1211,7 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/79164914e60449b7bef01b847659d42f.png" alt="Cover for In Between" style="max-width:120px; height:auto;" />
       </td>
@@ -1229,7 +1229,7 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/hlkYm45wddO0sYn3ZtBsbHB3SAtjvpSNBpNDucjNm5s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MTA3/NC0xMTc1ODc3MTAy/LmpwZWc.jpeg" alt="Cover for Adagio For Strings" style="max-width:120px; height:auto;" />
       </td>
@@ -1244,12 +1244,12 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a> # 100</li>
+            <li> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a> # 1</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/97b91649f47747a391e7438943471abe.png" alt="Cover for Jumping All Over The World" style="max-width:120px; height:auto;" />
       </td>
@@ -1267,7 +1267,7 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a0d2a9123d3a2c4dca4a46415e0a4e11.png" alt="Cover for Imagine" style="max-width:120px; height:auto;" />
       </td>
@@ -1286,7 +1286,7 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/_daWT_ujEOLrqyT1gB-HFuU1zi92ggR2-2qfIGxXSp8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDU0/NDQtMTI2NDk1NTc2/OS5qcGVn.jpeg" alt="Cover for Pandora" style="max-width:120px; height:auto;" />
       </td>
@@ -1305,7 +1305,7 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>53</td>
       <td>
       </td>
       <td>2008-08-06</td>
@@ -1322,7 +1322,7 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>86</td>
       <td>
       </td>
       <td>2008-11-03</td>
@@ -1340,7 +1340,7 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bc4267da68304d008e298c53580bc305.png" alt="Cover for Stamp On The Ground" style="max-width:120px; height:auto;" />
       </td>
@@ -1363,7 +1363,7 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/261bc1c5022b1c0bd55bca111472d0b3.png" alt="Cover for I&#39;m Not Alone" style="max-width:120px; height:auto;" />
       </td>
@@ -1382,7 +1382,7 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>90</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a65cb775213711b85f405242240fb9d9.png" alt="Cover for Catch 22" style="max-width:120px; height:auto;" />
       </td>
@@ -1403,7 +1403,7 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c15de329b2145d8a9e91d7b20025165.png" alt="Cover for Tuvan" style="max-width:120px; height:auto;" />
       </td>
@@ -1421,7 +1421,7 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6cc880d24a0d45da93b24352f3257945.png" alt="Cover for Kaleidoscope" style="max-width:120px; height:auto;" />
       </td>
@@ -1439,7 +1439,7 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/74dcc7fcb0e34eea9260cb29c1f0f274.png" alt="Cover for Starry Eyed" style="max-width:120px; height:auto;" />
       </td>
@@ -1460,7 +1460,7 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/16439b9b666847d51ace2049e70b47c2.png" alt="Cover for Mirage" style="max-width:120px; height:auto;" />
       </td>
@@ -1478,7 +1478,7 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8836cf17da554f3aaa81d3494111e50a.png" alt="Cover for Electronic Dream" style="max-width:120px; height:auto;" />
       </td>
@@ -1497,7 +1497,7 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8ff4eb389a094ca8a74fb6e296139ff4.png" alt="Cover for Group Therapy" style="max-width:120px; height:auto;" />
       </td>
@@ -1511,15 +1511,15 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 6</li>
             <li> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a> # 31</li>
-            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 69</li>
+            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 32</li>
+            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 95</li>
             <li> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>94</td>
       <td>
           <img src="https://i.discogs.com/C4v8ITBb5crL3q8FiwstNpLDihnYXW59TCG_PRnAJSw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Nzk0/LTExOTI3MzIwNzQu/anBlZw.jpeg" alt="Cover for Rapture (feat. Nadia Ali) [Armin Van Buuren Remix Remastered]" style="max-width:120px; height:auto;" />
       </td>
@@ -1541,7 +1541,7 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/e_3vCZ_afLLQLfUtbPmJaGV3k_gGrsQECtwIhH68lps/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDgx/OTEtMTM0Njc1OTUx/Ny01NDMwLmpwZWc.jpeg" alt="Cover for Shave It - The Aftershave" style="max-width:120px; height:auto;" />
       </td>
@@ -1552,18 +1552,20 @@ Trance music is a genre of electronic dance music that originated in Germany in 
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/complextro" | relative_url }}">complextro</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 96</li>
+            <li> <a href="{{ "/tags/complextro" | relative_url }}">complextro</a> # 4</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 5</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
       </td>
       <td>2012-05-09</td>
@@ -1586,7 +1588,7 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>96</td>
       <td>
           <img src="https://i.discogs.com/5JDQFD91AP56JjbFPBCWh8UxOYY0kCDKiWradj4WwKY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1ODMx/My0xNTUzMzk4MzAx/LTQxNzguanBlZw.jpeg" alt="Cover for First Aid" style="max-width:120px; height:auto;" />
       </td>
@@ -1604,7 +1606,7 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a0e4f50e2d4611b8956f7f15f0b00aa.png" alt="Cover for Don&#39;t You Worry Child" style="max-width:120px; height:auto;" />
       </td>
@@ -1617,13 +1619,13 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 60</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 41</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4bceb7d8a100400cb77468144ee60347.png" alt="Cover for Intense" style="max-width:120px; height:auto;" />
       </td>
@@ -1644,7 +1646,7 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
       </td>
       <td>2013-05-20</td>
@@ -1658,12 +1660,12 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 53</li>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
       </td>
       <td>2014-03-24</td>
@@ -1683,7 +1685,7 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/78cb63b6e87d9d3a998bdfedcb1e002d.png" alt="Cover for Good Luck (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -1701,13 +1703,13 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 54</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 66</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 35</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 47</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/KIbDOtYsEbB5BDeQ5Vpq0cRNyEU_DcMoZ6WluEhO8IA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDM2/OTg1LTE1MjcwMTYw/ODctNDMzOC5qcGVn.jpeg" alt="Cover for Thank You (Not So Bad)" style="max-width:120px; height:auto;" />
       </td>
@@ -1722,12 +1724,12 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 99</li>
+            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 2</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/43c0edef306cf09b0f9b70e2a389a20a.png" alt="Cover for Summer Air" style="max-width:120px; height:auto;" />
       </td>
@@ -1751,7 +1753,7 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/2VNEVPBGbYw9bfCS3ntfKsSygNbJaGIfURqp3ECZAdA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDUx/Mzg0LTE1MDg5NDIz/MzMtNDE1Ni5qcGVn.jpeg" alt="Cover for Whities 013" style="max-width:120px; height:auto;" />
       </td>
@@ -1767,13 +1769,13 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 44</li>
             <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 52</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 57</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cd44635521a1aa109cbd4f476450ff0e.png" alt="Cover for Virtual Self" style="max-width:120px; height:auto;" />
       </td>
@@ -1787,12 +1789,12 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 95</li>
+            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 6</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d1b7f37c8107447c86eddffdfbae583a.png" alt="Cover for LOL" style="max-width:120px; height:auto;" />
       </td>
@@ -1811,7 +1813,7 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ca8daa243eb993fc8619c897fcb9b89b.png" alt="Cover for Blah Blah Blah" style="max-width:120px; height:auto;" />
       </td>
@@ -1836,7 +1838,7 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/DuT2hyVCgGNnTxpSL3xm3U3oJYHktGCtDNL4ABBcFUs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTA0/MjM0LTE2MjYzNjc1/OTgtNDQ0Ny5qcGVn.jpeg" alt="Cover for Fuck Him All Night" style="max-width:120px; height:auto;" />
       </td>
@@ -1851,12 +1853,12 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 69</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 31</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/0UkP2nt9329x8wjek8hwRbzrzsRtZSnxY0OFWioCBdE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzQ1/MDQ5LTE2MzUzMDU0/NjQtNzk5Ni5qcGVn.jpeg" alt="Cover for Strong" style="max-width:120px; height:auto;" />
       </td>
@@ -1871,12 +1873,12 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 84</li>
+            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 17</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/62189256a78cadfdaacdc425e6cfc6af.png" alt="Cover for April Mixtape 3" style="max-width:120px; height:auto;" />
       </td>
@@ -1895,7 +1897,7 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/D-8aySeQGkW_6qXMxmUzWkLtsXl3rUYFtyLihYM7BsM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjI3/ODM1LTE3MTUyMjA1/OTItMzQ1Mi5qcGVn.jpeg" alt="Cover for Sewerslvt Presents: Cynthoni, Pt. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1908,19 +1910,18 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/schranz" | relative_url }}">schranz</a> # 1</li>
             <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 17</li>
-            <li> <a href="{{ "/tags/schranz" | relative_url }}">schranz</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>76</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2d3f1b5f4b1243fbbb3319e9aab8b45b.png" alt="Cover for Kiksu" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Kyau vs. Albert</td>
-      <td>Kiksu</td>
+      <td>Are You Fine?</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
@@ -1932,12 +1933,13 @@ Trance music is a genre of electronic dance music that originated in Germany in 
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>84</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2d3f1b5f4b1243fbbb3319e9aab8b45b.png" alt="Cover for Kiksu" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Kyau vs. Albert</td>
-      <td>Are You Fine?</td>
+      <td>Kiksu</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>

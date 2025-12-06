@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T19:23:23.570Z
+date: 2025-12-06T03:31:45.910Z
 permalink: tags/horrorcore
 title: horrorcore
 ---
 
 ## horrorcore
 
-Last updated: <time datetime="2025-12-03T19:23:23.570Z">Wed Dec 03 2025 21:23:23 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T03:31:45.910Z">Sat Dec 06 2025 05:31:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -44,7 +44,7 @@ Horrorcore is a subgenre of hip hop music that blends horror-themed lyrics with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 22</li>
+            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -65,7 +65,7 @@ Horrorcore is a subgenre of hip hop music that blends horror-themed lyrics with 
       <td>
         <ul>
             <li> <a href="{{ "/tags/detroit-rap" | relative_url }}">detroit rap</a> # 13</li>
-            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 43</li>
+            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -102,7 +102,7 @@ Horrorcore is a subgenre of hip hop music that blends horror-themed lyrics with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 29</li>
+            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -122,7 +122,7 @@ Horrorcore is a subgenre of hip hop music that blends horror-themed lyrics with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 54</li>
+            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -199,7 +199,7 @@ Horrorcore is a subgenre of hip hop music that blends horror-themed lyrics with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 68</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 33</li>
             <li> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a> # 71</li>
         </ul>
       </td>
@@ -221,8 +221,8 @@ Horrorcore is a subgenre of hip hop music that blends horror-themed lyrics with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 34</li>
-            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 99</li>
+            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 2</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -242,13 +242,13 @@ Horrorcore is a subgenre of hip hop music that blends horror-themed lyrics with 
       <td>
         <ul>
             <li> <a href="{{ "/tags/detroit-rap" | relative_url }}">detroit rap</a> # 14</li>
-            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 16</li>
-            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 30</li>
             <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 32</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 32</li>
-            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 33</li>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 55</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 46</li>
             <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 63</li>
+            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 68</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 73</li>
+            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -269,7 +269,7 @@ Horrorcore is a subgenre of hip hop music that blends horror-themed lyrics with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 74</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -345,8 +345,8 @@ Horrorcore is a subgenre of hip hop music that blends horror-themed lyrics with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 31</li>
             <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 66</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -366,9 +366,9 @@ Horrorcore is a subgenre of hip hop music that blends horror-themed lyrics with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 26</li>
             <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 52</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 64</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -386,8 +386,8 @@ Horrorcore is a subgenre of hip hop music that blends horror-themed lyrics with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 54</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 88</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 47</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -406,7 +406,7 @@ Horrorcore is a subgenre of hip hop music that blends horror-themed lyrics with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 90</li>
+            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -428,7 +428,7 @@ Horrorcore is a subgenre of hip hop music that blends horror-themed lyrics with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 57</li>
+            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -467,8 +467,8 @@ Horrorcore is a subgenre of hip hop music that blends horror-themed lyrics with 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 46</li>
             <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 48</li>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -488,9 +488,9 @@ Horrorcore is a subgenre of hip hop music that blends horror-themed lyrics with 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 8</li>
             <li> <a href="{{ "/tags/detroit-rap" | relative_url }}">detroit rap</a> # 9</li>
             <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 17</li>
-            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -530,7 +530,7 @@ Horrorcore is a subgenre of hip hop music that blends horror-themed lyrics with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 74</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -551,8 +551,8 @@ Horrorcore is a subgenre of hip hop music that blends horror-themed lyrics with 
       <td>
         <ul>
             <li> <a href="{{ "/tags/detroit-rap" | relative_url }}">detroit rap</a> # 17</li>
+            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 22</li>
             <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 27</li>
-            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -572,8 +572,8 @@ Horrorcore is a subgenre of hip hop music that blends horror-themed lyrics with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 56</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 90</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 11</li>
+            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -596,7 +596,7 @@ Horrorcore is a subgenre of hip hop music that blends horror-themed lyrics with 
       <td>
         <ul>
             <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 9</li>
-            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 77</li>
+            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -616,9 +616,9 @@ Horrorcore is a subgenre of hip hop music that blends horror-themed lyrics with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 13</li>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 28</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 91</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 10</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 73</li>
+            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -642,7 +642,7 @@ Horrorcore is a subgenre of hip hop music that blends horror-themed lyrics with 
       <td>
         <ul>
             <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 15</li>
-            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 61</li>
+            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -680,7 +680,7 @@ Horrorcore is a subgenre of hip hop music that blends horror-themed lyrics with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 2</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -702,7 +702,7 @@ Horrorcore is a subgenre of hip hop music that blends horror-themed lyrics with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 60</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -813,9 +813,9 @@ Horrorcore is a subgenre of hip hop music that blends horror-themed lyrics with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 19</li>
-            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 28</li>
             <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 64</li>
+            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 73</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -870,7 +870,7 @@ Horrorcore is a subgenre of hip hop music that blends horror-themed lyrics with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 36</li>
+            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -905,9 +905,9 @@ Horrorcore is a subgenre of hip hop music that blends horror-themed lyrics with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 86</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 15</li>
+            <li> <a href="{{ "/tags/chopped-and-screwed" | relative_url }}">chopped and screwed</a> # 65</li>
             <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 87</li>
-            <li> <a href="{{ "/tags/chopped-and-screwed" | relative_url }}">chopped and screwed</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -924,10 +924,10 @@ Horrorcore is a subgenre of hip hop music that blends horror-themed lyrics with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 20</li>
             <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 36</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 49</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 52</li>
             <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 63</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 81</li>
             <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 87</li>
         </ul>
       </td>
@@ -947,7 +947,7 @@ Horrorcore is a subgenre of hip hop music that blends horror-themed lyrics with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 27</li>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -994,11 +994,11 @@ Horrorcore is a subgenre of hip hop music that blends horror-themed lyrics with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 61</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 7</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 40</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 62</li>
             <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 67</li>
             <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 72</li>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1018,8 +1018,8 @@ Horrorcore is a subgenre of hip hop music that blends horror-themed lyrics with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 46</li>
-            <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 89</li>
+            <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 12</li>
+            <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1039,11 +1039,11 @@ Horrorcore is a subgenre of hip hop music that blends horror-themed lyrics with 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 6</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 24</li>
             <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 33</li>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 65</li>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 77</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 86</li>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 95</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 36</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1061,7 +1061,7 @@ Horrorcore is a subgenre of hip hop music that blends horror-themed lyrics with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 63</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1080,10 +1080,10 @@ Horrorcore is a subgenre of hip hop music that blends horror-themed lyrics with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 45</li>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 48</li>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 52</li>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 64</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 37</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 49</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 52</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1103,7 +1103,7 @@ Horrorcore is a subgenre of hip hop music that blends horror-themed lyrics with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 84</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1126,9 +1126,9 @@ Horrorcore is a subgenre of hip hop music that blends horror-themed lyrics with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 73</li>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 99</li>
-            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 100</li>
+            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 1</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 2</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1208,7 +1208,7 @@ Horrorcore is a subgenre of hip hop music that blends horror-themed lyrics with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 63</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1250,7 +1250,7 @@ Horrorcore is a subgenre of hip hop music that blends horror-themed lyrics with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 7</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1269,7 +1269,7 @@ Horrorcore is a subgenre of hip hop music that blends horror-themed lyrics with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 60</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1289,7 +1289,7 @@ Horrorcore is a subgenre of hip hop music that blends horror-themed lyrics with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 77</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1384,7 +1384,7 @@ Horrorcore is a subgenre of hip hop music that blends horror-themed lyrics with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 51</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1440,8 +1440,8 @@ Horrorcore is a subgenre of hip hop music that blends horror-themed lyrics with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 59</li>
-            <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 93</li>
+            <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 23</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1472,18 +1472,18 @@ Horrorcore is a subgenre of hip hop music that blends horror-themed lyrics with 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 1</li>
+            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 1</li>
             <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 1</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 1</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 1</li>
+            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 1</li>
+            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 4</li>
             <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 12</li>
             <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 29</li>
             <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 32</li>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 35</li>
             <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 96</li>
-            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 97</li>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 100</li>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 100</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 100</li>
-            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 100</li>
-            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1503,7 +1503,7 @@ Horrorcore is a subgenre of hip hop music that blends horror-themed lyrics with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 74</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1525,10 +1525,10 @@ Horrorcore is a subgenre of hip hop music that blends horror-themed lyrics with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 26</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 1</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 8</li>
             <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 39</li>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 93</li>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 100</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1551,9 +1551,9 @@ Horrorcore is a subgenre of hip hop music that blends horror-themed lyrics with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 46</li>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 94</li>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 94</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 7</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 7</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1615,8 +1615,8 @@ Horrorcore is a subgenre of hip hop music that blends horror-themed lyrics with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 55</li>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 56</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 45</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 46</li>
             <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 64</li>
         </ul>
       </td>
@@ -1655,7 +1655,7 @@ Horrorcore is a subgenre of hip hop music that blends horror-themed lyrics with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 46</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1677,9 +1677,9 @@ Horrorcore is a subgenre of hip hop music that blends horror-themed lyrics with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 47</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 11</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 49</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 90</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1716,7 +1716,7 @@ Horrorcore is a subgenre of hip hop music that blends horror-themed lyrics with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 65</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1740,9 +1740,9 @@ Horrorcore is a subgenre of hip hop music that blends horror-themed lyrics with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 15</li>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 68</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 33</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 81</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1760,7 +1760,7 @@ Horrorcore is a subgenre of hip hop music that blends horror-themed lyrics with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 8</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1778,8 +1778,8 @@ Horrorcore is a subgenre of hip hop music that blends horror-themed lyrics with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 33</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 40</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 61</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1797,8 +1797,8 @@ Horrorcore is a subgenre of hip hop music that blends horror-themed lyrics with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 3</li>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 67</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 34</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1818,7 +1818,7 @@ Horrorcore is a subgenre of hip hop music that blends horror-themed lyrics with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 53</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1842,7 +1842,7 @@ Horrorcore is a subgenre of hip hop music that blends horror-themed lyrics with 
       <td>
         <ul>
             <li> <a href="{{ "/tags/detroit-rap" | relative_url }}">detroit rap</a> # 15</li>
-            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 41</li>
+            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 60</li>
             <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 68</li>
         </ul>
       </td>
@@ -1863,8 +1863,8 @@ Horrorcore is a subgenre of hip hop music that blends horror-themed lyrics with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 50</li>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 81</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 20</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1885,8 +1885,8 @@ Horrorcore is a subgenre of hip hop music that blends horror-themed lyrics with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 34</li>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 83</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 18</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1922,8 +1922,8 @@ Horrorcore is a subgenre of hip hop music that blends horror-themed lyrics with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 4</li>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 23</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 78</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1941,7 +1941,7 @@ Horrorcore is a subgenre of hip hop music that blends horror-themed lyrics with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 39</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1967,8 +1967,8 @@ Horrorcore is a subgenre of hip hop music that blends horror-themed lyrics with 
       <td>
         <ul>
             <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 11</li>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 64</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 68</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 32</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1989,9 +1989,9 @@ Horrorcore is a subgenre of hip hop music that blends horror-themed lyrics with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 92</li>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 98</li>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 99</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 2</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 3</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -2009,8 +2009,8 @@ Horrorcore is a subgenre of hip hop music that blends horror-themed lyrics with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 36</li>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 55</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 46</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -2028,7 +2028,7 @@ Horrorcore is a subgenre of hip hop music that blends horror-themed lyrics with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 58</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -2046,7 +2046,7 @@ Horrorcore is a subgenre of hip hop music that blends horror-themed lyrics with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 50</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -2068,9 +2068,9 @@ Horrorcore is a subgenre of hip hop music that blends horror-themed lyrics with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 35</li>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 40</li>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 63</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 38</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 61</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 66</li>
         </ul>
       </td>
     </tr>

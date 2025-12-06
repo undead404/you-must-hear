@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T19:39:37.869Z
+date: 2025-12-06T03:32:45.891Z
 permalink: tags/sunshine-pop
 title: sunshine pop
 ---
 
 ## sunshine pop
 
-Last updated: <time datetime="2025-12-03T19:39:37.869Z">Wed Dec 03 2025 21:39:37 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T03:32:45.891Z">Sat Dec 06 2025 05:32:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -80,7 +80,7 @@ Sunshine pop is a subgenre of pop music that emerged in the mid-1960s in Souther
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 90</li>
+            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -226,7 +226,7 @@ Sunshine pop is a subgenre of pop music that emerged in the mid-1960s in Souther
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 55</li>
+            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 46</li>
             <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 66</li>
             <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 89</li>
         </ul>
@@ -271,7 +271,7 @@ Sunshine pop is a subgenre of pop music that emerged in the mid-1960s in Souther
       <td>
         <ul>
             <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 9</li>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 28</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -585,8 +585,8 @@ Sunshine pop is a subgenre of pop music that emerged in the mid-1960s in Souther
       <td>
         <ul>
             <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 15</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 55</li>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 62</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 46</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -743,7 +743,7 @@ Sunshine pop is a subgenre of pop music that emerged in the mid-1960s in Souther
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 86</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -870,7 +870,7 @@ Sunshine pop is a subgenre of pop music that emerged in the mid-1960s in Souther
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 35</li>
+            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -894,7 +894,7 @@ Sunshine pop is a subgenre of pop music that emerged in the mid-1960s in Souther
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 44</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 57</li>
             <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 71</li>
         </ul>
       </td>
@@ -993,8 +993,8 @@ Sunshine pop is a subgenre of pop music that emerged in the mid-1960s in Souther
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 15</li>
             <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 40</li>
-            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1033,7 +1033,7 @@ Sunshine pop is a subgenre of pop music that emerged in the mid-1960s in Souther
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 40</li>
+            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1074,7 +1074,7 @@ Sunshine pop is a subgenre of pop music that emerged in the mid-1960s in Souther
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 85</li>
+            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1169,8 +1169,8 @@ Sunshine pop is a subgenre of pop music that emerged in the mid-1960s in Souther
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 24</li>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 82</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 19</li>
+            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1189,10 +1189,10 @@ Sunshine pop is a subgenre of pop music that emerged in the mid-1960s in Souther
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 25</li>
             <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 39</li>
             <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 42</li>
             <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 60</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1212,7 +1212,7 @@ Sunshine pop is a subgenre of pop music that emerged in the mid-1960s in Souther
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 94</li>
+            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1334,7 +1334,7 @@ Sunshine pop is a subgenre of pop music that emerged in the mid-1960s in Souther
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 46</li>
+            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1412,8 +1412,8 @@ Sunshine pop is a subgenre of pop music that emerged in the mid-1960s in Souther
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 8</li>
             <li> <a href="{{ "/tags/waltz" | relative_url }}">waltz</a> # 21</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1451,10 +1451,10 @@ Sunshine pop is a subgenre of pop music that emerged in the mid-1960s in Souther
       <td>
         <ul>
             <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 12</li>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 17</li>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 35</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 25</li>
             <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 35</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 76</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 66</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1473,7 +1473,7 @@ Sunshine pop is a subgenre of pop music that emerged in the mid-1960s in Souther
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melbourne" | relative_url }}">melbourne</a> # 81</li>
+            <li> <a href="{{ "/tags/melbourne" | relative_url }}">melbourne</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1491,11 +1491,11 @@ Sunshine pop is a subgenre of pop music that emerged in the mid-1960s in Souther
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 9</li>
             <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 16</li>
             <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 33</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 39</li>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 61</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 40</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 62</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1514,7 +1514,7 @@ Sunshine pop is a subgenre of pop music that emerged in the mid-1960s in Souther
       <td>
         <ul>
             <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 12</li>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 44</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1556,8 +1556,8 @@ Sunshine pop is a subgenre of pop music that emerged in the mid-1960s in Souther
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 43</li>
-            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 62</li>
+            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 40</li>
+            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1698,10 +1698,10 @@ Sunshine pop is a subgenre of pop music that emerged in the mid-1960s in Souther
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 13</li>
+            <li> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a> # 16</li>
             <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 49</li>
             <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 80</li>
-            <li> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a> # 84</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1745,9 +1745,9 @@ Sunshine pop is a subgenre of pop music that emerged in the mid-1960s in Souther
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/seattle" | relative_url }}">seattle</a> # 8</li>
             <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 34</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 34</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 66</li>
+            <li> <a href="{{ "/tags/seattle" | relative_url }}">seattle</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1790,7 +1790,7 @@ Sunshine pop is a subgenre of pop music that emerged in the mid-1960s in Souther
         <ul>
             <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 23</li>
             <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 29</li>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 43</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1922,7 +1922,7 @@ Sunshine pop is a subgenre of pop music that emerged in the mid-1960s in Souther
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 74</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1987,8 +1987,8 @@ Sunshine pop is a subgenre of pop music that emerged in the mid-1960s in Souther
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 13</li>
             <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 40</li>
-            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 88</li>
         </ul>
       </td>
     </tr>

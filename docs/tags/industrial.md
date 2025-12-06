@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T20:13:25.741Z
+date: 2025-12-06T03:38:46.095Z
 permalink: tags/industrial
 title: industrial
 ---
 
 ## industrial
 
-Last updated: <time datetime="2025-12-03T20:13:25.741Z">Wed Dec 03 2025 22:13:25 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T03:38:46.095Z">Sat Dec 06 2025 05:38:46 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -62,7 +62,7 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 64</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -99,7 +99,7 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 13</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -267,7 +267,7 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 57</li>
+            <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -290,7 +290,7 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       <td>
         <ul>
             <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 56</li>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 82</li>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -346,7 +346,7 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       <td>
         <ul>
             <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 1</li>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 77</li>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -518,14 +518,14 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 1</li>
+            <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 1</li>
+            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 3</li>
             <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 5</li>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 42</li>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 43</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 79</li>
-            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 88</li>
-            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 98</li>
-            <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 100</li>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 100</li>
+            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 13</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 22</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 58</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -543,8 +543,8 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 26</li>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 47</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 54</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -714,7 +714,7 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 65</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -736,7 +736,7 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       <td>
         <ul>
             <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 22</li>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 86</li>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -892,7 +892,7 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/futurepop" | relative_url }}">futurepop</a> # 91</li>
+            <li> <a href="{{ "/tags/futurepop" | relative_url }}">futurepop</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1019,7 +1019,7 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 52</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1042,7 +1042,7 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
         <ul>
             <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 5</li>
             <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 19</li>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 73</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1200,7 +1200,7 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 53</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 48</li>
             <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 61</li>
         </ul>
       </td>
@@ -1292,7 +1292,7 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       <td>
         <ul>
             <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 27</li>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 33</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1483,7 +1483,7 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 83</li>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1502,7 +1502,7 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 15</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1765,7 +1765,7 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 71</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1795,12 +1795,12 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
         <ul>
             <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 2</li>
             <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 9</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 10</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 12</li>
             <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 13</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 35</li>
             <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 46</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 50</li>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 89</li>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 91</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 51</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1845,7 +1845,7 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       <td>
         <ul>
             <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 15</li>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 85</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1889,11 +1889,11 @@ Industrial is an aggressive, experimental music genre that emerged in the late 1
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 6</li>
             <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 12</li>
+            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 20</li>
             <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 35</li>
             <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 66</li>
-            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 79</li>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 95</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T22:16:26.901Z
+date: 2025-12-06T04:04:27.232Z
 permalink: tags/switzerland
 title: switzerland
 ---
 
 ## switzerland
 
-Last updated: <time datetime="2025-12-03T22:16:26.901Z">Thu Dec 04 2025 00:16:26 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T04:04:27.232Z">Sat Dec 06 2025 06:04:27 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -64,7 +64,7 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a> # 35</li>
+            <li> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -182,7 +182,27 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 30</li>
+            <li> <a href="{{ "/tags/chamber-rock" | relative_url }}">chamber rock</a> # 51</li>
+            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 71</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/76c49aa401b64bee94fd8db98dee1058.png" alt="Cover for Quelques pièces détachées" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1993</td>
+      <td>L&#39;Ensemble Rayé</td>
+      <td>Quelques pièces détachées</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chamber-rock" | relative_url }}">chamber rock</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -205,24 +225,6 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
     </tr>
     <tr>
-      <td>27</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/76c49aa401b64bee94fd8db98dee1058.png" alt="Cover for Quelques pièces détachées" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1993</td>
-      <td>L&#39;Ensemble Rayé</td>
-      <td>Quelques pièces détachées</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7fef7e77c652ea27acdf442ddafc0e4e.png" alt="Cover for Emile au jardin patrologique" style="max-width:120px; height:auto;" />
@@ -233,6 +235,7 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber-rock" | relative_url }}">chamber rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
             <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a></li>
             <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a></li>
@@ -240,33 +243,9 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 53</li>
+            <li> <a href="{{ "/tags/chamber-rock" | relative_url }}">chamber rock</a> # 18</li>
+            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 48</li>
             <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 71</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>65</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/de111bf38a470c8d1148fe8ca205d118.png" alt="Cover for Battre campagne" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1994</td>
-      <td>Debile Menthol</td>
-      <td>Battre campagne</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
-            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 80</li>
-            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -287,6 +266,34 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/chamber-rock" | relative_url }}">chamber rock</a> # 66</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/de111bf38a470c8d1148fe8ca205d118.png" alt="Cover for Battre campagne" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994</td>
+      <td>Debile Menthol</td>
+      <td>Battre campagne</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/chamber-rock" | relative_url }}">chamber rock</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 21</li>
+            <li> <a href="{{ "/tags/chamber-rock" | relative_url }}">chamber rock</a> # 40</li>
+            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -344,7 +351,24 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ragtime" | relative_url }}">ragtime</a> # 79</li>
+            <li> <a href="{{ "/tags/ragtime" | relative_url }}">ragtime</a> # 22</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>
+      </td>
+      <td>1998</td>
+      <td>Cédric Vuille&#x2F;Jean-20 Huguenin</td>
+      <td>Un Royaume, une Espece de Vide</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chamber-rock" | relative_url }}">chamber rock</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -388,22 +412,6 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
     </tr>
     <tr>
-      <td>80</td>
-      <td>
-      </td>
-      <td>1998</td>
-      <td>Cédric Vuille&#x2F;Jean-20 Huguenin</td>
-      <td>Un Royaume, une Espece de Vide</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fed0302aaa8a92459d889a8a9caaae65.png" alt="Cover for Foufoune" style="max-width:120px; height:auto;" />
@@ -429,11 +437,11 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 15</li>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 23</li>
+            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 25</li>
             <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 41</li>
             <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 63</li>
-            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 76</li>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 78</li>
-            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -481,11 +489,11 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 8</li>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 12</li>
+            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 19</li>
             <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 23</li>
             <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 36</li>
-            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 82</li>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 89</li>
-            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -515,9 +523,9 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 51</li>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 52</li>
-            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 68</li>
+            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 33</li>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 49</li>
+            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 50</li>
             <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 88</li>
         </ul>
       </td>
@@ -538,7 +546,8 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 14</li>
+            <li> <a href="{{ "/tags/chamber-rock" | relative_url }}">chamber rock</a> # 47</li>
+            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -580,6 +589,25 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
     </tr>
     <tr>
+      <td>24</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b8e9086667554bf7bed481d2d5166039.png" alt="Cover for Les Contrepoints Cardinaux" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>L&#39;Ensemble Rayé</td>
+      <td>Les Contrepoints Cardinaux</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chamber-rock" | relative_url }}">chamber rock</a> # 45</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>93</td>
       <td>
           <img src="https://i.discogs.com/ykovtjTso0snMk3MYt5gq3uQhPyR9NbSjTxQ9uCn5ps/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MzU5/Ny0xMTM0NTU5NTMx/LmpwZWc.jpeg" alt="Cover for Lakritze EP" style="max-width:120px; height:auto;" />
@@ -600,30 +628,14 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/x-mas" | relative_url }}">x-mas</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a> # 58</li>
-            <li> <a href="{{ "/tags/lobit" | relative_url }}">lobit</a> # 80</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>24</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b8e9086667554bf7bed481d2d5166039.png" alt="Cover for Les Contrepoints Cardinaux" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2002</td>
-      <td>L&#39;Ensemble Rayé</td>
-      <td>Les Contrepoints Cardinaux</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
+            <li> <a href="{{ "/tags/lobit" | relative_url }}">lobit</a> # 21</li>
+            <li> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a> # 43</li>
+            <li> <a href="{{ "/tags/x-mas" | relative_url }}">x-mas</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -696,9 +708,9 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 43</li>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 48</li>
-            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 62</li>
+            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 40</li>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 54</li>
+            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 58</li>
             <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 99</li>
         </ul>
       </td>
@@ -734,13 +746,15 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a></li>
             <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/chamber-rock" | relative_url }}">chamber rock</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/chamber-rock" | relative_url }}">chamber rock</a> # 30</li>
+            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 32</li>
+            <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 47</li>
             <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 54</li>
-            <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 54</li>
-            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -966,7 +980,7 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lobit" | relative_url }}">lobit</a> # 86</li>
+            <li> <a href="{{ "/tags/lobit" | relative_url }}">lobit</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -994,7 +1008,7 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 56</li>
+            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1027,8 +1041,8 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/braindance" | relative_url }}">braindance</a> # 14</li>
             <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 46</li>
-            <li> <a href="{{ "/tags/braindance" | relative_url }}">braindance</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1056,8 +1070,8 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/braindance" | relative_url }}">braindance</a> # 31</li>
             <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 65</li>
-            <li> <a href="{{ "/tags/braindance" | relative_url }}">braindance</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1164,8 +1178,8 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a> # 7</li>
-            <li> <a href="{{ "/tags/lobit" | relative_url }}">lobit</a> # 89</li>
+            <li> <a href="{{ "/tags/lobit" | relative_url }}">lobit</a> # 12</li>
+            <li> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1204,9 +1218,9 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ragtime" | relative_url }}">ragtime</a> # 10</li>
+            <li> <a href="{{ "/tags/oregon" | relative_url }}">oregon</a> # 9</li>
             <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 64</li>
-            <li> <a href="{{ "/tags/oregon" | relative_url }}">oregon</a> # 92</li>
+            <li> <a href="{{ "/tags/ragtime" | relative_url }}">ragtime</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1487,9 +1501,9 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 27</li>
-            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 47</li>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 67</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 34</li>
+            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 54</li>
+            <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1528,8 +1542,9 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 33</li>
-            <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 41</li>
+            <li> <a href="{{ "/tags/chamber-rock" | relative_url }}">chamber rock</a> # 57</li>
+            <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 60</li>
+            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1650,8 +1665,8 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 33</li>
-            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 63</li>
+            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 38</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 68</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 75</li>
         </ul>
       </td>
@@ -1678,8 +1693,8 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 30</li>
-            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 51</li>
+            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 50</li>
+            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1765,7 +1780,7 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 76</li>
+            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1792,7 +1807,7 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 38</li>
+            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1875,7 +1890,7 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 42</li>
+            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1893,7 +1908,7 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 89</li>
+            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 12</li>
             <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 100</li>
         </ul>
       </td>
@@ -1912,7 +1927,7 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 77</li>
+            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1939,7 +1954,7 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 39</li>
+            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1976,8 +1991,8 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       <td>
         <ul>
             <li> <a href="{{ "/tags/vancouver" | relative_url }}">vancouver</a> # 22</li>
-            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 23</li>
             <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 59</li>
+            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -2072,7 +2087,7 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 36</li>
+            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 65</li>
         </ul>
       </td>
     </tr>

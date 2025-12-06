@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T21:55:25.474Z
+date: 2025-12-06T03:51:45.973Z
 permalink: tags/trap-metal
 title: trap metal
 ---
 
 ## trap metal
 
-Last updated: <time datetime="2025-12-03T21:55:25.474Z">Wed Dec 03 2025 23:55:25 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T03:51:45.973Z">Sat Dec 06 2025 05:51:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,26 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
   </thead>
   <tbody>
     <tr>
-      <td>50</td>
+      <td>19</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c259801fb08fbd7c9448b1aeefb84825.png" alt="Cover for HOT DEMON B!TCHES NEAR U ! ! !" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1983</td>
+      <td>Corpse</td>
+      <td>HOT DEMON B!TCHES NEAR U ! ! !</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 5</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 6</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/iupgMGkCvyihFB6bTqxTxXLDINwzh80W13uoBS194o8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzODg1/MDQtMTQ3OTY4MTA1/NC0yMzgzLmpwZWc.jpeg" alt="Cover for OBSCURA NOCTIS MORS" style="max-width:120px; height:auto;" />
       </td>
@@ -45,31 +64,12 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 3</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>82</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c259801fb08fbd7c9448b1aeefb84825.png" alt="Cover for HOT DEMON B!TCHES NEAR U ! ! !" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1983</td>
-      <td>Corpse</td>
-      <td>HOT DEMON B!TCHES NEAR U ! ! !</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 6</li>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 96</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>60</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/37f6b1f14ae88d70a7a09157f24685b0.png" alt="Cover for White Tee (Alternate Bass Boosted Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -82,13 +82,13 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 44</li>
             <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 55</li>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 57</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5fd8abe279719d23c06e8229018158ba.png" alt="Cover for E-GIRLS ARE RUINING MY LIFE!" style="max-width:120px; height:auto;" />
       </td>
@@ -107,14 +107,14 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       <td>
         <ul>
             <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 1</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 1</li>
             <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 5</li>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 95</li>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 100</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 6</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/90ae70fccbb106e25a9b156e16da549d.png" alt="Cover for SPIDER GANG IS OVER" style="max-width:120px; height:auto;" />
       </td>
@@ -136,26 +136,7 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
     </tr>
     <tr>
-      <td>73</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/34db22461c7631fcae50f8b641f44d6f.png" alt="Cover for Cat Girls Are Ruining My Life!" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1993</td>
-      <td>Corpse</td>
-      <td>Cat Girls Are Ruining My Life!</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 22</li>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 81</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/61c5453abb82afdf9532b94d06853902.png" alt="Cover for Miss YOU!" style="max-width:120px; height:auto;" />
       </td>
@@ -168,13 +149,32 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 14</li>
             <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 15</li>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>28</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/34db22461c7631fcae50f8b641f44d6f.png" alt="Cover for Cat Girls Are Ruining My Life!" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1993</td>
+      <td>Corpse</td>
+      <td>Cat Girls Are Ruining My Life!</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 20</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 22</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9262cbfda2a8f0ce0388b009c0a5b936.png" alt="Cover for CODE MISTAKE" style="max-width:120px; height:auto;" />
       </td>
@@ -193,45 +193,7 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
     </tr>
     <tr>
-      <td>68</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e49b712404ab22af61953e8ac07c822e.png" alt="Cover for Cabin Fever" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1997</td>
-      <td>Corpse</td>
-      <td>Cabin Fever</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 33</li>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 71</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>70</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5563530edc715985d12aa83ab17cae43.png" alt="Cover for White Tee" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1997</td>
-      <td>Corpse</td>
-      <td>White Tee</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 28</li>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 79</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/88c928377ce053f476efa39b44dd7f23.png" alt="Cover for agoraphobic" style="max-width:120px; height:auto;" />
       </td>
@@ -245,13 +207,51 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       <td>
         <ul>
             <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 18</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 19</li>
             <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 62</li>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>31</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5563530edc715985d12aa83ab17cae43.png" alt="Cover for White Tee" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997</td>
+      <td>Corpse</td>
+      <td>White Tee</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 22</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 28</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e49b712404ab22af61953e8ac07c822e.png" alt="Cover for Cabin Fever" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997</td>
+      <td>Corpse</td>
+      <td>Cabin Fever</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 30</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 33</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/gLTEN8ERi24woregdZHdFVtvN3OQLeiGf6SqnFIB1B4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODIx/MjMxLTE1MjI5NTYz/MzAtMTEwNS5qcGVn.jpeg" alt="Cover for DEMONS LURK BEHIND MY FACE" style="max-width:120px; height:auto;" />
       </td>
@@ -269,7 +269,7 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/xIBzkDZ6q6ZuLBRqu2b-03z5qZuK9y214tyjTY46tZ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzE2/NTA3LTE2MzUxMDIz/NjItMTU2NS5qcGVn.jpeg" alt="Cover for DAYWALKER! (feat. CORPSE)" style="max-width:120px; height:auto;" />
       </td>
@@ -291,13 +291,13 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
             <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 1</li>
             <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 1</li>
             <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 2</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 21</li>
             <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 27</li>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d0dd274618456b2059893f0cc09d3f74.png" alt="Cover for Never Satisfied" style="max-width:120px; height:auto;" />
       </td>
@@ -310,13 +310,13 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 24</li>
             <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 30</li>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/GyruA8rwtfxzhirqcCXSWKaJFVMlReZIA66XA125Ku8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NDQ5/NzMtMTQwNDI5MjU1/Mi0xMzMzLmpwZWc.jpeg" alt="Cover for SCREAMS OF THE DEMONS" style="max-width:120px; height:auto;" />
       </td>
@@ -335,7 +335,7 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/WSAXjXdrHiL0GxWf1rwaEY0mmGfHB-vV61JMrbFP9KY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDU5/MzU3LTE2ODc0NDQx/NjEtMzYzOC5qcGVn.jpeg" alt="Cover for Hoover" style="max-width:120px; height:auto;" />
       </td>
@@ -352,12 +352,12 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 86</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 15</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d18806fd55d33f0cf50708b7c748866c.png" alt="Cover for IntoXXXicated" style="max-width:120px; height:auto;" />
       </td>
@@ -375,7 +375,7 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/9FhgGpPumDTJvS-So9gOyFmkSQpvaOE9PjypoY0Zu3k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDA4/MjY5LTE2NDYyNjA0/NjQtOTY1NS5qcGVn.jpeg" alt="Cover for Blow" style="max-width:120px; height:auto;" />
       </td>
@@ -393,7 +393,7 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/6etTMs_F-nnLZVbKKSSJu7cozA7E5nMB4We0IlRmFcM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTkw/MTQ1LTE1MDc3Nzcx/NDYtMTAyMy5qcGVn.jpeg" alt="Cover for Drown-in-Designer" style="max-width:120px; height:auto;" />
       </td>
@@ -415,7 +415,7 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/W7pissYUjzshDanxWoK-9MaskLe90gnjqAQQE4V5ep0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDM3/NDM3LTE1OTE1MTk3/NDUtNjMyMC5qcGVn.jpeg" alt="Cover for Evil Nigga" style="max-width:120px; height:auto;" />
       </td>
@@ -433,7 +433,7 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9c33cad2069b671085e24a03e83cecd0.png" alt="Cover for HELLHORSE" style="max-width:120px; height:auto;" />
       </td>
@@ -450,7 +450,7 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d54be8c1ecb638dc01b2a8dd5f57ae3a.png" alt="Cover for Shmeckles" style="max-width:120px; height:auto;" />
       </td>
@@ -472,7 +472,7 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d6cd1e9be726c6fd7d719b3df27d4a4b.png" alt="Cover for INTERMITTENCY" style="max-width:120px; height:auto;" />
       </td>
@@ -492,7 +492,7 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/ETFGSQKMlja3_DEh4Rm0IB3kWFlPZ_v94TiNvEbRfTA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTU3/ODY3LTE0OTI2MjQw/NTctMzE4MS5qcGVn.jpeg" alt="Cover for A Skeleton Key in the Doors of Depression" style="max-width:120px; height:auto;" />
       </td>
@@ -520,7 +520,7 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dd9a506d4593d3fd0da95f2b3d62392c.png" alt="Cover for Beautiful Bloodsuckerr" style="max-width:120px; height:auto;" />
       </td>
@@ -537,7 +537,7 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>98</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cdea2d138aa2de5833dfbde10441255d.png" alt="Cover for Irréversible Part II" style="max-width:120px; height:auto;" />
       </td>
@@ -554,7 +554,7 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/AnXEK3Uyneu0uI2JfVwm5kMmRwZmQESOUuUMmRtHv0I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDAx/ODIzLTE0OTY3MTk2/MzUtMjk0Ny5wbmc.jpeg" alt="Cover for Cage with Mirrored Bars" style="max-width:120px; height:auto;" />
       </td>
@@ -572,7 +572,7 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/KGX6KNJ--B2pv1wmQyuR2sctVcs5qZZFwXtN4Z0o6NU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDE1/NjMwLTE1MzQ4Mzc4/MzYtOTQzMC5qcGVn.jpeg" alt="Cover for Cheaper Than Therapy" style="max-width:120px; height:auto;" />
       </td>
@@ -590,7 +590,7 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d2fd69e1153b728c5dd91b33c7eae317.png" alt="Cover for Lxrdszn" style="max-width:120px; height:auto;" />
       </td>
@@ -603,12 +603,12 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 8</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6e32d1c4297619a7ae4c05b323f4059b.png" alt="Cover for CHAXSTHEXRY" style="max-width:120px; height:auto;" />
       </td>
@@ -621,13 +621,13 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 4</li>
-            <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 52</li>
+            <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 49</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/P9mAjKeroFxb6V2xbBfeUcFN1CixwfQQsrc4qyKdcBA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTgz/OTQ4LTE2MTA5NjQx/ODktMTAxMy5qcGVn.jpeg" alt="Cover for GauzeValley" style="max-width:120px; height:auto;" />
       </td>
@@ -645,7 +645,7 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bbb71f4b6e7660af1010a39affced382.png" alt="Cover for Day69: Graduation Day" style="max-width:120px; height:auto;" />
       </td>
@@ -663,7 +663,7 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/eb08998bcef5c46fc1aaec14be568d86.png" alt="Cover for TA13OO" style="max-width:120px; height:auto;" />
       </td>
@@ -676,13 +676,13 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 25</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 76</li>
             <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e185cbcb66c1ebac549b9f82e3c0b9ff.png" alt="Cover for Puff Daddy - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -700,12 +700,12 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 25</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bd67758e4a29a8b2b695060327251ea4.png" alt="Cover for Puff Daddy" style="max-width:120px; height:auto;" />
       </td>
@@ -726,7 +726,7 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>99</td>
       <td>
           <img src="https://i.discogs.com/bOQq0O0gmXE--Gb5yn8JlSVmXRYD-kg62MGax65teo4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjYw/NDQ3LTE2Mjc1MDc4/MjItNjQ0OC5qcGVn.jpeg" alt="Cover for LIL D****e Classics" style="max-width:120px; height:auto;" />
       </td>
@@ -744,7 +744,7 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/olnOVSbMVZMHf1hHvFl4jgd0_S99Da4ttSBX6IeTYMc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTYw/NjI1LTE2NjAxNTUz/MjgtODA1NC5qcGVn.jpeg" alt="Cover for Infection" style="max-width:120px; height:auto;" />
       </td>
@@ -762,7 +762,7 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/VVKnwwbO5U4mRrto6SpuWlw_ly5kLfTqDcjzFjKjTzE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDg0/ODgzLTE2MDMxNTA1/NjYtNzgyMi5qcGVn.jpeg" alt="Cover for Satanic Prostitute" style="max-width:120px; height:auto;" />
       </td>
@@ -780,7 +780,7 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/tm4bKDlleNBAztcGze8NzUkTEaCCg9eGMLEf9OZt64M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTg0/ODUxLTE2MDEzODU2/MzAtNzkyNC5qcGVn.jpeg" alt="Cover for Jasiah I Am" style="max-width:120px; height:auto;" />
       </td>
@@ -795,12 +795,12 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 64</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 37</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/657f87674f96b7198fc64cba1cea2be0.png" alt="Cover for RAINBOW BRIDGE 1" style="max-width:120px; height:auto;" />
       </td>
@@ -822,7 +822,7 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/BRGuI5971HzfVUURHhmj4Nerw3-iYLPTLtyP110PhzI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDg2/OTUxLTE2MDMxOTg3/MTctNDYzOS5qcGVn.jpeg" alt="Cover for ANTI-ICON" style="max-width:120px; height:auto;" />
       </td>
@@ -838,12 +838,12 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       <td>
         <ul>
             <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 15</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 64</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 37</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>83</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5af10e4aa5d97ef29f3c41afe93d6c94.png" alt="Cover for THIS DOES NOT EXIST" style="max-width:120px; height:auto;" />
       </td>
@@ -856,13 +856,13 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 68</li>
-            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 88</li>
+            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 13</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/U8PcjbIcqeC9QiAqJsgA4Rzeb1fmghRgNwOMMIv6bZ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTYz/NTU1LTE2MDQ1MjI0/NzgtOTA1MS5qcGVn.jpeg" alt="Cover for Argus Panoptes" style="max-width:120px; height:auto;" />
       </td>
@@ -880,7 +880,7 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/w1Xzkc6A9H7x8LclyONlNRv2Pvj0placiOOJLlMHWkM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTY0/NjUwLTE1ODc1MTk5/NTctMTMzNy5qcGVn.jpeg" alt="Cover for Haunted Mound Reapers" style="max-width:120px; height:auto;" />
       </td>
@@ -900,7 +900,47 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>61</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2bc96f61fb19302740c1fe79b06e205b.png" alt="Cover for AMERICAN WASTELAND" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-04-10</td>
+      <td>nascar aloe</td>
+      <td>AMERICAN WASTELAND</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 7</li>
+            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 83</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 91</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/acc910464ae65c81851ca451df6ea71d.png" alt="Cover for Speed" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-04-10</td>
+      <td>nascar aloe</td>
+      <td>Speed</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 69</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 92</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c9fa55a0e7157e9e31ea8ec09c4d6d2.png" alt="Cover for SpikeHxD꙳⁎✰⁴᛭❹₄ₑᵥᵣ࿐◌͛⁺" style="max-width:120px; height:auto;" />
       </td>
@@ -929,53 +969,13 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 19</li>
             <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 63</li>
+            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/acc910464ae65c81851ca451df6ea71d.png" alt="Cover for Speed" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2020-04-10</td>
-      <td>nascar aloe</td>
-      <td>Speed</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 9</li>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 32</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>40</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2bc96f61fb19302740c1fe79b06e205b.png" alt="Cover for AMERICAN WASTELAND" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2020-04-10</td>
-      <td>nascar aloe</td>
-      <td>AMERICAN WASTELAND</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 10</li>
-            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 83</li>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 94</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/ld3iRAc1Tl27fI5QzH3UJjCg1o2HJeIMMTSxrUnzNzE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODEz/ODg0LTE2MzU3ODk4/NjMtNzMyMy5wbmc.jpeg" alt="Cover for Toxic Boogaloo" style="max-width:120px; height:auto;" />
       </td>
@@ -996,12 +996,12 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
             <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 4</li>
             <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 9</li>
             <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 20</li>
-            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 49</li>
+            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6b6f965bc0b6f5de526083dde29247d7.png" alt="Cover for (Untitled_0007-0020&amp;0001)" style="max-width:120px; height:auto;" />
       </td>
@@ -1020,7 +1020,7 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/216824459b92f51de3847c428c3459e9.png" alt="Cover for BEST HOUSE ON A BAD BLOCK" style="max-width:120px; height:auto;" />
       </td>
@@ -1034,12 +1034,12 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 69</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/r1p4VL-IQQboN_1FPMnTv3_zumwWC1-OyTdO-zQZuNo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTgx/MzM3LTE2NjAzMjY4/MDAtMzg0MS5qcGVn.jpeg" alt="Cover for Infestation" style="max-width:120px; height:auto;" />
       </td>
@@ -1057,7 +1057,7 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/782bb58dfdab04e99bc765f92730790e.png" alt="Cover for FREE THE BEAST" style="max-width:120px; height:auto;" />
       </td>
@@ -1074,12 +1074,12 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 8</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/015002433c1074aca7a79d446eda3eb9.png" alt="Cover for 19" style="max-width:120px; height:auto;" />
       </td>
@@ -1097,13 +1097,13 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       <td>
         <ul>
             <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 5</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 20</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 20</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4645dcd6cb93c0dab3ed242b9c621398.png" alt="Cover for Whole Lotta Red" style="max-width:120px; height:auto;" />
       </td>
@@ -1116,15 +1116,15 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 20</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 33</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 46</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 55</li>
             <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 67</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8dd374b985a13be971caf32a2a5f174f.png" alt="Cover for Dog Boy" style="max-width:120px; height:auto;" />
       </td>
@@ -1139,15 +1139,15 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 25</li>
             <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 33</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 47</li>
             <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 52</li>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 54</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f4201102b16363b871064c03bdc6088a.png" alt="Cover for Guilty." style="max-width:120px; height:auto;" />
       </td>
@@ -1166,7 +1166,7 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>100</td>
       <td>
           <img src="https://i.discogs.com/gZodMdu-Cxfzrl4QEyQlHBCDo07ifjn9OVUrMqew1Iw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Nzcw/ODE2LTE2MTUzMzI1/MTEtOTMyMC5qcGVn.jpeg" alt="Cover for A Skeleton Key in the Doors of Depression" style="max-width:120px; height:auto;" />
       </td>
@@ -1192,7 +1192,7 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>96</td>
       <td>
           <img src="https://i.discogs.com/gZodMdu-Cxfzrl4QEyQlHBCDo07ifjn9OVUrMqew1Iw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Nzcw/ODE2LTE2MTUzMzI1/MTEtOTMyMC5qcGVn.jpeg" alt="Cover for A Skeleton Key in the Doors of Depression" style="max-width:120px; height:auto;" />
       </td>
@@ -1209,7 +1209,7 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/412c19248882dd4e9ff833d4470e0626.png" alt="Cover for Rainbow Bridge 3" style="max-width:120px; height:auto;" />
       </td>
@@ -1222,13 +1222,13 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 23</li>
             <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 39</li>
-            <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8d7f395d6e3289c5bf9efc7cf2b8014e.png" alt="Cover for F.U.N (fuk u nigga) SLUR AND FRIENDS !" style="max-width:120px; height:auto;" />
       </td>
@@ -1254,7 +1254,7 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab72603510789b5288f0260dcbaaf1da.png" alt="Cover for До свидания" style="max-width:120px; height:auto;" />
       </td>
@@ -1273,13 +1273,13 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       <td>
         <ul>
             <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 7</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 46</li>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 94</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 7</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4b5eeb1f8dfd9c140c8e73f527fb5b9f.png" alt="Cover for pantychrist" style="max-width:120px; height:auto;" />
       </td>
@@ -1298,14 +1298,14 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 55</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 46</li>
             <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 64</li>
             <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b1b16ccd97f7e8302c2467ba8c34677.png" alt="Cover for CITY MORGUE VOLUME 3: BOTTOM OF THE BARREL" style="max-width:120px; height:auto;" />
       </td>
@@ -1325,7 +1325,7 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fade513f638539332ad5a3640b574170.png" alt="Cover for HAPPYPILLS" style="max-width:120px; height:auto;" />
       </td>
@@ -1343,12 +1343,12 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       <td>
         <ul>
             <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 14</li>
-            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 81</li>
+            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 20</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f587b7969589c6774fbe8ee226fc97fe.png" alt="Cover for Fed Up" style="max-width:120px; height:auto;" />
       </td>
@@ -1370,7 +1370,7 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>93</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c705ece84b63ea9150f431a8992b16f7.png" alt="Cover for J’Espère Que Tu Danseras Quelque Part" style="max-width:120px; height:auto;" />
       </td>
@@ -1394,7 +1394,7 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/pzD6FbOuIBVsu517TvuXbXfS9NiJgLRI8sAdupAm3Tc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDY1/ODEzLTE2NTkzNTU5/MzMtOTQ0Ni5qcGVn.jpeg" alt="Cover for DAYWALKER! (feat. CORPSE)" style="max-width:120px; height:auto;" />
       </td>
@@ -1412,7 +1412,7 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8369213ff9a8e2f8a43ea3ce9d53d65b.png" alt="Cover for CITY MORGUE VOL 1: HELL OR HIGH WATER" style="max-width:120px; height:auto;" />
       </td>
@@ -1425,13 +1425,13 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 40</li>
             <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 41</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bb377e3af3614acb90b0a72218c708d6.png" alt="Cover for CITY MORGUE VOL 2: AS GOOD AS DEAD" style="max-width:120px; height:auto;" />
       </td>
@@ -1444,13 +1444,13 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 3</li>
             <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 38</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/11a26110fc117b35bb85dfde351f4374.png" alt="Cover for BIMBOCORE VOL. 2" style="max-width:120px; height:auto;" />
       </td>
@@ -1467,12 +1467,12 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 93</li>
+            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 7</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/4sgwj9HcLW27g1YS4BO8JiuC07vHePXLsWhEQuQVLrE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTIw/NjIxLTE2ODUwMzk4/MjUtNjk2Mi5qcGVn.jpeg" alt="Cover for 3" style="max-width:120px; height:auto;" />
       </td>
@@ -1491,13 +1491,13 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 52</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 57</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 44</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 51</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5681d18128c5840ce9ade72d89f529c2.png" alt="Cover for When Reality Fades and Forgiveness Is Forgotten" style="max-width:120px; height:auto;" />
       </td>
@@ -1519,7 +1519,7 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c26a757f0a9be86d56b5f2393c8d34d3.png" alt="Cover for BUTCHER HOUSE" style="max-width:120px; height:auto;" />
       </td>
@@ -1535,12 +1535,12 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       <td>
         <ul>
             <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 13</li>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 50</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 51</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/lJ4OQupqwABQnJ5qAducUd4_1YYghDi-3gNtymguePE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Njkz/NjE1LTE2ODA5NzY2/MjAtODIwOC5qcGVn.jpeg" alt="Cover for You Make Me Sick!" style="max-width:120px; height:auto;" />
       </td>
@@ -1558,7 +1558,7 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/w7Cykhw4TPKZ30RtMLKj_mZUGyqe3PLJiEZJZDN2kI8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTgz/NjQyLTE2MDQ4NjUw/NzMtMTQ5MC5qcGVn.jpeg" alt="Cover for Hurt - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1578,7 +1578,7 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/_8LZkqgYIxr-3wQj5drDQ6UplmKkqzz9h4uwixVlsMw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTQ2/MjQ5LTE2ODgyMTI4/NTEtNDkwNi5qcGVn.jpeg" alt="Cover for PINK TAPE" style="max-width:120px; height:auto;" />
       </td>
@@ -1593,12 +1593,12 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       <td>
         <ul>
             <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 3</li>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 40</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>97</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a8d444cd726fe0cf0eaedd884011d585.png" alt="Cover for MY BLOODY AMERICA" style="max-width:120px; height:auto;" />
       </td>
@@ -1612,13 +1612,13 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 23</li>
             <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 45</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7fc7968a6ab57db7347b8d5ead23cfe0.png" alt="Cover for THE FUTURE IS DARK" style="max-width:120px; height:auto;" />
       </td>
@@ -1631,12 +1631,12 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 18</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f7e3851640419792a95a2b729a7f860b.png" alt="Cover for HEADSPLIT" style="max-width:120px; height:auto;" />
       </td>
@@ -1660,16 +1660,16 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/punk-pop" | relative_url }}">punk pop</a> # 2</li>
+            <li> <a href="{{ "/tags/mother" | relative_url }}">mother</a> # 7</li>
             <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 13</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 28</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 34</li>
-            <li> <a href="{{ "/tags/mother" | relative_url }}">mother</a> # 94</li>
-            <li> <a href="{{ "/tags/punk-pop" | relative_url }}">punk pop</a> # 99</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 67</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/60dd4a876e9bd16c3c3efa35cc762148.png" alt="Cover for Bloody Angel" style="max-width:120px; height:auto;" />
       </td>
@@ -1687,7 +1687,7 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/de0fbf0601a554a6e1c61226c22f7909.png" alt="Cover for I LAY DOWN MY LIFE FOR YOU" style="max-width:120px; height:auto;" />
       </td>
@@ -1700,57 +1700,58 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 8</li>
             <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 26</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 35</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 29</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 58</li>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 72</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 93</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>3</td>
       <td>
       </td>
       <td></td>
-      <td>rirugiliyangugili</td>
-      <td>Yangu</td>
+      <td>$uicideboy$</td>
+      <td>Kill Yourself Part XI: The Kingdom Come Saga</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/frenchcore" | relative_url }}">frenchcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/frenchcore" | relative_url }}">frenchcore</a> # 54</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 2</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 3</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 9</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>17</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/345f2ab17c9605d2ba3c9bc4b5c77310.png" alt="Cover for Blood Pact" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f49087c9eb1441ba57eafa8f539723f0.png" alt="Cover for ANTI-ICON" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>Death Tour</td>
-      <td>Blood Pact</td>
+      <td>Ghostemane</td>
+      <td>ANTI-ICON</td>
       <td>
         <ul>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 17</li>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 34</li>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 41</li>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 56</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>53</td>
       <td>
       </td>
       <td></td>
@@ -1771,66 +1772,208 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 28</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>60</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f49087c9eb1441ba57eafa8f539723f0.png" alt="Cover for ANTI-ICON" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/345f2ab17c9605d2ba3c9bc4b5c77310.png" alt="Cover for Blood Pact" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>Ghostemane</td>
-      <td>ANTI-ICON</td>
+      <td>Death Tour</td>
+      <td>Blood Pact</td>
       <td>
         <ul>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 45</li>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 55</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 60</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 67</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>89</td>
+      <td>
+      </td>
+      <td></td>
+      <td>rirugiliyangugili</td>
+      <td>Yangu</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/frenchcore" | relative_url }}">frenchcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/frenchcore" | relative_url }}">frenchcore</a> # 47</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
       <td>
       </td>
       <td></td>
       <td>$uicideboy$</td>
-      <td>Kill Yourself Part XI: The Kingdom Come Saga</td>
+      <td>LIVE FAST DIE WHENEVER</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>
+      </td>
+      <td></td>
+      <td>13 Killoki</td>
+      <td>DRGRACE</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f199fa5ba10ca73a76326c1e28224330.png" alt="Cover for Is This Beauty?" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>FUKKIT</td>
+      <td>Is This Beauty?</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>
+      </td>
+      <td></td>
+      <td>NIK NXK</td>
+      <td>INDUSTRY</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Мегамозг</td>
+      <td>Культовая рок-звезда</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/721883bd6e448782e4f85fd9634f7d30.png" alt="Cover for Bulletproof" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>JordyPurp</td>
+      <td>Bulletproof</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1923ba2ccfae48f92d42c3c2f91521a8.png" alt="Cover for Killbill +++" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>drabusheyka</td>
+      <td>Killbill +++</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>
+      </td>
+      <td></td>
+      <td>adjacen7</td>
+      <td>WARNING</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/afee893910d8cbaef242fe6b4af80eb3.png" alt="Cover for FINAL METAMORPHOSIS" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Bruude</td>
+      <td>FINAL METAMORPHOSIS</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 3</li>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 92</li>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 99</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Delcada</td>
-      <td>BURN AGAIN</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a></li>
         </ul>
       </td>
@@ -1840,28 +1983,7 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
     </tr>
     <tr>
-      <td>9</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b13a2b45c2eef92944f9bd05b4bc0d92.png" alt="Cover for Grid World" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Lord Distortion</td>
-      <td>Grid World</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>10</td>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/efa85a5ef67ee8081c736e5635eb1fca.png" alt="Cover for TASTE LIKE SIN" style="max-width:120px; height:auto;" />
       </td>
@@ -1885,38 +2007,19 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>92</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/afee893910d8cbaef242fe6b4af80eb3.png" alt="Cover for FINAL METAMORPHOSIS" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b13a2b45c2eef92944f9bd05b4bc0d92.png" alt="Cover for Grid World" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>Bruude</td>
-      <td>FINAL METAMORPHOSIS</td>
+      <td>Lord Distortion</td>
+      <td>Grid World</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>20</td>
-      <td>
-      </td>
-      <td></td>
-      <td>adjacen7</td>
-      <td>WARNING</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a></li>
         </ul>
       </td>
       <td>
@@ -1925,34 +2028,18 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>95</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1923ba2ccfae48f92d42c3c2f91521a8.png" alt="Cover for Killbill +++" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>drabusheyka</td>
-      <td>Killbill +++</td>
+      <td>Delcada</td>
+      <td>BURN AGAIN</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>35</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/721883bd6e448782e4f85fd9634f7d30.png" alt="Cover for Bulletproof" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>JordyPurp</td>
-      <td>Bulletproof</td>
-      <td>
-        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a></li>
         </ul>
@@ -1963,116 +2050,29 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
     </tr>
     <tr>
-      <td>36</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Мегамозг</td>
-      <td>Культовая рок-звезда</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>42</td>
-      <td>
-      </td>
-      <td></td>
-      <td>NIK NXK</td>
-      <td>INDUSTRY</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>46</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f199fa5ba10ca73a76326c1e28224330.png" alt="Cover for Is This Beauty?" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>FUKKIT</td>
-      <td>Is This Beauty?</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>62</td>
-      <td>
-      </td>
-      <td></td>
-      <td>13 Killoki</td>
-      <td>DRGRACE</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>78</td>
-      <td>
-      </td>
-      <td></td>
-      <td>$uicideboy$</td>
-      <td>LIVE FAST DIE WHENEVER</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>13</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Kordhell, Scarlxrd &amp; CORPSE</td>
-      <td>LIKE YXU WXULD KNXW (AUTUMN TREES)</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>29</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1e00a2a186d22b900c1f91f877f8baf8.png" alt="Cover for TOXIC BOOGALOO" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>City Morgue, ZillaKami, SosMula</td>
       <td>TOXIC BOOGALOO</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Kordhell, Scarlxrd &amp; CORPSE</td>
+      <td>LIKE YXU WXULD KNXW (AUTUMN TREES)</td>
       <td>
         <ul>
         </ul>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T18:49:26.240Z
+date: 2025-12-06T03:26:45.900Z
 permalink: tags/german
 title: german
 ---
 
 ## german
 
-Last updated: <time datetime="2025-12-03T18:49:26.240Z">Wed Dec 03 2025 20:49:26 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T03:26:45.900Z">Sat Dec 06 2025 05:26:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -61,7 +61,7 @@ Last updated: <time datetime="2025-12-03T18:49:26.240Z">Wed Dec 03 2025 20:49:26
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 99</li>
+            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -161,7 +161,7 @@ Last updated: <time datetime="2025-12-03T18:49:26.240Z">Wed Dec 03 2025 20:49:26
       <td>
         <ul>
             <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 3</li>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 82</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 16</li>
             <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 86</li>
         </ul>
       </td>
@@ -236,7 +236,7 @@ Last updated: <time datetime="2025-12-03T18:49:26.240Z">Wed Dec 03 2025 20:49:26
       <td>
         <ul>
             <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 18</li>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 35</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -256,8 +256,8 @@ Last updated: <time datetime="2025-12-03T18:49:26.240Z">Wed Dec 03 2025 20:49:26
       <td>
         <ul>
             <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 1</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 5</li>
             <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 21</li>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -350,7 +350,7 @@ Last updated: <time datetime="2025-12-03T18:49:26.240Z">Wed Dec 03 2025 20:49:26
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hamburg" | relative_url }}">hamburg</a> # 95</li>
+            <li> <a href="{{ "/tags/hamburg" | relative_url }}">hamburg</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -525,7 +525,7 @@ Last updated: <time datetime="2025-12-03T18:49:26.240Z">Wed Dec 03 2025 20:49:26
       <td>
         <ul>
             <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 18</li>
-            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 20</li>
+            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 81</li>
             <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 96</li>
         </ul>
       </td>
@@ -618,8 +618,8 @@ Last updated: <time datetime="2025-12-03T18:49:26.240Z">Wed Dec 03 2025 20:49:26
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 2</li>
             <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 3</li>
-            <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -753,7 +753,7 @@ Last updated: <time datetime="2025-12-03T18:49:26.240Z">Wed Dec 03 2025 20:49:26
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hamburg" | relative_url }}">hamburg</a> # 58</li>
+            <li> <a href="{{ "/tags/hamburg" | relative_url }}">hamburg</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -850,8 +850,8 @@ Last updated: <time datetime="2025-12-03T18:49:26.240Z">Wed Dec 03 2025 20:49:26
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 36</li>
-            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 87</li>
+            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 14</li>
+            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -894,7 +894,7 @@ Last updated: <time datetime="2025-12-03T18:49:26.240Z">Wed Dec 03 2025 20:49:26
       <td>
         <ul>
             <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 57</li>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 78</li>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1010,7 +1010,7 @@ Last updated: <time datetime="2025-12-03T18:49:26.240Z">Wed Dec 03 2025 20:49:26
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 98</li>
+            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1031,8 +1031,8 @@ Last updated: <time datetime="2025-12-03T18:49:26.240Z">Wed Dec 03 2025 20:49:26
       <td>
         <ul>
             <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 4</li>
-            <li> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a> # 12</li>
             <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 78</li>
+            <li> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1071,8 +1071,8 @@ Last updated: <time datetime="2025-12-03T18:49:26.240Z">Wed Dec 03 2025 20:49:26
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 43</li>
             <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 44</li>
+            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1092,7 +1092,7 @@ Last updated: <time datetime="2025-12-03T18:49:26.240Z">Wed Dec 03 2025 20:49:26
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 53</li>
+            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1148,7 +1148,7 @@ Last updated: <time datetime="2025-12-03T18:49:26.240Z">Wed Dec 03 2025 20:49:26
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hamburg" | relative_url }}">hamburg</a> # 82</li>
+            <li> <a href="{{ "/tags/hamburg" | relative_url }}">hamburg</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1281,7 +1281,7 @@ Last updated: <time datetime="2025-12-03T18:49:26.240Z">Wed Dec 03 2025 20:49:26
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 80</li>
+            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1493,9 +1493,9 @@ Last updated: <time datetime="2025-12-03T18:49:26.240Z">Wed Dec 03 2025 20:49:26
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 7</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 10</li>
             <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 82</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 91</li>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1629,7 +1629,7 @@ Last updated: <time datetime="2025-12-03T18:49:26.240Z">Wed Dec 03 2025 20:49:26
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 73</li>
+            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1653,8 +1653,8 @@ Last updated: <time datetime="2025-12-03T18:49:26.240Z">Wed Dec 03 2025 20:49:26
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 4</li>
             <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 73</li>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1698,7 +1698,7 @@ Last updated: <time datetime="2025-12-03T18:49:26.240Z">Wed Dec 03 2025 20:49:26
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 11</li>
+            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1720,9 +1720,9 @@ Last updated: <time datetime="2025-12-03T18:49:26.240Z">Wed Dec 03 2025 20:49:26
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 1</li>
             <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 6</li>
             <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 42</li>
-            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1745,8 +1745,8 @@ Last updated: <time datetime="2025-12-03T18:49:26.240Z">Wed Dec 03 2025 20:49:26
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 1</li>
             <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 4</li>
-            <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1769,7 +1769,7 @@ Last updated: <time datetime="2025-12-03T18:49:26.240Z">Wed Dec 03 2025 20:49:26
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 64</li>
+            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1858,10 +1858,10 @@ Last updated: <time datetime="2025-12-03T18:49:26.240Z">Wed Dec 03 2025 20:49:26
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 60</li>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 76</li>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 76</li>
-            <li> <a href="{{ "/tags/christian-metalcore" | relative_url }}">christian metalcore</a> # 97</li>
+            <li> <a href="{{ "/tags/christian-metalcore" | relative_url }}">christian metalcore</a> # 4</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 25</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 25</li>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -2019,10 +2019,10 @@ Last updated: <time datetime="2025-12-03T18:49:26.240Z">Wed Dec 03 2025 20:49:26
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 72</li>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 84</li>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 85</li>
-            <li> <a href="{{ "/tags/christian-metalcore" | relative_url }}">christian metalcore</a> # 98</li>
+            <li> <a href="{{ "/tags/christian-metalcore" | relative_url }}">christian metalcore</a> # 3</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 16</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 17</li>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 28</li>
         </ul>
       </td>
     </tr>

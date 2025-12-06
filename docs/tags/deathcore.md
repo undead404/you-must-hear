@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T00:20:48.703Z
+date: 2025-12-06T04:11:45.929Z
 permalink: tags/deathcore
 title: deathcore
 ---
 
 ## deathcore
 
-Last updated: <time datetime="2025-12-04T00:20:48.703Z">Thu Dec 04 2025 02:20:48 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T04:11:45.929Z">Sat Dec 06 2025 06:11:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
   </thead>
   <tbody>
     <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9109c4160c286d89228eb6d0741a787a.png" alt="Cover for This Is What the Edge of Your Seat Was Made For" style="max-width:120px; height:auto;" />
       </td>
@@ -46,7 +46,7 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4459974e26b322e6609966a2e0cf6244.png" alt="Cover for The Healing Process" style="max-width:120px; height:auto;" />
       </td>
@@ -65,7 +65,7 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0541eec4e5122c87c48169c06a6a0b72.png" alt="Cover for Doom" style="max-width:120px; height:auto;" />
       </td>
@@ -83,7 +83,7 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c6dd83ccd8f4c61ccdcd46bf213ae78.png" alt="Cover for Allegiance" style="max-width:120px; height:auto;" />
       </td>
@@ -100,7 +100,7 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
       </td>
       <td>2006-08-04</td>
@@ -117,7 +117,7 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e3e350f12045444cb76c710a43bb7452.png" alt="Cover for Count Your Blessings" style="max-width:120px; height:auto;" />
       </td>
@@ -135,7 +135,7 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/052e07b9edc10e352270e07c801b5609.png" alt="Cover for Amidst the Bloodshed" style="max-width:120px; height:auto;" />
       </td>
@@ -153,7 +153,7 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>53</td>
       <td>
       </td>
       <td>2007-03-06</td>
@@ -173,7 +173,7 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>59</td>
       <td>
       </td>
       <td>2007-04-24</td>
@@ -191,7 +191,7 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f7e91d0f7bd043ec86800aa15b8f9ff5.png" alt="Cover for The Ills of Modern Man" style="max-width:120px; height:auto;" />
       </td>
@@ -210,7 +210,7 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e008714f52d4403888cc22ac7946aa8f.png" alt="Cover for Welcome To Sludge City" style="max-width:120px; height:auto;" />
       </td>
@@ -230,7 +230,7 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/418f5e274205bf8f6ff7ffe2b7f11064.png" alt="Cover for Dead in My Arms" style="max-width:120px; height:auto;" />
       </td>
@@ -248,7 +248,7 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/159da6fb31074f67a8f26ec99fca4c55.png" alt="Cover for The Somatic Defilement" style="max-width:120px; height:auto;" />
       </td>
@@ -262,12 +262,12 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 81</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 20</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>70</td>
       <td>
       </td>
       <td>2007-08-14</td>
@@ -284,7 +284,7 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/970849e479344020b2dd8b133292c34f.png" alt="Cover for Transmetropolitan" style="max-width:120px; height:auto;" />
       </td>
@@ -304,7 +304,7 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/aac9c4fa59614a4980faa50e921edb3b.png" alt="Cover for The Cleansing" style="max-width:120px; height:auto;" />
       </td>
@@ -322,7 +322,7 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/593a3f47b1594d4ba0063e60136752af.png" alt="Cover for The New Reign" style="max-width:120px; height:auto;" />
       </td>
@@ -342,7 +342,7 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a1efdb83f4cf371cb7734bce44328a86.png" alt="Cover for Animal" style="max-width:120px; height:auto;" />
       </td>
@@ -360,7 +360,7 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>100</td>
       <td>
       </td>
       <td>2007-12-15</td>
@@ -379,7 +379,7 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/614a8820b7ab1ea1dabb324fc2308d0d.png" alt="Cover for Hanni und Kroko" style="max-width:120px; height:auto;" />
       </td>
@@ -396,12 +396,12 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       <td>
         <ul>
             <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 4</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 93</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 8</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cd4e45dd3f63424cb6d8814a76259ff5.png" alt="Cover for Decimate The Weak" style="max-width:120px; height:auto;" />
       </td>
@@ -415,12 +415,12 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 91</li>
+            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 10</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/-1K4OOcSBibrChfa70IlvK0GWG1WUtooHEDQlmOlo8w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5ODEx/OTctMTQwNzk4ODgy/NS0zOTA0LmpwZWc.jpeg" alt="Cover for Carnal Repercussions" style="max-width:120px; height:auto;" />
       </td>
@@ -438,7 +438,7 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c2ec63f291e4a5abf060a5ed88f0d83.png" alt="Cover for The Common Man&#39;s Collapse" style="max-width:120px; height:auto;" />
       </td>
@@ -457,7 +457,7 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/be16097d76524a0e8b567ba23f6bb7d0.png" alt="Cover for Before The Throne of Infection" style="max-width:120px; height:auto;" />
       </td>
@@ -475,7 +475,7 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/uNnAUv5IFo42T9SkB0wOtOJlAKtoSi1lg5pm__LK4jw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNjAx/NjYtMTU4NDgxMDE4/MS03NDA4LmpwZWc.jpeg" alt="Cover for The Diseased And The Poisoned" style="max-width:120px; height:auto;" />
       </td>
@@ -493,7 +493,7 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/32aa8181f5bad3367bfa926640330baa.png" alt="Cover for This Is Exile" style="max-width:120px; height:auto;" />
       </td>
@@ -511,7 +511,7 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/uUZVZd3evItEzUoAQYinSA128S0DfaVGKne49CyS-2k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Nzg4/NDQtMTQxNTY2OTU4/NC05OTMyLmpwZWc.jpeg" alt="Cover for Chelsea Grin Self-titled EP" style="max-width:120px; height:auto;" />
       </td>
@@ -529,7 +529,7 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e6054f8d30374dc9b824373f081b24b8.png" alt="Cover for Awaken the Dreamers" style="max-width:120px; height:auto;" />
       </td>
@@ -547,7 +547,7 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0d92ccd8122b15ccc6301303b4455e29.png" alt="Cover for Suicide Season" style="max-width:120px; height:auto;" />
       </td>
@@ -567,7 +567,7 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/XeCCxBsJq7AZU_8Rem0ei5LtgzS4iFYhISrYqTr12XA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzM2/NDEwLTE1NzI0NzA5/NDAtNTU2Ny5qcGVn.jpeg" alt="Cover for Das Monster aus dem Schrank" style="max-width:120px; height:auto;" />
       </td>
@@ -586,7 +586,7 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2a92ae8305caaf40bec48394e9a01f02.png" alt="Cover for The Hurt the Divine the Light" style="max-width:120px; height:auto;" />
       </td>
@@ -601,12 +601,12 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 93</li>
+            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 8</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7756c7ddc8fa706275f5ce9f08c2890f.png" alt="Cover for Here Comes The Kraken" style="max-width:120px; height:auto;" />
       </td>
@@ -620,12 +620,12 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-deathcore" | relative_url }}">technical deathcore</a> # 42</li>
+            <li> <a href="{{ "/tags/technical-deathcore" | relative_url }}">technical deathcore</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
       </td>
       <td>2009-04-07</td>
@@ -638,12 +638,12 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 23</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/XF7XUUzJpXsi_Mn05QiNLIrapJKfBIABiN2b_LVKj7k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MTAy/NTktMTQ0Mjk1OTQ5/Ni00MzQ1LmpwZWc.jpeg" alt="Cover for Im Throwed" style="max-width:120px; height:auto;" />
       </td>
@@ -660,14 +660,14 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 5</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 6</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 17</li>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 95</li>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>99</td>
       <td>
           <img src="https://i.discogs.com/RsEWVBbUoNVSZYMQdmehGj7LE0mLvI36wHhdqiazx7A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2Mzgy/NTQtMTU3MDM2Nzkx/OS05MTgzLmpwZWc.jpeg" alt="Cover for The Harbinger" style="max-width:120px; height:auto;" />
       </td>
@@ -685,7 +685,7 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f1e783955987c3092beecbb0bb3541f2.png" alt="Cover for Guardians" style="max-width:120px; height:auto;" />
       </td>
@@ -704,7 +704,7 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2870de17d2ad44dbb165b4d81a4c5e3a.png" alt="Cover for It&#39;s All Happening" style="max-width:120px; height:auto;" />
       </td>
@@ -720,14 +720,14 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 1</li>
             <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 12</li>
-            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 80</li>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 21</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/07d410922c8b1cde9fba798fc85fd978.png" alt="Cover for No Time to Bleed" style="max-width:120px; height:auto;" />
       </td>
@@ -745,7 +745,7 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7e8daa81c4e74a3ba1b5751c2cef6dc5.png" alt="Cover for Day Of Mourning" style="max-width:120px; height:auto;" />
       </td>
@@ -759,12 +759,12 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-deathcore" | relative_url }}">technical deathcore</a> # 35</li>
+            <li> <a href="{{ "/tags/technical-deathcore" | relative_url }}">technical deathcore</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
       </td>
       <td>2009-11-13</td>
@@ -786,26 +786,26 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 1</li>
+            <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 1</li>
             <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 2</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 2</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 3</li>
             <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 6</li>
+            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 7</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 7</li>
             <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 9</li>
             <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 10</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 34</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 13</li>
+            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 14</li>
             <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 35</li>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 53</li>
-            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 87</li>
-            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 88</li>
-            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 94</li>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 99</li>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 100</li>
-            <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 100</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 46</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>97</td>
       <td>
       </td>
       <td>2009-11-17</td>
@@ -832,23 +832,23 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       <td>
         <ul>
             <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 4</li>
+            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 5</li>
             <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 6</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 6</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 7</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 10</li>
             <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 11</li>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 20</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 12</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 15</li>
+            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 21</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 31</li>
-            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 65</li>
-            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 80</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 86</li>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 89</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 94</li>
-            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 96</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 36</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2fcc7cdec4e096dd14b23499b55bd67f.png" alt="Cover for Desolation of Eden" style="max-width:120px; height:auto;" />
       </td>
@@ -862,12 +862,12 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 67</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>88</td>
       <td>
       </td>
       <td>2010-02-16</td>
@@ -884,7 +884,7 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/332ca04ce96bfd631d07fd02057ef3ab.png" alt="Cover for No Mercy, No Forgiveness" style="max-width:120px; height:auto;" />
       </td>
@@ -901,7 +901,7 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e4f352aa21aec282bdbf451e9b9ada60.png" alt="Cover for [id]" style="max-width:120px; height:auto;" />
       </td>
@@ -920,7 +920,7 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>60</td>
       <td>
       </td>
       <td>2010-05-14</td>
@@ -938,7 +938,7 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e68ac37fb0ef4e0094ec94770f7054d4.png" alt="Cover for A New Era Of Corruption" style="max-width:120px; height:auto;" />
       </td>
@@ -957,7 +957,7 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>96</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6fb55b34493d131d3f38da2545267e56.png" alt="Cover for The Adversary" style="max-width:120px; height:auto;" />
       </td>
@@ -978,7 +978,7 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/SbCiIAo7tXtrV0OzmpmBvy4Ur7QwCsMtYd7ZWXKiqiE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMzM1/NDEtMTYyMDkwMzIw/NS0yMTU0LmpwZWc.jpeg" alt="Cover for Ghost of Me" style="max-width:120px; height:auto;" />
       </td>
@@ -996,7 +996,7 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9511164a595da9a3037ed1c819a9eee8.png" alt="Cover for The Black Crown" style="max-width:120px; height:auto;" />
       </td>
@@ -1014,7 +1014,7 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f18272548cdc47ecbdc558c05185b445.png" alt="Cover for My Damnation" style="max-width:120px; height:auto;" />
       </td>
@@ -1028,13 +1028,13 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 2</li>
-            <li> <a href="{{ "/tags/blackened-deathcore" | relative_url }}">blackened deathcore</a> # 34</li>
+            <li> <a href="{{ "/tags/blackened-deathcore" | relative_url }}">blackened deathcore</a> # 67</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/00616fdd34994a12a6dc2a917eb4d02c.png" alt="Cover for This Is Where It Ends" style="max-width:120px; height:auto;" />
       </td>
@@ -1048,12 +1048,12 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-deathcore" | relative_url }}">technical deathcore</a> # 54</li>
+            <li> <a href="{{ "/tags/technical-deathcore" | relative_url }}">technical deathcore</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a3daf34c2acd4ce68e5d1e396ddea6b7.png" alt="Cover for Breathe In Life" style="max-width:120px; height:auto;" />
       </td>
@@ -1067,12 +1067,12 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 50</li>
+            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 51</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4b7a151fe768b2b639af555a7f8d6366.png" alt="Cover for Eclipse" style="max-width:120px; height:auto;" />
       </td>
@@ -1092,7 +1092,7 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dc1d2aaa23fb4f1fadf94bb4b64a8a9c.png" alt="Cover for Goldie" style="max-width:120px; height:auto;" />
       </td>
@@ -1121,25 +1121,25 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 1</li>
+            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 1</li>
             <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 1</li>
             <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 1</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 1</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 1</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 1</li>
             <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 1</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 1</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 2</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 3</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 4</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 4</li>
-            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 91</li>
-            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 96</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 97</li>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 98</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 99</li>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 100</li>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 100</li>
-            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 100</li>
+            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 5</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 10</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>93</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a81e1ccbfdfd4a95a46079a206d5b0ef.png" alt="Cover for Neverbloom" style="max-width:120px; height:auto;" />
       </td>
@@ -1154,13 +1154,33 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blackened-deathcore" | relative_url }}">blackened deathcore</a> # 50</li>
-            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 94</li>
+            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 7</li>
+            <li> <a href="{{ "/tags/blackened-deathcore" | relative_url }}">blackened deathcore</a> # 51</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>35</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/165edc5bdcc24364a7faf62decbf1bb0.png" alt="Cover for Evolve" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-06-19</td>
+      <td>Chelsea Grin</td>
+      <td>Evolve</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/technical-deathcore" | relative_url }}">technical deathcore</a> # 49</li>
+            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 69</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/fXeoQX7x8dadychSw69QRcxb7Et31CxU2w0b8Ij3oJg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTI0/NjgtMTU3NjQwODky/MC02Nzk5LnBuZw.jpeg" alt="Cover for Hostage" style="max-width:120px; height:auto;" />
       </td>
@@ -1182,36 +1202,16 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       <td>
         <ul>
             <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 7</li>
-            <li> <a href="{{ "/tags/technical-deathcore" | relative_url }}">technical deathcore</a> # 9</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 9</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 9</li>
-            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 69</li>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 90</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 92</li>
+            <li> <a href="{{ "/tags/technical-deathcore" | relative_url }}">technical deathcore</a> # 9</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 11</li>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 31</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/165edc5bdcc24364a7faf62decbf1bb0.png" alt="Cover for Evolve" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2012-06-19</td>
-      <td>Chelsea Grin</td>
-      <td>Evolve</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/technical-deathcore" | relative_url }}">technical deathcore</a> # 50</li>
-            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 69</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>78</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/db0bc3cd944f0668af14044c433a715f.png" alt="Cover for Hate" style="max-width:120px; height:auto;" />
       </td>
@@ -1225,12 +1225,12 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-deathcore" | relative_url }}">technical deathcore</a> # 46</li>
+            <li> <a href="{{ "/tags/technical-deathcore" | relative_url }}">technical deathcore</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/5hBgeqI82XsKLOTj1Q7aHJGlA5Qlg5rtxWQxYT2I-qg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MDA4/MjItMTU5Mzc3NTYy/Mi04NjU4LmpwZWc.jpeg" alt="Cover for Exterminate the Liberated" style="max-width:120px; height:auto;" />
       </td>
@@ -1250,7 +1250,7 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bd23c8fa842df0534984f051e049150c.png" alt="Cover for Our Endless War" style="max-width:120px; height:auto;" />
       </td>
@@ -1268,7 +1268,7 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
       </td>
       <td>2014-07-22</td>
@@ -1344,68 +1344,68 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 4</li>
+            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 4</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 4</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 4</li>
+            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 4</li>
             <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 4</li>
-            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 6</li>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 4</li>
+            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 4</li>
+            <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 4</li>
+            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 4</li>
+            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 4</li>
+            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 4</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 5</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 5</li>
+            <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 5</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 5</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 5</li>
+            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 5</li>
+            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 5</li>
+            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 6</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 6</li>
             <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 6</li>
+            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 6</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 6</li>
+            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 6</li>
+            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 6</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 7</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 7</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 7</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 7</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 8</li>
+            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 8</li>
             <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 8</li>
-            <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 11</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 8</li>
+            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 9</li>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 9</li>
+            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 9</li>
             <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 11</li>
-            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 14</li>
-            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 15</li>
+            <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 11</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 14</li>
+            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 15</li>
             <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 15</li>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 15</li>
+            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 15</li>
+            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 18</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 21</li>
             <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 22</li>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 29</li>
+            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 25</li>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 27</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 29</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 31</li>
             <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 33</li>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 41</li>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 63</li>
-            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 72</li>
-            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 74</li>
-            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 76</li>
-            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 83</li>
-            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 83</li>
-            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 86</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 87</li>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 91</li>
-            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 92</li>
-            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 92</li>
-            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 92</li>
-            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 93</li>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 93</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 94</li>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 94</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 94</li>
-            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 95</li>
-            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 95</li>
-            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 95</li>
-            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 95</li>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 95</li>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 96</li>
-            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 96</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 96</li>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 96</li>
-            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 96</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 96</li>
-            <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 96</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 38</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 59</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 72</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 87</li>
             <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 96</li>
-            <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 96</li>
-            <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 97</li>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 97</li>
-            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 97</li>
-            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 97</li>
-            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 97</li>
+            <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>83</td>
       <td>
       </td>
       <td>2014-10-14</td>
@@ -1424,7 +1424,7 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/29c2512cb150fd19f2a9203ab88f5fc0.png" alt="Cover for Holy War" style="max-width:120px; height:auto;" />
       </td>
@@ -1438,12 +1438,12 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-deathcore" | relative_url }}">technical deathcore</a> # 37</li>
+            <li> <a href="{{ "/tags/technical-deathcore" | relative_url }}">technical deathcore</a> # 36</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4356eceed6d3ab064a96a2e0fce4804b.png" alt="Cover for Dissentient" style="max-width:120px; height:auto;" />
       </td>
@@ -1459,13 +1459,13 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       <td>
         <ul>
             <li> <a href="{{ "/tags/technical-deathcore" | relative_url }}">technical deathcore</a> # 16</li>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 28</li>
-            <li> <a href="{{ "/tags/blackened-deathcore" | relative_url }}">blackened deathcore</a> # 80</li>
+            <li> <a href="{{ "/tags/blackened-deathcore" | relative_url }}">blackened deathcore</a> # 21</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3bd52160e2dd86ee6090db750d484067.png" alt="Cover for Matriarch" style="max-width:120px; height:auto;" />
       </td>
@@ -1481,14 +1481,14 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 93</li>
-            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 93</li>
+            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 8</li>
+            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 8</li>
             <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>94</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/775feb0ff5922e3b001f4ff5100a4927.png" alt="Cover for Mark of the Blade" style="max-width:120px; height:auto;" />
       </td>
@@ -1506,7 +1506,7 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>95</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/765c0ff8b4ada9f1bdde895dd09208db.png" alt="Cover for Horizons (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1525,7 +1525,7 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/EipxoOWe5JQqaxrFxVoDwG568en7H4dY6ud-_6u3D78/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mjk2/MzU1LTE2Njk1NDgy/MjMtMjIyMC5qcGVn.jpeg" alt="Cover for Agony" style="max-width:120px; height:auto;" />
       </td>
@@ -1542,14 +1542,14 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 2</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 2</li>
             <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 32</li>
-            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 99</li>
-            <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/da52f37ad41dfe6ba245e1dd3f5d932d.png" alt="Cover for No Absolution" style="max-width:120px; height:auto;" />
       </td>
@@ -1573,13 +1573,13 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
             <li> <a href="{{ "/tags/technical-deathcore" | relative_url }}">technical deathcore</a> # 3</li>
             <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 5</li>
             <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 13</li>
-            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 66</li>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 74</li>
+            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 34</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/978c907eda00ea667f37ff5b241ca590.png" alt="Cover for Dear Desolation" style="max-width:120px; height:auto;" />
       </td>
@@ -1597,7 +1597,7 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/MmPG_B_HUw8Eyu54doX6LN_vjWim5hJqLaaGYX2Jz20/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDg2/NzE1LTE1MTcxNzc1/NTktNTI2OC5qcGVn.jpeg" alt="Cover for Reckless Love" style="max-width:120px; height:auto;" />
       </td>
@@ -1618,18 +1618,18 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 3</li>
+            <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 3</li>
+            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 5</li>
+            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 12</li>
             <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 30</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 34</li>
             <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 60</li>
-            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 68</li>
-            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 86</li>
-            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 96</li>
-            <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 98</li>
-            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f4a77be0960ecd92b49f052f83515436.png" alt="Cover for 2004 - 2013" style="max-width:120px; height:auto;" />
       </td>
@@ -1649,7 +1649,7 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/SRQuLl2HfeYGg4sAzNrf3NXqCIZnh-ITmVLwnY47fwI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDkz/MDQ3LTE1MzYzNzA5/NjEtNjg3Mi5qcGVn.jpeg" alt="Cover for Burning Desire to Draw Last Breath" style="max-width:120px; height:auto;" />
       </td>
@@ -1664,12 +1664,12 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 85</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/qe5RNfnUCK_48wGnNhw7sxXaXarHKVt4BfLfCactcGE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzEx/MzUwLTE2OTQ3Njg5/NTUtNDc0OC5qcGVn.jpeg" alt="Cover for The Interstice" style="max-width:120px; height:auto;" />
       </td>
@@ -1687,13 +1687,13 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       <td>
         <ul>
             <li> <a href="{{ "/tags/technical-deathcore" | relative_url }}">technical deathcore</a> # 1</li>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 92</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 9</li>
             <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e44cb55c78c654994a25c30f118906c5.png" alt="Cover for Eternal Nightmare" style="max-width:120px; height:auto;" />
       </td>
@@ -1712,7 +1712,7 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a6303838fed4b4210b60f448825d7427.png" alt="Cover for The Valley" style="max-width:120px; height:auto;" />
       </td>
@@ -1730,7 +1730,7 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/3f-2hfFxFgt_fs8QNs5A9uBQ-EzmKJttee0gUwikJ28/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzI4/NzM0LTE1NTk4OTI4/MTItMzE1Ni5qcGVn.jpeg" alt="Cover for Hollowed heart" style="max-width:120px; height:auto;" />
       </td>
@@ -1747,12 +1747,12 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       <td>
         <ul>
             <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 1</li>
-            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 100</li>
+            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 1</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/Xywmm98UVqyTnQquRtHoMnUTIKnm5vcXLfhrIdByFHs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTEz/MTM3LTE1NjM5MjQw/MjMtNjUzMy5qcGVn.jpeg" alt="Cover for Human Target" style="max-width:120px; height:auto;" />
       </td>
@@ -1770,7 +1770,7 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/7qh3cVqK0seNhle8QOquXXBWyE3PqPsOr_u3Zeb7yEI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDQy/MjEyLTE1OTE1OTA2/ODQtMzI2NC5qcGVn.jpeg" alt="Cover for Kinfolks" style="max-width:120px; height:auto;" />
       </td>
@@ -1847,75 +1847,75 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 2</li>
+            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 2</li>
+            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 2</li>
+            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 2</li>
             <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 2</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 2</li>
+            <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 2</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 2</li>
+            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 2</li>
+            <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 2</li>
             <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 2</li>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 3</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 2</li>
+            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 2</li>
+            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 2</li>
+            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 2</li>
             <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 3</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 3</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 3</li>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 3</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 3</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 3</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 3</li>
+            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 3</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 3</li>
+            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 3</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 3</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 4</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 4</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 5</li>
+            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 4</li>
+            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 4</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 5</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 5</li>
+            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 5</li>
             <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 5</li>
-            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 7</li>
+            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 5</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 5</li>
+            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 6</li>
             <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 7</li>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 7</li>
+            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 7</li>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 7</li>
             <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 8</li>
-            <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 9</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 9</li>
+            <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 9</li>
             <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 11</li>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 11</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 11</li>
+            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 13</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 14</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 17</li>
             <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 20</li>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 21</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 20</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 22</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 22</li>
             <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 26</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 36</li>
             <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 43</li>
             <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 45</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 47</li>
             <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 47</li>
             <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 48</li>
-            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 66</li>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 79</li>
-            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 79</li>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 81</li>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 83</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 54</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 80</li>
             <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 85</li>
-            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 88</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 90</li>
-            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 90</li>
-            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 94</li>
-            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 94</li>
-            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 95</li>
-            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 95</li>
-            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 96</li>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 96</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 96</li>
-            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 96</li>
-            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 97</li>
-            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 98</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 98</li>
-            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 98</li>
-            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 98</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 98</li>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 98</li>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 98</li>
-            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 99</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 99</li>
-            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 99</li>
-            <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 99</li>
-            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 99</li>
-            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 99</li>
-            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 99</li>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 99</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 99</li>
-            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 99</li>
-            <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 99</li>
-            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 99</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 99</li>
-            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/QnW9oM9PzoGvFuX7TYT_W24rAn7Q2E5clHtQW2aOn3E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDY3/ODk4LTE1NzUxMzg3/NzYtODE0Mi5qcGVn.jpeg" alt="Cover for Immortal" style="max-width:120px; height:auto;" />
       </td>
@@ -1930,13 +1930,13 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 66</li>
-            <li> <a href="{{ "/tags/blackened-deathcore" | relative_url }}">blackened deathcore</a> # 96</li>
+            <li> <a href="{{ "/tags/blackened-deathcore" | relative_url }}">blackened deathcore</a> # 5</li>
+            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 35</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f702ba0c97ea95db614c2e158f3309f3.png" alt="Cover for Fracture" style="max-width:120px; height:auto;" />
       </td>
@@ -1955,7 +1955,7 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/4-iEsIsVNgyMi9WpQYafPX1S3N6v39_4Nxao001zbAU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTI4/Nzg0LTE1MzcwMzcz/MzctMTgzNS5qcGVn.jpeg" alt="Cover for The Price of Agony" style="max-width:120px; height:auto;" />
       </td>
@@ -1977,16 +1977,16 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/christian-metalcore" | relative_url }}">christian metalcore</a> # 2</li>
             <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 9</li>
             <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 34</li>
             <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 35</li>
             <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 83</li>
-            <li> <a href="{{ "/tags/christian-metalcore" | relative_url }}">christian metalcore</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/uFz39-1e9fm7R-VU2WcxO_1b_TPOtWDP9Mk3RISvzI8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDI4/NDEwLTE2NDAxNTA1/NDAtNzI5Mi5qcGVn.jpeg" alt="Cover for Enemy" style="max-width:120px; height:auto;" />
       </td>
@@ -2006,7 +2006,7 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>69</td>
       <td>
       </td>
       <td>2021-03-05</td>
@@ -2025,7 +2025,7 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/paKAsmi208Ic4sDSzUiYJhKPoai298ELDdzxIRPKeKo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTUz/NTk5LTE2MjI0MjY2/ODQtMzYwNi5qcGVn.jpeg" alt="Cover for King of the Rats" style="max-width:120px; height:auto;" />
       </td>
@@ -2043,7 +2043,7 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/037jsrdlwqH2iUyNb9Q7DuZSThZzKMGAp2wf7WsYb50/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODM2/NDQ4LTE2Mjg3ODE5/NDYtMTEzOC5qcGVn.jpeg" alt="Cover for ...And I Return To Nothingness - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -2057,12 +2057,12 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 100</li>
+            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 1</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/843abe8ea5d746fcacc9b529806c3040.png" alt="Cover for Kin" style="max-width:120px; height:auto;" />
       </td>
@@ -2084,50 +2084,7 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
     </tr>
     <tr>
-      <td>73</td>
-      <td>
-          <img src="https://i.discogs.com/jnW0YVmp1mDfzeFQkYIObNdKge4SaLpQgjDp7zw9f_8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDIw/NzE3LTE2NTQwMTIx/NzYtMzg0Ny5qcGVn.jpeg" alt="Cover for Baba Yaga" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2022</td>
-      <td>Slaughter To Prevail</td>
-      <td>Baba Yaga</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russia" | relative_url }}">russia</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 33</li>
-            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 98</li>
-            <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 98</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>80</td>
-      <td>
-          <img src="https://i.discogs.com/jnW0YVmp1mDfzeFQkYIObNdKge4SaLpQgjDp7zw9f_8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDIw/NzE3LTE2NTQwMTIx/NzYtMzg0Ny5qcGVn.jpeg" alt="Cover for Kostolom" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2022</td>
-      <td>Slaughter To Prevail</td>
-      <td>Kostolom</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 85</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/YkVRgkRS4p2gKR0HfirUvNgKOw2bZQ46Af_8gGe6AGk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzk2/OTAwLTE2OTU3NDgx/MjctNjQxNy5qcGVn.jpeg" alt="Cover for Demolisher" style="max-width:120px; height:auto;" />
       </td>
@@ -2144,14 +2101,57 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 1</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 1</li>
             <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 9</li>
-            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 100</li>
-            <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>21</td>
+      <td>
+          <img src="https://i.discogs.com/jnW0YVmp1mDfzeFQkYIObNdKge4SaLpQgjDp7zw9f_8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDIw/NzE3LTE2NTQwMTIx/NzYtMzg0Ny5qcGVn.jpeg" alt="Cover for Kostolom" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022</td>
+      <td>Slaughter To Prevail</td>
+      <td>Kostolom</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 16</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>
+          <img src="https://i.discogs.com/jnW0YVmp1mDfzeFQkYIObNdKge4SaLpQgjDp7zw9f_8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDIw/NzE3LTE2NTQwMTIx/NzYtMzg0Ny5qcGVn.jpeg" alt="Cover for Baba Yaga" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022</td>
+      <td>Slaughter To Prevail</td>
+      <td>Baba Yaga</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russia" | relative_url }}">russia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 3</li>
+            <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 3</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 33</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/IerujXJFxtLRHPTxjqIpLO-LKvwPAQw6iekPO3xot9U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzMx/ODM5LTE2NDIxNjE0/MTctNTM3My5qcGVn.jpeg" alt="Cover for Oh What the Future Holds" style="max-width:120px; height:auto;" />
       </td>
@@ -2171,7 +2171,7 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/tDJ7hpJHuwHxaE_ElSPoJH9d1rSwACIS2MQqggygt4M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTAw/Mzc4LTE3MTc3ODk4/ODgtOTM2OS5qcGVn.jpeg" alt="Cover for Dragged Through The Inferno" style="max-width:120px; height:auto;" />
       </td>
@@ -2187,13 +2187,13 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blackened-deathcore" | relative_url }}">blackened deathcore</a> # 97</li>
-            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 98</li>
+            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 3</li>
+            <li> <a href="{{ "/tags/blackened-deathcore" | relative_url }}">blackened deathcore</a> # 4</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/PxKUXwHf6swBK0vgbZ1Fjk83s8yWclHILimHBRAB8zg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDQz/NTMyLTE2Nzg5OTU5/MzYtNjY5MS5qcGVn.jpeg" alt="Cover for Water Under The Bridge" style="max-width:120px; height:auto;" />
       </td>
@@ -2270,73 +2270,73 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 3</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 3</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 3</li>
+            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 3</li>
+            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 3</li>
             <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 3</li>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 3</li>
+            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 3</li>
+            <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 3</li>
+            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 3</li>
             <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 3</li>
+            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 3</li>
+            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 4</li>
+            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 4</li>
             <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 4</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 4</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 4</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 4</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 4</li>
+            <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 4</li>
             <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 4</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 5</li>
+            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 5</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 5</li>
+            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 5</li>
+            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 5</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 6</li>
             <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 6</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 6</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 6</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 7</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 7</li>
+            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 7</li>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 7</li>
+            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 8</li>
+            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 8</li>
             <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 10</li>
             <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 10</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 11</li>
-            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 12</li>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 12</li>
             <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 12</li>
+            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 12</li>
+            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 13</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 13</li>
+            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 17</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 18</li>
             <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 19</li>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 19</li>
+            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 21</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 24</li>
             <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 28</li>
-            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 30</li>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 44</li>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 49</li>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 71</li>
-            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 73</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 28</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 30</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 51</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 57</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 72</li>
             <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 74</li>
-            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 80</li>
-            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 82</li>
-            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 84</li>
-            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 85</li>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 87</li>
             <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 87</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 88</li>
-            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 90</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 87</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 89</li>
             <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 92</li>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 92</li>
             <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 92</li>
-            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 93</li>
-            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 93</li>
-            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 94</li>
-            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 94</li>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 94</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 95</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 95</li>
-            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 96</li>
-            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 96</li>
-            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 96</li>
-            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 96</li>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 97</li>
-            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 97</li>
-            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 97</li>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 97</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 97</li>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 97</li>
-            <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 97</li>
-            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 98</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 98</li>
-            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 98</li>
-            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 98</li>
-            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 98</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/kcLR0OwhmmgjSCdLgGkud8Yie3tu5KBQZovVFTBL6H8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NTM5/MDUtMTQ4NTgyOTkw/Ni0xNTU4LmpwZWc.jpeg" alt="Cover for Walk With Me In Hell" style="max-width:120px; height:auto;" />
       </td>
@@ -2356,7 +2356,7 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/OlerdVISl95v0rtQjBqcqQKV0MvcYo3NkyxuC-ZC0nc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODQx/MTM5LTE2NjU5MjEw/MjktNTk4NC5qcGVn.jpeg" alt="Cover for Doomswitch" style="max-width:120px; height:auto;" />
       </td>
@@ -2374,7 +2374,7 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4bfb778e3c035d07291e963b6382838c.png" alt="Cover for Drown (Live from Maida Vale)" style="max-width:120px; height:auto;" />
       </td>
@@ -2398,12 +2398,12 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
             <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 27</li>
             <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 49</li>
             <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 83</li>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 98</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/Ewaq5Npmc6I_8J3IcDX76Djb94AiO1CXG-qVEX9jpS0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMzA5/NTQtMTM1NjMwOTUz/NS0xMzM3LmpwZWc.jpeg" alt="Cover for DOMESTIC EXTREMITY" style="max-width:120px; height:auto;" />
       </td>
@@ -2418,12 +2418,12 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 71</li>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ac4600ccdaa802e6b0d2dd82464f666.png" alt="Cover for Outskirts" style="max-width:120px; height:auto;" />
       </td>
@@ -2502,77 +2502,77 @@ Deathcore is a subgenre of heavy metal music that blends elements of death metal
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 1</li>
+            <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 1</li>
+            <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 1</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 1</li>
+            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 1</li>
+            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 1</li>
+            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 1</li>
+            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 1</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 1</li>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 1</li>
+            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 1</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 1</li>
             <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 1</li>
             <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 1</li>
-            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 1</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 1</li>
-            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 1</li>
             <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 1</li>
-            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 3</li>
+            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 1</li>
+            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 1</li>
+            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 1</li>
+            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 1</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 1</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 1</li>
+            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 1</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 2</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 2</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 2</li>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 2</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 2</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 2</li>
+            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 2</li>
+            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 3</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 3</li>
+            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 3</li>
+            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 3</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 3</li>
+            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 3</li>
+            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 4</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 4</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 4</li>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 4</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 4</li>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 4</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 4</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 4</li>
             <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 5</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 5</li>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 5</li>
             <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 6</li>
+            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 6</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 6</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 7</li>
             <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 7</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 9</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 11</li>
+            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 12</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 12</li>
             <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 16</li>
             <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 16</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 21</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 22</li>
             <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 25</li>
             <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 28</li>
             <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 30</li>
             <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 31</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 39</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 41</li>
             <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 52</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 60</li>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 62</li>
-            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 80</li>
-            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 80</li>
-            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 89</li>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 89</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 92</li>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 93</li>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 94</li>
-            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 95</li>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 95</li>
-            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 96</li>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 97</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 97</li>
-            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 97</li>
-            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 98</li>
-            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 98</li>
-            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 98</li>
-            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 98</li>
-            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 99</li>
-            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 99</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 99</li>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 99</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 99</li>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 99</li>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 99</li>
-            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 100</li>
-            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 100</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 100</li>
-            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 100</li>
-            <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 100</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 100</li>
-            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 100</li>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 100</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 100</li>
-            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 100</li>
-            <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 100</li>
-            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 100</li>
-            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 100</li>
-            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 100</li>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 100</li>
-            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>98</td>
       <td>
           <img src="https://i.discogs.com/1TiVm4Pb6-8fXCVYqJdmEi655lNnr_LzGYutmxnqwNY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODE2/OTUxLTE2OTkyNjQ3/ODMtNTE5Ni5qcGVn.jpeg" alt="Cover for Viking" style="max-width:120px; height:auto;" />
       </td>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T21:39:47.893Z
+date: 2025-12-06T03:49:45.876Z
 permalink: tags/italian-pop
 title: italian pop
 ---
 
 ## italian pop
 
-Last updated: <time datetime="2025-12-03T21:39:47.893Z">Wed Dec 03 2025 23:39:47 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T03:49:45.876Z">Sat Dec 06 2025 05:49:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -45,7 +45,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 90</li>
+            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -88,8 +88,8 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 2</li>
             <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 14</li>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -112,7 +112,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 65</li>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -136,9 +136,9 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 2</li>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 3</li>
             <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 21</li>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 97</li>
-            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -159,7 +159,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 31</li>
+            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -182,8 +182,8 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 6</li>
             <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 39</li>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -226,7 +226,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 11</li>
+            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -284,7 +284,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 83</li>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 14</li>
             <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 85</li>
         </ul>
       </td>
@@ -308,7 +308,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 49</li>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -331,7 +331,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 48</li>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -373,8 +373,8 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 12</li>
             <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 77</li>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -397,7 +397,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 76</li>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -422,8 +422,8 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 58</li>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 70</li>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 27</li>
+            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -446,8 +446,8 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 10</li>
             <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 73</li>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -470,7 +470,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 55</li>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -506,7 +506,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 19</li>
+            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -531,9 +531,9 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 11</li>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 13</li>
             <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 80</li>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 85</li>
-            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -556,7 +556,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 59</li>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -593,8 +593,8 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 93</li>
-            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 99</li>
+            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 2</li>
+            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -617,7 +617,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 56</li>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -644,9 +644,9 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 49</li>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 60</li>
-            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 61</li>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 37</li>
+            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 40</li>
+            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -664,7 +664,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 92</li>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -706,7 +706,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 63</li>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -747,7 +747,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 82</li>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 15</li>
             <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 86</li>
         </ul>
       </td>
@@ -771,7 +771,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 68</li>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -812,7 +812,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 61</li>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -835,7 +835,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 67</li>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -856,7 +856,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 24</li>
+            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -879,7 +879,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 73</li>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -902,7 +902,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 62</li>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -925,7 +925,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 54</li>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -966,8 +966,8 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 11</li>
             <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 76</li>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1004,7 +1004,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 35</li>
+            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1027,7 +1027,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 69</li>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1049,7 +1049,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 50</li>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1072,7 +1072,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 45</li>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1139,8 +1139,8 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 28</li>
-            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 55</li>
+            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 46</li>
+            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1161,7 +1161,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 70</li>
+            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1201,10 +1201,10 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 51</li>
-            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 64</li>
+            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 17</li>
+            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 37</li>
+            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 49</li>
             <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 68</li>
-            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1244,8 +1244,8 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 10</li>
             <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 27</li>
+            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1268,8 +1268,8 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 4</li>
             <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 33</li>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1292,7 +1292,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 47</li>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1374,7 +1374,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 58</li>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1410,7 +1410,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 77</li>
+            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1469,7 +1469,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 57</li>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1488,8 +1488,8 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 12</li>
-            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 62</li>
+            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 39</li>
+            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1532,8 +1532,8 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 47</li>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 53</li>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 44</li>
+            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1556,7 +1556,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 46</li>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1578,7 +1578,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 62</li>
+            <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1601,7 +1601,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 64</li>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1622,7 +1622,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 94</li>
+            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1666,7 +1666,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 66</li>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1689,7 +1689,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 81</li>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1730,8 +1730,8 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 13</li>
-            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 75</li>
+            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 26</li>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1754,8 +1754,8 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 5</li>
             <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 35</li>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1778,7 +1778,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 79</li>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1800,7 +1800,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 75</li>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1827,8 +1827,8 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 59</li>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 71</li>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 26</li>
+            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1853,7 +1853,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 11</li>
+            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1879,7 +1879,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 77</li>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1897,7 +1897,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 94</li>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1939,7 +1939,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 50</li>
+            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1962,7 +1962,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 72</li>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1980,6 +1980,8 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 62</li>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -2002,7 +2004,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 51</li>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -2020,7 +2022,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 99</li>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -2065,8 +2067,8 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 8</li>
             <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 58</li>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -2089,7 +2091,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 52</li>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -2113,8 +2115,8 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       <td>
         <ul>
             <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 1</li>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 18</li>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 100</li>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 1</li>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -2177,7 +2179,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 26</li>
+            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 75</li>
         </ul>
       </td>
     </tr>

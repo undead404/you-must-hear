@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T22:30:14.897Z
+date: 2025-12-06T04:05:45.938Z
 permalink: tags/chamber-pop
 title: chamber pop
 ---
 
 ## chamber pop
 
-Last updated: <time datetime="2025-12-03T22:30:14.897Z">Thu Dec 04 2025 00:30:14 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T04:05:45.938Z">Sat Dec 06 2025 06:05:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
   </thead>
   <tbody>
     <tr>
-      <td>28</td>
+      <td>73</td>
       <td>
       </td>
       <td>1974-09</td>
@@ -45,14 +45,14 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 8</li>
             <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 42</li>
             <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 54</li>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/43a126df5445a6967655628d889c29bb.png" alt="Cover for The Family Jewels" style="max-width:120px; height:auto;" />
       </td>
@@ -67,12 +67,12 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       <td>
         <ul>
             <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 28</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 44</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 57</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/vta2B6Ha2_sr_iFQVK3kJiyo95AV2IXF23hLofiI_e8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTYw/OTU1LTE2NDM2NDQ0/NDAtNzE3Ni5qcGVn.jpeg" alt="Cover for Aim and Ignite [Deluxe Version]" style="max-width:120px; height:auto;" />
       </td>
@@ -88,12 +88,12 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 86</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 15</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>97</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/88c6f0068a5416182741a1aae6bd0cf0.png" alt="Cover for Tindersticks" style="max-width:120px; height:auto;" />
       </td>
@@ -107,12 +107,12 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 97</li>
+            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 4</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/KrncKZlqD4Y0W5_nnTAsjHGRIg-kjmLkz0Vu6HcWll0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0OTg4/MDAtMTQyMDY1MjY5/Mi0zNTM4LmpwZWc.jpeg" alt="Cover for Violently Happy" style="max-width:120px; height:auto;" />
       </td>
@@ -136,12 +136,12 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       <td>
         <ul>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 16</li>
-            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 80</li>
+            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 20</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>94</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d8b718bef909313d0e7c4f1b94ad45cb.png" alt="Cover for Promenade" style="max-width:120px; height:auto;" />
       </td>
@@ -159,7 +159,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>87</td>
       <td>
       </td>
       <td>1995</td>
@@ -177,7 +177,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/461b05c65513eeb5e21059df645b9d69.png" alt="Cover for Casanova" style="max-width:120px; height:auto;" />
       </td>
@@ -195,7 +195,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dc0afbb17fcd4f96cfca1ad31fcb55a3.png" alt="Cover for If You&#39;re Feeling Sinister" style="max-width:120px; height:auto;" />
       </td>
@@ -209,13 +209,13 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 25</li>
             <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 69</li>
-            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f80a44bb84c662d615f9db92767e8b1c.png" alt="Cover for Urban Hymns (Remastered 2016)" style="max-width:120px; height:auto;" />
       </td>
@@ -234,7 +234,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/682457c346602513b41c8fc6db0cfbd0.png" alt="Cover for Dog on Wheels" style="max-width:120px; height:auto;" />
       </td>
@@ -253,7 +253,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a345a1eee7eeaa1256eb67407f91d598.png" alt="Cover for Curtains" style="max-width:120px; height:auto;" />
       </td>
@@ -262,7 +262,6 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       <td>Curtains</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a></li>
         </ul>
       </td>
       <td>
@@ -271,7 +270,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>98</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6d5bab581484850cab190fc6b6c979a1.png" alt="Cover for Fin de Siècle" style="max-width:120px; height:auto;" />
       </td>
@@ -289,25 +288,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
     </tr>
     <tr>
-      <td>9</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7144c3a57ba04209c2cc165afe65bab9.png" alt="Cover for Fold Your Hands Child, You Walk Like a Peasant" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2000</td>
-      <td>Belle and Sebastian</td>
-      <td>Fold Your Hands Child, You Walk Like a Peasant</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 5</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/3kaE6WliQ_rqAnCtTVn63wCTUTOQJ-3ur7XI3CkTNh4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODYx/MS0xMzM3NDQ1NDQx/LTM4MDAuanBlZw.jpeg" alt="Cover for Antony &amp; The Johnsons" style="max-width:120px; height:auto;" />
       </td>
@@ -322,12 +303,30 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 39</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>92</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7144c3a57ba04209c2cc165afe65bab9.png" alt="Cover for Fold Your Hands Child, You Walk Like a Peasant" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>Belle and Sebastian</td>
+      <td>Fold Your Hands Child, You Walk Like a Peasant</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 96</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/38bfa711ccb24609bf829ef9a67c3e23.png" alt="Cover for Antony and the Johnsons" style="max-width:120px; height:auto;" />
       </td>
@@ -342,12 +341,12 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 52</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>96</td>
       <td>
       </td>
       <td>2000-09</td>
@@ -368,7 +367,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/7-8tii5khsX6jqX0ygiDLM9cQW7SK1reRumk7Wc00HU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Nzgy/MTktMTMwMDYyNzc1/MS5qcGVn.jpeg" alt="Cover for No More Shall We Part (2011 Remastered Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -385,13 +384,13 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 64</li>
+            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 37</li>
             <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5919748b668f454ba6e035cbe62a291e.png" alt="Cover for Regeneration" style="max-width:120px; height:auto;" />
       </td>
@@ -409,7 +408,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
       </td>
       <td>2002-08-06</td>
@@ -428,7 +427,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>93</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/540783cd60476918f6d67192932488d9.png" alt="Cover for This Night" style="max-width:120px; height:auto;" />
       </td>
@@ -446,7 +445,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d94f1c6a3cdd4cfeab673a87f24f3473.png" alt="Cover for Arcade Fire - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -463,7 +462,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>83</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/19b9927f125344aec4ab8642be3edc47.png" alt="Cover for Maple Leaves" style="max-width:120px; height:auto;" />
       </td>
@@ -481,7 +480,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c72e8fd753e04693afd11197b35a2ede.png" alt="Cover for Breathe Me" style="max-width:120px; height:auto;" />
       </td>
@@ -501,7 +500,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d924c118cdba41e6aefeec3d67ce2bee.png" alt="Cover for Absent Friends" style="max-width:120px; height:auto;" />
       </td>
@@ -520,7 +519,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bffd7b2255d04908a6535d6a94ee6026.png" alt="Cover for Together We&#39;re Heavy" style="max-width:120px; height:auto;" />
       </td>
@@ -538,7 +537,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>90</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2c3c35d84d91412ab8e1086b7b2ca00d.png" alt="Cover for A Song About a Girls" style="max-width:120px; height:auto;" />
       </td>
@@ -556,26 +555,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
     </tr>
     <tr>
-      <td>34</td>
-      <td>
-          <img src="https://i.discogs.com/nEhMHqvM_nYTZ7WgibOdprQKNveANPHIy40d2kONyEs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MDQ3/My0xNDI1Njk1ODUz/LTE1NTQuanBlZw.jpeg" alt="Cover for I&#39;m A Bird Now" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2005-02-01</td>
-      <td>Antony and the Johnsons</td>
-      <td>I&#39;m A Bird Now</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 21</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/830895ce87334bb69752471ebdd943b9.png" alt="Cover for I Am a Bird Now" style="max-width:120px; height:auto;" />
       </td>
@@ -594,7 +574,26 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>67</td>
+      <td>
+          <img src="https://i.discogs.com/nEhMHqvM_nYTZ7WgibOdprQKNveANPHIy40d2kONyEs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MDQ3/My0xNDI1Njk1ODUz/LTE1NTQuanBlZw.jpeg" alt="Cover for I&#39;m A Bird Now" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-02-01</td>
+      <td>Antony and the Johnsons</td>
+      <td>I&#39;m A Bird Now</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 21</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/78bbf963adff4abcb2c5f7f9f4dce616.png" alt="Cover for The Mysterious Production of Eggs" style="max-width:120px; height:auto;" />
       </td>
@@ -608,13 +607,13 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 10</li>
             <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 81</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/67ea01f136594d99b4e89e924f45998a.png" alt="Cover for Has A Good Home" style="max-width:120px; height:auto;" />
       </td>
@@ -628,13 +627,32 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 17</li>
             <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 46</li>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>66</td>
+      <td>
+          <img src="https://i.discogs.com/yjCk0tVtwgH0Q8aUrx9McHT49zri-5rLu-nSfAXQ7mE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NjMy/Ny0xMzUzMzQxOTcz/LTYxNjcuanBlZw.jpeg" alt="Cover for Oh You&#39;re So Silent, Jens" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-06-08</td>
+      <td>Jens Lekman</td>
+      <td>Oh You&#39;re So Silent, Jens</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 10</li>
+            <li> <a href="{{ "/tags/bounce" | relative_url }}">bounce</a> # 20</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8108748da26b4912bc526606c749dcc6.png" alt="Cover for Oh You&#39;re So Silent Jens" style="max-width:120px; height:auto;" />
       </td>
@@ -650,31 +668,12 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 77</li>
+            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 18</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>35</td>
-      <td>
-          <img src="https://i.discogs.com/yjCk0tVtwgH0Q8aUrx9McHT49zri-5rLu-nSfAXQ7mE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NjMy/Ny0xMzUzMzQxOTcz/LTYxNjcuanBlZw.jpeg" alt="Cover for Oh You&#39;re So Silent, Jens" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2005-06-08</td>
-      <td>Jens Lekman</td>
-      <td>Oh You&#39;re So Silent, Jens</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/bounce" | relative_url }}">bounce</a> # 81</li>
-            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 85</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4884fbb2a3714e42cef5a1782e10c26e.png" alt="Cover for Illinois" style="max-width:120px; height:auto;" />
       </td>
@@ -687,13 +686,13 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 5</li>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 84</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/de427c04e92f432383e3b16e981e1609.png" alt="Cover for Coles Corner" style="max-width:120px; height:auto;" />
       </td>
@@ -711,7 +710,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5c098672a13f25747741b89a7882bbc3.png" alt="Cover for Begin to Hope" style="max-width:120px; height:auto;" />
       </td>
@@ -725,18 +724,18 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 7</li>
             <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 11</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 11</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 32</li>
             <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 32</li>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 40</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 60</li>
             <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 60</li>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 69</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
       </td>
       <td>2006-06-19</td>
@@ -753,7 +752,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5c28f1a8eb502e5316fdbcaa1daa7b83.png" alt="Cover for Through The Windowpane" style="max-width:120px; height:auto;" />
       </td>
@@ -771,7 +770,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/62c44883e8b543e08f8dd14833def168.png" alt="Cover for Elephant Gun" style="max-width:120px; height:auto;" />
       </td>
@@ -788,7 +787,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2320e0b186b24bda96cbc7e3fc54799a.png" alt="Cover for Heretic Pride" style="max-width:120px; height:auto;" />
       </td>
@@ -806,7 +805,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ca8a23f7c62044fa99c06f267422672b.png" alt="Cover for To Survive" style="max-width:120px; height:auto;" />
       </td>
@@ -827,7 +826,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/02d1ab5baf9e26d2349f098b4b89b62e.png" alt="Cover for Far" style="max-width:120px; height:auto;" />
       </td>
@@ -840,35 +839,14 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 24</li>
             <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 24</li>
             <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 29</li>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f2f83759a50360ff954861c223a5e777.png" alt="Cover for evermore" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2010</td>
-      <td>Taylor Swift</td>
-      <td>evermore</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 65</li>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 85</li>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 88</li>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 99</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/wHwTD8fdqiIfSf9RViX0apehY-9H3SfZbQFbPaapCss/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjY3/ODMxLTE1OTU1ODY5/MzEtMzAxMy5qcGVn.jpeg" alt="Cover for FOlKlORE" style="max-width:120px; height:auto;" />
       </td>
@@ -883,16 +861,38 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 2</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 3</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 12</li>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 20</li>
             <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 88</li>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 89</li>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 98</li>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>56</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f2f83759a50360ff954861c223a5e777.png" alt="Cover for evermore" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010</td>
+      <td>Taylor Swift</td>
+      <td>evermore</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 2</li>
+            <li> <a href="{{ "/tags/chamber-rock" | relative_url }}">chamber rock</a> # 6</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 16</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 65</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 88</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a842b95936a14c049ebe356ee188ebef.png" alt="Cover for Heartland" style="max-width:120px; height:auto;" />
       </td>
@@ -910,7 +910,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>100</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c22515a08ddf4304c3964a00cab8ea4c.png" alt="Cover for Queen Of Denmark" style="max-width:120px; height:auto;" />
       </td>
@@ -928,7 +928,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>53</td>
       <td>
       </td>
       <td>2010-05-31</td>
@@ -945,7 +945,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/IKaWvf5B54OjOuxT7dWYhWd0shRFhBJuLGVjndcaNkk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTg2/MTctMTUxNzI1NzM2/Ni04MjIwLmpwZWc.jpeg" alt="Cover for Write about Love" style="max-width:120px; height:auto;" />
       </td>
@@ -961,13 +961,13 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 53</li>
-            <li> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a> # 66</li>
+            <li> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a> # 34</li>
+            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/ozWUlvToV4YUoZ6MCLSEE6zRTxP_8ZzkBRKBLBtVkhc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDky/MDAtMTMxODAzNTE2/NC5qcGVn.jpeg" alt="Cover for Did You Know That There&#39;s a Tunnel Under Ocean Blvd" style="max-width:120px; height:auto;" />
       </td>
@@ -984,15 +984,15 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
         <ul>
             <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 2</li>
             <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 6</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 12</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 15</li>
             <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 23</li>
             <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 38</li>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 85</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e4437f39ad794e088c21cbbfe1f5e6b5.png" alt="Cover for Iron" style="max-width:120px; height:auto;" />
       </td>
@@ -1010,7 +1010,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/144b92b7d58d108cd7a8c18b78f5433a.png" alt="Cover for Norman Fucking Rockwell!" style="max-width:120px; height:auto;" />
       </td>
@@ -1028,20 +1028,20 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
         <ul>
             <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 1</li>
             <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 4</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 6</li>
             <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 17</li>
-            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 29</li>
             <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 32</li>
             <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 35</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 36</li>
             <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 51</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 65</li>
             <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 68</li>
+            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 72</li>
             <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 77</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>99</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a43d7ca694aa4644a0ce0d281983aeb4.png" alt="Cover for Melancholy Sky" style="max-width:120px; height:auto;" />
       </td>
@@ -1061,7 +1061,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
       </td>
       <td>2012-02-28</td>
@@ -1080,15 +1080,15 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 2</li>
             <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 10</li>
             <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 42</li>
             <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 61</li>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/636e1d628bc4afd9992c1608f1ba9526.png" alt="Cover for Run Boy Run" style="max-width:120px; height:auto;" />
       </td>
@@ -1106,7 +1106,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/50a7b14d55bc4259b738e3030339ff34.png" alt="Cover for The Disappearance Of The Girl" style="max-width:120px; height:auto;" />
       </td>
@@ -1124,7 +1124,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9af71eb801dc42bcc20111747ffe793c.png" alt="Cover for Magpie" style="max-width:120px; height:auto;" />
       </td>
@@ -1143,7 +1143,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b16f6605f041c9e4f4aae10812c38d9a.png" alt="Cover for Modern Vampires of the City" style="max-width:120px; height:auto;" />
       </td>
@@ -1163,7 +1163,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4b49d5d53345bc9fec05cbbb9722f8f4.png" alt="Cover for Retired from Sad, New Career in Business" style="max-width:120px; height:auto;" />
       </td>
@@ -1176,15 +1176,15 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 4</li>
             <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 18</li>
             <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 63</li>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 92</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d8e8395201293359c7a5feecd88fe20d.png" alt="Cover for I Want to See Pulaski at Night" style="max-width:120px; height:auto;" />
       </td>
@@ -1201,7 +1201,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7ebdce45448c2864d22bce62f1ffa198.png" alt="Cover for Lungs (Deluxe Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1221,7 +1221,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/29ae288370f0467dc61924b1f391d185.png" alt="Cover for Beneath the Brine" style="max-width:120px; height:auto;" />
       </td>
@@ -1240,7 +1240,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0f11eee406ec4440c493cd315701f1c5.png" alt="Cover for Too Bright" style="max-width:120px; height:auto;" />
       </td>
@@ -1258,7 +1258,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dcf5ef6926be8621f5361c82b6fec7ea.png" alt="Cover for Poison Season" style="max-width:120px; height:auto;" />
       </td>
@@ -1278,7 +1278,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/56658ac676244ab6cab3730b88d9a158.png" alt="Cover for Natalie Prass" style="max-width:120px; height:auto;" />
       </td>
@@ -1297,7 +1297,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/62a7ece44cc817f60cb3aee900ee5f63.png" alt="Cover for How Big, How Blue, How Beautiful (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -1315,7 +1315,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/38349cb8c20531de43837d3809f15c52.png" alt="Cover for So There" style="max-width:120px; height:auto;" />
       </td>
@@ -1325,16 +1325,18 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber-rock" | relative_url }}">chamber rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/chamber-rock" | relative_url }}">chamber rock</a> # 1</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f7217fa1319c242872b6148740b26bcc.png" alt="Cover for Have You In My Wilderness" style="max-width:120px; height:auto;" />
       </td>
@@ -1353,7 +1355,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c7ce950fb1b356158e6653800c089828.png" alt="Cover for Montgomery Ricky" style="max-width:120px; height:auto;" />
       </td>
@@ -1366,12 +1368,12 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 88</li>
+            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 11</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/xp1BhfRfU6787gqJ-_5zZyRAmHECDtvZdlGF2M68Ufk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NDkw/MzAtMTQ2Mzg0MDgy/OS0zMjE4LmpwZWc.jpeg" alt="Cover for Impossible Animals" style="max-width:120px; height:auto;" />
       </td>
@@ -1393,7 +1395,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/28db3fdca036fb53c62754694a89d3fd.png" alt="Cover for A Moon Shaped Pool" style="max-width:120px; height:auto;" />
       </td>
@@ -1408,12 +1410,12 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       <td>
         <ul>
             <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 1</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 18</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c7f2bfa15c6cc28fce93bbdb64241d28.png" alt="Cover for At Swim" style="max-width:120px; height:auto;" />
       </td>
@@ -1431,7 +1433,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>95</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a3d9433209c24b06f65be552b6d947a.png" alt="Cover for Painted Ruins" style="max-width:120px; height:auto;" />
       </td>
@@ -1449,7 +1451,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>88</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/db164318ca5e1ddbc2fc1b6650e19a87.png" alt="Cover for 3 O&#39;Clock" style="max-width:120px; height:auto;" />
       </td>
@@ -1463,29 +1465,12 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/chamber-rock" | relative_url }}">chamber rock</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e5d05a970967d661fdc7d3c2ae19bad.png" alt="Cover for God&#39;s Favorite Customer" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2018</td>
-      <td>Father John Misty</td>
-      <td>God&#39;s Favorite Customer</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 8</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>92</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d65caa8feb38b6f10eb338af3e89a6be.png" alt="Cover for Come On Feel The Illinoise!" style="max-width:120px; height:auto;" />
       </td>
@@ -1499,15 +1484,33 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       <td>
         <ul>
             <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 33</li>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 33</li>
-            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 48</li>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 54</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 46</li>
+            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 53</li>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 56</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>78</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e5d05a970967d661fdc7d3c2ae19bad.png" alt="Cover for God&#39;s Favorite Customer" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018</td>
+      <td>Father John Misty</td>
+      <td>God&#39;s Favorite Customer</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 93</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/25a71dbb4b5d6c11f4473b5fbcb3240c.png" alt="Cover for Bark Your Head Off, Dog" style="max-width:120px; height:auto;" />
       </td>
@@ -1524,7 +1527,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/AiVoDKnZ24Npzur2lachV3iB7fKKs_yR49TRKLzbF-4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTUx/NDQ2LTE1Mzc0NjA3/MTItNTg5Mi5qcGVn.jpeg" alt="Cover for Pathétique Aesthétique" style="max-width:120px; height:auto;" />
       </td>
@@ -1546,7 +1549,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b0eb91961a03ef5a336ae94897a45df3.png" alt="Cover for The Loneliest Girl" style="max-width:120px; height:auto;" />
       </td>
@@ -1564,7 +1567,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
       </td>
       <td>2019-03-26</td>
@@ -1584,7 +1587,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/hqIzwQGUoRBWfaILPpBRNWGvvqB0-MQt-GntJpKZ6VU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzM0/NTg3LTE1NzI0NDYy/NzAtNDE1Ny5qcGVn.jpeg" alt="Cover for Little Electric Chicken Heart" style="max-width:120px; height:auto;" />
       </td>
@@ -1599,13 +1602,13 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 52</li>
-            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 88</li>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 13</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 51</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/abd51ea7d902b578144a6d71bb09e361.png" alt="Cover for All Mirrors" style="max-width:120px; height:auto;" />
       </td>
@@ -1623,7 +1626,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/H3tvfehEuXoJ0EwE1oxbJJtI2X6xOMa7OtxZGxkD7go/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTY3/ODE1LTE2MDg1Mzg4/NjEtMzQzNi5qcGVn.jpeg" alt="Cover for folklore (Deluxe Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1640,16 +1643,16 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 1</li>
             <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 8</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 11</li>
             <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 43</li>
             <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 85</li>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 90</li>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ff4dcc40ecf4bec19527ebc0c3c753e6.png" alt="Cover for To S. &#x2F; To R." style="max-width:120px; height:auto;" />
       </td>
@@ -1666,7 +1669,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2b1ed6bdaba7aa57d94c1bdfb805e972.png" alt="Cover for evermore (deluxe version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1680,14 +1683,15 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 58</li>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 66</li>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 95</li>
+            <li> <a href="{{ "/tags/chamber-rock" | relative_url }}">chamber rock</a> # 2</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 6</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 35</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/5Pwjy6guIabTMLhK9jblHE0EhdkuIK-E15T7l30rJEo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mjk2/ODE3LTE2MjQ4MTE1/MTAtNDg3My5qcGVn.jpeg" alt="Cover for Concorde" style="max-width:120px; height:auto;" />
       </td>
@@ -1700,15 +1704,15 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 13</li>
+            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 10</li>
             <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 35</li>
             <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 43</li>
-            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 90</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/07a61b37ad0bab3ecc20e3194f9a49bb.png" alt="Cover for Planetarium" style="max-width:120px; height:auto;" />
       </td>
@@ -1727,13 +1731,13 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 60</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 41</li>
             <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/3zh7-ApKJ0Kv34QrtvKA8kk8mL4aNH4zwPKU7UP2ZXA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDMw/NjQyLTE2MjI5Mjgw/NzctNzMyMy5qcGVn.jpeg" alt="Cover for Diamond Destroyer of Death" style="max-width:120px; height:auto;" />
       </td>
@@ -1756,7 +1760,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5d93403fbc951b7d31fa80ff826b5180.png" alt="Cover for Jubilee" style="max-width:120px; height:auto;" />
       </td>
@@ -1774,7 +1778,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/Zw7rVdXHqBIes8t31cflfzda_8JGQPVb4-riABTXA0g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Nzk0/NzE5LTE2MjE0NDAy/MTItOTEwMS5qcGVn.jpeg" alt="Cover for Ancient Dreams In A Modern Land" style="max-width:120px; height:auto;" />
       </td>
@@ -1790,12 +1794,12 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       <td>
         <ul>
             <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 34</li>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 49</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5c96c46425091a5aed9db4bab5f4f810.png" alt="Cover for Wounded Rhymes (Anniversary Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1816,25 +1820,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
     </tr>
     <tr>
-      <td>47</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a8a8d065afecd6937985dfe18386b336.png" alt="Cover for Ants From Up There (Deluxe)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2022-02-04</td>
-      <td>Black Country, New Road</td>
-      <td>Ants From Up There (Deluxe)</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 74</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>59</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3332b3cee5de8598dbd080f8e2783f93.png" alt="Cover for Ants From Up There" style="max-width:120px; height:auto;" />
       </td>
@@ -1853,7 +1839,25 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>54</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a8a8d065afecd6937985dfe18386b336.png" alt="Cover for Ants From Up There (Deluxe)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-02-04</td>
+      <td>Black Country, New Road</td>
+      <td>Ants From Up There (Deluxe)</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 74</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/xhR_Cl_mKl8YHg867JrKaPpHwpRiGLtVKx5F7w978qs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NzUy/MjgtMTQ4MTIyNjMz/MS0yMDIwLmpwZWc.jpeg" alt="Cover for Lush" style="max-width:120px; height:auto;" />
       </td>
@@ -1867,14 +1871,14 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 3</li>
+            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 5</li>
             <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 56</li>
-            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 96</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/aneBKehlGrueamS9BSOT0-WEXYkah1kCx64pDpRjBuA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjAx/OTc4LTE2NTIzNjg0/NzctODM5OC5qcGVn.jpeg" alt="Cover for A Light For Attracting Attention" style="max-width:120px; height:auto;" />
       </td>
@@ -1888,13 +1892,13 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 7</li>
             <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 15</li>
+            <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6eea66b450645e8f4398aba6eb298918.png" alt="Cover for Quality Over Opinion" style="max-width:120px; height:auto;" />
       </td>
@@ -1919,7 +1923,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/73a09ce78b38c58b16e876eda5cf4fe5.png" alt="Cover for Live At Bush Hall" style="max-width:120px; height:auto;" />
       </td>
@@ -1932,12 +1936,12 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 81</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 20</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/qyRYB_ovr0zaJSQXDfPwqQtonjdfX8FVaL2m703kTjM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjA2/MDg0LTE2ODkxMTI1/NzUtODE5Mi5qcGVn.jpeg" alt="Cover for My Back Was a Bridge For You To Cross" style="max-width:120px; height:auto;" />
       </td>
@@ -1956,7 +1960,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/788dfbc94a424d3b344aa97e68f68eed.png" alt="Cover for The Land Is Inhospitable and So Are We" style="max-width:120px; height:auto;" />
       </td>
@@ -1969,13 +1973,13 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 8</li>
             <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 14</li>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/sbAfq-kIeZzwOnD3RNFtuFZaejqk3kF2nzmHw2CTj1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjQ4/MTMxLTE3MDY5MTg0/NTktOTkyNy5qcGVn.jpeg" alt="Cover for Prelude To Ecstasy" style="max-width:120px; height:auto;" />
       </td>
@@ -1990,14 +1994,14 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 4</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 12</li>
             <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 33</li>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 89</li>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3cd1aeba55bc346931f3029661bbc9fe.png" alt="Cover for Victory for the Comic Muse" style="max-width:120px; height:auto;" />
       </td>

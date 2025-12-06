@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T19:06:49.371Z
+date: 2025-12-06T03:27:45.918Z
 permalink: tags/avant-garde-jazz
 title: avant-garde jazz
 ---
 
 ## avant-garde jazz
 
-Last updated: <time datetime="2025-12-03T19:06:49.371Z">Wed Dec 03 2025 21:06:49 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T03:27:45.918Z">Sat Dec 06 2025 05:27:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -97,7 +97,7 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harmolodic" | relative_url }}">harmolodic</a> # 95</li>
+            <li> <a href="{{ "/tags/harmolodic" | relative_url }}">harmolodic</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -190,7 +190,7 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 51</li>
+            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -229,8 +229,8 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
         <ul>
             <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 18</li>
             <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 31</li>
+            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 36</li>
             <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 41</li>
-            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -310,7 +310,7 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 71</li>
+            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -347,8 +347,8 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 79</li>
-            <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 80</li>
+            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 22</li>
+            <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -367,7 +367,7 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 12</li>
+            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -386,8 +386,8 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 3</li>
             <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 55</li>
-            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -406,7 +406,7 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 26</li>
+            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -426,9 +426,9 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 14</li>
+            <li> <a href="{{ "/tags/fusion-jazz" | relative_url }}">fusion jazz</a> # 24</li>
             <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 49</li>
-            <li> <a href="{{ "/tags/fusion-jazz" | relative_url }}">fusion jazz</a> # 77</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -612,7 +612,7 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 86</li>
+            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -674,8 +674,8 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       <td>
         <ul>
             <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 15</li>
+            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 27</li>
             <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 48</li>
-            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 74</li>
             <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 81</li>
         </ul>
       </td>
@@ -716,8 +716,8 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 31</li>
             <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 70</li>
-            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -915,7 +915,7 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 11</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -960,7 +960,7 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a> # 99</li>
+            <li> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -981,7 +981,7 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 17</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1056,7 +1056,7 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 85</li>
+            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1096,7 +1096,7 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a> # 92</li>
+            <li> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1139,7 +1139,7 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/european-jazz" | relative_url }}">european jazz</a> # 52</li>
+            <li> <a href="{{ "/tags/european-jazz" | relative_url }}">european jazz</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1329,7 +1329,7 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 93</li>
+            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1448,7 +1448,7 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 29</li>
+            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1510,9 +1510,9 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 6</li>
             <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 8</li>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 87</li>
-            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 95</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1554,7 +1554,7 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 30</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1653,7 +1653,7 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
         <ul>
             <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 11</li>
             <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 14</li>
-            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 79</li>
+            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1694,9 +1694,9 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 4</li>
             <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 10</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 86</li>
-            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 97</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1717,9 +1717,9 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 41</li>
+            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 39</li>
             <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 56</li>
-            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 62</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1765,7 +1765,7 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 73</li>
+            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1810,7 +1810,7 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish-jazz" | relative_url }}">polish jazz</a> # 84</li>
+            <li> <a href="{{ "/tags/polish-jazz" | relative_url }}">polish jazz</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1914,9 +1914,9 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       <td>
         <ul>
             <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 2</li>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 63</li>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 71</li>
-            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 81</li>
+            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 20</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 30</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1941,8 +1941,8 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 64</li>
-            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 98</li>
+            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 3</li>
+            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1963,7 +1963,7 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 21</li>
+            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1990,9 +1990,9 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 9</li>
             <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 44</li>
             <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 66</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 92</li>
         </ul>
       </td>
     </tr>
