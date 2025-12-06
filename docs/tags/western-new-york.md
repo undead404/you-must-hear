@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T07:16:35.684Z
+date: 2025-12-06T15:02:25.558Z
 permalink: tags/western-new-york
 title: western new york
 ---
 
 ## western new york
 
-Last updated: <time datetime="2025-12-04T07:16:35.684Z">Thu Dec 04 2025 09:16:35 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T15:02:25.558Z">Sat Dec 06 2025 17:02:25 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
   </thead>
   <tbody>
     <tr>
-      <td>45</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/zALNcS2dV6Zxiu9tpIY9of1hJ8O4dpnBaqt5LtGhgTs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MzAw/NjItMTU1MTA2MDI5/My0yNzk0LmpwZWc.jpeg" alt="Cover for The Essential Glenn Miller" style="max-width:120px; height:auto;" />
       </td>
@@ -49,7 +49,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>94</td>
       <td>
       </td>
       <td>1961</td>
@@ -67,7 +67,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/YSpC_S8YGEcqzMuscK7ZrC8alkTzjfVhwU5dhzGaEM4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMTM3/NjAtMTU5OTc3OTc1/OS02NTMzLmpwZWc.jpeg" alt="Cover for The Complete Hits Of Vic Dana" style="max-width:120px; height:auto;" />
       </td>
@@ -87,7 +87,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/gAFvc-UKmST3L8g2yVhCvSTzHyRZ679xCFIAy2ALOTg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MzI0/NDc0LTE2OTUxMTM0/NDItNDMyMS5wbmc.jpeg" alt="Cover for Red Roses For A Blue Lady &#x2F; Crystal Chandelier" style="max-width:120px; height:auto;" />
       </td>
@@ -107,7 +107,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for Bruce Almighty" style="max-width:120px; height:auto;" />
       </td>
@@ -128,7 +128,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/7bZEZDQf_AX64PiUt3GXz-EM2oLXHdTO_96eUsP42uU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNTA0/My0xMzIxNDQ3Njc1/LmpwZWc.jpeg" alt="Cover for (I Got No Kick Against) Modern Jazz - Celebration of the Songs of the Beatles" style="max-width:120px; height:auto;" />
       </td>
@@ -148,7 +148,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/9PVPYSRR15YMXYDUp_WMlDPEtHg9uKE6_0Mqwk5TuBQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NTIw/NTktMTM2NTI2MzE3/My04OTk5LmpwZWc.jpeg" alt="Cover for The Marrying Kind" style="max-width:120px; height:auto;" />
       </td>
@@ -174,7 +174,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/mfqmB5jDXhnVoJ3gt0kilNg8Ww8vr5hxizq_D-bA7WM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTQ4/OTktMTI0MTIzNzUz/Ni5qcGVn.jpeg" alt="Cover for Jazz Moods" style="max-width:120px; height:auto;" />
       </td>
@@ -196,7 +196,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
       </td>
       <td>1983-04-24</td>
@@ -217,7 +217,28 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>16</td>
+      <td>
+      </td>
+      <td>1984</td>
+      <td>Spyro Gyra</td>
+      <td>Access All Areas</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/western-new-york" | relative_url }}">western new york</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 17</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/9PVPYSRR15YMXYDUp_WMlDPEtHg9uKE6_0Mqwk5TuBQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NTIw/NTktMTM2NTI2MzE3/My04OTk5LmpwZWc.jpeg" alt="Cover for Climate Change" style="max-width:120px; height:auto;" />
       </td>
@@ -243,28 +264,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
     </tr>
     <tr>
-      <td>85</td>
-      <td>
-      </td>
-      <td>1984</td>
-      <td>Spyro Gyra</td>
-      <td>Access All Areas</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/western-new-york" | relative_url }}">western new york</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 17</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
       </td>
       <td>1989</td>
@@ -290,7 +290,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
       </td>
       <td>1989-04-10</td>
@@ -309,7 +309,26 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>1</td>
+      <td>
+      </td>
+      <td>1991</td>
+      <td>Joe Public</td>
+      <td>Live And Learn</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/western-new-york" | relative_url }}">western new york</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 1</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/sY2gmcKU6KIw0q-VpA9aY6Ni0wkuDY1OhEVOpfQZQO8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMzI2/MC0xMTY4NjUzNTU3/LmpwZWc.jpeg" alt="Cover for Car Wash Hair" style="max-width:120px; height:auto;" />
       </td>
@@ -329,12 +348,36 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>10</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dc8e33ccd9882922a67a91450d03b59b.png" alt="Cover for Lego My Ego" style="max-width:120px; height:auto;" />
       </td>
-      <td>1991</td>
-      <td>Joe Public</td>
-      <td>Live And Learn</td>
+      <td>1992</td>
+      <td>Mercury Rev</td>
+      <td>Lego My Ego</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/western-new-york" | relative_url }}">western new york</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 11</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>
+          <img src="https://i.discogs.com/sYnE2jIx2Q-U9wEE7nbwdTtW2tvUkOEhe7-CYgOZq8k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzOTky/MS0xMTQ0ODU5NDcz/LmpwZWc.jpeg" alt="Cover for Chasing a Bee" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1992</td>
+      <td>Mercury Rev</td>
+      <td>Chasing a Bee</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a></li>
@@ -343,12 +386,12 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 1</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1968d1563bc947619ba8c42f4b004500.png" alt="Cover for Six-Pack Of Love" style="max-width:120px; height:auto;" />
       </td>
@@ -372,50 +415,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
     </tr>
     <tr>
-      <td>69</td>
-      <td>
-          <img src="https://i.discogs.com/sYnE2jIx2Q-U9wEE7nbwdTtW2tvUkOEhe7-CYgOZq8k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzOTky/MS0xMTQ0ODU5NDcz/LmpwZWc.jpeg" alt="Cover for Chasing a Bee" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1992</td>
-      <td>Mercury Rev</td>
-      <td>Chasing a Bee</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/western-new-york" | relative_url }}">western new york</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 33</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>91</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dc8e33ccd9882922a67a91450d03b59b.png" alt="Cover for Lego My Ego" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1992</td>
-      <td>Mercury Rev</td>
-      <td>Lego My Ego</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/western-new-york" | relative_url }}">western new york</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 11</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
       </td>
       <td>1992-05-12</td>
@@ -435,48 +435,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
     </tr>
     <tr>
-      <td>15</td>
-      <td>
-          <img src="https://i.discogs.com/UrL_v_d27g4R17ZZWDRsaoau0Q0Wl6PZghP-W5xNaz0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NjE3/Ni0xMTU0MDk1Mjg5/LmpwZWc.jpeg" alt="Cover for Acoustic 2" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1993</td>
-      <td>Mercury Rev</td>
-      <td>Acoustic 2</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/western-new-york" | relative_url }}">western new york</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 87</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>37</td>
-      <td>
-          <img src="https://i.discogs.com/zChkrd0EOGeLprbvOVvZ4m5EWSR7O6fROpMGdjbicN4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NjU2/NC0xMTU5ODIxODEw/LmpwZWc.jpeg" alt="Cover for Bronx Cheer" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1993</td>
-      <td>Mercury Rev</td>
-      <td>Bronx Cheer</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/western-new-york" | relative_url }}">western new york</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 65</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>63</td>
+      <td>38</td>
       <td>
       </td>
       <td>1993</td>
@@ -498,12 +457,13 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>64</td>
       <td>
+          <img src="https://i.discogs.com/zChkrd0EOGeLprbvOVvZ4m5EWSR7O6fROpMGdjbicN4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NjU2/NC0xMTU5ODIxODEw/LmpwZWc.jpeg" alt="Cover for Bronx Cheer" style="max-width:120px; height:auto;" />
       </td>
-      <td>1994</td>
+      <td>1993</td>
       <td>Mercury Rev</td>
-      <td>Everlasting Arm</td>
+      <td>Bronx Cheer</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a></li>
@@ -512,12 +472,33 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 61</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>86</td>
+      <td>
+          <img src="https://i.discogs.com/UrL_v_d27g4R17ZZWDRsaoau0Q0Wl6PZghP-W5xNaz0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NjE3/Ni0xMTU0MDk1Mjg5/LmpwZWc.jpeg" alt="Cover for Acoustic 2" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1993</td>
+      <td>Mercury Rev</td>
+      <td>Acoustic 2</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/western-new-york" | relative_url }}">western new york</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 87</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
       <td>
       </td>
       <td>1994</td>
@@ -536,7 +517,26 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>60</td>
+      <td>
+      </td>
+      <td>1994</td>
+      <td>Mercury Rev</td>
+      <td>Everlasting Arm</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/western-new-york" | relative_url }}">western new york</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 61</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
       <td>
           <img src="https://i.discogs.com/SZg7UaYHaUHVU1rhOx71ALe79Q1yJe4-jLAZqpQ8JMI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDQx/NTYtMTI2OTY2MDI4/MC5qcGVn.jpeg" alt="Cover for An Acoustic Evening With... (1994-07-14, Renton, WA, USA)" style="max-width:120px; height:auto;" />
       </td>
@@ -554,7 +554,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/5clgX5p61rFXmqiCe7L85-JA8m59o909me4DpL2_SiU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjg4/NTItMTU5Mjc3ODE3/Ni02MDE2LmpwZWc.jpeg" alt="Cover for Shy" style="max-width:120px; height:auto;" />
       </td>
@@ -574,7 +574,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
       </td>
       <td>1995-03-14</td>
@@ -595,7 +595,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/rgKai35L6bz7VQMHWLSEaZr0bVeQD9YyjrpcKMWkQ1k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MzU3/MDMtMTU1OTYzNTgw/Ny02MzA0LmpwZWc.jpeg" alt="Cover for Torn Again" style="max-width:120px; height:auto;" />
       </td>
@@ -615,7 +615,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
       </td>
       <td>1996-04-15</td>
@@ -636,87 +636,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
     </tr>
     <tr>
-      <td>16</td>
-      <td>
-          <img src="https://i.discogs.com/jY0YZhnv-N78OdNnyqsHp6Q7ZpF_VdsP_7nwrkCDIBQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMjk5/OS0xNTI1MDYyMDI3/LTMxMDcuanBlZw.jpeg" alt="Cover for RevellingReckoning" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1997</td>
-      <td>Ani DiFranco</td>
-      <td>RevellingReckoning</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/western-new-york" | relative_url }}">western new york</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 86</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>20</td>
-      <td>
-          <img src="https://i.discogs.com/zkFlhSOy4FU60JvhY9FpkJON2xDEGadxeXO8NdoMynE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjg4/NjktMTU0ODg1Mzk0/My00ODc4LmpwZWc.jpeg" alt="Cover for Bremen 1997" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1997</td>
-      <td>Ani DiFranco</td>
-      <td>Bremen 1997</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/western-new-york" | relative_url }}">western new york</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 82</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>29</td>
-      <td>
-          <img src="https://i.discogs.com/hhVZtGVwkVSl3MrTOTUJA45Rf8UTZdP9LAb8Y0jcwjs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDc2/MDctMTI5ODA5Njgz/MC5qcGVn.jpeg" alt="Cover for &#39;Til Niagara Falls..." style="max-width:120px; height:auto;" />
-      </td>
-      <td>1997</td>
-      <td>Jon Cougar Concentration Camp</td>
-      <td>&#39;Til Niagara Falls...</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/western-new-york" | relative_url }}">western new york</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 73</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>34</td>
-      <td>
-          <img src="https://i.discogs.com/hhVZtGVwkVSl3MrTOTUJA45Rf8UTZdP9LAb8Y0jcwjs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDc2/MDctMTI5ODA5Njgz/MC5qcGVn.jpeg" alt="Cover for &#39;Til Niagara Falls" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1997</td>
-      <td>Jon Cougar Concentration Camp</td>
-      <td>&#39;Til Niagara Falls</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/western-new-york" | relative_url }}">western new york</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 68</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>56</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/SZg7UaYHaUHVU1rhOx71ALe79Q1yJe4-jLAZqpQ8JMI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDQx/NTYtMTI2OTY2MDI4/MC5qcGVn.jpeg" alt="Cover for Women In (E)motion 5" style="max-width:120px; height:auto;" />
       </td>
@@ -736,7 +656,87 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>67</td>
+      <td>
+          <img src="https://i.discogs.com/hhVZtGVwkVSl3MrTOTUJA45Rf8UTZdP9LAb8Y0jcwjs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDc2/MDctMTI5ODA5Njgz/MC5qcGVn.jpeg" alt="Cover for &#39;Til Niagara Falls" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997</td>
+      <td>Jon Cougar Concentration Camp</td>
+      <td>&#39;Til Niagara Falls</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/western-new-york" | relative_url }}">western new york</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 68</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>
+          <img src="https://i.discogs.com/hhVZtGVwkVSl3MrTOTUJA45Rf8UTZdP9LAb8Y0jcwjs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDc2/MDctMTI5ODA5Njgz/MC5qcGVn.jpeg" alt="Cover for &#39;Til Niagara Falls..." style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997</td>
+      <td>Jon Cougar Concentration Camp</td>
+      <td>&#39;Til Niagara Falls...</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/western-new-york" | relative_url }}">western new york</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 73</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>
+          <img src="https://i.discogs.com/zkFlhSOy4FU60JvhY9FpkJON2xDEGadxeXO8NdoMynE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjg4/NjktMTU0ODg1Mzk0/My00ODc4LmpwZWc.jpeg" alt="Cover for Bremen 1997" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997</td>
+      <td>Ani DiFranco</td>
+      <td>Bremen 1997</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/western-new-york" | relative_url }}">western new york</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 82</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>
+          <img src="https://i.discogs.com/jY0YZhnv-N78OdNnyqsHp6Q7ZpF_VdsP_7nwrkCDIBQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMjk5/OS0xNTI1MDYyMDI3/LTMxMDcuanBlZw.jpeg" alt="Cover for RevellingReckoning" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997</td>
+      <td>Ani DiFranco</td>
+      <td>RevellingReckoning</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/western-new-york" | relative_url }}">western new york</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 86</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
       <td>
           <img src="https://i.discogs.com/Yeh8d2Vt3sOMmZEEvx6yvtpGSgngcWa-hWZqH-EMz2E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMTcz/Ny0xNzEzMzczMTE0/LTYyNTMuanBlZw.jpeg" alt="Cover for Live in Chicago 9.23.09" style="max-width:120px; height:auto;" />
       </td>
@@ -755,7 +755,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
       </td>
       <td>1997-11-04</td>
@@ -775,63 +775,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
     </tr>
     <tr>
-      <td>43</td>
-      <td>
-          <img src="https://i.discogs.com/SZg7UaYHaUHVU1rhOx71ALe79Q1yJe4-jLAZqpQ8JMI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDQx/NTYtMTI2OTY2MDI4/MC5qcGVn.jpeg" alt="Cover for 1999-07-24: Falcon Ridge Folk Festival, Hillsdale, NY, USA" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1998</td>
-      <td>Ani DiFranco</td>
-      <td>1999-07-24: Falcon Ridge Folk Festival, Hillsdale, NY, USA</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 59</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>77</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8ef0e67eeeba45129a90c7f1c22570eb.png" alt="Cover for Full Service, No Waiting" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1998</td>
-      <td>Peter Case</td>
-      <td>Full Service, No Waiting</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 25</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>82</td>
-      <td>
-          <img src="https://i.discogs.com/7Tgm3tNPRdekh3D9E2k1P6b5wTcKXTSlJqXLpiq9iMg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTQ1/OTAtMTQxNDMwMTIw/Ni0xNDE2LmpwZWc.jpeg" alt="Cover for Full Service No Waiting" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1998</td>
-      <td>Peter Case</td>
-      <td>Full Service No Waiting</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/western-new-york" | relative_url }}">western new york</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 20</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/hXvTWtCdYOQayz_6v_SBAAAYtC0awy3zSD2a-tR3VjI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MDM2/MjgtMTQ3MTE1MTU2/MC0zNTk5LmpwZWc.jpeg" alt="Cover for Comedy You Can Dance To" style="max-width:120px; height:auto;" />
       </td>
@@ -860,33 +804,13 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>19</td>
       <td>
-          <img src="https://i.discogs.com/XkUN-fs6gGGJhttlRS0zZu-pZdZnCRpRnIPzenrTRjA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDk1/MzQ2LTE1MzY0MTgz/MDctODkwMi5qcGVn.jpeg" alt="Cover for Peel Session" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/7Tgm3tNPRdekh3D9E2k1P6b5wTcKXTSlJqXLpiq9iMg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTQ1/OTAtMTQxNDMwMTIw/Ni0xNDE2LmpwZWc.jpeg" alt="Cover for Full Service No Waiting" style="max-width:120px; height:auto;" />
       </td>
-      <td>1999</td>
-      <td>Mercury Rev</td>
-      <td>Peel Session</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/western-new-york" | relative_url }}">western new york</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 91</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>49</td>
-      <td>
-          <img src="https://i.discogs.com/g8oAFdZN6gywqAAcVuxY1BH3vnI_iJAiyD5jbx3FrTY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzAw/ODEtMTU0NjgxMTE4/Ny0yNzk2LmpwZWc.jpeg" alt="Cover for Nite &amp; Fog" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1999</td>
-      <td>Mercury Rev</td>
-      <td>Nite &amp; Fog</td>
+      <td>1998</td>
+      <td>Peter Case</td>
+      <td>Full Service No Waiting</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a></li>
@@ -895,52 +819,48 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 53</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 20</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>24</td>
       <td>
-          <img src="https://i.discogs.com/GMZMuGpFa3R1cl_hORk1MMr3nAXOal-KFreJRNEck6I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzY4/OS0xMjk5NTMxOTQy/LmpwZWc.jpeg" alt="Cover for Mercury Rev" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8ef0e67eeeba45129a90c7f1c22570eb.png" alt="Cover for Full Service, No Waiting" style="max-width:120px; height:auto;" />
       </td>
-      <td>1999</td>
-      <td>Mercury Rev</td>
-      <td>Mercury Rev</td>
+      <td>1998</td>
+      <td>Peter Case</td>
+      <td>Full Service, No Waiting</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/western-new-york" | relative_url }}">western new york</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 31</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 25</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>58</td>
       <td>
-          <img src="https://i.discogs.com/Yp2oCNwvN5iK7B4_q2-fghC8sIeiy-Koay_DJOce-wk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjg4/NjYtMTU4NzMzOTMz/Ni05MDE4LmpwZWc.jpeg" alt="Cover for The CD Chris Built" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/SZg7UaYHaUHVU1rhOx71ALe79Q1yJe4-jLAZqpQ8JMI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDQx/NTYtMTI2OTY2MDI4/MC5qcGVn.jpeg" alt="Cover for 1999-07-24: Falcon Ridge Folk Festival, Hillsdale, NY, USA" style="max-width:120px; height:auto;" />
       </td>
-      <td>1999</td>
+      <td>1998</td>
       <td>Ani DiFranco</td>
-      <td>The CD Chris Built</td>
+      <td>1999-07-24: Falcon Ridge Folk Festival, Hillsdale, NY, USA</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/western-new-york" | relative_url }}">western new york</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 30</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/869ec12c26868fa663a0f5d4888f46ce.png" alt="Cover for Black Session" style="max-width:120px; height:auto;" />
       </td>
@@ -961,7 +881,87 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>29</td>
+      <td>
+          <img src="https://i.discogs.com/Yp2oCNwvN5iK7B4_q2-fghC8sIeiy-Koay_DJOce-wk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjg4/NjYtMTU4NzMzOTMz/Ni05MDE4LmpwZWc.jpeg" alt="Cover for The CD Chris Built" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>Ani DiFranco</td>
+      <td>The CD Chris Built</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/western-new-york" | relative_url }}">western new york</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 30</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>
+          <img src="https://i.discogs.com/GMZMuGpFa3R1cl_hORk1MMr3nAXOal-KFreJRNEck6I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzY4/OS0xMjk5NTMxOTQy/LmpwZWc.jpeg" alt="Cover for Mercury Rev" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>Mercury Rev</td>
+      <td>Mercury Rev</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/western-new-york" | relative_url }}">western new york</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 31</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>
+          <img src="https://i.discogs.com/g8oAFdZN6gywqAAcVuxY1BH3vnI_iJAiyD5jbx3FrTY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzAw/ODEtMTU0NjgxMTE4/Ny0yNzk2LmpwZWc.jpeg" alt="Cover for Nite &amp; Fog" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>Mercury Rev</td>
+      <td>Nite &amp; Fog</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/western-new-york" | relative_url }}">western new york</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 53</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>
+          <img src="https://i.discogs.com/XkUN-fs6gGGJhttlRS0zZu-pZdZnCRpRnIPzenrTRjA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDk1/MzQ2LTE1MzY0MTgz/MDctODkwMi5qcGVn.jpeg" alt="Cover for Peel Session" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>Mercury Rev</td>
+      <td>Peel Session</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/western-new-york" | relative_url }}">western new york</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 91</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/e7WOJGIi-CePz6ogWvjNbNR9TbNZit_ifRcckbaNXgg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTI4/MTEtMTMwMjE2NzE1/MS5qcGVn.jpeg" alt="Cover for Best Of&#x2F;20th&#x2F;Eco" style="max-width:120px; height:auto;" />
       </td>
@@ -983,7 +983,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
       </td>
       <td>1999-11-15</td>
@@ -1002,27 +1002,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
     </tr>
     <tr>
-      <td>38</td>
-      <td>
-      </td>
-      <td>2000</td>
-      <td>Goo Goo Dolls</td>
-      <td>Broadway</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-york" | relative_url }}">new york</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/western-new-york" | relative_url }}">western new york</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 64</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/0BO_MHI7qu6loB9VSXpk13IixMBUodMtUHBiibxnDP0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzQy/MzYtMTUwMTM0Nzk2/OC02NDY5LmpwZWc.jpeg" alt="Cover for Back Back Back" style="max-width:120px; height:auto;" />
       </td>
@@ -1042,7 +1022,27 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>63</td>
+      <td>
+      </td>
+      <td>2000</td>
+      <td>Goo Goo Dolls</td>
+      <td>Broadway</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-york" | relative_url }}">new york</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/western-new-york" | relative_url }}">western new york</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 64</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/577ca1fa8e7849da90b54a249f6c9aad.png" alt="Cover for Flying Saucer Blues" style="max-width:120px; height:auto;" />
       </td>
@@ -1065,7 +1065,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>93</td>
       <td>
           <img src="https://i.discogs.com/lkQxa9vhJZLwmkfFwiOcfxpz12RqoMIlyy7MrCLF_As/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMDQz/ODctMTQ1NTIxOTIy/My00NDgyLmpwZWc.jpeg" alt="Cover for Sing The Great Glen Miller Instrumentals &#x2F; We Remember Tommy" style="max-width:120px; height:auto;" />
       </td>
@@ -1085,127 +1085,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
     </tr>
     <tr>
-      <td>9</td>
-      <td>
-          <img src="https://i.discogs.com/x-jM_UkhUPCH25GQrkaem36nSPAf3vl94PqLySkykIY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzODM1/OC0xMzI3MDMzNzM1/LmpwZWc.jpeg" alt="Cover for The Very Best Of Jazz Funk" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2002</td>
-      <td>Spyro Gyra</td>
-      <td>The Very Best Of Jazz Funk</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/western-new-york" | relative_url }}">western new york</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 98</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>36</td>
-      <td>
-      </td>
-      <td>2002</td>
-      <td>The Pavers</td>
-      <td>Return to the Island of No Return</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-york" | relative_url }}">new york</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/western-new-york" | relative_url }}">western new york</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 66</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>52</td>
-      <td>
-          <img src="https://i.discogs.com/0sF9mzK-hOkORS5M3THt0ckKb5nMBjHDeZo9WnPLq48/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MDcz/NC0xNTEwNDA1ODM3/LTg0MDAuanBlZw.jpeg" alt="Cover for The Very Best Of" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2002</td>
-      <td>Spyro Gyra</td>
-      <td>The Very Best Of</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/western-new-york" | relative_url }}">western new york</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 50</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>59</td>
-      <td>
-          <img src="https://i.discogs.com/32bDX_3puGj8fNuFdbAWQGPKZMtTaGOfb7kYJpG8qkU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MjI2/My0xNDc0OTQ4MzEy/LTgzMTgucG5n.jpeg" alt="Cover for So Much Shouting, So Much Laughter (disc 1: Stray Cats)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2002</td>
-      <td>Ani DiFranco</td>
-      <td>So Much Shouting, So Much Laughter (disc 1: Stray Cats)</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 43</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>65</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/79e4ee58eaca417eb9271e521485ec12.png" alt="Cover for So Much Shouting, So Much Laughter (disc 2: Girls Singing Night)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2002</td>
-      <td>Ani DiFranco</td>
-      <td>So Much Shouting, So Much Laughter (disc 2: Girls Singing Night)</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 37</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>79</td>
-      <td>
-      </td>
-      <td>2002</td>
-      <td>Spyro Gyra</td>
-      <td>Original Cinema</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/western-new-york" | relative_url }}">western new york</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 23</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/d9YzUz8Nh6MoIYGu4JbBSEN8Pczk7iEeiUnc9lsu7AU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTYx/NjctMTI0MTMyMDQy/Mi5qcGVn.jpeg" alt="Cover for The Best Of (The First Ten Years)" style="max-width:120px; height:auto;" />
       </td>
@@ -1227,7 +1107,127 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>22</td>
+      <td>
+      </td>
+      <td>2002</td>
+      <td>Spyro Gyra</td>
+      <td>Original Cinema</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/western-new-york" | relative_url }}">western new york</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 23</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/79e4ee58eaca417eb9271e521485ec12.png" alt="Cover for So Much Shouting, So Much Laughter (disc 2: Girls Singing Night)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>Ani DiFranco</td>
+      <td>So Much Shouting, So Much Laughter (disc 2: Girls Singing Night)</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 37</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>
+          <img src="https://i.discogs.com/32bDX_3puGj8fNuFdbAWQGPKZMtTaGOfb7kYJpG8qkU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MjI2/My0xNDc0OTQ4MzEy/LTgzMTgucG5n.jpeg" alt="Cover for So Much Shouting, So Much Laughter (disc 1: Stray Cats)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>Ani DiFranco</td>
+      <td>So Much Shouting, So Much Laughter (disc 1: Stray Cats)</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 43</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>
+          <img src="https://i.discogs.com/0sF9mzK-hOkORS5M3THt0ckKb5nMBjHDeZo9WnPLq48/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MDcz/NC0xNTEwNDA1ODM3/LTg0MDAuanBlZw.jpeg" alt="Cover for The Very Best Of" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>Spyro Gyra</td>
+      <td>The Very Best Of</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/western-new-york" | relative_url }}">western new york</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 50</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>
+      </td>
+      <td>2002</td>
+      <td>The Pavers</td>
+      <td>Return to the Island of No Return</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-york" | relative_url }}">new york</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/western-new-york" | relative_url }}">western new york</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 66</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+          <img src="https://i.discogs.com/x-jM_UkhUPCH25GQrkaem36nSPAf3vl94PqLySkykIY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzODM1/OC0xMzI3MDMzNzM1/LmpwZWc.jpeg" alt="Cover for The Very Best Of Jazz Funk" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>Spyro Gyra</td>
+      <td>The Very Best Of Jazz Funk</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/western-new-york" | relative_url }}">western new york</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
       <td>
           <img src="https://i.discogs.com/GHiqFTL2iZOrBngzoTdqRAEpwFScaFi-QmMoFfI7WA4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MzM1/NzctMTQ1MTkzMzQ1/MS03MzQyLmpwZWc.jpeg" alt="Cover for These In-between Times" style="max-width:120px; height:auto;" />
       </td>
@@ -1246,7 +1246,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>39</td>
       <td>
       </td>
       <td>2002-07-01</td>
@@ -1266,7 +1266,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/mPSHIHu9jPsVNkjLZY15msII2l3IODAyYrlB51WHeE8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTUz/NzMtMTMyNDQ4MTQ5/Ni5qcGVn.jpeg" alt="Cover for Beeline" style="max-width:120px; height:auto;" />
       </td>
@@ -1286,7 +1286,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/gtM0Q7cUM7dOcJxcn9McWkd27WfWDMCZBuQb96yYwTA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5OTk2/Ni0xNDU3NDM3NDI4/LTE2NTUuanBlZw.jpeg" alt="Cover for You Ain&#39;t Big" style="max-width:120px; height:auto;" />
       </td>
@@ -1306,7 +1306,106 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>4</td>
+      <td>
+          <img src="https://i.discogs.com/V4ln3O7MET0eToVsggI-c3y3U945B5ayGdmT1Zf4D5o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNzM1/Ny0xMjg3NTc5Nzcw/LmpwZWc.jpeg" alt="Cover for In a Funny Way" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Mercury Rev</td>
+      <td>In a Funny Way</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/western-new-york" | relative_url }}">western new york</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 4</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>
+          <img src="https://i.discogs.com/VMhvnSwrvSXduO1qZ6dWYtzV2yxR6kNabeNs0DAF4Bc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTM4/OTYtMTU3OTkyNjQ2/OC02MTAwLmpwZWc.jpeg" alt="Cover for Discovered Covered - The Covers" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Mercury Rev</td>
+      <td>Discovered Covered - The Covers</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/western-new-york" | relative_url }}">western new york</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 47</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>
+          <img src="https://i.discogs.com/cvYEmGpV5oj__HkOIRW2-xuB_akRZYkYhDNNlmT9YZo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDA2/MDYtMTYzODU3NjUx/OS04OTc3LmpwZWc.jpeg" alt="Cover for LVL 4" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Future Leaders of the World</td>
+      <td>LVL 4</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/western-new-york" | relative_url }}">western new york</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 56</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>
+      </td>
+      <td>2004</td>
+      <td>Last Conservative</td>
+      <td>On To The Next One</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/western-new-york" | relative_url }}">western new york</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 63</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>
+          <img src="https://i.discogs.com/Hr2rSXY6rhConDVQxOwqWEtRegQ7njXNdRhF-8nIlkY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTEz/MTI0LTE1NDgyNzQ0/MzctNzU2MC5qcGVn.jpeg" alt="Cover for Who&#39;s Gonna Go Your Crooked Mile" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Peter Case</td>
+      <td>Who&#39;s Gonna Go Your Crooked Mile</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/western-new-york" | relative_url }}">western new york</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 80</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/ZVS0d7UyTHyOLeCb7EoJm6AxX207ZE4gCYE1VAwaLsg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTU0/MjU3LTE2MDQzNTAz/OTgtNTMzMC5qcGVn.jpeg" alt="Cover for Your Window" style="max-width:120px; height:auto;" />
       </td>
@@ -1328,106 +1427,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
     </tr>
     <tr>
-      <td>22</td>
-      <td>
-          <img src="https://i.discogs.com/Hr2rSXY6rhConDVQxOwqWEtRegQ7njXNdRhF-8nIlkY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTEz/MTI0LTE1NDgyNzQ0/MzctNzU2MC5qcGVn.jpeg" alt="Cover for Who&#39;s Gonna Go Your Crooked Mile" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2004</td>
-      <td>Peter Case</td>
-      <td>Who&#39;s Gonna Go Your Crooked Mile</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/western-new-york" | relative_url }}">western new york</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 80</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>39</td>
-      <td>
-      </td>
-      <td>2004</td>
-      <td>Last Conservative</td>
-      <td>On To The Next One</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/western-new-york" | relative_url }}">western new york</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 63</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>46</td>
-      <td>
-          <img src="https://i.discogs.com/cvYEmGpV5oj__HkOIRW2-xuB_akRZYkYhDNNlmT9YZo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDA2/MDYtMTYzODU3NjUx/OS04OTc3LmpwZWc.jpeg" alt="Cover for LVL 4" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2004</td>
-      <td>Future Leaders of the World</td>
-      <td>LVL 4</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/western-new-york" | relative_url }}">western new york</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 56</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>55</td>
-      <td>
-          <img src="https://i.discogs.com/VMhvnSwrvSXduO1qZ6dWYtzV2yxR6kNabeNs0DAF4Bc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTM4/OTYtMTU3OTkyNjQ2/OC02MTAwLmpwZWc.jpeg" alt="Cover for Discovered Covered - The Covers" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2004</td>
-      <td>Mercury Rev</td>
-      <td>Discovered Covered - The Covers</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/western-new-york" | relative_url }}">western new york</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 47</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>97</td>
-      <td>
-          <img src="https://i.discogs.com/V4ln3O7MET0eToVsggI-c3y3U945B5ayGdmT1Zf4D5o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNzM1/Ny0xMjg3NTc5Nzcw/LmpwZWc.jpeg" alt="Cover for In a Funny Way" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2004</td>
-      <td>Mercury Rev</td>
-      <td>In a Funny Way</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/western-new-york" | relative_url }}">western new york</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 4</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>3</td>
+      <td>98</td>
       <td>
           <img src="https://i.discogs.com/4P-HKd9ocmGxEEc-ktp_b2fdmXvXfo97N7gnVBBCOpo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Mzk5/ODYtMTMwODI3NDY4/Ny5qcGVn.jpeg" alt="Cover for Unremarkable" style="max-width:120px; height:auto;" />
       </td>
@@ -1446,7 +1446,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/wk8eWGm68SLyts5ddL5d_nLegv3HwiGn5W4GQLvf5TY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODk0/NDY3LTE1NjM1MDMz/ODYtOTI1OC5qcGVn.jpeg" alt="Cover for Let Me Out" style="max-width:120px; height:auto;" />
       </td>
@@ -1466,7 +1466,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/7m_x4Cnnaqm-2p8zgmePMkN6XUfG6yVWxJ200MTLFrU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDU5/MDctMTYzMjg3NzEx/NC0yOTMzLmpwZWc.jpeg" alt="Cover for Who&#39;s Gonna Go Your Crooked Mile?" style="max-width:120px; height:auto;" />
       </td>
@@ -1486,7 +1486,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/wt2uzl-o3R8cKxE090grlPzlYfSZ9TVg-9cx3IHDckk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDI3/MTU0LTE0OTAzNjYx/MTYtNDgxMS5qcGVn.jpeg" alt="Cover for Everyday" style="max-width:120px; height:auto;" />
       </td>
@@ -1506,7 +1506,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/9V22GAlsz8X04blyYTh5AeXPC8LAPsCQ2JonzD0Pa5g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MTEz/OS0xNjMzOTY0OTQ5/LTQ1MjIuanBlZw.jpeg" alt="Cover for Across Yer Ocean" style="max-width:120px; height:auto;" />
       </td>
@@ -1526,7 +1526,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>53</td>
       <td>
       </td>
       <td>2005-07-12</td>
@@ -1539,11 +1539,12 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       <td>
         <ul>
             <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 54</li>
+            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/jo27uILgBqyBbJy6UyNq8z5SJ5Eu3JuI-f6TRK6F_wY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MzE1/ODgtMTMzMDE1NDcw/OS5qcGVn.jpeg" alt="Cover for Legs and Boots: Buffalo, NY - October 24, 2007" style="max-width:120px; height:auto;" />
       </td>
@@ -1561,27 +1562,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
     </tr>
     <tr>
-      <td>28</td>
-      <td>
-          <img src="https://i.discogs.com/5M-uLydjFntp1K131iLmXC_V-XT1ojs2rOxpgKcaPWI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NDY1/MzQtMTMzODcyOTA5/MC0zNDk4LmpwZWc.jpeg" alt="Cover for Hello Blackbird (Original Soundtrack)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2006</td>
-      <td>Mercury Rev</td>
-      <td>Hello Blackbird (Original Soundtrack)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/western-new-york" | relative_url }}">western new york</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 74</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>33</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/nEuQD4gRnuZop2jsDRP_cyXUDEhfbklgKAFApfaqEr0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MzM4/MzQtMTQ1MTk0MDY2/MS00NjQ0LmpwZWc.jpeg" alt="Cover for Pretty New Things" style="max-width:120px; height:auto;" />
       </td>
@@ -1601,7 +1582,27 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>73</td>
+      <td>
+          <img src="https://i.discogs.com/5M-uLydjFntp1K131iLmXC_V-XT1ojs2rOxpgKcaPWI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NDY1/MzQtMTMzODcyOTA5/MC0zNDk4LmpwZWc.jpeg" alt="Cover for Hello Blackbird (Original Soundtrack)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Mercury Rev</td>
+      <td>Hello Blackbird (Original Soundtrack)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/western-new-york" | relative_url }}">western new york</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 74</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/M2rr-oo3t04sssDc_a217DmIMYQmhj_7l-d1mK78KDI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5OTMx/OC0xMTQ5MTQ1MjU3/LmpwZWc.jpeg" alt="Cover for Hands High" style="max-width:120px; height:auto;" />
       </td>
@@ -1621,7 +1622,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/oWeHmT5cS_ldrtIlfMnki4vbYExVdwiqJIz8mAbAddY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODE4/ODItMTQ3NjAyMTQ0/Ni0yMTM5LmpwZWc.jpeg" alt="Cover for Bitter Verses" style="max-width:120px; height:auto;" />
       </td>
@@ -1644,7 +1645,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>23</td>
       <td>
       </td>
       <td>2006-10-02</td>
@@ -1663,28 +1664,27 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>40</td>
       <td>
-          <img src="https://i.discogs.com/97OxntKRfwXOVAbsMUbn7SxwnY_KTcLv3xBZq1-12SU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Nzkz/NTAtMTMwNTM3MjY3/Ny5qcGVn.jpeg" alt="Cover for The Words You Betray (demo)" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/PAgTBxuetBgbr3F4OKzVapDL39QKLv7ubSK3Bxm611A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzcx/MDIzLTE1ODEyNjcy/OTQtNDk2Ny5wbmc.jpeg" alt="Cover for All That We Make It" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
-      <td>Dead Hearts</td>
-      <td>The Words You Betray (demo)</td>
+      <td>The Boy And His Machine</td>
+      <td>All That We Make It</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-york" | relative_url }}">new york</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/western-new-york" | relative_url }}">western new york</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 81</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/0BDHSKMaX4bZCm8Ige9fMyx3ZflBvTi4ppAwl1BFJLE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzOTQ2/MjgtMTQ2MDc3ODk0/MC03MTk2LmpwZWc.jpeg" alt="Cover for Vanguard Visionaries" style="max-width:120px; height:auto;" />
       </td>
@@ -1707,27 +1707,28 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>80</td>
       <td>
-          <img src="https://i.discogs.com/PAgTBxuetBgbr3F4OKzVapDL39QKLv7ubSK3Bxm611A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzcx/MDIzLTE1ODEyNjcy/OTQtNDk2Ny5wbmc.jpeg" alt="Cover for All That We Make It" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/97OxntKRfwXOVAbsMUbn7SxwnY_KTcLv3xBZq1-12SU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Nzkz/NTAtMTMwNTM3MjY3/Ny5qcGVn.jpeg" alt="Cover for The Words You Betray (demo)" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
-      <td>The Boy And His Machine</td>
-      <td>All That We Make It</td>
+      <td>Dead Hearts</td>
+      <td>The Words You Betray (demo)</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-york" | relative_url }}">new york</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/western-new-york" | relative_url }}">western new york</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 41</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>99</td>
       <td>
           <img src="https://i.discogs.com/_QjlR3yWodSUJfX1IIUE0i69zK2aFjzhyCdDm-7lH3c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDg0/NjgtMTYyNTQ0NTUy/OS0xNDU3LmpwZWc.jpeg" alt="Cover for Ani DiFranco +" style="max-width:120px; height:auto;" />
       </td>
@@ -1746,7 +1747,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/q8zaqSFvl2p1CHNcWSZ26kKZKo0suP1JNCl-Fg_VxlE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MjI5/Ni0xNDM4NjY4MTE2/LTIxNjAuanBlZw.jpeg" alt="Cover for Live - Bremen, Germany" style="max-width:120px; height:auto;" />
       </td>
@@ -1764,7 +1765,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/HcCECUcgbo_KciSSgFnbtfXXsYDiLDcrjNtfLRC4a0w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjMy/OTU4LTE1NTc5MzE3/NDQtOTM3OC5qcGVn.jpeg" alt="Cover for Show Them What You&#39;re Made Of" style="max-width:120px; height:auto;" />
       </td>
@@ -1784,7 +1785,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/3w4f3iss8qW6Kr0wktvUVwM7t6HOPi2UEdhm77XeCWM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzQw/NzctMTI1NjA1NTE0/Ni5qcGVn.jpeg" alt="Cover for ca292 - Minimal States - City of Buffalo" style="max-width:120px; height:auto;" />
       </td>
@@ -1803,7 +1804,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
       </td>
       <td>2010</td>
@@ -1822,7 +1823,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
       </td>
       <td>2010-11-23</td>
@@ -1841,7 +1842,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/JE8yo2vZ2Hs6kHZAHPfW-8y0dYlHqFQ_l0cOYTe_zd4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzUy/MTIzLTE2MTg3NTI0/MDgtMjMyNS5qcGVn.jpeg" alt="Cover for The Bleeding - Reissue" style="max-width:120px; height:auto;" />
       </td>
@@ -1862,7 +1863,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/1UDyUiQpriELaSzh-HelSeZQ-2NDrCj-pG1a4ooRoZA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTcx/NTMtMTMzMjczOTUy/Mi5qcGVn.jpeg" alt="Cover for Batman &amp; Robin" style="max-width:120px; height:auto;" />
       </td>
@@ -1883,12 +1884,35 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>50</td>
+      <td>
+      </td>
+      <td></td>
+      <td>DJ Drako</td>
+      <td>[non-album tracks]</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/western-new-york" | relative_url }}">western new york</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 51</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
       <td>
       </td>
       <td></td>
       <td>The Buffalo Bills</td>
-      <td>The Buffalo Bills - Masterworks Series Volume 2</td>
+      <td>The Buffalo Bills - Masterworks Series Volume 1</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a></li>
@@ -1897,54 +1921,17 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 84</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Crush, the Everlasting</td>
-      <td>Nightlives &amp; Bad Vibes</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 83</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>24</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Chrome Dreams - CD Audio Series</td>
-      <td>Maximum Goo Goo Dolls</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/western-new-york" | relative_url }}">western new york</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 78</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>25</td>
+      <td>69</td>
       <td>
       </td>
       <td></td>
       <td>The Buffalo Bills</td>
-      <td>The Buffalo Bills - Masterworks Series Volume 3</td>
+      <td>The Buffalo Bills - Masterworks Series Volume 4</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a></li>
@@ -1953,12 +1940,12 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 77</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>71</td>
       <td>
       </td>
       <td></td>
@@ -1983,12 +1970,12 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>76</td>
       <td>
       </td>
       <td></td>
       <td>The Buffalo Bills</td>
-      <td>The Buffalo Bills - Masterworks Series Volume 4</td>
+      <td>The Buffalo Bills - Masterworks Series Volume 3</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a></li>
@@ -1997,17 +1984,54 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 70</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>77</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Chrome Dreams - CD Audio Series</td>
+      <td>Maximum Goo Goo Dolls</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/western-new-york" | relative_url }}">western new york</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 78</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Crush, the Everlasting</td>
+      <td>Nightlives &amp; Bad Vibes</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 83</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
       <td>
       </td>
       <td></td>
       <td>The Buffalo Bills</td>
-      <td>The Buffalo Bills - Masterworks Series Volume 1</td>
+      <td>The Buffalo Bills - Masterworks Series Volume 2</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a></li>
@@ -2016,35 +2040,12 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 60</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>51</td>
-      <td>
-      </td>
-      <td></td>
-      <td>DJ Drako</td>
-      <td>[non-album tracks]</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/western-new-york" | relative_url }}">western new york</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 51</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
+      <td>100</td>
       <td>
       </td>
       <td></td>

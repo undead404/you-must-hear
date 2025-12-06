@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T07:18:36.142Z
+date: 2025-12-06T15:30:44.765Z
 permalink: tags/alt-country
 title: alt-country
 ---
 
 ## alt-country
 
-Last updated: <time datetime="2025-12-04T07:18:36.142Z">Thu Dec 04 2025 09:18:36 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T15:30:44.765Z">Sat Dec 06 2025 17:30:44 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -43,12 +43,12 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 5</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 9</li>
             <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 25</li>
             <li> <a href="{{ "/tags/lullabies" | relative_url }}">lullabies</a> # 44</li>
             <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 78</li>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 87</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 96</li>
             <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 99</li>
         </ul>
       </td>
@@ -107,7 +107,7 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 57</li>
+            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -272,7 +272,7 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       <td>
         <ul>
             <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 13</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 18</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -429,7 +429,7 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       <td>
         <ul>
             <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 12</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 19</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -453,11 +453,11 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 6</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 7</li>
             <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 27</li>
             <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 72</li>
             <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 92</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -629,7 +629,7 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 74</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -766,8 +766,8 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/throwaway-grrls" | relative_url }}">throwaway grrls</a> # 26</li>
             <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 66</li>
+            <li> <a href="{{ "/tags/throwaway-grrls" | relative_url }}">throwaway grrls</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -899,7 +899,7 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/roots-rock" | relative_url }}">roots rock</a> # 79</li>
+            <li> <a href="{{ "/tags/roots-rock" | relative_url }}">roots rock</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -921,7 +921,7 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/throwaway-grrls" | relative_url }}">throwaway grrls</a> # 63</li>
+            <li> <a href="{{ "/tags/throwaway-grrls" | relative_url }}">throwaway grrls</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1033,8 +1033,8 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 1</li>
             <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 36</li>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1262,7 +1262,7 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a> # 18</li>
+            <li> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1282,13 +1282,13 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 7</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 7</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 19</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 25</li>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 42</li>
             <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 54</li>
             <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 69</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 81</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 94</li>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1309,7 +1309,7 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a> # 93</li>
+            <li> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1418,14 +1418,14 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 2</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 3</li>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 26</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 29</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 31</li>
             <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 34</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 69</li>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 95</li>
             <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 95</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 98</li>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 99</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 95</li>
             <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 99</li>
         </ul>
       </td>
@@ -1661,7 +1661,7 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 70</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1682,7 +1682,7 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       <td>
         <ul>
             <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 10</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 25</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 75</li>
             <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 89</li>
         </ul>
       </td>
@@ -1792,7 +1792,7 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
         <ul>
             <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 2</li>
             <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 12</li>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 70</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1810,7 +1810,7 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 74</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1953,9 +1953,9 @@ Alt-country, also known as alternative country or insurgent country, is a subgen
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 17</li>
             <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 32</li>
             <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 76</li>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 84</li>
         </ul>
       </td>
     </tr>

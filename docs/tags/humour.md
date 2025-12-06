@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T07:16:02.562Z
+date: 2025-12-06T15:02:17.982Z
 permalink: tags/humour
 title: humour
 ---
 
 ## humour
 
-Last updated: <time datetime="2025-12-04T07:16:02.562Z">Thu Dec 04 2025 09:16:02 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T15:02:17.982Z">Sat Dec 06 2025 17:02:17 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
   </thead>
   <tbody>
     <tr>
-      <td>61</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/Y4aNb0EZ1s9RIvD-8-Nn_72BUkCDJRaARBaXkqIKe4c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzQx/MzI1LTE1ODIxMzEy/OTItMzcxMy5qcGVn.jpeg" alt="Cover for The Goon Show" style="max-width:120px; height:auto;" />
       </td>
@@ -48,7 +48,7 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/YNWvPYq2wyVaUcf_kPDo7zOfwf7EE45bDnPsKlT64NA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NTQ2/Mi0xMjYwMDM1OTIy/LmpwZWc.jpeg" alt="Cover for More Of Tom Lehrer" style="max-width:120px; height:auto;" />
       </td>
@@ -67,32 +67,7 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
     </tr>
     <tr>
-      <td>16</td>
-      <td>
-          <img src="https://i.discogs.com/oqhMlgqqSj-ismfF__zUXGtgh61d7ULyGtvMG--pFLc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDA4/NjEtMTM0NjE1NzIw/NS04NTA4LmpwZWc.jpeg" alt="Cover for Woody Allen Part l" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1964</td>
-      <td>Woody Allen</td>
-      <td>Woody Allen Part l</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/humour" | relative_url }}">humour</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stand-up" | relative_url }}">stand-up</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 51</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 59</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>20</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/dli9fJJjzONSls6cC4qnBNKtPm6bvn4TyAXpceIINTU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTM1/NzQtMTMwMzQwNjY1/NC5qcGVn.jpeg" alt="Cover for For Swingin&#39; Livers Only" style="max-width:120px; height:auto;" />
       </td>
@@ -117,7 +92,32 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>85</td>
+      <td>
+          <img src="https://i.discogs.com/oqhMlgqqSj-ismfF__zUXGtgh61d7ULyGtvMG--pFLc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDA4/NjEtMTM0NjE1NzIw/NS04NTA4LmpwZWc.jpeg" alt="Cover for Woody Allen Part l" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1964</td>
+      <td>Woody Allen</td>
+      <td>Woody Allen Part l</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/humour" | relative_url }}">humour</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stand-up" | relative_url }}">stand-up</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 51</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 59</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
       <td>
           <img src="https://i.discogs.com/2tzMJkv3Ao5fjlRv-8SHhyZ6tqHs7mzICb7_HyJcYC8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTgw/MzMtMTM0NjE3ODk3/MC0zNDc3LmpwZWc.jpeg" alt="Cover for Woody Allen Part ll" style="max-width:120px; height:auto;" />
       </td>
@@ -142,7 +142,7 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/lUUMXT4mZGNHI9UUGi61gbI0s9kbsTM7592QEbZhhNQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MjA1/MjYtMTQ3MDI0ODY0/NS0zOTQyLmpwZWc.jpeg" alt="Cover for EMI Comedy Classics" style="max-width:120px; height:auto;" />
       </td>
@@ -167,7 +167,7 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/vA3VjinOpIgPD7iO-cIRKHM_hTRS2A9hmlyhGxk6Hrs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Mjcy/NTItMTM4MTc3NTkw/NS04OTYyLmpwZWc.jpeg" alt="Cover for Another Monty Python Record" style="max-width:120px; height:auto;" />
       </td>
@@ -195,7 +195,7 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/UDGA34BdtpgqhlJOdfio0MHnaBbLxGkXI6gl-2S7KqY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MDc2/Ny0xMzUyNzgzNzQx/LTI2OTIuanBlZw.jpeg" alt="Cover for Rhino Hi-Five: Cheech &amp; Chong" style="max-width:120px; height:auto;" />
       </td>
@@ -220,7 +220,7 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/vKpAvGrxsUo7ctqspNlwCcYrQzEDGgm2ki0EoQUCu-g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTI5/NzQtMTU5MDU2MTUw/MS05MTU5LmpwZWc.jpeg" alt="Cover for Tarbox- You Rok !" style="max-width:120px; height:auto;" />
       </td>
@@ -239,7 +239,7 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/hJqP1ijLbH4yKQTAandXvTH6mC5Qh_xo3UzXvsvHraw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDI0/OTMtMTI1OTUxNzA5/OS5qcGVn.jpeg" alt="Cover for Matching Tie And Handkerchief" style="max-width:120px; height:auto;" />
       </td>
@@ -266,7 +266,7 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
       </td>
       <td>1976</td>
@@ -284,7 +284,7 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/hvda_4xj8x4KPy2kLbFcpsg24K7G8jQu_F_P3qX5qLU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzYy/NDctMTI5ODgwOTI4/OC5qcGVn.jpeg" alt="Cover for The Mopott Show" style="max-width:120px; height:auto;" />
       </td>
@@ -303,7 +303,7 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/RH_js2HqIp3cdipZ3aLAVrPknMyfXvGZy_i3tmacE_8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MzYx/Ni0xMzY0NjYwNjQ1/LTk5MTguanBlZw.jpeg" alt="Cover for Great White North" style="max-width:120px; height:auto;" />
       </td>
@@ -328,7 +328,7 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>100</td>
       <td>
           <img src="https://i.discogs.com/B_FgfixZ1qQMLzBhIg0dYE920L8CqEuM0n2olA4opxo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTgy/NzgzLTE2NzE2NDQy/NTctNDE1Mi5qcGVn.jpeg" alt="Cover for A Bicyclette&#x2F;Disques Pathe" style="max-width:120px; height:auto;" />
       </td>
@@ -348,26 +348,7 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
     </tr>
     <tr>
-      <td>19</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c7ef07ade1196d921bf067b078d01d1.png" alt="Cover for The Man From Utopia" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1983</td>
-      <td>Frank Zappa</td>
-      <td>The Man From Utopia</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 79</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>36</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/iqZ3Q6WBkroDvAGoehWZyir4nAVLQtPrA3_ObSjQHQY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTMy/ODItMTMyOTg5Mjc5/NS5qcGVn.jpeg" alt="Cover for Rhino Hi-Five: Steve Martin" style="max-width:120px; height:auto;" />
       </td>
@@ -392,7 +373,26 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>82</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c7ef07ade1196d921bf067b078d01d1.png" alt="Cover for The Man From Utopia" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1983</td>
+      <td>Frank Zappa</td>
+      <td>The Man From Utopia</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 79</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/y1ia22G0OG285s8-H2IVAN_2mjWC7DpQoWl-47kb4SQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNDMy/NS0xMzkyNjQ1OTM3/LTUwMjEuanBlZw.jpeg" alt="Cover for Pierre Perret" style="max-width:120px; height:auto;" />
       </td>
@@ -410,7 +410,7 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/qIK3YqsJqHeGTIzptS69ZYbpIuEQynKPxPzWD18ZvbY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzE1/NzktMTQyNTYyMDU4/Ny02MTc2LmpwZWc.jpeg" alt="Cover for UHF and Other Stuff" style="max-width:120px; height:auto;" />
       </td>
@@ -432,7 +432,7 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/MbWVsSLnwj-G-tffY6M_XR_Lns6zQ8fsnky6iCInRMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODMy/NzMtMTQzOTAzOTEz/MS04MDExLmpwZWc.jpeg" alt="Cover for My Son, The Nut" style="max-width:120px; height:auto;" />
       </td>
@@ -452,7 +452,7 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>93</td>
       <td>
       </td>
       <td>1987</td>
@@ -470,7 +470,25 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>20</td>
+      <td>
+      </td>
+      <td>1988</td>
+      <td>GG Allin</td>
+      <td>Freaks, Faggots, Drunks &amp; Junkies</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 12</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 93</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
       <td>
       </td>
       <td>1988</td>
@@ -492,30 +510,12 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 57</li>
+            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>81</td>
-      <td>
-      </td>
-      <td>1988</td>
-      <td>GG Allin</td>
-      <td>Freaks, Faggots, Drunks &amp; Junkies</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 8</li>
-            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 87</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>55</td>
+      <td>46</td>
       <td>
       </td>
       <td>1989-12-18</td>
@@ -533,7 +533,7 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
       </td>
       <td>1990-07-24</td>
@@ -558,7 +558,7 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/6jCflm-TKERsVE4IOjuQjeWCIFIY-FoKtDM_uP1PBR0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MzAw/Ny0xMTU2NDQwMDgy/LmpwZWc.jpeg" alt="Cover for The Mexican" style="max-width:120px; height:auto;" />
       </td>
@@ -584,7 +584,7 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/831ea4b3278e07a682077244e673c997.png" alt="Cover for Plague Mass" style="max-width:120px; height:auto;" />
       </td>
@@ -610,12 +610,12 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 83</li>
+            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 16</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>45</td>
       <td>
       </td>
       <td>1992</td>
@@ -633,7 +633,7 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
       </td>
       <td>1992-04-14</td>
@@ -646,14 +646,14 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 17</li>
             <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 33</li>
             <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 34</li>
+            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/06e1473689de466f94e059f989f95878.png" alt="Cover for Bananaphone" style="max-width:120px; height:auto;" />
       </td>
@@ -674,7 +674,7 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/gQRAhnr65vQBXKg_5E9uq8bt5s6N-PA86Sc4mi3NECw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMzI3/OTgtMTQ4ODk2OTMz/OC00OTM2LmpwZWc.jpeg" alt="Cover for Hated in the Nation" style="max-width:120px; height:auto;" />
       </td>
@@ -700,13 +700,13 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 53</li>
-            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 92</li>
+            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 7</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>91</td>
       <td>
       </td>
       <td>1995</td>
@@ -726,7 +726,7 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/053e097dce4f45f9a611625427ef5d25.png" alt="Cover for Dinger" style="max-width:120px; height:auto;" />
       </td>
@@ -745,7 +745,7 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>63</td>
       <td>
       </td>
       <td>1996-09-23</td>
@@ -769,12 +769,12 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 56</li>
+            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/44276cfd072eba2c3132cadd58bae741.png" alt="Cover for freaks, faggots, drunks and junkies" style="max-width:120px; height:auto;" />
       </td>
@@ -787,13 +787,13 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 48</li>
-            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 91</li>
+            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 8</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>41</td>
       <td>
       </td>
       <td>1997</td>
@@ -810,7 +810,7 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/hXvTWtCdYOQayz_6v_SBAAAYtC0awy3zSD2a-tR3VjI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MDM2/MjgtMTQ3MTE1MTU2/MC0zNTk5LmpwZWc.jpeg" alt="Cover for Comedy You Can Dance To" style="max-width:120px; height:auto;" />
       </td>
@@ -831,15 +831,15 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/western-new-york" | relative_url }}">western new york</a> # 15</li>
             <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 16</li>
             <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 34</li>
             <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 42</li>
-            <li> <a href="{{ "/tags/western-new-york" | relative_url }}">western new york</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
       </td>
       <td>1998-02</td>
@@ -873,18 +873,18 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a> # 1</li>
+            <li> <a href="{{ "/tags/rechtsrock" | relative_url }}">rechtsrock</a> # 3</li>
+            <li> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a> # 4</li>
             <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 8</li>
             <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 10</li>
             <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 19</li>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 30</li>
-            <li> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a> # 97</li>
-            <li> <a href="{{ "/tags/rechtsrock" | relative_url }}">rechtsrock</a> # 98</li>
-            <li> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a> # 100</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/pyZNa2DF2E7nXLM0S_pqeSxD7-YWRchoyk_IgF4uDwA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1Mjg0/MzItMTM2NzQ0MDgz/NS0xNzE2LmpwZWc.jpeg" alt="Cover for Les Wriggles Partent En Live" style="max-width:120px; height:auto;" />
       </td>
@@ -903,28 +903,7 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
     </tr>
     <tr>
-      <td>3</td>
-      <td>
-      </td>
-      <td>2000</td>
-      <td>Retard-O-Bot</td>
-      <td>8-Track</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/humour" | relative_url }}">humour</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 31</li>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 86</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>24</td>
+      <td>77</td>
       <td>
       </td>
       <td>2000</td>
@@ -942,7 +921,28 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>98</td>
+      <td>
+      </td>
+      <td>2000</td>
+      <td>Retard-O-Bot</td>
+      <td>8-Track</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/humour" | relative_url }}">humour</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 70</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 86</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/uDmulRf-Fr8WjQAhHDcWaJOVYQdZ4zCauQshyLYuyTE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NzM1/MTktMTM0NzY1MTA3/OC00NzM2LmpwZWc.jpeg" alt="Cover for Take a Joke America" style="max-width:120px; height:auto;" />
       </td>
@@ -969,7 +969,7 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/w2RXKQS3k4mVGWv6CcO7woiYOEI7A_FmLgQmNOa-rbM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDUy/MDktMTY2MDUxNDYw/MC0yNzc4LmpwZWc.jpeg" alt="Cover for Something to Take the Edge Off" style="max-width:120px; height:auto;" />
       </td>
@@ -995,7 +995,7 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/EM9k7XCMNjy1NWMQLzeE5EZ3UuL-ESC-49jbGwTcJM0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MDY5/My0xNDg0MTYwNDYw/LTI1NzkuanBlZw.jpeg" alt="Cover for Anthology" style="max-width:120px; height:auto;" />
       </td>
@@ -1061,13 +1061,13 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 19</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 38</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/ttSygjSr43Ax0CLENsBPpYJGWspMIJFGyNEA_bCt37Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDIy/OTU2LTE1NzQyMzA5/OTgtNjU2MS5qcGVn.jpeg" alt="Cover for pope john paul the third" style="max-width:120px; height:auto;" />
       </td>
@@ -1090,21 +1090,23 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/parody" | relative_url }}">parody</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ween" | relative_url }}">ween</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/ween" | relative_url }}">ween</a> # 11</li>
             <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 15</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 33</li>
             <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 47</li>
             <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 52</li>
             <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 62</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 67</li>
             <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>71</td>
       <td>
       </td>
       <td>2001-05-11</td>
@@ -1123,7 +1125,7 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
       </td>
       <td>2001-10-30</td>
@@ -1143,7 +1145,7 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>89</td>
       <td>
       </td>
       <td>2002-01-25</td>
@@ -1162,7 +1164,7 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/-FTu-KrRPZ2A9fDU6mGVz7skRZpfXrl55brzrz9--vQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0ODI0/MC0xNjAxMzYwNjM2/LTgzMDQuanBlZw.jpeg" alt="Cover for LIVE" style="max-width:120px; height:auto;" />
       </td>
@@ -1180,7 +1182,7 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/p8BoYZhLoPnK7T5vDwvJcdfH4Yo_nR9aIC_ACWNQfSs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5OTY0/OTItMTM1MTc4Mzcw/NS04MDQ0LmpwZWc.jpeg" alt="Cover for Droit de véto" style="max-width:120px; height:auto;" />
       </td>
@@ -1205,7 +1207,7 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/3hvwrysllhUgv2womwr3FXuWnuik2mwYHjWCzbnsytY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTA0/MzUtMTMzNzI3ODI2/OS0xNTYwLmpwZWc.jpeg" alt="Cover for Les 2 Minutes Du Peuple" style="max-width:120px; height:auto;" />
       </td>
@@ -1223,24 +1225,7 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
     </tr>
     <tr>
-      <td>73</td>
-      <td>
-      </td>
-      <td>2005</td>
-      <td>Łąki Łan</td>
-      <td>Łąki Łan</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/humour" | relative_url }}">humour</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/GwnKjvYA1dFyDjtol_tz8gZs1IONyxL3SwyN-fE6TSc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MTE4/OS0xMjU5Mzg3ODMx/LmpwZWc.jpeg" alt="Cover for Geek in the Pink" style="max-width:120px; height:auto;" />
       </td>
@@ -1258,25 +1243,24 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>28</td>
       <td>
-          <img src="https://i.discogs.com/0c9oJE7BjZfcyxk2c46cIumL0R7hwED1lGKTNdNf0kQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MDgw/ODAtMTM3OTEwMzYy/OS04OTA4LmpwZWc.jpeg" alt="Cover for Bah, Humduck! A Looney Tunes Christmas" style="max-width:120px; height:auto;" />
       </td>
-      <td>2006</td>
-      <td>Gordon Goodwin&#39;s Big Phat Band</td>
-      <td>Bah, Humduck! A Looney Tunes Christmas</td>
+      <td>2005</td>
+      <td>Łąki Łan</td>
+      <td>Łąki Łan</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/humour" | relative_url }}">humour</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/uDmulRf-Fr8WjQAhHDcWaJOVYQdZ4zCauQshyLYuyTE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NzM1/MTktMTM0NzY1MTA3/OC00NzM2LmpwZWc.jpeg" alt="Cover for This Is Carlos Mencia" style="max-width:120px; height:auto;" />
       </td>
@@ -1302,7 +1286,25 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>90</td>
+      <td>
+          <img src="https://i.discogs.com/0c9oJE7BjZfcyxk2c46cIumL0R7hwED1lGKTNdNf0kQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MDgw/ODAtMTM3OTEwMzYy/OS04OTA4LmpwZWc.jpeg" alt="Cover for Bah, Humduck! A Looney Tunes Christmas" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Gordon Goodwin&#39;s Big Phat Band</td>
+      <td>Bah, Humduck! A Looney Tunes Christmas</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 54</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
       <td>
       </td>
       <td>2006</td>
@@ -1319,7 +1321,7 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b55160251a7920ead0b946c793c8e819.png" alt="Cover for No Tomorrow" style="max-width:120px; height:auto;" />
       </td>
@@ -1341,12 +1343,12 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       <td>
         <ul>
             <li> <a href="{{ "/tags/electric-guitar" | relative_url }}">electric guitar</a> # 1</li>
-            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 95</li>
+            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 6</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/af6a14b3af6b0b37bf36e0afc1e6e2a8.png" alt="Cover for Twelve Stops And Home" style="max-width:120px; height:auto;" />
       </td>
@@ -1367,7 +1369,7 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/JNMqB8EwsNmR9zyceUQLZS8kO73u3buG-Yy_1qnqbGM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDc5/ODExLTE0OTgzMDk1/MzktNDI5Mi5qcGVn.jpeg" alt="Cover for The Whitest Kids U&#39; Know" style="max-width:120px; height:auto;" />
       </td>
@@ -1394,7 +1396,7 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
       </td>
       <td>2006-09-26</td>
@@ -1419,7 +1421,7 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/5cO5bJNzBmZ4gGsHrY3PboMU6Zvwvls3p7jJyi9yT70/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODA5/MDgtMTI1NjQ4OTU1/NS5qcGVn.jpeg" alt="Cover for Sick &amp; Tired (Explicit)" style="max-width:120px; height:auto;" />
       </td>
@@ -1446,32 +1448,7 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
     </tr>
     <tr>
-      <td>78</td>
-      <td>
-      </td>
-      <td>2007-02-19</td>
-      <td>Les Fatals Picards</td>
-      <td>Pamplemousse Mécanique</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/humour" | relative_url }}">humour</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 5</li>
-            <li> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a> # 21</li>
-            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 98</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/IdhYt4UG9ZXB3-WV6WrxMVMsA75_RjstAQboe4vT5EY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTY3/OTItMTM3MjU4MzYz/Mi0xNjQxLmpwZWc.jpeg" alt="Cover for Pamplemousse Mecanique" style="max-width:120px; height:auto;" />
       </td>
@@ -1497,7 +1474,32 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>23</td>
+      <td>
+      </td>
+      <td>2007-02-19</td>
+      <td>Les Fatals Picards</td>
+      <td>Pamplemousse Mécanique</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/humour" | relative_url }}">humour</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 5</li>
+            <li> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a> # 21</li>
+            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/9xwIELTTj0kGQJnvZNKROiuj9rvCgcgLpZGTowUwS_I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MTY0/NjgtMTQ4Njc3NDMz/NS05NzgzLmpwZWc.jpeg" alt="Cover for Spilled Milk" style="max-width:120px; height:auto;" />
       </td>
@@ -1522,7 +1524,7 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>73</td>
       <td>
       </td>
       <td>2007-10-19</td>
@@ -1592,39 +1594,14 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 10</li>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 12</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 46</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 89</li>
+            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
-      <td>
-      </td>
-      <td>2007-11-13</td>
-      <td>Michael Showalter</td>
-      <td>Sandwiches &amp; Cats</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/humour" | relative_url }}">humour</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stand-up" | relative_url }}">stand-up</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 14</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 22</li>
-            <li> <a href="{{ "/tags/stand-up" | relative_url }}">stand-up</a> # 56</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/D9hRBt9dRjnufOEQnNDQlVN_T6-HJ5BaqXKcOD1Foaw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MDk1/NjAtMTM0MTI3NDY4/OS05NTcwLmpwZWc.jpeg" alt="Cover for Prime Cut" style="max-width:120px; height:auto;" />
       </td>
@@ -1654,6 +1631,31 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
     <tr>
       <td>35</td>
       <td>
+      </td>
+      <td>2007-11-13</td>
+      <td>Michael Showalter</td>
+      <td>Sandwiches &amp; Cats</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/humour" | relative_url }}">humour</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stand-up" | relative_url }}">stand-up</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 14</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 22</li>
+            <li> <a href="{{ "/tags/stand-up" | relative_url }}">stand-up</a> # 56</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
           <img src="https://i.discogs.com/as84KaxMegcqhCeBfFFpdGYBfzq3BhYFa4HgF15gLjk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTAz/MzUwLTE1MjgzNjg4/NDYtNjc2Ni5qcGVn.jpeg" alt="Cover for Austin-Tacious" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
@@ -1677,7 +1679,7 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/tPEcypj7mHvV9Musu8YAUyXJaf64Mk4tG58H9U2nlms/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDQw/NjctMTYyNzc0NDgz/OS04OTM0LmpwZWc.jpeg" alt="Cover for Vacances à vos frais" style="max-width:120px; height:auto;" />
       </td>
@@ -1696,7 +1698,7 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>83</td>
       <td>
       </td>
       <td>2008-03-17</td>
@@ -1720,7 +1722,7 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/XRDpU3fc8Z6z1STMEugLSn-PGSMzwmzKxoqmhyyCCSM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDk4/ODI4LTE1NzU3ODM3/NzItMTcyNi5qcGVn.jpeg" alt="Cover for Don&#39;t Come Home for Christmas" style="max-width:120px; height:auto;" />
       </td>
@@ -1745,18 +1747,24 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
-          <img src="https://i.discogs.com/O9ccdQ6Xm2JiswEOo-8b4juOJ9BATNxQ9h82yNDLIEM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzEx/MjYtMTMyMTUwNzI3/MS5qcGVn.jpeg" alt="Cover for Comfortably Dumb" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for Monty Python&#39;s Spamalot" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
-      <td>Bert Kreischer</td>
-      <td>Comfortably Dumb</td>
+      <td>Various Artists</td>
+      <td>Monty Python&#39;s Spamalot</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/broadway" | relative_url }}">broadway</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/humour" | relative_url }}">humour</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/musical" | relative_url }}">musical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/musical-theater" | relative_url }}">musical theater</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/showtune" | relative_url }}">showtune</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stand-up" | relative_url }}">stand-up</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a></li>
@@ -1764,39 +1772,18 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 43</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 52</li>
+            <li> <a href="{{ "/tags/showtune" | relative_url }}">showtune</a> # 1</li>
+            <li> <a href="{{ "/tags/musical-theater" | relative_url }}">musical theater</a> # 6</li>
+            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 12</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 15</li>
+            <li> <a href="{{ "/tags/broadway" | relative_url }}">broadway</a> # 40</li>
+            <li> <a href="{{ "/tags/stand-up" | relative_url }}">stand-up</a> # 45</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>62</td>
-      <td>
-          <img src="https://i.discogs.com/b6pOBIi7HAVZbvNLJrx3zMWCWgdpImKHSAMXGCm97QU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzM5/NDgtMTI3NzY1ODI2/MC5qcGVn.jpeg" alt="Cover for Live (Explicit)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2009</td>
-      <td>Katt Williams</td>
-      <td>Live (Explicit)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/humour" | relative_url }}">humour</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stand-up" | relative_url }}">stand-up</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 17</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 25</li>
-            <li> <a href="{{ "/tags/stand-up" | relative_url }}">stand-up</a> # 61</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>71</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/deXVrQ4wRHPQI92vo2eeMYbLHLcN-Um_PayDPn1RQus/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDY4/NDgtMTI1MTkxMzg5/Ny5qcGVn.jpeg" alt="Cover for Life Since Then" style="max-width:120px; height:auto;" />
       </td>
@@ -1823,24 +1810,18 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>39</td>
       <td>
-          <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for Monty Python&#39;s Spamalot" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/b6pOBIi7HAVZbvNLJrx3zMWCWgdpImKHSAMXGCm97QU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzM5/NDgtMTI3NzY1ODI2/MC5qcGVn.jpeg" alt="Cover for Live (Explicit)" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
-      <td>Various Artists</td>
-      <td>Monty Python&#39;s Spamalot</td>
+      <td>Katt Williams</td>
+      <td>Live (Explicit)</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/broadway" | relative_url }}">broadway</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/humour" | relative_url }}">humour</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/musical" | relative_url }}">musical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/musical-theater" | relative_url }}">musical theater</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/showtune" | relative_url }}">showtune</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stand-up" | relative_url }}">stand-up</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a></li>
@@ -1848,18 +1829,39 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 12</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 15</li>
-            <li> <a href="{{ "/tags/stand-up" | relative_url }}">stand-up</a> # 45</li>
-            <li> <a href="{{ "/tags/broadway" | relative_url }}">broadway</a> # 61</li>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 76</li>
-            <li> <a href="{{ "/tags/musical-theater" | relative_url }}">musical theater</a> # 95</li>
-            <li> <a href="{{ "/tags/showtune" | relative_url }}">showtune</a> # 100</li>
+            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 17</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 25</li>
+            <li> <a href="{{ "/tags/stand-up" | relative_url }}">stand-up</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>75</td>
+      <td>
+          <img src="https://i.discogs.com/O9ccdQ6Xm2JiswEOo-8b4juOJ9BATNxQ9h82yNDLIEM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzEx/MjYtMTMyMTUwNzI3/MS5qcGVn.jpeg" alt="Cover for Comfortably Dumb" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Bert Kreischer</td>
+      <td>Comfortably Dumb</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/humour" | relative_url }}">humour</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stand-up" | relative_url }}">stand-up</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 43</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 52</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/5uNGldK6ZUv2N8iF2FEBFJ3N354lBeIGxWXbyALYczs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNDA5/MTYtMTMyMTkyNzI0/NC5qcGVn.jpeg" alt="Cover for I&#39;m a Grown Little Man" style="max-width:120px; height:auto;" />
       </td>
@@ -1885,7 +1887,7 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/QKoiwy7e772_70JyJOiFvRlwbqh1zuFkUTV_shkqg6Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5OTEw/MzgtMTY4MzI5NzA5/Ni01OTUxLmpwZWc.jpeg" alt="Cover for Le sens de la gravité" style="max-width:120px; height:auto;" />
       </td>
@@ -1910,7 +1912,7 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/AHTopeVUbqsb26qjqNuzJI__zbtPv9AxrG_okVk2K9I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTIw/MjgtMTIzODU0Njk5/NS5qcGVn.jpeg" alt="Cover for A Wee Bit O&#39;Revolution" style="max-width:120px; height:auto;" />
       </td>
@@ -1935,7 +1937,7 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>99</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/77bf7a429fe44b60966131247483dce1.png" alt="Cover for Cafe Brumba" style="max-width:120px; height:auto;" />
       </td>
@@ -1951,12 +1953,12 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 1</li>
+            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
       </td>
       <td>2010-11-11</td>
@@ -1988,17 +1990,17 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 6</li>
             <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 8</li>
+            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 10</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 11</li>
             <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 32</li>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 42</li>
-            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 91</li>
-            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 93</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e46786f4df10f6b91bd7bc2694ecf2b2.png" alt="Cover for The Grime and the Glow" style="max-width:120px; height:auto;" />
       </td>
@@ -2022,17 +2024,17 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 4</li>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 17</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 12</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 25</li>
             <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 35</li>
             <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 78</li>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 89</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 84</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>61</td>
       <td>
       </td>
       <td>2011-03-11</td>
@@ -2056,25 +2058,7 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
     </tr>
     <tr>
-      <td>9</td>
-      <td>
-          <img src="https://i.discogs.com/Hf6tzp7nKwygXp4AdXCKuEjGywTTyBVI1K3YMXygkEM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MDA1/NDItMTQ4NjUxMjc1/NC04MDgxLmpwZWc.jpeg" alt="Cover for Donjon de Naheulbeuk - Machins de Taverne" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2012-04-11</td>
-      <td>Pen of Chaos</td>
-      <td>Donjon de Naheulbeuk - Machins de Taverne</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/humour" | relative_url }}">humour</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>68</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/Hf6tzp7nKwygXp4AdXCKuEjGywTTyBVI1K3YMXygkEM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MDA1/NDItMTQ4NjUxMjc1/NC04MDgxLmpwZWc.jpeg" alt="Cover for Le Donjon de Naheulbeuk Saison 1" style="max-width:120px; height:auto;" />
       </td>
@@ -2092,7 +2076,25 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>92</td>
+      <td>
+          <img src="https://i.discogs.com/Hf6tzp7nKwygXp4AdXCKuEjGywTTyBVI1K3YMXygkEM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MDA1/NDItMTQ4NjUxMjc1/NC04MDgxLmpwZWc.jpeg" alt="Cover for Donjon de Naheulbeuk - Machins de Taverne" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-04-11</td>
+      <td>Pen of Chaos</td>
+      <td>Donjon de Naheulbeuk - Machins de Taverne</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/humour" | relative_url }}">humour</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/w73rml1rTzqZLKwAZQQXsmcLRyNeFTjlGlwatNe-GP0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzU4/MjQtMTY1MDc0NjIy/NC03MTc5LmpwZWc.jpeg" alt="Cover for Devil Music" style="max-width:120px; height:auto;" />
       </td>
@@ -2125,17 +2127,17 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a> # 2</li>
+            <li> <a href="{{ "/tags/rechtsrock" | relative_url }}">rechtsrock</a> # 4</li>
+            <li> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a> # 5</li>
             <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 13</li>
             <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 20</li>
             <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 25</li>
-            <li> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a> # 96</li>
-            <li> <a href="{{ "/tags/rechtsrock" | relative_url }}">rechtsrock</a> # 97</li>
-            <li> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0d069456a702443792141eb67b0fe39a.png" alt="Cover for Prayer for the Unborn" style="max-width:120px; height:auto;" />
       </td>
@@ -2209,19 +2211,19 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 16</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 16</li>
+            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 32</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 49</li>
             <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 52</li>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 52</li>
             <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 60</li>
             <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 64</li>
-            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 69</li>
+            <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 85</li>
             <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/CFuMNCFPrkYWM-QRrsXHjXRSYPFnStOyT8zNIBl7bto/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDM3/NjI5LTE1NjY1ODA5/NTctNTQ5NC5qcGVn.jpeg" alt="Cover for Carrion Flowers - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -2295,29 +2297,29 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
             <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 8</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 8</li>
             <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 10</li>
+            <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 10</li>
+            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 11</li>
             <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 22</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 23</li>
             <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 25</li>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 32</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 35</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 31</li>
             <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 37</li>
-            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 41</li>
             <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 44</li>
             <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 47</li>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 54</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 55</li>
             <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 58</li>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 61</li>
             <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 61</li>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 62</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 63</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 64</li>
             <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 70</li>
             <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 71</li>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 78</li>
             <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 89</li>
-            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 90</li>
-            <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/o4D5BNVBHCj90wRgrrXPb44o5V4CLjmt-eA-EOUC5qQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDc5/MDItMTQ3ODE5MTg5/NC0zNTgwLmpwZWc.jpeg" alt="Cover for Born in Blood &#x2F; Spiders in Her Hair" style="max-width:120px; height:auto;" />
       </td>
@@ -2388,17 +2390,17 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 2</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 23</li>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 39</li>
-            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 53</li>
+            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 48</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 62</li>
             <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 76</li>
             <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 91</li>
+            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/Ww548zgkjCcFTnAXMkvMoHjqypIeafu5cB59N5UTs9M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTA5/MzgtMTI3Mjc0MDk1/OS5qcGVn.jpeg" alt="Cover for Another Monty Python CD" style="max-width:120px; height:auto;" />
       </td>
@@ -2427,7 +2429,7 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/1OJm46m5uNbNoQjiaiyIlezr25JC-kAxIuJxUV4l6rg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTEy/MTEwLTE1MDY0MDA3/MDUtNjQ3OS5wbmc.jpeg" alt="Cover for DSP" style="max-width:120px; height:auto;" />
       </td>
@@ -2449,7 +2451,7 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
       </td>
       <td>2014-12-01</td>
@@ -2477,20 +2479,20 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/rechtsrock" | relative_url }}">rechtsrock</a> # 1</li>
             <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 2</li>
             <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 3</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 14</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 28</li>
             <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 35</li>
             <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 42</li>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 47</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 54</li>
             <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 60</li>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 87</li>
-            <li> <a href="{{ "/tags/rechtsrock" | relative_url }}">rechtsrock</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d595a456dfa24a808dc7efb1e21784d1.png" alt="Cover for Apokalypsis" style="max-width:120px; height:auto;" />
       </td>
@@ -2513,17 +2515,17 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 5</li>
             <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 15</li>
             <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 18</li>
             <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 41</li>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 54</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 47</li>
             <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 89</li>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/O5hvOmcmB1hYNWTXxo2cPvET-s7kZlEy7ZToTMgvJ_M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzcx/ODk5LTE1OTYxMzI1/MTAtODY4OC5qcGVn.jpeg" alt="Cover for E.M.C." style="max-width:120px; height:auto;" />
       </td>
@@ -2550,7 +2552,7 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/_hv1VqCGhg4NLmXVkIcc2oXaFAzauIuQ9iwDBXWm7nc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDg3/OTU0LTE2MjMzMjQy/NDctNTg0Ny5qcGVn.jpeg" alt="Cover for The Ballad of Anne Boleyn" style="max-width:120px; height:auto;" />
       </td>
@@ -2603,12 +2605,12 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 55</li>
+            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 46</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/icyRVLpgyorfjg-r86YsQ3vSbl1_zUKXjDZm3-kG0Rk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTE0/MTY1LTE1ODY4Njcx/OTYtODI0Mi5qcGVn.jpeg" alt="Cover for ça m&#39;énerve - pack spécial Virginmega" style="max-width:120px; height:auto;" />
       </td>
@@ -2626,7 +2628,7 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/fmork5iqrE8J5qOvfvojru6-lozl6PArgoU2gHAOPic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDc3/ODUxLTE2Mzc1NzYz/MDMtNDc0Ny5qcGVn.jpeg" alt="Cover for The Bridge Of Khazad-Dum (from &quot;The Lord Of The Rings&quot;)" style="max-width:120px; height:auto;" />
       </td>
@@ -2685,29 +2687,29 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       <td>
         <ul>
             <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 1</li>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 4</li>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 5</li>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 7</li>
             <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 15</li>
             <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 23</li>
             <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 25</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 26</li>
             <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 29</li>
             <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 30</li>
             <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 32</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 34</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 36</li>
             <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 48</li>
             <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 49</li>
             <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 60</li>
             <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 61</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 62</li>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 67</li>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 75</li>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 75</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 76</li>
             <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 90</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 94</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 96</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>95</td>
       <td>
       </td>
       <td></td>
@@ -2729,15 +2731,15 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>67</td>
       <td>
       </td>
       <td></td>
-      <td>ChaseDreams</td>
-      <td>Stink</td>
+      <td>Kaytanhousuja</td>
+      <td>Kaytanhousuja</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/humour" | relative_url }}">humour</a></li>
         </ul>
       </td>
@@ -2747,25 +2749,7 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
     </tr>
     <tr>
-      <td>21</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Tom Lehrer</td>
-      <td>The Very Best Of</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/humour" | relative_url }}">humour</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>27</td>
+      <td>74</td>
       <td>
       </td>
       <td></td>
@@ -2783,15 +2767,33 @@ Humour is a diverse music genre centered on comedic, satirical, or absurdist the
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>80</td>
       <td>
       </td>
       <td></td>
-      <td>Kaytanhousuja</td>
-      <td>Kaytanhousuja</td>
+      <td>Tom Lehrer</td>
+      <td>The Very Best Of</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/humour" | relative_url }}">humour</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>
+      </td>
+      <td></td>
+      <td>ChaseDreams</td>
+      <td>Stink</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/humour" | relative_url }}">humour</a></li>
         </ul>
       </td>

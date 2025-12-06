@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T07:19:18.935Z
+date: 2025-12-06T15:46:01.582Z
 permalink: tags/techno-industrial
 title: techno-industrial
 ---
 
 ## techno-industrial
 
-Last updated: <time datetime="2025-12-04T07:19:18.935Z">Thu Dec 04 2025 09:19:18 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T15:46:01.582Z">Sat Dec 06 2025 17:46:01 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -84,7 +84,7 @@ Techno-industrial fuses the mechanical rhythms and harsh textures of industrial 
       <td>
         <ul>
             <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 38</li>
-            <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 39</li>
+            <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -147,8 +147,8 @@ Techno-industrial fuses the mechanical rhythms and harsh textures of industrial 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 34</li>
-            <li> <a href="{{ "/tags/schranz" | relative_url }}">schranz</a> # 68</li>
+            <li> <a href="{{ "/tags/schranz" | relative_url }}">schranz</a> # 33</li>
+            <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -237,7 +237,7 @@ Techno-industrial fuses the mechanical rhythms and harsh textures of industrial 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 45</li>
+            <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -320,13 +320,13 @@ Techno-industrial fuses the mechanical rhythms and harsh textures of industrial 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/schranz" | relative_url }}">schranz</a> # 2</li>
+            <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 2</li>
+            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 3</li>
             <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 8</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 49</li>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 84</li>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 86</li>
-            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 98</li>
-            <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 99</li>
-            <li> <a href="{{ "/tags/schranz" | relative_url }}">schranz</a> # 99</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 15</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 17</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -350,14 +350,14 @@ Techno-industrial fuses the mechanical rhythms and harsh textures of industrial 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 1</li>
             <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 3</li>
             <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 5</li>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 42</li>
+            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 13</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 22</li>
             <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 58</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 79</li>
-            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 88</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 59</li>
             <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 99</li>
-            <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -381,7 +381,7 @@ Techno-industrial fuses the mechanical rhythms and harsh textures of industrial 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 65</li>
+            <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 36</li>
             <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 84</li>
         </ul>
       </td>
@@ -432,7 +432,7 @@ Techno-industrial fuses the mechanical rhythms and harsh textures of industrial 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 31</li>
+            <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -455,7 +455,7 @@ Techno-industrial fuses the mechanical rhythms and harsh textures of industrial 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 33</li>
+            <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -475,9 +475,9 @@ Techno-industrial fuses the mechanical rhythms and harsh textures of industrial 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-punk" | relative_url }}">noise punk</a> # 51</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 14</li>
+            <li> <a href="{{ "/tags/noise-punk" | relative_url }}">noise punk</a> # 50</li>
             <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 64</li>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -529,7 +529,7 @@ Techno-industrial fuses the mechanical rhythms and harsh textures of industrial 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 75</li>
+            <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 25</li>
             <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 98</li>
         </ul>
       </td>
@@ -551,8 +551,8 @@ Techno-industrial fuses the mechanical rhythms and harsh textures of industrial 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 16</li>
             <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 80</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -620,7 +620,7 @@ Techno-industrial fuses the mechanical rhythms and harsh textures of industrial 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 55</li>
+            <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -801,12 +801,12 @@ Techno-industrial fuses the mechanical rhythms and harsh textures of industrial 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 6</li>
             <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 12</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 28</li>
             <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 36</li>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 53</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 48</li>
             <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 84</li>
-            <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -829,7 +829,7 @@ Techno-industrial fuses the mechanical rhythms and harsh textures of industrial 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 55</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -848,9 +848,9 @@ Techno-industrial fuses the mechanical rhythms and harsh textures of industrial 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-punk" | relative_url }}">noise punk</a> # 42</li>
-            <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 42</li>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 57</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 44</li>
+            <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 58</li>
+            <li> <a href="{{ "/tags/noise-punk" | relative_url }}">noise punk</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -915,7 +915,7 @@ Techno-industrial fuses the mechanical rhythms and harsh textures of industrial 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 10</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1075,7 +1075,7 @@ Techno-industrial fuses the mechanical rhythms and harsh textures of industrial 
       <td>
         <ul>
             <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 15</li>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 79</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1098,7 +1098,7 @@ Techno-industrial fuses the mechanical rhythms and harsh textures of industrial 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-electronic" | relative_url }}">dark electronic</a> # 59</li>
+            <li> <a href="{{ "/tags/dark-electronic" | relative_url }}">dark electronic</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1159,7 +1159,7 @@ Techno-industrial fuses the mechanical rhythms and harsh textures of industrial 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 65</li>
+            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1201,7 +1201,7 @@ Techno-industrial fuses the mechanical rhythms and harsh textures of industrial 
         <ul>
             <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 1</li>
             <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 1</li>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 95</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -1233,14 +1233,14 @@ Techno-industrial fuses the mechanical rhythms and harsh textures of industrial 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 8</li>
-            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 46</li>
-            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 56</li>
+            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 26</li>
+            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 37</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 40</li>
+            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 55</li>
             <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 56</li>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 61</li>
+            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 56</li>
             <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 63</li>
-            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 63</li>
-            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 74</li>
+            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1261,8 +1261,8 @@ Techno-industrial fuses the mechanical rhythms and harsh textures of industrial 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/dark-electronic" | relative_url }}">dark electronic</a> # 12</li>
             <li> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a> # 26</li>
-            <li> <a href="{{ "/tags/dark-electronic" | relative_url }}">dark electronic</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1287,7 +1287,7 @@ Techno-industrial fuses the mechanical rhythms and harsh textures of industrial 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-electronic" | relative_url }}">dark electronic</a> # 75</li>
+            <li> <a href="{{ "/tags/dark-electronic" | relative_url }}">dark electronic</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1304,8 +1304,8 @@ Techno-industrial fuses the mechanical rhythms and harsh textures of industrial 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/dark-electronic" | relative_url }}">dark electronic</a> # 27</li>
             <li> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a> # 52</li>
-            <li> <a href="{{ "/tags/dark-electronic" | relative_url }}">dark electronic</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1344,7 +1344,7 @@ Techno-industrial fuses the mechanical rhythms and harsh textures of industrial 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-techno" | relative_url }}">hardcore techno</a> # 42</li>
+            <li> <a href="{{ "/tags/hardcore-techno" | relative_url }}">hardcore techno</a> # 59</li>
             <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 95</li>
         </ul>
       </td>
@@ -1460,7 +1460,7 @@ Techno-industrial fuses the mechanical rhythms and harsh textures of industrial 
       <td>
         <ul>
             <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 6</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 52</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1484,7 +1484,7 @@ Techno-industrial fuses the mechanical rhythms and harsh textures of industrial 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-electronic" | relative_url }}">dark electronic</a> # 57</li>
+            <li> <a href="{{ "/tags/dark-electronic" | relative_url }}">dark electronic</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1574,7 +1574,7 @@ Techno-industrial fuses the mechanical rhythms and harsh textures of industrial 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 50</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1669,8 +1669,8 @@ Techno-industrial fuses the mechanical rhythms and harsh textures of industrial 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 81</li>
-            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 83</li>
+            <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 19</li>
+            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 84</li>
             <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 92</li>
         </ul>
       </td>
@@ -1690,7 +1690,7 @@ Techno-industrial fuses the mechanical rhythms and harsh textures of industrial 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 45</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1709,8 +1709,8 @@ Techno-industrial fuses the mechanical rhythms and harsh textures of industrial 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 71</li>
-            <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 87</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 30</li>
+            <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1731,7 +1731,7 @@ Techno-industrial fuses the mechanical rhythms and harsh textures of industrial 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/martial" | relative_url }}">martial</a> # 18</li>
+            <li> <a href="{{ "/tags/martial" | relative_url }}">martial</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1836,9 +1836,9 @@ Techno-industrial fuses the mechanical rhythms and harsh textures of industrial 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 10</li>
             <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 12</li>
             <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 46</li>
-            <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 90</li>
             <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 91</li>
         </ul>
       </td>
@@ -1872,10 +1872,10 @@ Techno-industrial fuses the mechanical rhythms and harsh textures of industrial 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tribal-ambient" | relative_url }}">tribal ambient</a> # 18</li>
-            <li> <a href="{{ "/tags/tribal-industrial" | relative_url }}">tribal industrial</a> # 33</li>
-            <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 56</li>
+            <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 44</li>
             <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 62</li>
+            <li> <a href="{{ "/tags/tribal-industrial" | relative_url }}">tribal industrial</a> # 68</li>
+            <li> <a href="{{ "/tags/tribal-ambient" | relative_url }}">tribal ambient</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1947,8 +1947,8 @@ Techno-industrial fuses the mechanical rhythms and harsh textures of industrial 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 20</li>
             <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 23</li>
-            <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 80</li>
             <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 89</li>
         </ul>
       </td>
@@ -1976,8 +1976,8 @@ Techno-industrial fuses the mechanical rhythms and harsh textures of industrial 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 47</li>
             <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 48</li>
-            <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 53</li>
             <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 84</li>
         </ul>
       </td>
@@ -2007,12 +2007,12 @@ Techno-industrial fuses the mechanical rhythms and harsh textures of industrial 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 15</li>
             <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 17</li>
             <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 52</li>
             <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 56</li>
             <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 62</li>
             <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 78</li>
-            <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -2040,8 +2040,8 @@ Techno-industrial fuses the mechanical rhythms and harsh textures of industrial 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darksynth" | relative_url }}">darksynth</a> # 16</li>
             <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 36</li>
+            <li> <a href="{{ "/tags/darksynth" | relative_url }}">darksynth</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -2067,8 +2067,8 @@ Techno-industrial fuses the mechanical rhythms and harsh textures of industrial 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 49</li>
             <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 50</li>
+            <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -2100,9 +2100,9 @@ Techno-industrial fuses the mechanical rhythms and harsh textures of industrial 
             <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 10</li>
             <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 16</li>
             <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 20</li>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 28</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 24</li>
             <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 36</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 77</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -2134,9 +2134,9 @@ Techno-industrial fuses the mechanical rhythms and harsh textures of industrial 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tribal-industrial" | relative_url }}">tribal industrial</a> # 30</li>
-            <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 54</li>
+            <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 46</li>
             <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 63</li>
+            <li> <a href="{{ "/tags/tribal-industrial" | relative_url }}">tribal industrial</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -2158,8 +2158,8 @@ Techno-industrial fuses the mechanical rhythms and harsh textures of industrial 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 11</li>
             <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 84</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -2210,7 +2210,7 @@ Techno-industrial fuses the mechanical rhythms and harsh textures of industrial 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 67</li>
+            <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 34</li>
             <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 77</li>
         </ul>
       </td>
@@ -2269,11 +2269,11 @@ Techno-industrial fuses the mechanical rhythms and harsh textures of industrial 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 13</li>
             <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 16</li>
             <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 52</li>
             <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 58</li>
             <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 75</li>
-            <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -2335,8 +2335,8 @@ Techno-industrial fuses the mechanical rhythms and harsh textures of industrial 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 28</li>
             <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 34</li>
-            <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 72</li>
         </ul>
       </td>
     </tr>

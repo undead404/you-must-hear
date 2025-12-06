@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T07:15:56.756Z
+date: 2025-12-06T14:45:10.607Z
 permalink: tags/rhythmic-noise
 title: rhythmic noise
 ---
 
 ## rhythmic noise
 
-Last updated: <time datetime="2025-12-04T07:15:56.756Z">Thu Dec 04 2025 09:15:56 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T14:45:10.607Z">Sat Dec 06 2025 16:45:10 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
   </thead>
   <tbody>
     <tr>
-      <td>35</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/yV0PKIAHvvnZTsvt_uWf-dkf7CEt8XYxyOQMOEtlF2w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzcy/NDUtMTE5ODUxNTM0/Mi5qcGVn.jpeg" alt="Cover for Industrial Folk Songs" style="max-width:120px; height:auto;" />
       </td>
@@ -52,7 +52,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/30b48592cb604537853d2376a309e531.png" alt="Cover for Generation Star Wars" style="max-width:120px; height:auto;" />
       </td>
@@ -71,13 +71,13 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 88</li>
-            <li> <a href="{{ "/tags/schranz" | relative_url }}">schranz</a> # 95</li>
+            <li> <a href="{{ "/tags/schranz" | relative_url }}">schranz</a> # 6</li>
+            <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 13</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/1KP-ybPPcg1beGbB0RYdJKlIEkdxpcb1y5YvXvoJ26M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxODE2/MS0xNTEwNDE4Mjkw/LTU4NzQuanBlZw.jpeg" alt="Cover for Rage" style="max-width:120px; height:auto;" />
       </td>
@@ -93,12 +93,12 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 71</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 30</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6544038391a14955af0519e4abf354a4.png" alt="Cover for Jóga" style="max-width:120px; height:auto;" />
       </td>
@@ -112,18 +112,18 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 49</li>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 84</li>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 86</li>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 95</li>
-            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 98</li>
-            <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 99</li>
-            <li> <a href="{{ "/tags/schranz" | relative_url }}">schranz</a> # 99</li>
+            <li> <a href="{{ "/tags/schranz" | relative_url }}">schranz</a> # 2</li>
+            <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 2</li>
+            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 3</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 6</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 15</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 17</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/jOLbvIXYtzkJarZ2G0mZD7ksm0JQisi8bhOXxUb1ydM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NzY4/LTEzMzQ5MzcyNjMu/anBlZw.jpeg" alt="Cover for Human Relocation" style="max-width:120px; height:auto;" />
       </td>
@@ -141,7 +141,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4af23019206447dc8fc2be846e65b9b6.png" alt="Cover for Bachelorette" style="max-width:120px; height:auto;" />
       </td>
@@ -160,19 +160,19 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 1</li>
+            <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 1</li>
             <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 5</li>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 42</li>
+            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 13</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 22</li>
             <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 58</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 79</li>
-            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 88</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 59</li>
             <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 99</li>
-            <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 100</li>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d6ac50cb510acd3eb2d955c27875bb91.png" alt="Cover for Kicking A Dead Pig: Mogwai Songs Remixed" style="max-width:120px; height:auto;" />
       </td>
@@ -188,12 +188,29 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 85</li>
+            <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 16</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>32</td>
+      <td>
+      </td>
+      <td>1999</td>
+      <td>Feindflug</td>
+      <td>Feindflug</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/222f48e05bb4f03879085b56b520fae9.png" alt="Cover for Nord" style="max-width:120px; height:auto;" />
       </td>
@@ -211,24 +228,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
     </tr>
     <tr>
-      <td>69</td>
-      <td>
-      </td>
-      <td>1999</td>
-      <td>Feindflug</td>
-      <td>Feindflug</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/08f8843687bd426192f149a3ea7397b7.png" alt="Cover for Further" style="max-width:120px; height:auto;" />
       </td>
@@ -247,13 +247,13 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 41</li>
-            <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 98</li>
+            <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 3</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/4trO_iQF719YFbf52ycKexvTiqsF2etDVOh3Xmr8jDQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMjU2/LTEzOTg0NzU4OTkt/ODA4My5qcGVn.jpeg" alt="Cover for Blast Furnace" style="max-width:120px; height:auto;" />
       </td>
@@ -272,7 +272,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6d66bdde08355274911cad2c43fd01df.png" alt="Cover for Firebloom" style="max-width:120px; height:auto;" />
       </td>
@@ -290,30 +290,29 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>35</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9afad0b14fcc60ba30ae4c0c958a4e29.png" alt="Cover for Renegade" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/IZ5benVIyXePwcsXad9Dzz-KxxXOMEcsu0pVgpRiiyU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3OTAt/MTIzMDYzMDEyMS5q/cGVn.jpeg" alt="Cover for discopathology" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
-      <td>Propergol</td>
-      <td>Renegade</td>
+      <td>Noise&#x2F;Girl</td>
+      <td>discopathology</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 31</li>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 66</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 40</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/LhIP9jKDSVr2iKeNSSI5xrx2hhAK-tFBseFLwrlCPb4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MjEx/ODYtMTMxNDQ2MDY4/OC5qcGVn.jpeg" alt="Cover for Plasma ring EP" style="max-width:120px; height:auto;" />
       </td>
@@ -339,29 +338,30 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>52</td>
       <td>
-          <img src="https://i.discogs.com/IZ5benVIyXePwcsXad9Dzz-KxxXOMEcsu0pVgpRiiyU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3OTAt/MTIzMDYzMDEyMS5q/cGVn.jpeg" alt="Cover for discopathology" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9afad0b14fcc60ba30ae4c0c958a4e29.png" alt="Cover for Renegade" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
-      <td>Noise&#x2F;Girl</td>
-      <td>discopathology</td>
+      <td>Propergol</td>
+      <td>Renegade</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 60</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 61</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 31</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 35</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>53</td>
       <td>
       </td>
       <td>2001</td>
@@ -379,7 +379,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>83</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/157e7789cbaf45c7a9c0cd828746cecd.png" alt="Cover for Onomatopoeic" style="max-width:120px; height:auto;" />
       </td>
@@ -402,7 +402,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>34</td>
       <td>
       </td>
       <td>2001-09-27</td>
@@ -421,24 +421,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
     </tr>
     <tr>
-      <td>38</td>
-      <td>
-      </td>
-      <td>2002</td>
-      <td>xotox</td>
-      <td>Silberfieber</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>47</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e18906fad9314017b5bed69f94c4ff14.png" alt="Cover for Funestus" style="max-width:120px; height:auto;" />
       </td>
@@ -456,7 +439,24 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>63</td>
+      <td>
+      </td>
+      <td>2002</td>
+      <td>xotox</td>
+      <td>Silberfieber</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2a4054fb878d41f8b0612f9335bbcfe9.png" alt="Cover for Intelligence and Sacrifice" style="max-width:120px; height:auto;" />
       </td>
@@ -479,17 +479,17 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 6</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 7</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 28</li>
             <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 36</li>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 53</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 48</li>
             <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 84</li>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 94</li>
-            <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a3200c6bd66042fb1d758928ee749814.png" alt="Cover for Shock Therapy" style="max-width:120px; height:auto;" />
       </td>
@@ -509,7 +509,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>68</td>
       <td>
       </td>
       <td>2003-05</td>
@@ -526,7 +526,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c7df463520241c489701112144c5c01.png" alt="Cover for viva 6581" style="max-width:120px; height:auto;" />
       </td>
@@ -545,7 +545,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
       </td>
       <td>2003-10</td>
@@ -563,7 +563,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/258af596e8bc4a769ffc8c9e46da8708.png" alt="Cover for malleus maleficarum" style="max-width:120px; height:auto;" />
       </td>
@@ -581,13 +581,13 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/dark-electronic" | relative_url }}">dark electronic</a> # 7</li>
             <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 45</li>
-            <li> <a href="{{ "/tags/dark-electronic" | relative_url }}">dark electronic</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fcded82a29774c33b3148bb84d50cb0c.png" alt="Cover for Juche" style="max-width:120px; height:auto;" />
       </td>
@@ -605,7 +605,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c7dc5158af39d185eb729a994487979.png" alt="Cover for Circuitbreaking" style="max-width:120px; height:auto;" />
       </td>
@@ -623,7 +623,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
       </td>
       <td>2004-08-04</td>
@@ -643,7 +643,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/16dee10585484057f5651e635a37b89c.png" alt="Cover for synkro" style="max-width:120px; height:auto;" />
       </td>
@@ -662,7 +662,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0c02b9c92aa44278a379aeb74291d574.png" alt="Cover for Tzolk&#39;in" style="max-width:120px; height:auto;" />
       </td>
@@ -682,7 +682,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>94</td>
       <td>
       </td>
       <td>2005</td>
@@ -702,7 +702,24 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>33</td>
+      <td>
+      </td>
+      <td>2005</td>
+      <td>Ah Cama-Sotz</td>
+      <td>The Way to Heresy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/728a84ea3926498d9a62acbfb128aed9.png" alt="Cover for Can You Hear My Call?" style="max-width:120px; height:auto;" />
       </td>
@@ -720,24 +737,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
     </tr>
     <tr>
-      <td>68</td>
-      <td>
-      </td>
-      <td>2005</td>
-      <td>Ah Cama-Sotz</td>
-      <td>The Way to Heresy</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
       </td>
       <td>2005-04-29</td>
@@ -755,7 +755,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
       </td>
       <td>2005-05-23</td>
@@ -772,7 +772,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/h_dY2hrMFZwvav9s6aCuXYg36ntpKLKrIUpjqCr6tFY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NTEx/OC0xMTUxNjkyNjY1/LmpwZWc.jpeg" alt="Cover for Entropy" style="max-width:120px; height:auto;" />
       </td>
@@ -804,19 +804,19 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 4</li>
+            <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 4</li>
             <li> <a href="{{ "/tags/ritual-industrial" | relative_url }}">ritual industrial</a> # 6</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 8</li>
             <li> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a> # 9</li>
+            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 9</li>
+            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 14</li>
             <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 27</li>
-            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 86</li>
-            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 92</li>
-            <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 97</li>
-            <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 97</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/wNCDq7g04qrs062asS7NywCam3nYq_iHCPDu1CHpN3c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5OTY4/NC0xMzIxMzA2Mjkw/LmpwZWc.jpeg" alt="Cover for [vis·cer·a]" style="max-width:120px; height:auto;" />
       </td>
@@ -834,7 +834,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>93</td>
       <td>
           <img src="https://i.discogs.com/mpc-iHkMxxoIU56dgPI6I6GWSyCzF2xE1z8YfV4ncwg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNTE1/My0xMzUxNjIyMjA4/LTEzNDIuanBlZw.jpeg" alt="Cover for Act!" style="max-width:120px; height:auto;" />
       </td>
@@ -852,7 +852,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>46</td>
       <td>
       </td>
       <td>2006-01-10</td>
@@ -880,7 +880,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/49cf0a41662e74f3cb8f15f964443883.png" alt="Cover for Coma Themes" style="max-width:120px; height:auto;" />
       </td>
@@ -901,7 +901,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/17091a8f37664997a4eb316ddbab977a.png" alt="Cover for Teethgrinder" style="max-width:120px; height:auto;" />
       </td>
@@ -920,7 +920,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
       </td>
       <td>2006-09-25</td>
@@ -937,7 +937,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e7c8dc0e554a4bcc95c304bd3efa008f.png" alt="Cover for This is what we seek" style="max-width:120px; height:auto;" />
       </td>
@@ -957,7 +957,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6944a5dc02e917a2abd6d7eaa8ee1b6a.png" alt="Cover for Violent Delights" style="max-width:120px; height:auto;" />
       </td>
@@ -978,7 +978,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>89</td>
       <td>
           <img src="https://i.discogs.com/fz62BaGHDBr2EEeMV3oiUl0lAdYFome2mfjIhdfwmkk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMzIw/My0xMTczMjM2NDM1/LmpwZWc.jpeg" alt="Cover for Negate The Instigator" style="max-width:120px; height:auto;" />
       </td>
@@ -999,7 +999,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>99</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5cfc9afe78ae65213a65b3470f7f1fc7.png" alt="Cover for Light Extinguished" style="max-width:120px; height:auto;" />
       </td>
@@ -1020,7 +1020,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
       </td>
       <td>2007-06-08</td>
@@ -1037,7 +1037,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/3zZpRd7TN0PX9w3Jd9Um4bJwCBtOIqfzdOMHWPaNn9Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzE3/ODktMTE4NjQ3Mjg5/Ni5qcGVn.jpeg" alt="Cover for Now" style="max-width:120px; height:auto;" />
       </td>
@@ -1051,12 +1051,12 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 84</li>
+            <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 17</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>56</td>
       <td>
       </td>
       <td>2007-10-12</td>
@@ -1073,7 +1073,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6da41140eeda4e63ac967cb0b55e927e.png" alt="Cover for IMPULSGEBER" style="max-width:120px; height:auto;" />
       </td>
@@ -1093,7 +1093,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dc21104d13ce48b30e2ce36f6f617b09.png" alt="Cover for Silent Reflections" style="max-width:120px; height:auto;" />
       </td>
@@ -1110,13 +1110,13 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 3</li>
             <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 35</li>
-            <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
       </td>
       <td>2008-01-21</td>
@@ -1136,27 +1136,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
     </tr>
     <tr>
-      <td>80</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3df4c08cb9964674451f48e068f4b1de.png" alt="Cover for Elekatota - The Other Side of the Tracks" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2008-01-22</td>
-      <td>Totakeke</td>
-      <td>Elekatota - The Other Side of the Tracks</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/-6uTi40yAW_Z39zAS2BQxXSORuZsoSpUNe6CxlkBgVw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTQ0/MTAtMTIwMTIzMDc5/Mi5qcGVn.jpeg" alt="Cover for Elekatota-The Other Side Of The Tracks" style="max-width:120px; height:auto;" />
       </td>
@@ -1176,7 +1156,27 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>21</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3df4c08cb9964674451f48e068f4b1de.png" alt="Cover for Elekatota - The Other Side of the Tracks" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-01-22</td>
+      <td>Totakeke</td>
+      <td>Elekatota - The Other Side of the Tracks</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/Oh5HM7En593LmJGEucVK_zo66CU8B4Qo9vnAQmq0Fig/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTQ4/NDAtMTIwMTc3MTAz/Mi5qcGVn.jpeg" alt="Cover for Turn It On" style="max-width:120px; height:auto;" />
       </td>
@@ -1194,7 +1194,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7a4fa02526dc4755a61e566ca5cab045.png" alt="Cover for The Hatred Of Trees" style="max-width:120px; height:auto;" />
       </td>
@@ -1209,12 +1209,12 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 66</li>
+            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 35</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4e6a3343df58c3e049d7cf257395fdb9.png" alt="Cover for Bone Music" style="max-width:120px; height:auto;" />
       </td>
@@ -1230,13 +1230,13 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 23</li>
             <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 75</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/7cmWmUwD0mMiSKij3di_LLDqV35d0Fsb6vIrGqPd6-w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTU1/NTUtMTIxMjMzNzc3/MS5qcGVn.jpeg" alt="Cover for Morphogenesis" style="max-width:120px; height:auto;" />
       </td>
@@ -1268,19 +1268,19 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 5</li>
+            <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 7</li>
             <li> <a href="{{ "/tags/ritual-industrial" | relative_url }}">ritual industrial</a> # 9</li>
+            <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 9</li>
+            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 14</li>
             <li> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a> # 16</li>
+            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 20</li>
             <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 36</li>
-            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 80</li>
-            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 87</li>
-            <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 92</li>
-            <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 94</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>90</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0374c75cddbf4064994b03b88f1bdb62.png" alt="Cover for Carbon" style="max-width:120px; height:auto;" />
       </td>
@@ -1302,7 +1302,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/msnvQwTp4S9Cizt2k4HLWyt5D0B_v6nkPtkaAhuFuR4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTc1/OTMtMTIyNjk0OTcz/OC5qcGVn.jpeg" alt="Cover for 11:11" style="max-width:120px; height:auto;" />
       </td>
@@ -1321,7 +1321,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>100</td>
       <td>
       </td>
       <td>2008-08-18</td>
@@ -1339,7 +1339,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/03f23cf7ff4b874fcd0aa1a2decab55f.png" alt="Cover for Giants From Far Away" style="max-width:120px; height:auto;" />
       </td>
@@ -1361,7 +1361,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/5YAo2Kmkadt-BFpe6PmvPenplQP7pXLUDZ99ywHhvUI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Nzcw/MjA0LTE3MDc2NzQ5/NjUtMTM4NC5qcGVn.jpeg" alt="Cover for America the Beautiful (disc 2: Stun Gun)" style="max-width:120px; height:auto;" />
       </td>
@@ -1387,7 +1387,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
       </td>
       <td>2009-02-18</td>
@@ -1404,7 +1404,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a4ed745f194741a88165dec0057f3c96.png" alt="Cover for Voodoo Ritual" style="max-width:120px; height:auto;" />
       </td>
@@ -1422,13 +1422,13 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 52</li>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 97</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 4</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b8890d8eaa764427b4b1c43caff7f4fa.png" alt="Cover for Sound Pressure 2.0" style="max-width:120px; height:auto;" />
       </td>
@@ -1448,27 +1448,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
     </tr>
     <tr>
-      <td>54</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/14a10c4fd1ee4f9984d52b1dedb1ed1a.png" alt="Cover for cask strength" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2009-10-30</td>
-      <td>imminent</td>
-      <td>cask strength</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 76</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/X7i_R0WXWsKL9-viFzWHkKDeVdac-visZOcaaNwafas/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTE1/MDYtMTI1ODQxMDkx/NC5qcGVn.jpeg" alt="Cover for The Enemy" style="max-width:120px; height:auto;" />
       </td>
@@ -1488,7 +1468,27 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>47</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/14a10c4fd1ee4f9984d52b1dedb1ed1a.png" alt="Cover for cask strength" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-10-30</td>
+      <td>imminent</td>
+      <td>cask strength</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 25</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9c8c1f0f3b5844dea0c4117bcb59db7c.png" alt="Cover for neon" style="max-width:120px; height:auto;" />
       </td>
@@ -1505,12 +1505,12 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 81</li>
+            <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 20</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>71</td>
       <td>
       </td>
       <td>2010-02-16</td>
@@ -1530,7 +1530,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8bc06b44b2046c80b834607a775ebeae.png" alt="Cover for Compartments EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1550,7 +1550,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ec1d542de7c64fa3a95e167d98797246.png" alt="Cover for Mechanical Serpent" style="max-width:120px; height:auto;" />
       </td>
@@ -1574,13 +1574,13 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       <td>
         <ul>
             <li> <a href="{{ "/tags/darkpsy" | relative_url }}">darkpsy</a> # 2</li>
+            <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 5</li>
             <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 20</li>
-            <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>92</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c5defa99f9d04715bb8a7b1ede9b85bb.png" alt="Cover for do not bend" style="max-width:120px; height:auto;" />
       </td>
@@ -1599,7 +1599,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/SML9sihMFAiWXBpBcpexkYTv4FgxI9wujxB34xHIwh0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1NTU2/NDMtMTQ4MjY3ODky/Mi0xNDExLmpwZWc.jpeg" alt="Cover for Killing Floor" style="max-width:120px; height:auto;" />
       </td>
@@ -1617,7 +1617,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>98</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/420c667d98f24ca7b90e3b281b7bcb31.png" alt="Cover for ISAM" style="max-width:120px; height:auto;" />
       </td>
@@ -1637,7 +1637,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
       </td>
       <td>2011-07-19</td>
@@ -1656,7 +1656,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/YqDmMHhJXnjS4Wv5Mpyq3fzqZ0ie8FsEJC-r9RzuVgA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Mzcw/MTgtMTMxMjE4ODA0/MC5qcGVn.jpeg" alt="Cover for Traits" style="max-width:120px; height:auto;" />
       </td>
@@ -1676,7 +1676,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/meUOqA0YULMWQ_GVEtg2KotkRPZemy3KOZHtFkJPIks/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMDk4/Mi0xMTYzMjMwNzM3/LmpwZWc.jpeg" alt="Cover for Psychogenic Fugue" style="max-width:120px; height:auto;" />
       </td>
@@ -1694,7 +1694,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8117de0559e349acc948dc6c173ef836.png" alt="Cover for Last Glow Before Darkness" style="max-width:120px; height:auto;" />
       </td>
@@ -1715,7 +1715,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e442566076f64ecd82debf168b5b6aa7.png" alt="Cover for Mutation Reloaded" style="max-width:120px; height:auto;" />
       </td>
@@ -1740,7 +1740,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
       </td>
       <td>2013-02-01</td>
@@ -1757,7 +1757,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>84</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4f29868baf79ef1bc2f16f341b821139.png" alt="Cover for Digital Exorcist" style="max-width:120px; height:auto;" />
       </td>
@@ -1778,7 +1778,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/q3822aqKAnNAi4v40ELzCuidVLsimmiojgfoTG3w04s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMjE1/MDEtMTQxMzg4MTA4/Ni02ODQ1LmpwZWc.jpeg" alt="Cover for Headless Horseman 004" style="max-width:120px; height:auto;" />
       </td>
@@ -1798,7 +1798,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/44f23e882e58fc041aecf93872081bda.png" alt="Cover for Deathvox" style="max-width:120px; height:auto;" />
       </td>
@@ -1819,12 +1819,12 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
         <ul>
             <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 5</li>
             <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 19</li>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 79</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 22</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/cIZrhGrfvcC5wcr2Jyb0jIL1qfmFKG4kbmoKOPTJXB0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzIx/NTI0LTE1MDMwNzIw/MDAtNjQyOC5qcGVn.jpeg" alt="Cover for CEASE AND DESIST" style="max-width:120px; height:auto;" />
       </td>
@@ -1844,15 +1844,15 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       <td>
         <ul>
             <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 3</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 9</li>
             <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 10</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 12</li>
             <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 41</li>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 89</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/nnja6t45XDsJv7QgXQTH-zmC8_urykbv2Snl1PoagxY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NjM2/NzUtMTQ1MDQzNDk4/Ni03NjkzLmpwZWc.jpeg" alt="Cover for False Vacuum" style="max-width:120px; height:auto;" />
       </td>
@@ -1870,7 +1870,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/I9Wd48klPIw98nSKIy-K6f5tNj1c5hJAT5NZOjbHVAY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNjY3/NTEtMTQ3NDE5MDk5/NS05MzQyLmpwZWc.jpeg" alt="Cover for INVOK" style="max-width:120px; height:auto;" />
       </td>
@@ -1891,17 +1891,17 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/tribal-industrial" | relative_url }}">tribal industrial</a> # 3</li>
+            <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 8</li>
+            <li> <a href="{{ "/tags/tribal-ambient" | relative_url }}">tribal ambient</a> # 12</li>
             <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 13</li>
             <li> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a> # 21</li>
             <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 47</li>
-            <li> <a href="{{ "/tags/tribal-ambient" | relative_url }}">tribal ambient</a> # 89</li>
-            <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 93</li>
-            <li> <a href="{{ "/tags/tribal-industrial" | relative_url }}">tribal industrial</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/40539e715ebcecabc14f0c8a82db2cc6.png" alt="Cover for In the End I Am a Beast" style="max-width:120px; height:auto;" />
       </td>
@@ -1920,13 +1920,13 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 27</li>
             <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 45</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a2f167c6e15a0b1da41b1b1733647521.png" alt="Cover for Zero Knowledge" style="max-width:120px; height:auto;" />
       </td>
@@ -1948,7 +1948,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/YWW_mOeEVIkIFonEFheQF5lHUrNCCVCZw0lLEPImFBw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MjUy/MzAtMTQ4NTM3OTcz/OS0yNzM5LnBuZw.jpeg" alt="Cover for Ursprung Remixed" style="max-width:120px; height:auto;" />
       </td>
@@ -1972,7 +1972,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/n04hWYyfvpUBuf-LAe6YXGhYjoVb41226nnTzcOMDU8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTM5/NDI3LTE1MDY4NjMy/MjctODI3NC5qcGVn.jpeg" alt="Cover for Kainskult" style="max-width:120px; height:auto;" />
       </td>
@@ -1994,17 +1994,17 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       <td>
         <ul>
             <li> <a href="{{ "/tags/ritual-industrial" | relative_url }}">ritual industrial</a> # 3</li>
+            <li> <a href="{{ "/tags/black-ambient" | relative_url }}">black ambient</a> # 6</li>
             <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 8</li>
             <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 17</li>
             <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 18</li>
             <li> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a> # 24</li>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 70</li>
-            <li> <a href="{{ "/tags/black-ambient" | relative_url }}">black ambient</a> # 95</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 31</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3d478609ebb69d6c80100d596756d3d3.png" alt="Cover for That Beast" style="max-width:120px; height:auto;" />
       </td>
@@ -2025,7 +2025,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/XKt8bv1UM2utS75K526XV-9r0NJkzQqSMc0PYn2dPRg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjY1/NzIwLTE1ODg5MDY3/NDYtNTMyOC5qcGVn.jpeg" alt="Cover for Shadow World" style="max-width:120px; height:auto;" />
       </td>
@@ -2044,12 +2044,12 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       <td>
         <ul>
             <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 19</li>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 69</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/383fed971586947781bd8726da6f8ecc.png" alt="Cover for THIS WORLD IS SICK" style="max-width:120px; height:auto;" />
       </td>
@@ -2074,7 +2074,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/_L8P7TPBBzzl06mbgMkReTfp7MMdE4plYYPUMZXOdaw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTQ2/NDYyLTE1MzczNjg5/NTEtODE1Ny5qcGVn.jpeg" alt="Cover for The Jericho Records" style="max-width:120px; height:auto;" />
       </td>
@@ -2097,17 +2097,17 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/tribal-industrial" | relative_url }}">tribal industrial</a> # 6</li>
+            <li> <a href="{{ "/tags/tribal-ambient" | relative_url }}">tribal ambient</a> # 15</li>
             <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 16</li>
             <li> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a> # 23</li>
             <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 48</li>
             <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 54</li>
-            <li> <a href="{{ "/tags/tribal-ambient" | relative_url }}">tribal ambient</a> # 86</li>
-            <li> <a href="{{ "/tags/tribal-industrial" | relative_url }}">tribal industrial</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/VVndWSJyDJmaJalAVhK9Q-3c0-mFCQPnY6ZMUqtaavw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQ1/NTIyLTE1NDExNTg0/NzktMTU1NC5qcGVn.jpeg" alt="Cover for Criminal remixed" style="max-width:120px; height:auto;" />
       </td>
@@ -2132,7 +2132,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/zlcSNpFDhQeTXbHFDv4hSgKC2iWuBOQ74HJi_G25cV8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTgw/MDQ4LTE1OTM5NjY1/NzktODE5MC5qcGVn.jpeg" alt="Cover for tower block knife crime" style="max-width:120px; height:auto;" />
       </td>
@@ -2150,15 +2150,15 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 32</li>
             <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 43</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 44</li>
             <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 47</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 57</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/UVKxhj2335VYrzaja0PVf0Rz0tdxdBmTOkczLJFkkxg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDY0/MTM4LTE2MTcwMjk1/NDItNjIyNC5qcGVn.jpeg" alt="Cover for We Are Deaf" style="max-width:120px; height:auto;" />
       </td>
@@ -2176,7 +2176,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>80</td>
       <td>
       </td>
       <td></td>
@@ -2190,7 +2190,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 6</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 95</li>
         </ul>
       </td>
     </tr>

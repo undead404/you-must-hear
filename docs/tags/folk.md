@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T07:18:26.039Z
+date: 2025-12-06T15:30:37.630Z
 permalink: tags/folk
 title: folk
 ---
 
 ## folk
 
-Last updated: <time datetime="2025-12-04T07:18:26.039Z">Thu Dec 04 2025 09:18:26 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T15:30:37.630Z">Sat Dec 06 2025 17:30:37 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -46,7 +46,7 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       <td>
         <ul>
             <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 27</li>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 32</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 31</li>
             <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 91</li>
         </ul>
       </td>
@@ -127,13 +127,13 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 8</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 5</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 9</li>
             <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 25</li>
             <li> <a href="{{ "/tags/lullabies" | relative_url }}">lullabies</a> # 44</li>
             <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 78</li>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 87</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 96</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -234,7 +234,7 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       <td>
         <ul>
             <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 14</li>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 59</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -291,7 +291,7 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 23</li>
+            <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -330,7 +330,7 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 46</li>
+            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -349,7 +349,7 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 41</li>
+            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -388,9 +388,9 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 11</li>
             <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 37</li>
             <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 42</li>
-            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -490,7 +490,7 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 75</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 26</li>
             <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 97</li>
         </ul>
       </td>
@@ -527,7 +527,7 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 29</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -565,8 +565,8 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 4</li>
             <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 8</li>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -608,7 +608,7 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
         <ul>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 32</li>
             <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 42</li>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 50</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -627,7 +627,7 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 3</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -646,9 +646,9 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 67</li>
-            <li> <a href="{{ "/tags/gypsy" | relative_url }}">gypsy</a> # 91</li>
-            <li> <a href="{{ "/tags/balkan" | relative_url }}">balkan</a> # 93</li>
+            <li> <a href="{{ "/tags/balkan" | relative_url }}">balkan</a> # 8</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 34</li>
+            <li> <a href="{{ "/tags/gypsy" | relative_url }}">gypsy</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -667,7 +667,7 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 87</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -685,7 +685,7 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 88</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -705,7 +705,7 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 71</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -831,9 +831,9 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/gypsy" | relative_url }}">gypsy</a> # 2</li>
+            <li> <a href="{{ "/tags/balkan" | relative_url }}">balkan</a> # 3</li>
             <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 9</li>
-            <li> <a href="{{ "/tags/balkan" | relative_url }}">balkan</a> # 98</li>
-            <li> <a href="{{ "/tags/gypsy" | relative_url }}">gypsy</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -887,8 +887,8 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 12</li>
             <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 19</li>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -925,7 +925,7 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 40</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -962,7 +962,7 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 52</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 48</li>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 85</li>
         </ul>
       </td>
@@ -983,8 +983,8 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 40</li>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 91</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 60</li>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1096,7 +1096,7 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 45</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1231,9 +1231,9 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
         <ul>
             <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 3</li>
             <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 6</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 12</li>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 20</li>
             <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 88</li>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1273,9 +1273,9 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       <td>
         <ul>
             <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 4</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 35</li>
             <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 35</li>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 36</li>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 66</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1312,7 +1312,7 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 15</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1389,10 +1389,10 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 1</li>
             <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 2</li>
             <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 3</li>
             <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 43</li>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1430,8 +1430,8 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       <td>
         <ul>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 23</li>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 51</li>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 69</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 44</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1452,8 +1452,8 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 29</li>
             <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 46</li>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1508,7 +1508,7 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 17</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1547,7 +1547,7 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a> # 100</li>
+            <li> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -1570,10 +1570,10 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 8</li>
             <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 10</li>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 74</li>
-            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 86</li>
-            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 93</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 15</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1632,8 +1632,8 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
         <ul>
             <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 4</li>
             <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 5</li>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 22</li>
             <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 76</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1672,8 +1672,8 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 10</li>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 13</li>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1714,8 +1714,8 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       <td>
         <ul>
             <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 1</li>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 90</li>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 97</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 4</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1831,8 +1831,8 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
         <ul>
             <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 10</li>
             <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 33</li>
-            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 48</li>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 54</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 46</li>
+            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 53</li>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 56</li>
         </ul>
       </td>
@@ -1897,9 +1897,10 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/chamber-rock" | relative_url }}">chamber rock</a> # 2</li>
             <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 14</li>
             <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 35</li>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 58</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1922,10 +1923,10 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a> # 2</li>
             <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 6</li>
             <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 19</li>
             <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 19</li>
-            <li> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1947,8 +1948,8 @@ Folk music emphasizes acoustic instruments and storytelling lyrics that often re
         <ul>
             <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 4</li>
             <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 8</li>
+            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 27</li>
             <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 34</li>
-            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 72</li>
             <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 93</li>
         </ul>
       </td>

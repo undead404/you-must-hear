@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T07:17:45.956Z
+date: 2025-12-06T15:30:20.451Z
 permalink: tags/blackgaze
 title: blackgaze
 ---
 
 ## blackgaze
 
-Last updated: <time datetime="2025-12-04T07:17:45.956Z">Thu Dec 04 2025 09:17:45 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T15:30:20.451Z">Sat Dec 06 2025 17:30:20 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -69,10 +69,10 @@ Blackgaze merges black metal&#39;s aggressive intensity with shoegaze&#39;s drea
       <td>
         <ul>
             <li> <a href="{{ "/tags/rabm" | relative_url }}">rabm</a> # 11</li>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 22</li>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 19</li>
             <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 24</li>
-            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 65</li>
-            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 82</li>
+            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 35</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -175,8 +175,8 @@ Blackgaze merges black metal&#39;s aggressive intensity with shoegaze&#39;s drea
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 6</li>
             <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 53</li>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -199,8 +199,8 @@ Blackgaze merges black metal&#39;s aggressive intensity with shoegaze&#39;s drea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 30</li>
-            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 74</li>
+            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 26</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -300,7 +300,7 @@ Blackgaze merges black metal&#39;s aggressive intensity with shoegaze&#39;s drea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 55</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 46</li>
             <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 79</li>
         </ul>
       </td>
@@ -341,7 +341,7 @@ Blackgaze merges black metal&#39;s aggressive intensity with shoegaze&#39;s drea
       <td>
         <ul>
             <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 3</li>
-            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 32</li>
+            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 65</li>
             <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 89</li>
         </ul>
       </td>
@@ -401,8 +401,8 @@ Blackgaze merges black metal&#39;s aggressive intensity with shoegaze&#39;s drea
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 29</li>
             <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 34</li>
-            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -442,7 +442,7 @@ Blackgaze merges black metal&#39;s aggressive intensity with shoegaze&#39;s drea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 53</li>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -462,7 +462,7 @@ Blackgaze merges black metal&#39;s aggressive intensity with shoegaze&#39;s drea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 58</li>
+            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -499,7 +499,7 @@ Blackgaze merges black metal&#39;s aggressive intensity with shoegaze&#39;s drea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 94</li>
+            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -578,8 +578,8 @@ Blackgaze merges black metal&#39;s aggressive intensity with shoegaze&#39;s drea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 43</li>
-            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 81</li>
+            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 19</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -621,10 +621,10 @@ Blackgaze merges black metal&#39;s aggressive intensity with shoegaze&#39;s drea
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 11</li>
             <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 15</li>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 45</li>
-            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 83</li>
-            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 90</li>
+            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 17</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -663,7 +663,7 @@ Blackgaze merges black metal&#39;s aggressive intensity with shoegaze&#39;s drea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 70</li>
+            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -707,10 +707,10 @@ Blackgaze merges black metal&#39;s aggressive intensity with shoegaze&#39;s drea
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 4</li>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 5</li>
             <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 5</li>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 90</li>
-            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 96</li>
-            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 97</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -769,8 +769,8 @@ Blackgaze merges black metal&#39;s aggressive intensity with shoegaze&#39;s drea
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 6</li>
             <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 18</li>
-            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -811,7 +811,7 @@ Blackgaze merges black metal&#39;s aggressive intensity with shoegaze&#39;s drea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 84</li>
+            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -850,7 +850,7 @@ Blackgaze merges black metal&#39;s aggressive intensity with shoegaze&#39;s drea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 52</li>
+            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -890,8 +890,8 @@ Blackgaze merges black metal&#39;s aggressive intensity with shoegaze&#39;s drea
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 9</li>
             <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 54</li>
-            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -909,7 +909,7 @@ Blackgaze merges black metal&#39;s aggressive intensity with shoegaze&#39;s drea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 59</li>
+            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -964,7 +964,7 @@ Blackgaze merges black metal&#39;s aggressive intensity with shoegaze&#39;s drea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 10</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -990,9 +990,9 @@ Blackgaze merges black metal&#39;s aggressive intensity with shoegaze&#39;s drea
       <td>
         <ul>
             <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 8</li>
-            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 10</li>
             <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 25</li>
             <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 67</li>
+            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1054,9 +1054,9 @@ Blackgaze merges black metal&#39;s aggressive intensity with shoegaze&#39;s drea
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 30</li>
             <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 34</li>
-            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 44</li>
-            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 71</li>
+            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1158,13 +1158,13 @@ Blackgaze merges black metal&#39;s aggressive intensity with shoegaze&#39;s drea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 3</li>
             <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 3</li>
+            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 3</li>
+            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 5</li>
             <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 30</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 34</li>
             <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 60</li>
-            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 68</li>
             <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 80</li>
-            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1222,8 +1222,8 @@ Blackgaze merges black metal&#39;s aggressive intensity with shoegaze&#39;s drea
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 3</li>
             <li> <a href="{{ "/tags/austria" | relative_url }}">austria</a> # 10</li>
-            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1279,7 +1279,6 @@ Blackgaze merges black metal&#39;s aggressive intensity with shoegaze&#39;s drea
       <td>
         <ul>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 18</li>
-            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1337,7 +1336,7 @@ Blackgaze merges black metal&#39;s aggressive intensity with shoegaze&#39;s drea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -1376,7 +1375,7 @@ Blackgaze merges black metal&#39;s aggressive intensity with shoegaze&#39;s drea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 93</li>
+            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1430,7 +1429,7 @@ Blackgaze merges black metal&#39;s aggressive intensity with shoegaze&#39;s drea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 26</li>
+            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1564,7 +1563,7 @@ Blackgaze merges black metal&#39;s aggressive intensity with shoegaze&#39;s drea
       <td>
         <ul>
             <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 2</li>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 32</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1717,7 +1716,7 @@ Blackgaze merges black metal&#39;s aggressive intensity with shoegaze&#39;s drea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 37</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1757,10 +1756,10 @@ Blackgaze merges black metal&#39;s aggressive intensity with shoegaze&#39;s drea
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 14</li>
             <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 18</li>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 37</li>
-            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 75</li>
-            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 87</li>
+            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 25</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1863,8 +1862,8 @@ Blackgaze merges black metal&#39;s aggressive intensity with shoegaze&#39;s drea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 12</li>
-            <li> <a href="{{ "/tags/german-black-metal" | relative_url }}">german black metal</a> # 87</li>
+            <li> <a href="{{ "/tags/german-black-metal" | relative_url }}">german black metal</a> # 14</li>
+            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -2039,8 +2038,8 @@ Blackgaze merges black metal&#39;s aggressive intensity with shoegaze&#39;s drea
 - [post-black metal]({{ "/tags/post-black-metal" | relative_url }})
 - [black metal]({{ "/tags/black-metal" | relative_url }})
 - [atmospheric black metal]({{ "/tags/atmospheric-black-metal" | relative_url }})
-- [post-rock]({{ "/tags/post-rock" | relative_url }})
 - [depressive black metal]({{ "/tags/depressive-black-metal" | relative_url }})
+- [post-rock]({{ "/tags/post-rock" | relative_url }})
 - [post-metal]({{ "/tags/post-metal" | relative_url }})
 - [ambient]({{ "/tags/ambient" | relative_url }})
 - [screamo]({{ "/tags/screamo" | relative_url }})

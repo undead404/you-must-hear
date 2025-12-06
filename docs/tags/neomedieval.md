@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T07:19:58.723Z
+date: 2025-12-06T15:46:31.561Z
 permalink: tags/neomedieval
 title: neomedieval
 ---
 
 ## neomedieval
 
-Last updated: <time datetime="2025-12-04T07:19:58.723Z">Thu Dec 04 2025 09:19:58 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T15:46:31.561Z">Sat Dec 06 2025 17:46:31 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
   </thead>
   <tbody>
     <tr>
-      <td>41</td>
+      <td>60</td>
       <td>
       </td>
       <td>1974</td>
@@ -48,7 +48,7 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ead7dc4df10648389405ee97b0319128.png" alt="Cover for Almanach" style="max-width:120px; height:auto;" />
       </td>
@@ -69,7 +69,24 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>53</td>
+      <td>
+      </td>
+      <td>1977</td>
+      <td>Malicorne</td>
+      <td>Nous sommes chanteurs de sornettes</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4873d8d08c144a4ecad6d3742f4c99e6.png" alt="Cover for Le Bouvier" style="max-width:120px; height:auto;" />
       </td>
@@ -89,24 +106,7 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
     </tr>
     <tr>
-      <td>49</td>
-      <td>
-      </td>
-      <td>1977</td>
-      <td>Malicorne</td>
-      <td>Nous sommes chanteurs de sornettes</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5769715aa9a1681ea84e5876016c6a46.png" alt="Cover for Aion" style="max-width:120px; height:auto;" />
       </td>
@@ -121,14 +121,14 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 34</li>
             <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 58</li>
             <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 63</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/UwTTJRcGPG663DKMczDkjNPlb9SBRzx9lI6NqjXFCIc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDE0/My0xNDM4MTU4NzUz/LTMyNjIuanBlZw.jpeg" alt="Cover for Qntal I" style="max-width:120px; height:auto;" />
       </td>
@@ -146,7 +146,7 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a3e9905acece07f2a332cf09a8bdf24c.png" alt="Cover for All Things Are Quite Silent" style="max-width:120px; height:auto;" />
       </td>
@@ -162,34 +162,32 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a> # 1</li>
+            <li> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>70</td>
       <td>
       </td>
       <td>1995</td>
-      <td>Rosa†Crvx</td>
-      <td>Proficere</td>
+      <td>Stille Volk</td>
+      <td>Ode aux lointains souverains</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/martial" | relative_url }}">martial</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/martial" | relative_url }}">martial</a> # 11</li>
+            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/617a536a5f98c3bc31c2d24033ceb342.png" alt="Cover for In schwindendem Licht" style="max-width:120px; height:auto;" />
       </td>
@@ -211,33 +209,35 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/medieval-ambient" | relative_url }}">medieval ambient</a> # 28</li>
-            <li> <a href="{{ "/tags/fantasy-ambient" | relative_url }}">fantasy ambient</a> # 41</li>
+            <li> <a href="{{ "/tags/fantasy-ambient" | relative_url }}">fantasy ambient</a> # 42</li>
+            <li> <a href="{{ "/tags/medieval-ambient" | relative_url }}">medieval ambient</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>87</td>
       <td>
       </td>
       <td>1995</td>
-      <td>Stille Volk</td>
-      <td>Ode aux lointains souverains</td>
+      <td>Rosa†Crvx</td>
+      <td>Proficere</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/martial" | relative_url }}">martial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 86</li>
+            <li> <a href="{{ "/tags/martial" | relative_url }}">martial</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f26fbb3c93782b6d6970e6a77b6489b4.png" alt="Cover for Todeswunsch - Sous Le Soleil De Saturne" style="max-width:120px; height:auto;" />
       </td>
@@ -257,7 +257,26 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>22</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fdf232f62c894a5e9ee5c272465b28d6.png" alt="Cover for Camminando camminando" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996</td>
+      <td>Angelo Branduardi</td>
+      <td>Camminando camminando</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 1</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
       <td>
       </td>
       <td>1996</td>
@@ -287,35 +306,16 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 57</li>
-            <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 75</li>
-            <li> <a href="{{ "/tags/sacred" | relative_url }}">sacred</a> # 76</li>
-            <li> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a> # 77</li>
-            <li> <a href="{{ "/tags/italian-baroque" | relative_url }}">italian baroque</a> # 96</li>
+            <li> <a href="{{ "/tags/italian-baroque" | relative_url }}">italian baroque</a> # 5</li>
+            <li> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a> # 24</li>
+            <li> <a href="{{ "/tags/sacred" | relative_url }}">sacred</a> # 25</li>
+            <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 26</li>
+            <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 44</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>79</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fdf232f62c894a5e9ee5c272465b28d6.png" alt="Cover for Camminando camminando" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1996</td>
-      <td>Angelo Branduardi</td>
-      <td>Camminando camminando</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 100</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>16</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/ZEI1fiplRXinzfBM6ABfP-K5h1qcOlM24_VHmfq5xKc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTQz/NS0xNDUwODEzMzU0/LTYyMDMuanBlZw.jpeg" alt="Cover for The kingdom &amp; its fey" style="max-width:120px; height:auto;" />
       </td>
@@ -334,7 +334,7 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>98</td>
       <td>
       </td>
       <td>1996-11-02</td>
@@ -347,12 +347,12 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/martial" | relative_url }}">martial</a> # 96</li>
+            <li> <a href="{{ "/tags/martial" | relative_url }}">martial</a> # 5</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f333e02801d3e9012524b12a7b121750.png" alt="Cover for Hantaoma" style="max-width:120px; height:auto;" />
       </td>
@@ -378,7 +378,7 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d697d5d341d34a8e8255b4d9c8074781.png" alt="Cover for March of the Infidels" style="max-width:120px; height:auto;" />
       </td>
@@ -397,7 +397,7 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>99</td>
       <td>
       </td>
       <td>1997-04-23</td>
@@ -416,7 +416,7 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
       </td>
       <td>1998</td>
@@ -431,16 +431,16 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 14</li>
             <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 26</li>
-            <li> <a href="{{ "/tags/sacred" | relative_url }}">sacred</a> # 48</li>
+            <li> <a href="{{ "/tags/sacred" | relative_url }}">sacred</a> # 53</li>
             <li> <a href="{{ "/tags/tolkien" | relative_url }}">tolkien</a> # 68</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 79</li>
+            <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>94</td>
       <td>
           <img src="https://i.discogs.com/OznnMZkVwA8LGt_zy7b46mWDVo0U44VyX8g9K1o_78k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDY4/NDEtMTI5Mjg3NTE5/My5qcGVn.jpeg" alt="Cover for May the Blood of Many a Valiant Knight be Avenged" style="max-width:120px; height:auto;" />
       </td>
@@ -458,7 +458,7 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/MVyESA5KS30pjaWTmWp7jiIreUY1TkUgiohIvFF1AyE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1OTAx/MTItMTU1MTM2Mzg3/MS04NTY5LmpwZWc.jpeg" alt="Cover for The Minstrel and the Maiden" style="max-width:120px; height:auto;" />
       </td>
@@ -477,31 +477,7 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
     </tr>
     <tr>
-      <td>39</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c06bf666c924305a00b90e8a13679bc.png" alt="Cover for Le Pelegrin" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2001</td>
-      <td>Tri Yann</td>
-      <td>Le Pelegrin</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a></li>
-            <li style="font-size: calc(1rem * 75 / 100)"> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/breizh" | relative_url }}">breizh</a> # 29</li>
-            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 42</li>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 43</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>61</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7e2c963a519f49c4eb49f74743c22909.png" alt="Cover for Satyre Cornu" style="max-width:120px; height:auto;" />
       </td>
@@ -522,7 +498,31 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>62</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c06bf666c924305a00b90e8a13679bc.png" alt="Cover for Le Pelegrin" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Tri Yann</td>
+      <td>Le Pelegrin</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a></li>
+            <li style="font-size: calc(1rem * 75 / 100)"> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 42</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 43</li>
+            <li> <a href="{{ "/tags/breizh" | relative_url }}">breizh</a> # 72</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/EpvVxrlZWcAI9WxyZKpeIP56OQaK1RMjhhl1q3umaF4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mzg1/My0xMTU4OTcyODYy/LmpwZWc.jpeg" alt="Cover for Sueños" style="max-width:120px; height:auto;" />
       </td>
@@ -537,16 +537,16 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 1</li>
-            <li> <a href="{{ "/tags/sacred" | relative_url }}">sacred</a> # 42</li>
-            <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 44</li>
-            <li> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a> # 50</li>
+            <li> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a> # 51</li>
+            <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 57</li>
+            <li> <a href="{{ "/tags/sacred" | relative_url }}">sacred</a> # 59</li>
             <li> <a href="{{ "/tags/tolkien" | relative_url }}">tolkien</a> # 76</li>
+            <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
       </td>
       <td>2001-09-19</td>
@@ -564,7 +564,7 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c66b467a71987ae700675cd7b6299e4.png" alt="Cover for Helium Vola" style="max-width:120px; height:auto;" />
       </td>
@@ -584,7 +584,7 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>93</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a190dcb676684580afb9140951ca31e6.png" alt="Cover for Witch-hunt: The Rites of Samhain" style="max-width:120px; height:auto;" />
       </td>
@@ -603,7 +603,7 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
       </td>
       <td>2001-11-28</td>
@@ -626,16 +626,41 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 1</li>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 25</li>
-            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 26</li>
             <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 36</li>
             <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 41</li>
+            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 75</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 76</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>13</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0c348c8be1c0471ab0edfaa0c365bee7.png" alt="Cover for Hazel Steps through a Weathered Home" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>In Gowan Ring</td>
+      <td>Hazel Steps through a Weathered Home</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
+            <li style="font-size: calc(1rem * 75 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 24</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 27</li>
+            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 28</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 37</li>
+            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 93</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/tUg-R2_-TjqNtrcWM8vxxhD4saQHjKCMNtrtT3Y955g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzM2/NzItMTIxMzk2ODY3/NS5qcGVn.jpeg" alt="Cover for Hazel Steps Throug a Weathered Home" style="max-width:120px; height:auto;" />
       </td>
@@ -654,37 +679,12 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
             <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 31</li>
             <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 36</li>
             <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 43</li>
-            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 51</li>
+            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>88</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0c348c8be1c0471ab0edfaa0c365bee7.png" alt="Cover for Hazel Steps through a Weathered Home" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2002</td>
-      <td>In Gowan Ring</td>
-      <td>Hazel Steps through a Weathered Home</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
-            <li style="font-size: calc(1rem * 75 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 8</li>
-            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 24</li>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 27</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 37</li>
-            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 71</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/9AJcm_MXRNqmz2nrfqLsNohLrXxYYs3QHlw7bEmdyRs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTgx/MS0xNDE4ODM3NDg1/LTQ2NTYuanBlZw.jpeg" alt="Cover for Mon Seul Désir" style="max-width:120px; height:auto;" />
       </td>
@@ -698,13 +698,13 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 65</li>
-            <li> <a href="{{ "/tags/sacred" | relative_url }}">sacred</a> # 78</li>
+            <li> <a href="{{ "/tags/sacred" | relative_url }}">sacred</a> # 23</li>
+            <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 36</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
       </td>
       <td>2002-02-18</td>
@@ -721,7 +721,31 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>6</td>
+      <td>
+      </td>
+      <td>2003</td>
+      <td>Triskilian</td>
+      <td>TRISKILIAN</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 8</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 29</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 56</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/107efb97485c1bf3e81fdf70ca68e410.png" alt="Cover for Maudat" style="max-width:120px; height:auto;" />
       </td>
@@ -745,31 +769,7 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
     </tr>
     <tr>
-      <td>95</td>
-      <td>
-      </td>
-      <td>2003</td>
-      <td>Triskilian</td>
-      <td>TRISKILIAN</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 8</li>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 29</li>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 45</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/lvDW_bqSU7ixgD7ipXKMweaYfmAD8H7E68Er9XGMEIg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMTQ3/MS0xMzgyMjAwNDAx/LTQ1NjguanBlZw.jpeg" alt="Cover for Cantar a la Morte: Fabula Triste" style="max-width:120px; height:auto;" />
       </td>
@@ -792,7 +792,7 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1f10a5832aebcce184e89c742ff7f541.png" alt="Cover for 廃墟と楽園" style="max-width:120px; height:auto;" />
       </td>
@@ -812,16 +812,16 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 5</li>
             <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 29</li>
             <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 66</li>
             <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 79</li>
             <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 82</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/77f001b6be964e0ea0402f3bb1fd4d8e.png" alt="Cover for Florilegium" style="max-width:120px; height:auto;" />
       </td>
@@ -844,7 +844,7 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/oXMbHPSd_xOGdw0QNKynFqrw9eW3kGepiOrwkYatab4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwODE3/OC0xMTA5NDIxMjE5/LmpwZw.jpeg" alt="Cover for Three Living, Three Dead" style="max-width:120px; height:auto;" />
       </td>
@@ -861,7 +861,7 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/kaA0h4yVLjGjSFtpIiBfEtGQDs5ZVqVcWHwIeS4K23I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMTg0/OC0xMjk0MTUzMzc5/LmpwZWc.jpeg" alt="Cover for Saphir" style="max-width:120px; height:auto;" />
       </td>
@@ -877,36 +877,16 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 76</li>
+            <li> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a> # 13</li>
+            <li> <a href="{{ "/tags/sacred" | relative_url }}">sacred</a> # 15</li>
+            <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 16</li>
+            <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 25</li>
             <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 80</li>
-            <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 85</li>
-            <li> <a href="{{ "/tags/sacred" | relative_url }}">sacred</a> # 86</li>
-            <li> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
-      <td>
-          <img src="https://i.discogs.com/FbFF9SjMeoVVqeiyyAdYe-A3zWsow1tPIEom5jLRZwo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MzIz/MjYtMTM5NTc5NzY1/NS0yMzA4LmpwZWc.jpeg" alt="Cover for Ancient Ceremonies" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2005</td>
-      <td>Gerald Jay Markoe</td>
-      <td>Ancient Ceremonies</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dungeon-synth" | relative_url }}">dungeon synth</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/medieval-ambient" | relative_url }}">medieval ambient</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/medieval-ambient" | relative_url }}">medieval ambient</a> # 62</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
       </td>
       <td>2005</td>
@@ -928,13 +908,33 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hymns" | relative_url }}">hymns</a> # 91</li>
-            <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 97</li>
+            <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 4</li>
+            <li> <a href="{{ "/tags/hymns" | relative_url }}">hymns</a> # 10</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>76</td>
+      <td>
+          <img src="https://i.discogs.com/FbFF9SjMeoVVqeiyyAdYe-A3zWsow1tPIEom5jLRZwo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MzIz/MjYtMTM5NTc5NzY1/NS0yMzA4LmpwZWc.jpeg" alt="Cover for Ancient Ceremonies" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>Gerald Jay Markoe</td>
+      <td>Ancient Ceremonies</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dungeon-synth" | relative_url }}">dungeon synth</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/medieval-ambient" | relative_url }}">medieval ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/medieval-ambient" | relative_url }}">medieval ambient</a> # 39</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/-fQ1pu0kuE_NTyqcU9CIZXbbgFK8IMgnkfhuIRmZA94/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMTA3/ODYtMTQzNjc5NDI3/OS00MzEzLmpwZWc.jpeg" alt="Cover for Domus" style="max-width:120px; height:auto;" />
       </td>
@@ -953,7 +953,7 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/Qev6G_kTMSzr89K8x8N38QyNxHeFDCl1YqHjoo1UhnU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMTQ4/My0xMjAwNDc5NDAx/LmpwZWc.jpeg" alt="Cover for Fairydust" style="max-width:120px; height:auto;" />
       </td>
@@ -977,7 +977,7 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/uNYyb1BDfGmi1I4RIRF6pD_ooqK4Ghcdp-qGa_MMj4c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MTA3/MTUtMTQxODU0OTMw/NC01MTQxLmpwZWc.jpeg" alt="Cover for Enter the Mysterium" style="max-width:120px; height:auto;" />
       </td>
@@ -997,7 +997,7 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/TwLcCuU1NQQRg9Y9aPAKYaZtNd0DT9IBsNs8-CoZxvs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODg0/ODEtMTY3NjA1NjA0/OC02NDY1LmpwZWc.jpeg" alt="Cover for The Magic of the Wizard&#39;s Dream" style="max-width:120px; height:auto;" />
       </td>
@@ -1017,14 +1017,14 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 28</li>
             <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 35</li>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 73</li>
             <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/af33c1f3ddc643f2c3344b3adcab5a38.png" alt="Cover for Mirabilis" style="max-width:120px; height:auto;" />
       </td>
@@ -1045,7 +1045,47 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>14</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb29accbe7e8c734837509fc73345a8a.png" alt="Cover for Alchemie" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>The Soil Bleeds Black</td>
+      <td>Alchemie</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 66</li>
+            <li> <a href="{{ "/tags/fantasy-ambient" | relative_url }}">fantasy ambient</a> # 92</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7c05cc569b414e5eace22a31f344aab6.png" alt="Cover for Espers II" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Espers</td>
+      <td>Espers II</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 78</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/88e9e06a2eb04b29cb42ac9a1d42fb0c.png" alt="Cover for Fortune &amp; Folly" style="max-width:120px; height:auto;" />
       </td>
@@ -1067,47 +1107,7 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
     </tr>
     <tr>
-      <td>51</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7c05cc569b414e5eace22a31f344aab6.png" alt="Cover for Espers II" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2006</td>
-      <td>Espers</td>
-      <td>Espers II</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 79</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>87</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb29accbe7e8c734837509fc73345a8a.png" alt="Cover for Alchemie" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2006</td>
-      <td>The Soil Bleeds Black</td>
-      <td>Alchemie</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a></li>
-            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 66</li>
-            <li> <a href="{{ "/tags/fantasy-ambient" | relative_url }}">fantasy ambient</a> # 90</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2df0513dc4c44d798779b7b5ef58d9e6.png" alt="Cover for Viola De Teclas" style="max-width:120px; height:auto;" />
       </td>
@@ -1130,7 +1130,7 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/eUKd0L_sXYn_DA9_-2GH2lc10Usd5Oh7NW9JnOSdZLA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjQx/ODQtMTE4OTMzOTQ1/My5qcGVn.jpeg" alt="Cover for Arcadia" style="max-width:120px; height:auto;" />
       </td>
@@ -1146,14 +1146,14 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 55</li>
+            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 44</li>
             <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 81</li>
             <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/415f18b3061fc9d355684d303067a809.png" alt="Cover for Raka" style="max-width:120px; height:auto;" />
       </td>
@@ -1174,15 +1174,15 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
         <ul>
             <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 7</li>
             <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 33</li>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 43</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 44</li>
             <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 52</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 58</li>
             <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/92kHSzRJTZZD2Jaj8DftiEV6ATIqXqIKk_fWQvRniy8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNTIx/OC0xMTM3NTM5OTYz/LmpwZWc.jpeg" alt="Cover for Os cavaleiros do templo" style="max-width:120px; height:auto;" />
       </td>
@@ -1200,7 +1200,70 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>27</td>
+      <td>
+          <img src="https://i.discogs.com/ycZ2oW4AXVFG0KGDzLJqGOIEgDAOZumV2TNaN7a3RxE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDE1/MDEtMTE5NTQwNTI4/NC5qcGVn.jpeg" alt="Cover for Veleno de Teixo" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Sangre Cavallum</td>
+      <td>Veleno de Teixo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 49</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/006d619c72764c91947c31410e67d730.png" alt="Cover for Kremasta Nera" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Ataraxia</td>
+      <td>Kremasta Nera</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/medieval-ambient" | relative_url }}">medieval ambient</a> # 36</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
+          <img src="https://i.discogs.com/COnCyTrVmVkV3OcJjHvs02lz50adJ-Y_jTq-YO103dE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTY4/MzAtMTI1MDg2Mzc2/OS5qcGVn.jpeg" alt="Cover for Do durch der werlde..." style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Triskilian</td>
+      <td>Do durch der werlde...</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 58</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
       <td>
       </td>
       <td>2007</td>
@@ -1222,70 +1285,7 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
     </tr>
     <tr>
-      <td>66</td>
-      <td>
-          <img src="https://i.discogs.com/COnCyTrVmVkV3OcJjHvs02lz50adJ-Y_jTq-YO103dE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTY4/MzAtMTI1MDg2Mzc2/OS5qcGVn.jpeg" alt="Cover for Do durch der werlde..." style="max-width:120px; height:auto;" />
-      </td>
-      <td>2007</td>
-      <td>Triskilian</td>
-      <td>Do durch der werlde...</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 58</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>70</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/006d619c72764c91947c31410e67d730.png" alt="Cover for Kremasta Nera" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2007</td>
-      <td>Ataraxia</td>
-      <td>Kremasta Nera</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
-            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
-            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/medieval-ambient" | relative_url }}">medieval ambient</a> # 65</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>74</td>
-      <td>
-          <img src="https://i.discogs.com/ycZ2oW4AXVFG0KGDzLJqGOIEgDAOZumV2TNaN7a3RxE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDE1/MDEtMTE5NTQwNTI4/NC5qcGVn.jpeg" alt="Cover for Veleno de Teixo" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2007</td>
-      <td>Sangre Cavallum</td>
-      <td>Veleno de Teixo</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 49</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>44</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/kozfr-oEOfLflt6DCqEyaWFHf7PEP2nWDLVMjDaTtwM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzA5/NDktMTE4OTg3Njg0/NC5qcGVn.jpeg" alt="Cover for Sous Le Blanc Rosier" style="max-width:120px; height:auto;" />
       </td>
@@ -1300,15 +1300,15 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 50</li>
-            <li> <a href="{{ "/tags/sacred" | relative_url }}">sacred</a> # 71</li>
-            <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 73</li>
-            <li> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a> # 74</li>
+            <li> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a> # 27</li>
+            <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 28</li>
+            <li> <a href="{{ "/tags/sacred" | relative_url }}">sacred</a> # 30</li>
+            <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 51</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>34</td>
       <td>
       </td>
       <td>2008</td>
@@ -1325,29 +1325,12 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 65</li>
+            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>36</td>
-      <td>
-      </td>
-      <td>2008</td>
-      <td>Duivelspack</td>
-      <td>Mal die Teufel an die Wand</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>65</td>
       <td>
           <img src="https://i.discogs.com/GkiXDTlBfhHEM1LDqJCttw8yoDgli102s7a3PzayVug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODky/ODUtMTIwNzMzMzgz/MC5qcGVn.jpeg" alt="Cover for Namárië" style="max-width:120px; height:auto;" />
       </td>
@@ -1368,7 +1351,24 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>65</td>
+      <td>
+      </td>
+      <td>2008</td>
+      <td>Duivelspack</td>
+      <td>Mal die Teufel an die Wand</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
       <td>
       </td>
       <td>2008-02-28</td>
@@ -1385,7 +1385,7 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
       </td>
       <td>2008-08-01</td>
@@ -1402,7 +1402,7 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/32e2266073f6b2bbbc702b9879f143b6.png" alt="Cover for Metamorphosis" style="max-width:120px; height:auto;" />
       </td>
@@ -1421,7 +1421,7 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>39</td>
       <td>
       </td>
       <td>2009</td>
@@ -1448,17 +1448,15 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>15</td>
       <td>
-          <img src="https://i.discogs.com/1-3J97g7BgIjuZnPFwbJMg9PNmPEpbuH8cgnU_PGvps/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDM1/NjUtMTI1MTM1NDU1/Ni5qcGVn.jpeg" alt="Cover for Soehrimnir &amp; Mediestetica" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c5d1d1db6e84bae9d4bcb54a7f374fb.png" alt="Cover for Aeon" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
-      <td>Lupercalia</td>
-      <td>Soehrimnir &amp; Mediestetica</td>
+      <td>Annwn</td>
+      <td>Aeon</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a></li>
         </ul>
       </td>
@@ -1468,7 +1466,7 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/Ed_sZdB8E4bdDgqxgxl_-St9wFPhiWarMSnHYESaqm0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTI2/OTQtMTI0NDk5Mjg2/My5qcGVn.jpeg" alt="Cover for The Knightly Years" style="max-width:120px; height:auto;" />
       </td>
@@ -1486,15 +1484,17 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>81</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c5d1d1db6e84bae9d4bcb54a7f374fb.png" alt="Cover for Aeon" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/1-3J97g7BgIjuZnPFwbJMg9PNmPEpbuH8cgnU_PGvps/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDM1/NjUtMTI1MTM1NDU1/Ni5qcGVn.jpeg" alt="Cover for Soehrimnir &amp; Mediestetica" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
-      <td>Annwn</td>
-      <td>Aeon</td>
+      <td>Lupercalia</td>
+      <td>Soehrimnir &amp; Mediestetica</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a></li>
         </ul>
       </td>
@@ -1518,11 +1518,12 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/nordic-folk" | relative_url }}">nordic folk</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/wgh4B5s5GzulubXdO7P2Nu0wg1JM0_ZNwiiQGBZ1tuE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzIx/MDMtMTIzOTc4ODg4/MS5qcGVn.jpeg" alt="Cover for Osforras" style="max-width:120px; height:auto;" />
       </td>
@@ -1546,7 +1547,7 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2133a9f35405499ec92a49fdd29f1c52.png" alt="Cover for Harmonia" style="max-width:120px; height:auto;" />
       </td>
@@ -1570,13 +1571,13 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
             <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 39</li>
             <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 49</li>
             <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 49</li>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 50</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 51</li>
             <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>61</td>
       <td>
       </td>
       <td>2009-06</td>
@@ -1596,12 +1597,12 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/medieval-ambient" | relative_url }}">medieval ambient</a> # 41</li>
+            <li> <a href="{{ "/tags/medieval-ambient" | relative_url }}">medieval ambient</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e4c5cd72d06f4617c6132fbf7e891332.png" alt="Cover for Dakini" style="max-width:120px; height:auto;" />
       </td>
@@ -1619,7 +1620,7 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>23</td>
       <td>
       </td>
       <td>2009-08-19</td>
@@ -1637,14 +1638,14 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
         <ul>
             <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 4</li>
             <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 15</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 23</li>
             <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 48</li>
-            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 49</li>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 78</li>
+            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e36068b367c64f6287f49ca5415f38db.png" alt="Cover for 謳う丘 ～Ar&#x3D;Ciel Ar&#x3D;Dor～" style="max-width:120px; height:auto;" />
       </td>
@@ -1662,16 +1663,16 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 18</li>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 35</li>
             <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 39</li>
             <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 57</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 66</li>
             <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 69</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/Fp3B7gSAU9SrkJHJECCDDjVdPkkg6ICsx1vVvNL2CKM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Nzc1/ODEtMTM1MzcxMDUy/Ni01MzYwLmpwZWc.jpeg" alt="Cover for Temptation" style="max-width:120px; height:auto;" />
       </td>
@@ -1690,7 +1691,7 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/R0_YaVRrdnDC1eZiOjVGMAtLw1NH7JWimJZ_2slyFZM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTA1/NTM4LTE1MDYyODQ0/MjMtMzg0NS5qcGVn.jpeg" alt="Cover for Lost In Time" style="max-width:120px; height:auto;" />
       </td>
@@ -1708,7 +1709,7 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f8895b45eb14192a02921e3e2ac3a0a.png" alt="Cover for Istoria~Kalliope~" style="max-width:120px; height:auto;" />
       </td>
@@ -1732,14 +1733,14 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 27</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 74</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 81</li>
             <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0a6c06fd018645fb810112f75193a93a.png" alt="Cover for Canticum in Terra" style="max-width:120px; height:auto;" />
       </td>
@@ -1762,7 +1763,7 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
       </td>
       <td>2012-04-20</td>
@@ -1779,7 +1780,7 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1fab29f27aad7058f28ffb5754832b14.png" alt="Cover for Pierre De Grenoble" style="max-width:120px; height:auto;" />
       </td>
@@ -1802,7 +1803,7 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3641ee02a2a6423a8cb3397ac2d3f2cd.png" alt="Cover for Odysseus" style="max-width:120px; height:auto;" />
       </td>
@@ -1825,8 +1826,8 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 47</li>
             <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 49</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 54</li>
             <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 55</li>
             <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 68</li>
             <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 75</li>
@@ -1836,7 +1837,7 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/Jb6ezdnAdEyNwnEOTd9M63Ync2o3CotHRb1Z1IADNW4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNTEx/OTUtMTQxMjM1MTQz/Mi02NTUzLmpwZWc.jpeg" alt="Cover for Pèira Negra" style="max-width:120px; height:auto;" />
       </td>
@@ -1856,7 +1857,7 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3767ec2dab0ad025ea9f3426896b9fbb.png" alt="Cover for Oreflam" style="max-width:120px; height:auto;" />
       </td>
@@ -1875,15 +1876,15 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 12</li>
             <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 50</li>
             <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 64</li>
             <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 64</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/sJiTb5dLhmOq8Uf8IzNuRC4Pr_UXDbRygRepBLcgJCM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDU1/NTk3LTE1OTE4MTE1/OTYtNTM1MS5qcGVn.jpeg" alt="Cover for The Sims Medieval Vol. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1898,12 +1899,12 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/medieval-ambient" | relative_url }}">medieval ambient</a> # 91</li>
+            <li> <a href="{{ "/tags/medieval-ambient" | relative_url }}">medieval ambient</a> # 10</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/sQiAA8cZHOOijw1dPdJSbEovtbY50wsVa5dxmeeQiag/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0ODQ2/NzAtMTQ2MjUzMTk0/NS05OTYwLmpwZWc.jpeg" alt="Cover for Amor Lontano" style="max-width:120px; height:auto;" />
       </td>
@@ -1921,7 +1922,7 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/df21170e04f89b50cb262ebfa4608324.png" alt="Cover for Leyenda" style="max-width:120px; height:auto;" />
       </td>
@@ -1939,7 +1940,7 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/Mc3xI0VUq14JqvrI9fKYB0RTr9fWTqkRsafJ2r19JKE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0Mjcw/MTQtMTQ4MDM3NTIx/MC04NjU3LmpwZWc.jpeg" alt="Cover for Forest" style="max-width:120px; height:auto;" />
       </td>
@@ -1959,7 +1960,7 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/SE3VjmfRvHj9qSnmxbPsOEHgUJZjH6QZuMSts3ovuPc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNzAx/MTYtMTM1NDIxNzYz/OS0zNzk3LmpwZWc.jpeg" alt="Cover for Game Of Thrones - Main Title Theme" style="max-width:120px; height:auto;" />
       </td>
@@ -1986,7 +1987,7 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/YxWxpYrdEbhxJ8fnHwUQ0ODnAC8z1cicdPd43e2c0Bo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTM4/NDE1LTE1MjkwNjk4/NTYtMjYwMS5qcGVn.jpeg" alt="Cover for Saga of Blood Lands" style="max-width:120px; height:auto;" />
       </td>
@@ -2002,13 +2003,13 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/medieval-ambient" | relative_url }}">medieval ambient</a> # 36</li>
             <li> <a href="{{ "/tags/fantasy-ambient" | relative_url }}">fantasy ambient</a> # 37</li>
+            <li> <a href="{{ "/tags/medieval-ambient" | relative_url }}">medieval ambient</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/bOlovZ6zg_ZuhXl9omWlWM-2lcJe6HOOUS5c4OzqxHk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTc1/Njg4LTE1MzkzMDI3/MjQtOTE1Mi5qcGVn.jpeg" alt="Cover for Dionysus" style="max-width:120px; height:auto;" />
       </td>
@@ -2026,25 +2027,25 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
         <ul>
             <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 1</li>
             <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 2</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 3</li>
+            <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 3</li>
             <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 4</li>
             <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 6</li>
+            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 7</li>
             <li> <a href="{{ "/tags/eurobeat" | relative_url }}">eurobeat</a> # 8</li>
             <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 12</li>
+            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 14</li>
             <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 16</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 23</li>
+            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 24</li>
             <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 25</li>
             <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 37</li>
             <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 77</li>
-            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 77</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 78</li>
-            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 85</li>
-            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 94</li>
-            <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 98</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/5h6XJI0b2H6yc5Qyq8Yu2FFxNGWX3nL3Z12ky2IZ33g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODMx/MjgzLTE1NDI3OTk0/NjktODMxNS5qcGVn.jpeg" alt="Cover for Roots" style="max-width:120px; height:auto;" />
       </td>
@@ -2067,7 +2068,7 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>96</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ac65c78a59ae3696384c2cb7862183c4.png" alt="Cover for Grimorium Magi" style="max-width:120px; height:auto;" />
       </td>
@@ -2087,7 +2088,7 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/kyGQldEj40gazAsGKYj87MgUuFcbmCwdl0U69C6euVk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODI3/NzQyLTE1NjIwMTM5/NzQtNjUwNy5qcGVn.jpeg" alt="Cover for A Pocketful of Posies" style="max-width:120px; height:auto;" />
       </td>
@@ -2107,7 +2108,7 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/8nblDuqOnU97z2ZCwT4Y9K25HcyLDaAPrgU6atzoWs8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzA2/NDAxLTE2MTI3MTgz/MTktOTA2Ni5qcGVn.jpeg" alt="Cover for Lo Boier" style="max-width:120px; height:auto;" />
       </td>
@@ -2128,7 +2129,7 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/1y_IauParXES-9CYpCgfUXMHBkmRhMdXCb10KA9ICys/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mzg0/NjY4LTE2MDc0MjQw/NDctOTA4Mi5qcGVn.jpeg" alt="Cover for Stella Splendens" style="max-width:120px; height:auto;" />
       </td>
@@ -2144,12 +2145,12 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/medieval-ambient" | relative_url }}">medieval ambient</a> # 3</li>
+            <li> <a href="{{ "/tags/medieval-ambient" | relative_url }}">medieval ambient</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>100</td>
       <td>
           <img src="https://i.discogs.com/hcdG1y-4Juqmu5oqB9LJZqHsRoo3lWQaOeE9psX6wa0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjU1/NDc1LTE2MDkwOTA4/NTMtMTQ5NS5qcGVn.jpeg" alt="Cover for Visions éternelles" style="max-width:120px; height:auto;" />
       </td>
@@ -2166,12 +2167,12 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/fantasy-ambient" | relative_url }}">fantasy ambient</a> # 94</li>
+            <li> <a href="{{ "/tags/fantasy-ambient" | relative_url }}">fantasy ambient</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/LvBecmBKP-A9TF-z4h6E5D-_4E7L93mOE3-dgJFKyMY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDQx/OTE3LTE2MzczMzQ3/MjAtOTY2OC5qcGVn.jpeg" alt="Cover for Todeswunsch" style="max-width:120px; height:auto;" />
       </td>
@@ -2189,7 +2190,7 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>89</td>
       <td>
           <img src="https://i.discogs.com/QvlGOM3NAR5-zUVPdBH-uzJY9Tc_sews709WOK_Kwls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDU2/ODQxLTE2Njc2MDY2/MTQtMTUxMy5wbmc.jpeg" alt="Cover for The Doxologion Codex" style="max-width:120px; height:auto;" />
       </td>
@@ -2209,7 +2210,7 @@ Neomedieval music reimagines the sounds and atmosphere of the Middle Ages throug
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>86</td>
       <td>
       </td>
       <td></td>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T07:15:00.770Z
+date: 2025-12-06T14:09:10.547Z
 permalink: tags/spacesynth
 title: spacesynth
 ---
 
 ## spacesynth
 
-Last updated: <time datetime="2025-12-04T07:15:00.770Z">Thu Dec 04 2025 09:15:00 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T14:09:10.547Z">Sat Dec 06 2025 16:09:10 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
   </thead>
   <tbody>
     <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/SvhJ0_jsLIydhI4NEolwRvZHbEur7UQtmklj3SfWLcc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NTY4/NDEtMTQ3NjQ2MjEz/NS05NjAyLmpwZWc.jpeg" alt="Cover for Space Opera" style="max-width:120px; height:auto;" />
       </td>
@@ -47,7 +47,7 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>93</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3d17d2ecd7f5472186f6fddb29a3c595.png" alt="Cover for The War Of The Worlds (Cd 1): The Coming Of The Martians" style="max-width:120px; height:auto;" />
       </td>
@@ -98,7 +98,7 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>77</td>
       <td>
       </td>
       <td>1978</td>
@@ -118,7 +118,7 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/hWGWA46bcN2opjwudodukppjRGcN_cVRnckOnbdrsJc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTE5/OS0xMjU4MTk3NDM3/LmpwZWc.jpeg" alt="Cover for Atlantic" style="max-width:120px; height:auto;" />
       </td>
@@ -136,7 +136,7 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
       </td>
       <td>1986-09-23</td>
@@ -154,7 +154,7 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/Q1BRZn_j21ttlfywuUwILa6-Xw-Kmiq1PSMq6OMF7OA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTc2/MS0xMzIyNDUyMDAw/LmpwZWc.jpeg" alt="Cover for Future Generation" style="max-width:120px; height:auto;" />
       </td>
@@ -173,7 +173,7 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/An-CoDlmlv21VkhB6ANig3yn1IQUt-Pdk6Mq5vgMHiE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTcw/LTE0OTE1OTE5NTkt/NjE5Ni5qcGVn.jpeg" alt="Cover for Laserdance orchestra volume 2" style="max-width:120px; height:auto;" />
       </td>
@@ -191,7 +191,7 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
       </td>
       <td>1988-11-02</td>
@@ -208,7 +208,7 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
       </td>
       <td>1989</td>
@@ -227,7 +227,42 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>10</td>
+      <td>
+      </td>
+      <td>1989</td>
+      <td>Koto</td>
+      <td>Masterpieces</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spacesynth" | relative_url }}">spacesynth</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>
+          <img src="https://i.discogs.com/FUQUJ4v9VBHg6NoPl-S5pROThKcyb6w1ZDYI0qqWHQA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTEx/Ny0xNjQ0OTgzNjUx/LTY0NDguanBlZw.jpeg" alt="Cover for By Trial And Error" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1989</td>
+      <td>Syntech</td>
+      <td>By Trial And Error</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spacesynth" | relative_url }}">spacesynth</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/WHjA5za91_AO2OONeR6WBKxuTk8qNu-_0kfMHTkLMlg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNTU1/LTE1ODM1Njg4MzEt/NDcwOC5qcGVn.jpeg" alt="Cover for Mission Hyperdrive" style="max-width:120px; height:auto;" />
       </td>
@@ -246,42 +281,7 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
     </tr>
     <tr>
-      <td>53</td>
-      <td>
-          <img src="https://i.discogs.com/FUQUJ4v9VBHg6NoPl-S5pROThKcyb6w1ZDYI0qqWHQA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTEx/Ny0xNjQ0OTgzNjUx/LTY0NDguanBlZw.jpeg" alt="Cover for By Trial And Error" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1989</td>
-      <td>Syntech</td>
-      <td>By Trial And Error</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spacesynth" | relative_url }}">spacesynth</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>91</td>
-      <td>
-      </td>
-      <td>1989</td>
-      <td>Koto</td>
-      <td>Masterpieces</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spacesynth" | relative_url }}">spacesynth</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
       </td>
       <td>1989-06-05</td>
@@ -298,7 +298,7 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/pI5X0TWhnHdld2Ge1qJQaWIZA_uFgDC6yArLvgKtcnU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODE0/OTgzLTE1ODIxNDAw/NTktOTkwNi5qcGVn.jpeg" alt="Cover for Plays Synthesizer World Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -319,43 +319,7 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
     </tr>
     <tr>
-      <td>2</td>
-      <td>
-          <img src="https://i.discogs.com/3KqURvGJCfmTVYR26EUtE8c4OtT6G_5L7N90s28on8o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzQ5/My0xNjQxODA2NTA1/LTQ5NTUuanBlZw.jpeg" alt="Cover for Acknowlegde (Single)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1990</td>
-      <td>Koto</td>
-      <td>Acknowlegde (Single)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spacesynth" | relative_url }}">spacesynth</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>41</td>
-      <td>
-          <img src="https://i.discogs.com/IZt1ofM4uzGhSi91s8iOpqb-3cN0r7WIBpIARqiHNFo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODcx/NzI0LTE1NDM1NzY2/NDMtMjYyNi5qcGVn.jpeg" alt="Cover for Laserdance orchestra volume 1" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1990</td>
-      <td>Laserdance</td>
-      <td>Laserdance orchestra volume 1</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spacesynth" | relative_url }}">spacesynth</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/wF9o5qhCFjE7TCp1P1W-iBlBRNxIJjMF2de6bBgWqnc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzMy/NzctMTMxNTExMzI1/Mi5qcGVn.jpeg" alt="Cover for Plays Science-Fiction Movie Themes" style="max-width:120px; height:auto;" />
       </td>
@@ -373,7 +337,43 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>60</td>
+      <td>
+          <img src="https://i.discogs.com/IZt1ofM4uzGhSi91s8iOpqb-3cN0r7WIBpIARqiHNFo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODcx/NzI0LTE1NDM1NzY2/NDMtMjYyNi5qcGVn.jpeg" alt="Cover for Laserdance orchestra volume 1" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1990</td>
+      <td>Laserdance</td>
+      <td>Laserdance orchestra volume 1</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spacesynth" | relative_url }}">spacesynth</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+          <img src="https://i.discogs.com/3KqURvGJCfmTVYR26EUtE8c4OtT6G_5L7N90s28on8o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzQ5/My0xNjQxODA2NTA1/LTQ5NTUuanBlZw.jpeg" alt="Cover for Acknowlegde (Single)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1990</td>
+      <td>Koto</td>
+      <td>Acknowlegde (Single)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spacesynth" | relative_url }}">spacesynth</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
       <td>
       </td>
       <td>1990-01-01</td>
@@ -390,44 +390,7 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
     </tr>
     <tr>
-      <td>28</td>
-      <td>
-      </td>
-      <td>1991</td>
-      <td>Space Angels</td>
-      <td>Untitled Album</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spacesynth" | relative_url }}">spacesynth</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>36</td>
-      <td>
-          <img src="https://i.discogs.com/LyYjp1l397LTK9P-GOLKBpK8E0M8z6Hy1dOcH6Pxy5o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzA5/MS0xNTQwMzEzNTMw/LTk3ODAuanBlZw.jpeg" alt="Cover for The Maxi-CD Collection" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1991</td>
-      <td>Laserdance</td>
-      <td>The Maxi-CD Collection</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spacesynth" | relative_url }}">spacesynth</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>40</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b7e4ada30cd150edca36488a4165ae84.png" alt="Cover for Space Angels" style="max-width:120px; height:auto;" />
       </td>
@@ -447,7 +410,44 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>65</td>
+      <td>
+          <img src="https://i.discogs.com/LyYjp1l397LTK9P-GOLKBpK8E0M8z6Hy1dOcH6Pxy5o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzA5/MS0xNTQwMzEzNTMw/LTk3ODAuanBlZw.jpeg" alt="Cover for The Maxi-CD Collection" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1991</td>
+      <td>Laserdance</td>
+      <td>The Maxi-CD Collection</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spacesynth" | relative_url }}">spacesynth</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td>
+      </td>
+      <td>1991</td>
+      <td>Space Angels</td>
+      <td>Untitled Album</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spacesynth" | relative_url }}">spacesynth</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
       <td>
       </td>
       <td>1991-07-15</td>
@@ -465,13 +465,12 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>15</td>
       <td>
-          <img src="https://i.discogs.com/O04sp2OAQAh-kkkn4W7K4y3mnYkvNzSHHSSbWhSnYBc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTUw/MTUtMTIyMDk4ODI1/NS5qcGVn.jpeg" alt="Cover for Man Machine" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
-      <td>Daylight</td>
-      <td>Man Machine</td>
+      <td>Koto</td>
+      <td>From the Dawn of Time</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spacesynth" | relative_url }}">spacesynth</a></li>
@@ -483,25 +482,7 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
     </tr>
     <tr>
-      <td>51</td>
-      <td>
-          <img src="https://i.discogs.com/QM4N28wGSzQY1Z6awFN3dRh9BgvTlzerhV9PuyGfOvc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NzIw/LTE1NzU4NDQ0NTMt/NTE5NS5qcGVn.jpeg" alt="Cover for Lost in Space" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1992</td>
-      <td>Hypnosis</td>
-      <td>Lost in Space</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spacesynth" | relative_url }}">spacesynth</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/Y-9EEjddcRjf6nSsecPffIa6drbbIw98abw93SrtYFE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTg2/OC0xNTEyNzMyMjg1/LTIzMzMuanBlZw.jpeg" alt="Cover for Technological Mind" style="max-width:120px; height:auto;" />
       </td>
@@ -519,12 +500,13 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>50</td>
       <td>
+          <img src="https://i.discogs.com/QM4N28wGSzQY1Z6awFN3dRh9BgvTlzerhV9PuyGfOvc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NzIw/LTE1NzU4NDQ0NTMt/NTE5NS5qcGVn.jpeg" alt="Cover for Lost in Space" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
-      <td>Koto</td>
-      <td>From the Dawn of Time</td>
+      <td>Hypnosis</td>
+      <td>Lost in Space</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spacesynth" | relative_url }}">spacesynth</a></li>
@@ -536,7 +518,25 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>71</td>
+      <td>
+          <img src="https://i.discogs.com/O04sp2OAQAh-kkkn4W7K4y3mnYkvNzSHHSSbWhSnYBc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTUw/MTUtMTIyMDk4ODI1/NS5qcGVn.jpeg" alt="Cover for Man Machine" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1992</td>
+      <td>Daylight</td>
+      <td>Man Machine</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spacesynth" | relative_url }}">spacesynth</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
       <td>
       </td>
       <td>1992-07-13</td>
@@ -553,7 +553,7 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>95</td>
       <td>
           <img src="https://i.discogs.com/KqR99Hi88I3yKWCi8n6fSwDiI2miw0EcbvxLICZ2UTU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNDcy/MTgtMTQzNzA4MDU1/Mi0yNzE1LnBuZw.jpeg" alt="Cover for Eternal relentless aspiration to light (single)" style="max-width:120px; height:auto;" />
       </td>
@@ -588,16 +588,16 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>18</td>
       <td>
-          <img src="https://i.discogs.com/KFcj3buiG1IfuPK_FpzQdHpwv6cvQTmg_S3e2jbrsTI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTg2/Ni0xMjAxMzkwODYz/LmpwZWc.jpeg" alt="Cover for Revolution" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/263a75c0ed22392fc95399775de4f4a3.png" alt="Cover for The Man-Machine (2009 Remaster)" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
-      <td>Daylight</td>
-      <td>Revolution</td>
+      <td>Kraftwerk</td>
+      <td>The Man-Machine (2009 Remaster)</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spacesynth" | relative_url }}">spacesynth</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
         </ul>
       </td>
       <td>
@@ -606,24 +606,7 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
     </tr>
     <tr>
-      <td>56</td>
-      <td>
-      </td>
-      <td>1993</td>
-      <td>Proxyon</td>
-      <td>The Return of Tarah</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spacesynth" | relative_url }}">spacesynth</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/F-4XJGdSKA9L0u-5anSO46hRjdW-sfipSBPY0geF3gk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjQ1/Mi0xMTIyODE2NzE3/LmpwZw.jpeg" alt="Cover for Hypermagic" style="max-width:120px; height:auto;" />
       </td>
@@ -646,31 +629,12 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>45</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/263a75c0ed22392fc95399775de4f4a3.png" alt="Cover for The Man-Machine (2009 Remaster)" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
-      <td>Kraftwerk</td>
-      <td>The Man-Machine (2009 Remaster)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/91eMcw790GdXaeMMsWtwUrlYyYYN-tLFAin-9tsAK9k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NjIx/My0xMjAzMzkyMjE4/LmpwZWc.jpeg" alt="Cover for Dance Zone 2002" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1994</td>
-      <td>Daylight</td>
-      <td>Dance Zone 2002</td>
+      <td>Proxyon</td>
+      <td>The Return of Tarah</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spacesynth" | relative_url }}">spacesynth</a></li>
@@ -682,7 +646,25 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>69</td>
+      <td>
+          <img src="https://i.discogs.com/KFcj3buiG1IfuPK_FpzQdHpwv6cvQTmg_S3e2jbrsTI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTg2/Ni0xMjAxMzkwODYz/LmpwZWc.jpeg" alt="Cover for Revolution" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1993</td>
+      <td>Daylight</td>
+      <td>Revolution</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spacesynth" | relative_url }}">spacesynth</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/Arb4eT-XJC6idIjsk8OHauFJQPGAmWh_FciehfCQBSQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Mzg2/MDItMTQ5OTAzOTA5/NS04NzIxLmpwZWc.jpeg" alt="Cover for Hypnosis" style="max-width:120px; height:auto;" />
       </td>
@@ -700,7 +682,25 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>100</td>
+      <td>
+          <img src="https://i.discogs.com/91eMcw790GdXaeMMsWtwUrlYyYYN-tLFAin-9tsAK9k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NjIx/My0xMjAzMzkyMjE4/LmpwZWc.jpeg" alt="Cover for Dance Zone 2002" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994</td>
+      <td>Daylight</td>
+      <td>Dance Zone 2002</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spacesynth" | relative_url }}">spacesynth</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>36</td>
       <td>
       </td>
       <td>1994-01-20</td>
@@ -717,7 +717,7 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
       </td>
       <td>1994-08-26</td>
@@ -734,7 +734,7 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/6YNwdqh8LnqsdLRWzMPIFYTxDz65UAuG5Ua318sMh1U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjAz/MDYtMTMyNTYyMzk4/Ni5qcGVn.jpeg" alt="Cover for Droid" style="max-width:120px; height:auto;" />
       </td>
@@ -753,7 +753,7 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>39</td>
       <td>
       </td>
       <td>1995-11-24</td>
@@ -770,7 +770,7 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e7940f7bf14b45898793d051af7ec668.png" alt="Cover for Space Race" style="max-width:120px; height:auto;" />
       </td>
@@ -791,7 +791,7 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>94</td>
       <td>
       </td>
       <td>1997</td>
@@ -808,7 +808,7 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/-bmrX8AtXoq_ymEkso33JKMg9uSb5R-6_DS_bDQ9qQA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjQ1/MC0xMjkxNDkxNTU5/LmpwZWc.jpeg" alt="Cover for New Challenge" style="max-width:120px; height:auto;" />
       </td>
@@ -826,7 +826,7 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
       </td>
       <td>2000-03-10</td>
@@ -843,7 +843,7 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>96</td>
       <td>
           <img src="https://i.discogs.com/lM61Gx1_IT9KIeNT6Gu28DiBO5yzsSkkohEeYfSNTnY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzk0/MDAtMTIwODYyMDAy/NS5qcGVn.jpeg" alt="Cover for Hypersound Outta Space" style="max-width:120px; height:auto;" />
       </td>
@@ -861,7 +861,7 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/gwNs_wPGI6itP8NqS7DabOI2Cr4QCnbbetfNv_Trgsk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTMx/NTMtMTIxODE2Mjg5/Mi5qcGVn.jpeg" alt="Cover for We Came From Space" style="max-width:120px; height:auto;" />
       </td>
@@ -879,7 +879,7 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/936355dfb62647acba2604930d75ae45.png" alt="Cover for Farout" style="max-width:120px; height:auto;" />
       </td>
@@ -897,7 +897,7 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a6d0a81ccb4c4526c55fcd14a1f92e2b.png" alt="Cover for Redline" style="max-width:120px; height:auto;" />
       </td>
@@ -910,13 +910,13 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 1</li>
             <li> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a> # 61</li>
+            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
       </td>
       <td>2010-02-20</td>
@@ -933,7 +933,7 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/BHjI1becDl703-ar79942-KHn8Oq7q_D4jR_hWwLvxA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDgx/NTAzLTE2ODI4ODQz/OTUtODcwMy5qcGVn.jpeg" alt="Cover for Other party of time" style="max-width:120px; height:auto;" />
       </td>
@@ -962,15 +962,15 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 20</li>
-            <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 33</li>
-            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 35</li>
             <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 45</li>
+            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 66</li>
+            <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 67</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/mTKe1CXhYa5vQ5RAlUc90UhRNxld7ad0epIOGdXf0u4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzYx/NDEtMTI3MzkwNjEx/NC5qcGVn.jpeg" alt="Cover for space explorer" style="max-width:120px; height:auto;" />
       </td>
@@ -990,7 +990,7 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8eda3d29291f464dc6ff81df32b72590.png" alt="Cover for Echoes from Earth" style="max-width:120px; height:auto;" />
       </td>
@@ -1017,7 +1017,7 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/-XaCKBVe6ost_kPnlc1V32wpLSoeksadhhO4GQEuEss/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNzI3/NjgtMTQxNTMwMTE5/OS02MjAyLmpwZWc.jpeg" alt="Cover for Analogue Dreams, Pt.1" style="max-width:120px; height:auto;" />
       </td>
@@ -1034,7 +1034,7 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/i8eAVJGW9oeM-9wmRzulnDZGXlOTM85Vm1_jG36e3JQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzkw/MjctMTMyNzE3MDM5/MC5qcGVn.jpeg" alt="Cover for Cosmic Nostalgie" style="max-width:120px; height:auto;" />
       </td>
@@ -1052,7 +1052,7 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/HqVUuoSQdA_I_TqTbatjS9peXuVwpU0sARsiY61Fwd0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NDkz/ODctMTQ2OTA0MzY2/MS05MzA4LmpwZWc.jpeg" alt="Cover for Triumphant Return" style="max-width:120px; height:auto;" />
       </td>
@@ -1071,7 +1071,7 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/44854ef55d7f4212c2f5d1cc03e7ad76.png" alt="Cover for Visitors" style="max-width:120px; height:auto;" />
       </td>
@@ -1085,12 +1085,12 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 58</li>
+            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/Zc9_Jy2EEGdwK2NbP0VWBHGbvdRkSE7WaPrSasQcdDw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NjEw/NjUtMTMzMTI3NjIx/My5qcGVn.jpeg" alt="Cover for Neo" style="max-width:120px; height:auto;" />
       </td>
@@ -1108,7 +1108,7 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/fQLB6ystFhjLDF45gyISwxZKb5d_h_PIyIEukjbNpF4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NjQy/MTItMTMzOTQyNzY2/Ni00NTEzLmpwZWc.jpeg" alt="Cover for Singles" style="max-width:120px; height:auto;" />
       </td>
@@ -1126,7 +1126,7 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
       </td>
       <td>2012-05-08</td>
@@ -1143,7 +1143,7 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/gYV2FxoQsd4r3E1g7UKheZxwjxz07WqhzWQK3xd7PKQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTk4/MzgtMTM0NTY3Mjc1/Ny02NzM3LmpwZWc.jpeg" alt="Cover for Quantum Of Galaxy" style="max-width:120px; height:auto;" />
       </td>
@@ -1161,7 +1161,7 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/PR-O0-wFv9_DXYIiimNnVCccBqfAOs9PifBmKRr_oJI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNDU0/MzAtMTM1MzQxNTIx/NC02MDMwLmpwZWc.jpeg" alt="Cover for Galaxy Fighters" style="max-width:120px; height:auto;" />
       </td>
@@ -1179,7 +1179,7 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
       </td>
       <td>2012-11-22</td>
@@ -1198,7 +1198,7 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/tc6dvbFcqOCVj3qJ5ioiyaIKXNPchUId0L41ESniBHI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwODY1/NzMtMTM1NDc4NDM3/OC0xNDA1LmpwZWc.jpeg" alt="Cover for Evolution of Spirit" style="max-width:120px; height:auto;" />
       </td>
@@ -1216,25 +1216,7 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
     </tr>
     <tr>
-      <td>57</td>
-      <td>
-          <img src="https://i.discogs.com/DZ4ygK8yUTBxx-r7Y0aPpIqjfDkEsanukhAwehkNhvE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MzMy/NDEtMTQ3Mzg5OTkz/OS00ODYyLmpwZWc.jpeg" alt="Cover for Free tracks" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2013</td>
-      <td>Galaxion</td>
-      <td>Free tracks</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spacesynth" | relative_url }}">spacesynth</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>66</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/DZ4ygK8yUTBxx-r7Y0aPpIqjfDkEsanukhAwehkNhvE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MzMy/NDEtMTQ3Mzg5OTkz/OS00ODYyLmpwZWc.jpeg" alt="Cover for Aftershock" style="max-width:120px; height:auto;" />
       </td>
@@ -1252,7 +1234,25 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>44</td>
+      <td>
+          <img src="https://i.discogs.com/DZ4ygK8yUTBxx-r7Y0aPpIqjfDkEsanukhAwehkNhvE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MzMy/NDEtMTQ3Mzg5OTkz/OS00ODYyLmpwZWc.jpeg" alt="Cover for Free tracks" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013</td>
+      <td>Galaxion</td>
+      <td>Free tracks</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spacesynth" | relative_url }}">spacesynth</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/ATBNs2WH2oe0rU3XvA80gLdoVRMbVBqpT64ccTWI8kc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNjY0/NzYtMTQzNzU3MjEz/MS04NDE0LmpwZWc.jpeg" alt="Cover for Innerstellar Jam" style="max-width:120px; height:auto;" />
       </td>
@@ -1270,7 +1270,7 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/YmGBQ5Gdspd2rRarj3OnN5-G55qqyHzhVlJmSiAbkrs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MjYz/ODktMTQwMzc3MzAw/OS05NjYxLmpwZWc.jpeg" alt="Cover for The Irrelevance of Space &amp; Time" style="max-width:120px; height:auto;" />
       </td>
@@ -1288,7 +1288,7 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/itBh8WCIyrPDwJVW5as_cn5_0ziN_MrnsiXjnE1tqKI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NDQz/MjQtMTQwNjk5NDE5/Mi0zOTkyLmpwZWc.jpeg" alt="Cover for Super Galaxy" style="max-width:120px; height:auto;" />
       </td>
@@ -1306,7 +1306,7 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c5b15f91c6b94582c5da6100a924d881.png" alt="Cover for Gaia Omen" style="max-width:120px; height:auto;" />
       </td>
@@ -1332,7 +1332,7 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/Aki6JVwwq5vKwaavipGVJNddyKGBl4jhQePQGUTpI_c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyODg3/ODctMTQ3ODAxNDk2/Ny05MjQ1LmpwZWc.jpeg" alt="Cover for The Void" style="max-width:120px; height:auto;" />
       </td>
@@ -1354,7 +1354,7 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/bbBlibvZItC05kPgcebUkt5Wl58VVS2ymsjDD-B5cJg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MzU3/NjUtMTQ0OTk1Mjcx/NC02OTI1LmpwZWc.jpeg" alt="Cover for &quot;Поезд вне расписания&quot;" style="max-width:120px; height:auto;" />
       </td>
@@ -1374,7 +1374,7 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8bbcc0aa6b6eec2c7d1d1696749ef754.png" alt="Cover for Pathfinder" style="max-width:120px; height:auto;" />
       </td>
@@ -1394,7 +1394,7 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
       </td>
       <td>2016-04-15</td>
@@ -1411,12 +1411,12 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darksynth" | relative_url }}">darksynth</a> # 21</li>
+            <li> <a href="{{ "/tags/darksynth" | relative_url }}">darksynth</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/1qaOsuJYxKK1ObmlftRfD9iEKHw8Fjki1-VcuQdy0w0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzM4/MDU5LTE1NDEwMDg2/NzYtNzA1OC5qcGVn.jpeg" alt="Cover for Building Better Worlds" style="max-width:120px; height:auto;" />
       </td>
@@ -1434,7 +1434,7 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/SIdSsXw6TlnvjwuoOBgJ3zJj6OPYF3TC-uOLEAnaLlo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1NDY3/MTYtMTQ4MjQ3Nzk3/OC0yNTgyLmpwZWc.jpeg" alt="Cover for The Legacy Collection, Vol. II" style="max-width:120px; height:auto;" />
       </td>
@@ -1451,7 +1451,7 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/BtLFysVFenVC5_EFFs4SW9aIycszDzjGxIdKLQC0VnY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNjY3/MDMtMTU3ODY4MzQ1/OS0xMzEwLmpwZWc.jpeg" alt="Cover for Nocturn" style="max-width:120px; height:auto;" />
       </td>
@@ -1469,7 +1469,7 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/551941d55de03b8e31ed4c2e66901d43.png" alt="Cover for We Walk" style="max-width:120px; height:auto;" />
       </td>
@@ -1492,7 +1492,7 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5f9ba0d918d1988d903afd5aff819c71.png" alt="Cover for Undead Planet" style="max-width:120px; height:auto;" />
       </td>
@@ -1515,7 +1515,7 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d77d42680add76b78a5632fda72c852b.png" alt="Cover for Hex&#39;n Equinox" style="max-width:120px; height:auto;" />
       </td>
@@ -1536,12 +1536,12 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darksynth" | relative_url }}">darksynth</a> # 2</li>
+            <li> <a href="{{ "/tags/darksynth" | relative_url }}">darksynth</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/Y2EnTIAP3L7jxUSGyMh-jW_QVver8VQVflgSX6S_9as/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTk4/NDM4LTE2NDUxMjY0/MTQtODE3Ny5qcGVn.jpeg" alt="Cover for Walk On Water" style="max-width:120px; height:auto;" />
       </td>
@@ -1559,7 +1559,7 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/77c306c1e11f325d36626453f5d5ec93.png" alt="Cover for Exploration 84" style="max-width:120px; height:auto;" />
       </td>
@@ -1580,7 +1580,7 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a563a1e6b833fc4d394bccf5dd7f72a4.png" alt="Cover for Worlds Apart" style="max-width:120px; height:auto;" />
       </td>
@@ -1598,7 +1598,7 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/7tf_Z2jmvpOKHPk0yeh0hkcpxgVxBtCrk6ztxuXPofQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjU1/NTYzLTE1NzkwMTYz/MTMtODU2NC5qcGVn.jpeg" alt="Cover for Alonzo" style="max-width:120px; height:auto;" />
       </td>
@@ -1616,7 +1616,7 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/qfx5ufRX1OLyo5Dlld0Enom47LPRIxLdKcGMfkYhQww/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTAz/NTQ1LTE1NDgxMDU3/OTctNTQ0MS5qcGVn.jpeg" alt="Cover for The Way" style="max-width:120px; height:auto;" />
       </td>
@@ -1646,7 +1646,7 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/x2HeKU1deZ2Auf2fBG079SKxNrkcUlOtcuE-wfUmjwU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzMw/OTkwLTE1OTc4NTUz/ODUtMTI5Ni5qcGVn.jpeg" alt="Cover for Hyperspace Drifter 3" style="max-width:120px; height:auto;" />
       </td>
@@ -1664,7 +1664,7 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/AEdgdAQT5DC5vdUZnYco6WOolsMJ3Fd_EgarH39nv8E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTU1/MzQ5LTE2MDQzNzMw/NTktNTc5NS5qcGVn.jpeg" alt="Cover for Rigid Force Alpha: Extended Soundtrack" style="max-width:120px; height:auto;" />
       </td>
@@ -1685,7 +1685,7 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/ZF5Fyv5u5-ZJgaiM_-vAvMP6EqU65j9EvWqfOctXLkE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjMy/Nzc2LTE1MzkwMDIw/NzctMzYxMi5qcGVn.jpeg" alt="Cover for Occult 86" style="max-width:120px; height:auto;" />
       </td>
@@ -1705,7 +1705,7 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/jRdFn8NvexiVmOVDATFF7bDeEfWG-9mD6jG_4YwpHc8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzA1/NDQ0LTE1NjQ4NTMy/MzctMzU0NS5qcGVn.jpeg" alt="Cover for Planet 0712" style="max-width:120px; height:auto;" />
       </td>
@@ -1724,7 +1724,7 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/Disv2bvoujM5hsumtzgaAVJbyDWxNPCFiQvPsQYqVbE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTgw/MjM1LTE3MDA2NTYw/NzUtMjA2Ny5qcGVn.jpeg" alt="Cover for Matter" style="max-width:120px; height:auto;" />
       </td>
@@ -1743,7 +1743,7 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/gM_C0sC4ddvf9_7ZnSJlk3Khr9QCoSi2nyIGZ6QZobY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTEz/MTc4LTE1ODM5NjAx/MDgtNTQ2Ny5qcGVn.jpeg" alt="Cover for Sonorous" style="max-width:120px; height:auto;" />
       </td>
@@ -1762,7 +1762,7 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/LwaKQ49h4sLSxn5XfF6u2zdXYi2hHmubhiu2lOCi6r0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzY2/MzM3LTE1OTAzNjU3/MDAtNDMzMC5qcGVn.jpeg" alt="Cover for Shadow zone" style="max-width:120px; height:auto;" />
       </td>
@@ -1792,7 +1792,7 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>89</td>
       <td>
           <img src="https://i.discogs.com/zn2JEAa8bQzNKY6FMoxLEANqGJVaPM2Dpj4s1m5z_9E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjQ2/NTA5LTE2MDU5MTkx/NDEtMTYzMC5qcGVn.jpeg" alt="Cover for Nature music" style="max-width:120px; height:auto;" />
       </td>
@@ -1822,13 +1822,110 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>66</td>
       <td>
-          <img src="https://i.discogs.com/KqR99Hi88I3yKWCi8n6fSwDiI2miw0EcbvxLICZ2UTU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNDcy/MTgtMTQzNzA4MDU1/Mi0yNzE1LnBuZw.jpeg" alt="Cover for On the brink of the Universe" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f6fe82b87f964a778492f6de77a4c190.png" alt="Cover for Dance in Space (single)" style="max-width:120px; height:auto;" />
       </td>
       <td>2022</td>
       <td>Besto</td>
-      <td>On the brink of the Universe</td>
+      <td>Dance in Space (single)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russia" | relative_url }}">russia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spacesynth" | relative_url }}">spacesynth</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 60</li>
+            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 86</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>
+          <img src="https://i.discogs.com/BHjI1becDl703-ar79942-KHn8Oq7q_D4jR_hWwLvxA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDgx/NTAzLTE2ODI4ODQz/OTUtODcwMy5qcGVn.jpeg" alt="Cover for Demo Version" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022</td>
+      <td>Besto</td>
+      <td>Demo Version</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/composer" | relative_url }}">composer</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russia" | relative_url }}">russia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spacesynth" | relative_url }}">spacesynth</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 78</li>
+            <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 95</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8e76eae508bf41aa90b6bd1f6ca4d6a3.png" alt="Cover for The Strange worlds (new sound)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022</td>
+      <td>Besto</td>
+      <td>The Strange worlds (new sound)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russia" | relative_url }}">russia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spacesynth" | relative_url }}">spacesynth</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 79</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>
+          <img src="https://i.discogs.com/KqR99Hi88I3yKWCi8n6fSwDiI2miw0EcbvxLICZ2UTU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNDcy/MTgtMTQzNzA4MDU1/Mi0yNzE1LnBuZw.jpeg" alt="Cover for Absolute abstraction" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022</td>
+      <td>Besto</td>
+      <td>Absolute abstraction</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/composer" | relative_url }}">composer</a></li>
@@ -1838,6 +1935,7 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russia" | relative_url }}">russia</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a></li>
@@ -1851,12 +1949,13 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 86</li>
+            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 80</li>
+            <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/KqR99Hi88I3yKWCi8n6fSwDiI2miw0EcbvxLICZ2UTU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNDcy/MTgtMTQzNzA4MDU1/Mi0yNzE1LnBuZw.jpeg" alt="Cover for Castle in the air" style="max-width:120px; height:auto;" />
       </td>
@@ -1888,19 +1987,19 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 2</li>
             <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 81</li>
+            <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>83</td>
       <td>
-          <img src="https://i.discogs.com/KqR99Hi88I3yKWCi8n6fSwDiI2miw0EcbvxLICZ2UTU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNDcy/MTgtMTQzNzA4MDU1/Mi0yNzE1LnBuZw.jpeg" alt="Cover for Absolute abstraction" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/KqR99Hi88I3yKWCi8n6fSwDiI2miw0EcbvxLICZ2UTU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNDcy/MTgtMTQzNzA4MDU1/Mi0yNzE1LnBuZw.jpeg" alt="Cover for On the brink of the Universe" style="max-width:120px; height:auto;" />
       </td>
       <td>2022</td>
       <td>Besto</td>
-      <td>Absolute abstraction</td>
+      <td>On the brink of the Universe</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/composer" | relative_url }}">composer</a></li>
@@ -1910,7 +2009,6 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russia" | relative_url }}">russia</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a></li>
@@ -1924,110 +2022,13 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 3</li>
-            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 80</li>
+            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 86</li>
+            <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8e76eae508bf41aa90b6bd1f6ca4d6a3.png" alt="Cover for The Strange worlds (new sound)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2022</td>
-      <td>Besto</td>
-      <td>The Strange worlds (new sound)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russia" | relative_url }}">russia</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spacesynth" | relative_url }}">spacesynth</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 79</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>22</td>
-      <td>
-          <img src="https://i.discogs.com/BHjI1becDl703-ar79942-KHn8Oq7q_D4jR_hWwLvxA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDgx/NTAzLTE2ODI4ODQz/OTUtODcwMy5qcGVn.jpeg" alt="Cover for Demo Version" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2022</td>
-      <td>Besto</td>
-      <td>Demo Version</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/composer" | relative_url }}">composer</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russia" | relative_url }}">russia</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spacesynth" | relative_url }}">spacesynth</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 5</li>
-            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 78</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>35</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f6fe82b87f964a778492f6de77a4c190.png" alt="Cover for Dance in Space (single)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2022</td>
-      <td>Besto</td>
-      <td>Dance in Space (single)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russia" | relative_url }}">russia</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spacesynth" | relative_url }}">spacesynth</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 15</li>
-            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 60</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>71</td>
+      <td>30</td>
       <td>
       </td>
       <td>2023</td>
@@ -2044,20 +2045,17 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>87</td>
       <td>
       </td>
       <td></td>
-      <td>Starlight Synthmusic</td>
-      <td>Faraway From Earth</td>
+      <td>Julius Krebs</td>
+      <td>Mandarinen Traume (unmixed tracks)</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spacesynth" | relative_url }}">spacesynth</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
         </ul>
       </td>
       <td>
@@ -2066,7 +2064,7 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>92</td>
       <td>
       </td>
       <td></td>
@@ -2086,17 +2084,20 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>98</td>
       <td>
       </td>
       <td></td>
-      <td>Julius Krebs</td>
-      <td>Mandarinen Traume (unmixed tracks)</td>
+      <td>Starlight Synthmusic</td>
+      <td>Faraway From Earth</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spacesynth" | relative_url }}">spacesynth</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
         </ul>
       </td>
       <td>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T07:15:45.898Z
+date: 2025-12-06T14:44:13.628Z
 permalink: tags/postclassical
 title: postclassical
 ---
 
 ## postclassical
 
-Last updated: <time datetime="2025-12-04T07:15:45.898Z">Thu Dec 04 2025 09:15:45 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T14:44:13.628Z">Sat Dec 06 2025 16:44:13 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -258,10 +258,10 @@ Postclassical music is a term used to describe contemporary classical music that
             <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 18</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 21</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 22</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 24</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 38</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 55</li>
             <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 67</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 77</li>
             <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 98</li>
         </ul>
       </td>
@@ -355,7 +355,7 @@ Postclassical music is a term used to describe contemporary classical music that
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 35</li>
             <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 38</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 41</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 56</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 45</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 62</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 75</li>
         </ul>
@@ -403,7 +403,7 @@ Postclassical music is a term used to describe contemporary classical music that
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 50</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 51</li>
             <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 56</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 59</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 61</li>
@@ -454,15 +454,15 @@ Postclassical music is a term used to describe contemporary classical music that
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 23</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 28</li>
-            <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 29</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 29</li>
+            <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 29</li>
             <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 32</li>
             <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 41</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 41</li>
             <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 46</li>
             <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 65</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -501,6 +501,7 @@ Postclassical music is a term used to describe contemporary classical music that
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 22</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 27</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 28</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 28</li>
@@ -509,7 +510,6 @@ Postclassical music is a term used to describe contemporary classical music that
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 38</li>
             <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 40</li>
             <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 61</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -631,8 +631,8 @@ Postclassical music is a term used to describe contemporary classical music that
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 22</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 25</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 33</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 35</li>
             <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 62</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 66</li>
             <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 68</li>
             <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 97</li>
         </ul>
@@ -680,9 +680,9 @@ Postclassical music is a term used to describe contemporary classical music that
         <ul>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 31</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 36</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 42</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 45</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 53</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 59</li>
             <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 67</li>
             <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 96</li>
         </ul>
@@ -727,7 +727,7 @@ Postclassical music is a term used to describe contemporary classical music that
             <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 7</li>
             <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 9</li>
             <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 16</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 36</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -769,7 +769,7 @@ Postclassical music is a term used to describe contemporary classical music that
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 47</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 54</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 58</li>
             <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 68</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 72</li>
@@ -867,12 +867,12 @@ Postclassical music is a term used to describe contemporary classical music that
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 1</li>
             <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 59</li>
             <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 84</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 95</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 96</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 100</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -921,12 +921,12 @@ Postclassical music is a term used to describe contemporary classical music that
         <ul>
             <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 12</li>
             <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 21</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 26</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 42</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 43</li>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 53</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 53</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 53</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 72</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 75</li>
             <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 89</li>
         </ul>
       </td>
@@ -953,7 +953,7 @@ Postclassical music is a term used to describe contemporary classical music that
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
       </td>
       <td>2008-08-25</td>
@@ -970,7 +970,7 @@ Postclassical music is a term used to describe contemporary classical music that
       <td>
         <ul>
             <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 48</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 49</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -993,12 +993,12 @@ Postclassical music is a term used to describe contemporary classical music that
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 13</li>
             <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 45</li>
             <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 67</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 68</li>
             <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 69</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 78</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 88</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 94</li>
         </ul>
       </td>
@@ -1125,14 +1125,14 @@ Postclassical music is a term used to describe contemporary classical music that
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 15</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 32</li>
             <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 33</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 38</li>
             <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 46</li>
-            <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 52</li>
             <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 52</li>
+            <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 52</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 71</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 86</li>
             <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 95</li>
         </ul>
       </td>
@@ -1216,15 +1216,15 @@ Postclassical music is a term used to describe contemporary classical music that
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 1</li>
             <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 1</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 4</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 1</li>
             <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 4</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 4</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 4</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 7</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 11</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 12</li>
             <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 26</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1245,13 +1245,13 @@ Postclassical music is a term used to describe contemporary classical music that
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 31</li>
             <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 35</li>
             <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 47</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 52</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 58</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 66</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 67</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1273,10 +1273,10 @@ Postclassical music is a term used to describe contemporary classical music that
       <td>
         <ul>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 37</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 38</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 42</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 51</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 60</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1298,9 +1298,9 @@ Postclassical music is a term used to describe contemporary classical music that
         <ul>
             <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 7</li>
             <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 8</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 10</li>
             <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 32</li>
             <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 48</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1448,9 +1448,9 @@ Postclassical music is a term used to describe contemporary classical music that
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 2</li>
             <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 18</li>
             <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 29</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1568,10 +1568,10 @@ Postclassical music is a term used to describe contemporary classical music that
         <ul>
             <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 17</li>
             <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 24</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 29</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 46</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 61</li>
             <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 71</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 72</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 74</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 77</li>
         </ul>
@@ -1592,10 +1592,10 @@ Postclassical music is a term used to describe contemporary classical music that
       <td>
         <ul>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 30</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 33</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 35</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 37</li>
             <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 50</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 68</li>
             <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 74</li>
             <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 80</li>
         </ul>
@@ -1621,7 +1621,7 @@ Postclassical music is a term used to describe contemporary classical music that
             <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 13</li>
             <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 13</li>
             <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 24</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 26</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1707,7 +1707,7 @@ Postclassical music is a term used to describe contemporary classical music that
         <ul>
             <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 42</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 45</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 45</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 56</li>
             <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 64</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 76</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 93</li>
@@ -1842,7 +1842,7 @@ Postclassical music is a term used to describe contemporary classical music that
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/_pgwQANEWDqP3kGUg3RFEGCe-6aNpx_zPIjo-vK4B6c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njk4/MDg1LTE1OTgyMTA1/MjgtMzk5OS5qcGVn.jpeg" alt="Cover for 24 Postcards" style="max-width:120px; height:auto;" />
       </td>
@@ -1859,8 +1859,8 @@ Postclassical music is a term used to describe contemporary classical music that
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 48</li>
             <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 49</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1881,8 +1881,8 @@ Postclassical music is a term used to describe contemporary classical music that
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 4</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 4</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 4</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 5</li>
             <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 69</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1925,10 +1925,10 @@ Postclassical music is a term used to describe contemporary classical music that
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 19</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 20</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 24</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 27</li>
             <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 43</li>
             <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 66</li>
             <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 70</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -2074,14 +2074,14 @@ Postclassical music is a term used to describe contemporary classical music that
       <td>
         <ul>
             <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 14</li>
-            <li> <a href="{{ "/tags/ukrainian" | relative_url }}">ukrainian</a> # 23</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 25</li>
             <li> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a> # 27</li>
             <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 30</li>
+            <li> <a href="{{ "/tags/ukraine" | relative_url }}">ukraine</a> # 34</li>
             <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 42</li>
-            <li> <a href="{{ "/tags/ukraine" | relative_url }}">ukraine</a> # 67</li>
             <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 69</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 73</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 76</li>
+            <li> <a href="{{ "/tags/ukrainian" | relative_url }}">ukrainian</a> # 78</li>
         </ul>
       </td>
     </tr>
