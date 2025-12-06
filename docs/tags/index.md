@@ -1,18 +1,22 @@
 ---
 category: list
-date: 2025-12-06T12:03:31.844Z
+date: 2025-12-06T12:14:35.205Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-12-06T12:03:31.844Z">Sat Dec 06 2025 14:03:31 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T12:14:35.205Z">Sat Dec 06 2025 14:14:35 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [chiptune]({{ "tags/chiptune" | relative_url }}) | <time datetime="2025-12-06T12:14:35.205Z">Sat Dec 06 2025 14:14:35 GMT+0200 (Eastern European Standard Time)</time> |
+| [russia]({{ "tags/russia" | relative_url }}) | <time datetime="2025-12-06T12:06:01.150Z">Sat Dec 06 2025 14:06:01 GMT+0200 (Eastern European Standard Time)</time> |
+| [chamber]({{ "tags/chamber" | relative_url }}) | <time datetime="2025-12-06T12:04:28.038Z">Sat Dec 06 2025 14:04:28 GMT+0200 (Eastern European Standard Time)</time> |
+| [polish jazz]({{ "tags/polish-jazz" | relative_url }}) | <time datetime="2025-12-06T12:04:02.829Z">Sat Dec 06 2025 14:04:02 GMT+0200 (Eastern European Standard Time)</time> |
 | [german thrash metal]({{ "tags/german-thrash-metal" | relative_url }}) | <time datetime="2025-12-06T12:03:31.844Z">Sat Dec 06 2025 14:03:31 GMT+0200 (Eastern European Standard Time)</time> |
 | [croatian]({{ "tags/croatian" | relative_url }}) | <time datetime="2025-12-06T12:03:25.173Z">Sat Dec 06 2025 14:03:25 GMT+0200 (Eastern European Standard Time)</time> |
 | [catalan]({{ "tags/catalan" | relative_url }}) | <time datetime="2025-12-06T12:02:59.539Z">Sat Dec 06 2025 14:02:59 GMT+0200 (Eastern European Standard Time)</time> |
@@ -1383,7 +1387,3 @@ Last updated: <time datetime="2025-12-06T12:03:31.844Z">Sat Dec 06 2025 14:03:31
 | [venezuela]({{ "tags/venezuela" | relative_url }}) | <time datetime="2025-12-04T07:12:25.616Z">Thu Dec 04 2025 09:12:25 GMT+0200 (Eastern European Standard Time)</time> |
 | [hindi]({{ "tags/hindi" | relative_url }}) | <time datetime="2025-12-04T07:12:16.173Z">Thu Dec 04 2025 09:12:16 GMT+0200 (Eastern European Standard Time)</time> |
 | [rac]({{ "tags/rac" | relative_url }}) | <time datetime="2025-12-04T07:12:10.607Z">Thu Dec 04 2025 09:12:10 GMT+0200 (Eastern European Standard Time)</time> |
-| [chiptune]({{ "tags/chiptune" | relative_url }}) | <time datetime="2025-12-04T07:12:04.236Z">Thu Dec 04 2025 09:12:04 GMT+0200 (Eastern European Standard Time)</time> |
-| [russia]({{ "tags/russia" | relative_url }}) | <time datetime="2025-12-04T07:11:58.151Z">Thu Dec 04 2025 09:11:58 GMT+0200 (Eastern European Standard Time)</time> |
-| [chamber]({{ "tags/chamber" | relative_url }}) | <time datetime="2025-12-04T07:11:29.422Z">Thu Dec 04 2025 09:11:29 GMT+0200 (Eastern European Standard Time)</time> |
-| [polish jazz]({{ "tags/polish-jazz" | relative_url }}) | <time datetime="2025-12-04T07:11:24.204Z">Thu Dec 04 2025 09:11:24 GMT+0200 (Eastern European Standard Time)</time> |

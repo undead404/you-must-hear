@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T07:11:29.422Z
+date: 2025-12-06T12:04:28.038Z
 permalink: tags/chamber
 title: chamber
 ---
 
 ## chamber
 
-Last updated: <time datetime="2025-12-04T07:11:29.422Z">Thu Dec 04 2025 09:11:29 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T12:04:28.038Z">Sat Dec 06 2025 14:04:28 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
   </thead>
   <tbody>
     <tr>
-      <td>36</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/6FDX9OwPStsvCJrm6woSfnJXZnyeFGC5vqFCx-eR4Xc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mzg2/NTA3LTE2NjIwOTI0/OTctNDA4Mi5qcGVn.jpeg" alt="Cover for White Man Sleeps" style="max-width:120px; height:auto;" />
       </td>
@@ -48,7 +48,27 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>24</td>
+      <td>
+          <img src="https://i.discogs.com/Tahlpuaiw-g8CVa_DXHMP6dBElLHYr1RofHjG-y7l6E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzQw/MjEtMTIxOTUzMjQ4/Ni5qcGVn.jpeg" alt="Cover for The Baroque Beatles" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1965</td>
+      <td>Joshua Rifkin</td>
+      <td>The Baroque Beatles</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baroque" | relative_url }}">baroque</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/pYZK7ukZla63a44St9H-MUARliqJSsLUFfrtUQDx_zY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTE1/MTIzLTE2MzYzNzc3/NzAtMTA1NS5qcGVn.jpeg" alt="Cover for Haydn: The Complete Symphonies" style="max-width:120px; height:auto;" />
       </td>
@@ -69,27 +89,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>77</td>
-      <td>
-          <img src="https://i.discogs.com/Tahlpuaiw-g8CVa_DXHMP6dBElLHYr1RofHjG-y7l6E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzQw/MjEtMTIxOTUzMjQ4/Ni5qcGVn.jpeg" alt="Cover for The Baroque Beatles" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1965</td>
-      <td>Joshua Rifkin</td>
-      <td>The Baroque Beatles</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baroque" | relative_url }}">baroque</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>68</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/ZbJfh2v79tPLUAXyszX-sZTy0B2FY8qT1kKqoKmTWqQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjU1/NjgtMTMyNTg1ODM0/MC5qcGVn.jpeg" alt="Cover for Vejvanovský (Musica Florea)" style="max-width:120px; height:auto;" />
       </td>
@@ -105,12 +105,12 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/czech-classical" | relative_url }}">czech classical</a> # 45</li>
+            <li> <a href="{{ "/tags/czech-classical" | relative_url }}">czech classical</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/DFb2f76JYtg3PZMBFJrGvdPOvJbmd2iJfia2IgHL5Ws/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NDU0/MTAtMTQ2Nzg0NzE4/Mi01NjUxLmpwZWc.jpeg" alt="Cover for Excerpts Vol.2 (Chamber Music)" style="max-width:120px; height:auto;" />
       </td>
@@ -126,13 +126,13 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/czech-classical" | relative_url }}">czech classical</a> # 54</li>
-            <li> <a href="{{ "/tags/classical-composer" | relative_url }}">classical composer</a> # 89</li>
+            <li> <a href="{{ "/tags/classical-composer" | relative_url }}">classical composer</a> # 12</li>
+            <li> <a href="{{ "/tags/czech-classical" | relative_url }}">czech classical</a> # 47</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/937e71f06b3c4af4bc25447a47b63ee8.png" alt="Cover for Mooncircles" style="max-width:120px; height:auto;" />
       </td>
@@ -153,7 +153,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/fhHCqv3Xex2HkxxV5iUxF7Tq1-y7SER_7dwnZ9MxGt4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NTE2/ODEtMTY1MjQ3NDUw/OC03NzEzLmpwZWc.jpeg" alt="Cover for VILLA-LOBOS: Chamber Music" style="max-width:120px; height:auto;" />
       </td>
@@ -171,7 +171,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/vuXrt1pXbwTOasPcyb2VVf3Ws9rUzutOCfuw8rbNGwM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MjAx/MzMtMTM3MDE2ODQw/OS04NDAxLmpwZWc.jpeg" alt="Cover for Chamber Music" style="max-width:120px; height:auto;" />
       </td>
@@ -189,32 +189,13 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       <td>
         <ul>
             <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 15</li>
-            <li> <a href="{{ "/tags/czech-classical" | relative_url }}">czech classical</a> # 73</li>
-            <li> <a href="{{ "/tags/classical-composer" | relative_url }}">classical composer</a> # 80</li>
+            <li> <a href="{{ "/tags/classical-composer" | relative_url }}">classical composer</a> # 21</li>
+            <li> <a href="{{ "/tags/czech-classical" | relative_url }}">czech classical</a> # 28</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
-      <td>
-          <img src="https://i.discogs.com/sNvLhhCakAEGvlhUiB1bz76HNMFQ3cK6dy00X4a2g4w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQy/NzA3LTE1NDEwOTg0/NDktNjA1OC5qcGVn.jpeg" alt="Cover for Harrison Birtwistle: Refrains and Choruses" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1982</td>
-      <td>The Galliard Ensemble</td>
-      <td>Harrison Birtwistle: Refrains and Choruses</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>44</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/KSbRqgYDLOTAQC6AFGMpAw8qNk0A47IokEsr5gp65D4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjU0/ODItMTI4OTE3ODE0/My5qcGVn.jpeg" alt="Cover for Carols for Brass" style="max-width:120px; height:auto;" />
       </td>
@@ -233,7 +214,26 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>58</td>
+      <td>
+          <img src="https://i.discogs.com/sNvLhhCakAEGvlhUiB1bz76HNMFQ3cK6dy00X4a2g4w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQy/NzA3LTE1NDEwOTg0/NDktNjA1OC5qcGVn.jpeg" alt="Cover for Harrison Birtwistle: Refrains and Choruses" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1982</td>
+      <td>The Galliard Ensemble</td>
+      <td>Harrison Birtwistle: Refrains and Choruses</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/XorR2OLKHt1Q4qnAn2DmgBBqPbqgMmWoljUqmRZAItY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzI4/NjA5LTE1MDEwMTgw/NzMtNTkyOC5qcGVn.jpeg" alt="Cover for Brahms: String Sextets" style="max-width:120px; height:auto;" />
       </td>
@@ -254,27 +254,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>9</td>
-      <td>
-          <img src="https://i.discogs.com/XPWz4AexBJNPPL5wM18DbjVuvj7S-A9oro0v9lQ5ZjQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjUz/NzMyLTE2MDYwNDYx/NDgtMjY0OC5qcGVn.jpeg" alt="Cover for Dvořák: The Complete String Quartets" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1988</td>
-      <td>Antonín Dvořák</td>
-      <td>Dvořák: The Complete String Quartets</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/string-quartet" | relative_url }}">string quartet</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>14</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/DrfKi7N5eQfLYSH7Vlqxgdjz7p39jiWk_rWi_zU2U28/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MzAx/MDgtMTQ4MDUyNjk5/MS05ODEyLmpwZWc.jpeg" alt="Cover for Complete Chamber &amp; Orchestral Works" style="max-width:120px; height:auto;" />
       </td>
@@ -294,7 +274,27 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>92</td>
+      <td>
+          <img src="https://i.discogs.com/XPWz4AexBJNPPL5wM18DbjVuvj7S-A9oro0v9lQ5ZjQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjUz/NzMyLTE2MDYwNDYx/NDgtMjY0OC5qcGVn.jpeg" alt="Cover for Dvořák: The Complete String Quartets" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1988</td>
+      <td>Antonín Dvořák</td>
+      <td>Dvořák: The Complete String Quartets</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/string-quartet" | relative_url }}">string quartet</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/Dn7uYVpHyocPazowEtf-JXzN4Wcgw9LtZDf5jdsZwJY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzQz/MDI2LTE2Nzc4MDM1/NDctNzQ0My5qcGVn.jpeg" alt="Cover for BEST OF BAROQUE MUSIC (COLOGNE CHAMBER ORCHESTRA)" style="max-width:120px; height:auto;" />
       </td>
@@ -308,12 +308,12 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baroque" | relative_url }}">baroque</a> # 18</li>
+            <li> <a href="{{ "/tags/baroque" | relative_url }}">baroque</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/23abc4940abc4fe895a738aa00215bc8.png" alt="Cover for Музика за Плашење Деца и Нервирање Возрасни, II" style="max-width:120px; height:auto;" />
       </td>
@@ -330,7 +330,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/DFb2f76JYtg3PZMBFJrGvdPOvJbmd2iJfia2IgHL5Ws/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NDU0/MTAtMTQ2Nzg0NzE4/Mi01NjUxLmpwZWc.jpeg" alt="Cover for Fantasia for theremin" style="max-width:120px; height:auto;" />
       </td>
@@ -352,7 +352,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/d03cfzxyQsYMiTBanxk3JLtHgPK--JeQkFILK5CE_ZU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNzMz/ODMtMTMyMzM4ODkx/OS5qcGVn.jpeg" alt="Cover for Brahms: Sonatas for Cello and Piano" style="max-width:120px; height:auto;" />
       </td>
@@ -369,7 +369,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/2VGdXxsfkwJTTWimaxxm_cLLedFd3BSDyTZlwYvlcHg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNTY5/MzMtMTM5MTM2OTk3/MC00ODYwLmpwZWc.jpeg" alt="Cover for Bartók: Complete String Quartets" style="max-width:120px; height:auto;" />
       </td>
@@ -384,12 +384,12 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/string-quartet" | relative_url }}">string quartet</a> # 15</li>
+            <li> <a href="{{ "/tags/string-quartet" | relative_url }}">string quartet</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/Nh8mKMgAN8xa8VVms2p0Xk20jGUv-7zQavVdmPDmBhI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NzE4/MDEtMTQwNzc0ODMz/NS0xMjEwLmpwZWc.jpeg" alt="Cover for IRELAND: String Quartets Nos. 1 and 2 &#x2F; The Holy Boy" style="max-width:120px; height:auto;" />
       </td>
@@ -409,7 +409,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/YNnfrbsjZEHCBusTf5aQO99JPiFEwOHeyzV0-8NwBQc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDM0/MjM1LTE1MTc1OTkz/MTUtNjI0Ny5qcGVn.jpeg" alt="Cover for Chamber Music" style="max-width:120px; height:auto;" />
       </td>
@@ -429,7 +429,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/kuSNj8lWHBaoiPZWbZoVddPhzu3Qzwn_9QXmQ95dI8w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDAx/MjMwLTE2NTA4NDYx/NDItNjc2My5qcGVn.jpeg" alt="Cover for COPLAND: Piano Sonata &#x2F; Piano Fantasy &#x2F; Piano Variations" style="max-width:120px; height:auto;" />
       </td>
@@ -446,13 +446,13 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/sonata" | relative_url }}">sonata</a> # 6</li>
             <li> <a href="{{ "/tags/classical-piano" | relative_url }}">classical piano</a> # 66</li>
-            <li> <a href="{{ "/tags/sonata" | relative_url }}">sonata</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2f230878be193eb342aac37493199f1f.png" alt="Cover for 1996" style="max-width:120px; height:auto;" />
       </td>
@@ -469,7 +469,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/sSInv_fl0zHOLMXGsuZV3hncd7VKciFvRTOS4uTVlQs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjQx/NjItMTI5OTk3Nzcw/My5qcGVn.jpeg" alt="Cover for Vivaldi" style="max-width:120px; height:auto;" />
       </td>
@@ -489,7 +489,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/PegJ-tX5I-e6CAeCQCReAW_kt20LcSo2cMP6EoMMj7A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NzUw/OTctMTQ4NDU4MDU5/NS01NTI5LmpwZWc.jpeg" alt="Cover for String Quartets No.1 &amp; 2 (Pavel Wallinger Quartet)" style="max-width:120px; height:auto;" />
       </td>
@@ -505,13 +505,13 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/string-quartet" | relative_url }}">string quartet</a> # 79</li>
-            <li> <a href="{{ "/tags/czech-classical" | relative_url }}">czech classical</a> # 89</li>
+            <li> <a href="{{ "/tags/czech-classical" | relative_url }}">czech classical</a> # 12</li>
+            <li> <a href="{{ "/tags/string-quartet" | relative_url }}">string quartet</a> # 22</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>80</td>
       <td>
       </td>
       <td>1999</td>
@@ -528,7 +528,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>100</td>
       <td>
           <img src="https://i.discogs.com/SR4YJxPRY1darnmLyNyk0q0qkzt8ZeVaYUefOUYiPK0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Mjcy/NDItMTMzMzk2MjU3/Ny5qcGVn.jpeg" alt="Cover for Martinu: Works For Cello And Piano, Vol. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -545,7 +545,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/-7HAgO1FutupEiwyGUod_yRKwFuV06nvW2TdEFkpisU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjg2/ODYzLTE0OTQ2OTA3/MTYtNDkxMy5qcGVn.jpeg" alt="Cover for Schnittke: Psalms Of Repentance" style="max-width:120px; height:auto;" />
       </td>
@@ -563,7 +563,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>93</td>
       <td>
           <img src="https://i.discogs.com/Y9ATl6YaHunYHWLVfY0X8Sc4J55sHMJgR8t4ggm3x_Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDg0/OTY3LTE2MzM0NjM3/NjEtNzk3Ni5qcGVn.jpeg" alt="Cover for Reicha - Complete String Quartets, Vol. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -580,7 +580,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/WIGypRjUE1P4lxVHhMeYkBzX-APnDWBgtgIDXehziO0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTU1/MTU4LTE1MjU0MjM1/OTEtNTMyMi5qcGVn.jpeg" alt="Cover for He Has Left Us Alone But Shafts Of Light Still Sometimes Grace The Corner Of Our Rooms..." style="max-width:120px; height:auto;" />
       </td>
@@ -600,25 +600,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>18</td>
-      <td>
-          <img src="https://i.discogs.com/aPdBSRfwxzjY7-75F177kMUAYxMqHdGH42kmJlXkUp8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzc5/OTgyLTE1MTUyNjk0/NzMtNDU5My5qcGVn.jpeg" alt="Cover for Works With Violoncello" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2001</td>
-      <td>Vasks</td>
-      <td>Works With Violoncello</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>40</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/vbz0vtnb73joopwS6aXrnTB3n_bF5ANpw3h-AJkEixg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzk2/NDcyLTE1OTc5NDk0/OTYtNzc5My5qcGVn.jpeg" alt="Cover for Sticky Melodies - CD 1" style="max-width:120px; height:auto;" />
       </td>
@@ -636,7 +618,25 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>83</td>
+      <td>
+          <img src="https://i.discogs.com/aPdBSRfwxzjY7-75F177kMUAYxMqHdGH42kmJlXkUp8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzc5/OTgyLTE1MTUyNjk0/NzMtNDU5My5qcGVn.jpeg" alt="Cover for Works With Violoncello" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Vasks</td>
+      <td>Works With Violoncello</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
       <td>
           <img src="https://i.discogs.com/Hgn-29rMih4UeyqnfNookbLyc6VnrY1DHqtbieXbmT4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTY3/ODA2LTE1MDAwNzA0/MzQtMzE1Mi5qcGVn.jpeg" alt="Cover for Poulenc: La Bal Masqué, Suite Française, Rapsodie Nègre, Le Bestiaire, Cocardes &amp; Aubade" style="max-width:120px; height:auto;" />
       </td>
@@ -654,7 +654,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/nEny3hS1RkUHhSbQi9QXbJAsgcRBj3zaY_5CDsmjtrw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzcz/MzY3LTE1NTI5ODc2/MjctNzYzNC5qcGVn.jpeg" alt="Cover for Opus Number Zoo - Twentieth Century Wind Quintets" style="max-width:120px; height:auto;" />
       </td>
@@ -672,7 +672,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/eRZn_T3gO5nKNZFV6FcnLjgTu2pt80meuvIByMWqVfc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDE1/MTYtMTUwMTI0MjI2/NC00MjU5LmpwZWc.jpeg" alt="Cover for Des Pas Rayes" style="max-width:120px; height:auto;" />
       </td>
@@ -683,18 +683,20 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a></li>
             <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/chamber-rock" | relative_url }}">chamber rock</a></li>
         </ul>
       </td>
       <td>
         <ul>
             <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 29</li>
+            <li> <a href="{{ "/tags/chamber-rock" | relative_url }}">chamber rock</a> # 30</li>
             <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 32</li>
             <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/EEvot0aOa4TyAWF-mp8FTKFR9FRcibGVDEk_VFNexSk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDUx/ODctMTMwODUwNjIz/My5qcGVn.jpeg" alt="Cover for Vivaldi: Le Quattro Stagioni" style="max-width:120px; height:auto;" />
       </td>
@@ -715,7 +717,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/n8ciz7rvZkTJrlYOWzr8UFe9YFnuhkTjp9EyEeUMikI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4Mzc5/NDItMTQ0MzY4MDg3/NS0zNjU2LmpwZWc.jpeg" alt="Cover for The Moon And Stars Remain In The Morning Sky" style="max-width:120px; height:auto;" />
       </td>
@@ -740,7 +742,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/g00RyUu2HA4rROOpIL9rLRC5X80EYkCyaNOdtw26XmU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzIw/MjQ3LTE2MjA5ODUw/NDEtMzU0MS5qcGVn.jpeg" alt="Cover for Holmboe: Chamber Music, Vol. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -757,7 +759,35 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>36</td>
+      <td>
+      </td>
+      <td>2008</td>
+      <td>Mt. Moon</td>
+      <td>A Burial In Seven Births</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/arcade-fire" | relative_url }}">arcade fire</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/diy" | relative_url }}">diy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/organ" | relative_url }}">organ</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/portland" | relative_url }}">portland</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/arcade-fire" | relative_url }}">arcade fire</a> # 56</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/lsKJBOuS2UobwmyZPikOHb4MKbmOj5m_bBEpHksF41M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDA4/MDAtMTM2NDk0Mzg1/Ni0yNzIyLmpwZWc.jpeg" alt="Cover for Battlefield: Bad Company OST" style="max-width:120px; height:auto;" />
       </td>
@@ -776,33 +806,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>65</td>
-      <td>
-      </td>
-      <td>2008</td>
-      <td>Mt. Moon</td>
-      <td>A Burial In Seven Births</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/diy" | relative_url }}">diy</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/organ" | relative_url }}">organ</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/portland" | relative_url }}">portland</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
       </td>
       <td>2008-05</td>
@@ -811,6 +815,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/arcade-fire" | relative_url }}">arcade fire</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/diy" | relative_url }}">diy</a></li>
@@ -824,12 +829,13 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/arcade-fire" | relative_url }}">arcade fire</a> # 27</li>
             <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/de87626ab094e50647b98a6a410e5c9c.png" alt="Cover for Will-o&#39;-Wisp" style="max-width:120px; height:auto;" />
       </td>
@@ -861,7 +867,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/74bb6b6d437047f7aee4b07b65e56dd1.png" alt="Cover for Beijing 2008" style="max-width:120px; height:auto;" />
       </td>
@@ -928,7 +934,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/25957a1b26a24d0692b89cc1dcf21a5f.png" alt="Cover for Broken Toys" style="max-width:120px; height:auto;" />
       </td>
@@ -991,7 +997,28 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>3</td>
+      <td>
+          <img src="https://i.discogs.com/5AyHM7qBtQfmSURyy0_RdPF-Yu7xW4_laiZGJnd4LCo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTk2/MjUzLTE2MjI3MjM1/NTgtODcwMy5qcGVn.jpeg" alt="Cover for Schumann" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Robert Schumann</td>
+      <td>Schumann</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/quartet" | relative_url }}">quartet</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/quartet" | relative_url }}">quartet</a> # 2</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/Gm_X1Q_6KReC1F6NN11qTzmnxGfDoKS_yWPefsL4ADQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTU3/NjUxLTE1Mzc1Njky/OTYtNDgzNS5qcGVn.jpeg" alt="Cover for Madrona" style="max-width:120px; height:auto;" />
       </td>
@@ -1016,35 +1043,14 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a> # 3</li>
-            <li> <a href="{{ "/tags/oboe" | relative_url }}">oboe</a> # 10</li>
             <li> <a href="{{ "/tags/keyboard" | relative_url }}">keyboard</a> # 44</li>
+            <li> <a href="{{ "/tags/oboe" | relative_url }}">oboe</a> # 91</li>
+            <li> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>98</td>
-      <td>
-          <img src="https://i.discogs.com/5AyHM7qBtQfmSURyy0_RdPF-Yu7xW4_laiZGJnd4LCo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTk2/MjUzLTE2MjI3MjM1/NTgtODcwMy5qcGVn.jpeg" alt="Cover for Schumann" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2009</td>
-      <td>Robert Schumann</td>
-      <td>Schumann</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/quartet" | relative_url }}">quartet</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/quartet" | relative_url }}">quartet</a> # 99</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>78</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/6mHrZVdvxgrieAt2Ikn82UjHNgrr7iTHcJspL5WnOD0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMTkz/MjYtMTM3NzY3OTEy/NC0xNjM0LmpwZWc.jpeg" alt="Cover for N" style="max-width:120px; height:auto;" />
       </td>
@@ -1066,7 +1072,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5ecb2f8ac41649a8b40010cccf21d52b.png" alt="Cover for Sorry Monsters, I Have To Grow" style="max-width:120px; height:auto;" />
       </td>
@@ -1079,13 +1085,14 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/chamber-rock" | relative_url }}">chamber rock</a> # 15</li>
             <li> <a href="{{ "/tags/choir" | relative_url }}">choir</a> # 42</li>
             <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c71bbb7ae20664df98576bb35aaba01f.png" alt="Cover for Wholeness" style="max-width:120px; height:auto;" />
       </td>
@@ -1108,7 +1115,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/63f725f0f4b4e70c3b50d0aa3afa586d.png" alt="Cover for Home EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1131,7 +1138,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e1f18c59ea1ede7320f5981d28f77dfe.png" alt="Cover for Faire" style="max-width:120px; height:auto;" />
       </td>
@@ -1145,13 +1152,14 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/chamber-rock" | relative_url }}">chamber rock</a> # 57</li>
             <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 58</li>
             <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9032ca274cd44364a4a0cc4934230889.png" alt="Cover for La Lechuza" style="max-width:120px; height:auto;" />
       </td>
@@ -1173,7 +1181,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
       </td>
       <td>2011-08</td>
@@ -1192,7 +1200,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/LcMKl7nPtmiz7KRSTM1NZ-VKPAbnJMw070Uiy3vhsaY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTAz/NzktMTMyMjM1NzIx/NS5qcGVn.jpeg" alt="Cover for Brightelephant" style="max-width:120px; height:auto;" />
       </td>
@@ -1213,7 +1221,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/rFgqqCvr9FDqL1RLYD2D8huYRo4064Jv-h3vDkrgvGA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTU3/MDI1LTE2NDM2OTcw/MjctMzk1MS5qcGVn.jpeg" alt="Cover for Enescu: String Quartets, Op. 22, Nos. 1 &amp; 2" style="max-width:120px; height:auto;" />
       </td>
@@ -1226,12 +1234,12 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/quartet" | relative_url }}">quartet</a> # 59</li>
+            <li> <a href="{{ "/tags/quartet" | relative_url }}">quartet</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/Sqd1mnGNNERTKMkgtadhDSy7N8ANhQH8sw7GzqWl46U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MzE5/NDgtMTM2NzU2ODE1/NS01ODIwLmpwZWc.jpeg" alt="Cover for Burning Screams Holocaust" style="max-width:120px; height:auto;" />
       </td>
@@ -1252,7 +1260,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e9ce909a4bb24fb6a3183122f6384edc.png" alt="Cover for Nude" style="max-width:120px; height:auto;" />
       </td>
@@ -1266,12 +1274,12 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 3</li>
+            <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/1jFVLKSUuZGKhDjbfX5zNiL9cwQnirx-7-GYSnovefM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MTE3/MjAtMTM3OTIwNzc4/Ny04ODYxLmpwZWc.jpeg" alt="Cover for Torture Chamber" style="max-width:120px; height:auto;" />
       </td>
@@ -1295,7 +1303,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/14KqSB4tgjYHOv7ivUSWIaco0lbi2dfEyhnrwsY9vGQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MDIx/NjUtMTQyMjg4Mjc2/MS01OTcwLmpwZWc.jpeg" alt="Cover for Kaija Saariaho: Chamber Works for Strings, Vol. 2" style="max-width:120px; height:auto;" />
       </td>
@@ -1312,7 +1320,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8f5405dfb474fdea8aab2e07fdbd78ce.png" alt="Cover for Film" style="max-width:120px; height:auto;" />
       </td>
@@ -1333,7 +1341,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/1Z72XQNMoJuqBjMU_Mk1rJv_dmfWbl4X_FJ1IgXM6jc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTQ0/NjItMTIzODcwMzQ0/Mi5qcGVn.jpeg" alt="Cover for Poetica: All Beauty Sleeps" style="max-width:120px; height:auto;" />
       </td>
@@ -1354,7 +1362,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
       </td>
       <td>2014-06-28</td>
@@ -1374,7 +1382,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/4WNhlW24_iCFgKK7NA6_2BoJC_kfgel26DKQWYRRoR4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NTc3/ODctMTM1MDU3MTIy/OC04OTk1LmpwZWc.jpeg" alt="Cover for A Portrait: PART" style="max-width:120px; height:auto;" />
       </td>
@@ -1392,7 +1400,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a71053a4fa388e9589ba2d8e2705cff.png" alt="Cover for Alvíssaras" style="max-width:120px; height:auto;" />
       </td>
@@ -1414,7 +1422,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8349a117e4a82da3398e5c1914f0f18e.png" alt="Cover for Unprecedented" style="max-width:120px; height:auto;" />
       </td>
@@ -1434,7 +1442,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5dc4f942fc11f0ad6eb544796fc4ff0b.png" alt="Cover for The Machine That Made Us" style="max-width:120px; height:auto;" />
       </td>
@@ -1451,7 +1459,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/4VQ-Mmwzny_cK4a_SDWjkLW5OOJfMwzdIpTnL35irdg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTIz/NjkwLTE1NDQ2MjA2/MTMtNDA0Ni5qcGVn.jpeg" alt="Cover for Reinecke: Complete String Quartets" style="max-width:120px; height:auto;" />
       </td>
@@ -1470,27 +1478,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>4</td>
-      <td>
-          <img src="https://i.discogs.com/DQvxz53-caXSYi-26mnr4HI5tezYc_ZbaGtD7I_p78I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjE1/NTk3LTE2MzE1MTkx/NzctOTIzOC5qcGVn.jpeg" alt="Cover for Dvořák: Complete Chamber Music for Piano &amp; Strings" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2019</td>
-      <td>Busch Trio</td>
-      <td>Dvořák: Complete Chamber Music for Piano &amp; Strings</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>26</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/L8T-_1RyJDjN_7MPRDeDrBLnuNGRbInj-6wo_JxsL5U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjA2/NzM1LTE1NzgwNjcy/NjQtOTQxNC5qcGVn.jpeg" alt="Cover for Brahms: The Piano Quartets" style="max-width:120px; height:auto;" />
       </td>
@@ -1510,7 +1498,27 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>98</td>
+      <td>
+          <img src="https://i.discogs.com/DQvxz53-caXSYi-26mnr4HI5tezYc_ZbaGtD7I_p78I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjE1/NTk3LTE2MzE1MTkx/NzctOTIzOC5qcGVn.jpeg" alt="Cover for Dvořák: Complete Chamber Music for Piano &amp; Strings" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019</td>
+      <td>Busch Trio</td>
+      <td>Dvořák: Complete Chamber Music for Piano &amp; Strings</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3105211ea8fd9433688b1a9909cf6518.png" alt="Cover for Neighborhood Watch" style="max-width:120px; height:auto;" />
       </td>
@@ -1530,7 +1538,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/TKWbE_cSOfaNRQBkIej-28qgfZoYSQSxqgnxI48n7dY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Mzc3/OTQyLTE3MDQ0NDIx/MjAtMTY0OC5qcGVn.jpeg" alt="Cover for Paganini: Quartets for Strings &amp; Guitar Nos. 1, 2 &amp; 9" style="max-width:120px; height:auto;" />
       </td>
@@ -1547,7 +1555,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/kHbjBNVJV1h5DJGRyCG_lj0QEZ_gM6-xKZZITTfY1_I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODgz/MzMyLTE2ODI0OTUz/ODgtODcxNC5qcGVn.jpeg" alt="Cover for Holmboe - String Quartets, Vol.1" style="max-width:120px; height:auto;" />
       </td>
@@ -1564,7 +1572,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/wkgKSt5QgLd5caGWk1OgipLcBrTzgtokjoQSBTt-N8k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTkz/MDQyLTE2NzU1Mzkz/NzctNjM5OS5wbmc.jpeg" alt="Cover for Psychodrama: 13 Variations" style="max-width:120px; height:auto;" />
       </td>
@@ -1583,7 +1591,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/ES3L37bYCDbUOEKJKKdBJR7rxBWkUn9Z-PYid-VpQdU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTQ1/MDEzLTE2NTQ5OTAy/MDctNTE0My5qcGVn.jpeg" alt="Cover for Blue Silence: Complete Works for String Quartet" style="max-width:120px; height:auto;" />
       </td>
@@ -1602,7 +1610,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/ZfSKkBxj2DFxVTG-KyRvqCRAIaKyeAu3Ks8axR4WPvU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTc3/MjU5LTE3MTc4Njkz/NzUtMjA2MS5qcGVn.jpeg" alt="Cover for Ruders: Clarinet Quintet, Throne &amp; Piano Quartet" style="max-width:120px; height:auto;" />
       </td>
@@ -1619,7 +1627,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>99</td>
       <td>
           <img src="https://i.discogs.com/-MqGL7FDs22StByxltQV6kJql4tPLQpem1HKKg4t-i0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzI0/OTMwLTE2NzgxMTU1/ODktMTAzOC5qcGVn.jpeg" alt="Cover for Weinberg - String Quartets, Volume 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1636,142 +1644,134 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>6</td>
       <td>
       </td>
       <td></td>
-      <td>浜渦正志</td>
-      <td>Masashi Hamauzu: Opus 4 - Piano and Chamber Music Works</td>
+      <td>Godspeed You! Black Emperor</td>
+      <td>f#a# (infinity)</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a> # 62</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 46</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>12</td>
       <td>
       </td>
       <td></td>
-      <td>Marzia Gaggioli</td>
-      <td>Classica N.12</td>
+      <td>Camera Sintetica</td>
+      <td>New Releases</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a> # 35</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/45e5b88e58ed4399b98698bafdfe29fa.png" alt="Cover for D-D-Praz Christmas" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>D-D-Praz</td>
+      <td>D-D-Praz Christmas</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baroque" | relative_url }}">baroque</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-composer" | relative_url }}">classical composer</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/composer" | relative_url }}">composer</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/flute" | relative_url }}">flute</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-baroque" | relative_url }}">italian baroque</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italy" | relative_url }}">italy</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/keyboard" | relative_url }}">keyboard</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oboe" | relative_url }}">oboe</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/quartet" | relative_url }}">quartet</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/string-quartet" | relative_url }}">string quartet</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/strings" | relative_url }}">strings</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/organ" | relative_url }}">organ</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oboe" | relative_url }}">oboe</a> # 34</li>
-            <li> <a href="{{ "/tags/keyboard" | relative_url }}">keyboard</a> # 38</li>
-            <li> <a href="{{ "/tags/quartet" | relative_url }}">quartet</a> # 69</li>
-            <li> <a href="{{ "/tags/classical-composer" | relative_url }}">classical composer</a> # 75</li>
-            <li> <a href="{{ "/tags/italian-baroque" | relative_url }}">italian baroque</a> # 85</li>
+            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>32</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/894a14b3f9e24cc48e297f55b50a32fc.png" alt="Cover for SPYFOX Monsters" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>SFIAS</td>
-      <td>SFIAS vs Betty Boop pt 2</td>
+      <td>SpyFox</td>
+      <td>SPYFOX Monsters</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baroque" | relative_url }}">baroque</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/composer" | relative_url }}">composer</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/greek" | relative_url }}">greek</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/english" | relative_url }}">english</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japan" | relative_url }}">japan</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ireland" | relative_url }}">ireland</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/irish" | relative_url }}">irish</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/paris" | relative_url }}">paris</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/proto-punk" | relative_url }}">proto-punk</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/samba" | relative_url }}">samba</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tango" | relative_url }}">tango</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 43</li>
-            <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 99</li>
+            <li> <a href="{{ "/tags/ireland" | relative_url }}">ireland</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>35</td>
       <td>
       </td>
       <td></td>
@@ -1838,252 +1838,322 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 48</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 53</li>
             <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 90</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>
+      </td>
+      <td></td>
+      <td>SFIAS</td>
+      <td>SFIAS vs Betty Boop pt 2</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/composer" | relative_url }}">composer</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/greek" | relative_url }}">greek</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japan" | relative_url }}">japan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/paris" | relative_url }}">paris</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/proto-punk" | relative_url }}">proto-punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/samba" | relative_url }}">samba</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tango" | relative_url }}">tango</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 58</li>
+            <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 99</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Marzia Gaggioli</td>
+      <td>Classica N.12</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baroque" | relative_url }}">baroque</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-composer" | relative_url }}">classical composer</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/composer" | relative_url }}">composer</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-baroque" | relative_url }}">italian baroque</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italy" | relative_url }}">italy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/keyboard" | relative_url }}">keyboard</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oboe" | relative_url }}">oboe</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/quartet" | relative_url }}">quartet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/string-quartet" | relative_url }}">string quartet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/strings" | relative_url }}">strings</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/italian-baroque" | relative_url }}">italian baroque</a> # 16</li>
+            <li> <a href="{{ "/tags/classical-composer" | relative_url }}">classical composer</a> # 26</li>
+            <li> <a href="{{ "/tags/quartet" | relative_url }}">quartet</a> # 32</li>
+            <li> <a href="{{ "/tags/keyboard" | relative_url }}">keyboard</a> # 38</li>
+            <li> <a href="{{ "/tags/oboe" | relative_url }}">oboe</a> # 67</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>
+      </td>
+      <td></td>
+      <td>浜渦正志</td>
+      <td>Masashi Hamauzu: Opus 4 - Piano and Chamber Music Works</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a> # 62</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Buskers Valley</td>
+      <td>Errantry</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Chamber 502</td>
+      <td>unreleased</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>
+      </td>
+      <td></td>
+      <td>DeciBel ChamBer</td>
+      <td>DeciBel ChamBer - MaladJust (Pre-Pro Demo)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Riccardo Masahide Minasi</td>
+      <td>Corelli&#39;s Legacy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
     <tr>
       <td>69</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/894a14b3f9e24cc48e297f55b50a32fc.png" alt="Cover for SPYFOX Monsters" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>SpyFox</td>
-      <td>SPYFOX Monsters</td>
+      <td>Eric Scott (Day For Night)</td>
+      <td>Day 001. &quot;3 Mains&quot;</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Eric Scott (Day For Night)</td>
+      <td>Day 021. &quot;Paris: A Musical Overpass&quot;</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/musical" | relative_url }}">musical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/paris" | relative_url }}">paris</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Eric Scott (Day For Night)</td>
+      <td>Day 031. &quot;50 Minutes From Paris&quot;</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/paris" | relative_url }}">paris</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Ernest Chausson</td>
+      <td>Ravel&#x2F;Chausson: Piano Trios</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8f8cf395a7ef0734e844e28925088284.png" alt="Cover for Music For The Long Emergency" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Poliça + S T A R G A Z E</td>
+      <td>Music For The Long Emergency</td>
+      <td>
+        <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baroque" | relative_url }}">baroque</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/english" | relative_url }}">english</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ireland" | relative_url }}">ireland</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/irish" | relative_url }}">irish</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/ireland" | relative_url }}">ireland</a> # 94</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>85</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/45e5b88e58ed4399b98698bafdfe29fa.png" alt="Cover for D-D-Praz Christmas" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>D-D-Praz</td>
-      <td>D-D-Praz Christmas</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baroque" | relative_url }}">baroque</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/flute" | relative_url }}">flute</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/organ" | relative_url }}">organ</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 87</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>89</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Camera Sintetica</td>
-      <td>New Releases</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a> # 35</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>95</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Godspeed You! Black Emperor</td>
-      <td>f#a# (infinity)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 46</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Mezzetin</td>
-      <td>Odd Scene</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/proto-punk" | relative_url }}">proto-punk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td>
-      </td>
-      <td></td>
-      <td>平野義久</td>
-      <td>吟遊黙示録マイネリーベ オリジナルサウンドトラック Capriccio</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/requiem" | relative_url }}">requiem</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>10</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Eric Scott (Day For Night)</td>
-      <td>Day 011. &quot;Reprise&quot;</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>11</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Eric Scott (Day For Night)</td>
-      <td>Day 041. &quot;_Underscore.&quot;</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>12</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Arion Ensemble</td>
-      <td>SCHUBERT: Complete Chamber Music for Piano and Strings</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>17</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Richard Pohl</td>
-      <td>Mozart: Concerto in E flat major KV449 - Andantino</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
       <td>
@@ -2092,7 +2162,27 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>81</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Kenneth Cox &amp; Ricardo Iznaola</td>
+      <td>Schubert&#39;s Winterreise (Winter Journey)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-guitar" | relative_url }}">classical guitar</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/concert" | relative_url }}">concert</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
       <td>
       </td>
       <td></td>
@@ -2123,57 +2213,17 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>84</td>
       <td>
       </td>
       <td></td>
-      <td>Kenneth Cox &amp; Ricardo Iznaola</td>
-      <td>Schubert&#39;s Winterreise (Winter Journey)</td>
+      <td>Richard Pohl</td>
+      <td>Mozart: Concerto in E flat major KV449 - Andantino</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-guitar" | relative_url }}">classical guitar</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/concert" | relative_url }}">concert</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>23</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8f8cf395a7ef0734e844e28925088284.png" alt="Cover for Music For The Long Emergency" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Poliça + S T A R G A Z E</td>
-      <td>Music For The Long Emergency</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>24</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Ernest Chausson</td>
-      <td>Ravel&#x2F;Chausson: Piano Trios</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
         </ul>
       </td>
@@ -2183,18 +2233,34 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>89</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Arion Ensemble</td>
+      <td>SCHUBERT: Complete Chamber Music for Piano and Strings</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
       <td>
       </td>
       <td></td>
       <td>Eric Scott (Day For Night)</td>
-      <td>Day 031. &quot;50 Minutes From Paris&quot;</td>
+      <td>Day 041. &quot;_Underscore.&quot;</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/paris" | relative_url }}">paris</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
         </ul>
       </td>
@@ -2204,41 +2270,17 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>91</td>
       <td>
       </td>
       <td></td>
       <td>Eric Scott (Day For Night)</td>
-      <td>Day 021. &quot;Paris: A Musical Overpass&quot;</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/musical" | relative_url }}">musical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/paris" | relative_url }}">paris</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>32</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Eric Scott (Day For Night)</td>
-      <td>Day 001. &quot;3 Mains&quot;</td>
+      <td>Day 011. &quot;Reprise&quot;</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
         </ul>
       </td>
@@ -2248,16 +2290,18 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>94</td>
       <td>
       </td>
       <td></td>
-      <td>Riccardo Masahide Minasi</td>
-      <td>Corelli&#39;s Legacy</td>
+      <td>平野義久</td>
+      <td>吟遊黙示録マイネリーベ オリジナルサウンドトラック Capriccio</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/requiem" | relative_url }}">requiem</a></li>
         </ul>
       </td>
       <td>
@@ -2266,58 +2310,22 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>96</td>
       <td>
       </td>
       <td></td>
-      <td>DeciBel ChamBer</td>
-      <td>DeciBel ChamBer - MaladJust (Pre-Pro Demo)</td>
+      <td>Mezzetin</td>
+      <td>Odd Scene</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>45</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Chamber 502</td>
-      <td>unreleased</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>60</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Buskers Valley</td>
-      <td>Errantry</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/proto-punk" | relative_url }}">proto-punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a></li>
         </ul>
       </td>
       <td>

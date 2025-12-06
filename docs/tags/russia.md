@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T07:11:58.151Z
+date: 2025-12-06T12:06:01.150Z
 permalink: tags/russia
 title: russia
 ---
 
 ## russia
 
-Last updated: <time datetime="2025-12-04T07:11:58.151Z">Thu Dec 04 2025 09:11:58 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T12:06:01.150Z">Sat Dec 06 2025 14:06:01 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
   </thead>
   <tbody>
     <tr>
-      <td>52</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/pGLiCS7qezmsK1UqZbYvN0JVqEK13DgD5a0Nwgw6GRc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTU4/NjcyLTE2NDM1NzE3/NzYtNzU0MC5qcGVn.jpeg" alt="Cover for Prokofiev: Complete Music for Solo Piano" style="max-width:120px; height:auto;" />
       </td>
@@ -48,7 +48,7 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/37836bc6253f7fa15ca08a6bc4a4d0f3.png" alt="Cover for Disco Alliance" style="max-width:120px; height:auto;" />
       </td>
@@ -74,14 +74,14 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       <td>
         <ul>
             <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 4</li>
-            <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 89</li>
-            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 93</li>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 95</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 6</li>
+            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 8</li>
+            <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 11</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/371f81b118f153cea26deadb0af51a0b.png" alt="Cover for Music in the Universe" style="max-width:120px; height:auto;" />
       </td>
@@ -106,13 +106,13 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 69</li>
-            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 74</li>
+            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 27</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/35161c4ab03f36649cfd9a9c4215288a.png" alt="Cover for Мания величия" style="max-width:120px; height:auto;" />
       </td>
@@ -126,12 +126,12 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 87</li>
+            <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 14</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/Bva6PTe21-w7dzaU_42EMdwN7dE8ep6zcdITecSu7lY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNDMz/NjMtMTYyODA4ODE1/NS0xNjk0LmpwZWc.jpeg" alt="Cover for PROKOFIEV: Ten Small Pieces &#x2F; Sarcasms &#x2F; Visions Fugitives" style="max-width:120px; height:auto;" />
       </td>
@@ -152,7 +152,7 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>23</td>
       <td>
       </td>
       <td>1992</td>
@@ -171,7 +171,7 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b4484de38d554757c73c25d3646c6a9b.png" alt="Cover for Дарза" style="max-width:120px; height:auto;" />
       </td>
@@ -195,7 +195,7 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>53</td>
       <td>
       </td>
       <td>1993</td>
@@ -212,7 +212,7 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>99</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e59efe87fdfeaf26610950dd6f353a46.png" alt="Cover for Крутится волчок" style="max-width:120px; height:auto;" />
       </td>
@@ -232,7 +232,7 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bce6666b77d68303f5f655c908927f9f.png" alt="Cover for Nectar" style="max-width:120px; height:auto;" />
       </td>
@@ -255,16 +255,34 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/macedonian" | relative_url }}">macedonian</a> # 12</li>
+            <li> <a href="{{ "/tags/hungary" | relative_url }}">hungary</a> # 18</li>
             <li> <a href="{{ "/tags/a-capella" | relative_url }}">a capella</a> # 40</li>
             <li> <a href="{{ "/tags/choir" | relative_url }}">choir</a> # 48</li>
-            <li> <a href="{{ "/tags/hungarian" | relative_url }}">hungarian</a> # 48</li>
-            <li> <a href="{{ "/tags/hungary" | relative_url }}">hungary</a> # 83</li>
-            <li> <a href="{{ "/tags/macedonian" | relative_url }}">macedonian</a> # 89</li>
+            <li> <a href="{{ "/tags/hungarian" | relative_url }}">hungarian</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>69</td>
+      <td>
+      </td>
+      <td>1999</td>
+      <td>Samovar Russian Folk Music Ensemble</td>
+      <td>Some of Our Best</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russia" | relative_url }}">russia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
       <td>
       </td>
       <td>1999</td>
@@ -283,25 +301,7 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
     </tr>
     <tr>
-      <td>32</td>
-      <td>
-      </td>
-      <td>1999</td>
-      <td>Samovar Russian Folk Music Ensemble</td>
-      <td>Some of Our Best</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russia" | relative_url }}">russia</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>59</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/QnAV-dqYBd_TRZ14WXvxPi69vESY78wgHz5Z7LiCJ0g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzM0/MjQtMTQ4Nzc0NDMw/Ny0xNDc4LmpwZWc.jpeg" alt="Cover for The Best of ORIGA" style="max-width:120px; height:auto;" />
       </td>
@@ -320,7 +320,26 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>17</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/76cb0278ccb8491bc9fdc6aa264669e1.png" alt="Cover for Кислотный DJ" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Акула</td>
+      <td>Кислотный DJ</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russia" | relative_url }}">russia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/66479640c7344136a20a45a58a22e631.png" alt="Cover for Total: 1+" style="max-width:120px; height:auto;" />
       </td>
@@ -340,26 +359,7 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
     </tr>
     <tr>
-      <td>84</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/76cb0278ccb8491bc9fdc6aa264669e1.png" alt="Cover for Кислотный DJ" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2001</td>
-      <td>Акула</td>
-      <td>Кислотный DJ</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russia" | relative_url }}">russia</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>71</td>
+      <td>30</td>
       <td>
       </td>
       <td>2001-05</td>
@@ -374,12 +374,12 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 85</li>
+            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 16</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>83</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e49819d4de2c577a9b992f2fdd8578bb.png" alt="Cover for The Vine" style="max-width:120px; height:auto;" />
       </td>
@@ -400,7 +400,7 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>46</td>
       <td>
       </td>
       <td>2002-07-01</td>
@@ -416,29 +416,7 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
     </tr>
     <tr>
-      <td>7</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/273499441dd84671ad19e49f16796198.png" alt="Cover for Post-pop Workshop" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2003</td>
-      <td>Ambidextrous</td>
-      <td>Post-pop Workshop</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russia" | relative_url }}">russia</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 61</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/oJ4YMZ4t47JNNAcXepURAqT9WKhX8UJbKKB6OjA_VmE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzYy/Ny0xNTA0MDMwMTA5/LTQzMTQuanBlZw.jpeg" alt="Cover for Биология" style="max-width:120px; height:auto;" />
       </td>
@@ -458,14 +436,36 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ukrainian" | relative_url }}">ukrainian</a> # 36</li>
-            <li> <a href="{{ "/tags/ukraine" | relative_url }}">ukraine</a> # 72</li>
-            <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 83</li>
+            <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 17</li>
+            <li> <a href="{{ "/tags/ukraine" | relative_url }}">ukraine</a> # 29</li>
+            <li> <a href="{{ "/tags/ukrainian" | relative_url }}">ukrainian</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>94</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/273499441dd84671ad19e49f16796198.png" alt="Cover for Post-pop Workshop" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Ambidextrous</td>
+      <td>Post-pop Workshop</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russia" | relative_url }}">russia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 40</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9c12b3133dae8957b7f2a2fc682dffba.png" alt="Cover for Самый нежный" style="max-width:120px; height:auto;" />
       </td>
@@ -485,7 +485,7 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/DUI4_qdDBUhAT-gDxthqe01l4VGwSSj1z07vRwa8CCk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NTcz/OS0xMjU0NzMwNzYw/LmpwZWc.jpeg" alt="Cover for Heart On Snow" style="max-width:120px; height:auto;" />
       </td>
@@ -504,7 +504,7 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/BlRm6TasHPTyNmZQfrGfFOm4TNI1LF-gCKmma9153bk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NDg1/MS0xMTg4NDk0Njg0/LmpwZWc.jpeg" alt="Cover for Я РУССКИЙ" style="max-width:120px; height:auto;" />
       </td>
@@ -522,13 +522,13 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 66</li>
-            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 90</li>
+            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 11</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 35</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/Fx_E1MAE035ZPfQ-hVkEvJV0D296Y7QTRTq58J-CS3k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMjQ5/NC0xMzIyMjEyNTk3/LmpwZWc.jpeg" alt="Cover for В городе N" style="max-width:120px; height:auto;" />
       </td>
@@ -546,7 +546,7 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e69f204a045e4746c762597963f1abe2.png" alt="Cover for vfsecret" style="max-width:120px; height:auto;" />
       </td>
@@ -573,30 +573,13 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 13</li>
             <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 55</li>
-            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
-      <td>
-      </td>
-      <td>2005</td>
-      <td>Yat-Kha</td>
-      <td>Re-Covers</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russia" | relative_url }}">russia</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>53</td>
+      <td>49</td>
       <td>
       </td>
       <td>2005</td>
@@ -615,7 +598,24 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>61</td>
+      <td>
+      </td>
+      <td>2005</td>
+      <td>Yat-Kha</td>
+      <td>Re-Covers</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russia" | relative_url }}">russia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/SNmwNBIeSYYs4aBeBJdw4nOioLVK2RPRPjtPb5NoLR4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTM4/NTYtMTI2NjkyNjgy/NS5qcGVn.jpeg" alt="Cover for Зов новой Гипербореи" style="max-width:120px; height:auto;" />
       </td>
@@ -635,7 +635,7 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/1YLw5A-V_Huz73EhnIYitDjfcTJPa-j_FV3s2vnw1TY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNjQ2/MS0xMTM3Njk3NDg5/LmpwZWc.jpeg" alt="Cover for Freakocktail" style="max-width:120px; height:auto;" />
       </td>
@@ -651,12 +651,12 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 63</li>
+            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 38</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/jE1GxZT_rdiBtnJT0mBQHkm-S-KS0KS-zloJdPhLZrE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0ODc4/MDAtMTMzMjM0NzM1/OC5qcGVn.jpeg" alt="Cover for Встань и иди" style="max-width:120px; height:auto;" />
       </td>
@@ -679,7 +679,7 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ebb62f89002190b1a1eaece1d74e1ed.png" alt="Cover for Have a Nice Trip" style="max-width:120px; height:auto;" />
       </td>
@@ -696,71 +696,39 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 87</li>
+            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 14</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>38</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8075e8ba12ed4d06a0d1fc9e6220e818.png" alt="Cover for Crossroad" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2007</td>
-      <td>Apple Pie</td>
-      <td>Crossroad</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russia" | relative_url }}">russia</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/y2k-prog" | relative_url }}">y2k prog</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a> # 59</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>27</td>
-      <td>
-          <img src="https://i.discogs.com/TZeaWxDteKK2dEtQBaj3qqFlaHH5tAG6wu7z02c2zaE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjY4/MDctMTMyNjQ2MDAz/My5qcGVn.jpeg" alt="Cover for VF&#39;s it" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/27132987be6c4aa183a5c685161586ee.png" alt="Cover for VF&#39;s World" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>VFSix</td>
-      <td>VF&#39;s it</td>
+      <td>VF&#39;s World</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/russia" | relative_url }}">russia</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 72 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 72 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 72 / 100)"> <a href="{{ "/tags/russia" | relative_url }}">russia</a></li>
+            <li style="font-size: calc(1rem * 72 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
+            <li style="font-size: calc(1rem * 59 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 59 / 100)"> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a></li>
+            <li style="font-size: calc(1rem * 59 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 71</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 86</li>
+            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 26</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e188fd6574b344c88fc06053677dfe32.png" alt="Cover for VF&#39;s Paradise" style="max-width:120px; height:auto;" />
       </td>
@@ -790,76 +758,71 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 72</li>
+            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>74</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/27132987be6c4aa183a5c685161586ee.png" alt="Cover for VF&#39;s World" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/TZeaWxDteKK2dEtQBaj3qqFlaHH5tAG6wu7z02c2zaE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjY4/MDctMTMyNjQ2MDAz/My5qcGVn.jpeg" alt="Cover for VF&#39;s it" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>VFSix</td>
-      <td>VF&#39;s World</td>
+      <td>VF&#39;s it</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
-            <li style="font-size: calc(1rem * 72 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 72 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 72 / 100)"> <a href="{{ "/tags/russia" | relative_url }}">russia</a></li>
-            <li style="font-size: calc(1rem * 72 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
-            <li style="font-size: calc(1rem * 59 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
-            <li style="font-size: calc(1rem * 59 / 100)"> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a></li>
-            <li style="font-size: calc(1rem * 59 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/russia" | relative_url }}">russia</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 71</li>
-            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 75</li>
+            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 30</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>100</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8075e8ba12ed4d06a0d1fc9e6220e818.png" alt="Cover for Crossroad" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
-      <td>Serebro</td>
-      <td>Song #1</td>
+      <td>Apple Pie</td>
+      <td>Crossroad</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurovision" | relative_url }}">eurovision</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russia" | relative_url }}">russia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/y2k-prog" | relative_url }}">y2k prog</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
-      <td>
-          <img src="https://i.discogs.com/xi2LxfSt9HMbMkT_RdDvkqhZuWfMC42lGqBYEzr0v7c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODE5/MDE0LTE1ODY3Mjcy/NDItMzcwMi5qcGVn.jpeg" alt="Cover for Созвездие Белой Волчицы (2007г.)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2007</td>
-      <td>Кошка Сашка</td>
-      <td>Созвездие Белой Волчицы (2007г.)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russia" | relative_url }}">russia</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e04aa4381d454640ae50a4529444e321.png" alt="Cover for Ориентация Север" style="max-width:120px; height:auto;" />
       </td>
@@ -878,7 +841,44 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>56</td>
+      <td>
+          <img src="https://i.discogs.com/xi2LxfSt9HMbMkT_RdDvkqhZuWfMC42lGqBYEzr0v7c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODE5/MDE0LTE1ODY3Mjcy/NDItMzcwMi5qcGVn.jpeg" alt="Cover for Созвездие Белой Волчицы (2007г.)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Кошка Сашка</td>
+      <td>Созвездие Белой Волчицы (2007г.)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russia" | relative_url }}">russia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>
+      </td>
+      <td>2007</td>
+      <td>Serebro</td>
+      <td>Song #1</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurovision" | relative_url }}">eurovision</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russia" | relative_url }}">russia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/SXHTVNE9u7-_JhfRyzu1JZhqjySESzH5wTgA4AMQUrM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTQ2/NjgtMTI0ODAyMjc4/My5qcGVn.jpeg" alt="Cover for Pain Is A Mere Sensation" style="max-width:120px; height:auto;" />
       </td>
@@ -896,7 +896,7 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>95</td>
       <td>
       </td>
       <td>2007-11</td>
@@ -911,33 +911,79 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 60</li>
+            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>25</td>
       <td>
-          <img src="https://i.discogs.com/cp1MEc93RWd5jEnBADKOsAfS-905ueojnvfhii3oB6M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTQ4/NTItMTI1NzQyNDU1/OC5qcGVn.jpeg" alt="Cover for Западный Фронт" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/Ar2icJ_II5a25mcXR2Ai0zP4rPTWwMvTuQhzPgszHTc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0Mzcz/ODAtMTM2NDg0NjMx/NS05Mzc4LmpwZWc.jpeg" alt="Cover for Вставай, Донбасс!" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
-      <td>Харза</td>
-      <td>Западный Фронт</td>
+      <td>КуБа</td>
+      <td>Вставай, Донбасс!</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russia" | relative_url }}">russia</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 58</li>
+            <li> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>33</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/61a9a7c6cb5044428f60b7f646396206.png" alt="Cover for Demo" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>Rearranged</td>
+      <td>Demo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-hardcore" | relative_url }}">old school hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russia" | relative_url }}">russia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/old-school-hardcore" | relative_url }}">old school hardcore</a> # 16</li>
+            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 18</li>
+            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 30</li>
+            <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 34</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>
+          <img src="https://i.discogs.com/RL3sQ-8uz-HiTUZqI_aSt3Xfm14FMoIZmO-0xxFIt3s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjQ0/MzMtMTU2MDQzNzMy/NS04NDg0LmpwZWc.jpeg" alt="Cover for Наша Любовь, Наша Ненависть" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>Klowns</td>
+      <td>Наша Любовь, Наша Ненависть</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 35</li>
+            <li> <a href="{{ "/tags/street-punk" | relative_url }}">street punk</a> # 75</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/3_g5f_kKeDBQEszhzq-XHSuqSZJbVq1P7fO6385o_Ks/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTQw/MzItMTQyMTc2NjIw/Mi02NDU5LmpwZWc.jpeg" alt="Cover for Ступени" style="max-width:120px; height:auto;" />
       </td>
@@ -960,82 +1006,36 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 18</li>
+            <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 19</li>
+            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 24</li>
             <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 65</li>
-            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 77</li>
-            <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 82</li>
+            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>92</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/61a9a7c6cb5044428f60b7f646396206.png" alt="Cover for Demo" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/cp1MEc93RWd5jEnBADKOsAfS-905ueojnvfhii3oB6M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTQ4/NTItMTI1NzQyNDU1/OC5qcGVn.jpeg" alt="Cover for Западный Фронт" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
-      <td>Rearranged</td>
-      <td>Demo</td>
+      <td>Харза</td>
+      <td>Западный Фронт</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-hardcore" | relative_url }}">old school hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russia" | relative_url }}">russia</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 34</li>
-            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 73</li>
-            <li> <a href="{{ "/tags/old-school-hardcore" | relative_url }}">old school hardcore</a> # 75</li>
-            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 76</li>
+            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>63</td>
-      <td>
-          <img src="https://i.discogs.com/RL3sQ-8uz-HiTUZqI_aSt3Xfm14FMoIZmO-0xxFIt3s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjQ0/MzMtMTU2MDQzNzMy/NS04NDg0LmpwZWc.jpeg" alt="Cover for Наша Любовь, Наша Ненависть" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2008</td>
-      <td>Klowns</td>
-      <td>Наша Любовь, Наша Ненависть</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 35</li>
-            <li> <a href="{{ "/tags/street-punk" | relative_url }}">street punk</a> # 75</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>76</td>
-      <td>
-          <img src="https://i.discogs.com/Ar2icJ_II5a25mcXR2Ai0zP4rPTWwMvTuQhzPgszHTc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0Mzcz/ODAtMTM2NDg0NjMx/NS05Mzc4LmpwZWc.jpeg" alt="Cover for Вставай, Донбасс!" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2008</td>
-      <td>КуБа</td>
-      <td>Вставай, Донбасс!</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a> # 41</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>39</td>
+      <td>62</td>
       <td>
       </td>
       <td>2008-12-29</td>
@@ -1052,32 +1052,7 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
     </tr>
     <tr>
-      <td>45</td>
-      <td>
-          <img src="https://i.discogs.com/ljB_mbioYFG4t8NJ5C8kQbQnHkkAjSpEycQViciOW0E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjg1/MjM0LTE1NDAwMzE1/NzAtMjUyMC5wbmc.jpeg" alt="Cover for Cinematic Melodies" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2009</td>
-      <td>Evgeny Grinko</td>
-      <td>Cinematic Melodies</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russia" | relative_url }}">russia</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 77</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>62</td>
+      <td>40</td>
       <td>
       </td>
       <td>2009</td>
@@ -1101,7 +1076,32 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>57</td>
+      <td>
+          <img src="https://i.discogs.com/ljB_mbioYFG4t8NJ5C8kQbQnHkkAjSpEycQViciOW0E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjg1/MjM0LTE1NDAwMzE1/NzAtMjUyMC5wbmc.jpeg" alt="Cover for Cinematic Melodies" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Evgeny Grinko</td>
+      <td>Cinematic Melodies</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russia" | relative_url }}">russia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 25</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/tolNAhcFRLsxUsXucq6JJyZQSGMbuEM4yBY3sjexcwc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0Mzgz/NzgtMTM5MzM1OTAw/My0zMjkzLmpwZWc.jpeg" alt="Cover for Я живу в России" style="max-width:120px; height:auto;" />
       </td>
@@ -1120,7 +1120,7 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>97</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b2e49941e7c7ebe0eb89a0235ba0fa3d.png" alt="Cover for 6200 Miles Of Silence" style="max-width:120px; height:auto;" />
       </td>
@@ -1140,7 +1140,7 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/Wh63bCO9WTe8LnxdDcQg3moMiu3RMX-ku49Kl8I5VuA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDMx/ODAtMTI1NzkzMTQw/MS5qcGVn.jpeg" alt="Cover for Untitled Album" style="max-width:120px; height:auto;" />
       </td>
@@ -1158,7 +1158,7 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0a915339772e4e4196902e6bcb79128a.png" alt="Cover for Их Правила" style="max-width:120px; height:auto;" />
       </td>
@@ -1181,7 +1181,7 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/clbAZE6WEEun2MNRevZ5XuzTEY-ofexCPuNXo4GUI40/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MTQz/NTctMTM2OTk4MjMz/NC05NTc5LmpwZWc.jpeg" alt="Cover for Russian Album" style="max-width:120px; height:auto;" />
       </td>
@@ -1201,7 +1201,7 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/1xPMSoYwszkoRWlN5OYgw8IyTG8bnnFVIbY-yFsCjRI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjIw/MTctMTMwNTM5MjUw/MS5qcGVn.jpeg" alt="Cover for 2005-04-01: Boston, MA, USA" style="max-width:120px; height:auto;" />
       </td>
@@ -1218,7 +1218,7 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
       </td>
       <td>2010-04-13</td>
@@ -1235,7 +1235,7 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>64</td>
       <td>
       </td>
       <td>2010-04</td>
@@ -1255,7 +1255,7 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/ggoZtlKMTE4FKFPpzjEGVlzsML4Scse8pdWxOrY5RcE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODAx/NDEtMTI5NjMwMjg3/My5wbmc.jpeg" alt="Cover for DenDerty" style="max-width:120px; height:auto;" />
       </td>
@@ -1274,7 +1274,7 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/y5xzyTx0be_81Vk5cq4yJZQb7uFFQIswnvP4eQHw3Lc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDg3/MTg3LTE0OTg0NTY0/ODgtMzkyMy5qcGVn.jpeg" alt="Cover for Paradise" style="max-width:120px; height:auto;" />
       </td>
@@ -1305,13 +1305,13 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 73</li>
+            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 28</li>
             <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/3c1noMmizkSxy34i3woXJhWeLJrRH1EzJEQrhLtvWvQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDYx/MzctMTI5NDc2OTUw/NS5qcGVn.jpeg" alt="Cover for Today" style="max-width:120px; height:auto;" />
       </td>
@@ -1338,7 +1338,7 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>81</td>
       <td>
       </td>
       <td>2011</td>
@@ -1353,12 +1353,12 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 70</li>
+            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 31</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/euTm6YyymFEFxy7XBYfv4VoBFjVheSqhZLWjXXXi9PM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NTA0/NzAtMTMzODg5NDUw/My00ODIzLmpwZWc.jpeg" alt="Cover for All my friends were dead" style="max-width:120px; height:auto;" />
       </td>
@@ -1381,13 +1381,13 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/quartet" | relative_url }}">quartet</a> # 6</li>
             <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 50</li>
-            <li> <a href="{{ "/tags/quartet" | relative_url }}">quartet</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/037579ed232944d1a570c90d80953ce6.png" alt="Cover for Self-Destruction" style="max-width:120px; height:auto;" />
       </td>
@@ -1407,12 +1407,12 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-rock" | relative_url }}">modern rock</a> # 4</li>
+            <li> <a href="{{ "/tags/modern-rock" | relative_url }}">modern rock</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>86</td>
       <td>
       </td>
       <td>2011-02</td>
@@ -1437,13 +1437,13 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
         <ul>
             <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 14</li>
             <li> <a href="{{ "/tags/drag" | relative_url }}">drag</a> # 25</li>
-            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 66</li>
+            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 35</li>
             <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/k4RrrWl93yZOUcIoAgo5VPpegMSjVnbqRC5RHa1abX0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTY4/MTMtMTMwNDIwMDcw/Ny5qcGVn.jpeg" alt="Cover for Elephant Effect" style="max-width:120px; height:auto;" />
       </td>
@@ -1459,12 +1459,12 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 67</li>
+            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a247d200a7c0b0d79fd168e7249061b1.png" alt="Cover for Дверь в подвал" style="max-width:120px; height:auto;" />
       </td>
@@ -1484,13 +1484,13 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 16</li>
             <li> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a> # 55</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/0hb5n7GGB_QDPOowCuqSf_AxxApfgAD3C6lhUws3z9c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzI5/NDktMTMwNzk2MTgz/OC5qcGVn.jpeg" alt="Cover for teplaja EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1516,15 +1516,15 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       <td>
         <ul>
             <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 6</li>
+            <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 9</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 11</li>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 41</li>
-            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 79</li>
-            <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 92</li>
+            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 22</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b39d9e5a2c4c486eabec83bf0563f176.png" alt="Cover for Waltz Baltika!" style="max-width:120px; height:auto;" />
       </td>
@@ -1542,7 +1542,7 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/0ZyDxBXblysb7fIAFeYUgEQ8eObGLYTFPVHYO_ak-24/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODYz/NzktMTYyNzAzNjcy/Mi02NjQzLmpwZWc.jpeg" alt="Cover for В тени гигантов" style="max-width:120px; height:auto;" />
       </td>
@@ -1562,7 +1562,7 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b2bea6266c414ad5ca027e7d5ba31210.png" alt="Cover for Mlada" style="max-width:120px; height:auto;" />
       </td>
@@ -1584,7 +1584,7 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>36</td>
       <td>
       </td>
       <td>2013-06-12</td>
@@ -1614,13 +1614,13 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 19</li>
             <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 62</li>
-            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/YcWXNnbvhEazA2eLSXTXXtsEDAdpC2D6DH8UJXoiKyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDk3/NjY3LTE2Nzk0MjI2/NDAtMjg5NC5qcGVn.jpeg" alt="Cover for Your Life Is In Your Hands" style="max-width:120px; height:auto;" />
       </td>
@@ -1638,13 +1638,13 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 17</li>
-            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 78</li>
+            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 24</li>
+            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/A4kDUy6A7cC1nytz0qgVaun6CSmGfz6XYyb5roAZZDI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4Mzgz/NTAtMTQwNDExNzgz/Mi0xNjI1LmpwZWc.jpeg" alt="Cover for Black Flame" style="max-width:120px; height:auto;" />
       </td>
@@ -1665,7 +1665,7 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a6ad9214a8ec4f45cf121a018bcef979.png" alt="Cover for SUBSTANCES EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1684,15 +1684,15 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 1</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 5</li>
             <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 24</li>
             <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 44</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 96</li>
-            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/48031fd7714a4da5cd8dfbce0b9000bf.png" alt="Cover for Ellipse" style="max-width:120px; height:auto;" />
       </td>
@@ -1711,15 +1711,15 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 3</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 18</li>
             <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 67</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 83</li>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 91</li>
-            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 98</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bb36cfb45e94ee25a20050c7b1408b3e.png" alt="Cover for I&#39;ll Be Found Remixes EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1738,13 +1738,13 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 65</li>
-            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 92</li>
+            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 9</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 36</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/77962a5b94964e9aceae2873b31cf882.png" alt="Cover for В сомнениях" style="max-width:120px; height:auto;" />
       </td>
@@ -1764,7 +1764,7 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ba949c5854ff423fc2c12f4d26486823.png" alt="Cover for Vacuum" style="max-width:120px; height:auto;" />
       </td>
@@ -1783,15 +1783,15 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 2</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 14</li>
             <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 61</li>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 63</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 87</li>
-            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 99</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>98</td>
       <td>
           <img src="https://i.discogs.com/H0GRdSLRawm4WRKHtAk1Pw7Z7jV9ytGlfQZ1vqlegSY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0Nzk3/NjUtMTYyMDE1ODYz/OS03OTUxLmpwZWc.jpeg" alt="Cover for The World of Retribution" style="max-width:120px; height:auto;" />
       </td>
@@ -1811,7 +1811,7 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/98d7c0be1bdf42d2acb9ba3803f2fbd0.png" alt="Cover for К истокам" style="max-width:120px; height:auto;" />
       </td>
@@ -1838,7 +1838,7 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/Tr159eHqVLahyjK16iQDS20nxmfZqNGHJXJXFMubpx4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTMz/MTY4LTE1OTMxNTQ4/NjYtODI3MS5qcGVn.jpeg" alt="Cover for На Второе" style="max-width:120px; height:auto;" />
       </td>
@@ -1862,7 +1862,7 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>96</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/477eccb1755d49e7c9d86fcb9cfde0ff.png" alt="Cover for Heaven" style="max-width:120px; height:auto;" />
       </td>
@@ -1883,7 +1883,7 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/hSJuGDL1oZ-ByiBhNj8D2gqBBp4IZAzA7afOJQEkgOA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMzE3/NzctMTQzOTA5NzI4/Ni00MDU5LmpwZWc.jpeg" alt="Cover for Kiddy Pool Dreams" style="max-width:120px; height:auto;" />
       </td>
@@ -1901,7 +1901,7 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/EipxoOWe5JQqaxrFxVoDwG568en7H4dY6ud-_6u3D78/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mjk2/MzU1LTE2Njk1NDgy/MjMtMjIyMC5qcGVn.jpeg" alt="Cover for Agony" style="max-width:120px; height:auto;" />
       </td>
@@ -1918,14 +1918,14 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 2</li>
             <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 24</li>
             <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 32</li>
-            <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8f571d88a8bf0d95ff949243b4d9587e.png" alt="Cover for Pink Phloyd" style="max-width:120px; height:auto;" />
       </td>
@@ -1949,7 +1949,7 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/16ee733498ac5e5511eacf274a14d77d.png" alt="Cover for The Frozen Casket" style="max-width:120px; height:auto;" />
       </td>
@@ -1968,7 +1968,7 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/X9lIsk6ko6F17Q1Duz_4KvezUDGBtaxpVwP1WgGWpzk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTE3/NDYxLTE1NjQwMjA5/NjEtNTg3Ni5qcGVn.jpeg" alt="Cover for Помни" style="max-width:120px; height:auto;" />
       </td>
@@ -1989,7 +1989,7 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e984de39abd2b325b443aca0a35e80db.png" alt="Cover for Lifeglow" style="max-width:120px; height:auto;" />
       </td>
@@ -2007,12 +2007,12 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 40</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 39</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a80715c9162522bafe24314953060ddc.png" alt="Cover for Dreamscape" style="max-width:120px; height:auto;" />
       </td>
@@ -2029,31 +2029,7 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
     </tr>
     <tr>
-      <td>98</td>
-      <td>
-          <img src="https://i.discogs.com/jnW0YVmp1mDfzeFQkYIObNdKge4SaLpQgjDp7zw9f_8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDIw/NzE3LTE2NTQwMTIx/NzYtMzg0Ny5qcGVn.jpeg" alt="Cover for Baba Yaga" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2022</td>
-      <td>Slaughter To Prevail</td>
-      <td>Baba Yaga</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russia" | relative_url }}">russia</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 28</li>
-            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 33</li>
-            <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 98</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/YkVRgkRS4p2gKR0HfirUvNgKOw2bZQ46Af_8gGe6AGk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzk2/OTAwLTE2OTU3NDgx/MjctNjQxNy5qcGVn.jpeg" alt="Cover for Demolisher" style="max-width:120px; height:auto;" />
       </td>
@@ -2070,49 +2046,85 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 1</li>
             <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 8</li>
             <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 9</li>
-            <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>3</td>
       <td>
+          <img src="https://i.discogs.com/jnW0YVmp1mDfzeFQkYIObNdKge4SaLpQgjDp7zw9f_8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDIw/NzE3LTE2NTQwMTIx/NzYtMzg0Ny5qcGVn.jpeg" alt="Cover for Baba Yaga" style="max-width:120px; height:auto;" />
       </td>
-      <td></td>
-      <td>Бурановские бабушки</td>
-      <td>Party For Everybody</td>
+      <td>2022</td>
+      <td>Slaughter To Prevail</td>
+      <td>Baba Yaga</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurovision" | relative_url }}">eurovision</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russia" | relative_url }}">russia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/eurovision" | relative_url }}">eurovision</a> # 89</li>
+            <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 3</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 28</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>34</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ffcde2dcbe049bececd6ab1ec8ae3e21.png" alt="Cover for Waterflow" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>La Minor</td>
-      <td>Hits</td>
+      <td>tieff</td>
+      <td>Waterflow</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillhop" | relative_url }}">chillhop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillstep" | relative_url }}">chillstep</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russia" | relative_url }}">russia</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a> # 91</li>
+            <li> <a href="{{ "/tags/chillstep" | relative_url }}">chillstep</a> # 30</li>
+            <li> <a href="{{ "/tags/chillhop" | relative_url }}">chillhop</a> # 51</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/11c853a6f7d239193237de3dc36b6ae2.png" alt="Cover for re: mine" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>THEreminGIRL</td>
+      <td>re: mine</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
+            <li style="font-size: calc(1rem * 79.01234567901234 / 100)"> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a></li>
+            <li style="font-size: calc(1rem * 79.01234567901234 / 100)"> <a href="{{ "/tags/russia" | relative_url }}">russia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 20</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -2148,74 +2160,63 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 23</li>
             <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 76</li>
-            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>65</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/11c853a6f7d239193237de3dc36b6ae2.png" alt="Cover for re: mine" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>THEreminGIRL</td>
-      <td>re: mine</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
-            <li style="font-size: calc(1rem * 79.01234567901234 / 100)"> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a></li>
-            <li style="font-size: calc(1rem * 79.01234567901234 / 100)"> <a href="{{ "/tags/russia" | relative_url }}">russia</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 82</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 85</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>68</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ffcde2dcbe049bececd6ab1ec8ae3e21.png" alt="Cover for Waterflow" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>tieff</td>
-      <td>Waterflow</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillhop" | relative_url }}">chillhop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillstep" | relative_url }}">chillstep</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russia" | relative_url }}">russia</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/chillstep" | relative_url }}">chillstep</a> # 30</li>
-            <li> <a href="{{ "/tags/chillhop" | relative_url }}">chillhop</a> # 50</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>8</td>
+      <td>67</td>
       <td>
       </td>
       <td></td>
-      <td>Sveta Kolibaba</td>
+      <td>La Minor</td>
       <td>Hits</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russia" | relative_url }}">russia</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a> # 91</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Бурановские бабушки</td>
+      <td>Party For Everybody</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurovision" | relative_url }}">eurovision</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russia" | relative_url }}">russia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/eurovision" | relative_url }}">eurovision</a> # 89</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/22f7fc1fe932ce26cdee261f42102d99.png" alt="Cover for Свои" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>чёрная речка</td>
+      <td>Свои</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russia" | relative_url }}">russia</a></li>
         </ul>
       </td>
       <td>
@@ -2224,7 +2225,25 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>58</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Asenssia</td>
+      <td>Север</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russia" | relative_url }}">russia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a7b5998826237f8aa8f08c2baa5374ec.png" alt="Cover for Around the Samovar" style="max-width:120px; height:auto;" />
       </td>
@@ -2245,16 +2264,16 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>93</td>
       <td>
       </td>
       <td></td>
-      <td>Asenssia</td>
-      <td>Север</td>
+      <td>Sveta Kolibaba</td>
+      <td>Hits</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russia" | relative_url }}">russia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
         </ul>
       </td>
       <td>
@@ -2263,26 +2282,7 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
     </tr>
     <tr>
-      <td>91</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/22f7fc1fe932ce26cdee261f42102d99.png" alt="Cover for Свои" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>чёрная речка</td>
-      <td>Свои</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russia" | relative_url }}">russia</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>12</td>
+      <td>89</td>
       <td>
       </td>
       <td></td>
