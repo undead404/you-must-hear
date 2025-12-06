@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T04:33:22.446Z
+date: 2025-12-06T06:53:45.990Z
 permalink: tags/romanian
 title: romanian
 ---
 
 ## romanian
 
-Last updated: <time datetime="2025-12-04T04:33:22.446Z">Thu Dec 04 2025 06:33:22 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T06:53:45.990Z">Sat Dec 06 2025 08:53:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -45,7 +45,7 @@ Romanian music encompasses a diverse range of sounds from Romania, blending trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romania" | relative_url }}">romania</a> # 90</li>
+            <li> <a href="{{ "/tags/romania" | relative_url }}">romania</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -118,7 +118,7 @@ Romanian music encompasses a diverse range of sounds from Romania, blending trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romania" | relative_url }}">romania</a> # 61</li>
+            <li> <a href="{{ "/tags/romania" | relative_url }}">romania</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -192,7 +192,7 @@ Romanian music encompasses a diverse range of sounds from Romania, blending trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/flute" | relative_url }}">flute</a> # 35</li>
+            <li> <a href="{{ "/tags/flute" | relative_url }}">flute</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -266,7 +266,7 @@ Romanian music encompasses a diverse range of sounds from Romania, blending trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romania" | relative_url }}">romania</a> # 87</li>
+            <li> <a href="{{ "/tags/romania" | relative_url }}">romania</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -342,7 +342,7 @@ Romanian music encompasses a diverse range of sounds from Romania, blending trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romania" | relative_url }}">romania</a> # 92</li>
+            <li> <a href="{{ "/tags/romania" | relative_url }}">romania</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -461,7 +461,7 @@ Romanian music encompasses a diverse range of sounds from Romania, blending trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romania" | relative_url }}">romania</a> # 66</li>
+            <li> <a href="{{ "/tags/romania" | relative_url }}">romania</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -538,7 +538,7 @@ Romanian music encompasses a diverse range of sounds from Romania, blending trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/balkan" | relative_url }}">balkan</a> # 78</li>
+            <li> <a href="{{ "/tags/balkan" | relative_url }}">balkan</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -642,8 +642,8 @@ Romanian music encompasses a diverse range of sounds from Romania, blending trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romania" | relative_url }}">romania</a> # 67</li>
-            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 69</li>
+            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 31</li>
+            <li> <a href="{{ "/tags/romania" | relative_url }}">romania</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -777,8 +777,8 @@ Romanian music encompasses a diverse range of sounds from Romania, blending trad
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 1</li>
             <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 39</li>
-            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -914,8 +914,8 @@ Romanian music encompasses a diverse range of sounds from Romania, blending trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bulgarian" | relative_url }}">bulgarian</a> # 75</li>
-            <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 83</li>
+            <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 18</li>
+            <li> <a href="{{ "/tags/bulgarian" | relative_url }}">bulgarian</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -936,7 +936,7 @@ Romanian music encompasses a diverse range of sounds from Romania, blending trad
       <td>
         <ul>
             <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 35</li>
-            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 51</li>
+            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1105,7 +1105,7 @@ Romanian music encompasses a diverse range of sounds from Romania, blending trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romania" | relative_url }}">romania</a> # 62</li>
+            <li> <a href="{{ "/tags/romania" | relative_url }}">romania</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1139,9 +1139,9 @@ Romanian music encompasses a diverse range of sounds from Romania, blending trad
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/romania" | relative_url }}">romania</a> # 31</li>
+            <li> <a href="{{ "/tags/nederlands" | relative_url }}">nederlands</a> # 44</li>
             <li> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a> # 49</li>
-            <li> <a href="{{ "/tags/nederlands" | relative_url }}">nederlands</a> # 57</li>
-            <li> <a href="{{ "/tags/romania" | relative_url }}">romania</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1220,7 +1220,7 @@ Romanian music encompasses a diverse range of sounds from Romania, blending trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romania" | relative_url }}">romania</a> # 63</li>
+            <li> <a href="{{ "/tags/romania" | relative_url }}">romania</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1322,7 +1322,7 @@ Romanian music encompasses a diverse range of sounds from Romania, blending trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romania" | relative_url }}">romania</a> # 55</li>
+            <li> <a href="{{ "/tags/romania" | relative_url }}">romania</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1563,8 +1563,8 @@ Romanian music encompasses a diverse range of sounds from Romania, blending trad
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/romania" | relative_url }}">romania</a> # 16</li>
             <li> <a href="{{ "/tags/norge" | relative_url }}">norge</a> # 59</li>
-            <li> <a href="{{ "/tags/romania" | relative_url }}">romania</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1789,7 +1789,7 @@ Romanian music encompasses a diverse range of sounds from Romania, blending trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romania" | relative_url }}">romania</a> # 52</li>
+            <li> <a href="{{ "/tags/romania" | relative_url }}">romania</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1811,8 +1811,8 @@ Romanian music encompasses a diverse range of sounds from Romania, blending trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 8</li>
-            <li> <a href="{{ "/tags/romania" | relative_url }}">romania</a> # 78</li>
+            <li> <a href="{{ "/tags/romania" | relative_url }}">romania</a> # 23</li>
+            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1873,7 +1873,7 @@ Romanian music encompasses a diverse range of sounds from Romania, blending trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/macedonian" | relative_url }}">macedonian</a> # 94</li>
+            <li> <a href="{{ "/tags/macedonian" | relative_url }}">macedonian</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1931,8 +1931,8 @@ Romanian music encompasses a diverse range of sounds from Romania, blending trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gypsy" | relative_url }}">gypsy</a> # 2</li>
-            <li> <a href="{{ "/tags/romania" | relative_url }}">romania</a> # 88</li>
+            <li> <a href="{{ "/tags/romania" | relative_url }}">romania</a> # 13</li>
+            <li> <a href="{{ "/tags/gypsy" | relative_url }}">gypsy</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1983,10 +1983,10 @@ Romanian music encompasses a diverse range of sounds from Romania, blending trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mantra" | relative_url }}">mantra</a> # 8</li>
-            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 20</li>
-            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 26</li>
-            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 39</li>
+            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 62</li>
+            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 75</li>
+            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 81</li>
+            <li> <a href="{{ "/tags/mantra" | relative_url }}">mantra</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -2075,6 +2075,6 @@ Romanian music encompasses a diverse range of sounds from Romania, blending trad
 - [classical]({{ "/tags/classical" | relative_url }})
 - [electronica]({{ "/tags/electronica" | relative_url }})
 - [electronic]({{ "/tags/electronic" | relative_url }})
-- [metal]({{ "/tags/metal" | relative_url }})
 - [dance]({{ "/tags/dance" | relative_url }})
+- [metal]({{ "/tags/metal" | relative_url }})
 - [acoustic]({{ "/tags/acoustic" | relative_url }})

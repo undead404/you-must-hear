@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T04:34:59.329Z
+date: 2025-12-06T07:02:45.870Z
 permalink: tags/d-beat
 title: d-beat
 ---
 
 ## d-beat
 
-Last updated: <time datetime="2025-12-04T04:34:59.329Z">Thu Dec 04 2025 06:34:59 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T07:02:45.870Z">Sat Dec 06 2025 09:02:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -281,7 +281,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crust" | relative_url }}">crust</a> # 74</li>
+            <li> <a href="{{ "/tags/crust" | relative_url }}">crust</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -320,7 +320,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crust" | relative_url }}">crust</a> # 16</li>
+            <li> <a href="{{ "/tags/crust" | relative_url }}">crust</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -602,7 +602,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neocrust" | relative_url }}">neocrust</a> # 89</li>
+            <li> <a href="{{ "/tags/neocrust" | relative_url }}">neocrust</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -622,7 +622,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crust" | relative_url }}">crust</a> # 30</li>
+            <li> <a href="{{ "/tags/crust" | relative_url }}">crust</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -660,7 +660,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neocrust" | relative_url }}">neocrust</a> # 82</li>
+            <li> <a href="{{ "/tags/neocrust" | relative_url }}">neocrust</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -678,8 +678,8 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neocrust" | relative_url }}">neocrust</a> # 96</li>
-            <li> <a href="{{ "/tags/crust" | relative_url }}">crust</a> # 96</li>
+            <li> <a href="{{ "/tags/neocrust" | relative_url }}">neocrust</a> # 5</li>
+            <li> <a href="{{ "/tags/crust" | relative_url }}">crust</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -739,7 +739,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 61</li>
+            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -778,7 +778,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crust" | relative_url }}">crust</a> # 84</li>
+            <li> <a href="{{ "/tags/crust" | relative_url }}">crust</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -819,7 +819,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neocrust" | relative_url }}">neocrust</a> # 51</li>
+            <li> <a href="{{ "/tags/neocrust" | relative_url }}">neocrust</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -917,7 +917,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 27</li>
+            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -974,7 +974,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crust" | relative_url }}">crust</a> # 97</li>
+            <li> <a href="{{ "/tags/crust" | relative_url }}">crust</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1012,8 +1012,8 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crust" | relative_url }}">crust</a> # 10</li>
-            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 78</li>
+            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 23</li>
+            <li> <a href="{{ "/tags/crust" | relative_url }}">crust</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1032,7 +1032,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crust" | relative_url }}">crust</a> # 75</li>
+            <li> <a href="{{ "/tags/crust" | relative_url }}">crust</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1052,8 +1052,8 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crust" | relative_url }}">crust</a> # 66</li>
-            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 82</li>
+            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 19</li>
+            <li> <a href="{{ "/tags/crust" | relative_url }}">crust</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1166,7 +1166,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crust" | relative_url }}">crust</a> # 78</li>
+            <li> <a href="{{ "/tags/crust" | relative_url }}">crust</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1284,7 +1284,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crust" | relative_url }}">crust</a> # 67</li>
+            <li> <a href="{{ "/tags/crust" | relative_url }}">crust</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1362,7 +1362,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 41</li>
+            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1527,8 +1527,8 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       <td>
         <ul>
             <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 30</li>
+            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 41</li>
             <li> <a href="{{ "/tags/rabm" | relative_url }}">rabm</a> # 44</li>
-            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1699,7 +1699,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crust" | relative_url }}">crust</a> # 80</li>
+            <li> <a href="{{ "/tags/crust" | relative_url }}">crust</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1778,7 +1778,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neocrust" | relative_url }}">neocrust</a> # 59</li>
+            <li> <a href="{{ "/tags/neocrust" | relative_url }}">neocrust</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1798,7 +1798,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 53</li>
+            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 46</li>
         </ul>
       </td>
     </tr>

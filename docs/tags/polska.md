@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T04:35:05.979Z
+date: 2025-12-06T07:06:28.594Z
 permalink: tags/polska
 title: polska
 ---
 
 ## polska
 
-Last updated: <time datetime="2025-12-04T04:35:05.979Z">Thu Dec 04 2025 06:35:05 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T07:06:28.594Z">Sat Dec 06 2025 09:06:28 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -139,7 +139,7 @@ Polska refers to music originating from or strongly associated with Poland, enco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 67</li>
+            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -178,7 +178,7 @@ Polska refers to music originating from or strongly associated with Poland, enco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 49</li>
+            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -199,7 +199,7 @@ Polska refers to music originating from or strongly associated with Poland, enco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 13</li>
+            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -225,7 +225,7 @@ Polska refers to music originating from or strongly associated with Poland, enco
       <td>
         <ul>
             <li> <a href="{{ "/tags/polskie" | relative_url }}">polskie</a> # 22</li>
-            <li> <a href="{{ "/tags/polish-rock" | relative_url }}">polish rock</a> # 46</li>
+            <li> <a href="{{ "/tags/polish-rock" | relative_url }}">polish rock</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -246,7 +246,7 @@ Polska refers to music originating from or strongly associated with Poland, enco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 83</li>
+            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -265,9 +265,9 @@ Polska refers to music originating from or strongly associated with Poland, enco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a> # 21</li>
+            <li> <a href="{{ "/tags/national-socialist" | relative_url }}">national socialist</a> # 22</li>
             <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 56</li>
-            <li> <a href="{{ "/tags/national-socialist" | relative_url }}">national socialist</a> # 79</li>
+            <li> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -288,8 +288,8 @@ Polska refers to music originating from or strongly associated with Poland, enco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish-rock" | relative_url }}">polish rock</a> # 44</li>
-            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 77</li>
+            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 24</li>
+            <li> <a href="{{ "/tags/polish-rock" | relative_url }}">polish rock</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -333,10 +333,10 @@ Polska refers to music originating from or strongly associated with Poland, enco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a> # 32</li>
-            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 40</li>
+            <li> <a href="{{ "/tags/national-socialist" | relative_url }}">national socialist</a> # 3</li>
             <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 46</li>
-            <li> <a href="{{ "/tags/national-socialist" | relative_url }}">national socialist</a> # 98</li>
+            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 61</li>
+            <li> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -388,10 +388,10 @@ Polska refers to music originating from or strongly associated with Poland, enco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a> # 18</li>
-            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 18</li>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 22</li>
-            <li> <a href="{{ "/tags/polski" | relative_url }}">polski</a> # 91</li>
+            <li> <a href="{{ "/tags/polski" | relative_url }}">polski</a> # 10</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 79</li>
+            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 83</li>
+            <li> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -529,7 +529,7 @@ Polska refers to music originating from or strongly associated with Poland, enco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 7</li>
+            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -669,7 +669,7 @@ Polska refers to music originating from or strongly associated with Poland, enco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buenos-aires" | relative_url }}">buenos aires</a> # 33</li>
+            <li> <a href="{{ "/tags/buenos-aires" | relative_url }}">buenos aires</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -823,7 +823,7 @@ Polska refers to music originating from or strongly associated with Poland, enco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 85</li>
+            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -850,7 +850,7 @@ Polska refers to music originating from or strongly associated with Poland, enco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/demoscene" | relative_url }}">demoscene</a> # 39</li>
+            <li> <a href="{{ "/tags/demoscene" | relative_url }}">demoscene</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -939,8 +939,8 @@ Polska refers to music originating from or strongly associated with Poland, enco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski" | relative_url }}">polski</a> # 86</li>
-            <li> <a href="{{ "/tags/national-socialist" | relative_url }}">national socialist</a> # 89</li>
+            <li> <a href="{{ "/tags/national-socialist" | relative_url }}">national socialist</a> # 12</li>
+            <li> <a href="{{ "/tags/polski" | relative_url }}">polski</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -965,8 +965,8 @@ Polska refers to music originating from or strongly associated with Poland, enco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 46</li>
             <li> <a href="{{ "/tags/polish-hip-hop" | relative_url }}">polish hip-hop</a> # 53</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 55</li>
             <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 94</li>
         </ul>
       </td>
@@ -1011,9 +1011,9 @@ Polska refers to music originating from or strongly associated with Poland, enco
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 23</li>
             <li> <a href="{{ "/tags/polish-hip-hop" | relative_url }}">polish hip-hop</a> # 26</li>
             <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 35</li>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1050,8 +1050,8 @@ Polska refers to music originating from or strongly associated with Poland, enco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/viola" | relative_url }}">viola</a> # 77</li>
-            <li> <a href="{{ "/tags/trip" | relative_url }}">trip</a> # 79</li>
+            <li> <a href="{{ "/tags/trip" | relative_url }}">trip</a> # 22</li>
+            <li> <a href="{{ "/tags/viola" | relative_url }}">viola</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1095,9 +1095,9 @@ Polska refers to music originating from or strongly associated with Poland, enco
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 10</li>
             <li> <a href="{{ "/tags/polish-hip-hop" | relative_url }}">polish hip-hop</a> # 15</li>
             <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 21</li>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1122,7 +1122,7 @@ Polska refers to music originating from or strongly associated with Poland, enco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/demoscene" | relative_url }}">demoscene</a> # 41</li>
+            <li> <a href="{{ "/tags/demoscene" | relative_url }}">demoscene</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1144,7 +1144,7 @@ Polska refers to music originating from or strongly associated with Poland, enco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 73</li>
+            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1263,7 +1263,7 @@ Polska refers to music originating from or strongly associated with Poland, enco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski" | relative_url }}">polski</a> # 64</li>
+            <li> <a href="{{ "/tags/polski" | relative_url }}">polski</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1469,8 +1469,8 @@ Polska refers to music originating from or strongly associated with Poland, enco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish-metal" | relative_url }}">polish metal</a> # 24</li>
             <li> <a href="{{ "/tags/polish-death-metal" | relative_url }}">polish death metal</a> # 50</li>
+            <li> <a href="{{ "/tags/polish-metal" | relative_url }}">polish metal</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1524,7 +1524,7 @@ Polska refers to music originating from or strongly associated with Poland, enco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 21</li>
+            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1565,7 +1565,7 @@ Polska refers to music originating from or strongly associated with Poland, enco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 72</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1593,12 +1593,12 @@ Polska refers to music originating from or strongly associated with Poland, enco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 24</li>
-            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 53</li>
-            <li> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a> # 61</li>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 63</li>
-            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 76</li>
-            <li> <a href="{{ "/tags/polski" | relative_url }}">polski</a> # 95</li>
+            <li> <a href="{{ "/tags/polski" | relative_url }}">polski</a> # 6</li>
+            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 25</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 38</li>
+            <li> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a> # 40</li>
+            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 48</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1619,7 +1619,7 @@ Polska refers to music originating from or strongly associated with Poland, enco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 21</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1638,7 +1638,7 @@ Polska refers to music originating from or strongly associated with Poland, enco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 54</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1659,7 +1659,7 @@ Polska refers to music originating from or strongly associated with Poland, enco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 96</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1680,7 +1680,7 @@ Polska refers to music originating from or strongly associated with Poland, enco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 65</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1741,7 +1741,7 @@ Polska refers to music originating from or strongly associated with Poland, enco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish-rock" | relative_url }}">polish rock</a> # 30</li>
+            <li> <a href="{{ "/tags/polish-rock" | relative_url }}">polish rock</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1807,12 +1807,12 @@ Polska refers to music originating from or strongly associated with Poland, enco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 73</li>
-            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 79</li>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 83</li>
-            <li> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a> # 89</li>
-            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 92</li>
-            <li> <a href="{{ "/tags/polski" | relative_url }}">polski</a> # 99</li>
+            <li> <a href="{{ "/tags/polski" | relative_url }}">polski</a> # 2</li>
+            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 9</li>
+            <li> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a> # 12</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 18</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 22</li>
+            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1834,7 +1834,7 @@ Polska refers to music originating from or strongly associated with Poland, enco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski" | relative_url }}">polski</a> # 92</li>
+            <li> <a href="{{ "/tags/polski" | relative_url }}">polski</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1860,8 +1860,8 @@ Polska refers to music originating from or strongly associated with Poland, enco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 11</li>
-            <li> <a href="{{ "/tags/polski" | relative_url }}">polski</a> # 89</li>
+            <li> <a href="{{ "/tags/polski" | relative_url }}">polski</a> # 12</li>
+            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1928,7 +1928,7 @@ Polska refers to music originating from or strongly associated with Poland, enco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 35</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1951,7 +1951,7 @@ Polska refers to music originating from or strongly associated with Poland, enco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 29</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1978,8 +1978,8 @@ Polska refers to music originating from or strongly associated with Poland, enco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 42</li>
-            <li> <a href="{{ "/tags/polski" | relative_url }}">polski</a> # 73</li>
+            <li> <a href="{{ "/tags/polski" | relative_url }}">polski</a> # 28</li>
+            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -2002,7 +2002,7 @@ Polska refers to music originating from or strongly associated with Poland, enco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 19</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -2026,8 +2026,8 @@ Polska refers to music originating from or strongly associated with Poland, enco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 14</li>
             <li> <a href="{{ "/tags/polish-hip-hop" | relative_url }}">polish hip-hop</a> # 81</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 87</li>
         </ul>
       </td>
     </tr>

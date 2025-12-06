@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T04:29:48.787Z
+date: 2025-12-06T06:43:31.237Z
 permalink: tags/neo-classical-metal
 title: neo-classical metal
 ---
 
 ## neo-classical metal
 
-Last updated: <time datetime="2025-12-04T04:29:48.787Z">Thu Dec 04 2025 06:29:48 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T06:43:31.237Z">Sat Dec 06 2025 08:43:31 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -61,7 +61,7 @@ Neo-classical metal fuses the technical precision and compositional complexity o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 53</li>
+            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -89,9 +89,9 @@ Neo-classical metal fuses the technical precision and compositional complexity o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shred" | relative_url }}">shred</a> # 44</li>
-            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 45</li>
-            <li> <a href="{{ "/tags/traditional-heavy-metal" | relative_url }}">traditional heavy metal</a> # 81</li>
+            <li> <a href="{{ "/tags/traditional-heavy-metal" | relative_url }}">traditional heavy metal</a> # 20</li>
+            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 56</li>
+            <li> <a href="{{ "/tags/shred" | relative_url }}">shred</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -110,7 +110,7 @@ Neo-classical metal fuses the technical precision and compositional complexity o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 63</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -147,7 +147,7 @@ Neo-classical metal fuses the technical precision and compositional complexity o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 69</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -167,8 +167,8 @@ Neo-classical metal fuses the technical precision and compositional complexity o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 20</li>
-            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 96</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 5</li>
+            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -188,8 +188,8 @@ Neo-classical metal fuses the technical precision and compositional complexity o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shred" | relative_url }}">shred</a> # 40</li>
-            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 91</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 10</li>
+            <li> <a href="{{ "/tags/shred" | relative_url }}">shred</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -207,8 +207,8 @@ Neo-classical metal fuses the technical precision and compositional complexity o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shred" | relative_url }}">shred</a> # 14</li>
-            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 74</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 27</li>
+            <li> <a href="{{ "/tags/shred" | relative_url }}">shred</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -248,7 +248,7 @@ Neo-classical metal fuses the technical precision and compositional complexity o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 33</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -267,7 +267,7 @@ Neo-classical metal fuses the technical precision and compositional complexity o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 43</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -288,7 +288,7 @@ Neo-classical metal fuses the technical precision and compositional complexity o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 45</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -458,7 +458,7 @@ Neo-classical metal fuses the technical precision and compositional complexity o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 81</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -534,7 +534,7 @@ Neo-classical metal fuses the technical precision and compositional complexity o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 83</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -611,8 +611,8 @@ Neo-classical metal fuses the technical precision and compositional complexity o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-metal" | relative_url }}">instrumental metal</a> # 38</li>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 88</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 13</li>
+            <li> <a href="{{ "/tags/instrumental-metal" | relative_url }}">instrumental metal</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -653,7 +653,7 @@ Neo-classical metal fuses the technical precision and compositional complexity o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 30</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -905,8 +905,8 @@ Neo-classical metal fuses the technical precision and compositional complexity o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 26</li>
-            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 58</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 43</li>
+            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -925,7 +925,7 @@ Neo-classical metal fuses the technical precision and compositional complexity o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 24</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 77</li>
             <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 84</li>
         </ul>
       </td>
@@ -982,8 +982,8 @@ Neo-classical metal fuses the technical precision and compositional complexity o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shred" | relative_url }}">shred</a> # 13</li>
-            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 98</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 3</li>
+            <li> <a href="{{ "/tags/shred" | relative_url }}">shred</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1195,9 +1195,9 @@ Neo-classical metal fuses the technical precision and compositional complexity o
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 2</li>
             <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 16</li>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 44</li>
-            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 99</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1367,7 +1367,7 @@ Neo-classical metal fuses the technical precision and compositional complexity o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian-metal" | relative_url }}">christian metal</a> # 90</li>
+            <li> <a href="{{ "/tags/christian-metal" | relative_url }}">christian metal</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1445,9 +1445,9 @@ Neo-classical metal fuses the technical precision and compositional complexity o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 17</li>
-            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 32</li>
             <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 39</li>
+            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 68</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1502,7 +1502,7 @@ Neo-classical metal fuses the technical precision and compositional complexity o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 79</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1521,7 +1521,7 @@ Neo-classical metal fuses the technical precision and compositional complexity o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian-metal" | relative_url }}">christian metal</a> # 73</li>
+            <li> <a href="{{ "/tags/christian-metal" | relative_url }}">christian metal</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1540,7 +1540,7 @@ Neo-classical metal fuses the technical precision and compositional complexity o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 17</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1561,7 +1561,7 @@ Neo-classical metal fuses the technical precision and compositional complexity o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/death-thrash-metal" | relative_url }}">death-thrash metal</a> # 54</li>
+            <li> <a href="{{ "/tags/death-thrash-metal" | relative_url }}">death-thrash metal</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1714,7 +1714,7 @@ Neo-classical metal fuses the technical precision and compositional complexity o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 72</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1913,7 +1913,7 @@ Neo-classical metal fuses the technical precision and compositional complexity o
       <td>
         <ul>
             <li> <a href="{{ "/tags/progressive-power-metal" | relative_url }}">progressive power metal</a> # 7</li>
-            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 26</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 75</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T04:35:16.887Z
+date: 2025-12-06T07:07:59.930Z
 permalink: tags/freak-folk
 title: freak folk
 ---
 
 ## freak folk
 
-Last updated: <time datetime="2025-12-04T04:35:16.887Z">Thu Dec 04 2025 06:35:16 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T07:07:59.930Z">Sat Dec 06 2025 09:07:59 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
   </thead>
   <tbody>
     <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3800a09ce5c24143a3249a7316aeaee6.png" alt="Cover for Just Another Diamond Day" style="max-width:120px; height:auto;" />
       </td>
@@ -43,17 +43,18 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 8</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 5</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 9</li>
             <li> <a href="{{ "/tags/lullabies" | relative_url }}">lullabies</a> # 44</li>
             <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 78</li>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 87</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 96</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 92</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bed4838e947112f39ca11b99d0ca6dd3.png" alt="Cover for Exuma II" style="max-width:120px; height:auto;" />
       </td>
@@ -73,7 +74,7 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3eb88f043d09051467e0472491c8679e.png" alt="Cover for First Utterance" style="max-width:120px; height:auto;" />
       </td>
@@ -86,14 +87,14 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 8</li>
             <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 12</li>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 41</li>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 93</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 40</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ae8cd54b55a335424094b549003bf9ad.png" alt="Cover for Mutiny" style="max-width:120px; height:auto;" />
       </td>
@@ -113,12 +114,12 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       <td>
         <ul>
             <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 6</li>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 59</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8b768d7ceb684170b98c68ba52a7ae9d.png" alt="Cover for What Would the Community Think" style="max-width:120px; height:auto;" />
       </td>
@@ -137,16 +138,16 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 6</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 7</li>
-            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 16</li>
             <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 72</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 84</li>
             <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 92</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7152b511dda34699999f3248778e9b9a.png" alt="Cover for Red Apple Falls" style="max-width:120px; height:auto;" />
       </td>
@@ -163,17 +164,17 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 3</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 4</li>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 33</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 38</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 57</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 43</li>
             <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 85</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 97</li>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>100</td>
       <td>
       </td>
       <td>1997-07-01</td>
@@ -192,7 +193,7 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/51b992ab453b402fc0ba563108870f83.png" alt="Cover for The Manifestation" style="max-width:120px; height:auto;" />
       </td>
@@ -211,7 +212,7 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>95</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ef6dcbdc0135264599ad72c7d8868d7.png" alt="Cover for Dark Noontide" style="max-width:120px; height:auto;" />
       </td>
@@ -226,13 +227,13 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 32</li>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 39</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 38</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2e3e8d740c5c450bb1ee00a23559dfdc.png" alt="Cover for The Charles C. Leary" style="max-width:120px; height:auto;" />
       </td>
@@ -247,12 +248,12 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 72</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/28bac6f8d45e48acadf5d0ec8312c954.png" alt="Cover for Oh Me Oh My... The Way the Day Goes by the Sun Is Setting Dogs Are Dreaming Lovesongs of the Christmas Spirit" style="max-width:120px; height:auto;" />
       </td>
@@ -266,11 +267,12 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/arcade-fire" | relative_url }}">arcade fire</a> # 25</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/bAAXEiqk-Z-f-T0h5XlzxFtMu4oouQ8s9sb1U1E9kJQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NDY4/MS0xMTY2ODU5MDU3/LmpwZWc.jpeg" alt="Cover for Now" style="max-width:120px; height:auto;" />
       </td>
@@ -288,7 +290,27 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>20</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7b4d941f69c74be4ac08c91ab90a773a.png" alt="Cover for Spirit They&#39;ve Gone, Spirit They&#39;ve Vanished" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Animal Collective</td>
+      <td>Spirit They&#39;ve Gone, Spirit They&#39;ve Vanished</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 14</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 20</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 93</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9fad4bb49c6348968f57acedfb69400a.png" alt="Cover for Goodbye Different Oceans" style="max-width:120px; height:auto;" />
       </td>
@@ -321,36 +343,16 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 25</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 35</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 56</li>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 63</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 76</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 38</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 45</li>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>81</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7b4d941f69c74be4ac08c91ab90a773a.png" alt="Cover for Spirit They&#39;ve Gone, Spirit They&#39;ve Vanished" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2003</td>
-      <td>Animal Collective</td>
-      <td>Spirit They&#39;ve Gone, Spirit They&#39;ve Vanished</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 14</li>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 81</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 93</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>7</td>
+      <td>94</td>
       <td>
       </td>
       <td>2003</td>
@@ -369,7 +371,30 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>76</td>
+      <td>
+      </td>
+      <td>2003-03-04</td>
+      <td>Entrance</td>
+      <td>The Kingdom of Heaven Must Be Taken by Storm</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 30</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/ylQdvCboVtgqesC9iGYIJ4YjC1jxNX-0ssgwbeBzK2U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMDc3/MC0xMjcxNDEzMzE5/LmpwZWc.jpeg" alt="Cover for The Kingdom of Heaven Must Be Taken By Storm!" style="max-width:120px; height:auto;" />
       </td>
@@ -388,35 +413,12 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 61</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 40</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
-      <td>
-      </td>
-      <td>2003-03-04</td>
-      <td>Entrance</td>
-      <td>The Kingdom of Heaven Must Be Taken by Storm</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 71</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>44</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8fd9135d9d6d3c941d52efd7ae51df02.png" alt="Cover for Campfire Songs" style="max-width:120px; height:auto;" />
       </td>
@@ -433,7 +435,7 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>83</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d6be05e20bb9e6cadac8c51f2a85b715.png" alt="Cover for The Glad Fact" style="max-width:120px; height:auto;" />
       </td>
@@ -450,7 +452,7 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9cebf2708f83fe0b181647eee815b121.png" alt="Cover for Here Comes the Indian" style="max-width:120px; height:auto;" />
       </td>
@@ -466,14 +468,14 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       <td>
         <ul>
             <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 12</li>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 38</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 22</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 37</li>
             <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 75</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/002f6411700f4a418a91d9b6ddca3fcc.png" alt="Cover for Spirit They&#39;re Gone, Spirit They&#39;ve Vanished" style="max-width:120px; height:auto;" />
       </td>
@@ -488,32 +490,14 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
         <ul>
             <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 11</li>
             <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 12</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 16</li>
             <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 35</li>
             <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 59</li>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4dca9ce22d044bc9a3c9bd8b06c5960f.png" alt="Cover for Alkuhärkä" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2004</td>
-      <td>Kemialliset Ystävät</td>
-      <td>Alkuhärkä</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b24ddc70f70a4567a33bf75c73b2beb5.png" alt="Cover for La Maison de Mon Reve" style="max-width:120px; height:auto;" />
       </td>
@@ -532,7 +516,25 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>87</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4dca9ce22d044bc9a3c9bd8b06c5960f.png" alt="Cover for Alkuhärkä" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Kemialliset Ystävät</td>
+      <td>Alkuhärkä</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
       <td>
       </td>
       <td>2004-03-08</td>
@@ -549,12 +551,12 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       <td>
         <ul>
             <li> <a href="{{ "/tags/emd" | relative_url }}">emd</a> # 9</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 68</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f3c7cc43633ab3de371eb8e73fc9d68c.png" alt="Cover for La maison de mon rêve" style="max-width:120px; height:auto;" />
       </td>
@@ -568,12 +570,12 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 90</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 11</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/610ff6d6ffbc4d5eb237d91a2649daf5.png" alt="Cover for The Milk-Eyed Mender" style="max-width:120px; height:auto;" />
       </td>
@@ -590,7 +592,7 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b636decc2e8922887e0987373421e626.png" alt="Cover for Sung Tongs" style="max-width:120px; height:auto;" />
       </td>
@@ -604,14 +606,14 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 45</li>
             <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 49</li>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 62</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 55</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b532b856019f4c629dbcc96e60297f57.png" alt="Cover for C&#39;mon Miracle" style="max-width:120px; height:auto;" />
       </td>
@@ -631,13 +633,13 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 9</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 12</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0e4c05bf28e543b4ba31a6f98a5eebdf.png" alt="Cover for Rejoicing in the Hands" style="max-width:120px; height:auto;" />
       </td>
@@ -655,7 +657,7 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/jN71kucqUVo7dlMIk2NxQGP7GanE9XYUI5FNUJn9oQI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTMz/MzQtMTI0MzE1MzA0/Mi5qcGVn.jpeg" alt="Cover for Magic Wand" style="max-width:120px; height:auto;" />
       </td>
@@ -687,17 +689,17 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 10</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 8</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 9</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 33</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 36</li>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 44</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 64</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 92</li>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 93</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/512c58c0859b3bdefc05a510d31cb62d.png" alt="Cover for Goodnight Nobody" style="max-width:120px; height:auto;" />
       </td>
@@ -730,16 +732,16 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 17</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 25</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 26</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 63</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 69</li>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 76</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 84</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 32</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 37</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a80eefdad32a45b58ba65aeba1cba1f1.png" alt="Cover for Cathedral" style="max-width:120px; height:auto;" />
       </td>
@@ -763,7 +765,7 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
       </td>
       <td>2004-11-09</td>
@@ -782,7 +784,7 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>56</td>
       <td>
       </td>
       <td>2005</td>
@@ -799,12 +801,12 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 86</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 15</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dd7d6d08855e48348ebb7c1d1114a084.png" alt="Cover for Hush Arbors" style="max-width:120px; height:auto;" />
       </td>
@@ -825,7 +827,7 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>98</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2f95e5bcf592458385b4cc7bc5f73990.png" alt="Cover for Palaa aurinkoon" style="max-width:120px; height:auto;" />
       </td>
@@ -843,7 +845,7 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0333f018fb2148cec8bd5d96b30cb254.png" alt="Cover for School of the Flower" style="max-width:120px; height:auto;" />
       </td>
@@ -856,14 +858,14 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 46</li>
-            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 70</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 91</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 10</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 31</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 45</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1be853d5ddd4b1fa954c2cd826375e9e.png" alt="Cover for Prospect Hummer" style="max-width:120px; height:auto;" />
       </td>
@@ -876,12 +878,12 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 24</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 23</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7da41614841d4307a2f740ca2cec198e.png" alt="Cover for Noah&#39;s Ark" style="max-width:120px; height:auto;" />
       </td>
@@ -895,12 +897,12 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 47</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d91bab47ea204083a07dbc06c0b5bc0c.png" alt="Cover for Grass" style="max-width:120px; height:auto;" />
       </td>
@@ -918,7 +920,7 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/102271a7f00843edc3b7c082fe831683.png" alt="Cover for Feels" style="max-width:120px; height:auto;" />
       </td>
@@ -932,17 +934,17 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 6</li>
             <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 29</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 41</li>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 51</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 50</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 59</li>
             <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 74</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 93</li>
             <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/49615ecd0a557f2b9fed10ed70e6885e.png" alt="Cover for Dreamt For Light Years In The Belly Of A Mountain" style="max-width:120px; height:auto;" />
       </td>
@@ -961,7 +963,7 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb48be73de3443cc9bec4038aa652b5e.png" alt="Cover for Desert Doughnuts" style="max-width:120px; height:auto;" />
       </td>
@@ -980,7 +982,7 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5c098672a13f25747741b89a7882bbc3.png" alt="Cover for Begin to Hope" style="max-width:120px; height:auto;" />
       </td>
@@ -994,18 +996,18 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 11</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 7</li>
             <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 11</li>
+            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 11</li>
             <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 32</li>
             <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 60</li>
             <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 60</li>
             <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 81</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/73b5e1e50171c27c6efe1778837c375b.png" alt="Cover for Let Me Go, Let Me Go, Let Me Go" style="max-width:120px; height:auto;" />
       </td>
@@ -1018,17 +1020,17 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 4</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 5</li>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 37</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 41</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 52</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 48</li>
             <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 93</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 96</li>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1ccdaf302550793486f054648181c9fc.png" alt="Cover for New Attitude" style="max-width:120px; height:auto;" />
       </td>
@@ -1046,7 +1048,7 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/50205cac72229726303253e3809dfdf7.png" alt="Cover for And Now That I&#39;m In Your Shadow" style="max-width:120px; height:auto;" />
       </td>
@@ -1077,16 +1079,16 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 5</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 6</li>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 41</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 45</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 48</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 95</li>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 96</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>96</td>
       <td>
           <img src="https://i.discogs.com/Wbkdi2LxShLNLjLkhuxuhpsCH_VuNwYP1VFm86lVcAU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODky/MDYtMTI2MzM2Mjgz/OS5qcGVn.jpeg" alt="Cover for Synchromy" style="max-width:120px; height:auto;" />
       </td>
@@ -1105,7 +1107,7 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9ef4081e35cdb357334f1dbae22c6af7.png" alt="Cover for The Unsung Colony" style="max-width:120px; height:auto;" />
       </td>
@@ -1136,17 +1138,17 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 4</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 32</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 19</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 26</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 64</li>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 67</li>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 75</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 82</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 68</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/825a7847871947ed9fb2f0c7ac795d3b.png" alt="Cover for People" style="max-width:120px; height:auto;" />
       </td>
@@ -1165,7 +1167,72 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>3</td>
+      <td>
+          <img src="https://i.discogs.com/YmK5CK5owrRKFOJKmGixlK7C7K5MxZhhcB0IQS07Kr0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NDQ5/NS0xMTc1NzI4ODc4/LmpwZWc.jpeg" alt="Cover for Adventures of Ghosthorse and Stillborn" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>CocoRosie</td>
+      <td>Adventures of Ghosthorse and Stillborn</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 64</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>
+          <img src="https://i.discogs.com/p5rIubFXlME3LAzY63tZ5FCvooI_PGrxjnskr5luzLQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mjg1/NDIyLTE2MTI2MjI4/MTYtNjI2Ny5qcGVn.jpeg" alt="Cover for People EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Animal Collective</td>
+      <td>People EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 76</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/79bd22e03e8f46bebd3a5b07d6605030.png" alt="Cover for I See a Darkness" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Bonnie &#39;Prince&#39; Billy</td>
+      <td>I See a Darkness</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 81 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 7</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 7</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 19</li>
+            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 25</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 42</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 65</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 69</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f7c2401999c7908459e5ff747c266da3.png" alt="Cover for The Phynx" style="max-width:120px; height:auto;" />
       </td>
@@ -1182,77 +1249,12 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 79</li>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 21</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/79bd22e03e8f46bebd3a5b07d6605030.png" alt="Cover for I See a Darkness" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2007</td>
-      <td>Bonnie &#39;Prince&#39; Billy</td>
-      <td>I See a Darkness</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 81 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 25</li>
-            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 35</li>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 42</li>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 69</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 81</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 94</li>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 94</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>72</td>
-      <td>
-          <img src="https://i.discogs.com/p5rIubFXlME3LAzY63tZ5FCvooI_PGrxjnskr5luzLQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mjg1/NDIyLTE2MTI2MjI4/MTYtNjI2Ny5qcGVn.jpeg" alt="Cover for People EP" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2007</td>
-      <td>Animal Collective</td>
-      <td>People EP</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 77</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>98</td>
-      <td>
-          <img src="https://i.discogs.com/YmK5CK5owrRKFOJKmGixlK7C7K5MxZhhcB0IQS07Kr0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NDQ5/NS0xMTc1NzI4ODc4/LmpwZWc.jpeg" alt="Cover for Adventures of Ghosthorse and Stillborn" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2007</td>
-      <td>CocoRosie</td>
-      <td>Adventures of Ghosthorse and Stillborn</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 36</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>35</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a3148b9fbf24f02a0557ca22cab5309.png" alt="Cover for Person Pitch" style="max-width:120px; height:auto;" />
       </td>
@@ -1267,15 +1269,15 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       <td>
         <ul>
             <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 12</li>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 17</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 25</li>
             <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 35</li>
             <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 64</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 76</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d110525f384e4b45960db360bd0156eb.png" alt="Cover for The Adventures of Ghosthorse and Stillborn" style="max-width:120px; height:auto;" />
       </td>
@@ -1294,7 +1296,7 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/YmK5CK5owrRKFOJKmGixlK7C7K5MxZhhcB0IQS07Kr0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NDQ5/NS0xMTc1NzI4ODc4/LmpwZWc.jpeg" alt="Cover for Adventures Of Ghosthorse And Stillborn" style="max-width:120px; height:auto;" />
       </td>
@@ -1313,7 +1315,7 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee8a78424bc41b190c85a3cc3e6aaf17.png" alt="Cover for The Reminder" style="max-width:120px; height:auto;" />
       </td>
@@ -1335,14 +1337,14 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
             <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 15</li>
             <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 18</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 30</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 62</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 39</li>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 79</li>
             <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6fc7e3f4d330a5d53f5cdab9d59855c0.png" alt="Cover for Strawberry Jam" style="max-width:120px; height:auto;" />
       </td>
@@ -1355,16 +1357,16 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 9</li>
             <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 16</li>
             <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 33</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 39</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 62</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 92</li>
             <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>90</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2382922181e4ffb3b5ed26897b7d47b4.png" alt="Cover for Adrian Orange &amp; Her Band" style="max-width:120px; height:auto;" />
       </td>
@@ -1382,12 +1384,12 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a> # 14</li>
+            <li> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/136146eafcc442bd8b0236aa83ef52c0.png" alt="Cover for Love Is Simple" style="max-width:120px; height:auto;" />
       </td>
@@ -1404,7 +1406,7 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0fbc55f794264e67994aad2d4332a19a.png" alt="Cover for Smokey Rolls Down Thunder Canyon" style="max-width:120px; height:auto;" />
       </td>
@@ -1421,7 +1423,7 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1efa32dd07c54a87ca96e7491d4b7de5.png" alt="Cover for Some Things Just Stick In Your Mind (Singles And Demos 1964 To 1967)" style="max-width:120px; height:auto;" />
       </td>
@@ -1444,31 +1446,7 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
     </tr>
     <tr>
-      <td>26</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/21c6c035a3c7b70f69c3a26efbe5677f.png" alt="Cover for Cosa Astral" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2008</td>
-      <td>Coconot</td>
-      <td>Cosa Astral</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/barcelona" | relative_url }}">barcelona</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a> # 65</li>
-            <li> <a href="{{ "/tags/barcelona" | relative_url }}">barcelona</a> # 96</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>67</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3f8ad0f3c39e40218303399a015f379e.png" alt="Cover for Cancer And Delirium" style="max-width:120px; height:auto;" />
       </td>
@@ -1499,40 +1477,44 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 2</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 3</li>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 26</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 29</li>
-            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 38</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 69</li>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 95</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 31</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 62</li>
             <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 95</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 98</li>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 99</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 95</li>
             <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>75</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c9120b61cca0495cba2c6bc1d65982ca.png" alt="Cover for Peyote Road" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/21c6c035a3c7b70f69c3a26efbe5677f.png" alt="Cover for Cosa Astral" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
-      <td>Pocahaunted</td>
-      <td>Peyote Road</td>
+      <td>Coconot</td>
+      <td>Cosa Astral</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/barcelona" | relative_url }}">barcelona</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/barcelona" | relative_url }}">barcelona</a> # 5</li>
+            <li> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a> # 35</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e20746124bb648de2f1a5347a43e5696.png" alt="Cover for Chains" style="max-width:120px; height:auto;" />
       </td>
@@ -1552,7 +1534,27 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>93</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c9120b61cca0495cba2c6bc1d65982ca.png" alt="Cover for Peyote Road" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>Pocahaunted</td>
+      <td>Peyote Road</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2146f76a46876c6bb7d6bb598c99febc.png" alt="Cover for Portal" style="max-width:120px; height:auto;" />
       </td>
@@ -1570,33 +1572,12 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 97</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 4</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
-      <td>
-      </td>
-      <td>2008-09-09</td>
-      <td>Megapuss</td>
-      <td>Surfing</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 35</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 93</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c79785df7914c09b783f75bd937b69c.png" alt="Cover for Entanglements" style="max-width:120px; height:auto;" />
       </td>
@@ -1615,7 +1596,28 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>35</td>
+      <td>
+      </td>
+      <td>2008-09-09</td>
+      <td>Megapuss</td>
+      <td>Surfing</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 8</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 34</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/63905a7b952c4e54a2aaf99e3e1ee8a4.png" alt="Cover for Fall Down" style="max-width:120px; height:auto;" />
       </td>
@@ -1637,7 +1639,7 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>84</td>
       <td>
       </td>
       <td>2009-04-21</td>
@@ -1654,7 +1656,7 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ea0c39f75fa3f1e8b77f72a84c19237e.png" alt="Cover for Bitte Orca" style="max-width:120px; height:auto;" />
       </td>
@@ -1667,13 +1669,13 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 5</li>
             <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 67</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/GRcNyPKS1seP87UAmSLBKsVUlgK19s3vVyIC_pV6tcY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTA2/NTUtMTI0ODMxNTE4/NC5qcGVn.jpeg" alt="Cover for Monster Head Room" style="max-width:120px; height:auto;" />
       </td>
@@ -1691,7 +1693,7 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
       </td>
       <td>2009-10-03</td>
@@ -1708,7 +1710,7 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c370fa4e163d132bbf0b6879f3851614.png" alt="Cover for Gorilla Manor" style="max-width:120px; height:auto;" />
       </td>
@@ -1723,13 +1725,13 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 43</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 58</li>
             <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6b6e9ac7ea1549a49289acb26966db84.png" alt="Cover for I Can Talk" style="max-width:120px; height:auto;" />
       </td>
@@ -1749,7 +1751,7 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/efb130531d984da0cdad30f05f3c7863.png" alt="Cover for Grey Oceans" style="max-width:120px; height:auto;" />
       </td>
@@ -1767,7 +1769,7 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2b46e9c227864e10884499146c3e571b.png" alt="Cover for Sister Kinderhook" style="max-width:120px; height:auto;" />
       </td>
@@ -1781,12 +1783,13 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/chamber-rock" | relative_url }}">chamber rock</a> # 42</li>
             <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/pE5q0iCdHxjlxKrqmB2cvNeSHn7noXo0T_GEfVSFiII/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzE4/OTAtMTMwNDk3MDMw/My5qcGVn.jpeg" alt="Cover for w h o k i l l" style="max-width:120px; height:auto;" />
       </td>
@@ -1804,7 +1807,7 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>81</td>
       <td>
       </td>
       <td>2011-05-30</td>
@@ -1819,13 +1822,13 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 34</li>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 61</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/eca10d9d3b586fad465db183f93acf6c.png" alt="Cover for 2012" style="max-width:120px; height:auto;" />
       </td>
@@ -1844,7 +1847,7 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1e3065e86152443a82e3c6c8cb832858.png" alt="Cover for Bend Beyond" style="max-width:120px; height:auto;" />
       </td>
@@ -1862,7 +1865,7 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>88</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d5bdd992fd4a459282d9215f6fb6b62b.png" alt="Cover for Hummingbird" style="max-width:120px; height:auto;" />
       </td>
@@ -1880,7 +1883,7 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3e7c03e4b75c4289c2247ba266e67e29.png" alt="Cover for Ode to Dawn Wiener: Embarrassing Love Songs" style="max-width:120px; height:auto;" />
       </td>
@@ -1900,7 +1903,7 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/40f6781a29284cb7cc19481b67749400.png" alt="Cover for Burn Your Fire for No Witness" style="max-width:120px; height:auto;" />
       </td>
@@ -1923,7 +1926,7 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/dXfFqgifDZfFVqcCnlIcAO8klqoloeKRhw2fYVdwODI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NTc5/NDYtMTM5OTE0ODc3/NC0xMjkxLmpwZWc.jpeg" alt="Cover for Nikki Nack" style="max-width:120px; height:auto;" />
       </td>
@@ -1938,12 +1941,32 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 19</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>18</td>
+      <td>
+          <img src="https://i.discogs.com/tH0dOycfHLJ8Q3g4WYw-5MI-Pe7m7CwW1RCyI4x6d5U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjk3/MDktMTM3MDEyNzYz/NC03MjI1LmpwZWc.jpeg" alt="Cover for Prospect Hummer EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015</td>
+      <td>Animal Collective</td>
+      <td>Prospect Hummer EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 35</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/S_JDWNh9zzfk8V9NJCcjP1h0lAPdgipGK_zzU1hgfQI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NzAz/MTUtMTQ2MDA2NjYw/My02NjMyLmpwZWc.jpeg" alt="Cover for El Viaje A Ninguna Parte" style="max-width:120px; height:auto;" />
       </td>
@@ -1963,32 +1986,12 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
         <ul>
             <li> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a> # 14</li>
             <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 15</li>
-            <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 78</li>
+            <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 23</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>83</td>
-      <td>
-          <img src="https://i.discogs.com/tH0dOycfHLJ8Q3g4WYw-5MI-Pe7m7CwW1RCyI4x6d5U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjk3/MDktMTM3MDEyNzYz/NC03MjI1LmpwZWc.jpeg" alt="Cover for Prospect Hummer EP" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2015</td>
-      <td>Animal Collective</td>
-      <td>Prospect Hummer EP</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 36</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>42</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8dcaaadc709f7b38e230748f85c1f740.png" alt="Cover for Viator" style="max-width:120px; height:auto;" />
       </td>
@@ -2007,7 +2010,7 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/gs6kkuDPv3YH0c1jFZ0x0nN8_RaGRBWSqsCWywMplUY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MTA0/MTQtMTYyODI4MTAy/Ny0xNjM2LmpwZWc.jpeg" alt="Cover for Myths 003" style="max-width:120px; height:auto;" />
       </td>
@@ -2025,25 +2028,7 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
     </tr>
     <tr>
-      <td>2</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/07bbed3ba2ce5577a46559d7e7628cb2.png" alt="Cover for Shadow of Marlboro Man" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2016</td>
-      <td>The Savage Young Taterbug</td>
-      <td>Shadow of Marlboro Man</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8f60b2fbb08e977148b788049ed8ae63.png" alt="Cover for City Sun Eater In The River Of Light" style="max-width:120px; height:auto;" />
       </td>
@@ -2061,7 +2046,25 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>99</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/07bbed3ba2ce5577a46559d7e7628cb2.png" alt="Cover for Shadow of Marlboro Man" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016</td>
+      <td>The Savage Young Taterbug</td>
+      <td>Shadow of Marlboro Man</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
       <td>
       </td>
       <td>2016-11-11</td>
@@ -2080,7 +2083,7 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bbada71ff1b507cde53b28a9fb18000e.png" alt="Cover for Peasant" style="max-width:120px; height:auto;" />
       </td>
@@ -2100,7 +2103,7 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1f33035f83b317c3391de6947bf9b87b.png" alt="Cover for Above the Trees" style="max-width:120px; height:auto;" />
       </td>
@@ -2122,12 +2125,12 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 90</li>
+            <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 11</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bdeec00fa9f31722da445943e0d65af0.png" alt="Cover for Pipe Dream" style="max-width:120px; height:auto;" />
       </td>
@@ -2152,15 +2155,15 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       <td>
         <ul>
             <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 21</li>
-            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 31</li>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 35</li>
-            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 46</li>
+            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 55</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 66</li>
+            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 70</li>
             <li> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/6Kd6Y8eY-SzpbFkBT5au0UzIo2LIIhixpLyrZvTSd7A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzM2/MDEwLTE1OTY4Mjk2/NTctNTkxMC5qcGVn.jpeg" alt="Cover for Brillo" style="max-width:120px; height:auto;" />
       </td>
@@ -2178,7 +2181,7 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/mYg1pYCG8p9-WtAzJ_hju00sGtYDG1t7rjMw__Mosh4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzA1/Nzg3LTE1OTYyNzQ3/NjEtODQ4Ny5qcGVn.jpeg" alt="Cover for The World As We Know It" style="max-width:120px; height:auto;" />
       </td>
@@ -2196,7 +2199,7 @@ Freak folk is an experimental indie genre that emerged in the 2000s, blending tr
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b2adaaa89951430f98fea59ea800c2d8.png" alt="Cover for Spirit They&#39;re Gone Spirit They&#39;ve Vanished" style="max-width:120px; height:auto;" />
       </td>

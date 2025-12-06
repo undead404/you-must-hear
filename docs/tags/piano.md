@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T05:38:02.196Z
+date: 2025-12-06T08:38:39.837Z
 permalink: tags/piano
 title: piano
 ---
 
 ## piano
 
-Last updated: <time datetime="2025-12-04T05:38:02.196Z">Thu Dec 04 2025 07:38:02 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T08:38:39.837Z">Sat Dec 06 2025 10:38:39 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -204,9 +204,9 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 2</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 51</li>
             <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 59</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -226,9 +226,9 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 1</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 50</li>
             <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 58</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -425,15 +425,15 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 3</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 2</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 3</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 3</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 3</li>
+            <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 3</li>
             <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 22</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 23</li>
             <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 31</li>
             <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 55</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 78</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -668,11 +668,11 @@ Piano music refers to any music that is written or performed on the piano, eithe
             <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 18</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 21</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 22</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 34</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 24</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 36</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 38</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 55</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 77</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -814,10 +814,10 @@ Piano music refers to any music that is written or performed on the piano, eithe
       <td>
         <ul>
             <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 2</li>
-            <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 3</li>
             <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 3</li>
+            <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 3</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 5</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 94</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 96</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 99</li>
         </ul>
       </td>
@@ -839,14 +839,14 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 50</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 51</li>
             <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 56</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 59</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 61</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 65</li>
             <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 65</li>
-            <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 67</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 67</li>
+            <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -886,12 +886,12 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 4</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 37</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 62</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 64</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 67</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 77</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 93</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -952,15 +952,15 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 23</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 28</li>
-            <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 29</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 29</li>
+            <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 29</li>
             <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 32</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 36</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 41</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 41</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 41</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 63</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 78</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1000,15 +1000,15 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 22</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 27</li>
-            <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 28</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 28</li>
+            <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 28</li>
             <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 29</li>
             <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 37</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 38</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 40</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 61</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 62</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1095,8 +1095,8 @@ Piano music refers to any music that is written or performed on the piano, eithe
             <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 6</li>
             <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 8</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 8</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 19</li>
             <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 36</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1120,8 +1120,8 @@ Piano music refers to any music that is written or performed on the piano, eithe
             <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 7</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 9</li>
             <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 10</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 21</li>
             <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 46</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1222,7 +1222,7 @@ Piano music refers to any music that is written or performed on the piano, eithe
             <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 9</li>
             <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 16</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 34</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 36</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1241,8 +1241,8 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 15</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 16</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1300,8 +1300,8 @@ Piano music refers to any music that is written or performed on the piano, eithe
       <td>
         <ul>
             <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 11</li>
-            <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 14</li>
             <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 14</li>
+            <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 14</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 81</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 84</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 96</li>
@@ -1327,12 +1327,12 @@ Piano music refers to any music that is written or performed on the piano, eithe
         <ul>
             <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 12</li>
             <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 21</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 26</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 35</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 42</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 43</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 53</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 72</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 75</li>
             <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 89</li>
         </ul>
       </td>
@@ -1352,8 +1352,8 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 13</li>
             <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 83</li>
-            <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1373,8 +1373,8 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 6</li>
             <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 71</li>
-            <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1478,15 +1478,15 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 6</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 15</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 32</li>
             <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 33</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 38</li>
             <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 46</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 52</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 71</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 86</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 88</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1510,12 +1510,12 @@ Piano music refers to any music that is written or performed on the piano, eithe
             <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 1</li>
             <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 1</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 4</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 4</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 7</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 11</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 12</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 26</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 27</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 75</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1575,9 +1575,9 @@ Piano music refers to any music that is written or performed on the piano, eithe
         <ul>
             <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 7</li>
             <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 8</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 10</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 12</li>
             <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 48</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1597,7 +1597,7 @@ Piano music refers to any music that is written or performed on the piano, eithe
         <ul>
             <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 16</li>
             <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 21</li>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 36</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1702,10 +1702,10 @@ Piano music refers to any music that is written or performed on the piano, eithe
         <ul>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 10</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 30</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 33</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 35</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 37</li>
             <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 50</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 68</li>
             <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 74</li>
         </ul>
       </td>
@@ -1729,8 +1729,8 @@ Piano music refers to any music that is written or performed on the piano, eithe
         <ul>
             <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 13</li>
             <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 24</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 26</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 39</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1780,10 +1780,10 @@ Piano music refers to any music that is written or performed on the piano, eithe
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 2</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 2</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 2</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 3</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 17</li>
             <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 27</li>
             <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 42</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 84</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1810,26 +1810,6 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
     </tr>
     <tr>
-      <td>15</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf5abf7a101427e91d367387770ba15b.png" alt="Cover for Doomsday (Piano Reprise)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2013-07-16</td>
-      <td>Architects</td>
-      <td>Doomsday (Piano Reprise)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 53</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a638e1812909699f64f4ba1846f9a3d9.png" alt="Cover for solo" style="max-width:120px; height:auto;" />
@@ -1847,13 +1827,13 @@ Piano music refers to any music that is written or performed on the piano, eithe
       <td>
         <ul>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 10</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 10</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 10</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 11</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 13</li>
             <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 34</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 40</li>
             <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 46</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 61</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1903,14 +1883,14 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 1</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 1</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 1</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 1</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 2</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 22</li>
             <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 37</li>
             <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 54</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 79</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1933,10 +1913,10 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/iceland" | relative_url }}">iceland</a> # 1</li>
             <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 4</li>
             <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 12</li>
             <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 12</li>
-            <li> <a href="{{ "/tags/iceland" | relative_url }}">iceland</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -2001,6 +1981,26 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
     </tr>
     <tr>
+      <td>15</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf5abf7a101427e91d367387770ba15b.png" alt="Cover for Doomsday (Piano Reprise)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-07-13</td>
+      <td>Architects</td>
+      <td>Doomsday (Piano Reprise)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 53</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>58</td>
       <td>
           <img src="https://i.discogs.com/SVl1LLsA6h4P6PUW40wLDzl8uV_5vQLGFphLAw3YYAw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTEz/MTc3LTE1NDQzODcy/NDItNjYyOC5qcGVn.jpeg" alt="Cover for If Beale Street Could Talk (Original Motion Picture Score)" style="max-width:120px; height:auto;" />
@@ -2056,7 +2056,7 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 95</li>
+            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -2141,9 +2141,9 @@ Piano music refers to any music that is written or performed on the piano, eithe
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/iceland" | relative_url }}">iceland</a> # 2</li>
             <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 9</li>
             <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 19</li>
-            <li> <a href="{{ "/tags/iceland" | relative_url }}">iceland</a> # 99</li>
         </ul>
       </td>
     </tr>

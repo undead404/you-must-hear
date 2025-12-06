@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T04:31:33.857Z
+date: 2025-12-06T06:45:01.482Z
 permalink: tags/experimental-rock
 title: experimental rock
 ---
 
 ## experimental rock
 
-Last updated: <time datetime="2025-12-04T04:31:33.857Z">Thu Dec 04 2025 06:31:33 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T06:45:01.482Z">Sat Dec 06 2025 08:45:01 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -59,7 +59,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 86</li>
+            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -80,7 +80,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       <td>
         <ul>
             <li> <a href="{{ "/tags/proto-punk" | relative_url }}">proto-punk</a> # 2</li>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 84</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -142,9 +142,9 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 13</li>
             <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 33</li>
             <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 46</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -163,6 +163,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/chamber-rock" | relative_url }}">chamber rock</a> # 32</li>
             <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 45</li>
         </ul>
       </td>
@@ -261,7 +262,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 100</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -281,7 +282,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 66</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -302,8 +303,8 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 74</li>
-            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 95</li>
+            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 6</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -325,7 +326,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 34</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 66</li>
             <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 84</li>
         </ul>
       </td>
@@ -344,7 +345,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 42</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -485,8 +486,8 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 1</li>
             <li> <a href="{{ "/tags/symphonic-prog" | relative_url }}">symphonic prog</a> # 1</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 1</li>
             <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 30</li>
             <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 49</li>
             <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 85</li>
@@ -639,10 +640,10 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 38</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 11</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 22</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 37</li>
             <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 75</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 79</li>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -680,8 +681,8 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 44</li>
-            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 52</li>
+            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 49</li>
+            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -720,8 +721,8 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 31</li>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 42</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 58</li>
+            <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -740,11 +741,11 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 6</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 1</li>
             <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 29</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 41</li>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 51</li>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 100</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 50</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 59</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 93</li>
             <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 100</li>
         </ul>
       </td>
@@ -775,10 +776,10 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       <td>
         <ul>
             <li> <a href="{{ "/tags/space-rock-revival" | relative_url }}">space rock revival</a> # 1</li>
+            <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 9</li>
             <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 27</li>
             <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 45</li>
-            <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 92</li>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 94</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -833,7 +834,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 93</li>
+            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -891,7 +892,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 27</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 73</li>
             <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 86</li>
         </ul>
       </td>
@@ -967,7 +968,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 16</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1005,7 +1006,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 88</li>
+            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1029,7 +1030,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 100</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -1189,8 +1190,8 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 40</li>
             <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 40</li>
+            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1237,9 +1238,9 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 13</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 14</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 84</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 17</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 87</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 88</li>
             <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 94</li>
         </ul>
       </td>
@@ -1301,7 +1302,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 85</li>
+            <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1374,8 +1375,8 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 19</li>
             <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 44</li>
+            <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1396,7 +1397,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 26</li>
+            <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1436,7 +1437,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 6</li>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1458,7 +1459,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 95</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -1515,7 +1516,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       <td>
         <ul>
             <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 41</li>
-            <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 51</li>
+            <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1532,7 +1533,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 40</li>
+            <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1569,7 +1570,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       <td>
         <ul>
             <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 16</li>
-            <li> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a> # 85</li>
+            <li> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1608,9 +1609,9 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 8</li>
             <li> <a href="{{ "/tags/dark-jazz" | relative_url }}">dark jazz</a> # 15</li>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 61</li>
-            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 93</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1648,7 +1649,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 80</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1666,10 +1667,10 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 11</li>
             <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 47</li>
             <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 66</li>
             <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 84</li>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1687,12 +1688,12 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 46</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 13</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 25</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 31</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 42</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 54</li>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 59</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 70</li>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 76</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 88</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1711,11 +1712,11 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       <td>
         <ul>
             <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 5</li>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 14</li>
+            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 11</li>
+            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 16</li>
             <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 49</li>
             <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 71</li>
-            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 85</li>
-            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 90</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 86</li>
             <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 97</li>
         </ul>
       </td>
@@ -1740,7 +1741,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       <td>
         <ul>
             <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 1</li>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 83</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 18</li>
             <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 88</li>
             <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 91</li>
         </ul>
@@ -1792,9 +1793,9 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 39</li>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 74</li>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 75</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 26</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 27</li>
+            <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1819,7 +1820,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
         <ul>
             <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 1</li>
             <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 3</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 59</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1890,10 +1891,10 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 28</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 52</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 7</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 48</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 73</li>
             <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 89</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1934,7 +1935,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       <td>
         <ul>
             <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 6</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 92</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -2044,9 +2045,9 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 2</li>
             <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 52</li>
             <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 71</li>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -2083,7 +2084,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 46</li>
+            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 55</li>
         </ul>
       </td>
     </tr>

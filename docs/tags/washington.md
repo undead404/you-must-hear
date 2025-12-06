@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T04:29:54.695Z
+date: 2025-12-06T06:43:36.364Z
 permalink: tags/washington
 title: washington
 ---
 
 ## washington
 
-Last updated: <time datetime="2025-12-04T04:29:54.695Z">Thu Dec 04 2025 06:29:54 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T06:43:36.364Z">Sat Dec 06 2025 08:43:36 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,13 +29,13 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
   </thead>
   <tbody>
     <tr>
-      <td>25</td>
+      <td>8</td>
       <td>
-          <img src="https://i.discogs.com/YIZ1fJWZwdkYeIkzNcJB8kwb9NZjyVc_fEuyh5Mxitc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDIy/NzMtMTYyNTc5ODY4/OS02OTY4LmpwZWc.jpeg" alt="Cover for All Or Nothing At All" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/wrI5t8HSpqCNZ3mBcUXYePRrR_1ReKJPKqsXrebz65w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTU3/NzgtMTM0MTQ5MjYx/Ni03NDc5LmpwZWc.jpeg" alt="Cover for Dinah Washington" style="max-width:120px; height:auto;" />
       </td>
       <td>1950</td>
       <td>Dinah Washington</td>
-      <td>All Or Nothing At All</td>
+      <td>Dinah Washington</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/washington" | relative_url }}">washington</a></li>
@@ -47,7 +47,25 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>15</td>
+      <td>
+          <img src="https://i.discogs.com/zeB9OKJGnlXfhzHKTKewapaVCJJhQSmQIzBRtFJBG58/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMDg3/MjItMTYwMDk4NzI0/NS01NzA0LmpwZWc.jpeg" alt="Cover for Ain&#39;t Misbehavin&#39;" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1950</td>
+      <td>Dinah Washington</td>
+      <td>Ain&#39;t Misbehavin&#39;</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/washington" | relative_url }}">washington</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3e25f92b29641cb0d9f82ce9ee12727b.png" alt="Cover for Dinah Washington Collection" style="max-width:120px; height:auto;" />
       </td>
@@ -67,13 +85,13 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>76</td>
       <td>
-          <img src="https://i.discogs.com/zeB9OKJGnlXfhzHKTKewapaVCJJhQSmQIzBRtFJBG58/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMDg3/MjItMTYwMDk4NzI0/NS01NzA0LmpwZWc.jpeg" alt="Cover for Ain&#39;t Misbehavin&#39;" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/YIZ1fJWZwdkYeIkzNcJB8kwb9NZjyVc_fEuyh5Mxitc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDIy/NzMtMTYyNTc5ODY4/OS02OTY4LmpwZWc.jpeg" alt="Cover for All Or Nothing At All" style="max-width:120px; height:auto;" />
       </td>
       <td>1950</td>
       <td>Dinah Washington</td>
-      <td>Ain&#39;t Misbehavin&#39;</td>
+      <td>All Or Nothing At All</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/washington" | relative_url }}">washington</a></li>
@@ -85,25 +103,7 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
     </tr>
     <tr>
-      <td>93</td>
-      <td>
-          <img src="https://i.discogs.com/wrI5t8HSpqCNZ3mBcUXYePRrR_1ReKJPKqsXrebz65w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTU3/NzgtMTM0MTQ5MjYx/Ni03NDc5LmpwZWc.jpeg" alt="Cover for Dinah Washington" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1950</td>
-      <td>Dinah Washington</td>
-      <td>Dinah Washington</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/washington" | relative_url }}">washington</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>80</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/Kvy8jud0YXT-apnKBbQ5aqG6rBuQN-SlTyDq3iejDkg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTM1/MDMtMTQzNzI0MDI4/Ny03Njc3LmpwZWc.jpeg" alt="Cover for Dinah!" style="max-width:120px; height:auto;" />
       </td>
@@ -121,7 +121,7 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/68b06418786b4428b215f45f059913dc.png" alt="Cover for In the Land of Hi-Fi" style="max-width:120px; height:auto;" />
       </td>
@@ -141,7 +141,7 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/krnLZYL-PwjFntM5VLT0Zdol3e_Ux-wzWGsjPcIz-ic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjA2/OTU0LTE1NDk5ODY5/NjktMjY3MS5qcGVn.jpeg" alt="Cover for Dinah Sings Bessie Smith" style="max-width:120px; height:auto;" />
       </td>
@@ -159,25 +159,7 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
     </tr>
     <tr>
-      <td>11</td>
-      <td>
-          <img src="https://i.discogs.com/2vcL-xwSbvDvVU17Q7oBSlfN_K7WTpgYc3279bg5_hg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODU5/OTMtMTI0NjUyNDg4/MS5qcGVn.jpeg" alt="Cover for What a Diff&#39;rence a Day Makes: The Best Of" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1959</td>
-      <td>Dinah Washington</td>
-      <td>What a Diff&#39;rence a Day Makes: The Best Of</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/washington" | relative_url }}">washington</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/zeB9OKJGnlXfhzHKTKewapaVCJJhQSmQIzBRtFJBG58/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMDg3/MjItMTYwMDk4NzI0/NS01NzA0LmpwZWc.jpeg" alt="Cover for Dinah Washington Sings Bessie Smith" style="max-width:120px; height:auto;" />
       </td>
@@ -195,7 +177,25 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>90</td>
+      <td>
+          <img src="https://i.discogs.com/2vcL-xwSbvDvVU17Q7oBSlfN_K7WTpgYc3279bg5_hg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODU5/OTMtMTI0NjUyNDg4/MS5qcGVn.jpeg" alt="Cover for What a Diff&#39;rence a Day Makes: The Best Of" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1959</td>
+      <td>Dinah Washington</td>
+      <td>What a Diff&#39;rence a Day Makes: The Best Of</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/washington" | relative_url }}">washington</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
       <td>
       </td>
       <td>1960</td>
@@ -212,42 +212,7 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
     </tr>
     <tr>
-      <td>70</td>
-      <td>
-          <img src="https://i.discogs.com/OOhhcLWOOgfauhFO10PrSA9RJiglu6zicIos2ov01fg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMTc2/MjEtMTQ1MzU2ODAy/MC01MzQ2LmpwZWc.jpeg" alt="Cover for In Love" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1962</td>
-      <td>Dinah Washington</td>
-      <td>In Love</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/washington" | relative_url }}">washington</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>76</td>
-      <td>
-      </td>
-      <td>1962</td>
-      <td>Dinah Washington</td>
-      <td>I Wanna Be Loved</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/washington" | relative_url }}">washington</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>81</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/3kc3_m_dunqNoQ-z7LXwH3oAqCRjcFC8PJgdpgfh88g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTY5/Njc5LTE1MjU3MTQw/NDktNzQyMS5qcGVn.jpeg" alt="Cover for Dinah" style="max-width:120px; height:auto;" />
       </td>
@@ -265,13 +230,12 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>25</td>
       <td>
-          <img src="https://i.discogs.com/GEF0VYNmLmN8h8CLCwtwa2r4SaupUEM5wDo4-4wKOOA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODEw/MjgtMTQ5OTI4MjI1/Ny02OTUzLmpwZWc.jpeg" alt="Cover for Greatest Hits 1946-1953" style="max-width:120px; height:auto;" />
       </td>
-      <td>1963</td>
+      <td>1962</td>
       <td>Dinah Washington</td>
-      <td>Greatest Hits 1946-1953</td>
+      <td>I Wanna Be Loved</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/washington" | relative_url }}">washington</a></li>
@@ -283,7 +247,25 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>31</td>
+      <td>
+          <img src="https://i.discogs.com/OOhhcLWOOgfauhFO10PrSA9RJiglu6zicIos2ov01fg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMTc2/MjEtMTQ1MzU2ODAy/MC01MzQ2LmpwZWc.jpeg" alt="Cover for In Love" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1962</td>
+      <td>Dinah Washington</td>
+      <td>In Love</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/washington" | relative_url }}">washington</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/1-Ju5GTJNR8wAJreC09S14zQZ64drnL89Dbcl-shFh4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTM4/NDYtMTMxMjM0NzQ4/Ni5qcGVn.jpeg" alt="Cover for Back To The Blues" style="max-width:120px; height:auto;" />
       </td>
@@ -302,7 +284,25 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>60</td>
+      <td>
+          <img src="https://i.discogs.com/GEF0VYNmLmN8h8CLCwtwa2r4SaupUEM5wDo4-4wKOOA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODEw/MjgtMTQ5OTI4MjI1/Ny02OTUzLmpwZWc.jpeg" alt="Cover for Greatest Hits 1946-1953" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1963</td>
+      <td>Dinah Washington</td>
+      <td>Greatest Hits 1946-1953</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/washington" | relative_url }}">washington</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/tPjiiQdFNhNw3cO-l_PdUCtji6J-PRaydj5B8H0L7zg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODEw/NjktMTMzODM3OTU0/OS01Mjk5LnBuZw.jpeg" alt="Cover for Sings Standards: Verve Jazz Masters 40" style="max-width:120px; height:auto;" />
       </td>
@@ -320,25 +320,7 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
     </tr>
     <tr>
-      <td>9</td>
-      <td>
-          <img src="https://i.discogs.com/2k1fCR8uuQL0vUFAJxuWEzf5QPUNLSpIXFY26d0OUO0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDc1/MzktMTY0NTY0ODc1/Ni03MjYxLnBuZw.jpeg" alt="Cover for I Won&#39;t Cry Anymore" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1969</td>
-      <td>Dinah Washington</td>
-      <td>I Won&#39;t Cry Anymore</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/washington" | relative_url }}">washington</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>66</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/2k1fCR8uuQL0vUFAJxuWEzf5QPUNLSpIXFY26d0OUO0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDc1/MzktMTY0NTY0ODc1/Ni03MjYxLnBuZw.jpeg" alt="Cover for I Know How to Do It" style="max-width:120px; height:auto;" />
       </td>
@@ -358,13 +340,13 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>92</td>
       <td>
-          <img src="https://i.discogs.com/R1C4-ujtM2bgO-JEZKgWFG94bBGDLGXYgg8DX53U2zY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MjM2/ODUtMTUwOTU0ODQ3/MC05NDg0LmpwZWc.jpeg" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/2k1fCR8uuQL0vUFAJxuWEzf5QPUNLSpIXFY26d0OUO0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDc1/MzktMTY0NTY0ODc1/Ni03MjYxLnBuZw.jpeg" alt="Cover for I Won&#39;t Cry Anymore" style="max-width:120px; height:auto;" />
       </td>
-      <td>1976</td>
+      <td>1969</td>
       <td>Dinah Washington</td>
-      <td>Greatest Hits</td>
+      <td>I Won&#39;t Cry Anymore</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/washington" | relative_url }}">washington</a></li>
@@ -376,43 +358,7 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
     </tr>
     <tr>
-      <td>56</td>
-      <td>
-          <img src="https://i.discogs.com/SlTJW_s822KY7GgkGuPO8N2G_jiq9MemIQbg-wUNWvU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTI0/MjctMTM1OTI0MTM2/MS02ODQ3LmpwZWc.jpeg" alt="Cover for The Very Best Of" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1976</td>
-      <td>Dinah Washington</td>
-      <td>The Very Best Of</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/washington" | relative_url }}">washington</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>65</td>
-      <td>
-          <img src="https://i.discogs.com/7gZqbRJlLHpkqbXfksP_d6KfhsxiEkoyKPjODJNglWU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2OTI4/NzgtMTM3MjQyOTcw/Ni0yNzk4LmpwZWc.jpeg" alt="Cover for The Swingin&#39; Miss D" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1976</td>
-      <td>Dinah Washington</td>
-      <td>The Swingin&#39; Miss D</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/washington" | relative_url }}">washington</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/Hk08oxJFTg2kkBkLZuXne8AYmnJtDLqIPdL0ejgGkBc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTQy/MTMtMTMzMDk4ODcz/Ni5qcGVn.jpeg" alt="Cover for The Swingin&#39; Miss &quot;D&quot;" style="max-width:120px; height:auto;" />
       </td>
@@ -432,7 +378,61 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>36</td>
+      <td>
+          <img src="https://i.discogs.com/7gZqbRJlLHpkqbXfksP_d6KfhsxiEkoyKPjODJNglWU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2OTI4/NzgtMTM3MjQyOTcw/Ni0yNzk4LmpwZWc.jpeg" alt="Cover for The Swingin&#39; Miss D" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1976</td>
+      <td>Dinah Washington</td>
+      <td>The Swingin&#39; Miss D</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/washington" | relative_url }}">washington</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>
+          <img src="https://i.discogs.com/SlTJW_s822KY7GgkGuPO8N2G_jiq9MemIQbg-wUNWvU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTI0/MjctMTM1OTI0MTM2/MS02ODQ3LmpwZWc.jpeg" alt="Cover for The Very Best Of" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1976</td>
+      <td>Dinah Washington</td>
+      <td>The Very Best Of</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/washington" | relative_url }}">washington</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>
+          <img src="https://i.discogs.com/R1C4-ujtM2bgO-JEZKgWFG94bBGDLGXYgg8DX53U2zY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MjM2/ODUtMTUwOTU0ODQ3/MC05NDg0LmpwZWc.jpeg" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1976</td>
+      <td>Dinah Washington</td>
+      <td>Greatest Hits</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/washington" | relative_url }}">washington</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/E7oUn6-9fD9HOVii9mWlVghFfLeFhULazD5KUoQI-uc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTc2/MDEyLTE2MTg1MDI1/ODMtNTkzMC5qcGVn.jpeg" alt="Cover for West Side Baby" style="max-width:120px; height:auto;" />
       </td>
@@ -450,25 +450,7 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
     </tr>
     <tr>
-      <td>2</td>
-      <td>
-          <img src="https://i.discogs.com/1bTIbUswiwtuQI1JKITyNPOUzJggKgFr8UM5UrsMrCI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1ODA3/NDctMTQ4MzEwNjM0/Ny04MjUxLmpwZWc.jpeg" alt="Cover for A Slick Chick" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1983</td>
-      <td>Dinah Washington</td>
-      <td>A Slick Chick</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/washington" | relative_url }}">washington</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/a5KxIGzNVRu76h9hcYzVa8ERka6HQAPDBIpdAst1uMI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NzY4/OTAtMTQyMDE5MzIx/MS01MjU1LmpwZWc.jpeg" alt="Cover for Compact Jazz" style="max-width:120px; height:auto;" />
       </td>
@@ -486,7 +468,25 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>99</td>
+      <td>
+          <img src="https://i.discogs.com/1bTIbUswiwtuQI1JKITyNPOUzJggKgFr8UM5UrsMrCI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1ODA3/NDctMTQ4MzEwNjM0/Ny04MjUxLmpwZWc.jpeg" alt="Cover for A Slick Chick" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1983</td>
+      <td>Dinah Washington</td>
+      <td>A Slick Chick</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/washington" | relative_url }}">washington</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/qPpIttPHIpN7EEkVYg7g7yiKkXOJWEyNP_LTBAg3src/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjAy/MzktMTY2MDM4Nzk5/Ni05OTQ3LmpwZWc.jpeg" alt="Cover for The Fats Waller Songbook" style="max-width:120px; height:auto;" />
       </td>
@@ -507,26 +507,7 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
     </tr>
     <tr>
-      <td>85</td>
-      <td>
-          <img src="https://i.discogs.com/fwt0qMki0kBVXGzEqb5SiY4mawj2hLQaKQ6k8VbGhFw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzMz/NzEtMTU5NDA2NjA2/Mi04MTAzLmpwZWc.jpeg" alt="Cover for Compact Jazz: Dinah Washington" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1987</td>
-      <td>Dinah Washington</td>
-      <td>Compact Jazz: Dinah Washington</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/washington" | relative_url }}">washington</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/11f0baa71456b6594ffb20f80de94239.png" alt="Cover for Dinah Washington Sings the Blues" style="max-width:120px; height:auto;" />
       </td>
@@ -546,7 +527,26 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>16</td>
+      <td>
+          <img src="https://i.discogs.com/fwt0qMki0kBVXGzEqb5SiY4mawj2hLQaKQ6k8VbGhFw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzMz/NzEtMTU5NDA2NjA2/Mi04MTAzLmpwZWc.jpeg" alt="Cover for Compact Jazz: Dinah Washington" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1987</td>
+      <td>Dinah Washington</td>
+      <td>Compact Jazz: Dinah Washington</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/washington" | relative_url }}">washington</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
       <td>
       </td>
       <td>1990</td>
@@ -566,7 +566,7 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/2gwJHXrFMb5pdHKEW6Uygfo25g8nJwllnF0y3VQzVfY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTk2/MTU0LTE2NzIyNjEz/NzctMTEzOS5qcGVn.jpeg" alt="Cover for Blue Gardenia" style="max-width:120px; height:auto;" />
       </td>
@@ -586,61 +586,7 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
     </tr>
     <tr>
-      <td>12</td>
-      <td>
-          <img src="https://i.discogs.com/FPtRByfBwKqjuVdVDpcEkn26FM_vsGkCt9uG6wgHy5g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjEz/NjctMTI4ODU1NDQx/OC5qcGVn.jpeg" alt="Cover for Let Me Love You" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1991</td>
-      <td>Dinah Washington</td>
-      <td>Let Me Love You</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/washington" | relative_url }}">washington</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>18</td>
-      <td>
-          <img src="https://i.discogs.com/MWIxy-htjJ7afhv447Qu2JAOkxPE9s4vPskq5UPkVA4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTk5/MTItMTMyOTI1ODY3/Mi5qcGVn.jpeg" alt="Cover for Let&#39;s Fall In Love" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1991</td>
-      <td>Dinah Washington</td>
-      <td>Let&#39;s Fall In Love</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/washington" | relative_url }}">washington</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>29</td>
-      <td>
-          <img src="https://i.discogs.com/eHqfC1x8BbWxmMA1kgU-A1ijoNoMADkf4GHtFp-4-Rg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNDIz/NzEtMTM1OTQ4Nzg5/MS0xODY1LmpwZWc.jpeg" alt="Cover for Definitive" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1991</td>
-      <td>Dinah Washington</td>
-      <td>Definitive</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/washington" | relative_url }}">washington</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/eHqfC1x8BbWxmMA1kgU-A1ijoNoMADkf4GHtFp-4-Rg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNDIz/NzEtMTM1OTQ4Nzg5/MS0xODY1LmpwZWc.jpeg" alt="Cover for Swingin&#39; Miss &#39;D&#39;" style="max-width:120px; height:auto;" />
       </td>
@@ -658,7 +604,61 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>72</td>
+      <td>
+          <img src="https://i.discogs.com/eHqfC1x8BbWxmMA1kgU-A1ijoNoMADkf4GHtFp-4-Rg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNDIz/NzEtMTM1OTQ4Nzg5/MS0xODY1LmpwZWc.jpeg" alt="Cover for Definitive" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1991</td>
+      <td>Dinah Washington</td>
+      <td>Definitive</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/washington" | relative_url }}">washington</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>
+          <img src="https://i.discogs.com/MWIxy-htjJ7afhv447Qu2JAOkxPE9s4vPskq5UPkVA4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTk5/MTItMTMyOTI1ODY3/Mi5qcGVn.jpeg" alt="Cover for Let&#39;s Fall In Love" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1991</td>
+      <td>Dinah Washington</td>
+      <td>Let&#39;s Fall In Love</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/washington" | relative_url }}">washington</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+          <img src="https://i.discogs.com/FPtRByfBwKqjuVdVDpcEkn26FM_vsGkCt9uG6wgHy5g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjEz/NjctMTI4ODU1NDQx/OC5qcGVn.jpeg" alt="Cover for Let Me Love You" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1991</td>
+      <td>Dinah Washington</td>
+      <td>Let Me Love You</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/washington" | relative_url }}">washington</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1468a68b12d11f8fde67e508ac166330.png" alt="Cover for Rollkicker Laydown" style="max-width:120px; height:auto;" />
       </td>
@@ -682,13 +682,52 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>18</td>
       <td>
-          <img src="https://i.discogs.com/S7twmzEoTAkFb_eNHu8CQAlROI3a7K4nKKZfuvAPO3c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Njkw/OTAtMTM5MzIwNDM2/OS0yNDkyLmpwZWc.jpeg" alt="Cover for All My Succes - Dinah Washington" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/ZOhDKZhgEzOe4edNs98n_hpKzgoeyU8o1fJucuZTUw8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDA4/MzItMTM5MzA2NjMy/NS03MTg0LmpwZWc.jpeg" alt="Cover for What a Difference a Day Makes" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>Dinah Washington</td>
-      <td>All My Succes - Dinah Washington</td>
+      <td>What a Difference a Day Makes</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/washington" | relative_url }}">washington</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ebcffcea60c8481fa483ae1536ed617b.png" alt="Cover for Verve Jazz Masters 19: Dinah Washington" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1992</td>
+      <td>Dinah Washington</td>
+      <td>Verve Jazz Masters 19: Dinah Washington</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/washington" | relative_url }}">washington</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>
+      </td>
+      <td>1992</td>
+      <td>Dinah Washington</td>
+      <td>The Essential Dinah Washington</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/washington" | relative_url }}">washington</a></li>
@@ -700,13 +739,13 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>52</td>
       <td>
-          <img src="https://i.discogs.com/RRnJ9VzN13-LYoqj-h_RBeR3-dfnCQVv60fAJs3jwMA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNTgw/NTMtMTQ3NzUwMDY3/OC05NDEzLmpwZWc.jpeg" alt="Cover for What a Difference a Day Made" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/S7twmzEoTAkFb_eNHu8CQAlROI3a7K4nKKZfuvAPO3c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Njkw/OTAtMTM5MzIwNDM2/OS0yNDkyLmpwZWc.jpeg" alt="Cover for 20th Century Masters - The Millennium Collection: The Best of Dinah Washington" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>Dinah Washington</td>
-      <td>What a Difference a Day Made</td>
+      <td>20th Century Masters - The Millennium Collection: The Best of Dinah Washington</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/washington" | relative_url }}">washington</a></li>
@@ -718,79 +757,7 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
     </tr>
     <tr>
-      <td>19</td>
-      <td>
-          <img src="https://i.discogs.com/S7twmzEoTAkFb_eNHu8CQAlROI3a7K4nKKZfuvAPO3c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Njkw/OTAtMTM5MzIwNDM2/OS0yNDkyLmpwZWc.jpeg" alt="Cover for Smoke Gets in Your Eyes: Best of Dinah Washington" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1992</td>
-      <td>Dinah Washington</td>
-      <td>Smoke Gets in Your Eyes: Best of Dinah Washington</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/washington" | relative_url }}">washington</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>35</td>
-      <td>
-          <img src="https://i.discogs.com/S7twmzEoTAkFb_eNHu8CQAlROI3a7K4nKKZfuvAPO3c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Njkw/OTAtMTM5MzIwNDM2/OS0yNDkyLmpwZWc.jpeg" alt="Cover for The Ultimate Dinah Washington" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1992</td>
-      <td>Dinah Washington</td>
-      <td>The Ultimate Dinah Washington</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/washington" | relative_url }}">washington</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>39</td>
-      <td>
-          <img src="https://i.discogs.com/S7twmzEoTAkFb_eNHu8CQAlROI3a7K4nKKZfuvAPO3c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Njkw/OTAtMTM5MzIwNDM2/OS0yNDkyLmpwZWc.jpeg" alt="Cover for 20th Century Masters: The Millennium Collection: Best Of Dinah Washington" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1992</td>
-      <td>Dinah Washington</td>
-      <td>20th Century Masters: The Millennium Collection: Best Of Dinah Washington</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/washington" | relative_url }}">washington</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>44</td>
-      <td>
-          <img src="https://i.discogs.com/S7twmzEoTAkFb_eNHu8CQAlROI3a7K4nKKZfuvAPO3c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Njkw/OTAtMTM5MzIwNDM2/OS0yNDkyLmpwZWc.jpeg" alt="Cover for Jazz &#39;Round Midnight: Dinah Washington" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1992</td>
-      <td>Dinah Washington</td>
-      <td>Jazz &#39;Round Midnight: Dinah Washington</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/washington" | relative_url }}">washington</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>46</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/S7twmzEoTAkFb_eNHu8CQAlROI3a7K4nKKZfuvAPO3c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Njkw/OTAtMTM5MzIwNDM2/OS0yNDkyLmpwZWc.jpeg" alt="Cover for The Essence of Dinah Washington" style="max-width:120px; height:auto;" />
       </td>
@@ -811,13 +778,13 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>57</td>
       <td>
-          <img src="https://i.discogs.com/S7twmzEoTAkFb_eNHu8CQAlROI3a7K4nKKZfuvAPO3c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Njkw/OTAtMTM5MzIwNDM2/OS0yNDkyLmpwZWc.jpeg" alt="Cover for 20th Century Masters - The Millennium Collection: The Best of Dinah Washington" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/S7twmzEoTAkFb_eNHu8CQAlROI3a7K4nKKZfuvAPO3c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Njkw/OTAtMTM5MzIwNDM2/OS0yNDkyLmpwZWc.jpeg" alt="Cover for Jazz &#39;Round Midnight: Dinah Washington" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>Dinah Washington</td>
-      <td>20th Century Masters - The Millennium Collection: The Best of Dinah Washington</td>
+      <td>Jazz &#39;Round Midnight: Dinah Washington</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/washington" | relative_url }}">washington</a></li>
@@ -829,12 +796,13 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>62</td>
       <td>
+          <img src="https://i.discogs.com/S7twmzEoTAkFb_eNHu8CQAlROI3a7K4nKKZfuvAPO3c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Njkw/OTAtMTM5MzIwNDM2/OS0yNDkyLmpwZWc.jpeg" alt="Cover for 20th Century Masters: The Millennium Collection: Best Of Dinah Washington" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>Dinah Washington</td>
-      <td>The Essential Dinah Washington</td>
+      <td>20th Century Masters: The Millennium Collection: Best Of Dinah Washington</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/washington" | relative_url }}">washington</a></li>
@@ -846,17 +814,15 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>66</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ebcffcea60c8481fa483ae1536ed617b.png" alt="Cover for Verve Jazz Masters 19: Dinah Washington" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/S7twmzEoTAkFb_eNHu8CQAlROI3a7K4nKKZfuvAPO3c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Njkw/OTAtMTM5MzIwNDM2/OS0yNDkyLmpwZWc.jpeg" alt="Cover for The Ultimate Dinah Washington" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>Dinah Washington</td>
-      <td>Verve Jazz Masters 19: Dinah Washington</td>
+      <td>The Ultimate Dinah Washington</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/washington" | relative_url }}">washington</a></li>
         </ul>
       </td>
@@ -866,17 +832,15 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>82</td>
       <td>
-          <img src="https://i.discogs.com/ZOhDKZhgEzOe4edNs98n_hpKzgoeyU8o1fJucuZTUw8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDA4/MzItMTM5MzA2NjMy/NS03MTg0LmpwZWc.jpeg" alt="Cover for What a Difference a Day Makes" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/S7twmzEoTAkFb_eNHu8CQAlROI3a7K4nKKZfuvAPO3c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Njkw/OTAtMTM5MzIwNDM2/OS0yNDkyLmpwZWc.jpeg" alt="Cover for Smoke Gets in Your Eyes: Best of Dinah Washington" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>Dinah Washington</td>
-      <td>What a Difference a Day Makes</td>
+      <td>Smoke Gets in Your Eyes: Best of Dinah Washington</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/washington" | relative_url }}">washington</a></li>
         </ul>
       </td>
@@ -886,7 +850,43 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>86</td>
+      <td>
+          <img src="https://i.discogs.com/RRnJ9VzN13-LYoqj-h_RBeR3-dfnCQVv60fAJs3jwMA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNTgw/NTMtMTQ3NzUwMDY3/OC05NDEzLmpwZWc.jpeg" alt="Cover for What a Difference a Day Made" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1992</td>
+      <td>Dinah Washington</td>
+      <td>What a Difference a Day Made</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/washington" | relative_url }}">washington</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>
+          <img src="https://i.discogs.com/S7twmzEoTAkFb_eNHu8CQAlROI3a7K4nKKZfuvAPO3c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Njkw/OTAtMTM5MzIwNDM2/OS0yNDkyLmpwZWc.jpeg" alt="Cover for All My Succes - Dinah Washington" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1992</td>
+      <td>Dinah Washington</td>
+      <td>All My Succes - Dinah Washington</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/washington" | relative_url }}">washington</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/S7twmzEoTAkFb_eNHu8CQAlROI3a7K4nKKZfuvAPO3c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Njkw/OTAtMTM5MzIwNDM2/OS0yNDkyLmpwZWc.jpeg" alt="Cover for Mad About The Boy, The Best Of Dinah Washington" style="max-width:120px; height:auto;" />
       </td>
@@ -903,7 +903,7 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/Qri_L3YD972jrrB7LpBV1r7cPi6EzAeTBclo7h6RHNQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMDI0/ODMtMTQxNTk4NzEy/OS01MTM2LmpwZWc.jpeg" alt="Cover for Jazz &#39;round Midnight" style="max-width:120px; height:auto;" />
       </td>
@@ -921,7 +921,7 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/249575b027e344b6be8d4593ac8781e9.png" alt="Cover for Fourteen Songs" style="max-width:120px; height:auto;" />
       </td>
@@ -952,24 +952,7 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
     </tr>
     <tr>
-      <td>57</td>
-      <td>
-          <img src="https://i.discogs.com/GiR2VukFNeJLfV8aAqiOn8EDz9js3sYR8F8o-cs7VOU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNjYz/MS0xMjMzOTQ1MDc1/LmpwZWc.jpeg" alt="Cover for 1998-09-23: RKCNDY, Seattle, WA, USA" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1996</td>
-      <td>Built to Spill</td>
-      <td>1998-09-23: RKCNDY, Seattle, WA, USA</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa685100f95f4dc9cd8c3ef35e483441.png" alt="Cover for Call the Doctor (Remastered)" style="max-width:120px; height:auto;" />
       </td>
@@ -986,17 +969,31 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>44</td>
       <td>
-          <img src="https://i.discogs.com/WAgiYDWWbbDjsh6mZCIIi0x2T4ZIisxUIPqL_BdyhMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMzYz/MTYtMTYwMjM2NzMy/My02MTM1LmpwZWc.jpeg" alt="Cover for Wise Woman Blues" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/GiR2VukFNeJLfV8aAqiOn8EDz9js3sYR8F8o-cs7VOU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNjYz/MS0xMjMzOTQ1MDc1/LmpwZWc.jpeg" alt="Cover for 1998-09-23: RKCNDY, Seattle, WA, USA" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996</td>
+      <td>Built to Spill</td>
+      <td>1998-09-23: RKCNDY, Seattle, WA, USA</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>
       </td>
       <td>1997</td>
       <td>Dinah Washington</td>
-      <td>Wise Woman Blues</td>
+      <td>I Get a Kick Out of You</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/washington" | relative_url }}">washington</a></li>
         </ul>
       </td>
@@ -1006,7 +1003,7 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d40ff2ec03ac635d028d4f863c4f7ae0.png" alt="Cover for Obscene Hand" style="max-width:120px; height:auto;" />
       </td>
@@ -1029,14 +1026,17 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>87</td>
       <td>
+          <img src="https://i.discogs.com/WAgiYDWWbbDjsh6mZCIIi0x2T4ZIisxUIPqL_BdyhMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMzYz/MTYtMTYwMjM2NzMy/My02MTM1LmpwZWc.jpeg" alt="Cover for Wise Woman Blues" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Dinah Washington</td>
-      <td>I Get a Kick Out of You</td>
+      <td>Wise Woman Blues</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/washington" | relative_url }}">washington</a></li>
         </ul>
       </td>
@@ -1046,7 +1046,7 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/55acfdff363ae8ebf8242b1834e21453.png" alt="Cover for Dig Me Out (Remastered)" style="max-width:120px; height:auto;" />
       </td>
@@ -1063,12 +1063,12 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
         <ul>
             <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 5</li>
             <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 49</li>
-            <li> <a href="{{ "/tags/riot-grrrl" | relative_url }}">riot grrrl</a> # 95</li>
+            <li> <a href="{{ "/tags/riot-grrrl" | relative_url }}">riot grrrl</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
       </td>
       <td>1998-11-23</td>
@@ -1087,13 +1087,13 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       <td>
         <ul>
             <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 5</li>
-            <li> <a href="{{ "/tags/riot-grrrl" | relative_url }}">riot grrrl</a> # 75</li>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 99</li>
+            <li> <a href="{{ "/tags/riot-grrrl" | relative_url }}">riot grrrl</a> # 22</li>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c66650656485415da12b56b7c41809fc.png" alt="Cover for the sound of your breath still" style="max-width:120px; height:auto;" />
       </td>
@@ -1134,7 +1134,7 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/zWV-NKunYPbSd1FcmVWAFDAdWY_xFz2p-BisRTM-9c8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4OTM4/NjctMTM0ODM0Nzg3/Ni05Nzk4LmpwZWc.jpeg" alt="Cover for Complete Recordings With Clifford Brown" style="max-width:120px; height:auto;" />
       </td>
@@ -1152,7 +1152,7 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
       </td>
       <td>2002</td>
@@ -1169,7 +1169,7 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/hxdm0XAB5KlhP6F99kF6P_r2pYeUgbr7z6FvbwggYbM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMzYz/OTEtMTQ5MTg3Mzc4/NS0yMzU5LmpwZWc.jpeg" alt="Cover for Blues for a Day" style="max-width:120px; height:auto;" />
       </td>
@@ -1187,7 +1187,7 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/PGlwpQUIWvtYt6LphCQKDOLe0wbUfnSnmGTFUkB0q_M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NzYx/MDEtMTM4MTEwMzk5/My0yMjY2LmpwZWc.jpeg" alt="Cover for Queen of the Blues" style="max-width:120px; height:auto;" />
       </td>
@@ -1205,7 +1205,7 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/Y8LBonkvJPJpGYPlwa5IRx3ed5KZ1BZQ8hWvPBwevyI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTE1/MC0xMjc1MTYyMTM4/LmpwZWc.jpeg" alt="Cover for Tetrasomia" style="max-width:120px; height:auto;" />
       </td>
@@ -1224,13 +1224,13 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 54</li>
+            <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 47</li>
             <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/AbB1h7To4aHiON5LSC0HbDlBLHPSoSv4uE-oDWq2g_c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNjA3/MjYtMTM4NDYzMzE0/Ny0yMTkzLmpwZWc.jpeg" alt="Cover for Reverberated For Your Pleasure" style="max-width:120px; height:auto;" />
       </td>
@@ -1257,7 +1257,24 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>37</td>
+      <td>
+      </td>
+      <td>2006</td>
+      <td>Dinah Washington</td>
+      <td>Jazz Masters</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/washington" | relative_url }}">washington</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
       <td>
           <img src="https://i.discogs.com/FPtRByfBwKqjuVdVDpcEkn26FM_vsGkCt9uG6wgHy5g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjEz/NjctMTI4ODU1NDQx/OC5qcGVn.jpeg" alt="Cover for Embraceable You" style="max-width:120px; height:auto;" />
       </td>
@@ -1275,24 +1292,7 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
     </tr>
     <tr>
-      <td>64</td>
-      <td>
-      </td>
-      <td>2006</td>
-      <td>Dinah Washington</td>
-      <td>Jazz Masters</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/washington" | relative_url }}">washington</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>47</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c010f8009380a1c8f4e19b8658d9c491.png" alt="Cover for In the Deep" style="max-width:120px; height:auto;" />
       </td>
@@ -1319,14 +1319,14 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 32</li>
-            <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 57</li>
+            <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 44</li>
+            <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 69</li>
             <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/cKddnO4HYm1-hyZtiBOnDe6h_2zGFWybSYQfjgQiaeI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5ODgy/NS0xMTgyNDQ1MTIx/LmpwZWc.jpeg" alt="Cover for A Long And Ugly Road (European edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1349,18 +1349,18 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/flute" | relative_url }}">flute</a> # 19</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 26</li>
+            <li> <a href="{{ "/tags/clarinet" | relative_url }}">clarinet</a> # 20</li>
             <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 27</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 36</li>
             <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 48</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 65</li>
             <li> <a href="{{ "/tags/seattle" | relative_url }}">seattle</a> # 65</li>
-            <li> <a href="{{ "/tags/clarinet" | relative_url }}">clarinet</a> # 81</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 75</li>
+            <li> <a href="{{ "/tags/flute" | relative_url }}">flute</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a87851fa56563cb79af17e014ee8747f.png" alt="Cover for Gold" style="max-width:120px; height:auto;" />
       </td>
@@ -1378,72 +1378,7 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
     </tr>
     <tr>
-      <td>55</td>
-      <td>
-          <img src="https://i.discogs.com/W8-AxaNLf80KBzncwDJv4_H81hHYbf2TYyHr2uT9ZHg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDEw/NTYxLTE0OTY4NzE5/MjUtNDg4OC5qcGVn.jpeg" alt="Cover for Queeny Blast Pop" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2008</td>
-      <td>Queeny Blast Pop</td>
-      <td>Queeny Blast Pop</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/seattle" | relative_url }}">seattle</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/washington" | relative_url }}">washington</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 65</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>69</td>
-      <td>
-          <img src="https://i.discogs.com/qW_9TUueGCKSAn7zrHHoje-7fyFd4Ojf0GWlogU4_LI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjM3/ODQ1LTE2ODA1MzI2/MDktOTI1Ny5qcGVn.jpeg" alt="Cover for The Winged Life (European edition)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2008</td>
-      <td>June Madrona</td>
-      <td>The Winged Life (European edition)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 98 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
-            <li style="font-size: calc(1rem * 94 / 100)"> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a></li>
-            <li style="font-size: calc(1rem * 90 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 90 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
-            <li style="font-size: calc(1rem * 90 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
-            <li style="font-size: calc(1rem * 86 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
-            <li style="font-size: calc(1rem * 86 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
-            <li style="font-size: calc(1rem * 86 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
-            <li style="font-size: calc(1rem * 86 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
-            <li style="font-size: calc(1rem * 86 / 100)"> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a></li>
-            <li style="font-size: calc(1rem * 82 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
-            <li style="font-size: calc(1rem * 82 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
-            <li style="font-size: calc(1rem * 82 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
-            <li style="font-size: calc(1rem * 82 / 100)"> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a></li>
-            <li style="font-size: calc(1rem * 82 / 100)"> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a></li>
-            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
-            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
-            <li style="font-size: calc(1rem * 75 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
-            <li style="font-size: calc(1rem * 53 / 100)"> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 10</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 15</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 46</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 51</li>
-            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 73</li>
-            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 84</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/42YUsMLs9tssgRNBdJTB2n8aiuaFw6CeUsqNYsL2Fy8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDY5/Mjg5LTE1MTMwNTk3/OTYtOTA2MC5qcGVn.jpeg" alt="Cover for Be The Change" style="max-width:120px; height:auto;" />
       </td>
@@ -1477,17 +1412,82 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
             <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 7</li>
             <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 17</li>
             <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 19</li>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 33</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 31</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 36</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 38</li>
             <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 39</li>
-            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 44</li>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 62</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 65</li>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 70</li>
+            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 57</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>32</td>
+      <td>
+          <img src="https://i.discogs.com/qW_9TUueGCKSAn7zrHHoje-7fyFd4Ojf0GWlogU4_LI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjM3/ODQ1LTE2ODA1MzI2/MDktOTI1Ny5qcGVn.jpeg" alt="Cover for The Winged Life (European edition)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>June Madrona</td>
+      <td>The Winged Life (European edition)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 98 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 94 / 100)"> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a></li>
+            <li style="font-size: calc(1rem * 90 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 90 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 90 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+            <li style="font-size: calc(1rem * 86 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
+            <li style="font-size: calc(1rem * 86 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 86 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
+            <li style="font-size: calc(1rem * 86 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+            <li style="font-size: calc(1rem * 86 / 100)"> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a></li>
+            <li style="font-size: calc(1rem * 82 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
+            <li style="font-size: calc(1rem * 82 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
+            <li style="font-size: calc(1rem * 82 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
+            <li style="font-size: calc(1rem * 82 / 100)"> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a></li>
+            <li style="font-size: calc(1rem * 82 / 100)"> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a></li>
+            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+            <li style="font-size: calc(1rem * 75 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 53 / 100)"> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 50</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 54</li>
+            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 73</li>
+            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 84</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 85</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 91</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>
+          <img src="https://i.discogs.com/W8-AxaNLf80KBzncwDJv4_H81hHYbf2TYyHr2uT9ZHg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDEw/NTYxLTE0OTY4NzE5/MjUtNDg4OC5qcGVn.jpeg" alt="Cover for Queeny Blast Pop" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>Queeny Blast Pop</td>
+      <td>Queeny Blast Pop</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/seattle" | relative_url }}">seattle</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/washington" | relative_url }}">washington</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 65</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/oS4zunIVOINnqDqp66sUQzao0cCbBcVTtg2i1WLFcvk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDUw/MjE1LTE0OTA3Mzk2/NTktNzg4Ny5qcGVn.jpeg" alt="Cover for Talks Cheap" style="max-width:120px; height:auto;" />
       </td>
@@ -1511,7 +1511,25 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>34</td>
+      <td>
+          <img src="https://i.discogs.com/1ThqD24HyU_LaIjjgQszcnIx2kpZZzhLAMj8kej_hRU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzY2/NjM3LTE1NTI4NDkw/MDEtNDI4Ny5qcGVn.jpeg" alt="Cover for Diva: The Essential Collection" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Dinah Washington</td>
+      <td>Diva: The Essential Collection</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/washington" | relative_url }}">washington</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d7251038405ae03fc1732dd4edb6c3ba.png" alt="Cover for All the Other Animals" style="max-width:120px; height:auto;" />
       </td>
@@ -1531,25 +1549,7 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
     </tr>
     <tr>
-      <td>67</td>
-      <td>
-          <img src="https://i.discogs.com/1ThqD24HyU_LaIjjgQszcnIx2kpZZzhLAMj8kej_hRU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzY2/NjM3LTE1NTI4NDkw/MDEtNDI4Ny5qcGVn.jpeg" alt="Cover for Diva: The Essential Collection" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2009</td>
-      <td>Dinah Washington</td>
-      <td>Diva: The Essential Collection</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/washington" | relative_url }}">washington</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>5</td>
+      <td>96</td>
       <td>
       </td>
       <td>2009-01-06</td>
@@ -1583,7 +1583,7 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
       </td>
       <td>2009-01-29</td>
@@ -1616,18 +1616,18 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
             <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 4</li>
             <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 6</li>
             <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 10</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 14</li>
             <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 20</li>
-            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 65</li>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 67</li>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 75</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 76</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 25</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 25</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 34</li>
+            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 36</li>
             <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 80</li>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/XuKV50-t7YrXshQSNufQkn5gZVqixEMcSYMj7B2fLfY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzcx/MzQtMTMyNzk5NjYz/NC5qcGVn.jpeg" alt="Cover for Vexed - The Remixes" style="max-width:120px; height:auto;" />
       </td>
@@ -1653,25 +1653,7 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
     </tr>
     <tr>
-      <td>10</td>
-      <td>
-          <img src="https://i.discogs.com/Ftvi2szYCxXQh7CHr45uQUkl684ESqNLmIkR9i70iD8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDQ5/OTkxLTE1MzU1MTk4/MjUtODA2Ni5qcGVn.jpeg" alt="Cover for Lady Sings The Blues (Jazz Club)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2010</td>
-      <td>Dinah Washington</td>
-      <td>Lady Sings The Blues (Jazz Club)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/washington" | relative_url }}">washington</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>20</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/PqA86RSZgfns28QhFbWFl9_01YADY_WAquP_QYv2kHQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMTcz/ODUtMTQ3ODQ3NzI1/NS04MTQ5LmpwZWc.jpeg" alt="Cover for No Living Witness" style="max-width:120px; height:auto;" />
       </td>
@@ -1693,7 +1675,25 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>91</td>
+      <td>
+          <img src="https://i.discogs.com/Ftvi2szYCxXQh7CHr45uQUkl684ESqNLmIkR9i70iD8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDQ5/OTkxLTE1MzU1MTk4/MjUtODA2Ni5qcGVn.jpeg" alt="Cover for Lady Sings The Blues (Jazz Club)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010</td>
+      <td>Dinah Washington</td>
+      <td>Lady Sings The Blues (Jazz Club)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/washington" | relative_url }}">washington</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/07863e425b3b45188817e12f32c8925a.png" alt="Cover for Army of Drunkness" style="max-width:120px; height:auto;" />
       </td>
@@ -1712,7 +1712,7 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/ryPNWcAEYZnop4df_8QFS_V18xMFJq2UmyJjKqnHyZ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MzUy/OTItMTM3MzY3Njk1/NC0xNTg5LmpwZWc.jpeg" alt="Cover for Pretty Alright" style="max-width:120px; height:auto;" />
       </td>
@@ -1749,7 +1749,7 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/3zvEGc0b2cwzVX40v2kUKytvs0cA6SCQH-rRerwK82M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMjUz/NTYtMTQ3ODYyMTY3/OC01MjczLmpwZWc.jpeg" alt="Cover for The Best Of Dinah Washington" style="max-width:120px; height:auto;" />
       </td>
@@ -1768,7 +1768,7 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/ozjj91zsPau13TW2vZEdXsAbcRJsnEK0M1sXG8UcdCc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NzE2/NjUtMTM3NTAzODc2/MS0yMDAzLmpwZWc.jpeg" alt="Cover for i am, and say." style="max-width:120px; height:auto;" />
       </td>
@@ -1781,11 +1781,12 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/arcade-fire" | relative_url }}">arcade fire</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/DX7vf25_OHZ0DH7MTWl5mVk7jB_Lj1JjaAtXyiaOeQo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxODIw/MjktMTQ1NjY3MTcy/OC0zOTM2LmpwZWc.jpeg" alt="Cover for SEED" style="max-width:120px; height:auto;" />
       </td>
@@ -1802,12 +1803,12 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oregon" | relative_url }}">oregon</a> # 76</li>
+            <li> <a href="{{ "/tags/oregon" | relative_url }}">oregon</a> # 25</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>68</td>
       <td>
       </td>
       <td>2012-08-05</td>
@@ -1826,7 +1827,7 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/4pextXAhdRzsOlM_uURnStyJU7WCmkeXzNrfHIgzN8o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MTc5/ODYtMTM3OTM3NDYx/My03OTQ2LmpwZWc.jpeg" alt="Cover for Missing Fingers" style="max-width:120px; height:auto;" />
       </td>
@@ -1847,7 +1848,7 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/j2as1ifXpWbgXL-1EMdS3bH3iXOp5RmkFLF2kkAwsJA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMzM4/MTktMTQzMjE0ODEx/MC03OTczLmpwZWc.jpeg" alt="Cover for Lose It All? (What If)" style="max-width:120px; height:auto;" />
       </td>
@@ -1883,7 +1884,7 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bf8ae1fa3e80cebfc110c69272670ea5.png" alt="Cover for Thrice Woven" style="max-width:120px; height:auto;" />
       </td>
@@ -1902,7 +1903,7 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>95</td>
       <td>
           <img src="https://i.discogs.com/dNnw-pRMYHVjW3-IqI1ZyQyBHRYn49ewSrtrG0u-jbE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTMy/NjQ3LTE1MTgwMTk4/MDQtMjMwNy5qcGVn.jpeg" alt="Cover for In Alliance With Melancholy" style="max-width:120px; height:auto;" />
       </td>
@@ -1925,7 +1926,7 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/56rhHWbYbbl4MlXMEbinRLPy-EQD2X0APE6mE7p7j8I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDMw/NDE1LTE1MzUxMzYx/NjctNDMyNi5qcGVn.jpeg" alt="Cover for Medicate Me - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1934,6 +1935,7 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       <td>Medicate Me - Single</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/arcade-fire" | relative_url }}">arcade fire</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/australian" | relative_url }}">australian</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
@@ -1942,11 +1944,12 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/arcade-fire" | relative_url }}">arcade fire</a> # 7</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>84</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1f03784142bd18520a1ddd35de6dc5e7.png" alt="Cover for Wool In The Pool" style="max-width:120px; height:auto;" />
       </td>
@@ -1969,7 +1972,7 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>93</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7d917e9452df9f109693234ae081436e.png" alt="Cover for Purple Strange" style="max-width:120px; height:auto;" />
       </td>
@@ -1993,7 +1996,7 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>88</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a5c2ab1f501d4056848754fdb473c023.png" alt="Cover for Greatest Hits 2005-2007" style="max-width:120px; height:auto;" />
       </td>
@@ -2015,7 +2018,7 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/Xwcxx5m3LvhMhehVmBm21GM63C1bi9H2Wuh7GJsX2LY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjUw/MDYzLTE2Mzg4MDQw/ODgtNjczMS5qcGVn.jpeg" alt="Cover for Samba in Seattle : Live at the Penthouse, 1967" style="max-width:120px; height:auto;" />
       </td>
@@ -2032,7 +2035,30 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>97</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/60ba5ba8333e4ffc9fbafe2e31c87eab.png" alt="Cover for September EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Tin DeMotta</td>
+      <td>September EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/justice" | relative_url }}">justice</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/seattle" | relative_url }}">seattle</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/washington" | relative_url }}">washington</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/justice" | relative_url }}">justice</a> # 56</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
       <td>
       </td>
       <td></td>
@@ -2058,18 +2084,14 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/60ba5ba8333e4ffc9fbafe2e31c87eab.png" alt="Cover for September EP" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>Tin DeMotta</td>
-      <td>September EP</td>
+      <td>Dan Savage</td>
+      <td>Savage Love Podcast</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/seattle" | relative_url }}">seattle</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/washington" | relative_url }}">washington</a></li>
         </ul>
       </td>
@@ -2079,50 +2101,7 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
     </tr>
     <tr>
-      <td>21</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e7af8309e87b3b6a71e3384c123e0cdb.png" alt="Cover for Potomac Winter Sessions EP" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Tigertronic</td>
-      <td>Potomac Winter Sessions EP</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/america" | relative_url }}">america</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/washington" | relative_url }}">washington</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>28</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Tri-stram</td>
-      <td>The Very Best of Tri-stram</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/washington" | relative_url }}">washington</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>45</td>
+      <td>56</td>
       <td>
       </td>
       <td></td>
@@ -2144,14 +2123,40 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>73</td>
       <td>
       </td>
       <td></td>
-      <td>Dan Savage</td>
-      <td>Savage Love Podcast</td>
+      <td>Tri-stram</td>
+      <td>The Very Best of Tri-stram</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/washington" | relative_url }}">washington</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e7af8309e87b3b6a71e3384c123e0cdb.png" alt="Cover for Potomac Winter Sessions EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Tigertronic</td>
+      <td>Potomac Winter Sessions EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/america" | relative_url }}">america</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/washington" | relative_url }}">washington</a></li>
         </ul>
       </td>
@@ -2174,4 +2179,4 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
 - [pop]({{ "/tags/pop" | relative_url }})
 - [house]({{ "/tags/house" | relative_url }})
 - [america]({{ "/tags/america" | relative_url }})
-- [gospel]({{ "/tags/gospel" | relative_url }})
+- [dance]({{ "/tags/dance" | relative_url }})

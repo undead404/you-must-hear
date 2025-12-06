@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T05:07:33.501Z
+date: 2025-12-06T08:08:15.454Z
 permalink: tags/crust
 title: crust
 ---
 
 ## crust
 
-Last updated: <time datetime="2025-12-04T05:07:33.501Z">Thu Dec 04 2025 07:07:33 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T08:08:15.454Z">Sat Dec 06 2025 10:08:15 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -208,7 +208,7 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 13</li>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -267,7 +267,7 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 83</li>
+            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -341,7 +341,7 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 92</li>
+            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -540,7 +540,7 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neocrust" | relative_url }}">neocrust</a> # 95</li>
+            <li> <a href="{{ "/tags/neocrust" | relative_url }}">neocrust</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -597,8 +597,8 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/neocrust" | relative_url }}">neocrust</a> # 5</li>
             <li> <a href="{{ "/tags/d-beat" | relative_url }}">d-beat</a> # 10</li>
-            <li> <a href="{{ "/tags/neocrust" | relative_url }}">neocrust</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -669,7 +669,7 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 22</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 79</li>
             <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 89</li>
         </ul>
       </td>
@@ -692,7 +692,7 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neocrust" | relative_url }}">neocrust</a> # 92</li>
+            <li> <a href="{{ "/tags/neocrust" | relative_url }}">neocrust</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -940,8 +940,8 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 3</li>
-            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 36</li>
+            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 61</li>
+            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1014,7 +1014,7 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neocrust" | relative_url }}">neocrust</a> # 100</li>
+            <li> <a href="{{ "/tags/neocrust" | relative_url }}">neocrust</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -1052,8 +1052,8 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 21</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 37</li>
-            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1132,7 +1132,7 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
       <td>
         <ul>
             <li> <a href="{{ "/tags/d-beat" | relative_url }}">d-beat</a> # 21</li>
-            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 78</li>
+            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1192,8 +1192,8 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 19</li>
             <li> <a href="{{ "/tags/d-beat" | relative_url }}">d-beat</a> # 47</li>
-            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1340,7 +1340,7 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 75</li>
+            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1415,6 +1415,7 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/neocrust" | relative_url }}">neocrust</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1437,7 +1438,7 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neocrust" | relative_url }}">neocrust</a> # 98</li>
+            <li> <a href="{{ "/tags/neocrust" | relative_url }}">neocrust</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -1495,7 +1496,7 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 54</li>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1518,8 +1519,8 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 28</li>
             <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 60</li>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1642,7 +1643,7 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 86</li>
+            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1719,7 +1720,7 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 17</li>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1757,7 +1758,7 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 91</li>
+            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1797,7 +1798,7 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 79</li>
+            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1941,8 +1942,8 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
       <td>
         <ul>
             <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 7</li>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 19</li>
             <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 48</li>
-            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 82</li>
         </ul>
       </td>
     </tr>

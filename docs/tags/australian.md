@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T04:36:19.427Z
+date: 2025-12-06T07:09:46.037Z
 permalink: tags/australian
 title: australian
 ---
 
 ## australian
 
-Last updated: <time datetime="2025-12-04T04:36:19.427Z">Thu Dec 04 2025 06:36:19 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T07:09:46.037Z">Sat Dec 06 2025 09:09:46 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -273,7 +273,7 @@ Australian music refers to the music produced and originated in Australia. It en
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 3</li>
+            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -364,8 +364,8 @@ Australian music refers to the music produced and originated in Australia. It en
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 29</li>
-            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 50</li>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 51</li>
+            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -440,8 +440,8 @@ Australian music refers to the music produced and originated in Australia. It en
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 90</li>
-            <li> <a href="{{ "/tags/melbourne" | relative_url }}">melbourne</a> # 100</li>
+            <li> <a href="{{ "/tags/melbourne" | relative_url }}">melbourne</a> # 1</li>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -462,7 +462,7 @@ Australian music refers to the music produced and originated in Australia. It en
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 87</li>
+            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -764,7 +764,7 @@ Australian music refers to the music produced and originated in Australia. It en
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 52</li>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -897,10 +897,10 @@ Australian music refers to the music produced and originated in Australia. It en
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 27</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 35</li>
             <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 35</li>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 36</li>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 66</li>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 74</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1001,10 +1001,10 @@ Australian music refers to the music produced and originated in Australia. It en
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/uk-hardcore" | relative_url }}">uk hardcore</a> # 1</li>
             <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 2</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 21</li>
             <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 29</li>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 80</li>
-            <li> <a href="{{ "/tags/uk-hardcore" | relative_url }}">uk hardcore</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1067,8 +1067,8 @@ Australian music refers to the music produced and originated in Australia. It en
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 4</li>
             <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 57</li>
-            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1408,9 +1408,9 @@ Australian music refers to the music produced and originated in Australia. It en
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 6</li>
             <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 18</li>
             <li> <a href="{{ "/tags/technical-deathcore" | relative_url }}">technical deathcore</a> # 21</li>
+            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1498,9 +1498,9 @@ Australian music refers to the music produced and originated in Australia. It en
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 35</li>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 43</li>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 69</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 32</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 58</li>
+            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 66</li>
             <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 96</li>
         </ul>
       </td>
@@ -1543,8 +1543,8 @@ Australian music refers to the music produced and originated in Australia. It en
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 11</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 48</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1569,9 +1569,9 @@ Australian music refers to the music produced and originated in Australia. It en
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 82</li>
-            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 83</li>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 83</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 18</li>
+            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 18</li>
+            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1601,7 +1601,7 @@ Australian music refers to the music produced and originated in Australia. It en
             <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 5</li>
             <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 13</li>
             <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 65</li>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 74</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1671,10 +1671,10 @@ Australian music refers to the music produced and originated in Australia. It en
         <ul>
             <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 12</li>
             <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 13</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 14</li>
             <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 18</li>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 80</li>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 21</li>
             <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 86</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1779,7 +1779,7 @@ Australian music refers to the music produced and originated in Australia. It en
       <td>
         <ul>
             <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 5</li>
-            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 42</li>
+            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 59</li>
             <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 86</li>
         </ul>
       </td>
@@ -1807,13 +1807,13 @@ Australian music refers to the music produced and originated in Australia. It en
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 1</li>
+            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 4</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 11</li>
             <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 15</li>
             <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 23</li>
             <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 69</li>
             <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 79</li>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 90</li>
-            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 97</li>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 100</li>
             <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 100</li>
         </ul>
       </td>
@@ -1880,11 +1880,11 @@ Australian music refers to the music produced and originated in Australia. It en
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 11</li>
+            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 13</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 24</li>
             <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 41</li>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 53</li>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 77</li>
-            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 88</li>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 90</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1909,9 +1909,9 @@ Australian music refers to the music produced and originated in Australia. It en
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 78</li>
-            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 80</li>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 81</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 20</li>
+            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 21</li>
+            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 23</li>
         </ul>
       </td>
     </tr>

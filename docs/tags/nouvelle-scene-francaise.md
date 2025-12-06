@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T04:31:57.072Z
+date: 2025-12-06T06:46:45.928Z
 permalink: tags/nouvelle-scene-francaise
 title: nouvelle scene francaise
 ---
 
 ## nouvelle scene francaise
 
-Last updated: <time datetime="2025-12-04T04:31:57.072Z">Thu Dec 04 2025 06:31:57 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T06:46:45.928Z">Sat Dec 06 2025 08:46:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
   </thead>
   <tbody>
     <tr>
-      <td>11</td>
+      <td>90</td>
       <td>
       </td>
       <td>1972</td>
@@ -47,7 +47,7 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for Le Pop 2" style="max-width:120px; height:auto;" />
       </td>
@@ -65,7 +65,7 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/qQOKpLSKIYAaIzjq1mYxr8fThiggmunHwVwktrdclsI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMjIw/MDItMTM1MjY0NTE1/MC01NjExLmpwZWc.jpeg" alt="Cover for Sous tes draps" style="max-width:120px; height:auto;" />
       </td>
@@ -95,7 +95,7 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/hP9dxweErYEPiyE9HCLCkdcIqDqIZoISYTsTJ6AoNaI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDk1/NTItMTE5NjExNDU3/OC5qcGVn.jpeg" alt="Cover for Master Serie Arthur H" style="max-width:120px; height:auto;" />
       </td>
@@ -113,35 +113,7 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
     </tr>
     <tr>
-      <td>28</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d03f824bac6585006c140fe4ec976c19.png" alt="Cover for 999 - EP" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1990-06-01</td>
-      <td>Santa</td>
-      <td>999 - EP</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/paris" | relative_url }}">paris</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 28</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/20ec363e6ab661035d4d019c29ba245b.png" alt="Cover for Paris en Août" style="max-width:120px; height:auto;" />
       </td>
@@ -164,14 +136,42 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 30</li>
             <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 55</li>
-            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 71</li>
             <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>73</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d03f824bac6585006c140fe4ec976c19.png" alt="Cover for 999 - EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1990-06-01</td>
+      <td>Santa</td>
+      <td>999 - EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/paris" | relative_url }}">paris</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 73</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
       <td>
       </td>
       <td>1993</td>
@@ -192,7 +192,25 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>7</td>
+      <td>
+          <img src="https://i.discogs.com/QSKm5NBD-jIXq4BKnOTvYzsXO_JuucHN212nOrUl1Ik/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTAx/OTgtMTI4ODAwNjU0/OS5qcGVn.jpeg" alt="Cover for Cuisine Non-Stop: Introduction To The French Nouvelle Generation" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995</td>
+      <td>La Tordue</td>
+      <td>Cuisine Non-Stop: Introduction To The French Nouvelle Generation</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee62c678339643da7d0d50353fed68a6.png" alt="Cover for Made in Normandie" style="max-width:120px; height:auto;" />
       </td>
@@ -212,25 +230,7 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
     </tr>
     <tr>
-      <td>94</td>
-      <td>
-          <img src="https://i.discogs.com/QSKm5NBD-jIXq4BKnOTvYzsXO_JuucHN212nOrUl1Ik/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTAx/OTgtMTI4ODAwNjU0/OS5qcGVn.jpeg" alt="Cover for Cuisine Non-Stop: Introduction To The French Nouvelle Generation" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1995</td>
-      <td>La Tordue</td>
-      <td>Cuisine Non-Stop: Introduction To The French Nouvelle Generation</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/418a99fb31ad45ba8615d94ae2cb6bc7.png" alt="Cover for そらの庭" style="max-width:120px; height:auto;" />
       </td>
@@ -271,20 +271,20 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 12</li>
             <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 22</li>
             <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 32</li>
             <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 32</li>
-            <li> <a href="{{ "/tags/czech" | relative_url }}">czech</a> # 40</li>
-            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 56</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 58</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 43</li>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 45</li>
+            <li> <a href="{{ "/tags/czech" | relative_url }}">czech</a> # 60</li>
             <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 66</li>
             <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 68</li>
+            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/W8uWtBeID5CtXHQCZIVYZA-lzHXzYZwZd_PfBHJcVss/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzEy/NDgtMTQzNjY4MTMx/MS0zNDMwLmpwZWc.jpeg" alt="Cover for L&#39;observatoire de Cergy" style="max-width:120px; height:auto;" />
       </td>
@@ -305,7 +305,7 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
       </td>
       <td>2000-05-24</td>
@@ -348,19 +348,19 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
             <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 17</li>
             <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 22</li>
             <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 24</li>
-            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 27</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 28</li>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 38</li>
+            <li> <a href="{{ "/tags/czech" | relative_url }}">czech</a> # 42</li>
             <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 43</li>
+            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 44</li>
             <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 51</li>
-            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 57</li>
-            <li> <a href="{{ "/tags/czech" | relative_url }}">czech</a> # 57</li>
-            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 62</li>
             <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 69</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 73</li>
+            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
       </td>
       <td>2001</td>
@@ -376,7 +376,7 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7061c915529c4d2396b1d85791328de3.png" alt="Cover for Utopie D&#39;Occase" style="max-width:120px; height:auto;" />
       </td>
@@ -395,7 +395,7 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/29127c5693c33ff5376055164ec958a7.png" alt="Cover for Le Sac Des Filles" style="max-width:120px; height:auto;" />
       </td>
@@ -414,7 +414,7 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5fc72087a23da3dc48682968c9b30348.png" alt="Cover for Sabotage" style="max-width:120px; height:auto;" />
       </td>
@@ -432,7 +432,7 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/59e1af22a1c5f4572a29a508e7b29dc0.png" alt="Cover for Grain De Sable" style="max-width:120px; height:auto;" />
       </td>
@@ -447,13 +447,31 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 24</li>
             <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 44</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>10</td>
+      <td>
+          <img src="https://i.discogs.com/IbnyXcdb7v3FkxcdxqSn42WbkYMt_1zQUxmPG5FJMe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDY4/OTktMTI1NDMzODcz/MS5qcGVn.jpeg" alt="Cover for Et pourquoi les crayons?" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Amélie-les-crayons</td>
+      <td>Et pourquoi les crayons?</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
       <td>
       </td>
       <td>2004</td>
@@ -472,25 +490,7 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
     </tr>
     <tr>
-      <td>91</td>
-      <td>
-          <img src="https://i.discogs.com/IbnyXcdb7v3FkxcdxqSn42WbkYMt_1zQUxmPG5FJMe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDY4/OTktMTI1NDMzODcz/MS5qcGVn.jpeg" alt="Cover for Et pourquoi les crayons?" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2004</td>
-      <td>Amélie-les-crayons</td>
-      <td>Et pourquoi les crayons?</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
       </td>
       <td>2004-03</td>
@@ -511,7 +511,7 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
       </td>
       <td>2004-08</td>
@@ -530,7 +530,7 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>100</td>
       <td>
           <img src="https://i.discogs.com/3kUAgyFtOyhyLd-IGy3YueVcbcUvHSPFFoyyI34davo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MzU1/NzctMTQzMDEyODkw/NC0xMzM3LmpwZWc.jpeg" alt="Cover for Qu&#39;est-ce qui m&#39;a pris" style="max-width:120px; height:auto;" />
       </td>
@@ -550,7 +550,7 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/GtjoAOBas6E5Nx79CYBRSThYNBSNDf9kpbNqu2UJuMc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjQ0/MTgxLTE1ODg1OTY4/NjItMzgwNS5qcGVn.jpeg" alt="Cover for Vieille ecole" style="max-width:120px; height:auto;" />
       </td>
@@ -579,7 +579,7 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3fe5d371920b64b2fee14e75d49a49af.png" alt="Cover for Pauline Croze" style="max-width:120px; height:auto;" />
       </td>
@@ -594,12 +594,12 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       <td>
         <ul>
             <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 5</li>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 85</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 16</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e6850f7ee4204e89930656b7cfa4c95d.png" alt="Cover for Bye Bye Beauté" style="max-width:120px; height:auto;" />
       </td>
@@ -613,12 +613,12 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 14</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/3ofQGaB5UEV76o1n4UnEjCZCgfGDGRgstcYkxfpjQFk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNjM5/NzgtMTYyNjAxMjE4/My0yMTIzLmpwZWc.jpeg" alt="Cover for À l&#39;origine" style="max-width:120px; height:auto;" />
       </td>
@@ -639,7 +639,7 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
       </td>
       <td>2005-09-12</td>
@@ -657,7 +657,7 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/q8rTQRx6aGqXT2dgtHS4hVJAQQcAG54Q39xO43wSOcY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODA4/NzgtMTM1MTE4ODY4/NC0yMjMwLmpwZWc.jpeg" alt="Cover for Joker" style="max-width:120px; height:auto;" />
       </td>
@@ -676,7 +676,7 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b63c88b86320d98b2692b8a5d8f46514.png" alt="Cover for Sora No Uta" style="max-width:120px; height:auto;" />
       </td>
@@ -723,21 +723,21 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
         <ul>
             <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 9</li>
             <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 13</li>
-            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 15</li>
             <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 20</li>
             <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 21</li>
-            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 30</li>
             <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 30</li>
-            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 37</li>
+            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 30</li>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 43</li>
             <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 46</li>
-            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 58</li>
             <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 63</li>
+            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 64</li>
+            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 86</li>
             <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/5h--Wj_KtB5rx9Gyxk6K5wlVpJLMydiwBpEREiHKAVk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDk2/NjctMTMyNTE1NTk3/NC5qcGVn.jpeg" alt="Cover for Something like that..." style="max-width:120px; height:auto;" />
       </td>
@@ -755,13 +755,51 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 33</li>
+            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 68</li>
             <li> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>17</td>
+      <td>
+          <img src="https://i.discogs.com/kkNQgiy7q0jn-Z0DAQ6J3_nyerU_ZyOZAN71CoiM1AY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzU3/OTc5LTE1NDEzNjg4/NTgtOTgxOC5qcGVn.jpeg" alt="Cover for Sur Le Bout De La Langue" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Camille Bazbaz</td>
+      <td>Sur Le Bout De La Langue</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>
+          <img src="https://i.discogs.com/LHOI2Ktf5dZzrWNomKPuj_KbzRnBk4gH4estU_cZACc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NzM1/MDYtMTQ4NDU1NTEz/NS04MjYyLmpwZWc.jpeg" alt="Cover for 1er ROUND" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Koury</td>
+      <td>1er ROUND</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/WNG1FHXh4XroN3QXPGWVF5f7f4beUUu1k8kg_rkcnuA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTQy/MTMzLTE2MjIzNTgw/ODgtNTE4NC5qcGVn.jpeg" alt="Cover for Chtriky" style="max-width:120px; height:auto;" />
       </td>
@@ -782,45 +820,7 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
     </tr>
     <tr>
-      <td>25</td>
-      <td>
-          <img src="https://i.discogs.com/LHOI2Ktf5dZzrWNomKPuj_KbzRnBk4gH4estU_cZACc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NzM1/MDYtMTQ4NDU1NTEz/NS04MjYyLmpwZWc.jpeg" alt="Cover for 1er ROUND" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2006</td>
-      <td>Koury</td>
-      <td>1er ROUND</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>84</td>
-      <td>
-          <img src="https://i.discogs.com/kkNQgiy7q0jn-Z0DAQ6J3_nyerU_ZyOZAN71CoiM1AY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzU3/OTc5LTE1NDEzNjg4/NTgtOTgxOC5qcGVn.jpeg" alt="Cover for Sur Le Bout De La Langue" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2006</td>
-      <td>Camille Bazbaz</td>
-      <td>Sur Le Bout De La Langue</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>43</td>
+      <td>58</td>
       <td>
       </td>
       <td>2006-09-25</td>
@@ -839,7 +839,7 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/gcEq5WcMiOz5J99qTGhKT_tFEDMB2Ds472Z8htQDE7Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MjMy/NjQtMTU0OTI3ODUx/OC0xNTE5LmpwZWc.jpeg" alt="Cover for Un malin plaisir - Palinka" style="max-width:120px; height:auto;" />
       </td>
@@ -854,12 +854,12 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gypsy" | relative_url }}">gypsy</a> # 42</li>
+            <li> <a href="{{ "/tags/gypsy" | relative_url }}">gypsy</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>67</td>
       <td>
       </td>
       <td>2007-01-01</td>
@@ -885,17 +885,17 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 42</li>
-            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 43</li>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 49</li>
+            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 33</li>
+            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 38</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 52</li>
+            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 58</li>
             <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 59</li>
-            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 62</li>
-            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 68</li>
+            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/9ZKg1bTNhHHGZjSVUcXwqH2EDeZcOGnvgiO-RAmI1qs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTQy/MDY3LTE0OTIzNjA5/MjctNTMzNi5qcGVn.jpeg" alt="Cover for C&#39;est pas moi" style="max-width:120px; height:auto;" />
       </td>
@@ -914,7 +914,7 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0e4ca07e3351e883215a32deb325607d.png" alt="Cover for Orgamilk" style="max-width:120px; height:auto;" />
       </td>
@@ -941,17 +941,17 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 35</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 30</li>
             <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 40</li>
-            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 40</li>
-            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 60</li>
+            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 40</li>
+            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 61</li>
             <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 64</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 71</li>
+            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>63</td>
       <td>
       </td>
       <td>2007-10-19</td>
@@ -978,19 +978,19 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 8</li>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 38</li>
-            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 45</li>
-            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 46</li>
+            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 26</li>
+            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 37</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 40</li>
+            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 55</li>
+            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 56</li>
             <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 56</li>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 61</li>
-            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 63</li>
-            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 74</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 62</li>
+            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/QR_d3GujLIN0Jxv5Ggiq_VU9qWUGOtb6ws17t2ff4F0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDUz/MzEtMTMyNDkzMTgw/MS5qcGVn.jpeg" alt="Cover for Hécatombe" style="max-width:120px; height:auto;" />
       </td>
@@ -1008,7 +1008,7 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>40</td>
       <td>
       </td>
       <td>2008-01-23</td>
@@ -1049,20 +1049,20 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/czech" | relative_url }}">czech</a> # 5</li>
-            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 6</li>
             <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 14</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 29</li>
             <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 34</li>
-            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 36</li>
             <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 45</li>
             <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 49</li>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 64</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 72</li>
             <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 91</li>
+            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 95</li>
+            <li> <a href="{{ "/tags/czech" | relative_url }}">czech</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/M3yoYj9hpodDbRNIa-n73-V7KeSSdf92CXsL5nT8j5c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzM0/ODc5LTE2MDk1MjYz/OTQtMjQyMi5qcGVn.jpeg" alt="Cover for A Boire" style="max-width:120px; height:auto;" />
       </td>
@@ -1081,7 +1081,7 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>62</td>
       <td>
       </td>
       <td>2008-08-29</td>
@@ -1129,7 +1129,7 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/EUZWckDRC_DHNYD7QfaI1gIq3boZBXl-r9S6JYqedmY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMTY0/NzMtMTQ3MzMyODIz/MC05NDQ0LmpwZWc.jpeg" alt="Cover for The Ugly Army" style="max-width:120px; height:auto;" />
       </td>
@@ -1173,18 +1173,18 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 26</li>
+            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 26</li>
+            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 28</li>
             <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 33</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 62</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 39</li>
             <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 65</li>
             <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 67</li>
-            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 72</li>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 75</li>
-            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/VmdL0bZu8l9iJJrjV3XXD2siDqfKjDyCwllKEIeePYY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDQ3/MjMtMTMyNDkwOTE1/MS5qcGVn.jpeg" alt="Cover for Montreuil" style="max-width:120px; height:auto;" />
       </td>
@@ -1206,7 +1206,44 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>46</td>
+      <td>
+          <img src="https://i.discogs.com/JzyindiZOz6waOcggmlTD00F6Ih0MdFt2-Tj-5k4sPk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjIx/OTAtMTQxNTgwNDE2/Ni0xMTYxLmpwZWc.jpeg" alt="Cover for Contreband" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-01-15</td>
+      <td>Contreband</td>
+      <td>Contreband</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/francais" | relative_url }}">francais</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage" | relative_url }}">garage</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mass" | relative_url }}">mass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/paris" | relative_url }}">paris</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mass" | relative_url }}">mass</a> # 7</li>
+            <li> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a> # 67</li>
+            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 96</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/JzyindiZOz6waOcggmlTD00F6Ih0MdFt2-Tj-5k4sPk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjIx/OTAtMTQxNTgwNDE2/Ni0xMTYxLmpwZWc.jpeg" alt="Cover for Le cauchemar de Kipling" style="max-width:120px; height:auto;" />
       </td>
@@ -1240,50 +1277,13 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/mass" | relative_url }}">mass</a> # 18</li>
             <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 55</li>
-            <li> <a href="{{ "/tags/mass" | relative_url }}">mass</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
-      <td>
-          <img src="https://i.discogs.com/JzyindiZOz6waOcggmlTD00F6Ih0MdFt2-Tj-5k4sPk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjIx/OTAtMTQxNTgwNDE2/Ni0xMTYxLmpwZWc.jpeg" alt="Cover for Contreband" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2010-01-15</td>
-      <td>Contreband</td>
-      <td>Contreband</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/francais" | relative_url }}">francais</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage" | relative_url }}">garage</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mass" | relative_url }}">mass</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/paris" | relative_url }}">paris</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a> # 67</li>
-            <li> <a href="{{ "/tags/mass" | relative_url }}">mass</a> # 94</li>
-            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 96</li>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 98</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>5</td>
+      <td>96</td>
       <td>
           <img src="https://i.discogs.com/YxTxPdDTRW0gztdfgeV9UsGt3taqqTOVYTtar4EpZTU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzQ1/NjItMTMwNTExNzYy/My5qcGVn.jpeg" alt="Cover for Braquage En YZ" style="max-width:120px; height:auto;" />
       </td>
@@ -1301,7 +1301,7 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
       </td>
       <td>2012-09-10</td>
@@ -1321,7 +1321,7 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/JQF-B0v0ISIyFAmedXt_yWfZUQzhL1LO8hON0z0VE40/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNjA2/NzUtMTM1MzkyMzQ5/NS0yMTI2LmpwZWc.jpeg" alt="Cover for Jusqu&#39;à la mer" style="max-width:120px; height:auto;" />
       </td>
@@ -1339,7 +1339,7 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
       </td>
       <td>2012-11-05</td>
@@ -1356,7 +1356,7 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>35</td>
       <td>
       </td>
       <td>2013-03-11</td>
@@ -1373,7 +1373,7 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
       </td>
       <td>2013-11-25</td>
@@ -1390,7 +1390,7 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/LyWLGNt0wrMrNJQShlegidrNyiTg162lCL4MHxPP4qc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2Mzg0/ODItMTQyMzYwNjkz/My05NDUxLmpwZWc.jpeg" alt="Cover for Arcadie" style="max-width:120px; height:auto;" />
       </td>
@@ -1409,7 +1409,7 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>89</td>
       <td>
           <img src="https://i.discogs.com/KwOZgXNRgk-WeUkvWfJ0rbXYMf3BJT3l-l8GH_qcnlA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTE3/MDc0LTE2ODc5NTgy/NDctNTc4Mi5qcGVn.jpeg" alt="Cover for Les songes de Léo" style="max-width:120px; height:auto;" />
       </td>
@@ -1434,7 +1434,7 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/eB4QH9Z87igkCJGJoOukfPUhlgJaeyI_1fh_SS5O-Tw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNTE5/OTEtMTQ3NzM5OTQy/Mi04MzA4LmpwZWc.jpeg" alt="Cover for SAINTE POP" style="max-width:120px; height:auto;" />
       </td>
@@ -1459,7 +1459,7 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/jAqyVPg2lupr7z2qlsi6Xw9d-7w6jKTn28jIN_Y_IM4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzAx/MjA4LTE2MTI3MDA3/ODItODYyNi5qcGVn.jpeg" alt="Cover for Si tu m&#39;aimes demain" style="max-width:120px; height:auto;" />
       </td>
@@ -1480,14 +1480,14 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 10</li>
             <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 35</li>
-            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 91</li>
             <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ed7af5661f28d3b7f3768ecaac12de3d.png" alt="Cover for Amazone" style="max-width:120px; height:auto;" />
       </td>
@@ -1512,84 +1512,7 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
     </tr>
     <tr>
-      <td>71</td>
-      <td>
-          <img src="https://i.discogs.com/AbzKH7RoQhenvfed9ftnl-XR3qa-Rsy4UktTMMAUqvc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Nzg3/NjUyLTE2MTU0NDg1/NjUtMjUxMi5qcGVn.jpeg" alt="Cover for N&#39;insiste pas" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2021</td>
-      <td>Camille Lellouche</td>
-      <td>N&#39;insiste pas</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 86</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>74</td>
-      <td>
-          <img src="https://i.discogs.com/j9om_jx4ce7O4PsDeR7vSUkpbi8FgNxKn8OBactuQ4M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzAx/MTU3LTE2MTI3MDA0/NTgtNTc0My5qcGVn.jpeg" alt="Cover for Rattrape-moi" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2021</td>
-      <td>Iliona</td>
-      <td>Rattrape-moi</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 47</li>
-            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 87</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>83</td>
-      <td>
-          <img src="https://i.discogs.com/wqj8_R9VA53hgVGtXIqcsnqcs4jP0u4FcG37kutaErI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzAx/MDY0LTE2MTI3MDAy/MDQtMTg2MS5qcGVn.jpeg" alt="Cover for Reste" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2021</td>
-      <td>Iliona</td>
-      <td>Reste</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 30</li>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 86</li>
-            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 92</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/545548f86a57ba5009ef7f97c983ebbd.png" alt="Cover for Moins Joli" style="max-width:120px; height:auto;" />
       </td>
@@ -1610,64 +1533,91 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 5</li>
             <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 14</li>
             <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 37</li>
-            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>18</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/40644a66ac8efc86a556d25b93463cc9.png" alt="Cover for Belle" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/wqj8_R9VA53hgVGtXIqcsnqcs4jP0u4FcG37kutaErI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzAx/MDY0LTE2MTI3MDAy/MDQtMTg2MS5qcGVn.jpeg" alt="Cover for Reste" style="max-width:120px; height:auto;" />
       </td>
       <td>2021</td>
-      <td>Felixita</td>
-      <td>Belle</td>
+      <td>Iliona</td>
+      <td>Reste</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 9</li>
+            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 30</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>27</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/48f7b59ea4d47120cb0482e8a46c90b8.png" alt="Cover for J&#39;aime les gars" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/j9om_jx4ce7O4PsDeR7vSUkpbi8FgNxKn8OBactuQ4M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzAx/MTU3LTE2MTI3MDA0/NTgtNTc0My5qcGVn.jpeg" alt="Cover for Rattrape-moi" style="max-width:120px; height:auto;" />
       </td>
       <td>2021</td>
-      <td>Felixita</td>
-      <td>J&#39;aime les gars</td>
+      <td>Iliona</td>
+      <td>Rattrape-moi</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 14</li>
+            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 47</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>30</td>
+      <td>
+          <img src="https://i.discogs.com/AbzKH7RoQhenvfed9ftnl-XR3qa-Rsy4UktTMMAUqvc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Nzg3/NjUyLTE2MTU0NDg1/NjUtMjUxMi5qcGVn.jpeg" alt="Cover for N&#39;insiste pas" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021</td>
+      <td>Camille Lellouche</td>
+      <td>N&#39;insiste pas</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 15</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/GtID7Zb4TCvsGH3IqVpYOtoKc6nn4i0GYZO-fuiJEEg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODYx/ODU0LTE2NjYyMTA5/NjQtNDkwOC5qcGVn.jpeg" alt="Cover for Nunuages" style="max-width:120px; height:auto;" />
       </td>
@@ -1692,15 +1642,23 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>64</td>
       <td>
-          <img src="https://i.discogs.com/VC_G-z-cvBDesYcCpLsDnv9g-sKg5YtKhDchcnjrvk4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzU0/MDQyLTE2Mzg2OTM3/MzctNTU1MS5qcGVn.jpeg" alt="Cover for Sorøre" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/48f7b59ea4d47120cb0482e8a46c90b8.png" alt="Cover for J&#39;aime les gars" style="max-width:120px; height:auto;" />
       </td>
-      <td>2021-06-04</td>
-      <td>Amel Bent, Camélia Jordana, Vitaa</td>
-      <td>Sorøre</td>
+      <td>2021</td>
+      <td>Felixita</td>
+      <td>J&#39;aime les gars</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
       <td>
@@ -1709,7 +1667,32 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>77</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/40644a66ac8efc86a556d25b93463cc9.png" alt="Cover for Belle" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021</td>
+      <td>Felixita</td>
+      <td>Belle</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9488e5128a9928a25af29a68921088da.png" alt="Cover for Sorøre" style="max-width:120px; height:auto;" />
       </td>
@@ -1726,73 +1709,24 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>93</td>
       <td>
-          <img src="https://i.discogs.com/qHSPbQx1ew1xpwVnGFV0y9fW0Lw8nqH2CR464eEJK9Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDIy/OTQxLTE2NDM5OTA3/ODktMjgwNi5qcGVn.jpeg" alt="Cover for T&#39;es où" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/VC_G-z-cvBDesYcCpLsDnv9g-sKg5YtKhDchcnjrvk4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzU0/MDQyLTE2Mzg2OTM3/MzctNTU1MS5qcGVn.jpeg" alt="Cover for Sorøre" style="max-width:120px; height:auto;" />
       </td>
-      <td>2021-11-26</td>
-      <td>Camille Lellouche</td>
-      <td>T&#39;es où</td>
+      <td>2021-06-04</td>
+      <td>Amel Bent, Camélia Jordana, Vitaa</td>
+      <td>Sorøre</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 12</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>44</td>
-      <td>
-          <img src="https://i.discogs.com/qHSPbQx1ew1xpwVnGFV0y9fW0Lw8nqH2CR464eEJK9Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDIy/OTQxLTE2NDM5OTA3/ODktMjgwNi5qcGVn.jpeg" alt="Cover for O H N A" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2021-11-26</td>
-      <td>Camille Lellouche</td>
-      <td>O H N A</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 51</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>45</td>
-      <td>
-          <img src="https://i.discogs.com/qHSPbQx1ew1xpwVnGFV0y9fW0Lw8nqH2CR464eEJK9Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDIy/OTQxLTE2NDM5OTA3/ODktMjgwNi5qcGVn.jpeg" alt="Cover for Fumette" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2021-11-26</td>
-      <td>Camille Lellouche</td>
-      <td>Fumette</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 53</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>56</td>
       <td>
           <img src="https://i.discogs.com/qHSPbQx1ew1xpwVnGFV0y9fW0Lw8nqH2CR464eEJK9Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDIy/OTQxLTE2NDM5OTA3/ODktMjgwNi5qcGVn.jpeg" alt="Cover for A" style="max-width:120px; height:auto;" />
       </td>
@@ -1809,12 +1743,78 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 70</li>
+            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 31</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>56</td>
+      <td>
+          <img src="https://i.discogs.com/qHSPbQx1ew1xpwVnGFV0y9fW0Lw8nqH2CR464eEJK9Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDIy/OTQxLTE2NDM5OTA3/ODktMjgwNi5qcGVn.jpeg" alt="Cover for Fumette" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-11-26</td>
+      <td>Camille Lellouche</td>
+      <td>Fumette</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 48</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>
+          <img src="https://i.discogs.com/qHSPbQx1ew1xpwVnGFV0y9fW0Lw8nqH2CR464eEJK9Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDIy/OTQxLTE2NDM5OTA3/ODktMjgwNi5qcGVn.jpeg" alt="Cover for O H N A" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-11-26</td>
+      <td>Camille Lellouche</td>
+      <td>O H N A</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 50</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+          <img src="https://i.discogs.com/qHSPbQx1ew1xpwVnGFV0y9fW0Lw8nqH2CR464eEJK9Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDIy/OTQxLTE2NDM5OTA3/ODktMjgwNi5qcGVn.jpeg" alt="Cover for T&#39;es où" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-11-26</td>
+      <td>Camille Lellouche</td>
+      <td>T&#39;es où</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 89</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/M33CNCopidBaXfdt8chqQw0_VK0C9fZss5fBq5qI2fs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDQ3/MTc3LTE2NzkwMzg0/NTMtOTI2My5qcGVn.jpeg" alt="Cover for Nos amours heureux" style="max-width:120px; height:auto;" />
       </td>
@@ -1839,7 +1839,7 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/af8f35be1a4fd0ec15d29c96b9e6f5b8.png" alt="Cover for Tête brûlée" style="max-width:120px; height:auto;" />
       </td>
@@ -1860,15 +1860,15 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 3</li>
             <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 8</li>
             <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 11</li>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 13</li>
-            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 98</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/lomdH7ynGGx0PUcgLTz6MA1yLGxVIrZbiJrUg3zdIjU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTEz/OTAwLTE1MDY0Mzg4/OTUtODc2Ny5qcGVn.jpeg" alt="Cover for Popcorn Salé" style="max-width:120px; height:auto;" />
       </td>
@@ -1891,16 +1891,16 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 6</li>
             <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 9</li>
             <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 13</li>
             <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 43</li>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 47</li>
-            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 95</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>94</td>
       <td>
           <img src="https://i.discogs.com/tWH_2JTBYFcQ_O0IYHW2Sd1gwgXOwM5h616Q2CIzd30/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODM5/MTM2LTE2NTc0Mzcz/ODAtNjMwOC5wbmc.jpeg" alt="Cover for Clit is Good - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1918,7 +1918,7 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/CtP_UIOEC61ozBLEumj50Lds16HPWhgjvcqvcDSPFH0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODU1/NDYtMTQxNzYyNjY3/OS03NTQxLmpwZWc.jpeg" alt="Cover for Qui a le Droit" style="max-width:120px; height:auto;" />
       </td>
@@ -1941,12 +1941,12 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 44</li>
+            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 57</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/030f45dea7cb2f61148188f6547ad255.png" alt="Cover for 999" style="max-width:120px; height:auto;" />
       </td>
@@ -1969,14 +1969,14 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 13</li>
             <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 33</li>
             <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 51</li>
-            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/11413f4f6370f2f79415e393838ad852.png" alt="Cover for Rose (La bande originale du film)" style="max-width:120px; height:auto;" />
       </td>
@@ -2005,7 +2005,7 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/mnVATa2AudwgPF_B0tmt3N0aV_xs66aZ4Q1Q9NYCUMM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDQx/MzczLTE2Njc0OTk4/MjEtOTk0OS5wbmc.jpeg" alt="Cover for C&#39;est toi que j&#39;attendais" style="max-width:120px; height:auto;" />
       </td>
@@ -2030,7 +2030,7 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/azSYHt8wNjmSNPejM4BSR1YmTMXxGfoBU3WHkENZYIM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDUw/NTgwLTE2Njc1NzQ2/MTgtMTMwNy5qcGVn.jpeg" alt="Cover for Caméo" style="max-width:120px; height:auto;" />
       </td>
@@ -2048,7 +2048,7 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/qHSPbQx1ew1xpwVnGFV0y9fW0Lw8nqH2CR464eEJK9Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDIy/OTQxLTE2NDM5OTA3/ODktMjgwNi5qcGVn.jpeg" alt="Cover for A - RÉÉDITION" style="max-width:120px; height:auto;" />
       </td>
@@ -2065,68 +2065,12 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 69</li>
+            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>51</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/df86e7e27358b5ba11c9b81b81a36045.png" alt="Cover for Horizon" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2023</td>
-      <td>Coline Rio</td>
-      <td>Horizon</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 62</li>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 91</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>59</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f88ebdbaedb6f4f1c41d13e40decc08b.png" alt="Cover for On m&#39;a dit" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2023</td>
-      <td>Coline Rio</td>
-      <td>On m&#39;a dit</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 58</li>
-            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 73</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>68</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8022ce9c849c32f10fc23494f2a418e4.png" alt="Cover for Lourd et délicat" style="max-width:120px; height:auto;" />
       </td>
@@ -2148,13 +2092,69 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 20</li>
             <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 46</li>
-            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>42</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f88ebdbaedb6f4f1c41d13e40decc08b.png" alt="Cover for On m&#39;a dit" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023</td>
+      <td>Coline Rio</td>
+      <td>On m&#39;a dit</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 28</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 58</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/df86e7e27358b5ba11c9b81b81a36045.png" alt="Cover for Horizon" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023</td>
+      <td>Coline Rio</td>
+      <td>Horizon</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 39</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 91</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/I0jPOisgTxByh6-mbUfWBI_KY_MBE520p_AX2-j1yGw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNzQz/NzktMTQ3NDU1NjQ1/NC05MTk3LmpwZWc.jpeg" alt="Cover for Matador &#x2F; Tu Vas Pas Mourir De Rire" style="max-width:120px; height:auto;" />
       </td>
@@ -2173,7 +2173,71 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>2</td>
+      <td>
+          <img src="https://i.discogs.com/qQOKpLSKIYAaIzjq1mYxr8fThiggmunHwVwktrdclsI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMjIw/MDItMTM1MjY0NTE1/MC01NjExLmpwZWc.jpeg" alt="Cover for Fantaisie" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023-11-10</td>
+      <td>Zélie</td>
+      <td>Fantaisie</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/paris" | relative_url }}">paris</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 4</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 6</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 6</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 18</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 26</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4a3d75d44c5464b7e61370137d647941.png" alt="Cover for 11 mai 2020" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023-11-10</td>
+      <td>Zélie</td>
+      <td>11 mai 2020</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/paris" | relative_url }}">paris</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 12</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 15</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 24</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 63</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 72</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad7b8e93ece0f9d749a86417af88e054.png" alt="Cover for 13 juin 2021" style="max-width:120px; height:auto;" />
       </td>
@@ -2204,71 +2268,7 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
     </tr>
     <tr>
-      <td>89</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4a3d75d44c5464b7e61370137d647941.png" alt="Cover for 11 mai 2020" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2023-11-10</td>
-      <td>Zélie</td>
-      <td>11 mai 2020</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/paris" | relative_url }}">paris</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 12</li>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 15</li>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 24</li>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 29</li>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 63</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>99</td>
-      <td>
-          <img src="https://i.discogs.com/qQOKpLSKIYAaIzjq1mYxr8fThiggmunHwVwktrdclsI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMjIw/MDItMTM1MjY0NTE1/MC01NjExLmpwZWc.jpeg" alt="Cover for Fantaisie" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2023-11-10</td>
-      <td>Zélie</td>
-      <td>Fantaisie</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/paris" | relative_url }}">paris</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 4</li>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 6</li>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 6</li>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 18</li>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 75</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>46</td>
+      <td>55</td>
       <td>
       </td>
       <td></td>
@@ -2318,12 +2318,12 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>68</td>
       <td>
       </td>
       <td></td>
       <td>Marie S&#39;Infiltre</td>
-      <td>Été sauvage</td>
+      <td>Nuit parisienne</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a></li>
@@ -2342,41 +2342,18 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>72</td>
       <td>
       </td>
       <td></td>
-      <td>Arcahuetas</td>
-      <td>Glucose et fond de teint</td>
+      <td>Lo Radzouka</td>
+      <td>Lo Radzouka - maquette</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Marie S&#39;Infiltre</td>
-      <td>Coup de théâtre</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/swing" | relative_url }}">swing</a></li>
         </ul>
       </td>
       <td>
@@ -2385,111 +2362,7 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
     </tr>
     <tr>
-      <td>6</td>
-      <td>
-      </td>
-      <td></td>
-      <td>pee-why</td>
-      <td>Lunatic @sylum</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>10</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Marie Minet</td>
-      <td>Clair Obscur</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>14</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Marie S&#39;Infiltre</td>
-      <td>Culot</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>15</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Marie S&#39;Infiltre</td>
-      <td>Couvre-Feu</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>19</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Alkpote</td>
-      <td>Alkpote &amp; La Creme De L&#39;Ile De France</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>27</td>
+      <td>74</td>
       <td>
       </td>
       <td></td>
@@ -2513,18 +2386,15 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>82</td>
       <td>
       </td>
       <td></td>
-      <td>Lo Radzouka</td>
-      <td>Lo Radzouka - maquette</td>
+      <td>Alkpote</td>
+      <td>Alkpote &amp; La Creme De L&#39;Ile De France</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/swing" | relative_url }}">swing</a></li>
         </ul>
       </td>
       <td>
@@ -2533,12 +2403,142 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>86</td>
       <td>
       </td>
       <td></td>
       <td>Marie S&#39;Infiltre</td>
-      <td>Nuit parisienne</td>
+      <td>Couvre-Feu</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Marie S&#39;Infiltre</td>
+      <td>Culot</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Marie Minet</td>
+      <td>Clair Obscur</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+      </td>
+      <td></td>
+      <td>pee-why</td>
+      <td>Lunatic @sylum</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Marie S&#39;Infiltre</td>
+      <td>Coup de théâtre</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Arcahuetas</td>
+      <td>Glucose et fond de teint</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Marie S&#39;Infiltre</td>
+      <td>Été sauvage</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a></li>
