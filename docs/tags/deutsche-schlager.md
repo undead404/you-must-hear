@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T07:05:19.032Z
+date: 2025-12-06T11:57:12.546Z
 permalink: tags/deutsche-schlager
 title: deutsche schlager
 ---
 
 ## deutsche schlager
 
-Last updated: <time datetime="2025-12-04T07:05:19.032Z">Thu Dec 04 2025 09:05:19 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T11:57:12.546Z">Sat Dec 06 2025 13:57:12 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -47,7 +47,7 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/8bpbQ35BT0AyzRUlUILKdrHXAfeUEFUw2acglxEhEoU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NzI5/NzItMTM2ODc2OTUw/Ny0xMTEwLmpwZWc.jpeg" alt="Cover for Das Peter Alexander Festival" style="max-width:120px; height:auto;" />
       </td>
@@ -65,7 +65,7 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/JKVKKyoab4UAJvRDjvHSDa-yOktoSJ9C5HvkWXVQIVc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MjE3/NzAtMTQzNTE4MDIw/NC0zNDQ1LmpwZWc.jpeg" alt="Cover for Het Beste Van The Blue Diamonds" style="max-width:120px; height:auto;" />
       </td>
@@ -83,7 +83,7 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/yUZ002mRA6A7U-XVHRIM6IuuDb624SjZPD6BaJe0p74/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTc1/ODktMTM0NjEwMjgz/Ny04ODAyLmpwZWc.jpeg" alt="Cover for Schlagerjuwelen - Seine großen Erfolge" style="max-width:120px; height:auto;" />
       </td>
@@ -101,7 +101,7 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>89</td>
       <td>
           <img src="https://i.discogs.com/66_LF_4d_bc77BSHvzC2T5u35fTNSTig-yFWQt_Kgxo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMTkx/OTItMTQxODgwNzA5/MS05NzYzLmpwZWc.jpeg" alt="Cover for Danke" style="max-width:120px; height:auto;" />
       </td>
@@ -116,12 +116,12 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/volksmusik" | relative_url }}">volksmusik</a> # 70</li>
+            <li> <a href="{{ "/tags/volksmusik" | relative_url }}">volksmusik</a> # 31</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/8GkIGjkgJGSsq-ct7j9r6v-JZurK52xsa6q3oXYay-0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDEy/MTUxLTE3MTMyNTc5/MTgtODM4NS5qcGVn.jpeg" alt="Cover for Der Junge Von St. Pauli" style="max-width:120px; height:auto;" />
       </td>
@@ -140,7 +140,7 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/V0nHcGZuqXt563cuL9rQZ1ACOfvPn4BYNZrAmCLwMi8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDQz/MDIzLTE1MjcxNDE0/NzEtNzYxMy5qcGVn.jpeg" alt="Cover for Schuld war nur der Bossa Nova" style="max-width:120px; height:auto;" />
       </td>
@@ -158,25 +158,7 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
     </tr>
     <tr>
-      <td>48</td>
-      <td>
-          <img src="https://i.discogs.com/v3hBotaQ6365xTkPzUHe3AZEUdQ48angGidR45TY6VM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTkz/NzUtMTUyMDkyNjU5/MS05MDI4LmpwZWc.jpeg" alt="Cover for Weihnachten Bin Ich Zu Haus" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1968</td>
-      <td>Roy Black</td>
-      <td>Weihnachten Bin Ich Zu Haus</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutsche-schlager" | relative_url }}">deutsche schlager</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/FAiJR2MO5M3r6mYDi-uFHga3IGtomKJhyKWnLyEceoE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Nzcz/MjYtMTIzNjI3NzY0/NC5qcGVn.jpeg" alt="Cover for Heidschi Bumbeidschi" style="max-width:120px; height:auto;" />
       </td>
@@ -194,13 +176,13 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>53</td>
       <td>
-          <img src="https://i.discogs.com/GI1kawXX_WImQLdkh351zrlXYhSMY8MnnPYNkcrhhIU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDIw/Ny0xMTY1MjQ0MjIy/LmpwZWc.jpeg" alt="Cover for Mega 50 - Die 80er Jahre" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/v3hBotaQ6365xTkPzUHe3AZEUdQ48angGidR45TY6VM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTkz/NzUtMTUyMDkyNjU5/MS05MDI4LmpwZWc.jpeg" alt="Cover for Weihnachten Bin Ich Zu Haus" style="max-width:120px; height:auto;" />
       </td>
-      <td>1972</td>
-      <td>Various Artists</td>
-      <td>Mega 50 - Die 80er Jahre</td>
+      <td>1968</td>
+      <td>Roy Black</td>
+      <td>Weihnachten Bin Ich Zu Haus</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutsche-schlager" | relative_url }}">deutsche schlager</a></li>
@@ -212,7 +194,25 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>2</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6cfb6232d8c84b8e8712963a7780d3cf.png" alt="Cover for Am Tag Als Conny Kramer Starb" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1972</td>
+      <td>Juliane Werding</td>
+      <td>Am Tag Als Conny Kramer Starb</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutsche-schlager" | relative_url }}">deutsche schlager</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/P8NeFXBgXv6uu6g5_ovnGcr1slQmpK5fq6uEEreu_xM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjU0/MTMzLTE1NjczODE0/OTktMjczNC5qcGVn.jpeg" alt="Cover for Schlagerjuwelen - Seine großen Erfolge" style="max-width:120px; height:auto;" />
       </td>
@@ -231,13 +231,13 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>72</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6cfb6232d8c84b8e8712963a7780d3cf.png" alt="Cover for Am Tag Als Conny Kramer Starb" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/GI1kawXX_WImQLdkh351zrlXYhSMY8MnnPYNkcrhhIU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDIw/Ny0xMTY1MjQ0MjIy/LmpwZWc.jpeg" alt="Cover for Mega 50 - Die 80er Jahre" style="max-width:120px; height:auto;" />
       </td>
       <td>1972</td>
-      <td>Juliane Werding</td>
-      <td>Am Tag Als Conny Kramer Starb</td>
+      <td>Various Artists</td>
+      <td>Mega 50 - Die 80er Jahre</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutsche-schlager" | relative_url }}">deutsche schlager</a></li>
@@ -249,7 +249,7 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1c59a8c3bd844233924543da1f4650dc.png" alt="Cover for In tiefer Trauer" style="max-width:120px; height:auto;" />
       </td>
@@ -269,7 +269,7 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/sQWdX34EilltQXfzPtclB91Pygti87H_bsbHBivgio4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzAy/ODktMTU0MDExNTA2/OS0xNzExLmpwZWc.jpeg" alt="Cover for Theater, Theater - Best Of" style="max-width:120px; height:auto;" />
       </td>
@@ -286,7 +286,25 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>15</td>
+      <td>
+          <img src="https://i.discogs.com/CPvNH5Dp1BwFbIollS6_YK6jhdX7opX6cJ1EfSjeyZk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzU2/ODItMTQxMDM0NTUz/Ny0xNzYzLmpwZWc.jpeg" alt="Cover for Du Kannst Nicht Immersein" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1974</td>
+      <td>Chris Roberts</td>
+      <td>Du Kannst Nicht Immersein</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutsche-schlager" | relative_url }}">deutsche schlager</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/75d9a0c4a0d04509ade8f322d2d0874f.png" alt="Cover for Du kannst nicht immer 17 sein" style="max-width:120px; height:auto;" />
       </td>
@@ -305,43 +323,7 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
     </tr>
     <tr>
-      <td>86</td>
-      <td>
-          <img src="https://i.discogs.com/CPvNH5Dp1BwFbIollS6_YK6jhdX7opX6cJ1EfSjeyZk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzU2/ODItMTQxMDM0NTUz/Ny0xNzYzLmpwZWc.jpeg" alt="Cover for Du Kannst Nicht Immersein" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1974</td>
-      <td>Chris Roberts</td>
-      <td>Du Kannst Nicht Immersein</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutsche-schlager" | relative_url }}">deutsche schlager</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>71</td>
-      <td>
-          <img src="https://i.discogs.com/m2FzMSyloMphjtnTZsZrexUu39O14MXgfasxZroGEyg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjAx/OTEtMTMxMjAzNjU0/Ni5qcGVn.jpeg" alt="Cover for Mit einem bunten Blumenstrauß" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1975</td>
-      <td>Freddy Breck</td>
-      <td>Mit einem bunten Blumenstrauß</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutsche-schlager" | relative_url }}">deutsche schlager</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/11172b4b06ddf56e3db56b84046b456e.png" alt="Cover for Er gehört zu mir" style="max-width:120px; height:auto;" />
       </td>
@@ -359,7 +341,25 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>30</td>
+      <td>
+          <img src="https://i.discogs.com/m2FzMSyloMphjtnTZsZrexUu39O14MXgfasxZroGEyg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjAx/OTEtMTMxMjAzNjU0/Ni5qcGVn.jpeg" alt="Cover for Mit einem bunten Blumenstrauß" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1975</td>
+      <td>Freddy Breck</td>
+      <td>Mit einem bunten Blumenstrauß</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutsche-schlager" | relative_url }}">deutsche schlager</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/pVjf6F2mELuLRJpR1g3AK3mcjvziMUJ3gHhzoDEFKe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE3/LTE2NDc5NjEwMDgt/NjcwMS5qcGVn.jpeg" alt="Cover for 50 Jahre Schlager" style="max-width:120px; height:auto;" />
       </td>
@@ -377,7 +377,7 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/Y9nPGFxu81t6jTSmjfQj0rn2FeEqtyusDatxWViShlQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MTAw/MjMtMTQyOTMyMjE4/Ni00Mjg2LmpwZWc.jpeg" alt="Cover for Wahre Liebe" style="max-width:120px; height:auto;" />
       </td>
@@ -395,7 +395,7 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/agiqZ6KqCOmHyGHiy-H8847oVNOjXVkDteimLLLogjY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1ODQw/MTMtMTQyMjUxMzg1/OC04OTgxLmpwZWc.jpeg" alt="Cover for Du bist der Oscar meines Herzens" style="max-width:120px; height:auto;" />
       </td>
@@ -413,7 +413,25 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>64</td>
+      <td>
+          <img src="https://i.discogs.com/xO6bDdbh4DiTDZ8BiTMdOuIpsg1uWvvF9M-M3gEChrY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTk0/MTkxLTE1ODUyNTIx/MDYtNzg4NC5qcGVn.jpeg" alt="Cover for Komm Grosser Schwarzer Vogel" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1979</td>
+      <td>Ludwig Hirsch</td>
+      <td>Komm Grosser Schwarzer Vogel</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutsche-schlager" | relative_url }}">deutsche schlager</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/oW4HxV0ijWeoseBN7tkwAwpPIslyj5_Wv3Y2O9y5f40/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTcw/NDYtMTMxMzY4MDA2/MC5qcGVn.jpeg" alt="Cover for Party-Mix Album" style="max-width:120px; height:auto;" />
       </td>
@@ -434,25 +452,7 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
     </tr>
     <tr>
-      <td>37</td>
-      <td>
-          <img src="https://i.discogs.com/xO6bDdbh4DiTDZ8BiTMdOuIpsg1uWvvF9M-M3gEChrY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTk0/MTkxLTE1ODUyNTIx/MDYtNzg4NC5qcGVn.jpeg" alt="Cover for Komm Grosser Schwarzer Vogel" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1979</td>
-      <td>Ludwig Hirsch</td>
-      <td>Komm Grosser Schwarzer Vogel</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutsche-schlager" | relative_url }}">deutsche schlager</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>2</td>
+      <td>99</td>
       <td>
           <img src="https://i.discogs.com/uAQbD_vxQdYtUQqmvf6TzCW_TUtf6wSO_ZnTtggBqRI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyODMw/My0xMzgwMjY0NjAy/LTIwMjAuanBlZw.jpeg" alt="Cover for Meine großen Erfolge" style="max-width:120px; height:auto;" />
       </td>
@@ -470,7 +470,7 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/Kgbjo1O199y0eAj2-AWi8YqH_06veI1fSrSnJtedtT8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzIx/NDItMTUwMjE5ODc0/MC0yNjQ5LmpwZWc.jpeg" alt="Cover for Hohe Berge" style="max-width:120px; height:auto;" />
       </td>
@@ -488,7 +488,7 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a6b6af9d6294159a20c44fb0e9bca06.png" alt="Cover for Drafi!" style="max-width:120px; height:auto;" />
       </td>
@@ -506,27 +506,7 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
     </tr>
     <tr>
-      <td>6</td>
-      <td>
-          <img src="https://i.discogs.com/3NpSqU39xlittVRST6ByMCJMzy9Gk8n0BVhROb2IpxI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NzY3/MTQtMTU5NjkxMjMz/NS01MTE2LmpwZWc.jpeg" alt="Cover for De Aller Grootste Hits Van Rocco Granata" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1986</td>
-      <td>Rocco Granata</td>
-      <td>De Aller Grootste Hits Van Rocco Granata</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutsche-schlager" | relative_url }}">deutsche schlager</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/uWA9TdEfWBLYpqAY56nsq8wuI93VObO6S9ZbCD_TMuE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjU3/ODU3LTE2Mzc2MTc1/NDgtMTE4OC5qcGVn.jpeg" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -546,6 +526,26 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
     <tr>
       <td>95</td>
       <td>
+          <img src="https://i.discogs.com/3NpSqU39xlittVRST6ByMCJMzy9Gk8n0BVhROb2IpxI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NzY3/MTQtMTU5NjkxMjMz/NS01MTE2LmpwZWc.jpeg" alt="Cover for De Aller Grootste Hits Van Rocco Granata" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1986</td>
+      <td>Rocco Granata</td>
+      <td>De Aller Grootste Hits Van Rocco Granata</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutsche-schlager" | relative_url }}">deutsche schlager</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>
           <img src="https://i.discogs.com/23p8VMdQCWoJhQoewvxGK_ZhL6Xq7MFDQ3c1SqMcme8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTIx/MjMtMTMyNjY2NTYz/NS5qcGVn.jpeg" alt="Cover for Ich will Dich" style="max-width:120px; height:auto;" />
       </td>
       <td>1986</td>
@@ -561,7 +561,7 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/IHvMpMhWQugl60SaxYcszY9wD49j0YvTBmcGzzmbP7E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDAt/MTU5MTUyMjUwMS01/NTA2LmpwZWc.jpeg" alt="Cover for &#39;80s Pop #1&#39;s" style="max-width:120px; height:auto;" />
       </td>
@@ -580,7 +580,7 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/BebxM14p1GX3NGvwL5VODJFBuxP6nEhG6CG0_-Jvd4A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NDU1/ODUtMTY3ODg2MzEw/MC04MTYzLmpwZWc.jpeg" alt="Cover for Für alle Träumer" style="max-width:120px; height:auto;" />
       </td>
@@ -598,7 +598,24 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>39</td>
+      <td>
+      </td>
+      <td>1989</td>
+      <td>Heintje</td>
+      <td>Weihnachten mit Heintje</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutsche-schlager" | relative_url }}">deutsche schlager</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
       <td>
       </td>
       <td>1989</td>
@@ -617,24 +634,7 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
     </tr>
     <tr>
-      <td>62</td>
-      <td>
-      </td>
-      <td>1989</td>
-      <td>Heintje</td>
-      <td>Weihnachten mit Heintje</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutsche-schlager" | relative_url }}">deutsche schlager</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
       </td>
       <td>1989-09</td>
@@ -651,7 +651,7 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>78</td>
       <td>
       </td>
       <td>1991-08-20</td>
@@ -669,7 +669,7 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/idi7HXSV-8vbxkPmGzL0qsK9AqhYzoEuSGoC8QPHZCE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDkw/MTItMTUzMDA5NjIy/Mi02MTIzLmpwZWc.jpeg" alt="Cover for Unter Den Sternen Des Südens" style="max-width:120px; height:auto;" />
       </td>
@@ -684,13 +684,13 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/volksmusik" | relative_url }}">volksmusik</a> # 27</li>
             <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 62</li>
+            <li> <a href="{{ "/tags/volksmusik" | relative_url }}">volksmusik</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>71</td>
       <td>
       </td>
       <td>1991-09-11</td>
@@ -704,12 +704,12 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/kabarett" | relative_url }}">kabarett</a> # 79</li>
+            <li> <a href="{{ "/tags/kabarett" | relative_url }}">kabarett</a> # 22</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/UVt_mCNZwITwXCsFMfnNCQoGfk7h_-DscBOnQwpcsKw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MjUz/My0xNTc3OTkwNTM1/LTM4NDkuanBlZw.jpeg" alt="Cover for Unvergesslich" style="max-width:120px; height:auto;" />
       </td>
@@ -727,7 +727,7 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa258f27eef3feed68e905cd2ab5a3e2.png" alt="Cover for Augenblicke" style="max-width:120px; height:auto;" />
       </td>
@@ -745,7 +745,7 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>96</td>
       <td>
           <img src="https://i.discogs.com/eQjcT-bIleiHZyjzpNbMZ1iF7jhlrsi_Qtq_MqwdNW4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjA4/NDAxLTE1MTkzNDA1/MTItMTI2Ny5qcGVn.jpeg" alt="Cover for Ganz privat" style="max-width:120px; height:auto;" />
       </td>
@@ -761,12 +761,12 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/volksmusik" | relative_url }}">volksmusik</a> # 67</li>
+            <li> <a href="{{ "/tags/volksmusik" | relative_url }}">volksmusik</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/nQXURHyxBTLAGE1Ai9R14GuQuEX5Tk-q3ZOf6gKG4PU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTk0/NTctMTU0MTc2NDkw/Ni04MDA4LmpwZWc.jpeg" alt="Cover for Hier kommt Frank" style="max-width:120px; height:auto;" />
       </td>
@@ -785,7 +785,25 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>17</td>
+      <td>
+          <img src="https://i.discogs.com/lB-SWxjhhPnVUO8qF7f_aYZnwsr6EPK6CIX6BqUdOco/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzgy/NDEtMTMwNzg3Mzc1/Mi5qcGVn.jpeg" alt="Cover for Monika" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995</td>
+      <td>Ulli Martin</td>
+      <td>Monika</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutsche-schlager" | relative_url }}">deutsche schlager</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
       <td>
       </td>
       <td>1995</td>
@@ -804,25 +822,7 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
     </tr>
     <tr>
-      <td>84</td>
-      <td>
-          <img src="https://i.discogs.com/lB-SWxjhhPnVUO8qF7f_aYZnwsr6EPK6CIX6BqUdOco/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzgy/NDEtMTMwNzg3Mzc1/Mi5qcGVn.jpeg" alt="Cover for Monika" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1995</td>
-      <td>Ulli Martin</td>
-      <td>Monika</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutsche-schlager" | relative_url }}">deutsche schlager</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>18</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/hPM9YIafFhh0XDbv1hIQr7TzzQDFZ7R4t3hcvNCU7Nk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODU1/MjEtMTU1NTYzMzc5/NS00NzMwLmpwZWc.jpeg" alt="Cover for Verdammt ehrlich" style="max-width:120px; height:auto;" />
       </td>
@@ -840,7 +840,7 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/jANeqx0VoymJCGWECyukkCI23k7FkdzI9SsFitdWOXQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzU1/OTgwLTE2OTU2NDc4/MzEtMzUzMC5qcGVn.jpeg" alt="Cover for Es Fährt Ein Zug Nach Nirgendwo" style="max-width:120px; height:auto;" />
       </td>
@@ -858,7 +858,7 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/27o3dt5_2S9icU9mqJkeX1HeZvnL-KB2wtoBwUWXgyU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NDY2/NzItMTQ2OTk5NjE4/Ny00NjgxLmpwZWc.jpeg" alt="Cover for Alles klar!" style="max-width:120px; height:auto;" />
       </td>
@@ -876,7 +876,7 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/52651c852b494d159fe1c20448d01c7f.png" alt="Cover for Alles" style="max-width:120px; height:auto;" />
       </td>
@@ -895,7 +895,7 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/1TUjW-tkqS9nnmJU99INkPI0-cmj6M3zCwtBehf2XRk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjc3/NDc0LTE1Mzk4NzY1/NjUtMjE4MS5qcGVn.jpeg" alt="Cover for Premium Gold Collection" style="max-width:120px; height:auto;" />
       </td>
@@ -913,24 +913,7 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
     </tr>
     <tr>
-      <td>17</td>
-      <td>
-      </td>
-      <td>1998</td>
-      <td>Christian &amp; die sauberen Jungs</td>
-      <td>Das Jungfrauhenchor</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutsche-schlager" | relative_url }}">deutsche schlager</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>44</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/0-gfdFsRQmON8LQSNX7zzNFcmHITEno4b1eHUA-Mu48/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjEx/NzkwLTE2MDUzNTcx/MjItMzE3Ny5qcGVn.jpeg" alt="Cover for Cinderella" style="max-width:120px; height:auto;" />
       </td>
@@ -948,7 +931,24 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>84</td>
+      <td>
+      </td>
+      <td>1998</td>
+      <td>Christian &amp; die sauberen Jungs</td>
+      <td>Das Jungfrauhenchor</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutsche-schlager" | relative_url }}">deutsche schlager</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/5U2Tiqvw0ScR6iVgvxtfPu-9VzBEILhKNliGRrSAMyI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTgy/MTEtMTMyNzIzMDMy/MC5qcGVn.jpeg" alt="Cover for Banjo Boy" style="max-width:120px; height:auto;" />
       </td>
@@ -966,7 +966,7 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/9dAh4kZRlmaA31bTiWxiiHF3I4TU0U2KJlOzcV0jv_c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDc0/MTAxLTE1MTY5NzY5/MDgtNDc1MC5qcGVn.jpeg" alt="Cover for Best Of" style="max-width:120px; height:auto;" />
       </td>
@@ -983,7 +983,7 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3708cc8f07b7430ab662d693ff940526.png" alt="Cover for Odotus" style="max-width:120px; height:auto;" />
       </td>
@@ -1003,25 +1003,7 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
     </tr>
     <tr>
-      <td>27</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/83a497d67d0e425c9816e69add845942.png" alt="Cover for Ich Liebe Dich Täglich Mehr" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2003</td>
-      <td>Mara Kayser</td>
-      <td>Ich Liebe Dich Täglich Mehr</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutsche-schlager" | relative_url }}">deutsche schlager</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/633bc99268ee716594a84222f1dfe5e8.png" alt="Cover for Sehnsucht heißt: Ich liebe Dich Vol. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1044,7 +1026,25 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>74</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/83a497d67d0e425c9816e69add845942.png" alt="Cover for Ich Liebe Dich Täglich Mehr" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Mara Kayser</td>
+      <td>Ich Liebe Dich Täglich Mehr</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutsche-schlager" | relative_url }}">deutsche schlager</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/3HZG7C-N61vdyr7WHj1f_dBAF7ywwmjKmwyA6CRq4SQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTk4/Mzg2LTE2MDE2MzE3/NzktODI4OC5qcGVn.jpeg" alt="Cover for Männer, Frauen, Leidenschaft" style="max-width:120px; height:auto;" />
       </td>
@@ -1061,7 +1061,7 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/PN0OzrDr0BWF6Z8aD_uxD-4QGp_44huH-K_uEF184QQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MDE1/OC0xMzAxNTg3Njgy/LmpwZWc.jpeg" alt="Cover for Reim" style="max-width:120px; height:auto;" />
       </td>
@@ -1082,7 +1082,7 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/68e9ca49526a4984878b4072121afa6d.png" alt="Cover for 35 Jahre - Ein Leben für die Zärtlichkeit" style="max-width:120px; height:auto;" />
       </td>
@@ -1100,7 +1100,7 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
       </td>
       <td>2004-07-05</td>
@@ -1118,7 +1118,7 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c167ec78045c527dd28afad09d56e07.png" alt="Cover for Für immer wie heute" style="max-width:120px; height:auto;" />
       </td>
@@ -1137,7 +1137,7 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c104428f1944e40afacba34a708752d.png" alt="Cover for JanSmit.com" style="max-width:120px; height:auto;" />
       </td>
@@ -1158,17 +1158,16 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>66</td>
       <td>
-          <img src="https://i.discogs.com/d-yNypq23TK76tcoB2XSI71NPFbHXCnM2uBCA4jafX8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDY0/OTktMTM3MzEzNzQx/MC0xMjIwLmpwZWc.jpeg" alt="Cover for Dromen" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/9prBpLSQ3f4A724tF3s-0ofqE0wUxQFd5WfjHkPaGpM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODA1/Mzg0LTE1MjI2ODMw/ODItMzE5NC5qcGVn.jpeg" alt="Cover for Es Geht Immer Nur Um Liebe" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
-      <td>Laura Lynn</td>
-      <td>Dromen</td>
+      <td>Michael Morgan</td>
+      <td>Es Geht Immer Nur Um Liebe</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutsche-schlager" | relative_url }}">deutsche schlager</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a></li>
         </ul>
       </td>
@@ -1178,7 +1177,7 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>94</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/02b9aa33cd454355bfa56add2d82fc74.png" alt="Cover for Disco" style="max-width:120px; height:auto;" />
       </td>
@@ -1199,16 +1198,17 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>97</td>
       <td>
-          <img src="https://i.discogs.com/9prBpLSQ3f4A724tF3s-0ofqE0wUxQFd5WfjHkPaGpM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODA1/Mzg0LTE1MjI2ODMw/ODItMzE5NC5qcGVn.jpeg" alt="Cover for Es Geht Immer Nur Um Liebe" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/d-yNypq23TK76tcoB2XSI71NPFbHXCnM2uBCA4jafX8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDY0/OTktMTM3MzEzNzQx/MC0xMjIwLmpwZWc.jpeg" alt="Cover for Dromen" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
-      <td>Michael Morgan</td>
-      <td>Es Geht Immer Nur Um Liebe</td>
+      <td>Laura Lynn</td>
+      <td>Dromen</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutsche-schlager" | relative_url }}">deutsche schlager</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a></li>
         </ul>
       </td>
@@ -1218,7 +1218,7 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/hH44SA0c55B22CNO0aAxjigDF1_wfA8yRaZx5HYqVHE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTk5/MDMtMTI5MDQ0Nzg4/Ny5qcGVn.jpeg" alt="Cover for Wer Bist Denn Du?" style="max-width:120px; height:auto;" />
       </td>
@@ -1236,7 +1236,7 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/deae190854378cb6feb43cee0f925f7b.png" alt="Cover for Gold" style="max-width:120px; height:auto;" />
       </td>
@@ -1259,7 +1259,7 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/Z46w927_b3-vxz8qI0esjwk8gXZg8vuZkM_j52LDsxE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzI1/NDk2LTE1NDA3NjYz/MDYtMjgwNi5qcGVn.jpeg" alt="Cover for Gestern Und Heute" style="max-width:120px; height:auto;" />
       </td>
@@ -1277,7 +1277,7 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>100</td>
       <td>
           <img src="https://i.discogs.com/QsHxb22iBVzowkJjJmO1nTQROQReXM1JhESTZLyN4Lw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzU3/MjYwLTE0OTU5MTcx/MDYtNDQ5NS5qcGVn.jpeg" alt="Cover for Lust aufs Leben" style="max-width:120px; height:auto;" />
       </td>
@@ -1296,7 +1296,7 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/ZRWHJLlo-7L56a2R1cgQGc9VkMZueAFIfkxD-g76B5U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjA3/OTQ2LTE1NTI2MzU5/NzItOTQ5OS5qcGVn.jpeg" alt="Cover for Declan Galbraith" style="max-width:120px; height:auto;" />
       </td>
@@ -1314,7 +1314,7 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>98</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1145105b2ac1ba04bef8700e95e140f4.png" alt="Cover for Land in Sicht" style="max-width:120px; height:auto;" />
       </td>
@@ -1332,7 +1332,7 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>35</td>
       <td>
       </td>
       <td>2007-09-07</td>
@@ -1351,24 +1351,7 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
     </tr>
     <tr>
-      <td>15</td>
-      <td>
-      </td>
-      <td>2007-09-14</td>
-      <td>Claudia Jung</td>
-      <td>Unwiderstehlich</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutsche-schlager" | relative_url }}">deutsche schlager</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>39</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/AyPE8DCsE6uId3C43bUDCMPAPNzQYviOTCJQ6q85Vms/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjU4/NzU2LTE2NjkzNDMz/NjctNjc2My5qcGVn.jpeg" alt="Cover for Ich streue Rosen auf den Weg" style="max-width:120px; height:auto;" />
       </td>
@@ -1387,7 +1370,24 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>86</td>
+      <td>
+      </td>
+      <td>2007-09-14</td>
+      <td>Claudia Jung</td>
+      <td>Unwiderstehlich</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutsche-schlager" | relative_url }}">deutsche schlager</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/hghUa_CsfLeXe5uztwUF_1i6o7I_CoTduugHS6kpp3M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTIy/MDUtMTQ3MjM2MTY0/NC0xNjg4LmpwZWc.jpeg" alt="Cover for Eine Nacht (Die Nie Zu Ende Geht)" style="max-width:120px; height:auto;" />
       </td>
@@ -1405,7 +1405,7 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/LZcuvuBUk3GPiCSaXwsu0FW65eeZPfDK4QGnPfgTdxU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzcy/NDUtMTI3Mzk2MTIw/Mi5qcGVn.jpeg" alt="Cover for Ich fang Dir den Mond" style="max-width:120px; height:auto;" />
       </td>
@@ -1422,7 +1422,7 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/riAUojO9NAwvfKf1IpMZ5vbEBQQuYx4Y7gEmPrW5C8k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NTYx/MzctMTQ1MjM3Nzkx/NS02MzEzLmpwZWc.jpeg" alt="Cover for Rot sind die Rosen" style="max-width:120px; height:auto;" />
       </td>
@@ -1440,12 +1440,84 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>38</td>
       <td>
       </td>
       <td>2008-11-14</td>
       <td>DJ Ötzi</td>
       <td>Hotel Engel</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutsche-schlager" | relative_url }}">deutsche schlager</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+          <img src="https://i.discogs.com/IHvMpMhWQugl60SaxYcszY9wD49j0YvTBmcGzzmbP7E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDAt/MTU5MTUyMjUwMS01/NTA2LmpwZWc.jpeg" alt="Cover for &#39;70s Pop #1&#39;s" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Various Artists</td>
+      <td>&#39;70s Pop #1&#39;s</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutsche-schlager" | relative_url }}">deutsche schlager</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>
+          <img src="https://i.discogs.com/9YMSZPJanBRNsjtK2eaEdPnzyPcvfrI1gsOhGY7kx-s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODI2/NjMxLTE1MjMwNDQ0/NDgtMTI2Mi5qcGVn.jpeg" alt="Cover for Best of 2009 - Die Zweite" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Various Artists</td>
+      <td>Best of 2009 - Die Zweite</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutsche-schlager" | relative_url }}">deutsche schlager</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>
+          <img src="https://i.discogs.com/PyxMVfk2kW_QEeP5vfFrZoOUWwGOknxbDX4lpLBLK54/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTQz/NDItMTI1MjEzNjQy/My5qcGVn.jpeg" alt="Cover for I Don&#39;t Know" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Michael Wendler</td>
+      <td>I Don&#39;t Know</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutsche-schlager" | relative_url }}">deutsche schlager</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>
+          <img src="https://i.discogs.com/cTUZCQQKliAMWCW8rcdZrou41GICAPknrfUbnc0t0GI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MjQy/NTUtMTQyOTYyMTA2/MS0yOTIyLmpwZWc.jpeg" alt="Cover for 1000 Träume Weit (Tornero)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Anna-Maria Zimmermann</td>
+      <td>1000 Träume Weit (Tornero)</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutsche-schlager" | relative_url }}">deutsche schlager</a></li>
@@ -1475,31 +1547,12 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>14</td>
       <td>
-          <img src="https://i.discogs.com/cTUZCQQKliAMWCW8rcdZrou41GICAPknrfUbnc0t0GI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MjQy/NTUtMTQyOTYyMTA2/MS0yOTIyLmpwZWc.jpeg" alt="Cover for 1000 Träume Weit (Tornero)" style="max-width:120px; height:auto;" />
       </td>
-      <td>2009</td>
-      <td>Anna-Maria Zimmermann</td>
-      <td>1000 Träume Weit (Tornero)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutsche-schlager" | relative_url }}">deutsche schlager</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>74</td>
-      <td>
-          <img src="https://i.discogs.com/PyxMVfk2kW_QEeP5vfFrZoOUWwGOknxbDX4lpLBLK54/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTQz/NDItMTI1MjEzNjQy/My5qcGVn.jpeg" alt="Cover for I Don&#39;t Know" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2009</td>
-      <td>Michael Wendler</td>
-      <td>I Don&#39;t Know</td>
+      <td>2009-04-24</td>
+      <td>Mark Medlock</td>
+      <td>Mamacita</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutsche-schlager" | relative_url }}">deutsche schlager</a></li>
@@ -1511,43 +1564,7 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
     </tr>
     <tr>
-      <td>89</td>
-      <td>
-          <img src="https://i.discogs.com/9YMSZPJanBRNsjtK2eaEdPnzyPcvfrI1gsOhGY7kx-s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODI2/NjMxLTE1MjMwNDQ0/NDgtMTI2Mi5qcGVn.jpeg" alt="Cover for Best of 2009 - Die Zweite" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2009</td>
-      <td>Various Artists</td>
-      <td>Best of 2009 - Die Zweite</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutsche-schlager" | relative_url }}">deutsche schlager</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>98</td>
-      <td>
-          <img src="https://i.discogs.com/IHvMpMhWQugl60SaxYcszY9wD49j0YvTBmcGzzmbP7E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDAt/MTU5MTUyMjUwMS01/NTA2LmpwZWc.jpeg" alt="Cover for &#39;70s Pop #1&#39;s" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2009</td>
-      <td>Various Artists</td>
-      <td>&#39;70s Pop #1&#39;s</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutsche-schlager" | relative_url }}">deutsche schlager</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>26</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/xlF6OjqNu2Q9S4L-mrPm4YsLGu4ootvzavNNLYojQsk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTg0/NDYtMTMxODQzMjk5/Ny5qcGVn.jpeg" alt="Cover for Magie Der Nacht" style="max-width:120px; height:auto;" />
       </td>
@@ -1566,24 +1583,7 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
     </tr>
     <tr>
-      <td>87</td>
-      <td>
-      </td>
-      <td>2009-04-24</td>
-      <td>Mark Medlock</td>
-      <td>Mamacita</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutsche-schlager" | relative_url }}">deutsche schlager</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/dXSsYr68jgq0xx8XaaIIITQxIcE-8jPIWwSzK1sY54c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMDc0/MTAtMTM1NTQ3NjMx/Mi04NTUzLmpwZWc.jpeg" alt="Cover for Küss Mich, Halt Mich, Lieb Mich" style="max-width:120px; height:auto;" />
       </td>
@@ -1600,25 +1600,7 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
     </tr>
     <tr>
-      <td>38</td>
-      <td>
-          <img src="https://i.discogs.com/CU0m-Xev5W1UlsVljRw_khk4DQA5UbOtYEIJ4zhXiPs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzc5/MjQ4LTE1ODE0MzM0/ODYtMjYwMy5qcGVn.jpeg" alt="Cover for Ich liebe das Leben" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2010</td>
-      <td>Andrea Berg</td>
-      <td>Ich liebe das Leben</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutsche-schlager" | relative_url }}">deutsche schlager</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>79</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/m9RTWYpuHIeGCbzPeu_sNSPQRIJ8V3AwIgrNFqRq0Q8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMDMy/NDYtMTQ1NTIwMjMx/My0yNzM2LmpwZWc.jpeg" alt="Cover for EINFACH ANNA !" style="max-width:120px; height:auto;" />
       </td>
@@ -1636,7 +1618,25 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>63</td>
+      <td>
+          <img src="https://i.discogs.com/CU0m-Xev5W1UlsVljRw_khk4DQA5UbOtYEIJ4zhXiPs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzc5/MjQ4LTE1ODE0MzM0/ODYtMjYwMy5qcGVn.jpeg" alt="Cover for Ich liebe das Leben" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010</td>
+      <td>Andrea Berg</td>
+      <td>Ich liebe das Leben</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutsche-schlager" | relative_url }}">deutsche schlager</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
       <td>
           <img src="https://i.discogs.com/H6eGAu9O1WoPX-JlJe1rHJQzUwINeirIXsLk87ahVJw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MzA4/NTAtMTY3MDE2ODg4/OC02MjY5LmpwZWc.jpeg" alt="Cover for Seine grossen Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -1654,7 +1654,7 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>91</td>
       <td>
       </td>
       <td>2010-03-19</td>
@@ -1671,7 +1671,7 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>70</td>
       <td>
       </td>
       <td>2010-05-26</td>
@@ -1688,7 +1688,7 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/mwO2nTKKYo9CEjThhHHfxLI2HVZuY-b9tkwzIjiJj5w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTY4/NjAtMTI4MjkyMjY0/Ny5qcGVn.jpeg" alt="Cover for König in der Nacht" style="max-width:120px; height:auto;" />
       </td>
@@ -1706,7 +1706,7 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/e5ZSN3k_5JSmDVa5svDBG5EXMRvSjdM9yfn83RvcW0g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDA2/NjQyLTE1OTEwMjIz/MDUtNjM2Ni5qcGVn.jpeg" alt="Cover for Bis in alle Ewigkeit" style="max-width:120px; height:auto;" />
       </td>
@@ -1724,7 +1724,7 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>34</td>
       <td>
       </td>
       <td>2010-12-10</td>
@@ -1741,7 +1741,7 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/N2ASWxqwUbjoX9gB6N-FAJcGUDAufCeHu3FfBZHPKqk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjQ4/MzM5LTE2MTI0MjAy/MDUtNDYwNi5qcGVn.jpeg" alt="Cover for Jetzt wird es heiss" style="max-width:120px; height:auto;" />
       </td>
@@ -1759,7 +1759,7 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>58</td>
       <td>
       </td>
       <td>2012-05-18</td>
@@ -1777,7 +1777,7 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/XmzTCVZkHZCUvu2e0raadVEIDqsazTajqQCme6yhESo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDg0/MTYwLTE1OTIyOTk2/OTEtNDU3My5qcGVn.jpeg" alt="Cover for Eiskristall (Special Product)" style="max-width:120px; height:auto;" />
       </td>
@@ -1795,7 +1795,7 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/P7TeatRMigPXOtS8PKXNrO5gstXcHAE4PNIMtXTZNZo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzAx/NzM1LTE1NTkzMzI2/NzUtMjgyOS5qcGVn.jpeg" alt="Cover for Schwerelos - Tour Edition" style="max-width:120px; height:auto;" />
       </td>
@@ -1813,7 +1813,7 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/qbTDwDfw6ahVQfDxYrhcl2OS4FNd8vOrw2uZodY4jzc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTQ4/OTc0LTE1Njg3OTE3/NjYtNDcwOS5qcGVn.jpeg" alt="Cover for Das ist, weil ich dich liebe (Sara perche ti amo)" style="max-width:120px; height:auto;" />
       </td>
@@ -1830,7 +1830,24 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>10</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Helene Fischer</td>
+      <td>Fehlerfrei</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutsche-schlager" | relative_url }}">deutsche schlager</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
       <td>
       </td>
       <td></td>
@@ -1840,23 +1857,6 @@ Deutsche Schlager is a popular German music genre characterized by catchy melodi
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutsche-schlager" | relative_url }}">deutsche schlager</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>91</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Helene Fischer</td>
-      <td>Fehlerfrei</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutsche-schlager" | relative_url }}">deutsche schlager</a></li>
         </ul>
       </td>
       <td>

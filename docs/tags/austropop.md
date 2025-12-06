@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T07:04:27.233Z
+date: 2025-12-06T11:56:20.240Z
 permalink: tags/austropop
 title: austropop
 ---
 
 ## austropop
 
-Last updated: <time datetime="2025-12-04T07:04:27.233Z">Thu Dec 04 2025 09:04:27 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T11:56:20.240Z">Sat Dec 06 2025 13:56:20 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -177,7 +177,7 @@ Austropop is a distinctly Austrian popular music genre that emerged in the 1970s
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
       </td>
       <td>1981</td>
@@ -390,7 +390,7 @@ Austropop is a distinctly Austrian popular music genre that emerged in the 1970s
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/ySVIatrJo7KVt7VvjwxfyD5VLAwmvirQELOi-OK07fg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MDk0/NS0xMzY3NTkxNDE0/LTExNDkuanBlZw.jpeg" alt="Cover for Falko Gold" style="max-width:120px; height:auto;" />
       </td>
@@ -698,7 +698,7 @@ Austropop is a distinctly Austrian popular music genre that emerged in the 1970s
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef2576646353a0f6b7886853d39db7f0.png" alt="Cover for Von Zeit zu Zeit" style="max-width:120px; height:auto;" />
       </td>
@@ -1611,7 +1611,7 @@ Austropop is a distinctly Austrian popular music genre that emerged in the 1970s
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/OBLHwm7VX7QbdchSpPF6kHvzMTL5aJtY0SDX4lFRktI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTE0/MzQ2LTE2NjI2Mjg2/OTYtMjA0Mi5qcGVn.jpeg" alt="Cover for Aufleben" style="max-width:120px; height:auto;" />
       </td>

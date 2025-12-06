@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T07:07:14.154Z
+date: 2025-12-06T11:59:27.817Z
 permalink: tags/melodic-hard-rock
 title: melodic hard rock
 ---
 
 ## melodic hard rock
 
-Last updated: <time datetime="2025-12-04T07:07:14.154Z">Thu Dec 04 2025 09:07:14 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T11:59:27.817Z">Sat Dec 06 2025 13:59:27 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -97,7 +97,7 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 53</li>
+            <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -470,9 +470,9 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 23</li>
             <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 24</li>
-            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 69</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 78</li>
+            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 32</li>
         </ul>
       </td>
     </tr>

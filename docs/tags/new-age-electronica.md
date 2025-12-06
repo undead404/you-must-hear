@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T07:09:42.480Z
+date: 2025-12-06T12:02:00.548Z
 permalink: tags/new-age-electronica
 title: new age electronica
 ---
 
 ## new age electronica
 
-Last updated: <time datetime="2025-12-04T07:09:42.480Z">Thu Dec 04 2025 09:09:42 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T12:02:00.548Z">Sat Dec 06 2025 14:02:00 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
   </thead>
   <tbody>
     <tr>
-      <td>48</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/yL2WML1oZrui8zc18XMjxweXzKhR0N7oQJjtyK6DCNc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTc2/OTUxLTE3MjQ2NjAy/NTAtMzcwNC5qcGVn.jpeg" alt="Cover for Bossa Lounge Collection, Vol. 3 (Latin Bossa Music Selected By Enrico Donner)" style="max-width:120px; height:auto;" />
       </td>
@@ -49,7 +49,7 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for Pure Moods IV" style="max-width:120px; height:auto;" />
       </td>
@@ -74,7 +74,7 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>95</td>
       <td>
           <img src="https://i.discogs.com/sKsBOvP1QOKvwNHsd6ZhxBbrfStJZ30Mms_PYfCZxmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzUy/MjktMTMwOTk2Nzgw/MS5qcGVn.jpeg" alt="Cover for cross that line EP" style="max-width:120px; height:auto;" />
       </td>
@@ -97,32 +97,7 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       </td>
     </tr>
     <tr>
-      <td>26</td>
-      <td>
-      </td>
-      <td>1993</td>
-      <td>Sine</td>
-      <td>Cosmic Chill Lounge Vol.3</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 53</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>41</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/27e02c22b8d3388d7338a5ea9eaba9a0.png" alt="Cover for Cosmic Chill Lounge Vol.2" style="max-width:120px; height:auto;" />
       </td>
@@ -148,7 +123,50 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>75</td>
+      <td>
+      </td>
+      <td>1993</td>
+      <td>Sine</td>
+      <td>Cosmic Chill Lounge Vol.3</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 53</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>
+          <img src="https://i.discogs.com/pug0oS0L640vp-8W-nXH_Ter3Tbgi45kwBz6rY4zPr8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjg2/NjE3LTE3MjU4MTYz/MDAtODYzMS5qcGVn.jpeg" alt="Cover for Ibiza Chillhouse Deluxe, Vol. 2 (A Great Selection of the Finest Chillhouse Music)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996</td>
+      <td>Various Artists</td>
+      <td>Ibiza Chillhouse Deluxe, Vol. 2 (A Great Selection of the Finest Chillhouse Music)</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 63</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/pug0oS0L640vp-8W-nXH_Ter3Tbgi45kwBz6rY4zPr8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjg2/NjE3LTE3MjU4MTYz/MDAtODYzMS5qcGVn.jpeg" alt="Cover for Suntheca Music presents: SPA Collection Vol. 3 (A Selection Of Finest Lounge &amp; Chillout Music)" style="max-width:120px; height:auto;" />
       </td>
@@ -171,25 +189,7 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       </td>
     </tr>
     <tr>
-      <td>15</td>
-      <td>
-          <img src="https://i.discogs.com/pug0oS0L640vp-8W-nXH_Ter3Tbgi45kwBz6rY4zPr8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjg2/NjE3LTE3MjU4MTYz/MDAtODYzMS5qcGVn.jpeg" alt="Cover for Ibiza Chillhouse Deluxe, Vol. 2 (A Great Selection of the Finest Chillhouse Music)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1996</td>
-      <td>Various Artists</td>
-      <td>Ibiza Chillhouse Deluxe, Vol. 2 (A Great Selection of the Finest Chillhouse Music)</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 63</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/E7QxlzAZf6_N1_B6HknqEf9TNkpaozEHLGfBOa0VL1s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MjQz/NDYtMTQzMjc0NDQ0/NS0yMDgyLmpwZWc.jpeg" alt="Cover for After Now" style="max-width:120px; height:auto;" />
       </td>
@@ -218,7 +218,7 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/5hHrJEcvL32YNC-tvmw2CyPmNiDybqel6RZNVj9Gsg0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzAz/LTE2Njg0MTY2NzQt/Mzk1OC5qcGVn.jpeg" alt="Cover for Cool Off Chillout" style="max-width:120px; height:auto;" />
       </td>
@@ -240,7 +240,7 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f81209b56a0465ab884f13d253461cb.png" alt="Cover for Poem" style="max-width:120px; height:auto;" />
       </td>
@@ -255,13 +255,13 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 57</li>
+            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 44</li>
             <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
       </td>
       <td>2001-11-20</td>
@@ -278,7 +278,7 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/Vda5QyqYOt5KxegHP2hm2jQXnySu1zFRw_vfEwiNHKU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDIw/MS0xNTI4OTUwNzg4/LTM0MTYuanBlZw.jpeg" alt="Cover for Purify Remixes" style="max-width:120px; height:auto;" />
       </td>
@@ -300,7 +300,7 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f39be593670b5ae22c186163f7820848.png" alt="Cover for Beneath The Surface" style="max-width:120px; height:auto;" />
       </td>
@@ -324,7 +324,7 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/lgYJfCRFSoEJqp-82PTVPf3pY3FxrwiKtz3K9bKlZ1Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDky/MzMtMTM0MzQyNDcy/MC03ODg5LmpwZWc.jpeg" alt="Cover for More Africa in Us" style="max-width:120px; height:auto;" />
       </td>
@@ -345,58 +345,18 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 13</li>
             <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 17</li>
             <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 36</li>
             <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 43</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 45</li>
             <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 59</li>
             <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 83</li>
-            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
-      <td>
-          <img src="https://i.discogs.com/IVyWhKp5Wr70xONCuT0acfcYOL4wQ1NxH7gH6QwA3B4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODAx/OC0xMTY3Nzc3MTgy/LmpwZWc.jpeg" alt="Cover for Zorg&#39;s Private Life" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2003</td>
-      <td>Zorg</td>
-      <td>Zorg&#39;s Private Life</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 71</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>14</td>
-      <td>
-      </td>
-      <td>2003</td>
-      <td>Various Artists</td>
-      <td>SPA Collection, Vol. 5 (A Selection of the Finest Lounge &amp; Chillout Sounds)</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 3</li>
-            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 66</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>47</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a580f314b8c2d18a918a46f22277c2b5.png" alt="Cover for The Best" style="max-width:120px; height:auto;" />
       </td>
@@ -422,7 +382,47 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>87</td>
+      <td>
+      </td>
+      <td>2003</td>
+      <td>Various Artists</td>
+      <td>SPA Collection, Vol. 5 (A Selection of the Finest Lounge &amp; Chillout Sounds)</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 66</li>
+            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>
+          <img src="https://i.discogs.com/IVyWhKp5Wr70xONCuT0acfcYOL4wQ1NxH7gH6QwA3B4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODAx/OC0xMTY3Nzc3MTgy/LmpwZWc.jpeg" alt="Cover for Zorg&#39;s Private Life" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Zorg</td>
+      <td>Zorg&#39;s Private Life</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 71</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
       <td>
       </td>
       <td>2003-04-29</td>
@@ -444,7 +444,7 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
       </td>
       <td>2003-06-02</td>
@@ -468,7 +468,7 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6763067871f549caaec9264ea9614890.png" alt="Cover for Chimera" style="max-width:120px; height:auto;" />
       </td>
@@ -486,51 +486,7 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       </td>
     </tr>
     <tr>
-      <td>42</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eda803819fd4f3d2ffb69aa91cf6d437.png" alt="Cover for Beauty" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2004</td>
-      <td>Vargo</td>
-      <td>Beauty</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 94</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>52</td>
-      <td>
-      </td>
-      <td>2004</td>
-      <td>Various Artists</td>
-      <td>Zen Connection (disc 2: To the West)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 35</li>
-            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 75</li>
-            <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 97</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>66</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/IycqllBrJVS0tZBE91SYgiViGsltSe4l5E-fe-kuiqY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1ODI3/OS0xMTc3NTE0OTQ1/LmpwZWc.jpeg" alt="Cover for Gentle Flowers" style="max-width:120px; height:auto;" />
       </td>
@@ -561,7 +517,51 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>49</td>
+      <td>
+      </td>
+      <td>2004</td>
+      <td>Various Artists</td>
+      <td>Zen Connection (disc 2: To the West)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 35</li>
+            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 75</li>
+            <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eda803819fd4f3d2ffb69aa91cf6d437.png" alt="Cover for Beauty" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Vargo</td>
+      <td>Beauty</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 94</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/vc4HV9x77EAEbbkAh2uy2VIos9Lt0dc9IsB98kWb7tw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0Mjcx/MzMtMTQ4MTE0MDcz/Ni05NDQ4LmpwZWc.jpeg" alt="Cover for Sweet Allure Remixes" style="max-width:120px; height:auto;" />
       </td>
@@ -581,7 +581,7 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/YW9TwE_olgQ7spXqLRJpjbQqxJiZ5k_Zk2zC9gGI3Fw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MTk4/OTktMTM3NjUxMjk4/OS04NzEyLmpwZWc.jpeg" alt="Cover for The Best of Delerium" style="max-width:120px; height:auto;" />
       </td>
@@ -601,35 +601,35 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>13</td>
       <td>
-          <img src="https://i.discogs.com/ocDcXaQwsSpJgeD8SzpNFdJ3Y00_bqaEErYymVVAfGc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MzM5/Mi0xMjMzMTM1MzE4/LmpwZWc.jpeg" alt="Cover for Liquid Meditations (Ambient Reworks)" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
-      <td>Dubdiver</td>
-      <td>Liquid Meditations (Ambient Reworks)</td>
+      <td>Darshan Ambient</td>
+      <td>re:Karma</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 21</li>
-            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 27</li>
-            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 76</li>
+            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 19</li>
+            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 25</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 30</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 32</li>
+            <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/lgYJfCRFSoEJqp-82PTVPf3pY3FxrwiKtz3K9bKlZ1Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDky/MzMtMTM0MzQyNDcy/MC03ODg5LmpwZWc.jpeg" alt="Cover for Voices Have Eyes" style="max-width:120px; height:auto;" />
       </td>
@@ -653,44 +653,44 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 30</li>
-            <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 33</li>
             <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 43</li>
+            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 47</li>
             <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 48</li>
-            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 54</li>
+            <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 68</li>
+            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>99</td>
       <td>
+          <img src="https://i.discogs.com/ocDcXaQwsSpJgeD8SzpNFdJ3Y00_bqaEErYymVVAfGc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MzM5/Mi0xMjMzMTM1MzE4/LmpwZWc.jpeg" alt="Cover for Liquid Meditations (Ambient Reworks)" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
-      <td>Darshan Ambient</td>
-      <td>re:Karma</td>
+      <td>Dubdiver</td>
+      <td>Liquid Meditations (Ambient Reworks)</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 25</li>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 30</li>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 32</li>
-            <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 34</li>
-            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 82</li>
+            <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 21</li>
+            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 74</li>
+            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/ocDcXaQwsSpJgeD8SzpNFdJ3Y00_bqaEErYymVVAfGc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MzM5/Mi0xMjMzMTM1MzE4/LmpwZWc.jpeg" alt="Cover for Floating Beats" style="max-width:120px; height:auto;" />
       </td>
@@ -711,7 +711,7 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/q7WdwdvCSOnt4iaoan15S7U1nIsf-WQ5pzL03LkMSG4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODc3/MzY1LTE1ODMzMDUy/ODgtNjA5MC5qcGVn.jpeg" alt="Cover for Essence" style="max-width:120px; height:auto;" />
       </td>
@@ -733,19 +733,19 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 7</li>
             <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 9</li>
+            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 14</li>
             <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 17</li>
             <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 22</li>
             <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 23</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 24</li>
             <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 42</li>
-            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 87</li>
-            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/411ef4e19ffd40b88a41bd4b0307cea0.png" alt="Cover for The Lost Art of the Idle Moment" style="max-width:120px; height:auto;" />
       </td>
@@ -767,7 +767,7 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/9iVnyn875pQ2motpz4BoA3iiFLgKSf0o3wmwHOm0jgo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNDc3/OS0xNjUyMDI5Mzkw/LTc5NzkuanBlZw.jpeg" alt="Cover for Reach for Me - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -789,7 +789,7 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
       </td>
       <td>2005-10-04</td>
@@ -809,39 +809,16 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       <td>
         <ul>
             <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 25</li>
+            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 40</li>
             <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 55</li>
             <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 59</li>
-            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 61</li>
             <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 67</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>75</td>
-      <td>
-          <img src="https://i.discogs.com/Jhp7UGMxjyiTTAR6gX0tVELYcn1PZxRBoQ8t8nVkIH0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MDM4/MC0xNDQ4NjE4NzA2/LTkwOTIuanBlZw.jpeg" alt="Cover for Meta Message" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2005-10-10</td>
-      <td>Kirsty Hawkshaw</td>
-      <td>Meta Message</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 16</li>
-            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 44</li>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 48</li>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 51</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d6a1974032364912b86a48a985ddc218.png" alt="Cover for Meta-Message" style="max-width:120px; height:auto;" />
       </td>
@@ -865,7 +842,30 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>26</td>
+      <td>
+          <img src="https://i.discogs.com/Jhp7UGMxjyiTTAR6gX0tVELYcn1PZxRBoQ8t8nVkIH0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MDM4/MC0xNDQ4NjE4NzA2/LTkwOTIuanBlZw.jpeg" alt="Cover for Meta Message" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-10-10</td>
+      <td>Kirsty Hawkshaw</td>
+      <td>Meta Message</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 16</li>
+            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 44</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 48</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 51</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/Jhp7UGMxjyiTTAR6gX0tVELYcn1PZxRBoQ8t8nVkIH0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MDM4/MC0xNDQ4NjE4NzA2/LTkwOTIuanBlZw.jpeg" alt="Cover for The Meta Message (Full Length Release)" style="max-width:120px; height:auto;" />
       </td>
@@ -884,7 +884,7 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/50d1fac477eb2abb039536356de27752.png" alt="Cover for Beautiful Someday" style="max-width:120px; height:auto;" />
       </td>
@@ -921,7 +921,7 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/be69f9dc06ac2ae32e67ac610e83d6e9.png" alt="Cover for Get Back to Serenity: The Mixed Up - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -953,7 +953,7 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6e90b1b447132f049a04d86a13331786.png" alt="Cover for equilibrium" style="max-width:120px; height:auto;" />
       </td>
@@ -983,7 +983,36 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>21</td>
+      <td>
+          <img src="https://i.discogs.com/uUXEjUJJNkZ5SDwaH72LeYjyt7w2KAMzOXJKgogw-IA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODc0/MzAtMTIwNjYwOTk2/Mi5qcGVn.jpeg" alt="Cover for A Taste of Ibiza: The Best of Gary B" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Gary B</td>
+      <td>A Taste of Ibiza: The Best of Gary B</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 25</li>
+            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 37</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 40</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 44</li>
+            <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 47</li>
+            <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 86</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/MLPP_WK-O-rSYb9-JVmHbb32ReOXN8DluFKNmyrT_JE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjk2/NTktMTIxOTAxMTA2/NC5qcGVn.jpeg" alt="Cover for Bombay Beatz" style="max-width:120px; height:auto;" />
       </td>
@@ -1003,36 +1032,7 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       </td>
     </tr>
     <tr>
-      <td>80</td>
-      <td>
-          <img src="https://i.discogs.com/uUXEjUJJNkZ5SDwaH72LeYjyt7w2KAMzOXJKgogw-IA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODc0/MzAtMTIwNjYwOTk2/Mi5qcGVn.jpeg" alt="Cover for A Taste of Ibiza: The Best of Gary B" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2007</td>
-      <td>Gary B</td>
-      <td>A Taste of Ibiza: The Best of Gary B</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 37</li>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 40</li>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 44</li>
-            <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 47</li>
-            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 76</li>
-            <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 86</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>16</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/fNz1UiogaMd82VWNsl8LlupbVD__wtPjxo1AZuhuQqM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MzY0/NC0xMTgwNjQ1MDg0/LmpwZWc.jpeg" alt="Cover for The Chauffeur: Remixes (feat. Kirsty Hawkshaw)" style="max-width:120px; height:auto;" />
       </td>
@@ -1051,7 +1051,7 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/59c46d988e54d2cded28d017469ee1c3.png" alt="Cover for Sound Sutras" style="max-width:120px; height:auto;" />
       </td>
@@ -1082,7 +1082,83 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>32</td>
+      <td>
+      </td>
+      <td>2008</td>
+      <td>Max Melvin</td>
+      <td>Seasons</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 20</li>
+            <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 63</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>
+          <img src="https://i.discogs.com/ONWn5Uxwq1MR57sRLHXV9mtO-FniBAJXh3l-La-e0wY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NjM3/NDAtMTQwNzUzMDMx/OC01ODQ0LmpwZWc.jpeg" alt="Cover for Shivaboom" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>Eccodek</td>
+      <td>Shivaboom</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 19</li>
+            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 22</li>
+            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 52</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 61</li>
+            <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 69</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 82</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5105fd5e09c743a79e5bef3d93d3fa8e.png" alt="Cover for Step into the sunshine" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>Gary B</td>
+      <td>Step into the sunshine</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 56</li>
+            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 71</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 76</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 89</li>
+            <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 93</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/D25eFiP9GS2QvWNQ0M4qzTduTd266k6Sm0LY8-HgVVs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDAy/MzgtMTIzMzI1NTA3/OC5naWY.jpeg" alt="Cover for The Best of Gary B On Cafe Del Mar" style="max-width:120px; height:auto;" />
       </td>
@@ -1107,83 +1183,7 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       </td>
     </tr>
     <tr>
-      <td>53</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5105fd5e09c743a79e5bef3d93d3fa8e.png" alt="Cover for Step into the sunshine" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2008</td>
-      <td>Gary B</td>
-      <td>Step into the sunshine</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 56</li>
-            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 71</li>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 76</li>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 89</li>
-            <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 93</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>67</td>
-      <td>
-          <img src="https://i.discogs.com/ONWn5Uxwq1MR57sRLHXV9mtO-FniBAJXh3l-La-e0wY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NjM3/NDAtMTQwNzUzMDMx/OC01ODQ0LmpwZWc.jpeg" alt="Cover for Shivaboom" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2008</td>
-      <td>Eccodek</td>
-      <td>Shivaboom</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 22</li>
-            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 52</li>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 61</li>
-            <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 69</li>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 82</li>
-            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 82</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>69</td>
-      <td>
-      </td>
-      <td>2008</td>
-      <td>Max Melvin</td>
-      <td>Seasons</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 20</li>
-            <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 63</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>28</td>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8cda432d23a9174e486d12fbb3beac76.png" alt="Cover for The Ice Castle" style="max-width:120px; height:auto;" />
       </td>
@@ -1203,7 +1203,7 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>30</td>
       <td>
       </td>
       <td>2008-04</td>
@@ -1223,16 +1223,16 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       <td>
         <ul>
             <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 18</li>
+            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 35</li>
             <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 47</li>
             <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 51</li>
             <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 54</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 61</li>
-            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
       </td>
       <td>2008-08-01</td>
@@ -1252,17 +1252,37 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       <td>
         <ul>
             <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 4</li>
+            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 7</li>
             <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 9</li>
             <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 11</li>
             <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 13</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 15</li>
-            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 94</li>
             <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>10</td>
+      <td>
+          <img src="https://i.discogs.com/2nKSVKjTg3CH29Qa4Ou7Lu6Y2--ehRYNNeTGFhmBoag/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTA4/NjgzLTE1MzY2NzE4/ODMtMzU3Ny5qcGVn.jpeg" alt="Cover for Iris" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Triangle Sun</td>
+      <td>Iris</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 26</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ccc6a1312a84f0eba32aee6c364f850.png" alt="Cover for Intoxicating" style="max-width:120px; height:auto;" />
       </td>
@@ -1292,27 +1312,7 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       </td>
     </tr>
     <tr>
-      <td>91</td>
-      <td>
-          <img src="https://i.discogs.com/2nKSVKjTg3CH29Qa4Ou7Lu6Y2--ehRYNNeTGFhmBoag/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTA4/NjgzLTE1MzY2NzE4/ODMtMzU3Ny5qcGVn.jpeg" alt="Cover for Iris" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2009</td>
-      <td>Triangle Sun</td>
-      <td>Iris</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 26</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
       </td>
       <td>2009-02-14</td>
@@ -1334,7 +1334,7 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/rF58Wl_lk9zJ2xOLeuoQUA3v__9rq6dFY8P0oor4Jfg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNDE0/NzEtMTQxNjg3NjE3/NS0xNDU0LmpwZWc.jpeg" alt="Cover for Chillout Session Vol 4" style="max-width:120px; height:auto;" />
       </td>
@@ -1359,7 +1359,7 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/erGKCe_M3b_em5B__O5xGeolWgrPLkmNPJx-tTNYNpc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDUw/MDQtMTM4OTAxNjA4/MS03MDM0LmpwZWc.jpeg" alt="Cover for Box of Secrets" style="max-width:120px; height:auto;" />
       </td>
@@ -1382,12 +1382,12 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       <td>
         <ul>
             <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 46</li>
-            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 52</li>
+            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>94</td>
       <td>
       </td>
       <td>2009-10-02</td>
@@ -1412,7 +1412,7 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d95555b98dfedd6282c55332fd533624.png" alt="Cover for Deep Flow" style="max-width:120px; height:auto;" />
       </td>
@@ -1440,14 +1440,14 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 17</li>
-            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 45</li>
             <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 52</li>
+            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 56</li>
+            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/tyw3Dq0eGhaYWosDGDxwEqU9yDzHELrgHRp6QikYQyE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzIx/MDYtMTI5MTA2Mjcx/OC5qcGVn.jpeg" alt="Cover for Iris 2010" style="max-width:120px; height:auto;" />
       </td>
@@ -1467,7 +1467,7 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/jTvmviw01KZFMgUrBtyZaui0d23sx4lUYp8JwR6NSBg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjkx/NTI4LTE1MzIyODMz/MzUtODA2Ny5qcGVn.jpeg" alt="Cover for The Best Lounge of Pianochocolate (Emotional Lounge Music for Hotels and Bars)" style="max-width:120px; height:auto;" />
       </td>
@@ -1491,7 +1491,7 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7aedf1902df34e3b9aced7ef070950b0.png" alt="Cover for Time&#39;s Wheel" style="max-width:120px; height:auto;" />
       </td>
@@ -1510,17 +1510,17 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 10</li>
             <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 30</li>
             <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 35</li>
             <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 36</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 40</li>
             <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 88</li>
-            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/iwwsFFevoSw3qDDhH8hqIeQywAK-SrxlH-BvfjgVxYc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTA1/MzAtMTQxNjc2NDM1/Ni04NzY4LmpwZWc.jpeg" alt="Cover for Precious" style="max-width:120px; height:auto;" />
       </td>
@@ -1551,7 +1551,7 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/04b1fcdd40a34d7a93564eceaf892151.png" alt="Cover for Looking Through Leaves" style="max-width:120px; height:auto;" />
       </td>
@@ -1580,7 +1580,7 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9cc14c55a2e7438482b4b5c048d591db.png" alt="Cover for Gateway" style="max-width:120px; height:auto;" />
       </td>
@@ -1599,16 +1599,16 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 33</li>
             <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 45</li>
             <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 49</li>
             <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 52</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 59</li>
-            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/dzNjwmFS0nVDSrK8kLL-pBAeayviZx6Ih8FIPqbb-Bw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTY1/ODctMTI3MjcxODMw/OS5qcGVn.jpeg" alt="Cover for Bollyhood Bass" style="max-width:120px; height:auto;" />
       </td>
@@ -1632,7 +1632,7 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
       </td>
       <td>2010-10-01</td>
@@ -1660,7 +1660,7 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/HltYiiNZ_k9jV-hPuy2s6kieCRoTUKbbHp6adOXs4v4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzIx/Njk0LTE1NTQ0NjUw/NTItODQ3Ni5qcGVn.jpeg" alt="Cover for Shangri-La" style="max-width:120px; height:auto;" />
       </td>
@@ -1685,7 +1685,7 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/3FWRST3q8-9xlgl17WQ3013tXwqYTkdUHyoMx_3GFac/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjAz/MDItMTI3MzY3MTc5/NC5qcGVn.jpeg" alt="Cover for North Shore (Idjut boys Remixes)" style="max-width:120px; height:auto;" />
       </td>
@@ -1705,7 +1705,7 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/22a60486714dc496d1d9afedf01e764d.png" alt="Cover for Hammock Dreams" style="max-width:120px; height:auto;" />
       </td>
@@ -1736,7 +1736,7 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/TX8N1mA61ebzdcBj7i16mSMhxQrAZCx0YjqWxSYnvSA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTEw/MTYtMTQ1MDgxMjIz/Mi0xMDQ1LmpwZWc.jpeg" alt="Cover for Remix, Vol. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1753,7 +1753,40 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
+      <td>
+          <img src="https://i.discogs.com/mM7tmwBab7fwmAM61oYTQ4wFELCfWMRfUf499kXqXJU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczOTQw/NDQtMTQ0MDU0NzEx/Mi05OTY2LmpwZWc.jpeg" alt="Cover for The Garden Of Gaia" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-05-13</td>
+      <td>Mirage of Deep</td>
+      <td>The Garden Of Gaia</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 18</li>
+            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 21</li>
+            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 49</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 53</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 55</li>
+            <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 64</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 79</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/511fe0dc1c49423cb017bc288c4cfc9f.png" alt="Cover for Talking Earth" style="max-width:120px; height:auto;" />
       </td>
@@ -1782,45 +1815,12 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
         <ul>
             <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 45</li>
             <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 47</li>
-            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 51</li>
+            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
-      <td>
-          <img src="https://i.discogs.com/mM7tmwBab7fwmAM61oYTQ4wFELCfWMRfUf499kXqXJU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczOTQw/NDQtMTQ0MDU0NzEx/Mi05OTY2LmpwZWc.jpeg" alt="Cover for The Garden Of Gaia" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2011-05-13</td>
-      <td>Mirage of Deep</td>
-      <td>The Garden Of Gaia</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 21</li>
-            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 49</li>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 53</li>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 55</li>
-            <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 64</li>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 79</li>
-            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 83</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>34</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/-6r5FTtFWrSc3cPjH4-wsMDEtU7CEdgqs_0aoefbCuk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTkx/NzAzLTE1MzgyMjg4/NzAtMjc5NC5qcGVn.jpeg" alt="Cover for Departures &amp; Arrivals" style="max-width:120px; height:auto;" />
       </td>
@@ -1840,37 +1840,12 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 27</li>
+            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
-      <td>
-          <img src="https://i.discogs.com/23EtWeC5tkVMo2cbwQSM4URe1yHJtMqhhsnekSi0Opw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDQx/OTktMTMyMDM2MjQy/NC5qcGVn.jpeg" alt="Cover for Pianochocolate - Time to Meet 2009" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2011-06-17</td>
-      <td>Pianochocolate</td>
-      <td>Pianochocolate - Time to Meet 2009</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 74</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>63</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0f020972e8c45463b984cd1c596389ee.png" alt="Cover for Submerge" style="max-width:120px; height:auto;" />
       </td>
@@ -1897,7 +1872,32 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>97</td>
+      <td>
+          <img src="https://i.discogs.com/23EtWeC5tkVMo2cbwQSM4URe1yHJtMqhhsnekSi0Opw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDQx/OTktMTMyMDM2MjQy/NC5qcGVn.jpeg" alt="Cover for Pianochocolate - Time to Meet 2009" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-06-17</td>
+      <td>Pianochocolate</td>
+      <td>Pianochocolate - Time to Meet 2009</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 74</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f88b0119794a9afbafc732c98189c3ca.png" alt="Cover for Remerge" style="max-width:120px; height:auto;" />
       </td>
@@ -1924,7 +1924,7 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>98</td>
       <td>
           <img src="https://i.discogs.com/NQqmhba7_epmZXXOfCiwJNavuGjuxNd1OwgAk27smzQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMjM3/MzQtMTQxNjk1ODc4/OS03ODI5LmpwZWc.jpeg" alt="Cover for VARGO LOUNGE - 10 Years Of Chill Out" style="max-width:120px; height:auto;" />
       </td>
@@ -1950,7 +1950,7 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
       </td>
       <td>2011-08-15</td>
@@ -1970,7 +1970,7 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       <td>
         <ul>
             <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 37</li>
-            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 47</li>
+            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 54</li>
             <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 63</li>
             <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 77</li>
             <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 83</li>
@@ -1980,7 +1980,7 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/jz_CnmdLEpTNCLn2csz4IgUD1p-8sCy8doHVdFizeYc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzc1/NjEtMTUwMzU5Mjcw/My0zNTQ2LmpwZWc.jpeg" alt="Cover for Remixtasy" style="max-width:120px; height:auto;" />
       </td>
@@ -2000,13 +2000,13 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 42</li>
             <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 57</li>
+            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/CE0NAG-fSWru9rHxstgwU7z93ffITgXhdmQfsNbZP0c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzODY5/MzEtMTQ2MDYyNDkx/NS02Njc4LmpwZWc.jpeg" alt="Cover for Shangri-La" style="max-width:120px; height:auto;" />
       </td>
@@ -2031,7 +2031,7 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>92</td>
       <td>
       </td>
       <td>2012-04-04</td>
@@ -2051,7 +2051,7 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf5ea36c9bdf43ecabdb23b3ae37c08b.png" alt="Cover for Love in Times of Repetition" style="max-width:120px; height:auto;" />
       </td>
@@ -2071,7 +2071,7 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/ANVXb1ydG76-mdyiTW62FDSBOheTVQAlZTJQmxeKuEA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MjQ0/MDEtMTMzNzgxOTQ2/My04NjEyLmpwZWc.jpeg" alt="Cover for 26000" style="max-width:120px; height:auto;" />
       </td>
@@ -2099,22 +2099,22 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 11</li>
+            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 14</li>
+            <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 15</li>
             <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 25</li>
+            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 27</li>
             <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 28</li>
             <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 38</li>
             <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 41</li>
             <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 45</li>
             <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 47</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 49</li>
-            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 74</li>
-            <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 86</li>
-            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 87</li>
-            <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/57ayzJGiP9Lnp8ZsNTvO4dgRUcEKanQWFQTqU6OoAws/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NTU5/ODgtMTM2NTM1NzU2/NS02MzUzLnBuZw.jpeg" alt="Cover for Flax" style="max-width:120px; height:auto;" />
       </td>
@@ -2133,13 +2133,13 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 10</li>
             <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 34</li>
+            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
       </td>
       <td>2012-12-04</td>
@@ -2161,17 +2161,17 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 28</li>
             <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 39</li>
             <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 42</li>
             <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 46</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 50</li>
-            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 73</li>
             <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>100</td>
       <td>
           <img src="https://i.discogs.com/44d3h3aJtkMmlAnAoJL40-AUGtvl1Txq_xrcFSj5PzM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxODM4/NTAtMTQ1NjY5NTkz/OC03ODEzLmpwZWc.jpeg" alt="Cover for Living for Live" style="max-width:120px; height:auto;" />
       </td>
@@ -2192,7 +2192,7 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/JpnBZk50ZSYK-G_T_8AA0_FMwv2Au2W9UNV-zTIMbW4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0Mzc0/NjMtMTM2NDg0OTUw/MC02OTUwLmpwZWc.jpeg" alt="Cover for Ascend" style="max-width:120px; height:auto;" />
       </td>
@@ -2216,7 +2216,7 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f861583bd197436da403d23a7cb8ee23.png" alt="Cover for Journey" style="max-width:120px; height:auto;" />
       </td>
@@ -2239,7 +2239,7 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 58</li>
+            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 43</li>
             <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 61</li>
             <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 65</li>
             <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 73</li>
@@ -2249,7 +2249,7 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/iOtyrcSRlwrVcWmO_ZvmJatKPjvTpGSAvhUinweru0k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwOTAz/NTItMTQxMDgwNjc4/MS00NTk2LmpwZWc.jpeg" alt="Cover for This Means War: Remixes (feat. Joanna Stevens)" style="max-width:120px; height:auto;" />
       </td>
@@ -2268,7 +2268,7 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/uLDDP1dZRszt4yAqlhUllyck1VyNPhvnV6YeFGi3NwU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NDc1/NDEtMTQwNzA4NjY0/MS00NDc3LmpwZWc.jpeg" alt="Cover for Destiny" style="max-width:120px; height:auto;" />
       </td>
@@ -2290,7 +2290,7 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/lgQzA4tj_OJ9TwMdr4yAryMLG3bMF_WouwGCvicDPzw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMTcx/OTYtMTQzODczNDgw/My0yNDQ1LmpwZWc.jpeg" alt="Cover for Turn This Around" style="max-width:120px; height:auto;" />
       </td>
@@ -2316,21 +2316,21 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/zen" | relative_url }}">zen</a> # 11</li>
+            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 20</li>
             <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 26</li>
+            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 41</li>
             <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 57</li>
-            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 60</li>
             <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 61</li>
             <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 70</li>
-            <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 77</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 77</li>
-            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 81</li>
+            <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 77</li>
             <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 89</li>
-            <li> <a href="{{ "/tags/zen" | relative_url }}">zen</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/ekiUtS5rG_UesGBSA6hytAUMCo2dw2xW8Ii6rrVY_Ao/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMjU4/NjctMTQxNjUyMjI3/Mi02NTM5LmpwZWc.jpeg" alt="Cover for Goodbye Is a New Beginning" style="max-width:120px; height:auto;" />
       </td>
@@ -2357,7 +2357,7 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/4VWDr05pwPHvdrduRez3amh9zyVCzwlWSDgKt-mStNo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NzIy/NDQtMTQ4NjIwMzc5/OC01NTI1LmpwZWc.jpeg" alt="Cover for Back To Life" style="max-width:120px; height:auto;" />
       </td>
@@ -2382,7 +2382,7 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/Uh-czjxeoY3nSAEe-qXnd2JqTZsk-u9vyl6vwFYa3-k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODY4/NjA0LTE2NjYxMzIx/ODAtODU5OC5wbmc.jpeg" alt="Cover for Suntheca Music Pres. BOSSA LOUNGE Collection Vol. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -2403,14 +2403,14 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 29</li>
             <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 44</li>
-            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 53</li>
+            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 48</li>
+            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/B1zpd31arE-9a00IqLTgDJq2PsQpWBPOnKvwUzdBXog/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTg2/OTQ2LTE1MzgxMjgw/MDItODQxOS5qcGVn.jpeg" alt="Cover for Late At Night" style="max-width:120px; height:auto;" />
       </td>
@@ -2430,13 +2430,13 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 22</li>
             <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 42</li>
+            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad15e346fcc848b1371c2205c2e5fd2f.png" alt="Cover for Live It Now" style="max-width:120px; height:auto;" />
       </td>
@@ -2459,7 +2459,7 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>89</td>
       <td>
           <img src="https://i.discogs.com/L58d6s5GG76wa-TcJAxhdq0Qm9JH3orfiV8m0FzTMsY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDEw/MjU2LTE2NzU2ODEy/MjEtMjE1NC5qcGVn.jpeg" alt="Cover for So Lost in Your Love" style="max-width:120px; height:auto;" />
       </td>
@@ -2486,14 +2486,14 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       <td>
         <ul>
             <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 30</li>
-            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 33</li>
-            <li> <a href="{{ "/tags/zen" | relative_url }}">zen</a> # 67</li>
+            <li> <a href="{{ "/tags/zen" | relative_url }}">zen</a> # 34</li>
+            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 68</li>
             <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>78</td>
       <td>
       </td>
       <td>2022-04-14</td>
@@ -2514,7 +2514,7 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for Lemongrass Garden Vol.2" style="max-width:120px; height:auto;" />
       </td>
@@ -2545,7 +2545,7 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/Uh-czjxeoY3nSAEe-qXnd2JqTZsk-u9vyl6vwFYa3-k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODY4/NjA0LTE2NjYxMzIx/ODAtODU5OC5wbmc.jpeg" alt="Cover for Spa Collection, Vol. 4 (An Inspiring Collection of Lounge Music Selected By the Sura Quintet)" style="max-width:120px; height:auto;" />
       </td>
@@ -2563,7 +2563,7 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e3d72d22255342e99be5c7c0161cf7a4.png" alt="Cover for Into the Sky" style="max-width:120px; height:auto;" />
       </td>
@@ -2589,8 +2589,8 @@ New age electronica blends the meditative, atmospheric qualities of new age musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 36</li>
             <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 57</li>
+            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 65</li>
             <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 92</li>
             <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 97</li>
         </ul>

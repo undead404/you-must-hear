@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T07:02:03.351Z
+date: 2025-12-06T11:49:41.709Z
 permalink: tags/emoviolence
 title: emoviolence
 ---
 
 ## emoviolence
 
-Last updated: <time datetime="2025-12-04T07:02:03.351Z">Thu Dec 04 2025 09:02:03 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T11:49:41.709Z">Sat Dec 06 2025 13:49:41 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -217,7 +217,7 @@ Emoviolence fuses the raw emotional intensity of screamo with the chaotic brutal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mathgrind" | relative_url }}">mathgrind</a> # 24</li>
+            <li> <a href="{{ "/tags/mathgrind" | relative_url }}">mathgrind</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -665,7 +665,7 @@ Emoviolence fuses the raw emotional intensity of screamo with the chaotic brutal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian-emo" | relative_url }}">russian emo</a> # 70</li>
+            <li> <a href="{{ "/tags/russian-emo" | relative_url }}">russian emo</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -981,7 +981,7 @@ Emoviolence fuses the raw emotional intensity of screamo with the chaotic brutal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 89</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1041,7 +1041,7 @@ Emoviolence fuses the raw emotional intensity of screamo with the chaotic brutal
       <td>
         <ul>
             <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 23</li>
-            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 58</li>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 41</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T07:05:35.382Z
+date: 2025-12-06T11:57:53.085Z
 permalink: tags/ska-punk
 title: ska punk
 ---
 
 ## ska punk
 
-Last updated: <time datetime="2025-12-04T07:05:35.382Z">Thu Dec 04 2025 09:05:35 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T11:57:53.085Z">Sat Dec 06 2025 13:57:53 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
   </thead>
   <tbody>
     <tr>
-      <td>10</td>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1f742149ed5615768f316dc0771b3b0f.png" alt="Cover for More Specials (Deluxe Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -51,7 +51,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/51c27db2ac9fcabb09c439b5167f5038.png" alt="Cover for Fishbone" style="max-width:120px; height:auto;" />
       </td>
@@ -70,7 +70,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8d828ff6e2144a9f9b8749746b018be8.png" alt="Cover for Energy" style="max-width:120px; height:auto;" />
       </td>
@@ -85,11 +85,12 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       <td>
         <ul>
             <li> <a href="{{ "/tags/skacore" | relative_url }}">skacore</a> # 53</li>
+            <li> <a href="{{ "/tags/punk-revival" | relative_url }}">punk revival</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/pmXRIZs2_4KyR5jdqks2WbYUexn9O6kctKOIkwzcezw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTAx/NjM3LTE1NDY5Nzkz/NzMtNzM1MS5qcGVn.jpeg" alt="Cover for El Circo" style="max-width:120px; height:auto;" />
       </td>
@@ -109,13 +110,13 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       <td>
         <ul>
             <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 12</li>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 18</li>
             <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 72</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cd04c471d99d45a4c53abca61cdef493.png" alt="Cover for Operation Ivy" style="max-width:120px; height:auto;" />
       </td>
@@ -135,7 +136,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/41035efdd80afecde40410c7c5e0e739.png" alt="Cover for 40oz. To Freedom" style="max-width:120px; height:auto;" />
       </td>
@@ -155,7 +156,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/eff6c82cab3941babbff888eb9e99161.png" alt="Cover for No Doubt" style="max-width:120px; height:auto;" />
       </td>
@@ -172,7 +173,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/ncdAY2A3SvRpACATSHcBC6jMSQi7Sf3WAliNKUfUdC8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDcy/MTEtMTM4MzU1NTUw/OC02NTg3LmpwZWc.jpeg" alt="Cover for Alone In The Crowd" style="max-width:120px; height:auto;" />
       </td>
@@ -190,7 +191,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>68</td>
       <td>
       </td>
       <td>1993-05-18</td>
@@ -210,7 +211,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ac1aabf86d9d8e0f68e78132ab7423be.png" alt="Cover for Big Daddy Multitude" style="max-width:120px; height:auto;" />
       </td>
@@ -228,7 +229,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>64</td>
       <td>
       </td>
       <td>1994-01-05</td>
@@ -246,7 +247,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0e9c12d7f8a7319ec103b73a87f889d7.png" alt="Cover for Sublime" style="max-width:120px; height:auto;" />
       </td>
@@ -266,7 +267,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c60ca1d7e31b61169f4fd3c68b0b80bc.png" alt="Cover for The Beacon Street Collection" style="max-width:120px; height:auto;" />
       </td>
@@ -286,7 +287,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8bbd19c5b25c4b86cbde3315381946bf.png" alt="Cover for Everything Sucks" style="max-width:120px; height:auto;" />
       </td>
@@ -304,7 +305,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/faa67e346b164f08cfeb0f5313b564a8.png" alt="Cover for ...And Out Come the Wolves" style="max-width:120px; height:auto;" />
       </td>
@@ -319,13 +320,13 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 30</li>
             <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 68</li>
-            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>65</td>
       <td>
       </td>
       <td>1995-08-22</td>
@@ -342,27 +343,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>41</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f2ce1ac00e82b7b6b2ada0bb588d3929.png" alt="Cover for Firme" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1995-10-10</td>
-      <td>Voodoo Glow Skulls</td>
-      <td>Firme</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ska" | relative_url }}">ska</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/skacore" | relative_url }}">skacore</a> # 8</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/04797853e460d46e290e68d652ef1f6a.png" alt="Cover for Tragic Kingdom" style="max-width:120px; height:auto;" />
       </td>
@@ -383,7 +364,27 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>60</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f2ce1ac00e82b7b6b2ada0bb588d3929.png" alt="Cover for Firme" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995-10-10</td>
+      <td>Voodoo Glow Skulls</td>
+      <td>Firme</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ska" | relative_url }}">ska</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/skacore" | relative_url }}">skacore</a> # 8</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
       <td>
       </td>
       <td>1996</td>
@@ -402,7 +403,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/H3hk_1jwz_5n9exZ1KAIuvtT5cE4UR3-vzaa0u-kKkI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTA4/MDU5LTE2NTk3MDEx/NDAtNDA1NC5qcGVn.jpeg" alt="Cover for Never Look Back" style="max-width:120px; height:auto;" />
       </td>
@@ -420,7 +421,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/53bbf4dc1b0fb1ba29906d892795323b.png" alt="Cover for Goldfinger" style="max-width:120px; height:auto;" />
       </td>
@@ -438,7 +439,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/25609563cece4084a5a52c8aa559907f.png" alt="Cover for Destruction By Definition" style="max-width:120px; height:auto;" />
       </td>
@@ -457,7 +458,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ca4172637c984cf5cc3ea77c49bf26ea.png" alt="Cover for Turn the Radio Off" style="max-width:120px; height:auto;" />
       </td>
@@ -476,7 +477,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a3afb1101bb6c0aadd83e7ac4c75725e.png" alt="Cover for Losing Streak" style="max-width:120px; height:auto;" />
       </td>
@@ -496,7 +497,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/5zOPitbXyYm7PNFV2FaMTgTebN5YxdzIBOWXzZxgN5Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNzEx/NC0xNDYyMDc3MTY0/LTExNjcuanBlZw.jpeg" alt="Cover for Let&#x60;s Face It" style="max-width:120px; height:auto;" />
       </td>
@@ -517,7 +518,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/21a1a9361f3b1a4e2f405806e2252668.png" alt="Cover for Fush Yu Mang (20th Anniversary Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -538,7 +539,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4667944bb41cd25d1d124ef30474d38e.png" alt="Cover for Let&#39;s Face It" style="max-width:120px; height:auto;" />
       </td>
@@ -558,7 +559,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
       </td>
       <td>1997-03-18</td>
@@ -576,7 +577,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b6fda02f29fa4188bcb92d2149134259.png" alt="Cover for Hang-Ups" style="max-width:120px; height:auto;" />
       </td>
@@ -595,7 +596,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>84</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/96b8d93c76ca4eb8aac74acb34e89069.png" alt="Cover for Greased" style="max-width:120px; height:auto;" />
       </td>
@@ -613,7 +614,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>55</td>
       <td>
       </td>
       <td>1997-11-25</td>
@@ -630,7 +631,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/BauNcgbDQvCF6d1E523G1H6Z_htDIqZSA-SMAaYDi58/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjIw/OTItMTI4NDY2MDEz/MC5qcGVn.jpeg" alt="Cover for Why Do They Rock So Hard" style="max-width:120px; height:auto;" />
       </td>
@@ -648,7 +649,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/19652d744b7e484cace70cd071d8a0d9.png" alt="Cover for Keasbey Nights" style="max-width:120px; height:auto;" />
       </td>
@@ -668,7 +669,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>92</td>
       <td>
       </td>
       <td>1998-04-21</td>
@@ -686,7 +687,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
       </td>
       <td>1998-07-17</td>
@@ -705,7 +706,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>34</td>
       <td>
       </td>
       <td>1998-08-11</td>
@@ -722,7 +723,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7da7a1a48cba43ac8e81bf1b1026080a.png" alt="Cover for Hello Rockview" style="max-width:120px; height:auto;" />
       </td>
@@ -740,7 +741,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dec68faf3de3b7bdfdab33924e92a3d5.png" alt="Cover for Why Do They Rock So Hard?" style="max-width:120px; height:auto;" />
       </td>
@@ -758,25 +759,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/g39JeQoGj28wZGN0vrYssp3tNMoYuJi2Orhx2Ru2kng/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzky/NjItMTI3MDIxMTI3/NS5qcGVn.jpeg" alt="Cover for Goodbye Blue &amp; White" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1999</td>
-      <td>Less Than Jake</td>
-      <td>Goodbye Blue &amp; White</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>52</td>
+      <td>49</td>
       <td>
       </td>
       <td>1999</td>
@@ -794,7 +777,25 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>100</td>
+      <td>
+          <img src="https://i.discogs.com/g39JeQoGj28wZGN0vrYssp3tNMoYuJi2Orhx2Ru2kng/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzky/NjItMTI3MDIxMTI3/NS5qcGVn.jpeg" alt="Cover for Goodbye Blue &amp; White" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>Less Than Jake</td>
+      <td>Goodbye Blue &amp; White</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b4b29225191cb6a1d02f60ced96704d2.png" alt="Cover for No Gods &#x2F; No Managers" style="max-width:120px; height:auto;" />
       </td>
@@ -816,7 +817,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/3dQY2tnHjxWNa8fjOoTjRBOphyDtrqgcoItQ9UQ9Hho/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDIy/ODYtMTQ4NzcyMjc0/My04NTQyLmpwZWc.jpeg" alt="Cover for 2002 - A Jackknife To A Swan" style="max-width:120px; height:auto;" />
       </td>
@@ -834,7 +835,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d7f0a64d190f3dc2b1c6444c73c0fc24.png" alt="Cover for Stomping Ground" style="max-width:120px; height:auto;" />
       </td>
@@ -852,7 +853,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/QH-D9KeeW3FwsPVyg-5VyvDibCTljdy3zPsserJ4VHU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MTIw/My0xMjgwMTk5MzQ2/LmpwZWc.jpeg" alt="Cover for Crack Rock Steady EP&#x2F;Squatta&#39;s Paradise" style="max-width:120px; height:auto;" />
       </td>
@@ -870,7 +871,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bee7b0ad3fee382de11aafb09252fe0e.png" alt="Cover for Planeta Eskoria" style="max-width:120px; height:auto;" />
       </td>
@@ -890,7 +891,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e258cc40110747b7ab38a6f25feae4e7.png" alt="Cover for Borders &amp; Boundaries" style="max-width:120px; height:auto;" />
       </td>
@@ -908,7 +909,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f37b419f5b906bfb968dd25f8fc1612d.png" alt="Cover for Rock The Plank" style="max-width:120px; height:auto;" />
       </td>
@@ -928,7 +929,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>80</td>
       <td>
       </td>
       <td>2001-06</td>
@@ -945,7 +946,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/-eFJNBFIRRgSM6LE-VtXf48Ff6CbUZ33TH2yXUgu3BY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI2/NDYtMTIyNjgxMjI1/OC5qcGVn.jpeg" alt="Cover for Pound For The Sound" style="max-width:120px; height:auto;" />
       </td>
@@ -963,7 +964,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/167ca36f7d2e4c6bcca4ace8848ceb2f.png" alt="Cover for Smash Mouth" style="max-width:120px; height:auto;" />
       </td>
@@ -984,7 +985,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/285b36b49f1106626efb9b5d7b95cf95.png" alt="Cover for Que Corra La Voz" style="max-width:120px; height:auto;" />
       </td>
@@ -1004,7 +1005,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bd72b5a52067f32c360d725553de38d2.png" alt="Cover for Cheer Up!" style="max-width:120px; height:auto;" />
       </td>
@@ -1022,7 +1023,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>35</td>
       <td>
       </td>
       <td>2002-07-09</td>
@@ -1039,7 +1040,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>95</td>
       <td>
       </td>
       <td>2002-09-17</td>
@@ -1056,7 +1057,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
       </td>
       <td>2003-03-11</td>
@@ -1075,7 +1076,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/22f0dbfa11fe41fbb51d6a8d25a45537.png" alt="Cover for Anthem" style="max-width:120px; height:auto;" />
       </td>
@@ -1094,7 +1095,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f290694d78a0d4234665881479a0856d.png" alt="Cover for Indestructible" style="max-width:120px; height:auto;" />
       </td>
@@ -1108,12 +1109,12 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 24</li>
+            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/22e31f26fae54946415ef4bae2935075.png" alt="Cover for Everything Goes Numb" style="max-width:120px; height:auto;" />
       </td>
@@ -1131,7 +1132,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>93</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6eb815963bd648828c9f39ac19ae57a9.png" alt="Cover for The Singles 1992-2003" style="max-width:120px; height:auto;" />
       </td>
@@ -1150,7 +1151,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
       </td>
       <td>2004</td>
@@ -1172,7 +1173,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c68a428b8b7d3b733fcab174f0ec2a36.png" alt="Cover for Andiamo" style="max-width:120px; height:auto;" />
       </td>
@@ -1191,7 +1192,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f9d0b9d9796c92cd4b8ff4f975c6be09.png" alt="Cover for Fuck World Trade" style="max-width:120px; height:auto;" />
       </td>
@@ -1212,7 +1213,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/Xf61vcl8zEsmg9zZk7NUZUiic4p85p-fcVVOXQDMwxc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzQ4/NDktMTU3MzU0MjE1/NC00MzkzLmpwZWc.jpeg" alt="Cover for Live From Toronto: Songs In The Key Of Eh" style="max-width:120px; height:auto;" />
       </td>
@@ -1230,7 +1231,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c15f01b9d2d038b5589c9cc2bc6fe0b.png" alt="Cover for Operation Ivy (2007 Remaster)" style="max-width:120px; height:auto;" />
       </td>
@@ -1248,7 +1249,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad496c205eeef84b5c1527ae3f506f4e.png" alt="Cover for Album Minus Band" style="max-width:120px; height:auto;" />
       </td>
@@ -1267,7 +1268,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d1fd5f33de34837c7a929d89050fc097.png" alt="Cover for We&#39;re Not Happy &#39;til You&#39;re Not Happy" style="max-width:120px; height:auto;" />
       </td>
@@ -1285,7 +1286,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f7aec1a40e8ffa76d3d5e7eaa916768d.png" alt="Cover for Destroy To Create" style="max-width:120px; height:auto;" />
       </td>
@@ -1304,7 +1305,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a362436388024335c3cc9ac413d6af6f.png" alt="Cover for War Profiteering Is Killing Us All" style="max-width:120px; height:auto;" />
       </td>
@@ -1324,7 +1325,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>39</td>
       <td>
       </td>
       <td>2005-10</td>
@@ -1344,27 +1345,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>12</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7f3934ab348344baa3987e980771d980.png" alt="Cover for The Ruff Guide to Genre-Terrorism" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2006</td>
-      <td>Sonic Boom Six</td>
-      <td>The Ruff Guide to Genre-Terrorism</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ska" | relative_url }}">ska</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>18</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/zuc7OHfopBKAhONgn8E7GEwfOgpDPGmeQlOLTprYxZM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NzMx/NTktMTMwMDM4Njg2/Mi5qcGVn.jpeg" alt="Cover for The Ruff-Guide To Genre-Terrorism" style="max-width:120px; height:auto;" />
       </td>
@@ -1384,7 +1365,27 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>89</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7f3934ab348344baa3987e980771d980.png" alt="Cover for The Ruff Guide to Genre-Terrorism" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Sonic Boom Six</td>
+      <td>The Ruff Guide to Genre-Terrorism</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ska" | relative_url }}">ska</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
       <td>
       </td>
       <td>2006-03-07</td>
@@ -1401,7 +1402,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>98</td>
       <td>
       </td>
       <td>2006-05-09</td>
@@ -1418,7 +1419,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/98c54572d670455aa0ae9ed9caf125a8.png" alt="Cover for In with the Out Crowd" style="max-width:120px; height:auto;" />
       </td>
@@ -1437,7 +1438,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee418118fa324efd9a171201fb7a9172.png" alt="Cover for Goodbye Cool World" style="max-width:120px; height:auto;" />
       </td>
@@ -1455,7 +1456,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>74</td>
       <td>
       </td>
       <td>2006-06-27</td>
@@ -1474,7 +1475,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>88</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d26b91dd4bf34ec09ee3060d19ed6f2b.png" alt="Cover for Keep It Going" style="max-width:120px; height:auto;" />
       </td>
@@ -1493,7 +1494,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ba1571283b97f27134eee46c5de72e4.png" alt="Cover for Monkeys For Nothin&#39; And The Chimps For Free" style="max-width:120px; height:auto;" />
       </td>
@@ -1511,7 +1512,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9a69cc1b302b448ec411710efdfa5bbf.png" alt="Cover for Get Warmer" style="max-width:120px; height:auto;" />
       </td>
@@ -1528,7 +1529,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/54a27578e1c550da36d3cf7aa9922a1c.png" alt="Cover for Three Cheers For Disappointment" style="max-width:120px; height:auto;" />
       </td>
@@ -1547,7 +1548,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
       </td>
       <td>2007-11-13</td>
@@ -1565,7 +1566,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6fbede544ffb4dc1b866659308d6fa82.png" alt="Cover for Hello Destiny" style="max-width:120px; height:auto;" />
       </td>
@@ -1584,7 +1585,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6e7363a8722943bf9504fcb34ea9ccd9.png" alt="Cover for GNV FLA" style="max-width:120px; height:auto;" />
       </td>
@@ -1602,7 +1603,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>97</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e6988923a8ae2e06d3226d966ae9de3b.png" alt="Cover for Lágrimas Y Gozos" style="max-width:120px; height:auto;" />
       </td>
@@ -1621,7 +1622,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>41</td>
       <td>
       </td>
       <td>2008-10-19</td>
@@ -1637,7 +1638,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>96</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d342739df688f7e76bc323ebf2fb3a42.png" alt="Cover for Never Rest In Peace" style="max-width:120px; height:auto;" />
       </td>
@@ -1655,7 +1656,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
       </td>
       <td>2009-12-08</td>
@@ -1675,7 +1676,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/f1a8OScJUr19Jn2hnIq9TOkRkdyHQXYHwF8uzRf93no/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTgz/MTYtMTM2OTc1NjA0/OC05NzkyLmpwZWc.jpeg" alt="Cover for 99 Songs of revolution" style="max-width:120px; height:auto;" />
       </td>
@@ -1693,7 +1694,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>94</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1f3e3539e68348abbf34234f0edf4ebd.png" alt="Cover for From the Dumpster to the Grave" style="max-width:120px; height:auto;" />
       </td>
@@ -1711,7 +1712,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/968b88ff59db4111ac5a8411e9e382fe.png" alt="Cover for Candy Coated Fury" style="max-width:120px; height:auto;" />
       </td>
@@ -1729,7 +1730,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/230b487c4a1f4a179d882ada0977acfa.png" alt="Cover for Energia!" style="max-width:120px; height:auto;" />
       </td>
@@ -1748,12 +1749,12 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       <td>
         <ul>
             <li> <a href="{{ "/tags/austrian" | relative_url }}">austrian</a> # 6</li>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 43</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>99</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6e96d5ddfba886f534acdf5205754e64.png" alt="Cover for 99%" style="max-width:120px; height:auto;" />
       </td>
@@ -1773,7 +1774,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/771d5430a016c06ef7a0029970994929.png" alt="Cover for The Hands That Thieve" style="max-width:120px; height:auto;" />
       </td>
@@ -1791,24 +1792,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>11</td>
-      <td>
-      </td>
-      <td>2013-11-12</td>
-      <td>Less Than Jake</td>
-      <td>See the Light</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>45</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ded43529a0a00e86d4ac4f1d3ae34c63.png" alt="Cover for Sound The Alarm" style="max-width:120px; height:auto;" />
       </td>
@@ -1827,7 +1811,24 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>90</td>
+      <td>
+      </td>
+      <td>2013-11-12</td>
+      <td>Less Than Jake</td>
+      <td>See the Light</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/vBle27JQYB1ETtJWipiz6N2IN_AFR2hgVP2KF-9z0rU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTg5/MzQ5LTE1MDM1NTY5/NzQtNjg2NS5qcGVn.jpeg" alt="Cover for The Knife" style="max-width:120px; height:auto;" />
       </td>
@@ -1845,7 +1846,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bdc466d603031b919d4c88682210071e.png" alt="Cover for SKA DREAM" style="max-width:120px; height:auto;" />
       </td>
@@ -1865,7 +1866,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/eb686587b78405952a230ab9dbc32e18.png" alt="Cover for PLAYDEAD" style="max-width:120px; height:auto;" />
       </td>
@@ -1886,7 +1887,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb9f1b72089584f998c5f8260517951b.png" alt="Cover for 10,000 gecs" style="max-width:120px; height:auto;" />
       </td>
@@ -1899,12 +1900,12 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 97</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 4</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ddc763a5463eccd7afa96aaad1f33df3.png" alt="Cover for Somewhere in the Between" style="max-width:120px; height:auto;" />
       </td>

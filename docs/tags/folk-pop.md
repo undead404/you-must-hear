@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-04T07:06:19.891Z
+date: 2025-12-06T11:58:35.681Z
 permalink: tags/folk-pop
 title: folk pop
 ---
 
 ## folk pop
 
-Last updated: <time datetime="2025-12-04T07:06:19.891Z">Thu Dec 04 2025 09:06:19 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-06T11:58:35.681Z">Sat Dec 06 2025 13:58:35 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
   </thead>
   <tbody>
     <tr>
-      <td>16</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4f2f761bc740a6c8b3366c8bcb9477c6.png" alt="Cover for Parsley, Sage, Rosemary And Thyme" style="max-width:120px; height:auto;" />
       </td>
@@ -47,7 +47,7 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ddb966abda80c2e8211df4e07d1513ab.png" alt="Cover for If You Can Believe Your Eyes &amp; Ears" style="max-width:120px; height:auto;" />
       </td>
@@ -69,7 +69,7 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/81f1f6f803e1495aa99b18648115f9fc.png" alt="Cover for Those Were the Days" style="max-width:120px; height:auto;" />
       </td>
@@ -86,7 +86,7 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/663ca82848c145eca291d47ba4924268.png" alt="Cover for Gather Me" style="max-width:120px; height:auto;" />
       </td>
@@ -103,7 +103,7 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f7a0fadbea6e4d02ec1dec04669727ab.png" alt="Cover for Rubber Soul (Remastered)" style="max-width:120px; height:auto;" />
       </td>
@@ -122,7 +122,7 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/521892484cbdcd2f5ce7c958c0501914.png" alt="Cover for The Velvet Underground (45th Anniversary &#x2F; Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -139,7 +139,7 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c26c595545470d724604838e50873d95.png" alt="Cover for Gordon" style="max-width:120px; height:auto;" />
       </td>
@@ -156,7 +156,7 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/V1tJvPoT4BJ9fbn2NWeh6i8PHUWRdE8j2b3FLuhinmc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Njgz/ODMtMTM3NTY4Nzc5/MC03NDg4LmpwZWc.jpeg" alt="Cover for RAE" style="max-width:120px; height:auto;" />
       </td>
@@ -177,14 +177,14 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       <td>
         <ul>
             <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 3</li>
+            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 5</li>
             <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 12</li>
             <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 56</li>
-            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ea2ea9148c1cd470b361528ae9ae8554.png" alt="Cover for Wide Prairie" style="max-width:120px; height:auto;" />
       </td>
@@ -203,7 +203,7 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c70cda3df810b0d34904b55618e0eebe.png" alt="Cover for Help! (Remastered)" style="max-width:120px; height:auto;" />
       </td>
@@ -221,7 +221,7 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>93</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/813e5b07239db7393de316fc04a6653e.png" alt="Cover for Michigan" style="max-width:120px; height:auto;" />
       </td>
@@ -240,7 +240,7 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/12cff5079a7c4b004a70d11f1f66e0c6.png" alt="Cover for What Happens Now?" style="max-width:120px; height:auto;" />
       </td>
@@ -257,7 +257,7 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/21d9823876e34a39cae07f93f2bd71f7.png" alt="Cover for Donavon Frankenreiter" style="max-width:120px; height:auto;" />
       </td>
@@ -272,15 +272,15 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 5</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 29</li>
+            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 32</li>
             <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 68</li>
-            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 70</li>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 72</li>
-            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9735c57ab38cb7a5ea9f78da5e2de64c.png" alt="Cover for Glass Floor" style="max-width:120px; height:auto;" />
       </td>
@@ -299,7 +299,7 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/BNkmnJWuKiEQMCEoh5ER2nUnjsJkmL9PqKqvaMz1N0s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NDQ0/MzAtMTQwNjk5NjU1/Ni01ODA3LmpwZWc.jpeg" alt="Cover for Kongressen" style="max-width:120px; height:auto;" />
       </td>
@@ -319,13 +319,13 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 13</li>
             <li> <a href="{{ "/tags/svenskt" | relative_url }}">svenskt</a> # 38</li>
+            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/78bbf963adff4abcb2c5f7f9f4dce616.png" alt="Cover for The Mysterious Production of Eggs" style="max-width:120px; height:auto;" />
       </td>
@@ -339,13 +339,13 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 72</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 71</li>
             <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>94</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/86a7cd58837a41608fb62818846b82ae.png" alt="Cover for Separated by Birth" style="max-width:120px; height:auto;" />
       </td>
@@ -359,14 +359,14 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 19</li>
             <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 30</li>
-            <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 82</li>
             <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/SAUujztErmG_X3MboWEnkzJtpd1q_3DVuqp-4KIgpZg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzM0/MzgtMTI4MDI0OTU4/NS5qcGVn.jpeg" alt="Cover for Live at The Music Hall of Williamsburg" style="max-width:120px; height:auto;" />
       </td>
@@ -385,7 +385,7 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e01a1e172de940f7c07249dd61bcf3b3.png" alt="Cover for The Animal Years" style="max-width:120px; height:auto;" />
       </td>
@@ -403,7 +403,7 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/616ad4c36d342fa882bcaed4b84ba9ce.png" alt="Cover for My Life Will..." style="max-width:120px; height:auto;" />
       </td>
@@ -421,7 +421,7 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8f480ff41b247897816a0619f3e5f2d7.png" alt="Cover for Ananda" style="max-width:120px; height:auto;" />
       </td>
@@ -434,12 +434,12 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 21</li>
+            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9e7e930c5dbe4e1cce1b84c7dcf95703.png" alt="Cover for The Mourning, The Silver, The Bell" style="max-width:120px; height:auto;" />
       </td>
@@ -456,7 +456,7 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>88</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/93e3971c0a3b5bb6449ed1d4cdd9a128.png" alt="Cover for No Kung Fu" style="max-width:120px; height:auto;" />
       </td>
@@ -474,7 +474,7 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b26c5a885ff648f1b8821541c246cf38.png" alt="Cover for Beautiful Sleepyhead and the Laughing Yaks" style="max-width:120px; height:auto;" />
       </td>
@@ -492,7 +492,7 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/00f1ff6c2bcb42b3c283a72d3212d12a.png" alt="Cover for Exit" style="max-width:120px; height:auto;" />
       </td>
@@ -509,7 +509,26 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>44</td>
+      <td>
+          <img src="https://i.discogs.com/aefu37em28SOZTairDyKr9sSl7DYwRdoaGLxAyvBxjI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDAx/ODA4LTE1MjYzMzgx/ODAtMjU4NC5qcGVn.jpeg" alt="Cover for All The Lost Souls (Deluxe Edition)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>James Blunt</td>
+      <td>All The Lost Souls (Deluxe Edition)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab6deedacd75830e56464000642beae4.png" alt="Cover for Slør" style="max-width:120px; height:auto;" />
       </td>
@@ -529,26 +548,7 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
     </tr>
     <tr>
-      <td>57</td>
-      <td>
-          <img src="https://i.discogs.com/aefu37em28SOZTairDyKr9sSl7DYwRdoaGLxAyvBxjI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDAx/ODA4LTE1MjYzMzgx/ODAtMjU4NC5qcGVn.jpeg" alt="Cover for All The Lost Souls (Deluxe Edition)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2008</td>
-      <td>James Blunt</td>
-      <td>All The Lost Souls (Deluxe Edition)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>21</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a678c3614be1431ca39b6a0b3b7c97e4.png" alt="Cover for Take One" style="max-width:120px; height:auto;" />
       </td>
@@ -565,7 +565,7 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e24ca3b43650ddd705583a6a936cfaa0.png" alt="Cover for Pretty. Odd." style="max-width:120px; height:auto;" />
       </td>
@@ -584,7 +584,7 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a98f0698c248c3c1b0b87e240099b8ec.png" alt="Cover for Be OK" style="max-width:120px; height:auto;" />
       </td>
@@ -599,13 +599,13 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 13</li>
             <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 52</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>95</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5732d53ec2214e939f6aab5454aca109.png" alt="Cover for Love Is Overtaking Me" style="max-width:120px; height:auto;" />
       </td>
@@ -622,7 +622,7 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4b5bd499be20581718de6c6632e67ced.png" alt="Cover for ランプ幻想" style="max-width:120px; height:auto;" />
       </td>
@@ -637,12 +637,12 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       <td>
         <ul>
             <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 4</li>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 97</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 15</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/90949e55bb3a4c69ccc2db2ce9e94ef7.png" alt="Cover for Here We Go Magic" style="max-width:120px; height:auto;" />
       </td>
@@ -659,7 +659,7 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/20dc6c1bfa274728bbe0c18a4e3b0d96.png" alt="Cover for Blue Roses" style="max-width:120px; height:auto;" />
       </td>
@@ -677,28 +677,29 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>2</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/01758de981064a879050e9c1ca61211a.png" alt="Cover for Clothes, Friends, Photos EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f2f83759a50360ff954861c223a5e777.png" alt="Cover for evermore" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
-      <td>Peter and Kerry</td>
-      <td>Clothes, Friends, Photos EP</td>
+      <td>Taylor Swift</td>
+      <td>evermore</td>
       <td>
         <ul>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 2</li>
-            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 5</li>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 52</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 88</li>
+            <li> <a href="{{ "/tags/chamber-rock" | relative_url }}">chamber rock</a> # 6</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 16</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 55</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 65</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/wHwTD8fdqiIfSf9RViX0apehY-9H3SfZbQFbPaapCss/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjY3/ODMxLTE1OTU1ODY5/MzEtMzAxMy5qcGVn.jpeg" alt="Cover for FOlKlORE" style="max-width:120px; height:auto;" />
       </td>
@@ -713,37 +714,37 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 2</li>
             <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 6</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 12</li>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 20</li>
             <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 88</li>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 89</li>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>36</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f2f83759a50360ff954861c223a5e777.png" alt="Cover for evermore" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/01758de981064a879050e9c1ca61211a.png" alt="Cover for Clothes, Friends, Photos EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
-      <td>Taylor Swift</td>
-      <td>evermore</td>
+      <td>Peter and Kerry</td>
+      <td>Clothes, Friends, Photos EP</td>
       <td>
         <ul>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 56</li>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 65</li>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 85</li>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 88</li>
+            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 2</li>
+            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 5</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 13</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7863ac797461424b8486ee66f9646908.png" alt="Cover for Happy Camper" style="max-width:120px; height:auto;" />
       </td>
@@ -761,7 +762,7 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/307e18fdccfa44c9a5c9ba1ea351e3b8.png" alt="Cover for An Open Letter to the Scene" style="max-width:120px; height:auto;" />
       </td>
@@ -779,7 +780,7 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8171b433c7284d3cb9518dba0052da67.png" alt="Cover for Kaleidoscope Heart" style="max-width:120px; height:auto;" />
       </td>
@@ -796,7 +797,7 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f17f8b1e91254d1583f6a9ab7c070053.png" alt="Cover for Would It Kill You?" style="max-width:120px; height:auto;" />
       </td>
@@ -815,7 +816,7 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4afe0992101c4271ac415921e35dcae7.png" alt="Cover for McCartney (Archive Collection)" style="max-width:120px; height:auto;" />
       </td>
@@ -832,7 +833,7 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d684c4b02fee4ad381e6213ddacc21c6.png" alt="Cover for Fathers Be Kind" style="max-width:120px; height:auto;" />
       </td>
@@ -850,7 +851,7 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/4XHFH3OEFSzZlf_z7iw6oYl5BpQIOMx5zdLL2X3Gkfs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MzYx/OTQtMTMwMzI0NDEy/My5qcGVn.jpeg" alt="Cover for Fortress" style="max-width:120px; height:auto;" />
       </td>
@@ -869,7 +870,7 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d08fbb920e514f5c893d95552379d3fc.png" alt="Cover for +" style="max-width:120px; height:auto;" />
       </td>
@@ -886,14 +887,14 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       <td>
         <ul>
             <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 3</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 5</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 15</li>
             <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 24</li>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 86</li>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>90</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/35dbf2de8705411f8d2ad95541b3e7ee.png" alt="Cover for Replaced" style="max-width:120px; height:auto;" />
       </td>
@@ -911,7 +912,7 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/176d7c267546430db2264bccce48d1bd.png" alt="Cover for Born and Raised" style="max-width:120px; height:auto;" />
       </td>
@@ -926,13 +927,13 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       <td>
         <ul>
             <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 3</li>
+            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 6</li>
             <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 23</li>
-            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1fc91d029a2145a680f4f269d72c41c7.png" alt="Cover for The Carpenter" style="max-width:120px; height:auto;" />
       </td>
@@ -952,7 +953,7 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c1eefaf6a9f04cb3b1b42383d4f5dc11.png" alt="Cover for Sudenmorsian" style="max-width:120px; height:auto;" />
       </td>
@@ -974,7 +975,7 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>96</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ca5003223589402bb8ce5c8cf5549f73.png" alt="Cover for Harmony" style="max-width:120px; height:auto;" />
       </td>
@@ -991,7 +992,7 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/418286bef6d34a0899824b05f265c2f1.png" alt="Cover for Magpie And The Dandelion" style="max-width:120px; height:auto;" />
       </td>
@@ -1008,7 +1009,7 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>98</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c0c6c0663a0829a1d2279c60264fd7f3.png" alt="Cover for Modern Times - Epilogue" style="max-width:120px; height:auto;" />
       </td>
@@ -1044,7 +1045,7 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/dOs0Qikc474hDq7yAjlGQUbKoelstVo5VSm5_HJzptY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MjY0/NTQtMTQ3OTc2Mjg2/MS05MDQ1LmpwZWc.jpeg" alt="Cover for Four (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -1067,7 +1068,7 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/acec2d8c0cfe1b2df2babd65765a2331.png" alt="Cover for Wanted on Voyage (Expanded Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1085,7 +1086,7 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3470ec126d8424a9de865f8c0bd83eb6.png" alt="Cover for Meet The Vamps" style="max-width:120px; height:auto;" />
       </td>
@@ -1102,7 +1103,7 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/381a619af927b0b06da3564382803ba6.png" alt="Cover for Never Been Better (Expanded Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1120,7 +1121,7 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e5bba2458200db2a9bca01be3d125c4c.png" alt="Cover for Hasta la Raíz" style="max-width:120px; height:auto;" />
       </td>
@@ -1142,7 +1143,7 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>83</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0b29e431d57a3aceb80df7aeae6a34f8.png" alt="Cover for Beneath The Skin (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -1159,7 +1160,7 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3874a4631f7eed34f9417c91bf594c5c.png" alt="Cover for Glitter &amp; Gold" style="max-width:120px; height:auto;" />
       </td>
@@ -1176,7 +1177,7 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b9cf9a458b08ab6d98bef14ee1b2bf13.png" alt="Cover for Miss You 2" style="max-width:120px; height:auto;" />
       </td>
@@ -1195,13 +1196,13 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 30</li>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 43</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 57</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/423097b36060077013f240e8804a066d.png" alt="Cover for My Wild West" style="max-width:120px; height:auto;" />
       </td>
@@ -1218,7 +1219,7 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/fnekDbWt0fyOJfRp3i4Us7MktVmVFQftw6DDX3J8uKY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MDUx/NzAtMTQ2NDk3MTAz/Ni0xOTM0LmpwZWc.jpeg" alt="Cover for Inner Journey Out" style="max-width:120px; height:auto;" />
       </td>
@@ -1238,7 +1239,7 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bc2dca805edfac5da918210d4fe93718.png" alt="Cover for What We Live For" style="max-width:120px; height:auto;" />
       </td>
@@ -1255,7 +1256,7 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/03a743997f3192ba9002bca02bed8b7e.png" alt="Cover for Painting (Masterpiece)" style="max-width:120px; height:auto;" />
       </td>
@@ -1272,7 +1273,7 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8b73ad5fa5e5ba21d8dbe4eab0099597.png" alt="Cover for Schmilco" style="max-width:120px; height:auto;" />
       </td>
@@ -1290,7 +1291,7 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/U9DkEb61CSksxltG0JZJwPpx5bmpAAFDgddOtN1IuKc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDY3/MjYxLTE0OTEwNDU1/NjYtMjIyNy5wbmc.jpeg" alt="Cover for Vi Er Ikke Kønne Nok Til At Danse" style="max-width:120px; height:auto;" />
       </td>
@@ -1314,12 +1315,12 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       <td>
         <ul>
             <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 22</li>
-            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 39</li>
+            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/66rZWSKEqANz9EEjBP1g-FC641U1z0hAA-20BzgRPGQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDk0/NzY3LTE2MjMzNjI3/MzktNDExMS5qcGVn.jpeg" alt="Cover for sOLAR pOWER (dELUXE eDITION)" style="max-width:120px; height:auto;" />
       </td>
@@ -1336,12 +1337,12 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-zealand" | relative_url }}">new zealand</a> # 94</li>
+            <li> <a href="{{ "/tags/new-zealand" | relative_url }}">new zealand</a> # 7</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>99</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6b2cdf70916dbb235c23ef67e256bf95.png" alt="Cover for Perennial" style="max-width:120px; height:auto;" />
       </td>
@@ -1358,7 +1359,7 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/522fe3f2331081c1cd83dfa313755019.png" alt="Cover for The Attractions of Youth" style="max-width:120px; height:auto;" />
       </td>
@@ -1376,7 +1377,7 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ba8f409c9812def364a2c1535c1b51c.png" alt="Cover for Flicker (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -1393,7 +1394,7 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7923448319ef855ae414a624ea5db12f.png" alt="Cover for Mariners Apartment Complex" style="max-width:120px; height:auto;" />
       </td>
@@ -1406,14 +1407,14 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 8</li>
             <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 23</li>
             <li> <a href="{{ "/tags/alternativo" | relative_url }}">alternativo</a> # 32</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/fHgPz8VUqWejvKrcd4RK53X6ycQxNJy3qt39Ln6-CaY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzY0/MDI2LTE1NjA2MDk5/OTMtNDAwMy5qcGVn.jpeg" alt="Cover for Busyhead" style="max-width:120px; height:auto;" />
       </td>
@@ -1431,7 +1432,7 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/57230919bf0fc0ca6f4edccd240edc2d.png" alt="Cover for Life After" style="max-width:120px; height:auto;" />
       </td>
@@ -1448,7 +1449,7 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/LaXn6WpA9QBOp31pEt538Y6_5qrCt2eqR_ijdKJMIT0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTM5/NDY0LTE2MzY4NDY1/NDUtNzUwNi5qcGVn.jpeg" alt="Cover for RED (Taylor&#39;s Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1470,7 +1471,7 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bdeec00fa9f31722da445943e0d65af0.png" alt="Cover for Pipe Dream" style="max-width:120px; height:auto;" />
       </td>
@@ -1495,15 +1496,15 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       <td>
         <ul>
             <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 21</li>
-            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 31</li>
-            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 46</li>
+            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 55</li>
+            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 70</li>
             <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 72</li>
             <li> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/N-_XY02893LeOq5yf-hXcS5r8q3Vlu0UfgGbRnR3HFY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjMx/NDIzLTE2MjE0NTMx/NzctMzI5NS5qcGVn.jpeg" alt="Cover for Good Luck Everybody" style="max-width:120px; height:auto;" />
       </td>
@@ -1523,7 +1524,7 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/UQP0OpmPflhSWzZb9AIBxW4ASfEh9-u-pcdZ9rgS3bI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjY2/MDgyLTE1NzkyMTM5/NDEtNjkwMS5qcGVn.jpeg" alt="Cover for see you tomorrow" style="max-width:120px; height:auto;" />
       </td>
@@ -1542,7 +1543,7 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/H3tvfehEuXoJ0EwE1oxbJJtI2X6xOMa7OtxZGxkD7go/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTY3/ODE1LTE2MDg1Mzg4/NjEtMzQzNi5qcGVn.jpeg" alt="Cover for folklore (Deluxe Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1561,14 +1562,14 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
         <ul>
             <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 2</li>
             <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 8</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 11</li>
             <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 43</li>
             <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 85</li>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2b1ed6bdaba7aa57d94c1bdfb805e972.png" alt="Cover for evermore (deluxe version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1582,14 +1583,15 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/chamber-rock" | relative_url }}">chamber rock</a> # 2</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 6</li>
             <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 14</li>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 58</li>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 95</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>84</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b47b15ad89d70ea59f5c330dc097e8d6.png" alt="Cover for Patchwork" style="max-width:120px; height:auto;" />
       </td>
@@ -1606,7 +1608,7 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a2f9958623bdfc2225e4d35a2f7030a6.png" alt="Cover for Young Heart" style="max-width:120px; height:auto;" />
       </td>
@@ -1623,7 +1625,7 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9da8add22ca31771a440d2a6f7615f6d.png" alt="Cover for SOUR" style="max-width:120px; height:auto;" />
       </td>
@@ -1639,17 +1641,17 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       <td>
         <ul>
             <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 2</li>
+            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 8</li>
             <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 8</li>
             <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 15</li>
             <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 27</li>
             <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 30</li>
             <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 85</li>
-            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/708f941453e3f071547e34eaeeac9a4c.png" alt="Cover for Solar Power" style="max-width:120px; height:auto;" />
       </td>
@@ -1667,7 +1669,7 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ac8dd2c0beaeedeb7a4536427668bf99.png" alt="Cover for Heathens" style="max-width:120px; height:auto;" />
       </td>
@@ -1686,7 +1688,7 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bab022a4cc4a16f5bab01c6c95e6be8d.png" alt="Cover for The Gods We Can Touch" style="max-width:120px; height:auto;" />
       </td>
@@ -1699,12 +1701,12 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 65</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 36</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/XsCJUS6ES3Q3OjvvnjRjb4d_OjpoW9rF70HHj42yrqg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDA3/OTcxLTE2NDM4OTk5/MTEtMjI5MS5qcGVn.jpeg" alt="Cover for I Was &#x2F; I Am" style="max-width:120px; height:auto;" />
       </td>
@@ -1722,7 +1724,7 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0f2b4d9fe20a193071bfd16aefa6ad08.png" alt="Cover for In Our Own Sweet Time" style="max-width:120px; height:auto;" />
       </td>
@@ -1735,12 +1737,12 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 78</li>
+            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 23</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/445e18c5e0c4a811b6b0cdc5ea2211d2.png" alt="Cover for &quot;In Case I Make It,&quot;" style="max-width:120px; height:auto;" />
       </td>
@@ -1758,7 +1760,7 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7515dc39bfb0d53e2d25b74f9ee16247.png" alt="Cover for Faking My Own Death" style="max-width:120px; height:auto;" />
       </td>
@@ -1783,31 +1785,7 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
     </tr>
     <tr>
-      <td>20</td>
-      <td>
-          <img src="https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg" alt="Cover for Come And Get It - The Best Of Apple Records" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2023</td>
-      <td>Various Artists</td>
-      <td>Come And Get It - The Best Of Apple Records</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/big-band" | relative_url }}">big band</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cajun" | relative_url }}">cajun</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 71</li>
-            <li> <a href="{{ "/tags/cajun" | relative_url }}">cajun</a> # 98</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/4mbGQ84J8H9Tlw0HkeSR3yZ3dVLTRB-r8IvQtMUqwT4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTgx/OTE4LTE2OTIxMTU3/OTYtNTAyMC5qcGVn.jpeg" alt="Cover for i care so much that i dont care at all" style="max-width:120px; height:auto;" />
       </td>
@@ -1828,7 +1806,31 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>81</td>
+      <td>
+          <img src="https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg" alt="Cover for Come And Get It - The Best Of Apple Records" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023</td>
+      <td>Various Artists</td>
+      <td>Come And Get It - The Best Of Apple Records</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/big-band" | relative_url }}">big band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cajun" | relative_url }}">cajun</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/cajun" | relative_url }}">cajun</a> # 2</li>
+            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 71</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0565e1d32bdc8621a3893988ee38d6bd.png" alt="Cover for Rolling Up the Welcome Mat" style="max-width:120px; height:auto;" />
       </td>
@@ -1846,7 +1848,7 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1e52e66d4d0b57228614c201e5ca6dd7.png" alt="Cover for Deeper Well" style="max-width:120px; height:auto;" />
       </td>
@@ -1863,7 +1865,7 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1bf012ce1e27a94f9b1627433f44f0de.png" alt="Cover for Stick Season (We&#39;ll All Be Here Forever)" style="max-width:120px; height:auto;" />
       </td>
@@ -1880,7 +1882,7 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
       </td>
       <td>2024-07-19</td>
@@ -1902,7 +1904,7 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3898a90e2a13b2c9a19757096c87f842.png" alt="Cover for folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]" style="max-width:120px; height:auto;" />
       </td>
@@ -1917,12 +1919,12 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 7</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>100</td>
       <td>
       </td>
       <td></td>
@@ -1942,13 +1944,13 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>51</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/18fa3c9a773fce1815ede15468365e60.png" alt="Cover for Girl of My Dreams" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/201b6ffde707dd6843b292e8571feac1.png" alt="Cover for Common Sense" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>Fletcher</td>
-      <td>Girl of My Dreams</td>
+      <td>Joshua Bassett</td>
+      <td>Common Sense</td>
       <td>
         <ul>
         </ul>
@@ -1959,7 +1961,7 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/61376307375d4eb708186259d0002652.png" alt="Cover for A Call from My Dream" style="max-width:120px; height:auto;" />
       </td>
@@ -1976,13 +1978,13 @@ Folk pop is a genre of music that combines elements of traditional folk music wi
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>63</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/201b6ffde707dd6843b292e8571feac1.png" alt="Cover for Common Sense" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/18fa3c9a773fce1815ede15468365e60.png" alt="Cover for Girl of My Dreams" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>Joshua Bassett</td>
-      <td>Common Sense</td>
+      <td>Fletcher</td>
+      <td>Girl of My Dreams</td>
       <td>
         <ul>
         </ul>
